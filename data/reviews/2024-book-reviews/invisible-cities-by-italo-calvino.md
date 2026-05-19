@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.312Z'
 slug: invisible-cities-by-italo-calvino
-wordCount: 4180
+wordCount: 4135
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Fiction
@@ -30,13 +29,15 @@ If it doesn’t make sense, don’t worry–the book’s Wikipedia page has [a t
 
 **Anyway**: If everything from [Jane Austen's novels](https://www.janeaustenbooks.net/collections/cookbooks) to _[The Witcher](https://witcherkitchen.com/the-witcher-official-cookbook/)_ [series](https://witcherkitchen.com/the-witcher-official-cookbook/) has its own fan cookbook, why not _Invisible Cities_? And if _Invisible Cities_ has been adapted into everything from [abstract art](https://rodcorp.typepad.com/photos/art_2003/ic_trudeersilia_3_forweb.html) to [an opera performed in an active train station](https://youtu.be/GyceQFpSOjI?si=DAkEUczQrFDXHsLU), why not a cookbook? Alarmingly, it may not exist & we won’t know why. More alarmingly, it may exist & we just can’t find it.
 
-> 1.  ## The basic premise disallows it
->     
+1.  ## The basic premise disallows it
+    
+    1.  ### The format of the thing
+        
+    
+    2.  ### The spirit of the thing
+        
 
 For as thin as a book as this is, the complex structure & spare prose make it dense stuff to read. I can’t read it very well before bedtime or naptime, because once my mind wanders from _Invisible Cities_, I miss city after city before noticing approximately none of it has adhered to my recent memory. In that way, I would think it similar to a cooking manual. But on the other hand, _**Invisible Cities**_ **is itself no manual**. Kublai Khan remains in his palace, unable to follow Marco Polo’s steps, sometimes fearfully claiming, “Your cities do not exist. Perhaps they have never existed. It is sure they will never exist again.”
-
-> 1.  ### The format of the thing
->     
 
 “More than 55 recipes inspired by Calvino’s world-famous _Invisible Cities_” is what our little spiky, embossed blurb should say on the front cover. More than 55 recipes, because a single recipe from each city would not allow much in the way of menu construction. At the same time, 55 cities’ worth of menus makes a lot of work, and each city has to have their unique character expressed in the food.
 
@@ -51,9 +52,6 @@ But the opera itself drops Calvino’s basic thematic structure, focusing only o
 In the book, of course, Marco Polo formally describes fifty-five cities, plus all the cities brought up in passing during the portraits and dialogues. In the opera, the tenor Marco Polo gets only three formal city scenes, which makes Venice’s dialogue (the sixth of eight total scenes) almost rear and loom over them. I understand the time limitations of live theatre, but to me it still feels uncomfortably saccharine to let them all sing about a visible city for so long.
 
 Of course, now I’ve gone on about the opera long enough, it will loom over the rest of my book review. Suffice to say I hope our cookbook doesn’t make the same mistakes.
-
-> 2.  ### The spirit of the thing
->     
 
 Perhaps the strongest argument against us, Calvino’s writing at large simply resists adaptation in the first place. In [a 1985 interview](https://youtu.be/w2UUhi3vs7g?si=z5vMx1iPJtP0ql8x&t=343) with the BBC’s Bookmark programme, Calvino’s translator William Weaver backs up Calvino’s own claim that his work is untranslatable: “Everything is untranslatable, but Calvino’s books are particularly difficult–because although he doesn’t use words that you don’t know [...] he writes in a very special, very–deceptively simple way.”
 
@@ -89,20 +87,19 @@ And what do we do when, on the rare occasion, Italo Calvino writes clearly about
 
 As with the other adaptations, it feels more appropriate to dance in the gaps–and somehow cook as sparely as the book’s prose without ever touching the obvious. It also has to be real food that real people want to cook. We can’t just serve the front cover of my book. Much as I’d like to.
 
-> 2.  ## Invisible Cities food would taste weird
->     
+2.  ## Invisible Cities food would taste weird
+    
+    3.  ### Geographical fusion
+        
+    
+    4.  ### Anachronistic fusion
+        
 
 This sort of goes without saying. These places, other than the palace itself, are wholly fantastical, and so would their cookery. But is there anything strange enough to wholly prevent a cookbook?
-
-> 3.  ### Geographical fusion
->     
 
 I’m sorry to say that I only include this argument for thoroughness’ sake. Obviously trans-geographical fusion cuisine happens all the time, and for food in the medieval world it was well-rooted in the East-West trade routes Marco Polo himself traveled.  It might taste weird to people outside of (& unfamiliar with) the geographical regions in question, at least. But probably not weird enough to find no interest whatsoever.
 
 For instance, Dan Alexander + Co. blog mentions _Invisible Cities_ [as they consider an unwritten chapter](https://www.daitd.com/blog/invisible-cities-le-citta-invisibili/) for their book, _On the Hummus Route_, the chapter itself of Hebron unreachable. Kublai Khan’s own palace had access to chickpeas, and there are documented recipes using them ([in English!](http://www.flavorandfortune.com/ffdataaccess/article.php?ID=876) Thank you, Buell & Anderson). These trade regions have access to great ingredients from all over, and it doesn’t take much of a stretch to suppose that even invisible, ridiculously-planned cities within that Khanate can have delicious food.
-
-> 4.  ### Anachronistic fusion
->     
 
 This argument seems slightly more likely, at a glance.
 
@@ -114,34 +111,34 @@ But _Invisible Cities_ is specifically _not_ set in the 1970s. (Not that Calvino
 
 But here again on the older side of things–**when will we get over our mythic disgust of ancient foods?** I somehow keep bumping into the spices-just-covered-the-bad-meat-taste joke, despite historians debunking it [over](https://medievalcookery.blogspot.com/2007/10/medieval-food-myths.html) and [over](https://muse.jhu.edu/article/421082). And while it’s popular to eat as the royals do, there’s also a certain “eat the rich” strain that has no interest in how great leaders of the past managed to feast. Honestly, food of the common people seems more Calvino’s speed, as well. And maybe our contemporaries don’t trust 13th century Venetians & Mongolians about what to eat? It may be a silly barrier, I know, but it might well be what’s prevented our _Invisible Cities_ cookbook.
 
-> 3.  ## People who have read Invisible Cities just don’t want a cookbook
->     
+3.  ## People who have read Invisible Cities just don’t want a cookbook
+    
 
 Not that they’ve poured that much thought into it. Of 6,954 Goodreads reviews, I only get 23 hits for the word “food”. Here they are: (or skip the list–I’ll sum up the highlights after)
 
-> 1.  Fergus, Quondam Happy Face portrays the book as a “delectable Angel’s Food Cake”–that is, of escapist fantasy. (5 stars)
-> 2.  Tom mentions “shouting food vendors and markets, [. . .] coffee shops” and the call of a strawberry seller in a tribute city portrait. (5 stars)
-> 3.  Walter Arvid Marinus Schutjens: “As an avid Dungeons & Dragons [...] player this book gave me a ton of food for thought” (3 stars)
-> 4.  Aishwarya Pant laments at the tourist’s dilemma of only “eating the food and the wine someone recommended to you.” (5 stars)
-> 5.  50 Cups of Coffee describes dams providing “access to food” in Richard Dawkins’ _The Extended Phenotype_: “Perhaps too our cities are our phenotypes.” (no star rating given)
-> 6.  Paloma warns, “you’ve got to digest each city on its own the way you would take tiny bites of extremely decadent food.” (5 stars)
-> 7.  Karim Mahamed writes, “the material is solid and put together in such way that makes it food for your mind!” (4 stars)
-> 8.  Nancy Lewis quotes from Calvino’s first city, Diomira (Cities & Memory 1), “...the multicolored lamps are lighted all at once at the doors of the food stalls…” (3 stars)
-> 9.  Brian Sergi claims, “It felt especially fitting to read this as a tribute to the recently departed Anthony Bourdain; through the experience of food, Bourdain was able to illustrate the wonders of people and the places they call home, thus serving as a modern day Marco Polo.” (5 stars)
-> 10.  Quinn Monette: “Comfort food.” (5 stars)
-> 11.  Parth also excerpts the passage from Diomira. (4 stars)
-> 12.  Scott: “For those of a philosophical bent, there is plenty of food for thought here.” (5 stars)
-> 13.  Sabrina: “Beautiful, poetic, and food for thought.” (5 stars)
-> 14.  Leo Dutch characterizes the reading experience: “...the positive memories of adventure and food come to mind, but later on i remember homesickness, struggling with the heat and seeing the negative parts of cities.” (5 stars)
-> 15.  Gonçalo Matos: “Each [city] feels like a lesson, with food for thought and the most bizarre characteristics.” (5 stars)
-> 16.  Alex Lam: “Lots of food for thought - I'll be reflecting for years - but not too esoteric.” (4 stars)
-> 17.  Taylor Norman gives the Diomira quote, again. (no star rating given)
-> 18.  Linda C: “Lots of food for thought.” (3 stars)
-> 19.  Maryann portrays the book as “a cup of miso soup. I don't have it very often, so it's still exotic to me, and the little bits of onion or sprouts or whatever yumminess the cook may have put in add to the experience. It gives me pause, as something I don't consume often, and I take the time to savor it.” (3 stars)
-> 20.  Anita: “This particular text is nothing but food for thought.” (5 stars)
-> 21.  Miriam gives tip #3 for enjoying Italo Calvino’s _Invisible Cities_: “Let anachronisms (traffic islands, modern plumbing) serve as food for thought. Don't dismiss them as inaccuracies.” (4 stars)
-> 22.  Beenish Khan also references the tourist:  “...look at a city in a literary way and not just the usual mix of food, entertainment, and bucket list items.” (4 stars)
-> 23.  Bookamante: “writing a review of this book is like trying to tell what food tastes like to someone else. Salty. Bitter. Sweet.” (3 stars)
+1.  Fergus, Quondam Happy Face portrays the book as a “delectable Angel’s Food Cake”–that is, of escapist fantasy. (5 stars)
+2.  Tom mentions “shouting food vendors and markets, [. . .] coffee shops” and the call of a strawberry seller in a tribute city portrait. (5 stars)
+3.  Walter Arvid Marinus Schutjens: “As an avid Dungeons & Dragons [...] player this book gave me a ton of food for thought” (3 stars)
+4.  Aishwarya Pant laments at the tourist’s dilemma of only “eating the food and the wine someone recommended to you.” (5 stars)
+5.  50 Cups of Coffee describes dams providing “access to food” in Richard Dawkins’ _The Extended Phenotype_: “Perhaps too our cities are our phenotypes.” (no star rating given)
+6.  Paloma warns, “you’ve got to digest each city on its own the way you would take tiny bites of extremely decadent food.” (5 stars)
+7.  Karim Mahamed writes, “the material is solid and put together in such way that makes it food for your mind!” (4 stars)
+8.  Nancy Lewis quotes from Calvino’s first city, Diomira (Cities & Memory 1), “...the multicolored lamps are lighted all at once at the doors of the food stalls…” (3 stars)
+9.  Brian Sergi claims, “It felt especially fitting to read this as a tribute to the recently departed Anthony Bourdain; through the experience of food, Bourdain was able to illustrate the wonders of people and the places they call home, thus serving as a modern day Marco Polo.” (5 stars)
+10.  Quinn Monette: “Comfort food.” (5 stars)
+11.  Parth also excerpts the passage from Diomira. (4 stars)
+12.  Scott: “For those of a philosophical bent, there is plenty of food for thought here.” (5 stars)
+13.  Sabrina: “Beautiful, poetic, and food for thought.” (5 stars)
+14.  Leo Dutch characterizes the reading experience: “...the positive memories of adventure and food come to mind, but later on i remember homesickness, struggling with the heat and seeing the negative parts of cities.” (5 stars)
+15.  Gonçalo Matos: “Each [city] feels like a lesson, with food for thought and the most bizarre characteristics.” (5 stars)
+16.  Alex Lam: “Lots of food for thought - I'll be reflecting for years - but not too esoteric.” (4 stars)
+17.  Taylor Norman gives the Diomira quote, again. (no star rating given)
+18.  Linda C: “Lots of food for thought.” (3 stars)
+19.  Maryann portrays the book as “a cup of miso soup. I don't have it very often, so it's still exotic to me, and the little bits of onion or sprouts or whatever yumminess the cook may have put in add to the experience. It gives me pause, as something I don't consume often, and I take the time to savor it.” (3 stars)
+20.  Anita: “This particular text is nothing but food for thought.” (5 stars)
+21.  Miriam gives tip #3 for enjoying Italo Calvino’s _Invisible Cities_: “Let anachronisms (traffic islands, modern plumbing) serve as food for thought. Don't dismiss them as inaccuracies.” (4 stars)
+22.  Beenish Khan also references the tourist:  “...look at a city in a literary way and not just the usual mix of food, entertainment, and bucket list items.” (4 stars)
+23.  Bookamante: “writing a review of this book is like trying to tell what food tastes like to someone else. Salty. Bitter. Sweet.” (3 stars)
 
 No strict comment on all these reviewers’ taste, if you will, but there are a few people here **who at least in some small way have adapted the book in culinary language**: an angel food cake, a strawberry vendor, a bowl of miso soup. Not a whole cookbook here, obviously, but we can still regard them as kindred spirits.
 
@@ -149,13 +146,18 @@ No strict comment on all these reviewers’ taste, if you will, but there are a 
 
 And if we believe Pericoli, from earlier, _Invisible Cities_ is required reading for Italian architecture students, so we should have a reliable supply of readers–so long as formal architecture education doesn’t collapse. Now if they only required it in culinary school, we’d have our object.
 
-> 4.  ## Search engines are the worst
->     
+4.  ## Search engines are the worst
+    
+    5.  ### What does turn up?
+        
+    
+    6.  ### What about in Italian?
+        
+    
+    7.  ### Sadly, I am no SEO wizard
+        
 
 I must confess myself rather homespun in this regard, but in my quest to find anyone else interested in a cooking project of _Invisible Cities_, I have turned up very few candidates.
-
-> 5.  ### What does turn up?
->     
 
 Basically as close as we get is the [Valerie Stivers’](https://www.theparisreview.org/blog/2020/09/04/cooking-with-italo-calvino/) _[Eat Your Words](https://www.theparisreview.org/blog/2020/09/04/cooking-with-italo-calvino/)_ [installment](https://www.theparisreview.org/blog/2020/09/04/cooking-with-italo-calvino/) where she attempts to “invent a series of Calvino-inspired pies, interlocking like the chapters of _If on a Winter’s Night a Traveler_ and utilizing tree fruits and tree nuts from _The Baron in the Trees_.” Stivers makes five pies, and although she really only quotes _Invisible Cities_ in support of her _Baron in the Trees_ life philosophy/evaluation, it takes a sizable place in her overall reflection. Note that when she mentions “two alternate endings” she is simply referring to the two options out of the “living inferno” Marco Polo describes at the end of the book:
 
@@ -177,15 +179,9 @@ When I substitute the word “cooking” or “recipe” or “kitchen” –Goo
 
 Occasionally, I forget to add “Calvino” and end up with the cooking blogs of harried travelers.
 
-> 6.  ### What about in Italian?
->     
-
 I do not know the Italian language, but I tried anyway. The Amazon listing popped up from my Italian keywords only because “Customers who viewed this item also viewed _Le città invisibili…_”
 
  _[Italo Calvino: il sapore del racconto: Le ricette delle fiabe italiane (Leggere è un gusto)](https://www.amazon.com/-/es/Lina-Grossi/dp/8865800097)_ appears to feature 10 recipes based on Calvino’s _[Italian Folktales](https://en.wikipedia.org/wiki/Italian_Folktales)_ collection. Despite having to pare down from 200 stories, this _ricette_ equally samples different regions represented throughout that book. Not _Invisible Cities_, but another kindred project. (Unless Google Translate is really letting me down. Italian-speakers, report.)
-
-> 7.  ### Sadly, I am no SEO wizard
->     
 
 Overall with my amateur Internet-trawling, I know I’ve failed in multiple ways, because **my own previous musings** on my own barely-started _Invisible Cities_ cooking blog STILL DON’T SHOW UP AT ALL. (And I tell you not just because I’m mad about it, but also so that you don’t go searching on my behalf with your own overpowered search engine skills and accidentally turn up my blog, after all. Wait to do all that till after the book review contest.)
 

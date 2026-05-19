@@ -1,16 +1,16 @@
 ---
-title: "The WEIRDest People in the World by Joseph Henrich"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The WEIRDest People in the World by Joseph Henrich
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-weirdest-people-in-the-world-by-joseph-henrich"
-wordCount: 4259
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-weirdest-people-in-the-world-by-joseph-henrich
+wordCount: 4255
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Biology
   - Psychology
@@ -43,23 +43,23 @@ Before humanity developed farming technology, all of us had brown eyes. Then we 
 
 There are five levels of systemic evolution: genetics, ontogeny, psychology, norms, and institutions.
 
-> *   **Genetics:** Genetic evolution happens slowly on generational time-scales of thousands of years. "Fitness" is determined by what genes reproduce the most.
-> *   **Ontogeny:** Ontogeny refers to the physical development of an organism _during its own lifetime_ while genetics (or phylogeny) refers to how the organisms have evolved across lifetimes. As an example, taxi drivers have highly developed hippocampi, the part of the brain responsible for navigation.
-> *   **Psychology:** Psychology is how our brains process information. As opposed to the levels above, which are purely biological, psychology is more culturally-focused. As an example, WEIRD societies are individualistic, while non-WEIRD societies are collectivist.
-> *   **Norms:** Norms are what happens when we project our inner psychology out into the world. It is the praise we receive for jumpstarting a neighbor's car. Or the shame when someone steals a bike. These norms can become moderately calcified into habitual actions like shaking hands to greet each other.
-> *   **Institutions:** Institutions are the formalization of norms into even more calcified structures like laws, markets, corporations, and nation-states. These institutions are usually written down and change more slowly.
+*   **Genetics:** Genetic evolution happens slowly on generational time-scales of thousands of years. "Fitness" is determined by what genes reproduce the most.
+*   **Ontogeny:** Ontogeny refers to the physical development of an organism _during its own lifetime_ while genetics (or phylogeny) refers to how the organisms have evolved across lifetimes. As an example, taxi drivers have highly developed hippocampi, the part of the brain responsible for navigation.
+*   **Psychology:** Psychology is how our brains process information. As opposed to the levels above, which are purely biological, psychology is more culturally-focused. As an example, WEIRD societies are individualistic, while non-WEIRD societies are collectivist.
+*   **Norms:** Norms are what happens when we project our inner psychology out into the world. It is the praise we receive for jumpstarting a neighbor's car. Or the shame when someone steals a bike. These norms can become moderately calcified into habitual actions like shaking hands to greet each other.
+*   **Institutions:** Institutions are the formalization of norms into even more calcified structures like laws, markets, corporations, and nation-states. These institutions are usually written down and change more slowly.
 
 I like to think of these levels like Stewart Brand's pace layers—they move at different time scales. Here's Brand's pace layering:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/d2350ca3e7db5e16.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/e24d4cd0b5c65fb0.png)
 
 And here's Systemic Evolution, which moves in a slow-fast-slow pattern:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/d5068661b0946d4c.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/38f58856b365aacf.png)
 
 In addition, System Evolution moves from the inner biological world, to the outer social world:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/ab95f4a84cad9332.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/06d164c60d6a3983.png)
 
 How can we understand the evolution of these layers? To do this, we need to understand the how higher cultural layers in the evolutionary stack "fit" onto lower down biological anchors.
 
@@ -75,7 +75,7 @@ In technology, we'll often call this the "law of the adjacent possible." The iPh
 
 As another technological metaphor, think of Product-Market Fit (PMFit). PMFit says that a product will only be successful if it meets the needs of the market. Similarly, a given cultural innovation is only possible if it fits our natural biological anchor. We could call this Biological-Cultural Fit, or BCFit.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/163ab5a77f61cf66.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/6bfb744c3f13862f.png)
 
 Now that we've understood Systemic Evolution and BCFit, we can trace these over time to understand how the West got so WEIRD.
 
@@ -87,14 +87,14 @@ As apes, we didn't have the solidified norms and institutions that we've develop
 
 However, we did have two important biological instincts which provide the anchor for future cultural evolution:
 
-> *   **Polygynous Mating:** All ape species besides homo sapiens engage in polygynous mating. All future mating/marriage norms need to be built on our initial anchor of polygyny.
-> *   **Kin Altruism:** Other ape species engage in kin altruism, where individuals cooperate with close kin in order to increase genetic fitness of close relatives. For example, I may give some extra food to my hungry brother because it increases the chances of his reproduction (and doesn't hurt me too much). Many of our kin-based institutions (like patrilineal clans) are built on the biological anchor of kin altruism.
+*   **Polygynous Mating:** All ape species besides homo sapiens engage in polygynous mating. All future mating/marriage norms need to be built on our initial anchor of polygyny.
+*   **Kin Altruism:** Other ape species engage in kin altruism, where individuals cooperate with close kin in order to increase genetic fitness of close relatives. For example, I may give some extra food to my hungry brother because it increases the chances of his reproduction (and doesn't hurt me too much). Many of our kin-based institutions (like patrilineal clans) are built on the biological anchor of kin altruism.
 
 ## IV. Early Homo Sapiens (200,000 BCE - 10,000 BCE)
 
 Homo sapiens began to branch off from our ape ancestors. Many of the evolutions around this time were based on social learning and homo sapiens big brains. In fact, our ability to do social learning is what differentiates us from our ape ancestors. In the graph below, we can see how human toddlers compare to chimpanzees and orangutans on a series of cognitive tests. As you can see, humans are roughly equal to apes on tests of physical space, quantity, and causality. But we're much better than apes at social learning.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/b09f1bbe6fa611c1.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/8b123626c7bd0244.png)
 
 Homo sapiens brains are optimized for social learning. Instead of being "smart" when we come out of the womb, we start "dumb" but then pick up cultural adaptations extremely quickly. It's what makes us so flexible. Thousands of years ago, we could learn animal tracking from our community. Now, we learn the base-10 counting system.
 
@@ -124,7 +124,7 @@ _As you can see, this is a mess of potential conflicts with several possible cle
 
 This is why bilineal descent is confusing. Who is on your team? And who do you take instructions from?
 
-![](https://acximages.ennals.org/images/2021-book-reviews/eb42cbb8930ec12b.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/9dc3f84fcb6c2db1.png)
 
 Instead, we can use patrilineal descent to reduce the conflicts of interest. Henrich writes:
 
@@ -132,7 +132,7 @@ _To mitigate such conflicts, clans elevate one side of a person’s genealogy ov
 
 Patrilineal descent simplifies kin structures by turning them into an us vs. them dynamic. It's \_\_\_\_-son vs. \_\_\_\_-son (Anderson vs. Johnson).
 
-![](https://acximages.ennals.org/images/2021-book-reviews/50be3602e8700107.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/411e0c9ba2847553.png)
 
 Patrilineal descent birthed a variety of social norms like patrilocal residence (which builds bonds among a father's children), equal-stake inheritance (so all children have aligned financial incentives), incest taboos (which decrease sexual competition within the clan), and arranged marriages (to create a network of alliances). In addition, humans created **segmentary lineages**—genealogical trees with deep rituals to remember the full clan.
 
@@ -184,7 +184,7 @@ Markets spread as well. Cities applied for grants to hold violence-free markets 
 
 These voluntary organizations co-evolved with a proto-WEIRD psychology that elevated the individual over the collective, singular objects over holistic relationships, and self-focused guilt over community-given shame. In our previous kin-based culture, it was incredibly important to think of oneself in relationship to the personal contexts around us. But as voluntary associations began to form, it was increasingly important for us to provide a clear individual outward face for others to interact with, like an API.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/dfb247b4a218e916.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/f9147613d271f017.png)
 
 These voluntary organizations were possible because of _both_ the destruction of old kin-based culture _and_ the incubation of an individualistic proto-WEIRD psychology that made individuals more likely to adopt impersonal associations.
 
@@ -260,9 +260,9 @@ _"Marking this in English, words for “plagiarism” first began to spread in t
 
 With the rise of the printing press and knowledge societies, these new individualistic scientists began to operate as a collective brain. Henrich again:
 
-_The Cistercian Order, in particular, built a sprawling network of monastery-factories that deployed the latest techniques for grinding wheat, casting iron, tanning hides, fulling cloth, and cultivating grapes. At mandatory annual meetings, hundreds of Cistercian abbots shared their best technical, industrial, and agricultural practices with the entire order. This essentially threaded Europe’s collective brain with Cistercian nerves, pulsing the latest technical advances out to even the most remote monasteries."_
-
-* * *
+> _The Cistercian Order, in particular, built a sprawling network of monastery-factories that deployed the latest techniques for grinding wheat, casting iron, tanning hides, fulling cloth, and cultivating grapes. At mandatory annual meetings, hundreds of Cistercian abbots shared their best technical, industrial, and agricultural practices with the entire order. This essentially threaded Europe’s collective brain with Cistercian nerves, pulsing the latest technical advances out to even the most remote monasteries."_
+>
+> * * *
 
 These examples—individual rights, doux commerce, and an individual collective brain—are all manifestations of this new individualistic WEIRD psychology. Can we get closer though? To measure WEIRDness itself?
 
@@ -276,7 +276,7 @@ We can see this statistically by looking at the intercorrelation among BIG-5 tra
 
 The graph below (from Henrich) shows how urbanization rate correlates with BIG-5 intercorrelation.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/c48a7ad8ccdf4cdd.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/7a47c3365ebd13ab.png)
 
 This is all to say: BIG-5 personality traits are just a manifestation of WEIRD psychology and parallel co-evolution of WEIRD impersonal institutions. It's not the BIG-5, it's the WEIRD-5.
 
@@ -286,7 +286,7 @@ This is all to say: BIG-5 personality traits are just a manifestation of WEIRD p
 
 In today's article, we looked at why the West is so WEIRDly individualistic: The Church broke down kin-based structures which created space for impersonal institutions that highlighted the individual. These new institutions became embedded in people as a WEIRD individualistic psychology. (Which then led to even more impersonal institutions.) Here is how Henrich explains the whole trajectory:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/97cac6e9dcb26e94.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/c9250d6498fbdaba.png)
 
 But I'd represent it as this Loopy. Ape instincts led to the co-evolution of kin-based clans and psychology. Then The Church broke that and led to the co-evolution of WEIRD institutions and psychology.
 

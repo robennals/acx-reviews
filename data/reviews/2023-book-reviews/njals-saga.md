@@ -7,9 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:58.545Z'
 slug: njals-saga
-wordCount: 4361
+wordCount: 4326
 readingTimeMinutes: 20
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-njals-saga'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-njals-saga
 source: acx
 tags:
   - Fiction
@@ -33,41 +33,41 @@ There are only about 40,000 people in medieval Iceland. The book focuses on the 
 A typical feud goes like this:
 
 1.  Someone with a name like Hrapp the Ugly, who is ill-famed throughout the land, becomes jealous of his betters. Maybe one particular better irks him, someone with a name like Eirik The Beloved-By-All.
-    
+
 2.  Hrapp insinuates himself with you, flattering you until you believe he is your best friend. Then, once you trust him completely, he says “Eirik The Beloved-By-All is saying behind your back that you’re weak and effeminate; also maybe he’s plotting to kill you.”
-    
+
 3.  You gather your kinsmen and say “Eirik The Beloved-By-All is slandering and plotting against me, we need to stop him.” Your friends and kinsmen object “Eirik is the kindest of all men! Surely this is only the poison of Hrapp the Ugly, whispering lies into your ear.”
-    
+
 4.  You say “I have sworn to do this thing, and I call upon you as my kin to support me. If you do not, let it be known to all that you refused to help a kinsman in his time of need!”
-    
+
 5.  Your kinsmen grudgingly agree to help you. You all form a raiding party and catch Eirik The Beloved-By-All when he is out hunting with his family. He kills three of your kin, but you kill five of his; he himself escapes.
-    
+
 6.  You and your kin ride to all the neighboring houses, saying “We have slain five kinsmen of Eirik The-Beloved-By-All! Stand witness to our slaying!” This part is non-negotiable. If you don’t announce your killings to the victims’ neighbors immediately, the lawyers will destroy you in court later on.
-    
+
 7.  Months pass. You and your kin go to the Althing. Eirik and his kin are there too, and announce that they are suing you.
-    
+
 8.  You go around to all the leading men at the Althing, asking them to “support” you. The exact implications of “support” are vague, but it seems to involve standing around menacingly holding their axes while the trial is happening, in case the other side tries anything funny.
-    
+
 9.  Eirik offers to drop the suit for a weregild of 300 silver pieces per person. But you refuse to pay more than 100 silver pieces. The trial is on!
-    
+
 10.  You realize you will need a good lawyer. You call in a favor from your wife’s cousin’s husband’s uncle, an old man with a name like Hurgolf The Wise. He agrees to serve as your lawyer. He asks whether you complied with about a dozen insane technicalities, starting with “You did remember to tell your victims’ neighbors that you killed them, right?” and moving on to obscure details of the exact wording you used when presenting the suit. If you got any of these wrong, you will at best lose the suit and at worst be condemned to death.
-     
+
 11.  Hurgolf the Wise and the other side’s lawyer fight it out at the Althing! This trial is almost never a whodunit - you, not being a monster, reported the slaying to the victim’s neighbors immediately. More often, you accuse the other side of not observing all the insane technicalities. You and Eirik almost come to blows in the courthouse. Both lawyers suggest there’s a possibility that either or both sides could be condemned to death for failing to observe the technicalities. Sometimes the lawyers get condemned to death for failing to observe technicalities.
-     
+
 12.  Finally Njal (it is always Njal) offers to arbitrate. You agree. You trust Njal. Everyone trusts Njal. He is the wisest of men, and the greatest lawyer in Iceland.
-     
+
 13.  Njal considers the facts of the case. He decides on a weregild of 200 silver pieces per person. You killed five of Eirik’s kin, but he killed three of your kin, so on net you killed two of Eirik’s kin, so you owe him 400 silver pieces. But he will add an extra 100 because of one of the people you killed was an especially good guy - but then take away seventy-five because one time Eirik’s cousin’s son punched your wife’s brother. So you owe a total of 425 silver pieces.
-     
+
 14.  You pay Eirik’s kin 425 silver pieces. You embrace Eirik, and declare that you are now the closest of friends, and will defend him to the death from then on. He says the same, and gives you rich gifts, and invites you to stay at his farm the next time you’re in his part of southwest Iceland. Possibly he is so swept up in the excitement of mutual reconciliation that he waives the 425 silver piece fee entirely. You declare him the best and most munificent of men.
-     
+
 15.  All of Eirik’s kin join in this display except Eirik’s young niece, who seethes with humiliation. She tells her husband, Ragnar Of The Bloody Axe, that he must kill you, or else she will never sleep with him again.
-     
+
 16.  Ragnar Of The Bloody Axe gathers some of his kin and goes to kill you, but ends up killing five of your kin instead.
-     
+
 17.  Repeat Steps 6-13. Njal offers to arbitrate, and Eirik pays you the weregilds this time. You embrace Eirik, saying you knew all along he was an honorable and noble person and this latest weregild only further proves his excellent nature. You consider offering his son your daughter’s hand in marriage, or vice versa.
-     
+
 18.  Repeat until everyone in both your families is dead.
-     
+
 
 If you want to read about various Icelanders going through this process 124,749 times, Njal’s Saga is the book for you.
 

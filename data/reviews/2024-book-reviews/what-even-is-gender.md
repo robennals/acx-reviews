@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.819Z'
 slug: what-even-is-gender
-wordCount: 3708
+wordCount: 3695
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Society
@@ -41,18 +40,24 @@ BG give the following sketch:
 
 >   
 > “1  People have a more-or-less stable inner trait called “gender identity”.  
->                                                                                                                                          2  One’s “gender identity” is what disposes one to think of oneself as a “woman” or as a “man” (or, perhaps, as both or as neither).  
+>                                                                                                                                            
+> 2  One’s “gender identity” is what disposes one to think of oneself as a “woman” or as a “man” (or, perhaps, as both or as neither).  
 >                                                 
->
-> *                                                                                                    3  One’s “gender identity” is what disposes one to favor or avoid stereotypically feminine or masculine behaviors (or otherwise gendered behaviors).  
->                                                     
-> *                                                                                                    4  It is possible for there to be a mismatch between one’s “gender identity” and one’s physiology (in particular one’s “assigned sex” or “natal sex”).  
->                                                     
-> *                                                                                                    5  The frustration of these dispositions, or the presence of this sort of mismatch, results in a kind of distress known as “gender dysphoria” (or “gender incongruence”).  
->                                                     
-> *                                                                                                    6  The alleviation of “gender dysphoria” is the legitimate purpose of medical transition.  
->                                                     
-> *                                                                                                    7  It is one’s “gender identity”, and not one’s physiology, that properly determines whether one is a woman or a man (or both or neither).”
+
+*                                                                                                      
+    3  One’s “gender identity” is what disposes one to favor or avoid stereotypically feminine or masculine behaviors (or otherwise gendered behaviors).  
+                                                    
+*                                                                                                      
+    4  It is possible for there to be a mismatch between one’s “gender identity” and one’s physiology (in particular one’s “assigned sex” or “natal sex”).  
+                                                    
+*                                                                                                      
+    5  The frustration of these dispositions, or the presence of this sort of mismatch, results in a kind of distress known as “gender dysphoria” (or “gender incongruence”).  
+                                                    
+*                                                                                                      
+    6  The alleviation of “gender dysphoria” is the legitimate purpose of medical transition.  
+                                                    
+*                                                                                                      
+    7  It is one’s “gender identity”, and not one’s physiology, that properly determines whether one is a woman or a man (or both or neither).”
 
 This narrative is certainly better from a trans-friendly point of view than “your gender is determined inexorably by your physiology,” but upon reflection leaves us with some questions. For one, aren’t stereotypes supposed to be bad? If gender identity consists in whole or part of the propensity to “favor or avoid stereotypically feminine or masculine behaviors,” maybe the problem is just that behaviors get stereotyped in this way (with certain behaviors more problematic than others), rather than with our conception of gender. And if it is these collections of stereotypes that define the categories “man” and “woman,” shouldn’t we just do away with them to the extent possible?
 
@@ -96,10 +101,10 @@ As noted earlier, combining this analysis with a principle of gender self-identi
 
 Calling any kind of category “irreducible” sounds mysterious, but BG give lots of examples of categories where membership isn’t a function of additional facts about the members. Among them:
 
-> *   names: the set of people named “Kevin” don’t all share any one trait, nor do they form any sort of natural cluster (other than mostly being Western men). Much can be said about philosophy of names, but at first glance they’re a good candidate for an irreducible category.
-> *   Teams or clubs: BG give the particularly crisp example of Pokemon GO, where players choose to associate with one of three teams that are functionally indistinguishable except for their respective color.
-> *   Marriages or other mostly symbolic legal statuses: the set of married couples doesn’t naturally separate from the set of couples in civil unions, the set of long-term cohabitating couples raising children together, etc., other than maybe along particular societally contingent dimensions like tax burden.  
-> *   Subcultures or fandoms: two sets of teenagers might share virtually identical taste in music, clothing, etc., but identify as respectively “goth” and “emo,” and defend to the death the difference between these categories. Alternatively, one kind of person might enjoy watching every game of a particular sports team, tracking stats, playing the Fantasy version, and making bets, but do it all alone in their bedroom, while another kind might go to every tailgate and game day party but have no interest in the actual sport, and both kinds coherently identify as fans of that team (a third might participate in all of the described behaviors but grudgingly for the benefit of a friend or partner, and so not identify as a fan).
+*   names: the set of people named “Kevin” don’t all share any one trait, nor do they form any sort of natural cluster (other than mostly being Western men). Much can be said about philosophy of names, but at first glance they’re a good candidate for an irreducible category.
+*   Teams or clubs: BG give the particularly crisp example of Pokemon GO, where players choose to associate with one of three teams that are functionally indistinguishable except for their respective color.
+*   Marriages or other mostly symbolic legal statuses: the set of married couples doesn’t naturally separate from the set of couples in civil unions, the set of long-term cohabitating couples raising children together, etc., other than maybe along particular societally contingent dimensions like tax burden.  
+*   Subcultures or fandoms: two sets of teenagers might share virtually identical taste in music, clothing, etc., but identify as respectively “goth” and “emo,” and defend to the death the difference between these categories. Alternatively, one kind of person might enjoy watching every game of a particular sports team, tracking stats, playing the Fantasy version, and making bets, but do it all alone in their bedroom, while another kind might go to every tailgate and game day party but have no interest in the actual sport, and both kinds coherently identify as fans of that team (a third might participate in all of the described behaviors but grudgingly for the benefit of a friend or partner, and so not identify as a fan).
 
 What these categories have in common is the property that membership happens “because someone said so”: either an official body, in the cases of names, marriages, and teams, or the person themself, in the cases of subcultures (and sometimes names as well). This is the only relevant fact, and it’s binary rather than taking values on some distribution. The remaining facts either don’t cluster, or the clustering doesn’t suffice to separate out the categories.
 

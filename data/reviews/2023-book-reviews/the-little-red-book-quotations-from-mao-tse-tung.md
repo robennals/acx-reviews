@@ -1,16 +1,16 @@
 ---
-title: "The Little Red Book (Quotations from Mao Tse-tung)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Little Red Book (Quotations from Mao Tse-tung)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-little-red-book-quotations-from-mao-tse-tung"
-wordCount: 6310
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-little-red-book-quotations-from-mao-tse-tung
+wordCount: 6315
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Politics
@@ -19,11 +19,11 @@ tags:
 
 I thought it would be difficult to review _Quotations from Mao Tse-tung_, but in that way and so many others, it disappointed me. It may be the most widely read and published book of the 20th century (discounting religious texts, although it itself is one) yet it is hardly a ‘book ‘except in the sense that it was made of paper and bound between two covers. It comprises not chapters or essays but two hundred quotes collected from four decade’s worth of speeches, notes, pamphlets, and books, penned by Chairman Mao. The compiling and disseminating of these quotes began in 1964-1966, and continued at mind-boggling pace all through the Cultural Revolution, wherein Mao purged the communist party of opposition, and the country itself of much of its cultural heritage.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/0cd2c5b844e985f3.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e81515f2f7215501.png)
 
 It’s hard to overestimate the power Mao wielded during the period between 1966-1976, although previous to that it had been on the wane as a result of disastrous agricultural policies. It would be fair to say that from the 1920s into the 1950s, Mao was in the business of achieving military domination over an unstable and disunited polity. Then, after a lull in which the actual business of policy-making caused his grip over the party and the nation to slip, he sought to consolidate power by way of an all-encompassing, unprecedented propaganda campaign. This then resulted in the attempted erasure of what remnants of the ‘old’ systems of social organization and traditional belief had not already been swept away in the name of ‘continuous revolution’. The Little Red Book was a fundamental part of this process of cultural self-destruction, rebirth, and, if you like, nation building. And like most books that are used in the building of modern nation states (which generally involves convincing millions upon millions of illiterate, self-governing peasants that they are part and parcel of some discernible whole, as defined by a struggle against bitter enemies) the book reads like a series of biblical psalms, at intervals inscrutable, tautological, terrifying, and empty. The meaningless, redundant, and ra-ra nature of a great number of the quotes means a great many need not be addressed at all. Take Mao on the Sino-Japanese war, for an example:
 
-_“Revolutionary war is an antitoxin which not only eliminates the enemy's poison but also purges us of our own filth. Every just, revolutionary war is endowed with tremendous power and can transform many things or clear the way for their transformation. The Sino-Japanese war will transform both China and Japan; provided China perseveres in the War of Resistance and in the united front, the old Japan will surely be transformed into a new Japan and the old China into a new China, and people and everything else in both China and Japan will be transformed during and after the war.”_
+> _“Revolutionary war is an antitoxin which not only eliminates the enemy's poison but also purges us of our own filth. Every just, revolutionary war is endowed with tremendous power and can transform many things or clear the way for their transformation. The Sino-Japanese war will transform both China and Japan; provided China perseveres in the War of Resistance and in the united front, the old Japan will surely be transformed into a new Japan and the old China into a new China, and people and everything else in both China and Japan will be transformed during and after the war.”_
 
 “On Protracted War" (May 1938), Selected Works, Vol. II, p. 131.
 
@@ -53,7 +53,7 @@ _“People of the world, unite and defeat the U.S. aggressors and all their runn
 
 The book’s very first two quotes stack neatly upon one another like cornerstones of the immense edifice to come. From their order and construction it’s easy to make out the shape of what Mao hopes to form in his readers’ minds, and the second of them further illustrates his skill as a world builder and prophetic chiseler upon tablets:
 
-_“The force at the core leading our cause forward is the Chinese Communist Party. The theoretical basis guiding our thinking is Marxism-Leninism.”_
+> _“The force at the core leading our cause forward is the Chinese Communist Party. The theoretical basis guiding our thinking is Marxism-Leninism.”_
 
 “Opening address at the First Session of the First National People's Congress of the People's Republic of China” (September 15, 1954).
 
@@ -63,9 +63,9 @@ _“If there is to be revolution, there must be a revolutionary party. Without a
 
 Taken individually, these quotes seem fairly pedestrian bits of propaganda. Together, I found them to be quite a bit more than that. I think the book’s very nickname gives some hint as to its relevance and power not just as document but _totem_. Though comparisons to the Bible are easy, I think that in some ways the red book is more reminiscent of pyramids and obelisks. The audacity of simply producing so much of something, of forcibly harnessing a nation's labor in service to an unprecedented feat of production, makes the text within the book seem almost irrelevant as the hieroglyphs within the pyramid. The point is the pyramid itself, large and looming, as a symbol of a political power that the builders aim to immortalize in a form that can be understood by peasants and party members alike. A billion copies of a book, much as stacks of billions of bricks, are not easily erased by any successor, and remain as symbols of a dominant ideology _even if that ideology falls out of favor._ The fact that the monument still stands is proof in itself that the ideology does not require popular support, and is all the more powerful for standing long after what beliefs once sustained it have passed away. The former dictator of Turkmenistan attempted to erect a monument that more directly illustrates written propagandas relationship to the monolithic architecture of antiquity:
 
- [Link to video](https://www.youtube.com/watch?v=h1WhLZp_ocg) 
-
-But whether the book is a giant mechanical model, or a tiny paper volume, or a great pyramid made of limestone blocks, its success can be measured by the degree to which it legitimizes the past, present, and future political domination of the author and his faction. In the case of the little red book, success by such a definition is both undeniable and laughable, as the CCP is almost undeniably legitimate in the eyes of its people, even though its actual ideological underpinnings have been almost completely abandoned in favor of Capitalism with Chinese Characteristics. A cynical western critic might say that the specific ideological underpinnings were never the point—but what would Mao say?
+>  [Link to video](https://www.youtube.com/watch?v=h1WhLZp_ocg) 
+>
+> But whether the book is a giant mechanical model, or a tiny paper volume, or a great pyramid made of limestone blocks, its success can be measured by the degree to which it legitimizes the past, present, and future political domination of the author and his faction. In the case of the little red book, success by such a definition is both undeniable and laughable, as the CCP is almost undeniably legitimate in the eyes of its people, even though its actual ideological underpinnings have been almost completely abandoned in favor of Capitalism with Chinese Characteristics. A cynical western critic might say that the specific ideological underpinnings were never the point—but what would Mao say?
 
 There are too many quotes to choose from. There are those assuring the reader that Mao’s regime is but an instrument meant to bring about a stateless, communist society. In other places are declarations that Communist societies will evolve out of capitalist societies by some divine and inevitable process—I guess in the same way all crustaceans eventually become [crabs.](https://en.wikipedia.org/wiki/Carcinisation#:~:text=Carcinisation%20(or%20carcinization)%20is%20an,Nature%20to%20evolve%20a%20crab%22.)  Instead of those, I feel this ominous bit of foreshadowing is more informative of the forces at play even then, in rural China:
 

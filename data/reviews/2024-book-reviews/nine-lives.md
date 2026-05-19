@@ -1,16 +1,16 @@
 ---
-title: "Nine Lives"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Nine Lives
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:24.221Z"
-slug: "nine-lives"
-wordCount: 8199
+publishedDate: '2026-05-10T03:23:24.221Z'
+slug: nine-lives
+wordCount: 8121
 readingTimeMinutes: 37
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-nine-lives"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-nine-lives
+source: acx
 tags:
   - History
   - Religion
@@ -76,15 +76,15 @@ This is a good moment to note that that jihadists in the book are all obsessed w
 Other than occupying specific Syrian villages for prophecy reasons, is there a general Grand Strategy that the jihadists follow? I already alluded to how ISIS was thinking, and these plans were often very explicitly laid down by Dean’s comrades and superiors inside al-Qaeda. Roughly, this is the four step Jihadist Master Plan:
 
 1.  We commit lots of horrific terrorist attacks both at home and in the West, to provoke the western governments and the local secular governments.
-    
+
 2.  They get mad, and either the West starts bombing things, or the local secular dictatorship responds with disproportionate repression against devout Muslims.
-    
+
 3.  The people revolt, chaos ensues, jihadist groups fill the power vacuum and try to hold on to their territories against the combined firepower of the world, while the region descends into a war of all against all.
-    
+
 4.  …
-    
+
 5.  Profit.
-    
+
 
 You might notice the missing step 4. They intentionally don’t really plan ahead for this step, this is the part where God is supposed to step in and make it so that the jihadists win against all odds, the Mahdi and Jesus return, the faithful get their reward, etc. 
 

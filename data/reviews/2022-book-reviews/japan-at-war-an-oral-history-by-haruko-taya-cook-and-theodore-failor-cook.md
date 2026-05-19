@@ -7,20 +7,19 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.477Z'
 slug: japan-at-war-an-oral-history-by-haruko-taya-cook-and-theodore-failor-cook
-wordCount: 4867
+wordCount: 4876
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - History
 ---
 
-**0.**
+## 0.
 
 _Japan at War_ is an oral history of Japan between 1930 and 1945, a period that begins with Japanese imperialist ambitions in China, and concludes with the destruction of Hiroshima and Nagasaki by atomic bombs. It is the culmination of years of journalism conducted by a married couple who traveled Japan in the 1990s interviewing survivors of the war years. The result is a curated selection of about seventy stories told by Japanese people in their own words, interspersed with brief summaries of the broader historical context those stories occurred in. It is a staggering book that provides dozens of moving and surprising insights into the history of the conflict and compact illustrations of human character in times of intense stress.
 
-**1.**
+## 1.
 
 Though American narratives naturally date the beginning of the war with Japan at the attack on Pearl Harbor in 1941, Japanese memory of it begins with the invasion and colonization of Manchuria in 1931. This conflict, seen as a sideshow or prologue in American memory, was, for the Japanese, the beginning of a ten year period of constant war. This was not a sideshow–it was a brutal and destructive campaign against China that occupied 400,000 troops up until the end of the war, and saw hundreds of thousands of Japanese settlers move into captured territories.
 
@@ -60,7 +59,7 @@ Seeing that humanity leads one to question how a person could participate in suc
 
 Cultural factors were at play, too. The Japanese had an intense sense of racial superiority, which they used to justify their actions towards the Chinese, Koreans, and other colonized peoples. And there was a deeply ingrained belief that surrender or captivity were fates worse than death–anyone dishonored by capture deserved whatever treatment they were given.
 
-**2.**
+## 2.
 
 The brutal war narratives stand in contrast to the almost idyllic descriptions of civilian life in Japan and its colonies in the early 1930s. Colonial expansion had brought material wealth. One woman describes the joy of working as a kindergarten teacher in Manchuria, seduced by the sun setting on “red sorghum fields [stretching] on for eternity.” Other stories from the early 1930s linger on images of ballroom dancers, or variety shows at the Moulin Rouge.
 
@@ -78,7 +77,7 @@ This arrogance led decision makers to take the disastrous step of attacking Amer
 
 Curiously, ordinary Japanese citizens, at least in retrospect, seemed to harbor doubts about this decision. Though nationalist zealotry was not in short supply, citizens who had contact with the US described misgivings. A machinist, though grateful for the work war brought, fretted about the sagacity of attacking a country that supplied most of the plans Japan used to manufacture goods. Others wondered why Japan would start a war against such a large country, especially given Japan’s lack of mobility and material disadvantages. It is hard to know how much these opinions are colored by hindsight, but they, at least, seem to indicate that the strategic implications of the decision were foreseeable, though unconsidered.
 
-**3.**
+## 3.
 
 Though Japan’s initial assaults and invasions were full of striking military victories and massive territorial gains, stories about them are largely absent from collective Japanese memory. Only one account is a recognizable example of the sort of glorified war story common in American retellings: that of fighter pilot Sakai Saburo. Saburo begins his tale by comparing aerial dogfighting to combat between samurais, and lives up to the metaphor’s grandiosity. As a new pilot, he trains himself to spot enemy aircraft by constantly staring at the sky, and, once in combat, performs exceptionally and becomes an ace.
 
@@ -94,13 +93,13 @@ His story does not end there. Late in the war, he is tapped for a kamikaze missi
 
 Unsurprisingly, Saburo now works as a motivational speaker.
 
-**4.**
+## 4.
 
 His story, though, is the exception. Most of the war narratives describe the confusion and desperation of Japan’s defeat: suicide charges and endless scattered retreats through desolate jungles. Stories from the home front paint a picture of a country slowly eating itself. A bakery renowned for _kasutera_, a sort of sponge cake, is forced by supply shortages to switch to making ham sandwiches, then sliced bread, then nothing. An imperial army recruiter conscripts man after man from his village, until he is the only one remaining.
 
 The lack of material and workers forced children into the war effort. A young boy is strafed by American planes on expeditions to harvest wood for alcohol fuel. A 16 year old girl works 12 hour shifts on starvation rations to manufacture “balloon bombs”: explosives attached to hydrogen balloons intended to float across the Pacific and hit American cities on the coast. She is horrified to learn, many years later, that out of the 9300 launched, the only “success” achieved was the death of a picnicking American family.
 
-**5.**
+## 5.
 
 Despite these sacrifices, in 1943 or 1944 the war became unwinnable. Japanese supply lines had been obliterated by the American Navy. Though their colonial ambitions had succeeded in expanding access to raw materials, the superiority of American air and naval power meant those materials could not be transported to where they were needed. For example, though in 1943 Japan had successfully doubled oil imports from their levels immediately following the American Embargo, they were half of what they were pre-embargo, and needs had dramatically increased–they needed to fight not just in China, but across the entire Pacific, contesting the most powerful navy and air force in the world.
 
@@ -134,7 +133,7 @@ Most chilling are the stories of Okinawan villagers who were encouraged to commi
 >
 > The first one we laid hands on was Mother. Those who had blades, or scythes, cut their wrists or severed arteries in their necks. But we didn’t do it that way. We might have used a string. When we raised our hands against the mother who bore us, we wailed in our grief. I remember that. In the end we must have used stones. To the head. We took care of Mother that way. Then my brother and I turned against our younger brother and younger sister. Hell engulfed us there.
 
-**6.**
+## 6.
 
 There is no indication that these acts weakened national commitment to the war. Indeed, they may have deepened it, as each act of self-sacrifice buttressed the national delusion that Japan could repel the invading Americans with ferocity and force of will. One survivor describes the construction of elaborate tunnel systems designed to house the emperor and military command, and a disturbing image of a horrible alternate history comes to mind: Japan in ruins, leveled by American bombers, full of starving women and children who rush landing soldiers with sharpened sticks (as they had trained to do) and being gunned down by horrified young men who would remember their faces for the rest of their lives.
 
@@ -142,7 +141,7 @@ Compared to this possibility, the stories of the bombings of Hiroshima and Nagas
 
 Though devastating, the atomic bomb seems to have shocked citizens and leadership out of the national death spiral, and brought the country to accept defeat. When the Emperor’s edict announcing Japan’s surrender was announced, some of the most fanatical had to be convinced to lay down their arms, but the dominant sensibility was one of relief. Finally, it was all over.
 
-**7.**
+## 7.
 
 The book is magnificent. Many of the individual stories hold more pathos and significance than entire novels, and they are deftly melded with the historical context. There are many, many more stories than I have included in this already overlong summary, and almost all are incredibly gripping reads.
 
@@ -160,7 +159,7 @@ Still, with the exception of “strategic bombing” campaigns, American atrocit
 
 It is perhaps tempting to claim that this is a result of America’s limited involvement–perhaps material wealth and a war fought far away from home insulated it from being “forced” into taking such actions. This may be, but the similar lack of depravity from American soldiers in the Korean War a decade later under severely deficient material conditions, implies that really was something particular about American culture at the time that prevented such excess[[4]](#ftnt4), though I am not informed enough about the historical context to feel comfortable speculating on it.
 
-**8.**
+## 8.
 
 Perhaps what is most interesting to me about the book is that it is a collection of stories from a wide variety of people coping with stress, cultural pressure, and deprivation. I’ve spent enough time talking about the worst aspects of humanity on display in the stories, so I’d like to close by noting that the vast majority of individuals in the book come across as fundamentally decent people trying to make their way through a difficult situation. Their focus, especially during the war years, was on close friends and family, and trying to live lives that honored the values of the time.
 

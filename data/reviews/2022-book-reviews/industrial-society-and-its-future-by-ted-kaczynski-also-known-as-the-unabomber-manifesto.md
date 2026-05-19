@@ -1,19 +1,15 @@
 ---
-title: >-
-  Industrial Society and Its Future by Ted Kaczynski (also known as the
-  Unabomber Manifesto)
+title: Industrial Society and Its Future by Ted Kaczynski (also known as the Unabomber Manifesto)
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.476Z'
-slug: >-
-  industrial-society-and-its-future-by-ted-kaczynski-also-known-as-the-unabomber-manifesto
-wordCount: 5261
+slug: industrial-society-and-its-future-by-ted-kaczynski-also-known-as-the-unabomber-manifesto
+wordCount: 5253
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Society
@@ -47,11 +43,11 @@ Ok, here I can sort of see the point. I know a great number of activists (enviro
 
 The disagreements between such activist types and more centrist (maybe more rationalist?) leaning types are:
 
-> *   Is the injustice intentional and one-sided?
-> *   What’s the actual scope of the injustice?
-> *   Do we have a way of resolving it?
->
-> *   Also, will that way accidentally destroy the economy and kill millions of people? Because that would be kind of bad.
+*   Is the injustice intentional and one-sided?
+*   What’s the actual scope of the injustice?
+*   Do we have a way of resolving it?
+
+*   Also, will that way accidentally destroy the economy and kill millions of people? Because that would be kind of bad.
 
 Trying to separate the discussion into fine granular threads is good because you can actually _figure out your disagreements_, but Uncle Ted whizzes right past that into:
 
@@ -201,9 +197,9 @@ Depending on how far out you look, technology may increase freedom. For example,
 
 But whatever way you look at it, at a long enough time scale, technology **is** the stronger force than anything else. Technological progress **will** happen, so any sort of anti-tech revolution (not reform) will fail in about a couple of hundred of years. Probably sooner because you can’t destroy tech globally, so you’ll get imports from regions that weren’t destroyed. The best you can is try to guide it away from terrible outcomes. So it’s good to look at examples where we have managed to do that:
 
-> *   In the Netherlands, cars dominated the streets in the 70s. But now bicycles dominate the streets.
-> *   There seem to be no terrible consequences of having electricity and plumbing in buildings.
-> *   We have banned pesticides like DDT or refrigerants like R-22, and have in fact banned many harmful things. And instead of coming back, non-harmful or less harmful alternatives appear.
+*   In the Netherlands, cars dominated the streets in the 70s. But now bicycles dominate the streets.
+*   There seem to be no terrible consequences of having electricity and plumbing in buildings.
+*   We have banned pesticides like DDT or refrigerants like R-22, and have in fact banned many harmful things. And instead of coming back, non-harmful or less harmful alternatives appear.
 
 There are much more, these three are just off the top of my head. Technology will keep advancing by leaps and bounds, simultaneously encroaching on our freedom and expanding the freedom in the future. It is up to us to tame the tech, and to cut out the most harmful parts. It’s not just that we can do this, we must do this. We don’t really have a choice. But - and this is important - we can do this.
 

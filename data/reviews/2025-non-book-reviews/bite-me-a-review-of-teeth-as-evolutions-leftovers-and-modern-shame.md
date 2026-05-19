@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.890Z'
 slug: bite-me-a-review-of-teeth-as-evolutions-leftovers-and-modern-shame
 wordCount: 2524
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Biology
@@ -65,7 +64,6 @@ Ultimately, teeth represent a tolerable compromise, a mid-tier biological produc
 
 ## 3\. Symbolic Function: Teeth as Social Currency
 
-  
 In Neolithic burial sites across the Indus Valley archaeologists have found molars with small, deliberate holes drilled into them: likely to relieve pressure or decay. By the time we get to the Mayans, dental modifications were ornamental. Jade, turquoise, and hematite were precision-drilled into the front teeth of elites as symbols of power and divine affiliation. The shift had begun from survival to status.
 
 Consider Edo-period Japan’s practice of ohaguro, or tooth blackening. A mixture of iron filings, vinegar, and tannins was applied repeatedly until the teeth became glossy black. Samurai and aristocratic women proudly displayed their artificially darkened enamel as evidence of refinement and moral discipline. Here, a visible mouth became a visible vow; a cultural act inscribed directly onto the enamel.
@@ -146,6 +144,6 @@ The tragedy isn’t that they fail. It’s that their failure breaks the illusio
 
 Teeth remind us what the body is: temporary architecture, constantly patched, inevitably crumbling. We cover the cracks with porcelain and smiles.
 
-**ENDNOTES  
+**ENDNOTES**  
   
-[1]**  Technically, there’s some archaeological evidence that Paleolithic humans used primitive toothpicks. But these were likely for dislodging mammoth jerky, not part of a twice-daily preventive care routine endorsed by proto-dental hygienists.
+**[1]**  Technically, there’s some archaeological evidence that Paleolithic humans used primitive toothpicks. But these were likely for dislodging mammoth jerky, not part of a twice-daily preventive care routine endorsed by proto-dental hygienists.

@@ -120,13 +120,17 @@ const config: Config = {
 
             // Blockquotes — disable decorative quotes added by @tailwindcss/typography
             // since review content often already contains quotation marks.
+            // Use --foreground (not --muted-foreground) so quoted poetry and
+            // long indented passages stay readable when sandwiched between
+            // the page background and the typography stack's italic styling.
+            // The left border + italic alone do enough visual differentiation.
             blockquote: {
               fontStyle: "italic",
               borderLeftColor: "hsl(var(--border))",
               borderLeftWidth: "3px",
               paddingLeft: "1.25em",
               marginLeft: "0",
-              color: "hsl(var(--muted-foreground))",
+              color: "hsl(var(--foreground))",
               quotes: "none",
             },
             "blockquote p:first-of-type::before": {
@@ -154,6 +158,7 @@ const config: Config = {
             },
             pre: {
               backgroundColor: "hsl(var(--muted))",
+              color: "hsl(var(--foreground))",
               borderRadius: "6px",
               padding: "1em 1.25em",
               overflow: "auto",

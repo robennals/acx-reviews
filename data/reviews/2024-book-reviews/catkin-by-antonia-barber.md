@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: catkin-by-antonia-barber
-wordCount: 3807
+wordCount: 3797
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Fiction
@@ -20,10 +19,8 @@ I.
 
 Let’s open with a riddle:
 
-> To cast away
->
-> What cannot cut
->
+> To cast away  
+> What cannot cut  
 > And sever words all tangled up
 
 Don't try too hard to answer. This riddle embeds its solution according to a particular format, and though its rules are simple, without knowing them the text remains uninterpretable.
@@ -36,12 +33,9 @@ This elegant puzzle format is one of the lasting gifts of Antonia Barber’s _Ca
 
 This kind of riddle is known as a _phonetic charade_, a fact I only learned after reaching out, in desperation, to some clever friends — it remains, as ever, difficult to google the shape of a thing, rather than the thing itself (and before you ask, yes, I tried AI, and it was clueless). These puzzles were apparently _en vogue_ back in the Regency era, with Jane Austen being notoriously fond of them. Here’s one that she wrote:
 
-When my first is a task to a young girl of spirit,
-
-> And my second confines her to finish the piece,
->
-> How hard is her fate! but how great is her merit
->
+> When my first is a task to a young girl of spirit,  
+> And my second confines her to finish the piece,  
+> How hard is her fate! but how great is her merit  
 > If by taking my whole she effects her release!
 
 The answer, apparently, is hemlock. Bleak!
@@ -58,7 +52,7 @@ Catkin returns to the wise-woman one final time, requesting her adjudication. Tr
 
 _Original research interlude_: Catkin is described as so small his tail is no bigger than the catkins hanging from the hazel trees. Assuming the hazel in question is _Corylus avellana_, his tail is at most 12 centimeters long. As the average cat tail length is about 30.5 centimeters, we can confidently assert that Catkin is less than 40% of a standard cat.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/02a709eaf3d4a041.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/540907c86e9422a5.png)
 
 To understand what makes good children's fiction, it helps to understand where children's fiction commonly goes wrong. Most of it, of course, goes wrong by being opportunistic, contemptible dreck. Being short and often simple, children’s media is easy to mass-produce; the result is an aesthetically radioactive trash-scape of clipart pablum. (It will only get worse.)
 
@@ -106,11 +100,8 @@ In short, I recommend it. Thus ends my review of _Catkin_.
 
 II.
 
->   
-> Always desired
->
-> While I grow long
->
+> Always desired  
+> While I grow long  
 > Endless as flowers, seasons, and songs
 
 Here is the history of fairies in one sentence: pagan manifestations of _otherness_ become nostalgic symbols of pre-industrial folkways become diminutive and oft glittery butterfly-winged females.
@@ -153,10 +144,8 @@ Time to solve this section's opening riddle. What is _always desired_? _More_. T
 
 III.
 
-> Mouse-hunter
->
-> Closer than a friend
->
+> Mouse-hunter  
+> Closer than a friend  
 > Wind-dancer at the bough's end
 
 Here lies _Catkin_’s final riddle. Since this one is from the book, I won't spoil the answer; but you _can_ solve it, can't you?
@@ -181,8 +170,6 @@ There are a couple of illustrations in _Catkin_ depicting grief. The restrained 
 
 _Catkin_ ends with the following passage: “And from that day, all things went well for the good man and his wife. They lived in peace with Carrie and Catkin and the Little People, and the farm on the green hillside flourished.” That we could all be so lucky: to live and speak with aliens, to make peace, to choose well, to thrive, and to fight death, until we are no longer
 
-> Greater than some
->
-> Higher than others
->
+> Greater than some  
+> Higher than others  
 > Endless as sisters, daughters, and mothers.

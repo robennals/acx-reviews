@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.816Z'
 slug: the-age-of-the-infovore-by-tyler-cowen
-wordCount: 676
+wordCount: 678
 readingTimeMinutes: 4
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Society
@@ -29,7 +28,7 @@ By the time I opened _The Age of the Infovore_, the term as I understood it had 
 
 > One strong feature of autism is the tendency of autistics to impose additional structure on information by the acts of arranging, organizing, classifying, collecting, memorizing, categorizing, and listing. Autistics are information lovers to an extreme degree and they are the people who engage with information most passionately. **When it comes to their areas of interest, autistics are the true infovores, as I call them.**
 
-**II.**
+## II.
 
 Inadvertently, I had been identifying myself by a term that now appeared to be interchangeable with autistic. I felt I had made a mistake. But as I kept reading, I started to wonder.
 
@@ -41,7 +40,7 @@ This perspective prompted me to reevaluate life experiences in light of common m
 
 I wasn’t sure I wanted the label, but aspects of the psychology seemed to fit.
 
-**III.**
+## III.
 
 Many great stories feature a seemingly ordinary person discovering they are actually very special. Think Luke Skywalker meeting Obi Wan, Clark Kent discovering his alien origins, or Harry Potter receiving admission to Hogwarts. Once the protagonist learns the secret of who they really are, they can never be the same.
 

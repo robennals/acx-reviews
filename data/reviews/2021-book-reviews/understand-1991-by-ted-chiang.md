@@ -1,16 +1,16 @@
 ---
-title: "Understand (1991) by Ted Chiang"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Understand (1991) by Ted Chiang
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "understand-1991-by-ted-chiang"
-wordCount: 4797
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: understand-1991-by-ted-chiang
+wordCount: 4799
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Fiction
   - Philosophy
@@ -315,8 +315,7 @@ _It_ made the fatal inference for him; _it_ dissolved, this mini-Me —while _he
 
 His death was false, like a sisterly Pregnancy.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 And that's my Pitch to Naturalize the Virgin Birth: Mary underwent history's most extreme sympathetic pregnancy, with cousin Elizabeth who'd conceived John the Baptist the usual way.  And such is the power of motherly suggestion, from a girl pure of Heart, that young Yeshua suspects he's God.
 
 I'd love to read a Naturalized account of the miracles of healing, of the Five Thousand Fed, of the Resurrection, in Chiang's next Collection.  He's given us already a realistic Babylonian cosmology.

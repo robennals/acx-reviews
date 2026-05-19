@@ -1,16 +1,16 @@
 ---
-title: "Intelligence and Spirit by Reza Negarestani"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Intelligence and Spirit by Reza Negarestani
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "intelligence-and-spirit-by-reza-negarestani"
-wordCount: 2832
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: intelligence-and-spirit-by-reza-negarestani
+wordCount: 2828
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Philosophy
   - Science
@@ -34,10 +34,10 @@ Human memory is messy. We can suppress unpleasant experiences, highlight other p
 
 The main body of the book consists of what Negarestani calls a thought experiment. Concisely put, we are building an AGI from scratch. Now this is not a book about transformers or reinforcement learning, and the word “neural network” has but a few honorary mentions in the book. So this is not an attempt at a manual, but an attempt at dissecting the different layers of “intelligence”. At this point you might rightfully ask for a definition of what intelligence is and alas Negarestani does not provide us with a clean-cut answer. Rather:”...this book is a rudimentary attempt to undertake the urgent task of presenting a philosophy of intelligence in which the questions of what intelligence is, what it can become, and what it does can be formulated.”[[37]](#ftnt37) That being said, we see recurring themes, such as language or self-reflection, but presented in a rather enigmatic way. Anyway, the “embodied automaton” in the thought experiment is defined via the following features:
 
-> 1.  "It has been programmed to instantiate a number of diffuse and recurring goals centred on the maintenance and preservation of the system qua agent.”[[38]](#ftnt38)
-> 2.  “It has been wired to engage in activities that increase the probability of goal-fulfilment.”[[39]](#ftnt39)
-> 3.  “...the agent is equipped with different specialized sensors and different modules for integrating sensory data both within a specific sensory modality (multiple data associated with one sensor) and across different modalities (data associated with different sensors).”[[40]](#ftnt40)
-> 4.  “The automaton is furnished with a sufficiently complex and functionally flexible memory capable of encoding, retrieval, consolidation, discarding, and transfer of sensory impressions.”[[41]](#ftnt41)
+1.  "It has been programmed to instantiate a number of diffuse and recurring goals centred on the maintenance and preservation of the system qua agent.”[[38]](#ftnt38)
+2.  “It has been wired to engage in activities that increase the probability of goal-fulfilment.”[[39]](#ftnt39)
+3.  “...the agent is equipped with different specialized sensors and different modules for integrating sensory data both within a specific sensory modality (multiple data associated with one sensor) and across different modalities (data associated with different sensors).”[[40]](#ftnt40)
+4.  “The automaton is furnished with a sufficiently complex and functionally flexible memory capable of encoding, retrieval, consolidation, discarding, and transfer of sensory impressions.”[[41]](#ftnt41)
 
 So it is an agent, who optimizes for an unspecified goal(s), is multimodal and possesses a memory. By today’s state-of-the-art this “thought experiment” is becoming increasingly less “thought” and increasingly more “experiment”. But note that this book was published 2018, i.e. before the current hype of LLMs.
 
@@ -67,7 +67,7 @@ Anyhow as of right now, we are getting a rapid increase of capabilities. And it 
 
 ([Source](https://twitter.com/TetraspaceWest/status/1637555099756122114?s=20))
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7383549e4c649caf.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/fcf1a9acc1193b66.png)
 
 ([Source](https://twitter.com/retvitr/status/1635769527119085571?s=20))
 

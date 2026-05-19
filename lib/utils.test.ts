@@ -102,3 +102,13 @@ test('createExcerpt preserves greater-than characters that appear mid-line', () 
     `mid-line '>' should be preserved but got: ${excerpt}`
   );
 });
+
+test('createExcerpt strips Google-Docs-style footnote references', () => {
+  const content = 'When you land in Entebbe[[1]](#ftnt1), the first face you see is the President. He is everywhere[[2]](#ftnt2), smiling down on you from billboards, posters, and walls across the country.';
+
+  const excerpt = createExcerpt(content);
+
+  assert.ok(!excerpt.includes('['), `excerpt should not contain '[' but got: ${excerpt}`);
+  assert.ok(!excerpt.includes('#ftnt'), `excerpt should not contain footnote anchor but got: ${excerpt}`);
+  assert.ok(excerpt.includes('Entebbe, the first face'), `text on either side of the footnote should be preserved but got: ${excerpt}`);
+});

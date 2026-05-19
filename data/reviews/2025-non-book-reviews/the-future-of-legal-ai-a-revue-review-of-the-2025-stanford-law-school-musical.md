@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical
 wordCount: 3659
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Technology
@@ -45,11 +44,11 @@ CLAUDE reveals her master plan (“Be Prepared”[23]): She will use the [Stanfo
 
 The summary above is somewhat condensed and cleaned up for clarity. To avoid giving the impression that the plot was straightforward, I’ll now summarize some of the side plots[27]:
 
-> *   Much of the first act takes place amidst the ongoing club fair. The main point of interest seems to be the rivalry between two student groups: The left-leaning “Pro-Democracy” club, and the conservative Federalist Society. One gets the sense that the writers of the play themselves lean left, for reasons that should become clear in the next bullet point. All of the clubs are introduced in a big group number (“Hello!”[28]). Some other songs are featured as a part of this subplot, including one from a hapless student who bemoans the lack of attendees for a seminar she is organizing (“Zareen’s”[29]), and another from a group of third-years, who warn incoming students that their workload will crush their dreams of going up to San Francisco on the weekends (“Go Up, 3L”[30]).
-> *   There is an interlude where Donald Trump and Elon Musk impressions sing a duet (“CEO of Tesla”[31]) about their greed and desire to control the country. At the end, Vance comes in wearing the propeller hat from the “born to dilly-dally” meme for a one-off “JD” pun.
-> *   Douchebag Entrepreneur and Day Trader Friend are locked in a competitive love triangle for the affections of New Age Spiritualist. At one point there was a really intense pre-recorded video featuring a table tennis match between these characters. In retrospect, this was an obvious reference to the film “Challengers”, but I didn’t pick up on this until some really on-the-nose Zendaya joke made the penny drop.
-> *   There was another pre-recorded video where they got a bunch of international students pursuing Master of Laws degrees to make jokes about American culture and politics and make LLM[32] puns.
-> *   There were a few more one off songs, one making fun of lucrative but morally bankrupt jobs in corporate law (“Livin’ La Vida BigLaw”), and one about the Bar exam (“A Bar Song”).
+*   Much of the first act takes place amidst the ongoing club fair. The main point of interest seems to be the rivalry between two student groups: The left-leaning “Pro-Democracy” club, and the conservative Federalist Society. One gets the sense that the writers of the play themselves lean left, for reasons that should become clear in the next bullet point. All of the clubs are introduced in a big group number (“Hello!”[28]). Some other songs are featured as a part of this subplot, including one from a hapless student who bemoans the lack of attendees for a seminar she is organizing (“Zareen’s”[29]), and another from a group of third-years, who warn incoming students that their workload will crush their dreams of going up to San Francisco on the weekends (“Go Up, 3L”[30]).
+*   There is an interlude where Donald Trump and Elon Musk impressions sing a duet (“CEO of Tesla”[31]) about their greed and desire to control the country. At the end, Vance comes in wearing the propeller hat from the “born to dilly-dally” meme for a one-off “JD” pun.
+*   Douchebag Entrepreneur and Day Trader Friend are locked in a competitive love triangle for the affections of New Age Spiritualist. At one point there was a really intense pre-recorded video featuring a table tennis match between these characters. In retrospect, this was an obvious reference to the film “Challengers”, but I didn’t pick up on this until some really on-the-nose Zendaya joke made the penny drop.
+*   There was another pre-recorded video where they got a bunch of international students pursuing Master of Laws degrees to make jokes about American culture and politics and make LLM[32] puns.
+*   There were a few more one off songs, one making fun of lucrative but morally bankrupt jobs in corporate law (“Livin’ La Vida BigLaw”), and one about the Bar exam (“A Bar Song”).
 
 ## AI Safety: What it got Right/Wrong
 
@@ -83,12 +82,12 @@ Kill switches have been [widely advocated as a safety measure for AI](https://ww
 
 ## The Overall Vibe
 
-_Can AI write a perfect legal brief? Can AI deliver a rousing oral argument?_
-
+> _Can AI write a perfect legal brief? Can AI deliver a rousing oral argument?_
+>
 > *   _Neurotic Gunner_
-
-_Can you?_
-
+>
+> _Can you?_
+>
 > *   _CLAUDE_
 
 Overall, despite the happy endings and the peppy songs, I felt the mood of the production was quite bleak.

@@ -1,16 +1,16 @@
 ---
-title: "Slouching Towards Utopia"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Slouching Towards Utopia
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "slouching-towards-utopia"
-wordCount: 8314
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: slouching-towards-utopia
+wordCount: 8292
 readingTimeMinutes: 37
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Economics
   - History
@@ -47,7 +47,7 @@ And also this:
 
 > _After 1870, humanity's deployed technological capabilities and thus potential prosperity doubled every thirty-five years—and with it came economic creative destruction that reduced old economic structures to rubble and built new ones, and did it again, and again, and again, every single generation. Before 1870? From 1770-1870 humanity's globally-deployed technological prowess had a doubling time of about 150 years—not 35. From 1500-1770 it had a doubling time of 500 years. And before 1500, we are looking at a doubling time of 2000 years._
 
-![](https://acximages.ennals.org/images/2023-book-reviews/62ab32aa7becfe8d.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/7c9ae19006cc9290.png)
 
 There are three parts to his argument, which is that 1) Globalization, 2) the Industrial Research Lab, and 3) the Modern Corporation, came together to create untold prosperity, which was taking us towards utopia. Except that it got waylaid by our infatuation with the markets (the Hayekian angel on one shoulder overpowering the Polanyian one on the other), and it led us astray.
 
@@ -55,8 +55,8 @@ Hence the slouching.
 
 The answer could be in two parts
 
-> 1.  There was no magic in 1870. It’s a narrative convenience, but there is no step change, it’s just the continuation of many long trends coming to fruition.
-> 2.  There are many ways to slice and create a starting point. You could do the industrial revolution, the scientific revolution, the Enlightenment, the reduction in population growth rate - each are ways of seeing the elephant, but none are comprehensive
+1.  There was no magic in 1870. It’s a narrative convenience, but there is no step change, it’s just the continuation of many long trends coming to fruition.
+2.  There are many ways to slice and create a starting point. You could do the industrial revolution, the scientific revolution, the Enlightenment, the reduction in population growth rate - each are ways of seeing the elephant, but none are comprehensive
 
 The anecdotes are wonderful. The stories are remarkable. The erudition induces the green eyed monster to raise its head. But the narrative is flimsy. We live amidst the growth pangs of a golden age which we, in part, indulge in and squander away.
 
@@ -152,7 +152,7 @@ What this tells us is also that the modern corporation is the latest way in whic
 
 The older organizations did incredibly hard things too. The East India Company [conquered](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british) a continent, and created an empire. They did this though disadvantaged by populace, time, often money and the lack of any meaningful coordination or communication ability. They didn't have Slack!
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4245e8e7ef61c371.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/023a8a2cd0b85733.png)
 
 So when we think about the rise of the modern organization, whether that’s Henry Ford’s assembly line or IBM’s mainframe business creating software, their shape is more an indication of the complexity of what they’re working on, more than a particular innovation.
 
@@ -174,15 +174,15 @@ In fact, Delong mentions this several times. The absolute miracle of the Permian
 
 At which point you have to wonder. If we
 
-> 1.  Had the beginnings of an enlightenment and knowledge revolution, bringing together ideas from far and beyond!
-> 2.  Had the beginnings of an industrial revolution, complete with machining and energy usage, not to mention steam!
-> 3.  And had the energy source in abundance from which you could construct machines!
+1.  Had the beginnings of an enlightenment and knowledge revolution, bringing together ideas from far and beyond!
+2.  Had the beginnings of an industrial revolution, complete with machining and energy usage, not to mention steam!
+3.  And had the energy source in abundance from which you could construct machines!
 
 Is it a surprise specifically that they combined at \*some point\* in the creation of an economic miracle that outstripped historical productivity? The knowledge allowed us to harness the energy which allowed us to build machines which allowed us to serve the same needs of others we knew all along - food, shelter, clothing, war, communication - and spread like water on the sidewalk filling every nook and crevice it could find!
 
 Delong argues by 1870 the world had already seen multiple large mercantile and military forces that took over and traded with large swathes of the world.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/eb95b8582c8d7adb.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/4c9e78c698d8bde5.png)
 
 But as we’ve seen, 1870 feels much like the continuation of a trend long since underway. **The fact that an exponential curve has a hockey stick moment says more about our pareidolia than about reality.**
 
@@ -256,19 +256,19 @@ There is no simple explanation for why technological progress happened the way i
 
 Whether there is instrumental convergence or convergent path dependency requires someone much smarter than me to map out, but we can at least make some observations in the meanwhile.
 
-> 1.  Technology is often, if not always, built on top of others
-> 2.  Adjacent possible, as Kaufmann wrote, shows where we might expect new technologies to emerge
-> 3.  We often need to combine multiple strands to create a true new innovation
+1.  Technology is often, if not always, built on top of others
+2.  Adjacent possible, as Kaufmann wrote, shows where we might expect new technologies to emerge
+3.  We often need to combine multiple strands to create a true new innovation
 
 If you combine all three then you must also answer the question - what if the 1870s were an especially good time for technologies to interplay with each other, such that we could get explosive growth! I know Anton Howes is probably better served to talk about this in more authoritative detail, perhaps in an upcoming book, but until then informed speculation must suffice.
 
 So I looked at all the innovations I could find historically, across all domains, and mapped them together in one chart. That’s here.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8b5f3944f07704ca.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/0c5524bf8f1ed419.png)
 
 And here’s the second chart where this is mapped by the number of innovations per year, and the population.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/62a9ccd789f37a15.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e279d9d438f2ed84.png)
 
 The second is what shows a kink in the curve somewhere towards the late 1800s, as per Delong’s observation. But the first shows that the growth in the number of inventions was steady. The prosperity in the 1800s was the result of the work that came before. Once we had machining tools and better communication and global markets to sell into, we could use the economic machine we’d constructed, in the form of capitalist enterprise, to make all our lives better!
 
@@ -292,9 +292,9 @@ Sounds like a great match right? But this too doesn’t have a happy ending for 
 
 I submit that the century makes a lot more sense if you could look at it from the perspective of an individual, and ask what he needs to reach his potential.
 
-> *   In the year 1200, his potential might have been snuffed out as education was hard to get, resources were hard to get, time was hard to get, which meant the level of extra output beyond survival would’ve been miniscule at best
-> *   In the year 1700, his potential would’ve been slightly easier to catch a flame, as education got _a tad_ easier since books existed, time was still hard to get, and resources equally so, which meant the extra output we could’ve expected from him goes up a tiny bit, but not much
-> *   In the year 1900, his potential would’ve been much higher, as education was a lot easier, time started being more abundant, resources started becoming available, and the extra output we could expect _could’ve then become the down payment_ for getting the resources!
+*   In the year 1200, his potential might have been snuffed out as education was hard to get, resources were hard to get, time was hard to get, which meant the level of extra output beyond survival would’ve been miniscule at best
+*   In the year 1700, his potential would’ve been slightly easier to catch a flame, as education got _a tad_ easier since books existed, time was still hard to get, and resources equally so, which meant the extra output we could’ve expected from him goes up a tiny bit, but not much
+*   In the year 1900, his potential would’ve been much higher, as education was a lot easier, time started being more abundant, resources started becoming available, and the extra output we could expect _could’ve then become the down payment_ for getting the resources!
 
 This gets further complicated based on whether you’re based in colonized Calcutta vs cosmopolitan London. This changes based on whether you’re a black man attempting this in the 1950s US south vs someone in Silicon Valley in the 1990s.
 
@@ -312,9 +312,9 @@ To get sufficient labor from her required such advancements that she could spend
 
 From this lens if we could look at details, we could see how the blockers to an individual's efforts are varied, both positively and negatively through time. Delong looks in detail at how specific events happened but less about how they changed over the decades or centuries.
 
-> 1.  We build things that others want, and use whatever we can see around us, and whatever we can create, because in doing so we get richer ourselves
-> 2.  The blocker to this helping everyone is a) the speed of dissemination of knowledge between people, and b) coordinated processing of the new knowledge that came in
-> 3.  When left uncontrolled, the natural state for this enterprise is to end up in is unequal distribution and stasis -> that’s Hayek’s daemon according to Delong, which Polanyi helps assuage
+1.  We build things that others want, and use whatever we can see around us, and whatever we can create, because in doing so we get richer ourselves
+2.  The blocker to this helping everyone is a) the speed of dissemination of knowledge between people, and b) coordinated processing of the new knowledge that came in
+3.  When left uncontrolled, the natural state for this enterprise is to end up in is unequal distribution and stasis -> that’s Hayek’s daemon according to Delong, which Polanyi helps assuage
 
 What could help an individual achieve their optimal success seems to be the right way to approach the question of how we managed to construct a society where we can collectively achieve the optimal success.
 
@@ -322,9 +322,9 @@ For someone to come up with an idea to help someone else requires both an innate
 
 It’s also a narrative that helps put the crazy convolutions that we societally went through in the last few centuries into place. We can ask and answer questions like:
 
-> *   What type of organizations did we stand up and why!
-> *   The scientific and technological inventiveness and how they got unleashed
-> *   Why did we change how we find, train and reward talent
+*   What type of organizations did we stand up and why!
+*   The scientific and technological inventiveness and how they got unleashed
+*   Why did we change how we find, train and reward talent
 
 And the way we can do that is through distilled knowledge. Ultimately we land in the arena of talent creation and education where, as [Erik Hoel has written](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins), we’ve chosen mass industrialisation as the method instead of individualized instruction.
 
@@ -334,14 +334,9 @@ Perhaps it was our luck that the conjunctive factors came together, energy, know
 
 Rarely has a book this ensorcelled me in its grip, or thrown up so many avenues of exploration simultaneously. What it reminds me most of is Mokyr’s [A Culture of Growth](https://www.amazon.com/Culture-Growth-Origins-Schumpeter-Lectures-ebook/dp/B01EGQA1Z2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1655020377&sr=1-1), and Robert Gordon’s [The Rise and Fall of American Growth](https://www.amazon.com/Rise-Fall-American-Growth-Princeton-ebook/dp/B071W7JCKW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1655020478&sr=1-1), in both the scope of ambition and the breadth of subject matter covered. [Slouching Towards Utopia](https://www.amazon.co.uk/Slouching-Towards-Utopia-Economic-Twentieth/dp/1399803417) is a work of political economy, taking us through the long 20th century and explaining the major events. It’s the first audiobook I have ever listened to, and listened to partially with my son. It’s special, you should read it. It has the same quality the best books do - the questions it generates are much more valuable than the answers it provides.
 
-> Things fall apart; the centre cannot hold;
->
-> Mere anarchy is loosed upon the world …
->
-> That twenty centuries of stony sleep
->
-> Were vexed to nightmare by a rocking cradle,
->
-> And what rough beast, its hour come round at last,
->
+> Things fall apart; the centre cannot hold;  
+> Mere anarchy is loosed upon the world …  
+> That twenty centuries of stony sleep  
+> Were vexed to nightmare by a rocking cradle,  
+> And what rough beast, its hour come round at last,  
 > Slouches towards Bethlehem to be born?

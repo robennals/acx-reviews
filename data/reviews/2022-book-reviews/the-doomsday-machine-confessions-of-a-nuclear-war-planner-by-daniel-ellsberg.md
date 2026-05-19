@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.823Z'
 slug: the-doomsday-machine-confessions-of-a-nuclear-war-planner-by-daniel-ellsberg
-wordCount: 8696
+wordCount: 8686
 readingTimeMinutes: 39
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - History
@@ -222,16 +221,16 @@ Then the British and American militaries adopted the ‘bomb factories for the w
 > _Fewer people would be killed overall, on both sides, from this approach._
 >
 > _This justification was based on the assumption that the bombing would be effective quickly with relatively small numbers of bombs. And that belief depended on several other beliefs that British and American planners held:_
->
-> *   _that British and American bombers could sustain the loss rates from defenses flying in daylight;_
-> *   _that they could bomb accurately enough in daytime to destroy enemy bases and factories;_
-> *   _that they could find towns and industrial targets accurately at night, if necessary, and still destroy factories;_
-> *   _that, for Americans, those B-17s flying in mass formations above antiaircraft fire had enough armament (they were called “Flying Fortresses”) to ward off enemy fighters and keep losses low in daytime, without needing long-range interceptors to defend them;_
-> *   _that, while dodging defenses in poor weather over the European continent, American bombardiers could achieve the pickle-barrel accuracy they demonstrated in straight runs over the Arizona desert without cloud cover;_
-> *   _that with attainable accuracy, American bombers could destroy critical bottlenecks and vulnerabilities in German industrial networks that would cripple war production;_
-> *   _that through the use of high explosives and incendiaries, British bombers flying at night could “de-house” a huge fraction of the German population, destroying German will to fight; and_
-> *   _that the morale of the German population (and later, the Japanese) was far more fragile under bombing than that of the Chinese, Spanish, or British had proved to be._
->
+
+*   _that British and American bombers could sustain the loss rates from defenses flying in daylight;_
+*   _that they could bomb accurately enough in daytime to destroy enemy bases and factories;_
+*   _that they could find towns and industrial targets accurately at night, if necessary, and still destroy factories;_
+*   _that, for Americans, those B-17s flying in mass formations above antiaircraft fire had enough armament (they were called “Flying Fortresses”) to ward off enemy fighters and keep losses low in daytime, without needing long-range interceptors to defend them;_
+*   _that, while dodging defenses in poor weather over the European continent, American bombardiers could achieve the pickle-barrel accuracy they demonstrated in straight runs over the Arizona desert without cloud cover;_
+*   _that with attainable accuracy, American bombers could destroy critical bottlenecks and vulnerabilities in German industrial networks that would cripple war production;_
+*   _that through the use of high explosives and incendiaries, British bombers flying at night could “de-house” a huge fraction of the German population, destroying German will to fight; and_
+*   _that the morale of the German population (and later, the Japanese) was far more fragile under bombing than that of the Chinese, Spanish, or British had proved to be._
+
 > _Each of these assumptions, every one of them—all articles of faith among strategic-bombing enthusiasts—was decisively disproven by experience in the first years of World War II. But the bombing continued, and greatly increased._
 
 Why did the British and American militaries continue to target dense civilian population centers even after this strategy failed to accomplish their objectives?

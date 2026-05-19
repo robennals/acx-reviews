@@ -1,5 +1,5 @@
 ---
-title: 'The Pebble, Jewel of the 1960 World Series'
+title: The Pebble, Jewel of the 1960 World Series
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.398Z'
 slug: the-pebble-jewel-of-the-1960-world-series
 wordCount: 2688
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Fiction

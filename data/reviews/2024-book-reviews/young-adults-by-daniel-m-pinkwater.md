@@ -7,16 +7,16 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.826Z'
 slug: young-adults-by-daniel-m-pinkwater
-wordCount: 11564
+wordCount: 11553
 readingTimeMinutes: 52
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction
 ---
 
-> “What can I but enumerate old themes…”        –Yeats, “The Circus Animals’ Desertion” (1939).
+> “What can I but enumerate old themes…”  
+> –Yeats, “The Circus Animals’ Desertion” (1939).
 
 Some artists return again and again to their favorite well, same old bucket in hand. Alfred Hitchcock never tires of reminding people that they are _one false accusation_ away from being a fugitive from justice; Jane Austen has a hard time keeping readers in suspense about whether or not her heroes will get together in the end; J. W. Waterhouse will paint the same beautiful woman over and over and she will never have ears; Lord Byron didn’t get the Byronic hero named after him by, you know, _mixing it up_.
 
@@ -163,17 +163,23 @@ Not the author of but the master of the author of the cookbook is Alan W. Watzuk
 [3]  
 I don’t know, maybe (not in order):
 
-_Young Adults  
-_Shirley Jackson, _Life Among the Savages  
-_David Sedaris, _Barrel Fever  
-_Martin Amis, _The Information  
-_Barbara Robinson, _The Best Christmas Pageant Ever  
-_?
+_Young Adults_  
+Shirley Jackson, _Life Among the Savages_  
+David Sedaris, _Barrel Fever_  
+Martin Amis, _The Information_  
+Barbara Robinson, _The Best Christmas Pageant Ever_  
+?
 
 [4]  
 The novels in question are:
 
-_Lizard Music_ (1976)_Alan Mendelsohn, the Boy from Mars_ (1979)_Yobgorgle: Mystery Monster of Lake Ontario_ (1979) [The weakest fit, in my opinion.]_Java Jack_ (1980) [Co-authored with Luqman Keele.]_The Worms of Kukumlima_ (1981)_The Snarkout Boys and the Avocado of Death_ (1982)_The Snarkout Boys and the Baconburg Horror_ (1984) [A sequel, so a little different.]
+_Lizard Music_ (1976)  
+_Alan Mendelsohn, the Boy from Mars_ (1979)  
+_Yobgorgle: Mystery Monster of Lake Ontario_ (1979) [The weakest fit, in my opinion.]  
+_Java Jack_ (1980) [Co-authored with Luqman Keele.]  
+_The Worms of Kukumlima_ (1981)  
+_The Snarkout Boys and the Avocado of Death_ (1982)  
+_The Snarkout Boys and the Baconburg Horror_ (1984) [A sequel, so a little different.]
 
 Notice that many later books, such as _Borgel_ (1990) or _The Neddiad_ (2006) follow an identical pattern.
 
@@ -229,8 +235,8 @@ If I make hundreds of observations, including open-ended observations with an un
 
 [[14]](#ftnt_ref14) I’m not claiming Bayesian principles are never applicable. But Silver’s dismissiveness about Fisher and all principles of frequentist statistics makes it clear that he thinks everything but a Bayesian approach should be abandoned. Consider which of these two positions makes more sense:
 
-> *   Silver’s claim that there’s one equation that effectively eliminates a major branch of the field – one that developed far more recently, and on which thousands of scientific papers and discoveries have relied.
-> *   My claim that statistical models all have in-built assumptions. They apply only in situations where their assumptions can be demonstrated to hold. No one model is applicable in all situations. I’m sure there are even some situations that defy all current models.
+*   Silver’s claim that there’s one equation that effectively eliminates a major branch of the field – one that developed far more recently, and on which thousands of scientific papers and discoveries have relied.
+*   My claim that statistical models all have in-built assumptions. They apply only in situations where their assumptions can be demonstrated to hold. No one model is applicable in all situations. I’m sure there are even some situations that defy all current models.
 
 [[15]](#ftnt_ref15) To be fair, Peter and the judges all updated to the same direction, which is what a good Bayesian would predict. But they did so after assigning significantly different probabilities to many different questions, such that Peter (the debate’s winner) ended up many orders of magnitude away from the judges, while Saar (the debate’s loser) was orders of magnitude in the opposite direction from the judges. Good Bayesian logic dictates this should only happen because everyone started off with wildly disparate priors. But the opposite is the case. They started off closer together than they did at the end. Bayesian logic isn’t supposed to cause divergent conclusions.
 
@@ -276,7 +282,7 @@ All these facts combined suggested it would be virtual suicide for an expansioni
 
 [[33]](#ftnt_ref33) I don’t want to get bogged down as I’m way out of depth here, but my understanding is string theory has another issue, the “string theory landscape” whereby there are > 10^500 possible sets of fundamental string theory parameters and we sort of randomly (??) ended up with one of them which is kind of unsatisfying and seems to present issues re the IC. Here I just want to point out that the unfalsifiability need not be damning.
 
-[[34]](#ftnt_ref34) Consider the function f:**T****O**→ℝ where **T****O** is the space of theories that explain a set of observations O and f(tO) is the information required to specify theory tO (I’m including information required to specify initial conditions and correction factors within tO). Now let O be the whole universe U so our space is **T****U**. Since information required to explain the universe is bounded below by zero, there exists a greatest lower bound (infimum) IUmin. If **T****U** is compact and fU is continuous then fU must reach its infimum for at least one theory tUmin (i.e. f(tUmin) = IUmin) which is the true description of the universe. More generally, if these conditions don’t hold, we can still get arbitrarily close to IUmin, that is for any ε\>0 there exists a theory tUε such that f(tUε) < IUmin+ε.
+[[34]](#ftnt_ref34) Consider the function f:**TO**→ℝ where **TO** is the space of theories that explain a set of observations O and f(tO) is the information required to specify theory tO (I’m including information required to specify initial conditions and correction factors within tO). Now let O be the whole universe U so our space is **TU**. Since information required to explain the universe is bounded below by zero, there exists a greatest lower bound (infimum) IUmin. If **TU** is compact and fU is continuous then fU must reach its infimum for at least one theory tUmin (i.e. f(tUmin) = IUmin) which is the true description of the universe. More generally, if these conditions don’t hold, we can still get arbitrarily close to IUmin, that is for any ε\>0 there exists a theory tUε such that f(tUε) < IUmin+ε.
 
 [[35]](#ftnt_ref35) Or in the parlance of the previous endnote, it’s the theory tOmin.
 
@@ -336,15 +342,15 @@ All these facts combined suggested it would be virtual suicide for an expansioni
 
 [[63]](#ftnt_ref63) What does all this mean? Why did it happen? What made those people burn houses and slay their fellow men? What were the causes of these events? What force made men act so?
 
-> *   Second Epilogue
+*   Second Epilogue
 
 [[64]](#ftnt_ref64) The first method of history is to take an arbitrarily selected series of continuous events and examine it apart from others, though there is and can be no beginning to any event, for one event always flows uninterruptedly from another. The second method is to consider the actions of some one man—a king or a commander—as equivalent to the sum of many individual wills; whereas the sum of individual wills is never expressed by the activity of a single historic personage. Historical science in its endeavor to draw nearer to truth continually takes smaller and smaller units for examination. But however small the units it takes, we feel that to take any unit disconnected from others, or to assume a beginning of any phenomenon, or to say that the will of many men is expressed by the actions of any one historic personage, is in itself false.
 
-> *   Book 11, Chapter 1
+*   Book 11, Chapter 1
 
 [[65]](#ftnt_ref65) The source of that extraordinary power of penetrating the meaning of the events then occuring lay in the national feeling which [Kutuzov] possessed in full purity and strength. Only the recognition of the fact that he possessed this feeling caused the people in so strange a manner, contrary to the Tsar's wish, to select him—an old man in disfavor—to be their representative in the national war. And only that feeling placed him on that highest human pedestal from which he, the commander in chief, devoted all his powers not to slaying and destroying men but to saving and showing pity on them. That simple, modest, and therefore truly great, figure could not be cast in the false mold of a European hero—the supposed ruler of men—that history has invented.
 
-> *   Book 15, Chapter 5
+*   Book 15, Chapter 5
 
 [[66]](#ftnt_ref66) [Pierre explaining his theory of Napoleon at a party] “The execution of the Duc d’Enghien," declared Monsieur Pierre, "was a political necessity, and it seems to me that Napoleon showed greatness of soul by not fearing to take on himself the whole responsibility of that deed….Napoleon alone understood the Revolution and quelled it, and so for the general good, he could not stop short for the sake of one man’s life."
 
@@ -354,53 +360,53 @@ But Pierre continued his speech without heeding her.
 
 "No," cried he, becoming more and more eager, "Napoleon is great because he rose superior to the Revolution, suppressed its abuses, preserved all that was good in it—equality of citizenship and freedom of speech and of the press—and only for that reason did he obtain power."
 
-> *   Book 1, Chapter 5
+*   Book 1, Chapter 5
 
 [[67]](#ftnt_ref67) The chief steward, who considered the young count’s attempts almost insane—unprofitable to himself, to the count, and to the serfs—made some concessions. Continuing to represent the liberation of the serfs as impracticable, he arranged for the erection of large buildings—schools, hospitals, and asylums—on all the estates before the master arrived. Everywhere preparations were made not for ceremonious welcomes (which he knew Pierre would not like), but for just such gratefully religious ones, with offerings of icons and the bread and salt of hospitality, as, according to his understanding of his master, would touch and delude him.
 
-> *   Book 5, Chapter 10
+*   Book 5, Chapter 10
 
 [[68]](#ftnt_ref68) [Andrei predicts that the key action will be on the right flank] His idea was, first, to concentrate all the artillery in the center, and secondly, to withdraw the cavalry to the other side of the dip. Prince Andrei, being always near the commander in chief, closely following the mass movements and general orders, and constantly studying historical accounts of battles, involuntarily pictured to himself the course of events in the forthcoming action in broad outline. He imagined only important possibilities: “If the enemy attacks the right flank,” he said to himself, “the Kiev grenadiers and the Podólsk chasseurs must hold their position till reserves from the center come up.”
 
-> *   Book Book 2, Chapter 19
+*   Book Book 2, Chapter 19
 
 [[69]](#ftnt_ref69) [Andrei explaining his theory after recovering from Austerlitz] “I only know two very real evils in life: remorse and illness. The only good is the absence of those evils. To live for myself avoiding those two evils is my whole philosophy now.” “And love of one’s neighbor, and self-sacrifice?” began Pierre. “No, I can’t agree with you! To live only so as not to do evil and not to have to repent is not enough. I lived like that, I lived for myself and ruined my life.”
 
-> *   Book 5, Chapter 11
+*   Book 5, Chapter 11
 
 [[70]](#ftnt_ref70) “No, life is not over at thirty-one!” Prince Andrei suddenly decided finally and decisively. “It is not enough for me to know what I have in me—everyone must know it: Pierre, and that young girl who wanted to fly away into the sky, everyone must know me, so that my life may not be lived for myself alone while others live so apart from it, but so that it may be reflected in them all, and they and I may live in harmony!”
 
-> *   Book 6, Chapter 3
+*   Book 6, Chapter 3
 
 [[71]](#ftnt_ref71) [Natásha] was tormented by the insoluble question whether she loved Anatole or Prince Andrei. She loved Prince Andrei—she remembered distinctly how deeply she loved him. But she also loved Anatole, of that there was no doubt. “Else how could all this have happened?” thought she. “If, after that, I could return his smile when saying good-by, if I was able to let it come to that, it means that I loved him from the first. It means that he is kind, noble, and splendid, and I could not help loving him. What am I to do if I love him and the other one too?” she asked herself, unable to find an answer to these terrible questions.
 
-> *   Book 8, Chapter 13
+*   Book 8, Chapter 13
 
 [[72]](#ftnt_ref72) [Andrei on his deathbed] But after…he had seen [Natásha] for whom he longed appear before him and, having pressed her hand to his lips, had shed gentle, happy tears, love for a particular woman again crept unobserved into his heart and once more bound him to life. And joyful and agitating thoughts began to occupy his mind.
 
-> *   Book 12, Chapter 16
+*   Book 12, Chapter 16
 
 [[73]](#ftnt_ref73) [Shortly after Pierre’s marriage] Particularly vivid, humiliating, and shameful was the recollection of how one day soon after his marriage he came out of the bedroom into his study a little before noon in his silk dressing gown and found his head steward there, who, bowing respectfully, looked into his face and at his dressing gown and smiled slightly, as if expressing respectful understanding of his employer’s happiness.
 
-> *   Book 4, Chapter 6
+*   Book 4, Chapter 6
 
 [[74]](#ftnt_ref74) For a long while after [his Masonic Mentor] had gone, Pierre did not go to bed or order horses but paced up and down the room, pondering over his vicious past, and with a rapturous sense of beginning anew pictured to himself the blissful, irreproachable, virtuous future that seemed to him so easy. It seemed to him that he had been vicious only because he had somehow forgotten how good it is to be virtuous. Not a trace of his former doubts remained in his soul. He firmly believed in the possibility of the brotherhood of men united in the aim of supporting one another in the path of virtue, and that is how Freemasonry presented itself to him.
 
-> *   Book 5, Chapter 2
+*   Book 5, Chapter 2
 
 [[75]](#ftnt_ref75) [Natásha dancing in the countryside] Natásha threw off the shawl from her shoulders… and setting her arms akimbo also made a motion with her shoulders and struck an attitude. Where, how, and when had this young countess, educated by an émigrée French governess, imbibed from the Russian air she breathed that spirit and obtained that manner which the pas de châle would, one would have supposed, long ago have effaced? But the spirit and the movements were those inimitable and unteachable Russian ones…As soon as she had struck her pose, and smiled triumphantly, proudly, and with sly merriment, the fear … that she might not do the right thing was at an end, and they were already admiring her. She did the right thing with such precision, such complete precision, that [her aunt] had tears in her eyes, though she laughed as she watched this slim, graceful countess, reared in silks and velvets and so different from herself, who yet was able to understand all that was … in every Russian man and woman.
 
-> *   Book 7, Chapter 7
+*   Book 7, Chapter 7
 
 [[76]](#ftnt_ref76) [Pierre experimenting with numerology] So he wrote _Le russe Besuhof_ (The Russian Bezukhov) and adding up the numbers got 671. This was only five too much, and five was represented by "e", the very letter elided from the article _le_ before the word Empereur. By omitting the e, though incorrectly, Pierre got the answer he sought. L’russe Besuhof made 666. This discovery excited him. How, or by what means, he was connected with the great event foretold in the Apocalypse he did not know, but he did not doubt that connection for a moment. His love for Natásha, Antichrist, Napoleon, the invasion, the comet, 666, L’Empereur Napoléon, and L’russe Besuhof—all this had to mature and culminate, to lift him out of that spellbound, petty sphere of Moscow habits in which he felt himself held captive and lead him to a great achievement and great happiness.
 
-> *   Book 9, Chapter 19
+*   Book 9, Chapter 19
 
 [[77]](#ftnt_ref77) See, e.g., Law and social capital: Evidence from the Code Napoleon in Germany, JC Buggle - European Economic Review, 2016
 
 [[78]](#ftnt_ref78) Do you know what this summer has been for me? An endless ecstasy over Schopenhauer, and a series of mental pleasures such as I’ve never experienced before. I have bought all his works and have read and am reading them (as well as Kant's). And assuredly no student in his course has learned and discovered so much as I have during this summer. I do not know whether I shall ever change my opinion, but as present I’m confident that Schopenhauer is the greatest genius among men.
 
-> *   Diary of Leo Tolstoy
+*   Diary of Leo Tolstoy
 
 [[79]](#ftnt_ref79) If anyone doubted that the Christian world of today has reached a frightful state of torpor and brutalization (not forgetting the recent crimes committed in the Boers and in China, which were defended by the clergy and acclaimed as heroic feats by all the world powers), the extraordinary success of Nietzche's works is enough to provide irrefutable proof of this. Some disjointed writings, striving after effect in a most sordid manner, appear, written by a daring, but limited and abnormal German, suffering from power mania. Neither in talent nor in their basic argument do these writings justify public attention. In the days of Kant, Leibniz or Hume, or even fifty years ago, such writings would not only have received no attention, but they would not even have appeared. But today all the so-called educated people are praising the ravings of Mr N, arguing about him, elucidating him, and countless copies of his works are printed in all languages.
 
@@ -410,7 +416,7 @@ Similarly, the whole world knows that virtue consists in the subjugation of one'
 
 The majority of pseudo-enlightened people seriously look into the theory of the superman, and acknowledge its author to be a great philosopher, a descendant of Descartes, Leibniz and Kant. And all this has come about because the majority of the pseudo-enlightened men of today object to any reminder of virtue, or to its chief premise: self-renunciation and love - virtues that restrain and condemn the animal side of their life. They gladly welcome a doctrine, however incoherently and disjointedly expressed, of egotism and cruelty, sanctioning the ideas of personal happiness and superiority over the lives of others, by which they live.
 
-> *   “What is Religion and of What Does its Essence Consist?”
+*   “What is Religion and of What Does its Essence Consist?”
 
 [[80]](#ftnt_ref80) Like the old proverb about the month of March: In like a lion, out like a lamb.
 

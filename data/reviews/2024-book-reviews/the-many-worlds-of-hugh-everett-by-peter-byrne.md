@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:14.010Z'
 slug: the-many-worlds-of-hugh-everett-by-peter-byrne
 wordCount: 2184
 readingTimeMinutes: 10
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Science

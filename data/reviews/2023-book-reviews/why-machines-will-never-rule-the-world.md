@@ -7,9 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:53.965Z'
 slug: why-machines-will-never-rule-the-world
-wordCount: 2549
+wordCount: 2543
 readingTimeMinutes: 12
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-why-machines-will'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-why-machines-will
 source: acx
 tags:
   - Technology
@@ -31,13 +31,13 @@ The authors thoroughly and commendably engage with a breadth of literature in ph
 Landgrebe and Smith don’t deliver their argument proper until Chapter 7, but they’re merciful enough to lay out its bones in the Foreword. Here’s a condensed version:
 
 1.  Building artificial general intelligence requires emulating in software the kind of systems that manifest human-level intelligence.
-    
+
 2.  Human-level intelligence is the result of a complex, dynamic system.
-    
+
 3.  Complex systems can’t be modeled mathematically in a way that allows them to be emulated by a computer.
-    
+
 4.  Therefore, AGI—at least by way of computers—is impossible.
-    
+
 
 And by impossible they really mean it. A solution “cannot be found; not because of any shortcomings in the data or hardware or software or human brains, but rather for _a priori_ reasons of mathematics.”
 

@@ -1,5 +1,5 @@
 ---
-title: 'Sadly, Porn'
+title: Sadly, Porn
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.661Z'
 slug: sadly-porn
-wordCount: 40807
+wordCount: 40858
 readingTimeMinutes: 182
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Society
@@ -48,11 +47,9 @@ Let me make you a promise. One of things I like from Scott's review is his frami
 
 1.
 
-_**Once meek, and in a perilous path**_
-
-_**The just man kept his course along**_
-
-_**The Vale of Death.**_
+> _**Once meek, and in a perilous path**_  
+> _**The just man kept his course along**_  
+> _**The Vale of Death.**_
 
 In school, they taught me that I had to define my terms when starting an essay, and if they teach you something in school, you know it has to be true.
 
@@ -158,21 +155,14 @@ Above all they have to learn to deal with people. The human mind has a kind of n
 
 If all goes well, you would end up with an adult who fulfils some vision of mental health or flourishing. I’ll use the description of a virtuous man in the _Nicomachean Ethics_ for argument’s sake. A man who is capable of both engaging in useful action and bearing inevitable pain, confident and self-possessed but capable of collaborating with others, with deeply held values tempered by rational self-interest. Or take it from [Kipling](https://www.poetryfoundation.org/poems/46473/if---) if you prefer:
 
-_“If you can keep your head when all about you_  
-
-    _Are losing theirs and blaming it on you,_  
-
-_If you can trust yourself when all men doubt you,_
-
-    _But make allowance for their doubting too;_  
-
-_If you can wait and not be tired by waiting,_
-
-    _Or being lied about, don’t deal in lies,_
-
-_Or being hated, don’t give way to hating,_
-
-    _And yet don’t look too good, nor talk too wise”_
+> _“If you can keep your head when all about you_  
+> _Are losing theirs and blaming it on you,_  
+> _If you can trust yourself when all men doubt you,_  
+> _But make allowance for their doubting too;_  
+> _If you can wait and not be tired by waiting,_  
+> _Or being lied about, don’t deal in lies,_  
+> _Or being hated, don’t give way to hating,_  
+> _And yet don’t look too good, nor talk too wise”_
 
 But what happens when this process fails?
 
@@ -242,9 +232,9 @@ What happens next is the child cries and the parent realises what they've done, 
 
 What the child has learned from this process is that:
 
-> *   Your authority is arbitrary
-> *   You can be placated for them to get what they want
-> *   All they need to do is figure out _what will placate you_.
+*   Your authority is arbitrary
+*   You can be placated for them to get what they want
+*   All they need to do is figure out _what will placate you_.
 
 A harsh, even abusive parent who merely beats their kids for no reason is sure to give them some kind of pathology, but they won't get the second and third parts so this won't create narcissists. It's this unstable emotional dynamic: at once nurturing then punishing without a predictable underlying logic that could allow them to develop a clear understanding of right and wrong.
 
@@ -458,7 +448,7 @@ More sinister (pardon the pun) is the problem of ideology. The power of ideas in
 
 Finally, in our society, science itself has become an institution and a bureaucracy, meaning it’s subject to the same pathologies of bureaucracy that we’ve already discussed. Consider the impact of quantification; the more papers an academic publishes, the better an academic they are, so publish or perish. They stop writing books, they take too long. Every insight has to be pithy enough to make sense in an article. Now there’s so many articles flying around that no-one can read all of them or try to replicate them, so why even bother trying to conduct meaningful research? Why not just fabricate data, p-hack or plagiarise?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/b03574d2427df5f5.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/d59a97564efa1874.png)
 
 Something funny is starting to happen here: the replication crisis is a bit like how the narcissist can’t tell interior from exterior content. Academia, as the social organ that deals with knowledge, can't tell the difference between the data it's gathering from reality and the dross that the institution creates from the irrationality of its own organisation.
 
@@ -484,7 +474,7 @@ Jargon begins within a profession as a precise technical language, morphs into a
 
 Economists love to do this. Consider the masterpiece of jargon that is Quantitative Easing. Quantitative, meaning to do with quantity, and easing, meaning to let off pressure. They’re letting off pressure through quantity. Of course, this is the opposite of what it is: the point is to increase pressure, to _inflate_. A cynic would say that quantitative easing is when the government prints money and gives it to banks. An economist would rightly step in here and explain that they’re not _printing money,_ they're _adding it to the balance sheet of the central bank_. They’re not _giving it to banks,_ they're _increasing the liquidity of financial markets_. In other words, they’re printing money and giving it to banks (and the government). There is a genuine difference, in that the government debt on the Fed balance sheet has to be paid off, _in principle_.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/43be776fbcb55150.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/b48a96f1b118dd51.png)
 
 Yeah, let me know when that happens.
 
@@ -536,11 +526,9 @@ So much of our language is metaphorical, but we rarely notice this in everyday l
 
 A good metaphor enhances our understanding of something in a way that a literal description of it wouldn't, and a great metaphor has such pristine mathematical clarity that literal description could never hope to match.
 
-_What shall my west hurt me? As west and east_
-
-_In all flat maps (and I am one) are one,_
-
-_So death doth touch the resurrection._
+> _What shall my west hurt me? As west and east_  
+> _In all flat maps (and I am one) are one,_  
+> _So death doth touch the resurrection._
 
 Metaphor, in some sense, is more real, more basic, than “literal” description. Poetry, when it's good, is not some abstruse way of writing it is the ultimate form of concision and clarity, lossless compression. It relies on a common understanding, common images, the texture of the language it’s written in; this means it is a kind of _metis_ and is probably why poetry has been in decline for some time. Good prose is always _episteme_; maybe next year I should write an epic instead.
 
@@ -554,9 +542,8 @@ If you find yourself about to say or write something cliché, try to at least ex
 
 17.
 
-_**Prudence is a rich ugly old maid courted by Incapacity**_
-
-_“I went down yesterday to Piraeus - No, wait, that wasn’t me”_
+> _**Prudence is a rich ugly old maid courted by Incapacity**_  
+> _“I went down yesterday to Piraeus - No, wait, that wasn’t me”_
 
 Just as the city reflects the mind, the mind reflects the city. As Plato argued, certain tendencies in the human mind may be more apparent when viewed at the macro level.
 
@@ -600,13 +587,10 @@ _The Oracle always tells you what you want to hear_. It doesn’t lie; it just g
 
 20.
 
-_**Now the sneaking serpent walks**_
-
-_**In mild humility;**_
-
-_**And the just man rages in the wilds**_
-
-_**Where lions roam.**_
+> _**Now the sneaking serpent walks**_  
+> _**In mild humility;**_  
+> _**And the just man rages in the wilds**_  
+> _**Where lions roam.**_
 
 The canonical artistic explorations of narcissism in media are _The Sopranos_ and _Mad Men_; I think something about the repetitive nature of TV made it the perfect medium for exploring the concept. In most sitcoms the characters are caught in a kind of stasis or time warp that keeps them in an eternal present; in the _Simpsons_, the world advances, but the characters stay the same age. In the Sopranos and Mad Men, time is passing, the characters are ageing, but the characters' personalities stay the same or get worse. This is practically explicit within the [text](https://www.youtube.com/watch?v=vqTWW6CWC0s) of the TV shows themselves.
 
@@ -740,37 +724,22 @@ Why does the Devil torture people in Hell? It’s like the old joke goes, aren�
 
 Because he’s dumb, that’s why. His only pleasure is in depriving the other, in the pain he can inflict on others. He always lies, because he doesn't know what the truth is, he couldn't tell the truth even if he wanted to. He is incapable of gratitude, and of seeing the bigger picture. If he knew better, he wouldn’t be there.
 
-_O foul descent! that I who erst contended_
-
-_With Gods to sit the highest, am now constraind_
-
-_Into a Beast, and mixt with bestial slime,_
-
-_This essence to incarnate and imbrute,_
-
-_That to the height of Deitie aspir’d;_
-
-_But what will not Ambition and Revenge_
-
-_Descend to? Who aspires must down as low_
-
-_As high he soard, obnoxious first or last_
-
-_To basest things. Revenge, at first though sweet,_
-
-_Bitter ere long back on it self recoiles;_
-
-_Let it; I reck not, so it light well aim’d,_
-
-_Since higher I fall short, on him who next_
-
-_Provokes my envie, this new Favorite_
-
-_Of Heav’n, this Man of Clay, Son of despite,_
-
-_Whom us the more to spite his Maker rais’d_
-
-_From dust: spite then with spite is best repaid._
+> _O foul descent! that I who erst contended_  
+> _With Gods to sit the highest, am now constraind_  
+> _Into a Beast, and mixt with bestial slime,_  
+> _This essence to incarnate and imbrute,_  
+> _That to the height of Deitie aspir’d;_  
+> _But what will not Ambition and Revenge_  
+> _Descend to? Who aspires must down as low_  
+> _As high he soard, obnoxious first or last_  
+> _To basest things. Revenge, at first though sweet,_  
+> _Bitter ere long back on it self recoiles;_  
+> _Let it; I reck not, so it light well aim’d,_  
+> _Since higher I fall short, on him who next_  
+> _Provokes my envie, this new Favorite_  
+> _Of Heav’n, this Man of Clay, Son of despite,_  
+> _Whom us the more to spite his Maker rais’d_  
+> _From dust: spite then with spite is best repaid._
 
 Spite then with spite is best repaid; this is what keeps you in hell.
 
@@ -860,7 +829,7 @@ My usage of Christianity is not arbitrary, I think there is something unique the
 
 If you can have narcissistic liberalism, and narcissistic Christianity, can you have narcissistic conservatism?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/299c5de1d91a8e2d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/cd77d511789986ab.png)
 
 The answer to this question will be left as an exercise for the reader.
 
@@ -978,7 +947,7 @@ That black terminal screen; people recoil from it like it's the Ark of the Coven
 
 What the terminal offers you is nothing less than godlike power itself. The machine does nothing but strictly what you command it to do. It is but an instrument of your will, all you have to do is wrestle with it.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/81ae846d557a7552.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/fa34a3f2ade01fa1.png)
 
 _You, when you open the_ _[man pages](https://en.wikipedia.org/wiki/Man_page)_
 
@@ -1004,9 +973,9 @@ The sexual revolution is a by-product of urbanisation; where people used to live
 
 So, to tackle this at its roots, all you have to do is:
 
-> 1.  Reverse Urbanisation
-> 2.  Reverse the Industrial Revolution
-> 3.  Reverse technological advancement
+1.  Reverse Urbanisation
+2.  Reverse the Industrial Revolution
+3.  Reverse technological advancement
 
 Simple.
 
@@ -1072,11 +1041,9 @@ _**For man has closed himself up, till he sees all things through narrow chinks 
 
 A Pope once enjoined us that:
 
-_“Know then thyself,_
-
-_Presume not god to scan,_
-
-_The proper study of mankind is Man.”_
+> _“Know then thyself,_  
+> _Presume not god to scan,_  
+> _The proper study of mankind is Man.”_
 
 But like any of God's Englishmen, I have an inherent distrust of Popery. Is the mind of man any more scrutable than that of God?
 
@@ -1122,33 +1089,20 @@ _This is indeed what the injunction about the mysteries makes clear, not to comm
 
 Sorry, perhaps that isn’t clear. I think this poem by John Donne expresses the sentiment more elegantly in English:
 
-_Batter my heart, three-person'd God, for you_
-
-_As yet but knock, breathe, shine, and seek to mend;_
-
-_That I may rise and stand, o'erthrow me, and bend_
-
-_Your force to break, blow, burn, and make me new._
-
-_I, like an usurp'd town to another due,_
-
-_Labor to admit you, but oh, to no end;_
-
-_Reason, your viceroy in me, me should defend,_
-
-_But is captiv'd, and proves weak or untrue._
-
-_Yet dearly I love you, and would be lov'd fain,_
-
-_But am betroth'd unto your enemy;_
-
-_Divorce me, untie or break that knot again,_
-
-_Take me to you, imprison me, for I,_
-
-_Except you enthrall me, never shall be free,_
-
-_Nor ever chaste, except you ravish me._
+> _Batter my heart, three-person'd God, for you_  
+> _As yet but knock, breathe, shine, and seek to mend;_  
+> _That I may rise and stand, o'erthrow me, and bend_  
+> _Your force to break, blow, burn, and make me new._  
+> _I, like an usurp'd town to another due,_  
+> _Labor to admit you, but oh, to no end;_  
+> _Reason, your viceroy in me, me should defend,_  
+> _But is captiv'd, and proves weak or untrue._  
+> _Yet dearly I love you, and would be lov'd fain,_  
+> _But am betroth'd unto your enemy;_  
+> _Divorce me, untie or break that knot again,_  
+> _Take me to you, imprison me, for I,_  
+> _Except you enthrall me, never shall be free,_  
+> _Nor ever chaste, except you ravish me._
 
 Do you still not get it? Okay, one last time, in my own words:
 
@@ -1526,13 +1480,10 @@ _“Will this book help me learn more about myself?’ Ugh. The whole earth is s
 
 Take a look at Isaiah 29:14;
 
-_“Therefore once more I will astound these people_
-
-    _with wonder upon wonder;_
-
-_the wisdom of the wise will perish,_
-
-    _the intelligence of the intelligent will vanish.”_
+> _“Therefore once more I will astound these people_  
+> _with wonder upon wonder;_  
+> _the wisdom of the wise will perish,_  
+> _the intelligence of the intelligent will vanish.”_
 
 God's answer is in his silence, in how we interpret his silence.
 

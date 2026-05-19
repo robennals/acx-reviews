@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.406Z'
 slug: toki-pona-the-language-of-good
 wordCount: 3261
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Society
@@ -37,7 +36,7 @@ Scott: Well... how would you explain drug reviews to me in 120 words?
 
 jan Alise: Step by step. Idea by idea. The first step is to understand. We have a saying: “_sina ken ala toki pona e ijo la, sina sona ala e ijo”_ – if you can not say simply a thing, you understand not the thing.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/36e5059c30203b71.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/00df35331c55647f.png)
 
 _sina ken ala toki pona e ijo la, sina sona ala e ijo – by a member of the Toki Pona community who shall remain anonymous for the duration of the contest. The text is written in the “sitelen suwi” decorative writing system, using a custom glyph for the second “ijo”._
 

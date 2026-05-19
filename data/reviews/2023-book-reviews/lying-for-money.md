@@ -7,9 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:51.687Z'
 slug: lying-for-money
-wordCount: 12628
-readingTimeMinutes: 57
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-lying-for-money'
+wordCount: 12542
+readingTimeMinutes: 58
+originalUrl: https://www.astralcodexten.com/p/your-book-review-lying-for-money
 source: acx
 tags:
   - Economics
@@ -112,13 +112,13 @@ Davies ends his first chapter, saying:
 Davies loosely divides his book into four sections (plus an intro and outro and some asides about what his observations imply about the wider economy), each focusing on a different type of fraud, which arranges in order of ascending abstraction.
 
 1.  The Long Firm. (Of the white collar frauds that Davies describes, the "long firm" is the easiest to understand from a conceptual standpoint, but the hardest to understand semantically, because it has nothing to do with lengths or firms: etymologically, it comes from the Anglo-Saxon “galang” – fraudulent – and the Latin “firma” – signature). "The most basic kind of fraud is simply to borrow some money and not pay it back, or alternatively buy some goods and not pay for them. … **A long firm makes you question whether you can trust anyone."**
-    
+
 2.  Counterfeiting.  "The only practical way to do many types of business is to trust that, for the most part, documents are what they appear to be, and that they prove what they claim to prove. Abusing this trust by creating false documents to verify false claims is counterfeiting. … **A counterfeit makes you question the evidence of your eyes."**
-    
+
 3.  Control Fraud.  "A control fraud differs from the simpler kind because the means by which the value is extracted to the criminal is generally legitimate – high salaries, bonuses, stock options and dividends, but the legitimate payments are made on the basis of fictitious profits and unreal assets, and the manager tends to take vastly higher risks than those which would be taken by an honest businessman. … **A control fraud makes you question your trust in the institutions of society."**
-    
+
 4.  And lastly, Market Crimes. Davies admits that "market crimes'' are the most abstract, and difficult to define: "More than any other, this kind of crime is a matter of judgment, local convention and practice, rather than one of cut and dried criminality. A blatant market crime in one jurisdiction could be considered aggressive but legal practice in another, and the definition of good business somewhere else. A long firm clearly falls under ‘Thou shalt not steal’, and a counterfeit under ‘Thou shalt not bear false witness’, but where’s the commandment ‘Thou shalt not trade securities while in possession of material non-public information’?" Still, even if norms may not be universal across time and geography, the existence of norms implies the existence of norm violations, and people don't like it when they see a violation of the way they think the world (or markets) are supposed to work.  "**A market crime makes you question society itself."**
-    
+
 
 ## The Long Firm
 

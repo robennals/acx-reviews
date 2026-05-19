@@ -9,15 +9,14 @@ publishedDate: '2026-02-06T16:52:48.904Z'
 slug: identity
 wordCount: 2892
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Philosophy
   - Psychology
 ---
 
-**I.**
+## I.
 
 Rationalists are fond of advice like this: “Keep your identity small”, “Cultivate a scout identity”, which always makes me wonder, “What do they mean?”
 
@@ -40,14 +39,14 @@ LessWrong gives a more precise [definition](https://www.lesswrong.com/w/identity
 And [Clearer Thinking](https://programs.clearerthinking.org/question_your_identity.html) has this extensional definition of the set:
 
 > Your identity is made up of:
->
-> *   Traits that describe you _(I am funny, athletic, disorganized, etc.)_
-> *   Relationships or groups you belong to _(I am a father, a chef, a fan of my hometown sports team etc.)_
-> *   The ideologies of the groups you belong to _(I am a conservative, a feminist, a neo-liberal)_
+
+*   Traits that describe you _(I am funny, athletic, disorganized, etc.)_
+*   Relationships or groups you belong to _(I am a father, a chef, a fan of my hometown sports team etc.)_
+*   The ideologies of the groups you belong to _(I am a conservative, a feminist, a neo-liberal)_
 
 These are workable definitions. Naturally, I don’t deny that people have a conception of themselves, or traits, or that they belong to groups. However, using the term “identity” suggests that the disparate elements in this set form one unified whole. Just like mathematicians don’t call the set {12, -400.857845966+π, ℝ, x↦x/2} anything, we should not give the set of all of a person’s attributes a name. Do our traits or relationships have the same ability to warp our thinking as our ideologies? Do they do so via the same mechanisms? And does it really help you to think more clearly if you say “I fathered this child” rather than “I am this child’s father”?
 
-**II.**
+## II.
 
 It’s obvious why people want to maintain their relationships. Relationships (most of them, anyway) are net-positive and afford all sorts of emotional and/or material benefits. There are definitely situations where they can become epistemically dangerous, for instance, when a friend did something bad, denies it, and you refuse to believe the accusations, but that follows from the nature of friendships, not identity.
 
@@ -67,7 +66,7 @@ Status provides the more appealing framework because it grounds the behaviors it
 
 So it really is just signaling all the way down. Or people are complex, they have several fundamental drives, it is not easy to predict how those play out in any given situation, and that is why it makes no sense to lump all behavioral or belief patterns together.
 
-**III.**
+## III.
 
 When I asked if it really helps you to think more clearly if you say “I fathered this child” rather than “I am this child’s father”, many of you probably thought “yes, obviously”. The phrase “being a father” comes with loads of moral connotations, whereas “fathering a child” states the fact and nothing else. If you want to stick to that and reject the moral implications, you might say “I fathered” and not “I am a father” (though Alice and I would hope that you better have very good reasons for that). Likewise, looking at the two sentences “I agree with the positions of party P” and “I am a P-ist”, it is easier for me to imagine the former being continued with “but …”. Only the second speaker has P-ism as part of their identity, while the former does not, or at least has it to a lesser degree. So do I agree that identity is epistemically problematic? No, because that conclusion would conflate correlation and causality. Probably the second person started growing overconfident in party P’s positions before they started calling themselves a P-ist. Identity-related speech can be a warning sign of a trapped prior, but not a strong one, and is mostly just a turn of phrase.
 
@@ -83,11 +82,11 @@ And yet, in this example, you don’t have a drive to defend this belief because
 
 So that leaves us at: people care about themselves, and beliefs about oneself can involve feedback loops. Identity is maybe just a popular and somewhat mystifying figure of speech to describe these facts. My problem is then that for some reason I am a century or two behind on the [word-frequency curve](https://books.google.com/ngrams/graph?content=identity&year_start=1800&year_end=2022&corpus=en&smoothing=3):
 
-![The plot of the curve since 1800 shows the word frequency staying constant until 1920-40, around which time it started growing exponentially, reaching its maximum in 2019, followed by a tiny downward dent.](https://acximages.ennals.org/images/2025-non-book-reviews/324d4e1827fcf870.png)
+![The plot of the curve since 1800 shows the word frequency staying constant until 1920-40, around which time it started growing exponentially, reaching its maximum in 2019, followed by a tiny downward dent.](https://acximages.ennals.org/images/2025-non-book-reviews/642e4a11e4bc7d1f.png)
 
 Where my contemporaries say identity, I use the words that our ancestors might have used. Where they say “Ukrainians are defending their identity”, I say “Ukrainians are defending their freedom”. When they say “conflicting identities”, I think of Jekyll and Hyde, not “[How do gender roles affect extremism?](https://www.undp.org/asia-pacific/tolerance-and-diversity/conflicting-identities)”. Identity already has a meaning; it means sameness. That’s its literal Latin meaning, that’s how we use it in Maths, and in terms like “personal identity” or “identity provider”. Maybe I am just being the mathematical and [etymological](https://www.youtube.com/watch?v=scS-Z70e4Xo) equivalent of those obnoxious people who demand that tomatoes must not be called vegetables because botanically they are fruits, but I still find myself insisting that the identity this essay is about is just a cheap rip-off of that trusted, useful notion.
 
-**IV.**
+## IV.
 
 While I think the discourse around identity is built on vapid ideas, it still hints at something true. Graham’s “keep your identity small” or Galef’s “hold your identity lightly” (which I prefer over the first one) can be good advice, which can be formulated even better.
 

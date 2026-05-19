@@ -1,5 +1,5 @@
 ---
-title: 'Museum Of Science, Boston'
+title: Museum Of Science, Boston
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.481Z'
 slug: museum-of-science-boston
-wordCount: 2011
+wordCount: 2007
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Memoir
@@ -58,10 +57,10 @@ Enter the Snake. This proto-rationalist-Dark Arts practicing serpent asked Eve a
 
 When she remained very much alive, the forbidden fruit suddenly seemed less forbidden. One bite later, and, well, it ended badly for all of us. And so history repeats itself at the Museum of Science: the children visiting the Museum played the role of Eve, the museum staffers were cast as Adam with their well-meaning but overzealous interpretations of the rules, and the snake was the tempting snake. As in the original tale, everyone ended up punished.
 
-> *   The museum staffers were punished by having to spend their time at the museum scolding small children instead of educating people.
-> *   The children were punished by not being able to touch anything.
-> *   Parents and guardians were punished by enduring judgmental looks from others for their imperfectly behaved children.
-> *   The snake was punished by losing the ability to talk, losing its hands and legs, and ending up in science museums, where it spends all day crawling on its belly, listening to kids being scolded for touching the glass.
+*   The museum staffers were punished by having to spend their time at the museum scolding small children instead of educating people.
+*   The children were punished by not being able to touch anything.
+*   Parents and guardians were punished by enduring judgmental looks from others for their imperfectly behaved children.
+*   The snake was punished by losing the ability to talk, losing its hands and legs, and ending up in science museums, where it spends all day crawling on its belly, listening to kids being scolded for touching the glass.
 
 My children's current habit of _touching_ rather than _tapping_ the glass actually represents significant progress in their museum behavior, from a few years ago, when they would have been _climbing_ it.
 

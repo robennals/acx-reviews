@@ -7,9 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:03.119Z'
 slug: safe-enough
-wordCount: 5005
+wordCount: 4938
 readingTimeMinutes: 23
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-safe-enough'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-safe-enough
 source: acx
 tags:
   - Technology
@@ -115,13 +115,13 @@ If the retailer took the notion seriously, she might systematically examine each
 The fire, of course, began to spread out of control. Among the problems encountered during the thirty minutes between ignition and plant shutdown: 
 
 1.  The engineers spent 15 minutes trying to put the fire out themselves, rather than sound the alarm per protocol; 
-    
+
 2.  When the engineers decided to call in the alarm, no one could remember the correct telephone number; 
-    
+
 3.  Electricians had covered the CO2 fire suppression triggers with metal plates, blocking access; and 
-    
+
 4.  Despite the fact that "control board indicating lights were randomly glowing brightly, dimming, and going out; numerous alarms occurring; and smoke coming from beneath panel 9-3, which is the control panel for the emergency core cooling system (ECCS)", operators tried the equivalent of unplugging the control panel and rebooting it to see if that fixed things. For ten minutes.
-    
+
 
 This was exactly the sort of Rube Goldberg cascade predicted by Rasmussen's team. Applied to nuclear power plants, the mathematics of Probabilistic Risk Assessment ultimately showed that ‘nuclear events’ were much more likely to occur than previously believed. But accidents also started small, and with proper planning there were ample opportunities to interrupt the cascade. The computer model of the MIT engineers seemed, in principle, to be an excellent fit to reality. 
 

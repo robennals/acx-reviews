@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.171Z'
 slug: the-party-the-secret-world-of-chinas-communist-rulers-by-richard-mcgregor
-wordCount: 4056
-readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+wordCount: 4050
+readingTimeMinutes: 18
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Politics
@@ -28,7 +27,7 @@ Numbers that describe the growth of the Chinese economy are eye-popping. (The Pa
 
 First off, McGregor clarifies the system of government in China (as much as he can). There are courts, cabinets, and governments at each level: city, province, federal. But these are subordinate to the party committees at the corresponding level. So, the real chain of power would look something like this:
 
- ![](https://acximages.ennals.org/images/2022-book-reviews/686b57864b92fb88.jpg)
+ ![](https://acximages.ennals.org/images/2022-book-reviews/7b4884913be0018e.jpg)
 
 In this diagram, the solid lines are real reporting lines. (i.e. The mayor is officially answerable to the governor.) And the dotted lines are part of the Party system. The Mayor unofficially reports to the Secretary of the City Party Committee. Ultimately, its existence is not something which can be proved through documents or journalistic reporting. McGregor's claim that this line exists is based on his experiences in China. Throughout the book, he gives many examples that reinforce his point that the dotted line exists and takes precedence over the solid line. (One of my complaints with the book is the way in which McGregor assumes the existence of this line in some parts of the book, instead of trying to prove otherwise and having to resort to its existence despite his best efforts.)
 
@@ -47,9 +46,9 @@ The State-approved consensus inside China is that Mao is "70% good and 30% bad."
 
 Mao is the man behind the People's Republic of China. He was Chairman of the CPC for the longest period of time. He is the amalgamation of three key figures in communism.
 
-> *   **Marx' Ideology:** Mao Zedong thought is the root of Chinese socialist ideology
-> *   **Lenin's Revolution:** Mao was the revolutionary who overthrew the previous system and kick started a country based on this ideology
-> *   **Stalin's Despotism:**, Mao was the despotic ruler who lost his way and implemented policies which lead to the death of millions and destruction of traditional Chinese culture
+*   **Marx' Ideology:** Mao Zedong thought is the root of Chinese socialist ideology
+*   **Lenin's Revolution:** Mao was the revolutionary who overthrew the previous system and kick started a country based on this ideology
+*   **Stalin's Despotism:**, Mao was the despotic ruler who lost his way and implemented policies which lead to the death of millions and destruction of traditional Chinese culture
 
 Mao's ideology and revolution are the 70% good that he gets credit for. 30% is docked for the path he chose when his initial plan failed. Mao Zedong thought is the foundation stone of the Chinese system of government. He can **never** be extricated from China's image of itself or from the story that China tells about its triumphs and tribulations.
 
@@ -94,7 +93,7 @@ This part of the book was the most revelatory for me. It is clear to me that off
 
 A large part of China's economic growth has come from the _right_ amount of decentralisation. What is that right amount? There is no answer to this question. There does seem to be a "tolerable" level of decentralisation though, because the government in Beijing is stuck in a policy cycle with alternating periods of centralization and decentralisation. This diagram illustrates the cycle.
 
- ![](https://acximages.ennals.org/images/2022-book-reviews/213cf12a862236da.jpg)
+ ![](https://acximages.ennals.org/images/2022-book-reviews/2787c41f6f92f87c.jpg)
 
 McGregor says that local and regional governments will tow the Party line when it comes to political campaigns (such as those relating to propaganda or ideology). As for economic policy, local governments will pick what they believe will work for their region and implement only those. This disobedience is corrosive even for Beijing because it lives on as a reflection of the Party's incomplete control over China's economy. However, it is also beneficial for Beijing because freedom to steward each region's economy in a different direction is the only way to deliver growth in a country as large and diverse as China. Each economic region has different characteristics and Central Planning was proven to be a failure.
 
@@ -124,9 +123,9 @@ The Party's approach has very much been: **"Deliver economic growth to all parts
 
 The CPC has had an uncanny ability to foresee the booms of the future. When presented as a list, they are impressive.
 
-> 1.  **Avoiding Oligarchy:** Countries started with the same fundamental problems after the Second World War: Inefficient state-run businesses that needed to be optimised because the state was going to get out of business. Oligarchs took over a lot of businesses when the Soviet Union collapsed. India accelerated into Oligarchy at a slower rate, but [eventually reached the same endpoint.](https://www.bloomberg.com/news/articles/2021-11-12/two-billionaires-are-central-to-india-s-oversized-net-zero-ambitions) Capitalism produced this output as the desired endpoint in America. China avoided it, _somehow._ China made its state enterprises efficient businesses. This was not done through privatisation; instead the state consolidation in these businesses increased! As an added advantage, this state consolidation was a policy tool: Chinese banks abroad and Chinese energy companies abroad serve as extensions of the Chinese government's economic and energy policy.
-> 2.  **Avoiding Arms Races:** Military expansion was not going to provide China with a guarantee against subjugation. China continues to avoid the kind of arms races which consume resources without producing any progress.
-> 3.  **No Rival Centers of Power:** The CPC has been very successful in ensuring that **all power emanates from or flows through the CPC.** There are controls to ensure that wealth or following can never become a center for power. For e.g., Amway and other direct sales companies were not allowed in China because the Party recognized the religion-like characteristics of this movement. (The promise of easy victories and large rallies with inspirational speeches must have been what gave these enterprises away.) There are no trade unions which are not allowed by the Party. (The CPC is the spokesperson of the Chinese worker. Why then should the worker need another union?)
+1.  **Avoiding Oligarchy:** Countries started with the same fundamental problems after the Second World War: Inefficient state-run businesses that needed to be optimised because the state was going to get out of business. Oligarchs took over a lot of businesses when the Soviet Union collapsed. India accelerated into Oligarchy at a slower rate, but [eventually reached the same endpoint.](https://www.bloomberg.com/news/articles/2021-11-12/two-billionaires-are-central-to-india-s-oversized-net-zero-ambitions) Capitalism produced this output as the desired endpoint in America. China avoided it, _somehow._ China made its state enterprises efficient businesses. This was not done through privatisation; instead the state consolidation in these businesses increased! As an added advantage, this state consolidation was a policy tool: Chinese banks abroad and Chinese energy companies abroad serve as extensions of the Chinese government's economic and energy policy.
+2.  **Avoiding Arms Races:** Military expansion was not going to provide China with a guarantee against subjugation. China continues to avoid the kind of arms races which consume resources without producing any progress.
+3.  **No Rival Centers of Power:** The CPC has been very successful in ensuring that **all power emanates from or flows through the CPC.** There are controls to ensure that wealth or following can never become a center for power. For e.g., Amway and other direct sales companies were not allowed in China because the Party recognized the religion-like characteristics of this movement. (The promise of easy victories and large rallies with inspirational speeches must have been what gave these enterprises away.) There are no trade unions which are not allowed by the Party. (The CPC is the spokesperson of the Chinese worker. Why then should the worker need another union?)
 
 In each case, the policies are beneficial to both the Party and the Chinese people. As McGregor indicates lightly, it will become increasingly difficult to differentiate between the interests of the Chinese people, the Chinese state and the CPC. These three will fuse into a single entity that is stewarded by the CPC.
 

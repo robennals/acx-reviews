@@ -1,16 +1,16 @@
 ---
-title: "Where Is My Flying Car? A Memoir of Future Past by J. Storrs Hall"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Where Is My Flying Car? A Memoir of Future Past by J. Storrs Hall
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "where-is-my-flying-car-a-memoir-of-future-past-by-j-storrs-hall"
-wordCount: 6558
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: where-is-my-flying-car-a-memoir-of-future-past-by-j-storrs-hall
+wordCount: 6535
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - History
   - Science
@@ -35,11 +35,11 @@ The rallying cry that Josh suggests is "It is a possibility!" on how we ought to
 
 The three biggest themes from the book were:
 
-> 1.  The Great Stagnation is real, and was caused by careful strangulation of all of the potential avenues of search and advancement we have had
->
-> 2.  There is surprisingly little correlation between regulatory increase and scientific and technological progress and it can be seen over and over again in multiple sectors
->
-> 3.  There are credible paths of research as yet untapped, amongst all areas seen as science fiction - including nanotechnology, nuclear energy and yes, flying cars
+1.  The Great Stagnation is real, and was caused by careful strangulation of all of the potential avenues of search and advancement we have had
+
+2.  There is surprisingly little correlation between regulatory increase and scientific and technological progress and it can be seen over and over again in multiple sectors
+
+3.  There are credible paths of research as yet untapped, amongst all areas seen as science fiction - including nanotechnology, nuclear energy and yes, flying cars
 
 Josh summarises it brutally using the income classification of the world population developed by Hans Rosling.
 
@@ -55,13 +55,13 @@ The whole book is an attempt to answer one question - why are we not living like
 
 The answer that Josh gives is in a few parts:
 
-> 1.  High degrees of bureaucratisation and regulatory throttling of promising research avenues
->
-> 2.  We stopped trying to increase our energy usage somewhere around the 70s
->
-> 3.  We became horrible at actually converting the R&D dollars from the government to usable innovations
->
-> 4.  There's an endemic "Failure of Nerve" amongst the entire elite intelligentsia, including both the researchers and the bureaucrats, that leads to a reduction in ambition
+1.  High degrees of bureaucratisation and regulatory throttling of promising research avenues
+
+2.  We stopped trying to increase our energy usage somewhere around the 70s
+
+3.  We became horrible at actually converting the R&D dollars from the government to usable innovations
+
+4.  There's an endemic "Failure of Nerve" amongst the entire elite intelligentsia, including both the researchers and the bureaucrats, that leads to a reduction in ambition
 
 When you combine all of this, you get the crazy cocktail that we've all accepted as normality. That large scale technological changes and breakthroughs are well-nigh impossible, and being "rational" means that we should set our sights lower.
 
@@ -69,21 +69,21 @@ Much in the way that a well-meaning parent might tell their child to not dream a
 
 So the book basically goes as follows.
 
-> *   We had great science fiction style aspirations in the 50s
->
-> *   This was also true of those people bent on making the science fiction into fact
->
-> *   In steps the high hand of overly harsh regulations, government overreach and general painful bureaucracy - some endemic within institutions and some extrinsic coming from elite consensus
->
-> *   We become highly risk averse across most things
->
-> *   We don't make the science fiction aspirations come true
->
-> *   And this negative feedback loop makes us fall into reducing our current aspirations as well, kicking off the loop again and making it a self-fulfilling prophesy
+*   We had great science fiction style aspirations in the 50s
+
+*   This was also true of those people bent on making the science fiction into fact
+
+*   In steps the high hand of overly harsh regulations, government overreach and general painful bureaucracy - some endemic within institutions and some extrinsic coming from elite consensus
+
+*   We become highly risk averse across most things
+
+*   We don't make the science fiction aspirations come true
+
+*   And this negative feedback loop makes us fall into reducing our current aspirations as well, kicking off the loop again and making it a self-fulfilling prophesy
 
 The beginning is my favourite chart to start with, showing where we hit a ceiling in the airline cruising speeds. This is the old adage about why we don't have Concorde anymore. This is also the launching pad for Josh's litany of issues around why we haven't been progressing.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/2ea18f1a2090e3b4.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/e8edff6660ac95d5.png)
 
 But before we get into that meat, let's imagine you were building a utopian society in the best of the science fiction tradition. What would it look like?
 
@@ -111,7 +111,7 @@ The conventional wisdom goes that it's expensive, and that it's dangerous. Neith
 
 The point here is that there's been a clear change in our previously-exponential energy usage, what he calls the "Henry Adams Curve" which is a rather clear divergence. The wage line here, you'll note, is the obligatory "wage stagnation" one that I [examined here](https://www.strangeloopcanon.com/p/understanding-wage-stagnation).
 
-![](https://acximages.ennals.org/images/2021-book-reviews/c5f28a950ca626c6.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/55b767e320c5ed29.png)
 
 The same thought process also goes regarding its expense. Part of it is of course the increased regulatory burden imposing hefty costs and, in this case, not providing a single new license for decades! He shows how the construction costs of US nuclear power plants went up by 7x between 1980 to 1995.
 
@@ -123,7 +123,7 @@ Josh also examines whether we're just not going after nuclear power because our 
 
 > Nuclear Physics lacks a coherent theoretical foundation that would permit us to analyze and interpret all phenomena in a fundamental way; atomic physics has such a formulation in quantum electrodynamics, which permits calculations of some observable quantities to more than six significant figures. ... Two of the leading theories, the liquid drop model and the nuclear shell model, each have areas where they give good predictions in agreement with experiment.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/fa30e15b830dc560.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/47e6c790a2eb2e00.png)
 
 The problem with nuclear energy tech is not just that it's expensive and has seen pretty insane regulatory headwinds. For example, France doesn't share the worries that US has, and generates 70% of their energy from nuclear.
 
@@ -137,7 +137,7 @@ It is important to say here though that this seems to be (slowly) changing now. 
 
 The story here starts with Fleishmann and Pons who invested $100k of their own money to experiment on cold fusion in 1985. Needless to say, since we don't have cold fusion yet, they ran out of money and didn't have much to show for it, except for this one, anomalous, result.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/811492e4953c42a0.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/244dfb60a840f884.png)
 
 They were not the first, and they weren't the last. The Department of Energy dug into the phenomenon and found nothing. Without going into detail about all the other trials of the technology, suffice it to say cold fusion quickly became synonymous with a massive embarrassment and pretty much the equivalent of magical pixie dust.
 

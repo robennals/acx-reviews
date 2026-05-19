@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.022Z'
 slug: autoheterosexual-attracted-to-being-the-other-sex
-wordCount: 7262
+wordCount: 7243
 readingTimeMinutes: 33
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Psychology
@@ -77,21 +76,20 @@ An alternate theory of the origins of forced feminization would be the following
 
 I think what happened is that there were _some_ trans women who _just happened_ to be masochistic ([lots of people are masochistic!](https://pubmed.ncbi.nlm.nih.gov/26941021/)), and people jumped on lumping this into the category of autogynephilia, without thinking about whether it was really better explained by other factors. There are many examples of this, where the book picks up a thing from an old story, suggests it originates from an inversion of heterosexuality, but where the thing really seems better explained by other factors, e.g.:
 
-> *   Does inverted heterosexuality supplant the need for friendship, or is it just that someone had some introverted tendencies or social difficulties which may or may not independently correlate with transness?
-> *   Was the Hungarian physician’s perceptions of having a female body really due to autogynephilia, or did it have something to do with their drug use and mental illnesses?
+*   Does inverted heterosexuality supplant the need for friendship, or is it just that someone had some introverted tendencies or social difficulties which may or may not independently correlate with transness?
+*   Was the Hungarian physician’s perceptions of having a female body really due to autogynephilia, or did it have something to do with their drug use and mental illnesses?
 
 Anyway, pseudo autogynephilia vs true autogynephilia is one thing, but perhaps more important is the direction of causality between autogynephilia and transness. This is a highly controversial question, because it determines whether autogynephilia can be seen as the cause of transness or just a byproduct of it.
 
 I’m not really satisfied with Phil’s treatment of the question of causality. It seems to me that there are good arguments to be made, but instead he makes bad ones. Specifically, Phil has a chapter of the question, where he makes six arguments:
 
-> 1.  Some critics argue that autogynephilia cannot be causal for transness because cis women are autogynephilic too. But actually those people are wrong because cis women aren’t all that autogynephilic, and even if they were, that has nothing to do with what is going on in trans women.
-> 2.  Some critics argue that trans women might have autogynephilia-like sexuality because they want to be female and dislike being male. But if that is true, then how does one explain the following facts:
->
-> 1.  Autogynephilia-like sexuality is less common among trans women exclusively attracted to men,
-> 2.  There are men with autogynephilia-like sexuality who don’t transition,
-> 3.  Sexual orientation labels like “gay” are usually causally downstream from sexual attractions like getting boners when seeing hunks, so by analogy gender identity labels like “trans” should be causally downstream of sexual autogynephilic attraction.
->
-> 3.  Trans women often have experiences in their childhood where they wanted to be girls, before their autogynephilic sexual arousal in puberty. This is analogous to how people of other sexual orientations often have childhood crushes, so this supports autogynephilia being causal.
+1.  Some critics argue that autogynephilia cannot be causal for transness because cis women are autogynephilic too. But actually those people are wrong because cis women aren’t all that autogynephilic, and even if they were, that has nothing to do with what is going on in trans women.
+2.  Some critics argue that trans women might have autogynephilia-like sexuality because they want to be female and dislike being male. But if that is true, then how does one explain the following facts:
+    1.  Autogynephilia-like sexuality is less common among trans women exclusively attracted to men,
+    2.  There are men with autogynephilia-like sexuality who don’t transition,
+    3.  Sexual orientation labels like “gay” are usually causally downstream from sexual attractions like getting boners when seeing hunks, so by analogy gender identity labels like “trans” should be causally downstream of sexual autogynephilic attraction.
+
+3.  Trans women often have experiences in their childhood where they wanted to be girls, before their autogynephilic sexual arousal in puberty. This is analogous to how people of other sexual orientations often have childhood crushes, so this supports autogynephilia being causal.
 
 I’ll address these in reverse order; 3-2c-2b-2a. I’ll skip responding to 1 because the whole debate on it is a giant mess that would take a long and convoluted text to sort out while mainly concluding that I am too confused about the matter to know anything about it\*\*.
 
@@ -170,10 +168,10 @@ Other than autoheterosexuality, there are basically two alternative positions in
 > If someone’s deepest, most heartfelt wish was to be the other sex, which of the following explanations for their gender feelings would feel more emotionally satisfying?
 >
 > They want to be the other sex because:
->
-> 1.  In truth, they are actually more like the other sex in mind and spirit, but a mistake in development led them to have the wrong anatomy.
-> 2.  They have an autosexual version of heterosexuality that makes them happier when they feel similar to the other sex or embody traits they associate with it.
->
+
+1.  In truth, they are actually more like the other sex in mind and spirit, but a mistake in development led them to have the wrong anatomy.
+2.  They have an autosexual version of heterosexuality that makes them happier when they feel similar to the other sex or embody traits they associate with it.
+
 > It’s a no-brainer, right? The first one is obviously more emotionally satisfying.
 >
 > This is why hearing about autoheterosexuality is so upsetting to many trans people. It suggests to them that their desire to be the other sex is ultimately because they are not that sex. Furthermore, their drive to be the other sex comes from a type of heterosexuality—the least queer kind of sexuality.
@@ -186,7 +184,7 @@ Other than autoheterosexuality, there are basically two alternative positions in
 
 If either theory is true, it may eventually be provable using neuroscience to identify autogynephilia or brain feminization and show the direction of causality. This means that we can use prediction markets about future neuroscience findings to establish a consensus. There is currently [a market about this on Manifold Markets](https://manifold.markets/tailcalled/if-a-solid-neurological-study-of-tr), which at the time of writing gives the theory 21%-23% probability, much more than the 12% probability of the feminine essence narrative:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d30dbbfe3ae61606.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ffbe22732ce4cb42.png)
 
 (This is a thinly traded market. If you know anything about the topic, please trade to improve the probabilities!)
 
@@ -270,11 +268,11 @@ Let’s take an issue where Phil agrees with me: autoandrophilia is real. But if
 
 I think the answer to this question is messy, but likely involves many of the following concepts:
 
-> *   Because autoheterosexuality was for a long time named “transvestic fetishism”, researchers thought it was _about the clothes_,\* and autoandrophilia is somewhat less transvestically focused than autogynephilia is, so they would be less likely to notice it.\*\*
-> *   Autoandrophilia is somewhat rarer than autogynephilia, so they would have been less likely to notice it.
-> *   Researchers have long had a preconception that unusual sexual motivations are a male-only thing, so they would have been less likely to notice it.
-> *   Many studies have been performed on autogynephiles, but few studies have been performed on autoandrophiles, so they would have been less likely to notice it.
-> *   Women face stronger gender norms than men, so the autoandrophiles who transition will likely also have masculinity as a secondary motivator, making it less unclear whether autoandrophilia is even needed as an explanation, and therefore making them less likely to notice it.
+*   Because autoheterosexuality was for a long time named “transvestic fetishism”, researchers thought it was _about the clothes_,\* and autoandrophilia is somewhat less transvestically focused than autogynephilia is, so they would be less likely to notice it.\*\*
+*   Autoandrophilia is somewhat rarer than autogynephilia, so they would have been less likely to notice it.
+*   Researchers have long had a preconception that unusual sexual motivations are a male-only thing, so they would have been less likely to notice it.
+*   Many studies have been performed on autogynephiles, but few studies have been performed on autoandrophiles, so they would have been less likely to notice it.
+*   Women face stronger gender norms than men, so the autoandrophiles who transition will likely also have masculinity as a secondary motivator, making it less unclear whether autoandrophilia is even needed as an explanation, and therefore making them less likely to notice it.
 
 Basically, the way I see it is, researchers were not paying enough attention to notice autoandrophilia. But in my opinion, autoandrophilia is sort of obviously a thing. If researchers are not paying attention to really notice it, then there are lots of other things that they also fail to realize. (In this perspective, it’s almost no wonder the prediction market participants expect the true answer to be a theory that hasn’t been put forth yet.)
 

@@ -1,22 +1,22 @@
 ---
-title: "The Evolving Self: Problem and Process in Human Development, by Robert Kegan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Evolving Self: Problem and Process in Human Development, by Robert Kegan'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-evolving-self-problem-and-process-in-human-development-by-robert-kegan"
-wordCount: 9223
-readingTimeMinutes: 41
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-evolving-self-problem-and-process-in-human-development-by-robert-kegan
+wordCount: 9228
+readingTimeMinutes: 42
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Psychology
   - Philosophy
 ---
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d5f2689e23157d7b.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/f6dd3aa356a7d7f2.jpg)
 
 > **Unfortunately, the apes’ lack of attention to the text ended in them following a different evolutionary process than intended.**
 
@@ -100,7 +100,7 @@ Eventually though (eventually here meaning sometime between ages 5 and 7), this 
 
 (In all honesty, the name “imperialist balance” does not strike me as particularly descriptive of the level, but I can only assume Kegan stretched the very limits of his associative mind trying come up with something that started with “In-” or “Im-” that was at least halfway conceptually related.)
 
-![Notes from Kegan's 'The Evolving Self' 3: Chapter 3 | idletwilight](https://acximages.ennals.org/images/2023-book-reviews/9e7ef8d02b80e545.png)
+![Notes from Kegan's 'The Evolving Self' 3: Chapter 3 | idletwilight](https://acximages.ennals.org/images/2023-book-reviews/8c248495e44c6dbb.png)
 
 > **Why doesn’t it surprise me that Kegan sees human development not as a nice, straight, normal line, but a wacky spiral?**
 
@@ -176,15 +176,11 @@ But what implications does this have for the relationship between a therapist an
 
 Kegan thinks T.S. Eliot speaks to this problem best, in his poem _“Burnt Norton”_:
 
-_The enchainment of the past and future_
-
-_Woven in the weakness of the changing body_
-
-_Protects mankind from heaven and damnation_
-
-_Which flesh cannot endure. Time past and future_
-
-_Allow but a little consciousness. To be conscious is not to be in time._
+> _The enchainment of the past and future_  
+> _Woven in the weakness of the changing body_  
+> _Protects mankind from heaven and damnation_  
+> _Which flesh cannot endure. Time past and future_  
+> _Allow but a little consciousness. To be conscious is not to be in time._
 
 Kegan interprets this passage as representing the misalignment between the client’s desire to solve his short-term issue as quickly as possible, versus the therapist’s focus on addressing the longer-term issues:
 
@@ -262,9 +258,9 @@ I suppose I am being uncharitable here, but I am inclined to believe the real re
 
 Yet, Kegan’s personal belief that his level-system would result in a convergence is perhaps understandable when you consider the situation from his perspective. That is, everyone goes up the levels by their own particular route. But suppose the amount of perspective they have of the other levels depends on what distance they judge them from – that is, how many levels they are above the level they’re observing. Kegan sees very clearly what levels 0, 1, 2, and 3 are like, because he is very far beyond them, giving him a broad and comprehensive perspective where they are concerned. Level 4, Kegan has only recently passed through, so while he can see some routes that are adjacent to his own, the full diversity of experience there remains hidden from him. And since he is on level 5 right now (or at least was at the time he wrote the book) he can only see a very small spot around where he is standing. As a visualization, Kegan stands within the expanding cone of experiences that constitute the levels, and shines a flashlight back along the route along which he came. It illuminates a great deal of what is further back, but close to where he himself is standing, only a small section becomes visible.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/c7bb62b3e6b4b059.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/5e130d90a5559984.jpg)
 
-> **Perhaps level 5 only looks so safely universalist to Kegan because he is suffering from some variant of** **[streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect)****?**
+> **Perhaps level 5 only looks so safely universalist to Kegan because he is suffering from some variant of** **[streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect)?**
 
 Of course, any analysis of the further implications of constructive-developmental theory is meaningless if the theory isn’t true in the first place. And Kegan does not seem to have developed his theory through, say, a meta-analysis of a large number of randomized control trials. Rather, he collated his personal experiences and the experiences and theories of others, and pattern-matched until things felt right. (Though as best I understand it, this method is not particularly unusual for his field and time-period?)
 

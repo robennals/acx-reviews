@@ -7,9 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:28.988Z'
 slug: joan-of-arc
-wordCount: 24243
-readingTimeMinutes: 108
-originalUrl: 'https://www.astralcodexten.com/p/your-review-joan-of-arc'
+wordCount: 23985
+readingTimeMinutes: 110
+originalUrl: https://www.astralcodexten.com/p/your-review-joan-of-arc
 source: acx
 tags:
   - History
@@ -849,7 +849,7 @@ It's plausible she learned to ride a plowhorse as a child since Lorraine is hors
 [40](https://www.astralcodexten.com/p/your-review-joan-of-arc#footnote-anchor-40-167032237)
 
 "Wait, artillery? Aren't these people medieval knights with swords and lances and full plate?" Yes. Gunpowder is older than plate armor(\*). Our oldest recipe for gunpowder is 11th-century Chinese but it's writing down something that already existed, probably since the ninth century. In the thirteenth century it spreads to Europe and the Middle East, probably via the Mongols, but gunpowder weapons take a long time to get good, only exploding in popularity in Europe in the fifteenth and sixteenth centuries, siege artillery first, field artillery second, handguns third. Joan of Arc is right at the point where artillery is starting to be important, with the Siege of Orleans being the earliest siege I know of where artillery played a major role.  
-  
+
 
 * Sub-footnote: Older than medieval plate armor, technically. Bronze plate armor dates back to Agamemnon, it just kind of sucked compared to iron chain or lamellar. The high and late Middle Ages saw an improving economy giving knights the ability to spend more and more on heavy armor to keep enemy spears and arrows and bullets and crossbow bolts out, and this demand was served by the arms and armor manufacturers of Milan and the Rhine competing in an arms race to develop better armor, with the first ambiguous plate appearing in the 12th or 13th century. The peak of personal protection is probably the beautiful suits of Gothic plate from around 1525, worn by the French cavalry at the Battle of Pavia, who in spite of the toughest armor in the world still can’t ride their horses over Spanish pikemen or deflect bullets from German handguns, and from this point on the level of armor used by soldiers steadily decreases right up until steel helmets to deflect shrapnel return in the first World War and the pendulum's arc reverses again.
 

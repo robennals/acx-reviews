@@ -1,19 +1,15 @@
 ---
-title: >-
-  "The Metaethics of Joy, Suffering, and Artificial Intelligence" with Brian
-  Tomasik and David Pearce
+title: '"The Metaethics of Joy, Suffering, and Artificial Intelligence" with Brian Tomasik and David Pearce'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
 contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.397Z'
-slug: >-
-  the-metaethics-of-joy-suffering-and-artificial-intelligence-with-brian-tomasik-and-david-pearce
-wordCount: 5757
+slug: the-metaethics-of-joy-suffering-and-artificial-intelligence-with-brian-tomasik-and-david-pearce
+wordCount: 5748
 readingTimeMinutes: 26
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Philosophy
@@ -73,15 +69,15 @@ This is the core of the debate and a lot of terms have been thrown around: objec
 
 Pearce used the term “objective” in a confusing way that seemed to simply mean “exists” when he said: “Redness is subjective, it’s mind dependent, and yet unless one thinks minds don’t exist in the physical universe, redness is an objective feature of the natural physical world.” A few terms introduced by John Searle [3] can help clear up the confusion. He makes two distinctions between the objective and subjective. The first is ontological, having to do with what exists:
 
-> *   _Ontologically objective_ phenomena exist independent of minds. Chairs, water, atoms, that sort of thing [4].
-> *   _Ontologically subjective_ phenomena exist only because a subject experiences them. For example, pain is real and it exists by being experienced.
+*   _Ontologically objective_ phenomena exist independent of minds. Chairs, water, atoms, that sort of thing [4].
+*   _Ontologically subjective_ phenomena exist only because a subject experiences them. For example, pain is real and it exists by being experienced.
 
 Ontologically objective and subjective features of the universe are both _real_ but they are meaningfully different. Redness, as a mind-dependent experience, is ontologically _subjective_. Put another way, it's “[appearance and existence are identical](https://roderickpritchard.wordpress.com/2019/06/19/john-searles-distinction-objective-and-subjective-epistemology-and-ontology/).” That is, the appearance of redness in consciousness is what makes redness exist. That doesn't make it less real than ontologically objective entities, but there is a meaningful distinction between them.
 
 The second distinction Searle makes is epistemological, having to do with the nature of knowledge:
 
-> *   _Epistemologically subjective_ knowledge comes from first-person experience. For example, I know that I prefer chocolate ice cream to vanilla from directly experiencing it.
-> *   _Epistemologically objective_ knowledge can be gained independent of any _particular_ mind. That is, with the right training, any sufficiently intelligent mind can come to know it. This is the realm of science and rational argument. Note, that it is possible to _objectively_ study ontologically _subjective_ entities. For example, we can objectively study what causes pain, what kinds of brain activity correlate with it etc. The whole field of anesthesiology depends on the epistemologically objective study of the ontologically subjective phenomenon of pain. If you don’t believe this, then you shouldn’t trust anesthesiologists to prevent you from feeling agonizing pain if you ever need surgery. That said, this doesn’t mean that science can tell us anything about the intrinsic nature of the ontologically subjective.
+*   _Epistemologically subjective_ knowledge comes from first-person experience. For example, I know that I prefer chocolate ice cream to vanilla from directly experiencing it.
+*   _Epistemologically objective_ knowledge can be gained independent of any _particular_ mind. That is, with the right training, any sufficiently intelligent mind can come to know it. This is the realm of science and rational argument. Note, that it is possible to _objectively_ study ontologically _subjective_ entities. For example, we can objectively study what causes pain, what kinds of brain activity correlate with it etc. The whole field of anesthesiology depends on the epistemologically objective study of the ontologically subjective phenomenon of pain. If you don’t believe this, then you shouldn’t trust anesthesiologists to prevent you from feeling agonizing pain if you ever need surgery. That said, this doesn’t mean that science can tell us anything about the intrinsic nature of the ontologically subjective.
 
 When Pearce says that “it seems to be built into the nature of agony that it is disvaluable,” he is making an ontological claim that suffering is inherently bad. How does he know this? From direct experience. So, it is an epistemologically subjective claim. He (and presumably any conscious being reading this) knows from direct experience that agony is disvaluable. If you changed the experience of agony to be valuable, it wouldn’t be agony anymore. However, that is only a statement about one’s own agony. Ethics relates to the agony of others. Pearce addressed this when he said:
 
@@ -95,12 +91,12 @@ Later in the discussion, it becomes clearer that what Pearce means by “objecti
 
 A very simple model of world and experience can help clarify this distinction (phrased in the second person for clarity): (1) There is some state of affairs in the external world and in your body, (2) Your brain receives data through various sensory organs (both internal and external) from both the world and your body and, in combination with prior knowledge, constructs a model of the current state of affairs, (3) There are qualia (intrinsic experiences) associated with parts of this model, and a subset of the qualia are on the pleasure/pain axis. Schematically:
 
-> 1.  Some state of affairs in the world/body (ontologically objective) → (2) brain's model of the world/body (ontologically subjective) → (3) intrinsic experience/qualia (ontologically subjective)
+1.  Some state of affairs in the world/body (ontologically objective) → (2) brain's model of the world/body (ontologically subjective) → (3) intrinsic experience/qualia (ontologically subjective)
 
 Both the second and third steps in this schematic are ontologically subjective, but they are meaningfully different. There is nothing contingent or arbitrary about the negativity of negative qualia. Agony is intrinsically bad (instrumentally it could be good in some rare cases, but that doesn't change its intrinsic quality). However, the link between the brain's model and qualia can be arbitrary. A Manchester United fan will experience pleasure when they beat Liverpool while a Liverpool fan will experience displeasure. There is an important distinction between being a fan of a sports team and the experience of suffering even though are both ontologically subjective. Suffering is intrinsically negative, while being a fan of a team is a type of link or association between intrinsically positive/negative qualia and certain beliefs (e.g., that your team won/lost). This distinction seems analogous (or is maybe equivalent) to the distinction between instrumental and intrinsic values. Another way of phrasing this is that suffering is bad for _any_ mind, whereas contingent ontologically subjective phenomena (like being a fan of a team) depend on _particular_ minds. In this sense, I do think suffering is more “real” than fandom and that is probably what Pearce meant in calling it an "objective" phenomenon. To differentiate between these two types of ontologically subjective phenomena, I will introduce two new terms:
 
-> *   **mind-contingent**: A mind contingent phenomenon is one that is ontologically subjective and contingent on a specific mind. Examples: being a fan of a certain sports team, preferring chocolate over vanilla ice cream, being able to perceive certain colors.
-> *   **sentience-intrinsic**: A sentience-intrinsic phenomenon is one that is ontologically subjective and true for any sentient system. The disvalue of agony and the value of pleasure are sentience-intrinsic.
+*   **mind-contingent**: A mind contingent phenomenon is one that is ontologically subjective and contingent on a specific mind. Examples: being a fan of a certain sports team, preferring chocolate over vanilla ice cream, being able to perceive certain colors.
+*   **sentience-intrinsic**: A sentience-intrinsic phenomenon is one that is ontologically subjective and true for any sentient system. The disvalue of agony and the value of pleasure are sentience-intrinsic.
 
 So, I think the basis for Pearce’s moral realism is that agony is sentience-intrinsic and not contingent on any particular mind. When he says “it’s just objectively the case that first person agony is disvaluable,” what he means is there is no way for the person experiencing agony to be mistaken that it is bad, because its badness is intrinsic. If you changed it to not be bad, it wouldn’t be agony any more. If someone else experienced it, they would also agree that it is bad. However, we _can't_ directly share the experiences of others. That is what the term “epistemologically subjective” is meant to pick out. Only the subject of those experiences can know them directly. And that leads to the interesting debate about mind-melds.
 
@@ -153,8 +149,8 @@ Based on the above arguments, axioms for a consequentialist ethics are ontologic
 
 Even if ethical axioms are mind contingent, everything after the axioms could, in theory, be epistemologically objective. Two such axioms could be:
 
-> 1.  The suffering of any sentient creature is intrinsically bad (which doesn’t rule out cases where it is instrumentally good even to the point of being ethically obligatory)
-> 2.  The pleasure of any sentient creature is intrinsically good (which doesn’t rule out cases where it is instrumentally bad, even to the point of being ethically forbidden)
+1.  The suffering of any sentient creature is intrinsically bad (which doesn’t rule out cases where it is instrumentally good even to the point of being ethically obligatory)
+2.  The pleasure of any sentient creature is intrinsically good (which doesn’t rule out cases where it is instrumentally bad, even to the point of being ethically forbidden)
 
 If these axioms are accepted, there are lots of conclusions that can then be “derived” objectively, i.e., any mind with the requisite reasoning abilities will come to the same conclusions. I think any non-sadist will agree with these axioms and I’m prepared to call anyone who disagrees with them evil. Such an ethics would be semi-objective. The existence of the axioms would be ontologically subjective and the acceptance of them would be epistemologically subjective, but everything that follows from them would be epistemologically objective, at least in theory [7]. However, further axioms are needed for many decisions (e.g., how to trade-off between suffering and pleasure). These further axioms are hotly contested which is further evidence of their mind-contingency even among empathic people. Part of the reason they are hotly contested is that any set of axioms seems to lead to conclusions that someone finds morally repugnant. A common feature of these situations is the trade-off between intrinsic value and disvalue for different sentient creatures (or potential sentient creatures). Perhaps if one could mind-meld with all sentient creatures, ethical choices would be obvious even in cases when an action simultaneously brings about value for some and disvalue for others, but I doubt it. It would just make the fundamental trade-offs viscerally known. Ethics is hard precisely because it requires painful tradeoffs. For better or for worse, different people will make different choices regarding those tradeoffs.
 

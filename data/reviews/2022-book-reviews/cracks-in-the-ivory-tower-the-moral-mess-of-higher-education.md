@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:24:08.697Z'
 slug: cracks-in-the-ivory-tower-the-moral-mess-of-higher-education
 wordCount: 8703
 readingTimeMinutes: 39
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Society
@@ -147,7 +146,7 @@ Since nowhere near all of the students who cheat are caught, a lot of data on ch
 >
 > Table 9.1 displays the percent of students at universities that lack a strong honor code system who admit to having engaged in various forms of academic dishonesty at least once in their undergraduate careers.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/ca17aa2849c7ae15.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/3c2e74e5dad87d3a.png)
 
 Students with lower GPAs and students with very high GPAs are more inclined to cheat ([McCabe et al. 2017, 83–84](https://pennstate.pure.elsevier.com/en/publications/cheating-in-college-why-students-do-it-and-what-educators-can-do-)). Students in professional schools and preprofessional majors cheat more than students in liberal arts, social science or science majors ([McCabe et al. 2017, 161](https://pennstate.pure.elsevier.com/en/publications/cheating-in-college-why-students-do-it-and-what-educators-can-do-)). What makes these students cheat? James Lang argues that there are four basic factors:
 
@@ -201,7 +200,7 @@ What is meant by neoliberalism isn’t always so clear. People don’t typically
 
 It would appear there are more people decrying neoliberalism than there are people describing themselves as neoliberal. Academia is famously left-leaning and has been shifting leftward over the past twenty years. Since 2000, the proportion of conservatives and moderates [has been declining](https://heterodoxacademy.org/blog/professors-moved-left-but-country-did-not/).
 
-![](https://acximages.ennals.org/images/2022-book-reviews/85caa5c90c66864b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/477f8b76675ff270.png)
 
 One possible argument is that the influence is coming from the administration, but this lacks evidence as well. Evidence actually points to administrators being more left of center. In 2018, political scientist Samuel Abrams published an article in the _New York Times_ entitled “[Think Professors Are Liberal? Try School Administrators](https://www.nytimes.com/2018/10/16/opinion/liberal-college-administrators.html)” in which he describes just how left-leaning the administration is:
 

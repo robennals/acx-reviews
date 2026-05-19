@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:14.008Z'
 slug: the-hunt-for-red-october-is-tom-clancy
 wordCount: 4440
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Fiction
@@ -81,7 +80,7 @@ But _Cardinal_ also takes pains to balance the scales with some anti-homophobia 
 
 This feels a bit out of place near the end of a book featuring Dr. Bea Taussig, a conversation between FBI agents about how they shouldn’t suspect her just for being a lesbian, and a plot that confirms they were right to pre-judge her. Grading on a curve of Reagan-era attitudes towards homosexuality, I think Clancy was at least _trying_ to be nuanced in his depiction of gay people, but it feels hilariously outdated by modern standards. This fits Clancy’s general pattern that all are welcome, as long as you help us beat the communists. This applies to everyone from American straight women, to American gay men, to Afghan straight men, to Russian straight men defecting from the Soviet Union! Any deviation from Clancy’s normal can be forgiven as long as you embrace this great country of ours. But intersectional feminists in the audience will be unsurprised to learn two or more deviations may be a dealbreaker…
 
-![](https://acximages.ennals.org/images/2024-book-reviews/6c49812c7e85a921.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/474d56c2890fa147.png)
 
 Used with permission from a locked twitter account
 

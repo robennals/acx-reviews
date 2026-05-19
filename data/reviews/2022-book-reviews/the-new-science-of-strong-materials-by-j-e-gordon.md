@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.170Z'
 slug: the-new-science-of-strong-materials-by-j-e-gordon
-wordCount: 2658
+wordCount: 2661
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Science
@@ -23,11 +22,8 @@ If you’re going to read J. E. Gordon’s _The New Science of Strong Materials_
 
 Here’s one interesting fact about cracks: Take a rod made of glass, with about the same dimensions as a broom handle. Now try to bend it to a 90 degree angle. You will not succeed. Getting the rod to bend even a tiny amount requires a large amount of force. Even if you can supply that force, the rod will shatter into pieces long before it bends by a full 90 degrees. You’d think the story would be the same for a shrunk down version of the same rod. After all, the thing is in the same shape and made of the same material, just smaller, so all the strains in the material should be the same. But the tiny rod _can_ be bent by 90 degrees. And it does not deform permanently, like a metal might. Let go of it, and it will snap right back to being perfectly straight.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/bbd6ef51a61d7783.png)
-
-**Plate 4** and caption from _The New Science of Strong Materials_
-
-_Caption:_ “Glass and other solids when truly free from cracks and defects can exhibit enormous strengths. This silica rod is bent elastically to a strain of 7½ per cent, i.e. a stress of 5000 MN/m2. (The normal strength of glass is about 100-200 MN/m2)”
+|  | Plate 4 and caption from The New Science of Strong MaterialsCaption: “Glass and other solids when truly free from cracks and defects can exhibit enormous strengths. This silica rod is bent elastically to a strain of 7½ per cent, i.e. a stress of 5000 MN/m2. (The normal strength of glass is about 100-200 MN/m2)” |
+| --- | --- |
 
 The secret of the trick is that most glass objects are imperfect, with surfaces being covered by tiny cracks. The surface will pick up microscopic damage very quickly when other objects come into contact with it, even if you think you’re handling it very gently. So it’s nearly impossible for a large piece of glass to be free of cracks. But if it were, it would be astonishingly strong. The theoretical limit on the strength of glass as determined by the strength of the bonds holding it together is rather high, it’s just that experimentally the overall material turns out to be weaker than the sum of its bonds. The very thin glass fiber in the experiment can be made and handled without forming surface cracks and as a result it retains most of that strength and can be bent by absurd amounts. But how could such tiny imperfections make such a huge difference to the strength of the material?
 
@@ -35,9 +31,9 @@ Actually, what makes things strong or weak in the first place? What do we even m
 
 The goal of having strong materials is so that they can exert forces. A railway bridge needs to exert upwards force on all the trains going over it so they don’t fall. In general, we ask materials to exert force in one of 3 ways:
 
-> 1.  Tension (trying to pull the material apart).
-> 2.  Compression (trying to crush/squeeze the material)
-> 3.  Shear (trying to slide the layers of the material past each other (This is the one that lets beams transfer a vertical force over a horizontal distance: You can be standing in the middle of a beam, while the beam may only be supported on either end. The vertical force of your weight is transferred horizontally to the supports at the ends of the beam. (There’s a cost for this horizontal transfer of vertical force: The top of the beam is in compression, and the bottom of the beam in tension. I.e. the beam wants to bend. These compression and tension forces scale with the horizontal distance across which the beam needs to transfer vertical force, so long beams need to be made of materials that are strong in both tension and compression.)))
+1.  Tension (trying to pull the material apart).
+2.  Compression (trying to crush/squeeze the material)
+3.  Shear (trying to slide the layers of the material past each other (This is the one that lets beams transfer a vertical force over a horizontal distance: You can be standing in the middle of a beam, while the beam may only be supported on either end. The vertical force of your weight is transferred horizontally to the supports at the ends of the beam. (There’s a cost for this horizontal transfer of vertical force: The top of the beam is in compression, and the bottom of the beam in tension. I.e. the beam wants to bend. These compression and tension forces scale with the horizontal distance across which the beam needs to transfer vertical force, so long beams need to be made of materials that are strong in both tension and compression.)))
 
 There is a fundamental rule here that applies to all 3 cases: No material can exert a force without being stretched, squeezed, bent or otherwise deformed at least a little. Even if a single feather floats down and comes to rest on top of a solid block of steel, the only way that the steel is able to support the weight of the feather is that it is dented by a microscopically tiny amount.
 

@@ -1,24 +1,20 @@
 ---
-title: >-
-  The Dawn of Everything: A New History of Humanity by David Graeber and David
-  Wengrow
+title: 'The Dawn of Everything: A New History of Humanity by David Graeber and David Wengrow'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2022-01-01T00:00:00.000Z'
-slug: >-
-  the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-2
+slug: the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow
 wordCount: 1930
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - History
-  - Society
   - Politics
+  - Society
 ---
 
 (review by B W)

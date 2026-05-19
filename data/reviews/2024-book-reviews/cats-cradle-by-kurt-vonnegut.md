@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: cats-cradle-by-kurt-vonnegut
-wordCount: 4391
+wordCount: 4341
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Fiction
@@ -42,12 +41,9 @@ Rather than suffer through his cancer, Papa Monzano commits suicide by eating hi
 
 Much of Bokononism takes the form of poems called “Calypsos.” Johnson wrote this about his experience:
 
-> A fish pitched up
->
-> By the angry sea
->
-> I gasped on land
->
+> A fish pitched up  
+> By the angry sea  
+> I gasped on land  
 > And I became me.
 
 Johnson - now “Bokonon” as his name was pronounced in the San Lorenzan dialect - and McCabe discovered that San Lorenzo was one of the most miserable places on the planet. It had no strategic positioning, no natural resources, no rich soil, and nothing of value to anyone. Before their arrival, the country existed in a state of mostly anarchy except that the Castle Sugar corporation barely broke even by enslaving part of the population and earning just enough to pay the slave drivers. “When McCabe and Johnson arrived in 1922 and announced that they were placing themselves in charge, Castle Sugar withdrew flaccidly, as though from a queasy dream.”
@@ -62,22 +58,17 @@ McCabe unsuccessfully tried to design a functional government while Bokonon inve
 
 > When it became evident that no governmental or economic reform was going to make the people much less miserable, the religion became the one real instrument of hope. Truth was the enemy of the people, because the truth was so terrible, so Bokonon made it his business to provide the people with better and better lies.
 
-The parallels to the contemporary world write themselves. [90% of Americans feel that we are in a “mental health crisis](https://www.pewtrusts.org/en/trend/archive/fall-2023/americas-mental-health-crisis)” and [things aren’t much better internationally](https://ourworldindata.org/mental-health). On the [latest ACX survey](https://docs.google.com/forms/d/e/1FAIpQLScHznuYU9nWqDyNvZ8fQySdWHk5rrj2IdEDMgarf3s34bSPrA/closedform), over 30% reported probably having depression and another nearly 30% reported having anxiety. Even as the world grows in prosperity and life expectancy, our mental health is taking a nosedive. Economic and governmental reforms have failed. The world cries out for a better way of thinking. ![](https://acximages.ennals.org/images/2024-book-reviews/a542759a30c7b953.png)
+The parallels to the contemporary world write themselves. [90% of Americans feel that we are in a “mental health crisis](https://www.pewtrusts.org/en/trend/archive/fall-2023/americas-mental-health-crisis)” and [things aren’t much better internationally](https://ourworldindata.org/mental-health). On the [latest ACX survey](https://docs.google.com/forms/d/e/1FAIpQLScHznuYU9nWqDyNvZ8fQySdWHk5rrj2IdEDMgarf3s34bSPrA/closedform), over 30% reported probably having depression and another nearly 30% reported having anxiety. Even as the world grows in prosperity and life expectancy, our mental health is taking a nosedive. Economic and governmental reforms have failed. The world cries out for a better way of thinking. ![](https://acximages.ennals.org/images/2024-book-reviews/0768a1342b04a43a.png)
 
 Source: [the White House Council of Economic Advisors](https://www.whitehouse.gov/cea/written-materials/2022/05/31/reducing-the-economic-burden-of-unmet-mental-health-needs/)
 
 Bokonon asked McCabe to outlaw his religion to give it “more zest.” So anyone caught practicing Bokononism was sentenced to death by “the hook,” which is exactly what it sounds like. As of the writing of the novel, Bokononism was still outlawed despite everyone on San Lorenzo, including Papa Monzano, being a devout Bokononist.
 
-> "Papa" Monzano, he's so very bad,
->
-> But without bad "Papa" I would be so sad;
->
-> Because without "Papa's" badness,
->
-> Tell me, if you would,
->
-> How could wicked old Bokonon
->
+> "Papa" Monzano, he's so very bad,  
+> But without bad "Papa" I would be so sad;  
+> Because without "Papa's" badness,  
+> Tell me, if you would,  
+> How could wicked old Bokonon  
 > Ever, ever look good?
 
 Or, in modern parlance:
@@ -124,11 +115,11 @@ Seems a little academic to me for a subculture largely existing on Twitter. My e
 
 For instance, here is a quintessential postrationalist declaring that he only believes in true things, except of course for fairies and elves:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/ea750835046d24a9.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/1ab138bd740b8e18.png)
 
 When I was first on the scene, it was baffling to me that someone would declare a belief in something but at the same time acknowledge its falsehood, but I understand it now as part of an intentionally chosen ironic stance toward the world. It’s not a delusion so much as it’s a person choosing to live by the _foma_ that makes him the person he wants to be. It sounds foolish to me but I have that in common with Bokonon, who “always said he would never take his own advice, because he knew it was worthless.”
 
-![](https://acximages.ennals.org/images/2024-book-reviews/9ea3a7497f3f3ab6.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/c12563505a46b18e.png)
 
 That’s not to say that the Books of Bokonon contain no wisdom. To the contrary, they contain many profound truths. For instance, the title of the Fourteenth Book of Bokonon is “What Can a Thoughtful Man Hope for Mankind on Earth, Given the Experience of the Past Million Years?” There is only one verse, and it consists of a single word: “Nothing.” What religion or philosophy has more wisdom to offer than this?
 
@@ -144,56 +135,39 @@ Bokononists believe that humanity is divided into teams to unknowingly do God’
 
 If a _karass_ is a wheel, the hub is the _wampeter_. A _wampeter_ is the Macguffin of your _karass_. It can be anything so long as the members of the _karass_ form a “spiritual orbit” around it. _Wampeters_ are temporary. At any given time, a _karass_ will have two _wampeters_, one growing in importance and one falling. A _wampeter_ is different from a _kan-kan_, which is what draws you in to your _karass_. Our narrator suspects that the book he is writing is his _kan-kan_ and his _wampeter_ is the cataclysmic substance _ice-nine_.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/9ca0c5074b8c98b6.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/5511d2b173926559.png)
 
 We may be able to identify certain members of our _karass_ or one of our _wampeters_ at any given time_,_ though we will inevitably fail to see the extent of them. Bokonon admonishes that “anyone who thinks he sees what God is Doing” is a fool.[[41]](#ftnt41) When Bokononists think of how complicated and unpredictable everything is, rather than attempt to understand, they simply whisper “busy busy busy.”
 
-> Tiger got to hunt,
->
-> Bird got to fly;
->
+> Tiger got to hunt,  
+> Bird got to fly;  
 > Man got to sit and wonder, "Why, why, why?"
 >
-> Tiger got to sleep,
->
-> Bird got to land;
->
+> Tiger got to sleep,  
+> Bird got to land;  
 > Man got to tell himself he understand
 
 Anyone can be a member of your _karass_, and it follows no rules. Bokonon writes:
 
-> Oh, a sleeping drunkard
->
-> up in Central Park,
->
-> And a lion-hunter
->
-> In the jungle dark,
->
-> And a Chinese dentist,
->
-> And a British queen--
->
-> All fit together
->
-> In the same machine.
->
-> Nice, nice, very nice;
->
-> Nice, nice, very nice;
->
-> Nice, nice, very nice--
->
-> So many different people
->
+> Oh, a sleeping drunkard  
+> up in Central Park,  
+> And a lion-hunter  
+> In the jungle dark,  
+> And a Chinese dentist,  
+> And a British queen--  
+> All fit together  
+> In the same machine.  
+> Nice, nice, very nice;  
+> Nice, nice, very nice;  
+> Nice, nice, very nice--  
+> So many different people  
 > In the same device.
 
 Occasionally, God creates a _karass_ of two, known as a _duprass_. You can recognize them by your burning envy at how satisfied they seem with each other. “A true duprass,” Bokonon writes, “can’t be invaded, not even by children born of such a union.” Members of a _duprass_ always die within a week of each other.
 
 Sometimes, people will mistakenly think a man-made category is a _karass_. That is not how God gets things done. Bokonon calls this a _granfalloon_, or a false _karass_. Classic _granfalloons_ are “the Communist party, the Daughters of the American Revolution, the General Electric Company, the International Order of Odd Fellows—and any nation, anytime, anywhere.”
 
-> If you wish to study a _granfalloon_
->
+> If you wish to study a _granfalloon_  
 > Just remove the skin of a toy balloon.
 
 That mental health crisis we were discussing earlier? Many believe it is due to the atomization of modern society. The Surgeon General has declared a “[loneliness epidemic](https://www.hhs.gov/surgeongeneral/priorities/connection/index.html?utm_source=osg_social&utm_medium=osg_social&utm_campaign=osg_sg_gov_vm).” People are more disconnected from each other than ever and our old _granfalloons_ aren’t working to keep us together. People crave new ways of connecting and forming communities. Most of the people I know of who are successful at creating communities are doing so by coalescing around a _wampeter_. To take it back to the postrats, the most successful community-building exercise I’ve seen in years is [Vibecamp](https://vibe.camp/), an example of a _kan-kan_ if I’ve ever seen one. Many reading this likely have a spiritual orbit about the Astral Codex Ten blog or LessWrong. The OG rats are creating their own _kan-kan_ with [LessOnline](https://less.online/). What is the point of any of this if not to draw together one’s _karass_? Do you feel compelled to attend the next one? Then perhaps these are your dancing lessons from God.
@@ -204,48 +178,29 @@ A savvy reader might object here. Isn’t rationalism a classic _granfalloon_? I
 
 Bokononists believe that it is impossible to put your feet sole-to-sole with another person and not love them (“provided the feet of both persons are clean and nicely tended”). This ritual is called _boko-maru_, or the mingling of awareness. It is Bokononism’s most spiritual practice.
 
-> We will touch our feet, yes,
->
-> Yes, for all we’re worth,
->
-> And we will love each other, yes,
->
+> We will touch our feet, yes,  
+> Yes, for all we’re worth,  
+> And we will love each other, yes,  
 > Yes, like we love our Mother Earth.
 
 That is Bokonon’s Calypso on _boko-maru_. Here is our narrator’s response upon trying it for the first time with his soon-to-be bride Mona:
 
-> Sweet wraith,
->
-> Invisible mist of …
->
-> I am—
->
-> My soul—
->
-> Wraith lovesick o’erlong,
->
-> O’erlong alone:
->
-> Wouldst another sweet soul meet?
->
-> Long have I
->
-> Advised thee ill
->
-> As to where two souls
->
-> Might tryst.
->
-> My soles, my soles!
->
-> My soul, my soul,
->
-> Go there,
->
-> Sweet soul;
->
-> Be kissed.
->
+> Sweet wraith,  
+> Invisible mist of …  
+> I am—  
+> My soul—  
+> Wraith lovesick o’erlong,  
+> O’erlong alone:  
+> Wouldst another sweet soul meet?  
+> Long have I  
+> Advised thee ill  
+> As to where two souls  
+> Might tryst.  
+> My soles, my soles!  
+> My soul, my soul,  
+> Go there,  
+> Sweet soul;  
+> Be kissed.  
 > Mmmmmmm.
 
 Sounds nice!
@@ -290,12 +245,9 @@ Bokonon preaches that it’s wrong “not to love everyone exactly the same.” 
 
 The narrator quickly comes around and converts to Bokononism, accepting Mona’s libertine ways. After the apocalypse, when the narrator struggles with whether to remember Mona as sublimely spiritual or as a dazed cult addict, he remembers Bokonon’s Calypso about love:
 
-> A lover's a liar,
->
-> To himself he lies,
->
-> The truthful are loveless,
->
+> A lover's a liar,  
+> To himself he lies,  
+> The truthful are loveless,  
 > Like oysters their eyes!
 
 Truthfully, who among us hasn’t indulged in a bit of _foma_ about the people we love? Ultimately, does love not require it?
@@ -304,12 +256,9 @@ Truthfully, who among us hasn’t indulged in a bit of _foma_ about the people w
 
 Bokonism also has wisdom for the end times, largely because Bokonon lived through them. The Books of Bokonon include the concept of _pool-pah_, alternately translated in some places as “wrath of god” and in others as “shit storm.” As it happened (“as it was meant to happen,” Bokonon would say), after _ice-nine_ froze the oceans, our narrator and Mona survived thanks to an underground bunker. They emerged after a few days to find that a new Calypso was written in the ruins:
 
-> Someday, someday, this crazy world will have to end,
->
-> And our God will take things back that He to us did lend.
->
-> And if, on that sad day, you want to scold our God,
->
+> Someday, someday, this crazy world will have to end,  
+> And our God will take things back that He to us did lend.  
+> And if, on that sad day, you want to scold our God,  
 > Why just go ahead and scold Him. He'll just smile and nod.
 
 Continuing on, they discovered that thousands of San Lorenzens had survived the initial chaos, gathered in a large circle, and each pressed a bit of _ice-nine_ to their lips, freezing them instantly. A note was under a boulder nearby:

@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: rubbermaid-products
-wordCount: 5014
+wordCount: 5024
 readingTimeMinutes: 23
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Society
@@ -26,9 +25,9 @@ You not only deserve more than that, you _want_ more than that. You want a topic
 
 In short, you want Rubbermaid. Luckily for me, I’ve long since been on record as being about as pro-Rubbermaid as it’s possible to be:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1477e3378f0fca75.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0b31024fc96020ee.png)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/688238d82702a924.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5b159ec97cc4cf5f.png)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/98762ca37f1d36ce.png)
 
@@ -50,8 +49,7 @@ The problem was that it would have been too much. There’s just too much to say
 >
 > They were perfect.
 
----  
-
+- - -
 That story is perhaps a bit dull. I admit it, and I’m fine with it. On the subject level, dull-as-virtue is what this article is about. Like it or not, you need a bunch of mundane, banal stuff to keep your quality-of-life at levels worth living. Even if you are an anti-consumer, anti-capitalism hater of goods, you still need soap and cleaning tools to enjoy even pre-capitalism levels of living.
 
 That’s why the tyranny of bad goods ordered from afar is so oppressive. I’m old enough to remember a time when most goods sucked. Almost every packaged food was bad. Every children’s toy was trash. Good stuff existed, but it was much more expensive. The age of Amazon actually changed this a lot. WIth luck, you can buy a twenty dollar doorknob set that would cost you twice that at Home Depot, one that actually works and holds up for a reasonable amount of time.
@@ -68,11 +66,11 @@ In the era I grew up in, the way soap was advertised was telling the consumer th
 
 As cleaners that come in spray bottles go, here is one that’s considered fairly exciting by the admittedly limited standards of the field:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/77b30b728472ed56.png) 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2258b654a5c5b922.png) 
 
 Look at those pretty bottles. So colorful. That’s this company’s whole jam - bottles and ad copy. Here’s a brush from the same company, or at least the same store you’d buy the soap at:  
   
-![](https://acximages.ennals.org/images/2025-non-book-reviews/33035304b6efd972.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/45a67aeea5cad039.png)
 
 The copy that the company uses to sell either is about as attractive. Here, they say, is a sustainable product made with delightfully crunchy ingredients, each more hippy-commune than the last. They are “natural”. They are, I swear this is true, a scented summer-specific collection.
 
@@ -90,15 +88,14 @@ Having determined that I just didn’t have space to write about every Rubbermai
 
 I needed a way around that. To the extent I could, I think I found one. So tighten your belt and jostle your soul to a more comfortable riding position, because we are about to travel very fast over rough, unexplored roads in search of polymer wisdom.
 
----
-
+- - -
 The plan, as it was, was relatively simple. This not having to be an _interesting_ article in a topic sense helped a lot. I would buy a friend a broom. I would pick a man of unimpeachable honor and honesty, a capable man who hated the very idea of a bribe. He would be forced to accept the Rubbermaid boon I thrust upon him. He’d use it to clean up little scraps of paper or whatever, and tell me how it did.
 
 At the same time, I'd buy another Rubbermaid broom. I'm a fanboy, and so not to be trusted at all, but I could at least be another datapoint. You could compare my conclusions to his, pick an arbitrary point on a line drawn between our two positions, and probably come away with at least the illusion of balance.
 
 His part of the plan went swimmingly. He's a more traditional kind of guy, sort of quasi-amish in an urban mennonite way. He probably knows how to can things, he's probably made at least one quiet disapproving comment at a renaissance faire about someone else's historically hopeful costume choices, and that sort of thing. I sent this titan of knowing-at-least-three-uses-for-pecans the sweeper of his choosing, a Rubbermaid Heavy-Duty Commercial Corn Broom that looks a bit like this.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5311686baa9fe257.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/374ffea1e77546f4.png)
 
 I liked this for a couple reasons. The first was how well it fit the general Rubbermaid vibe. I mean, just look at that bad boy. There's not an exciting atom in the entire thing. If being thrilling was a sense of professional decorum in one’s private life, it would be the cleaning product equivalent of the Shamwow guy. If goosebump-giving capacity was an understanding of adequate firearm holsters, it would be the tidying-up counterpart to Plaxico Burress.
 
@@ -108,7 +105,7 @@ The second reason I liked it is how much it _didn't_ fit the Rubbermaid vibe in 
 
 He got it, used it a few times, and reported back:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9fd74a73b7433389.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/22334dc6b61dddb6.png)
 
 Look at how completely without incident that review is. It's a thing of unassuming beauty, like a milk-jug cap.
 
@@ -118,7 +115,7 @@ That's what Rubbermaid is about. That's the whole deal. You can order this thing
 
 Now, as for my side of the review process: Things went to shit. Not because I couldn't get a broom (I could have) or because the broom didn't work (It was going to be Rubbermaid, it would have) but because I got distracted. During the process of making sure I was looking at every available broom, I scrolled a bit too far and let my eyes land on the most medium-beautiful object of function I'd ever seen:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/af03aadcb99e0f41.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f09f9387790943e9.png)
 
 I mean, look at it. Really look at it. What could I do?
 
@@ -142,8 +139,7 @@ One of the advantages of _things like Rubbermaid_ is that they are commonly purc
 
 She asked that I tell you how to use her.
 
----
-
+- - -
 This brings us around to some of the practical-advantage stuff I said I'd grant you near-but-not-at the beginning of the article. Specifically, I'm going to teach you the correct way to clean a toilet, to the extent that one exists that's available to you or me.
 
 The reason I'm saying that in the specific weird way I've chosen is there's always going to be a lot of tools you don't or can't have access to that would make the job a little easier. The _actual_ best way to clean a toilet is in a room with commercial drains and water-impermeable walls such as allow you to add a full garden hose to the mix and use the sheer volume and pressure of the water to flood away the filth.  
@@ -186,8 +182,7 @@ Is all this overkill? As I write this, an internet friend is commenting that it 
 
 To your type, I say this: Listen, man. Some of us are contributing to the future of this great nation and the world, and need actual tools. This is what gets the job done.
 
----
-
+- - -
 Of course, I just did every toilet-scrubbing step described above myself. I'm not going to fire from the hip on a subject this important. I went and got my facts straight beforehand so I could give you only the very straightest of shooting, as you deserve. You'd expect no less from a person of my stature, and I'm glad to say I didn't balk from delivering it.
 
 How did the brush hold up, you ask? Fine. It did fine. It cleaned the toilet well. It’s rinsed out now, waiting for its next job.
@@ -204,8 +199,7 @@ As a secondary power move and just to get another data-point I also set out to c
 
 The tray is okay now. The brush did fine. It's a Rubbermaid. Rising to the occasion is the only life it knows.
 
----
-
+- - -
 This essay might make it seem like I’m joking. I am, in the sense that I’m making a lot of jokes. I’m not at all joking about my love for this company, though.
 
 A friend who proofread this for me before I sent it out said that he was worried that this might straddle the line between a review and a memoir of a life lived in happiness with a brand. If so, let that be your review in-and-of-itself, because that just wouldn’t be possible for me with most things. Too many trusted names have failed me. Too many heroes have fallen. Rubbermaid alone has stood firm against the storms.

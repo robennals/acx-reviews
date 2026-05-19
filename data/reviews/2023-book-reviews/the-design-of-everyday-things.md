@@ -1,23 +1,23 @@
 ---
-title: "The Design of Everyday Things"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Design of Everyday Things
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-design-of-everyday-things"
-wordCount: 5828
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-design-of-everyday-things
+wordCount: 5835
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Psychology
   - Society
 ---
 
-**I.**
+## I.
 
 One sunny morning, a few months back, my kitchen design set my nice new jacket on fire.
 
@@ -27,7 +27,7 @@ My wife was, naturally, apologetic, and she politely avoided mentioning that it 
 
 But I was mostly interested in metaphorically waving Don Norman's The Design of Everyday Things in her face and explaining how it was not her fault for turning on the wrong hotplate, nor was it my fault for leaving my jacket on the stove. The problem was _bad design_.
 
-**II.**
+## II.
 
 The Design of Everyday Things is a book with a mission. Don Norman wants to change the way we think about the relationship between us and our objects. Specifically, he argues with great conviction that almost all of what we attribute to user error should instead be put down to a failure of design. If you construct a door and subsequently discover that it is too big for the intended doorway, you don't label it "doorway error" and call it a day. The term "user error" is in most cases just as absurd. The user is a person, and people come with predictable behaviors and constraints which good design should take into account. Yet every day we interact with objects that fail at this criteria.
 
@@ -47,7 +47,7 @@ These are all failures of design under Don Norman's model. It's not enough for i
 
 The book has seen a lot of success since the first edition came out in 1988 and has helped to usher in a paradigm shift in design - user centric design, a term which Don Norman popularized. But it also has a lot of insight to offer to anyone who's ever used a thing and who plans on doing so again - so if that sounds like you, read on.
 
-**III.**
+## III.
 
 A lot of the value that The Design of Everyday Things offers is in defining a linguistic framework for thinking and talking about user centric design. Maybe this doesn't sound like an overly lofty achievement, but sometimes lacking the right language can limit the way we think. George Orwell warned us about totalitarian governments controlling our thoughts by controlling our language - but this also works in reverse. Expanding your language can open up new ways to think about the world. This is similar to the way that learning the name of a logical fallacy can make you start recognizing that fallacy everywhere. In the same way I have found that learning Norman's vocabulary has directly led to me recognizing bad design where I otherwise would not have.
 
@@ -77,7 +77,7 @@ Case in point, I don't know how to use any function on my microwave except for +
 
 In the past I've used an older style microwave where the only inputs were two dials - one for power, and one for time. Turn the time dial up and the microwave starts. My god is this a better system. It's immediately obvious how it works, and with one motion I get more precision than I do with my "press 30 seconds 3-5 times" method. The only changes I would make would be to add a digital display and make the dial logarithmic.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/fd0194dcc2d6ab25.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e7e952c05bab1386.png)
 
 _It's all been downhill since this._
 
@@ -89,19 +89,19 @@ A stove affords support for other objects, as well as heat transfer to those obj
 
 > For me, the term signifier refers to any mark or sound, any perceivable indicator that communicates appropriate behavior to a person. Signifiers can be deliberate and intentional, such as the sign PUSH on a door, but they may also be accidental and unintentional, such as our use of the visible trail made by previous people walking through a field or over a snow-covered terrain to determine the best path.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/53c858030145d297.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/417ae3af2fffc3e6.png)
 
 Signs and labels are types of highly deliberate signifiers, but signifiers can also take the form of perceived affordances. For example, a handle on a door suggests that the door affords pulling (which may or may not be true). A well designed object should have signifiers for all its intended affordances, and no false signifiers for non-existent affordances.
 
 Affordances and signifiers can also be unintentional or undesirable, as in this example from the book:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1ae02cd1504d9bc6.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/dadff10f988aae2b.png)
 
 **Constraints** are restrictions on what actions are possible. A 9 volt battery has a constraint on its attachment point that means it is only possible to connect it one way. AA batteries don't have this constraint, thus it is possible to insert them the wrong way. Button batteries are even worse.
 
 The book actually has an example of a design for a AA shaped battery that can be inserted either way, where each end has both a negative terminal (a ring around the edge) and a positive one (the center). Maybe in another world this could have been the standard, but sadly it is not in ours. We can at least be grateful to USB-C for making this meme obsolete:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2fb2345c2638ee2e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/c61826a57a2392e6.png)
 
 Constraints can themselves act as signifiers. You don't have to know anything about electronics to be able to work out how most of the cables should be inserted into a TV (HDMI, antenna, power). This information is communicated by the fact that these cables only fit into one port. The exception is the RCA cables (the red/white/yellow ones), which instead uses color as a signifier. This is not ideal in many situations - when you can't easily see the ports, if you're colorblind, if your device doesn't follow convention etc.
 
@@ -121,7 +121,7 @@ This passage feels relevant for us:
 
 Almost all stoves have their controls arranged in a line, like so:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/242c93314e01e9c9.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/f30931a0a55da05e.png)
 
 With this arrangement users must rely on checking the labels (which hopefully have not rubbed off) to know which is which. This leaves room for errors, which can and do happen.
 
@@ -129,7 +129,7 @@ With this arrangement users must rely on checking the labels (which hopefully ha
 
 I can attest to that. A stove with naturally mapped controls does not have this problem. Here are two examples:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/69f4513aed40e621.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/b724b08f444fed33.png)
 
 The dials are arranged in a way that mirrors the arrangement of the hotplates, so it is immediately obvious which corresponds to which. It's hard to imagine making the same mistake with good natural mapping.
 
@@ -143,11 +143,11 @@ https://www.youtube.com/watch?v=P4\_6e5IaQXM
 
 Jeremy's conceptual model is that the thermostat acts as a faucet, and wants the temperature set high to be sure that it is turned all the way on. Mark is correct that it actually operates as an on/off switch - but how would one know that without being told or doing conscious experimentation? The comment section on that video is full of people who had the same misconception as Jeremy.
 
-**IV.**
+## IV.
 
 Aside from these definitions and examples, much of the rest of the book is made up of breakdowns of the psychology behind how we interact with objects and of the processes that go into doing good design. These breakdowns can be insightful but can also tend towards tedious - the ugly diagrams of things like "The Double-Diamond Model of Design" kind of give the feeling that you're stuck in an 80s corporate training presentation.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/cc9391d90a32fc92.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/fc61046ffc19c101.png)
 
 There were a couple of other sections I wanted to highlight, just for fun. To illustrate the difficulty of establishing industry standards, Norman tells a story about his involvement in HDTV definitions. Under a section titled "A standard that took so long, technology overran it" (I've cut some sentences for length):
 
@@ -173,7 +173,7 @@ Finally, my only real point of disagreement with the book - when he complained t
 
 I get the sense that Don Norman doesn't understand Lego.
 
-**V.**
+## V.
 
 Let's return to my scorched jacket, and the question of who or what was to blame. First of all, our stove (plus a narrow countertop) is positioned directly in front of the front door. The flat surface affords support for objects, which, combined with its positioning make it a convenient place to put things as you walk through the door. That day I was running around outside with my child when I got hot, took off my jacket and placed it on the nearest surface - the narrow countertop right next to the stove. My wife was late for work and was rushing around the kitchen preparing food and cleaning up at the same time. She wasn't paying full attention when she turned on the hotplate and accidentally turned the wrong dial - a mistake made possible by the poor mapping between our stove dials and their hotplates. A good signifier would have counteracted the poor mapping, but the labels next to the dials that indicate their corresponding hotplates had been mostly rubbed away. Selecting the correct dial required a process of elimination using the remaining labels, a process that my wife skipped in her rush and went off memory instead. The stove gave no feedback as to which hotplate had been turned on, and the first we knew about it was from the smell of burning plastic.
 
@@ -185,7 +185,7 @@ Bad design causes us innumerable trivial inconveniences day to day, but it can l
 
 When we're operating objects with an element of risk - stoves, cars, nuclear power plants - good design may be the only thing protecting us from our potential for catastrophic error.
 
-**VI.**
+## VI.
 
 The Design of Everyday Things was originally published in 1988, with the revised edition (which I'm reviewing here) released in 2013. How have we fared since then?
 
@@ -207,7 +207,7 @@ There is one big field that has taken user centric design to heart - software de
 
 It is also easier in software development to iterate on the user experience based on feedback. You can adjust the product post launch - a luxury that traditional industries don't have. All of this has resulted in digital experiences that are generally very easy and pleasant to use, with particularly good discoverability, signifiers and feedback.
 
-**VII.**
+## VII.
 
 So what should you take away from this book?
 

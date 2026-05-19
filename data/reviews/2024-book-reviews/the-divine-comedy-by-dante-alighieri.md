@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.006Z'
 slug: the-divine-comedy-by-dante-alighieri
-wordCount: 15026
+wordCount: 15018
 readingTimeMinutes: 67
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Fiction
@@ -29,8 +28,7 @@ It’s a loose translation, since I try to make it rhyme, but it’s good enough
 
 Whenever a quote doesn’t specify who the translator is, it’s my translation.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 Before we even begin, I must address a translation issue.
 
 Let’s translate the first line of the Divine Comedy into English in the most natural possible way:
@@ -65,8 +63,7 @@ I’m not saying it’s an ideal translation, or even a worthy one. But it’s�
 
 It’s too fast, and drops some detail (such as “our”), but at least it’s not too slow. The couplet form also makes it much easier to rhyme every line.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 Halfway through life (that is, when he is 35, in the year 1300), Dante awakes in a dark wood, or realizes that he’s in one, having lost his way.
 
 It’s a harsh place, terrifying, almost as much as death itself.
@@ -483,10 +480,10 @@ and down I fell the way dead bodies fall.
 
 If you read this carefully, in my translation or any other, you’ll notice that Francesca insistently blames for her adultery:
 
-> *   Love (which spares no creature loved from loving back, according to her, and has “ferried” them)
-> *   her lover, Paolo, for initiating the affair.
-> *   the romance they were reading.
-> *   its author (whom she compares to Gallehot, facilitator of the love between Lancelot and Guinevere)
+*   Love (which spares no creature loved from loving back, according to her, and has “ferried” them)
+*   her lover, Paolo, for initiating the affair.
+*   the romance they were reading.
+*   its author (whom she compares to Gallehot, facilitator of the love between Lancelot and Guinevere)
 
 …anyone and anything but herself!
 
@@ -522,12 +519,12 @@ How come killers, suicides, gays, blasphemers and squanderers are all found in t
 
 Let’s clarify:
 
-> *   The virtuous unbaptized are in Circle 1, Limbo, and aren’t punished.
-> *   Sins of lack of self control (”incontinence”) are punished in Upper Hell, Circle 2 to 5. Counting the cricles makes this area sound as if it’s a big part of Hell. In fact it takes up a small part of the volume. There is this problem with the traditional division of Hell in nine circles, which poisons illustrations, summaries… the lower circles take up much more of the book, and comprise of many more areas. In Upper Hell, the lustful we’ve just seen them, the gluttons lie under a rain of mud, the hoarders and wasters push great rolling spheres, the wrathful fight each other in the swampy river Styx.
-> *   Heresy is punished in Circle 6, a city of burning tombs in which the heretics are buried.
-> *   Circle 7 is for the violent; so says Dante, but I think it would be helpful to say the malicious, or the violators in cold blood. These are people whose actions do not simply arise from lack of self control. For example, one person Dante names as a “squanderer” was rumored to have set his own house on fire for fun. That sets the squanderers apart from the wasters of upper hell. If Dante places gays here, I think it’s due to a definition of sodomy that implies a certain act, which can only be done in malice according to the author, even if he does acknowledge that same sex attraction exists. I don’t think he would have placed here two men who kiss while reading an Arthurian romance. On the other hand, none of these sinners were deceitful. The murderers here are tyrants and highwaymen, not Ted Bundy. In fact, although everyone calls them “murderers”, not all of them are; Vergil describes them as (Mandelbaum) “murderers and those who strike in malice, as well as plunderers and robbers” (Canto 11, 37). The punishments here are a river of boiling blood for those who hurt others, a forest where the souls of the suicides inhabit twisted trees tortured by harpies, and where the squanderers are hunted down by demonic beasts, and a rain of fire for blasphemers and sodomites.
-> *   Circle 8 is for deceivers. The “thieves” here are ones who play the role of good citizen by day and rob you by night, so to speak. Honest robbers, such as highwaymen, belong to the river of blood of Circle 7. This is a huge area which takes up one third of the volume, and covers many distinct types of deceit. Deceivers of various types are whipped, buried in excrements, stuck upside down in the ground with feet on fire, have their heads twisted 180 degrees, are immersed in boiling tar, clad in a leaden cloak golden on the outside, bitten by snakes and transforming back and forth between snakes and human, enveloped in a personal flame, mutilated over and  over, and plagued with disfiguring diseases.
-> *   Circle 9 is for traitors; so says Dante, but I think it would be helpful to say backstabbers. I’ll get to that.
+*   The virtuous unbaptized are in Circle 1, Limbo, and aren’t punished.
+*   Sins of lack of self control (”incontinence”) are punished in Upper Hell, Circle 2 to 5. Counting the cricles makes this area sound as if it’s a big part of Hell. In fact it takes up a small part of the volume. There is this problem with the traditional division of Hell in nine circles, which poisons illustrations, summaries… the lower circles take up much more of the book, and comprise of many more areas. In Upper Hell, the lustful we’ve just seen them, the gluttons lie under a rain of mud, the hoarders and wasters push great rolling spheres, the wrathful fight each other in the swampy river Styx.
+*   Heresy is punished in Circle 6, a city of burning tombs in which the heretics are buried.
+*   Circle 7 is for the violent; so says Dante, but I think it would be helpful to say the malicious, or the violators in cold blood. These are people whose actions do not simply arise from lack of self control. For example, one person Dante names as a “squanderer” was rumored to have set his own house on fire for fun. That sets the squanderers apart from the wasters of upper hell. If Dante places gays here, I think it’s due to a definition of sodomy that implies a certain act, which can only be done in malice according to the author, even if he does acknowledge that same sex attraction exists. I don’t think he would have placed here two men who kiss while reading an Arthurian romance. On the other hand, none of these sinners were deceitful. The murderers here are tyrants and highwaymen, not Ted Bundy. In fact, although everyone calls them “murderers”, not all of them are; Vergil describes them as (Mandelbaum) “murderers and those who strike in malice, as well as plunderers and robbers” (Canto 11, 37). The punishments here are a river of boiling blood for those who hurt others, a forest where the souls of the suicides inhabit twisted trees tortured by harpies, and where the squanderers are hunted down by demonic beasts, and a rain of fire for blasphemers and sodomites.
+*   Circle 8 is for deceivers. The “thieves” here are ones who play the role of good citizen by day and rob you by night, so to speak. Honest robbers, such as highwaymen, belong to the river of blood of Circle 7. This is a huge area which takes up one third of the volume, and covers many distinct types of deceit. Deceivers of various types are whipped, buried in excrements, stuck upside down in the ground with feet on fire, have their heads twisted 180 degrees, are immersed in boiling tar, clad in a leaden cloak golden on the outside, bitten by snakes and transforming back and forth between snakes and human, enveloped in a personal flame, mutilated over and  over, and plagued with disfiguring diseases.
+*   Circle 9 is for traitors; so says Dante, but I think it would be helpful to say backstabbers. I’ll get to that.
 
 Us modern people draw too stark a distinction between the ancient and the medieval world. As far as I can tell, there is no significant distinction in Dante between the demons drawn from classical sources and those drawn from Christian tradition. Medieval people generally believed that most stories were somewhat true, and if the creatures of classical literature had existed, they must have been either fallen angels or monstrous humans; it’s hard to tell one from the other in Dante’s hell. Some centaurs have a job as demonic guardians, but one is punished along with human sinners; are centaurs fallen angels or humans? It’s also hard to tell apart guardians from prisoners; some characters seem to be both, even Satan. While there is no distinction between pagan and Christian demons, the place in Hell for every creature matches what we know of that creature, or what it can symbolize. For example, Satan is the ultimate traitor, so he’s with the traitors. Centaurs were known to be murderous creatures, so they guard murderers.
 
@@ -813,7 +810,6 @@ which is stunning, because nobody in hell ever spoke like this.
 
 Here, to meet a shade you personally know is a reason to rejoice.
 
-  
 Noble Judge Nino—what delight was mine  
 when I saw you were not among the damned!
 
@@ -1399,8 +1395,7 @@ now Love was spinning in me wish and will,
 
 the Love that moves the sun and all the stars.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 Why is Dante’s Italian so beautiful to us Italians?
 
 As is common knowledge, English has a Latinate linguistic tier on top of a Germanic one, and the first is more formal than the second.
@@ -1433,8 +1428,7 @@ Can you explain to a foreigner who doesn’t speak English why Shakespeare is go
 
 How can I explain it?
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 Imagine a fantasy work set in a magical ancient Greece, or even in a fictional magical setting merely inspired by ancient Greece. It’s full of magic and monsters. You would expect that in such a setting, the deities of Greek mythology exist. Indeed, in all movies, books, games… with such a setting, invariably Zeus, Athena, Apollo…. exist. It would be a letdown if they didn’t.
 
 Imagine a fantasy work set in a magical Norse world, or even in a fictional magical setting merely inspired by Vikings. It’s full of magic and monsters. You would expect that in such a setting, the deities of Norse mythology exist. Same as the paragraph above.
@@ -1471,8 +1465,7 @@ I think this fully explains the popularity of Vikings in pop culture. As far as 
 
 I’m an atheist. Reading Dante reminds me of how wondrous is the Christian mythology of angels and demons, heaven and hell. And while I’ve always felt drawn to the “medieval fantasy” setting, in its stock version it has always felt off to me. I think it’s because the medieval supernatural is never true in that setting.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 The world is full of clichés.
 
 Mussolini made the trains run on time.
@@ -1519,11 +1512,11 @@ I’ve come across the argument that the reason it’s supposedly easier to rhym
 
 Let me show that, when it comes to possible vowel-consonant combinations, Italian is as varied as English.
 
-> *   Italian distinguishes between geminate and non-geminate consonants; e.g. “fato” does not rhyme with “fatto”. This doubles the number of consonants.
-> *   In American, there are 14 or 15 vowels. This is only twice as many as Italian, meaning American has twice the vowel and half the consonants of Italian, and therefore a similar number of vowel-consonant combinations.
-> *   In British, there are 20 vowels, but the “r” sound is not pronounced except before a vowel, which limits the variety of consonant clusters compared to either American or Italian. In practice, this compensates for the extra vowels, which for the most part are heard where Americans would pronounce an “r” that Brits don’t. Compared to American, it’s easier to rhyme in British, where “dawn” rhymes with “morn”, “father” with “farther”, “lion“ with “iron”, “bought” with “court”, “Messiah” with “sire”, “sofa” with “loafer”, “car” with “spa”, one could go on and on (to British readers: those pairs don’t rhyme in the US).
-> *   The official 14 or 15 or 20 vowels of English cover English diphthongs, whereas the official 7 vowels of Italian don’t cover Italian diphthongs. The latter are occasionally used in rhymes, for example Petrarch knows something about “aura” rhyming with “Laura”, where “au” rhymes with English “how” - how come this sound gets counted as its own vowel in one language but not in the other?
-> *   Italian has no vowel reduction.
+*   Italian distinguishes between geminate and non-geminate consonants; e.g. “fato” does not rhyme with “fatto”. This doubles the number of consonants.
+*   In American, there are 14 or 15 vowels. This is only twice as many as Italian, meaning American has twice the vowel and half the consonants of Italian, and therefore a similar number of vowel-consonant combinations.
+*   In British, there are 20 vowels, but the “r” sound is not pronounced except before a vowel, which limits the variety of consonant clusters compared to either American or Italian. In practice, this compensates for the extra vowels, which for the most part are heard where Americans would pronounce an “r” that Brits don’t. Compared to American, it’s easier to rhyme in British, where “dawn” rhymes with “morn”, “father” with “farther”, “lion“ with “iron”, “bought” with “court”, “Messiah” with “sire”, “sofa” with “loafer”, “car” with “spa”, one could go on and on (to British readers: those pairs don’t rhyme in the US).
+*   The official 14 or 15 or 20 vowels of English cover English diphthongs, whereas the official 7 vowels of Italian don’t cover Italian diphthongs. The latter are occasionally used in rhymes, for example Petrarch knows something about “aura” rhyming with “Laura”, where “au” rhymes with English “how” - how come this sound gets counted as its own vowel in one language but not in the other?
+*   Italian has no vowel reduction.
 
 Let’s look at the issue from another angle.
 
@@ -1551,8 +1544,7 @@ A related misconception is that stress pattern within the line doesn’t matter 
 
 The notion may possibly stem from the fact that in his unfinished treatise on vernacular poetry, he didn’t get to the point of discussing stress patterns. But in the Comedy, Dante clearly is very deliberate with his stress patterns.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 Did people believe that the Divine Comedy was literally true?
 
 Galileo seems to have interacted with a group of scholars who did. It’s bizarre. Just look at this Wikipedia page:
@@ -1585,7 +1577,7 @@ Is it possible that Dante believed his own trip to the afterlife to be true?
 
 Let’s look at the Wikipedia page about near death experiences. It list typical features.
 
-> *   A sense/awareness of being dead.
+*   A sense/awareness of being dead.
 
 Let’s look at the opening of Hell:
 
@@ -1641,15 +1633,15 @@ Of course, everything here has an allegorical meaning. But all Dante ever does i
 
 Oh, and obviously every literary critic ever would laugh at what I’m saying here, so feel free to think mine is crazy talk.
 
-> *   A sense of [peace](https://en.wikipedia.org/wiki/Peace), [well-being](https://en.wikipedia.org/wiki/Well-being), painlessness and other positive [emotions](https://en.wikipedia.org/wiki/Emotion). A sense of removal from the world. An intense feeling of [unconditional love](https://en.wikipedia.org/wiki/Unconditional_love) and [acceptance](https://en.wikipedia.org/wiki/Acceptance). Experiencing euphoric environments.
+*   A sense of [peace](https://en.wikipedia.org/wiki/Peace), [well-being](https://en.wikipedia.org/wiki/Well-being), painlessness and other positive [emotions](https://en.wikipedia.org/wiki/Emotion). A sense of removal from the world. An intense feeling of [unconditional love](https://en.wikipedia.org/wiki/Unconditional_love) and [acceptance](https://en.wikipedia.org/wiki/Acceptance). Experiencing euphoric environments.
 
 Paradise.
 
-> *   A "tunnel experience" or entering a darkness. A sense of moving up, or through, a passageway or staircase.
+*   A "tunnel experience" or entering a darkness. A sense of moving up, or through, a passageway or staircase.
 
 Hell itself is a gigantic dark tunnel, and the passage between Hell and Purgatory is a long, narrow tunnel. Purgatory is a great steep path to be climbed, as is the literal stairway to heaven in Paradise (see picture; note that in Italian we don’t distinguish between stairs and ladders; a ladder is a very steep stair).
 
-> *   A rapid movement toward and/or sudden immersion in a powerful light (or "Being(s) of Light" or "Being(s) dressed in white" who communicate telepathically with the person).
+*   A rapid movement toward and/or sudden immersion in a powerful light (or "Being(s) of Light" or "Being(s) dressed in white" who communicate telepathically with the person).
 
 Every time Dante and Beatrice zoom through space at incredible speed, towards a gleaming star, sometimes diving into it, to encounter shining people clad in bright light.
 
@@ -1659,15 +1651,15 @@ Everybody in Paradise knows Dante’s thoughts before he speaks (this is often p
 
 I find the correspondences here particularly strong.
 
-> *   Being reunited with deceased loved ones.
+*   Being reunited with deceased loved ones.
 
 Beatrice.
 
-> *   Receiving a [life review](https://en.wikipedia.org/wiki/Life_review), commonly referred to as "seeing one's life flash before one's eyes".
+*   Receiving a [life review](https://en.wikipedia.org/wiki/Life_review), commonly referred to as "seeing one's life flash before one's eyes".
 
 The first thing Beatrice does is Give Dante a life review.
 
-> *   Approaching a border or a decision by oneself or others to return to one's body, often accompanied by a reluctance to return.
+*   Approaching a border or a decision by oneself or others to return to one's body, often accompanied by a reluctance to return.
 
 As it appears on the wiki, this one seems to imply that the border is always the end of the journey, where one turns back.
 
@@ -1681,8 +1673,7 @@ But I do suspect that our concept of a Heaven and a Hell have always been influe
 
 And I think in this way we can explain Dante’s confidence in the fundamental truth of his journey, which allowed him to present it as true, even if invented many of the details.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 I wanted to say so much more!
 
 I wanted to write a section about Dante’s unique use of similes.

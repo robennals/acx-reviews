@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-wheel-of-time
-wordCount: 3636
+wordCount: 3625
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction
@@ -24,10 +23,10 @@ There are no beginnings or endings to discussions of Robert Jordan’s fantasy s
 
 My goals for this review are below. We’ll devote one section to each:
 
-> 1.  Help readers decide whether they should read the series or not.
-> 2.  Briefly note the basic, overt themes of the series.
-> 3.  Go in depth in examining the topic Jordan really cares about.
-> 4.  Look at _The Wheel of Time_ in light of Scott’s post [“The Psychology of Fantasy.”](https://www.astralcodexten.com/p/the-psychology-of-fantasy)
+1.  Help readers decide whether they should read the series or not.
+2.  Briefly note the basic, overt themes of the series.
+3.  Go in depth in examining the topic Jordan really cares about.
+4.  Look at _The Wheel of Time_ in light of Scott’s post [“The Psychology of Fantasy.”](https://www.astralcodexten.com/p/the-psychology-of-fantasy)
 
 **Section 1 will be spoiler-free. Sections 2-4 will contain spoilers**, though I will try to limit them to general thematic content and not rehashing specific plot events in detail. My intent is that they still be readable for someone who has not read the series but would like to do so, provided they are not particularly sensitive to spoilers. I take no responsibility if they have more spoilers in them than you personally would like, though.
 
@@ -77,13 +76,13 @@ That’s all fairly surface level. You’re beat over the head with the fact tha
 
 Jordan’s interest goes beyond just gender politics, however; that’s an integral part of the fantasy world he constructs, but his real fascination is politics more broadly. Look at how many kinds of power structures exist among female magicians alone:
 
-> *   Aes Sedai have authority based on how much magic power they have.
-> *   Windfinders have authority based on the importance of their assignment and their clan’s standing.
-> *   The Kin yield to more senior members.
-> *   Wise Ones defer to sheer force of personality.
-> *   Black Ajah Aes Sedai operate in small cells, in principle obedient to a central authority but each constantly looking to advance by backstabbing.
-> *   Sharan channelers obey one emperor or empress of their number absolutely.
-> *   Seanchan _damane_ (slaves) are chattel with no authority at all.
+*   Aes Sedai have authority based on how much magic power they have.
+*   Windfinders have authority based on the importance of their assignment and their clan’s standing.
+*   The Kin yield to more senior members.
+*   Wise Ones defer to sheer force of personality.
+*   Black Ajah Aes Sedai operate in small cells, in principle obedient to a central authority but each constantly looking to advance by backstabbing.
+*   Sharan channelers obey one emperor or empress of their number absolutely.
+*   Seanchan _damane_ (slaves) are chattel with no authority at all.
 
 The author loves to take characters from one of these factions and dump them into another in order to watch them struggle with culture shock. The reader gets a good giggle when snobbish Aes Sedai are forced to submit Aiel Wise Ones and made to run around as their apprentices and conversely feels horror when a heroic Aes Sedai in training is forced into _damane_ magic slavery.
 

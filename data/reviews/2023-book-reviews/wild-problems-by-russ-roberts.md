@@ -1,16 +1,16 @@
 ---
-title: "Wild Problems, by Russ Roberts"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Wild Problems, by Russ Roberts
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "wild-problems-by-russ-roberts"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: wild-problems-by-russ-roberts
 wordCount: 1974
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Economics
   - Philosophy
@@ -41,7 +41,6 @@ Roberts dedicates the first half of the book to gently mocking people who attemp
 
 Roberts thinks that these sorts of approaches lead to a focus on “narrow utilitarianism” (counting day-to-day pleasures and pains) rather than what he thinks is more important: “flourishing” (the overall sense of meaning in your life).
 
-  
 Couldn’t you simply include “flourishing” as just another “benefit” in your cost-benefit analysis? (“I estimate the NPV of additional lifetime flourishing for having one more child to be the equivalent of $675,000 cash today”).
 
 Roberts rejects this idea. He sees flourishing as something that is fundamentally unquantifiable, and not something you should think about trading off against day-to-day pleasures and pains.

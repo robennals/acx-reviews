@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.479Z'
 slug: lesbian-fanfiction
-wordCount: 4146
+wordCount: 4131
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Society
@@ -59,24 +58,23 @@ As an example of all this, I am a shipper who ships the Harry Potter/Hermione Gr
 
 ### Other Vocabulary
 
-> *   OTP: Shippers will usually have an ‘OTP’, or ‘One True Pair’, the ship they hold dearest in their heart. If three people are involved in the ship, this is replaced with ‘OT3’.
-> *   AU: Alternate Universe. This is when a fanfic transports the characters from their original setting into an alternate one.
->
-> *   There’s minor AU, where a few elements are changed from the original setting but the rest is kept intact (imagine if Harry Potter had been raised by Dumbledore instead of the Dursleys!), and
-> *   Major AU, where the setting is completely different (what if the Justice League were all ordinary teenagers attending high school together!)
->
-> *   AO3: Archive Of Our Own, one of the biggest (and best organized) repositories of fanworks on the internet.
-> *   Fic: A work of fanfiction, which is a work of fiction using an established world that someone else wrote.
+*   OTP: Shippers will usually have an ‘OTP’, or ‘One True Pair’, the ship they hold dearest in their heart. If three people are involved in the ship, this is replaced with ‘OT3’.
+*   AU: Alternate Universe. This is when a fanfic transports the characters from their original setting into an alternate one.
+    *   There’s minor AU, where a few elements are changed from the original setting but the rest is kept intact (imagine if Harry Potter had been raised by Dumbledore instead of the Dursleys!), and
+    *   Major AU, where the setting is completely different (what if the Justice League were all ordinary teenagers attending high school together!)
+
+*   AO3: Archive Of Our Own, one of the biggest (and best organized) repositories of fanworks on the internet.
+*   Fic: A work of fanfiction, which is a work of fiction using an established world that someone else wrote.
 
 ## Popular Ships (And My Favorites)
 
 Given that [most fiction is heteronormative](https://ccbc.education.wisc.edu/ccbc-2017-statistics-on-lgbtq-literature-for-children-teens/) (not saying this is good or bad, just true), the majority of lesbian fanfiction centers around noncanon pairings. Without going too in-depth, I’m going to list some of my favorite pairings, whether they’re canonical or not, and a brief blurb about them along with a recommended fic (warning: read the tags on the fics; some of them are very R-rated). You can skim this if you want.
 
-> *   Wenclair, NonCanon: Wednesday Addams and Enid Sinclair from the Netflix show Wednesday. They’re roommates who learn to get along, and Enid appears to be the only person Wednesday accepts physical and emotional intimacy from who isn’t trying to kill her. Recommended fic: [In the Heat of the Moment](https://archiveofourown.org/works/43850628)
-> *   SwanQueen, NonCanon: Emma Swan and Regina Mills from the ABC show Once Upon A Time about Disney characters in real life. The two of them literally co-parent a child, and the men they’re paired off with are male versions of each other. Recommended fic: [every winter fades away (into the spring)](https://archiveofourown.org/works/10848708)
-> *   SuperCorp, NonCanon: Kara Danvers (Supergirl) and Lena Luthor from the CW show Supergirl. The two have a _very_ close friendship, a perfect Romeo-and-Juliet backstory (their families are enemies), and are intensely emotionally intimate. Recommended fic: [reflecting in your eyes (like an endless summer)](https://archiveofourown.org/works/20761346)
-> *   Kigo, NonCanon: Kim Possible and Shego from the Disney Channel show Kim Possible. They have an ‘experienced older person/younger person’ dynamic along with ‘enemies to lovers’, and Shego regularly calls Kim ‘Princess’, ‘Cupcake’, and other terms of endearment. Recommended fic: [Alone Together](https://www.fanfiction.net/s/2949422/1/Alone-Together)
-> *   Clexa, Canon: Clarke Griffin and Lexa from The 100. They do kiss, but Lexa is killed pretty early on (a classic case of ‘Bury Your Gays’, the trope where, like black people in horror movies, gay characters are killed off at suspiciously high rates). Recommended fic: [The Lay of Looking-Glass Land](https://archiveofourown.org/series/390229)
+*   Wenclair, NonCanon: Wednesday Addams and Enid Sinclair from the Netflix show Wednesday. They’re roommates who learn to get along, and Enid appears to be the only person Wednesday accepts physical and emotional intimacy from who isn’t trying to kill her. Recommended fic: [In the Heat of the Moment](https://archiveofourown.org/works/43850628)
+*   SwanQueen, NonCanon: Emma Swan and Regina Mills from the ABC show Once Upon A Time about Disney characters in real life. The two of them literally co-parent a child, and the men they’re paired off with are male versions of each other. Recommended fic: [every winter fades away (into the spring)](https://archiveofourown.org/works/10848708)
+*   SuperCorp, NonCanon: Kara Danvers (Supergirl) and Lena Luthor from the CW show Supergirl. The two have a _very_ close friendship, a perfect Romeo-and-Juliet backstory (their families are enemies), and are intensely emotionally intimate. Recommended fic: [reflecting in your eyes (like an endless summer)](https://archiveofourown.org/works/20761346)
+*   Kigo, NonCanon: Kim Possible and Shego from the Disney Channel show Kim Possible. They have an ‘experienced older person/younger person’ dynamic along with ‘enemies to lovers’, and Shego regularly calls Kim ‘Princess’, ‘Cupcake’, and other terms of endearment. Recommended fic: [Alone Together](https://www.fanfiction.net/s/2949422/1/Alone-Together)
+*   Clexa, Canon: Clarke Griffin and Lexa from The 100. They do kiss, but Lexa is killed pretty early on (a classic case of ‘Bury Your Gays’, the trope where, like black people in horror movies, gay characters are killed off at suspiciously high rates). Recommended fic: [The Lay of Looking-Glass Land](https://archiveofourown.org/series/390229)
 
 ## Tropes of the Genre
 
@@ -148,8 +146,8 @@ As an example, let’s look at the Once Upon A Time fandom. On Archive of Our Ow
 
 This is pure speculation on my part - I’m not even sure how you’d get the data to prove this one way or another - but in my experience reading both male/female and female/female fics, the female/female ones tend to be better written. I’ve got two theories:
 
-> 1.  Het writers have a bigger paying audience. If someone wants to write books with male/female relationships, they can attempt to write and publish their own original stories in the market, thus that’s what they do. Writers who want to focus on female/female stories have a much smaller potential audience and paying market, and thus aren’t as rewarded for publishing original work. Hence the distribution of talent favors lesbian fanfic writers because there’s less of a demand for the professional version of their work.
-> 2.  Something I’ve found generally true in the LGBT spaces I’ve interacted with is that, because the people in them deviate from societal norms, they have to think more critically about the nature of their relationships. In a male/female relationship, there’s a preexisting roadmap in each culture for how the relationship is supposed to work. In American culture, for instance, men usually instigate and women are supposed to be more receptive. Men are supposed to be more physically able and women are supposed to do more of the emotional labor. (I want to be clear that I’m being descriptive, not normative.) When two women or two men pair up, however, they don’t have that cultural script to follow, so they have to pay attention and make it up as they go along. I think this leads to deeper writing as authors are forced to engage with human relationships without being able to fall back on old patterns.
+1.  Het writers have a bigger paying audience. If someone wants to write books with male/female relationships, they can attempt to write and publish their own original stories in the market, thus that’s what they do. Writers who want to focus on female/female stories have a much smaller potential audience and paying market, and thus aren’t as rewarded for publishing original work. Hence the distribution of talent favors lesbian fanfic writers because there’s less of a demand for the professional version of their work.
+2.  Something I’ve found generally true in the LGBT spaces I’ve interacted with is that, because the people in them deviate from societal norms, they have to think more critically about the nature of their relationships. In a male/female relationship, there’s a preexisting roadmap in each culture for how the relationship is supposed to work. In American culture, for instance, men usually instigate and women are supposed to be more receptive. Men are supposed to be more physically able and women are supposed to do more of the emotional labor. (I want to be clear that I’m being descriptive, not normative.) When two women or two men pair up, however, they don’t have that cultural script to follow, so they have to pay attention and make it up as they go along. I think this leads to deeper writing as authors are forced to engage with human relationships without being able to fall back on old patterns.
 
 ## Life of a Pairing
 

@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.281Z'
 slug: beating-balatro-learning-mathematics-through-infinite-games
-wordCount: 2421
+wordCount: 2432
 readingTimeMinutes: 11
-originalUrl: >-
-  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:
   - Science
@@ -21,29 +20,31 @@ tags:
 > Many modern video games, known as roguelikes, challenge players with endless, escalating difficulty rather than a definitive endpoint. After “winning,” players face tougher foes until they inevitably fail, only to restart with upgraded abilities. Popularized by Vampire Survivors, this genre captivates with secrets, unlockable content, and hordes of pixel-art enemies. Surprisingly, mastering these games hinges not only on quick reflexes but also on mathematical thinking, particularly exponential growth. This essay explores how roguelikes, especially Balatro, teach players intuitive mathematics and cognitive skills through strategic gameplay.
 >
 > Perhaps surprisingly, and not so subtly, one of these critical elements to mastering these games is not as much the twitchy finger (although this also matters!), but a basic knowledge of exponents. The key game logic is not simply to accumulate items and weapons, but to accumulate them in such a way that they combine well. This means both a variety of range attacks and the right combination of objects which will evolve into superweapons.
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ef9f9b47a316d1f1.gif)
-
+>
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/ef9f9b47a316d1f1.gif)
+>
 > Through gathering gems from fallen enemies you level up and with each level up—and on chest events—you choose what upgrades to get. In the beginning of the game you decide what your core weapons will be, and you get to observe the exact amount of damage dealt by conveniently displayed damage marks.  
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ff0eaf3be10071f2.gif)
-
+>
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/ff0eaf3be10071f2.gif)
+>
 > How well you (and your teammate, if you are playing in co-op mode) can be seen at the end of the game via a most important statistical summary.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/5e041459fe76e58a.png)
 
+>
 > [Via reddit](https://www.reddit.com/r/VampireSurvivors/comments/sa1bpa/the_best_part_about_vandalier_isnt_its_damage_but/)
 >
 > As can be seen above the damage has scaled from low level thousands of cumulative damage up to the millions including the ever important DPS (damage per second), although the top weapon here (Pentagram) cannot stand on its own and needs to be combined with the correct other weapons for maximum effect.
 >
 > This review process, which is an essential part of every game, allows you to play in 30 minute increments while constantly evolving your strategy to see which weapons give you the most **umph**.  While this genre has produced many imitation offspring, arguably only a few have improved on the overall formula.
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/585971732f717c2a.gif)
-
+>
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/585971732f717c2a.gif)
+>
 > **Brotato**, featuring a violent potato on a mission of mayhem, arguably improved the Vampire Survivor model into unique fast paced stages where you use your cash to choose which weapons and upgrades to use, making for an extremely fast paced game with little margin for error and including complicated strategies which are endlessly debated on the [brotato subreddit](https://www.reddit.com/r/brotato/).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1847a0d3887f6472.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/064eca5c3bbb0805.png)
 
+>
 > [Brotato Subreddit | Why is this game crack](https://www.reddit.com/r/brotato/comments/1kjiahb/why_is_this_game_crack/)
 
 For example, you can go heavy on the engineering attribute and get weapons (e.g. turrets) that benefit that, or do a melee heavy build, or upgrade other attributes such as “luck” and gamble for powerful rare upgrades.  Depending on your level of mayhem you will go for a simple victory at difficulty level 0 or see if you can make it past the ultimate double boss on level 5 – though true aficionados will attempt to beat the game on level 5 with all potato builds (also [requiring sub 300 ms reaction times](https://www.reddit.com/r/brotato/comments/1flsqak/a_rant_about_psychology_and_peoples_ability_to/)).
@@ -61,9 +62,9 @@ While you can content yourself simply by collecting unlocks and steam achievemen
 ## Enter Balatro
 
 > Curiously, in a world of attention maximization and fast twitches, this genre has evolved to be immensely cognitively challenging and intensely mathematical, illustrated by possibly the greatest game to emerge in the last year, Balatro, a breakaway success that sold over a million copies and won game of the year at the Game Developers Choice Awards (GDCA).
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5cbd3de4be3be145.gif)
-
+>
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/5cbd3de4be3be145.gif)
+>
 > Balatro, from first glance, is a simple remake of poker with a certain number of points per hand.  You have a certain number of cards, you complete a hand, you turn it in, you get points. If your points are above the current target, you win and move on to the next level. If not, you can turn in more hands until you get to “0 hands” left, in which case you die.
 >
 > The basic game format is three such challenges per level, then eight levels called “antes” for a total of 24 rounds. Each time, naturally, the number of points increases and, with each level step up, it increases more.
@@ -92,24 +93,28 @@ The overall formula is enhanced\_chips + hand\_left \* ( ( hand\_right + multi )
 
 ## Jokers, Multi, and xMult
 
+>   
+
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/5c2bf3b6f04e1152.gif)
 
 > Jokers behave like relics in Spire:
->
-> *   **Additive Multi** – e.g. Basic _[Joker](https://balatrogame.fandom.com/wiki/Joker)_: “+4 Multi”
-> *   **Multiplicative xMult** – e.g. _[Triboulet](https://balatrogame.fandom.com/wiki/Triboulet)_: “×2 Mult for each played King or Queen.”
->
+
+*   **Additive Multi** – e.g. Basic _[Joker](https://balatrogame.fandom.com/wiki/Joker)_: “+4 Multi”
+*   **Multiplicative xMult** – e.g. _[Triboulet](https://balatrogame.fandom.com/wiki/Triboulet)_: “×2 Mult for each played King or Queen.”
+
 > Because _Multi_ is inside the parentheses that get multiplied by _xMult_, stacking both yields superlinear growth. One legendary Joker that increased xMult each scoring hand catapults scores from thousands to millions if protected.
 >
 > Balatro thus embodies exponential thinking more nakedly than any of its peers: every decision is “How can I push my exponent one step higher before the blind?”
 >
-> A breakout hit invites ‘speed‑math’: players calculate hand odds and diminishing returns in real‑time. Forums overflow with heuristic tables (“Sell a 2‑cost voucher if ROI < 5 hands”). Fan-made tools such as the [Balatro Calculator](https://efhiii.github.io/balatro-calculator/?) and the [Balatrolator](https://balatrolator.com/?state=----1--5-___________-*_*_*_*_*_*_*_*_*_*_*_*--) also show precisely the complexities to the digits in those cases where your intuitive brain calculator has a high enough margin of error where you need to fact check it.  
+> A breakout hit invites ‘speed‑math’: players calculate hand odds and diminishing returns in real‑time. Forums overflow with heuristic tables (“Sell a 2‑cost voucher if ROI < 5 hands”). Fan-made tools such as the [Balatro Calculator](https://efhiii.github.io/balatro-calculator/?) and the [Balatrolator](https://balatrolator.com/?state=----1--5-___-*_*_*_*_*_*_*_*_*_*_*_*--) also show precisely the complexities to the digits in those cases where your intuitive brain calculator has a high enough margin of error where you need to fact check it.  
 >
-> ![](https://acximages.ennals.org/images/2025-non-book-reviews/03d8c42da17349a5.png)Near endless memes exist illustrating key concepts in the [Balatro Subreddit](https://www.reddit.com/r/balatro/) 
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/1b4da2feb5a092e8.png)Near endless memes exist illustrating key concepts in the [Balatro Subreddit](https://www.reddit.com/r/balatro/) 
 
 ## Advanced Strategy
 
-> The game includes a currency system where players win small amounts per hand. Finding jokers that increase income is crucial for acquiring more upgrades. Advanced players focus on stacking the xMult element through all available means, sometimes requiring specific jokers that must be unlocked through repeated play or obtained via rare "spectral" cards. A key element is also to have enough cash on hand to snatch up the most valuable jokers when they are available, such as the spectral soul card.  ![](https://acximages.ennals.org/images/2025-non-book-reviews/6ab5c478742c1891.png)
+> The game includes a currency system where players win small amounts per hand. Finding jokers that increase income is crucial for acquiring more upgrades. Advanced players focus on stacking the xMult element through all available means, sometimes requiring specific jokers that must be unlocked through repeated play or obtained via rare "spectral" cards. A key element is also to have enough cash on hand to snatch up the most valuable jokers when they are available, such as the spectral soul card.    
+>   
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/a7447e467492da23.png)
 >
 > While novice players might celebrate reaching million-point hands, experienced players develop strategies reaching billions or more. Online communities have developed comprehensive guides ranking jokers and their associated strategies.
 >
@@ -117,6 +122,7 @@ The overall formula is enhanced\_chips + hand\_left \* ( ( hand\_right + multi )
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/69d6b9c3dcdf9349.png)
 
+>
 > [Detailed guide](https://www.reddit.com/r/balatro/comments/1bbh75a/how_to_win_chips_and_influence_mult_a_thorough/) of all the best strategies from a completionist after 119 hours played.
 
 ## Why This Matters
@@ -143,7 +149,7 @@ What makes these games particularly special is their origin. Many breakout title
 
 Balatro and similar roguelikes demonstrate how sophisticated mathematical thinking can be integrated into entertaining experiences. Through carefully designed progression systems and scoring mechanics, these games teach exponential growth, probability assessment, and strategic planning—all while players focus on having fun rather than "learning math." As gaming continues to evolve, its potential as an educational medium deserves greater recognition and exploration.  
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/35602679213c5bca.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f901fba2dfcc6704.png)
 
 [The golden joker, possibly the baseline of all new economic design models](https://balatrogame.fandom.com/wiki/Golden_Joker)
 
@@ -155,6 +161,6 @@ So watch out! Parents, teachers, and children may all have fun together. Hence a
 
 For people inclined to end the endless and find a finite finale, you may have to go deeper into the source code of Balatro. Through digging into the lesser known Löve framework, and the appropriate manipulation of near infinities, floating point numbers and a particular standard known as IEEE754 there is a possible forced finality in this game. See [this Youtuber](https://www.youtube.com/watch?v=XKQ-t9-4-30) for full instructions.
 
-> 1.  Ke, F. (2008). _A Case Study of Computer Game Design on Fifth Graders’ Mathematics Learning and Motivation_. Computers & Education, 52(4), 913‑925.
-> 2.  Adachi, P. J. C., & Willoughby, T. (2013). _More Than Just Fun: The Role of Strategic Video Games in Improving Adolescents’ Problem‑Solving Skills_. Journal of Youth and Adolescence, 42(7), 1041‑1052.
-> 3.  Gee, J. P. (2005). _Learning by Design: Good Video Games as Learning Machines_. E‑Learning and Digital Media, 2(1), 5‑16.
+1.  Ke, F. (2008). _A Case Study of Computer Game Design on Fifth Graders’ Mathematics Learning and Motivation_. Computers & Education, 52(4), 913‑925.
+2.  Adachi, P. J. C., & Willoughby, T. (2013). _More Than Just Fun: The Role of Strategic Video Games in Improving Adolescents’ Problem‑Solving Skills_. Journal of Youth and Adolescence, 42(7), 1041‑1052.
+3.  Gee, J. P. (2005). _Learning by Design: Good Video Games as Learning Machines_. E‑Learning and Digital Media, 2(1), 5‑16.

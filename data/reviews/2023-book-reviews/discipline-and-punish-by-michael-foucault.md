@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.027Z'
 slug: discipline-and-punish-by-michael-foucault
-wordCount: 3747
+wordCount: 3760
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Philosophy
@@ -59,15 +58,15 @@ As crime stopped targeting the rights of the old feudal nobility and started tar
 
 On hearing this, a modern social scientist might respond:
 
-“Punishment doesn’t deter crime! Your approach won’t work! When modern America made drug sentences stricter, drug use didn’t decrease. People’s lives were ruined for nothing.”
+> “Punishment doesn’t deter crime! Your approach won’t work! When modern America made drug sentences stricter, drug use didn’t decrease. People’s lives were ruined for nothing.”
 
 The reformers had a ready response to this argument. If one of the bourgeoisie reformers was magically transported to the present, he would almost certainly reply:
 
-“Your system of punishment wasn’t_ironic_ enough. A raver won’t be spontaneously reminded of jail when she is offered a tab of LSD. There is no psychological association between jail and LSD which would bring it to her mind. What you should have done is punish LSD users by sentencing them to a year long bad trip. Flood their bloodstreams with LSD! Scare them over and over! Make sure every schoolchild gets to see LSD users terrified by visions only they can see! Just looking at a tab of LSD will remind those children of the punishment that awaits them if they use it. Then you will deter crime.”
+> “Your system of punishment wasn’t_ironic_ enough. A raver won’t be spontaneously reminded of jail when she is offered a tab of LSD. There is no psychological association between jail and LSD which would bring it to her mind. What you should have done is punish LSD users by sentencing them to a year long bad trip. Flood their bloodstreams with LSD! Scare them over and over! Make sure every schoolchild gets to see LSD users terrified by visions only they can see! Just looking at a tab of LSD will remind those children of the punishment that awaits them if they use it. Then you will deter crime.”
 
 The reformers wanted to instill the French citizenry with a set of Pavlovian responses. A response would trigger whenever a citizen considered committing a crime and remind him of its punishment. Their scheme sounded so modern, so stereotypically Orwellian, that I briefly wondered if Foucault’s analysis was influenced by modern totalitarian thinking. I was quickly proved wrong. Servan, Minister of War of the Revolutionary Government, writes:
 
-The ideas of crime and punishment must_“follow another without interruption. When you have thus formed the chain of ideas in the heads of your citizens, you will then be able to pride yourself on guiding them and being their masters. A stupid despot may constrain his slaves with iron chains, but a true politician binds them even more strongly by the chain of their own ideas_.” He concludes: _“on the soft fibers of the brain is founded the unshakable base of the soundest Empires.”_
+> The ideas of crime and punishment must_“follow another without interruption. When you have thus formed the chain of ideas in the heads of your citizens, you will then be able to pride yourself on guiding them and being their masters. A stupid despot may constrain his slaves with iron chains, but a true politician binds them even more strongly by the chain of their own ideas_.” He concludes: _“on the soft fibers of the brain is founded the unshakable base of the soundest Empires.”_
 
 What punishments were suitably ironic? Vermeil, writing in 1781, suggests that speculation should be punished by fines, theft by confiscation of property, arson by the stake and murder by death. Poisoners should have a goblet of liquid thrown in their face and then be submerged in a cauldron of boiling water. Other reformers suggested that highwaymen be put to work mending the roads.
 
@@ -79,7 +78,7 @@ The system of punishment we have today, where all major offenses are punished by
 
 By 1810, however, basically all serious crimes were either punished by death or imprisonment. This surprised several deputies of the French Assembly, who wondered why ironic punishment had not been tried instead. One complained:
 
-_“If I have betrayed my country, I go to prison; if I have killed my father, I go to prison; every imaginable offense is punished in the same way. One might as well see a physician who has the same remedy for all ills.”_
+> _“If I have betrayed my country, I go to prison; if I have killed my father, I go to prison; every imaginable offense is punished in the same way. One might as well see a physician who has the same remedy for all ills.”_
 
 This raises the question: _“what happened?”_ Why did France decide to punish crime by imprisonment without even trying the alternatives? Foucualt’s answer: during the nineteenth century, everything became more prison-like. Punishment just came along for the ride.
 
@@ -87,7 +86,7 @@ This raises the question: _“what happened?”_ Why did France decide to punish
 
 Bentham opens his essay _“Panopticon”_ with a list of the benefits of a panopticon:
 
-_“Morals reformed - health preserved - industry invigorated - instructions diffused - public burdens lightened - Economy seated, as it were, upon a rock - the gordian knot of the Poor Laws not cut, but untied - all by a simple idea in architecture!”_
+> _“Morals reformed - health preserved - industry invigorated - instructions diffused - public burdens lightened - Economy seated, as it were, upon a rock - the gordian knot of the Poor Laws not cut, but untied - all by a simple idea in architecture!”_
 
 Bentham did not design the panopticon to improve prisons. He designed it to improve society. Bentham, along with many statesmen of the nineteenth century, dreamt of building a clockwork society. In a clockwork society, each citizen is shaped into a tiny machine. Their days follow a precise timetable designed to maximize their productivity. Their movements are choreographed to give them a mechanical consistency. They are trained to respond to signals rather than words. They are constantly monitored, and any citizen who proves defective is taken to a repair shop to be fixed.
 
@@ -95,19 +94,13 @@ Fantastically Orwellian? Perhaps. But as Foucault documents, the French took thi
 
 The Écoles mutuelles, or mutual improvement schools, timetabled their children’s lives in 4 minute increments. Foucault helpfully supplies an extract from their timetables:
 
-_8:45. Entrance of the monitor._
-
-        _8:52. The monitor’s summons._
-
-        _8:56. Entrance of the children and prayer._
-
-        _9:00. The children go to their benches._
-
-        _9:04. First slate._
-
-        _9:08. End of dictation._
-
-        _9:12. Second slate._
+> _8:45. Entrance of the monitor._  
+> _8:52. The monitor’s summons._  
+> _8:56. Entrance of the children and prayer._  
+> _9:00. The children go to their benches._  
+> _9:04. First slate._  
+> _9:08. End of dictation._  
+> _9:12. Second slate._
 
 The students’ movement was carefully choreographed. Take the command _“Enter your benches”._ On hearing the word _“Enter”_, a child was expected to place his hands on the table and put one leg into the bench. On hearing the words _“your benches”_, he should put his other leg in and sit down. Take the command _“Take your slates”._ At the word _“Take”_, a child was expected to grab the string that her slate is hanging by with her right hand and the slate itself with her left hand. At the word _“slates”_, she should unhook it and place it on the table.
 
@@ -117,7 +110,7 @@ La Salle, in his book _“The Conduct of the Christian Schools”_, suggests tha
 
 The statesmen of the late eighteenth and early nineteenth century tried to reorganize the whole of society along these lines. Factory workers were carefully monitored to prevent them from wasting their time. Workers were forbidden from telling stories during meal-breaks. Soldiers’ movements were choreographed precisely. The Prussian regulations of 1743 laid out a thirteen stage process for raising a weapon to one’s shoulder. Prisoner’s days were timetabled precisely. They were sometimes given instructions via signals. For example, an excerpt from Léon Faucher’s rules _“for the house of young prisoners in Paris”_ reads:
 
-_Art. 18. Rising. At the first drum-roll, the prisoners must rise and dress in silence, as the supervisor opens the cell doors. At the second drum-roll, they must be dressed and make their beds. At the third, they must line up and proceed to the chapel for morning prayer. There is a five-minute interval between each drum-roll._
+> _Art. 18. Rising. At the first drum-roll, the prisoners must rise and dress in silence, as the supervisor opens the cell doors. At the second drum-roll, they must be dressed and make their beds. At the third, they must line up and proceed to the chapel for morning prayer. There is a five-minute interval between each drum-roll._
 
 The statesmen of the Enlightenment were fascinated by Rome both as a symbol of liberty and a symbol of order. The Rome of the Enlightenment was both the Rome of the forum and the Rome of the camps. It was the Rome of the Senate but also the Rome of the legions.
 

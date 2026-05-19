@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.599Z'
 slug: consequences-of-language-from-primary-to-enhanced-intersubjectivity
-wordCount: 9739
+wordCount: 9704
 readingTimeMinutes: 44
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Science
@@ -37,7 +36,7 @@ This fictional interlude illustrates how intersubjectivity is typically defined:
 
 _Consequences_ illustrates activity and accountability with an ethnographic observation, of two monks working a two-man saw.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/f7adba319d75ae3d.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/efdc0cdfd36ce0ef.jpg)
 
 Each monk unconsciously expects the other to pull the saw as soon as the first has finished his turn pulling. Consciously, they may be thinking about anything at all, perhaps what is for lunch, (no wait, I'm sure they're in profound meditation!) but should the second monk slack off and forgo his turn pulling, then the first will probably be surprised and upset and demand an explanation. By beginning the sawing task together, the monks have implicitly committed themselves to certain expectations: to pull when it's your turn, to free the saw when it gets stuck and so on. By ordaining as monks, they have taken on more explicit and durable commitments: to always wear the monks’ robes, to only eat between dawn and noon, and numerous other religious rules governing monastic life. These broader commitments are scaled up versions of the transient commitments the monks take on when they saw, and violations attract rebuke in much the same way. Joking about lax monks who eat after noon, the locals '''say that after midday, monks “don’t eat rice” (the Lao idiom meaning “having a meal”), then they laugh and joke that monks might have fruit or noodles instead.’’’
 
@@ -45,9 +44,9 @@ It might be worth mentioning at this point that the authors are linguistic anthr
 
 They observed Laotian villagers weaving reed mats, which is harder than it looks. When the weaving got derailed, the villagers spoke to each other to get it back on track, clarifying exactly what needed to be done, how, which was the right color of reed, and so on. This is another illustration of how people had expectations of each other in the service of a shared goal, and worked to repair their interaction when it broke down.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1e23a9eb9827f53f.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/fe5b6d2644efff73.jpg)
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8eb58fa468db378e.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/af557d2d2e709e4c.jpg)
 
 Generalizing these examples highlights characteristics of social norms: expected behavior passes without comment, while unexpected behavior is called out, and observers try to infer and pass judgment on the reason for violating the norm. The mat-weaving husband indicated he couldn't tie off the reed properly because he had no weaving experience, and his wife's chidings were only half-serious. Contrastingly, the joke about the monks eating after noon has a bit of acidity. Presumably the villagers inferred the snacking monks were negligent, and passed judgment on their character.
 
@@ -103,10 +102,10 @@ Different cultures have very different protocols for participating in social eng
 
 The authors approach participation by first reviewing the analysis of American culture by Erving Goffman, whose “analysis is exceedingly rich and nuanced and his eye for interactional strategy unrivaled.” Goffman argues that Americans count you as participating when you pay attention to the topic of conversation. Any other object of attention will alienate you from the conversation, including: “‘
 
-> 1.  _**External preoccupation**__: “The individual may neglect the prescribed focus of attention and give his main concern to something that is unconnected with what is being talked about” …_
-> 2.  _**Self-consciousness**__: “At the cost of his involvement in the prescribed focus of attention, the individual may focus his attention more than he ought upon himself— himself as someone who is faring well or badly, as someone calling forth a desirable or undesirable response from others.” …_
-> 3.  _**Interactional consciousness**__: “A participant in talk may become consciously concerned to an improper degree with the way in which the interaction, qua interaction, is proceeding, instead of becoming spontaneously involved in the official topic of conversation.” ..._
-> 4.  _**Other-consciousness**__: “During interaction, the individual may become distracted by another participant as an object of attention.”_
+1.  _**External preoccupation**__: “The individual may neglect the prescribed focus of attention and give his main concern to something that is unconnected with what is being talked about” …_
+2.  _**Self-consciousness**__: “At the cost of his involvement in the prescribed focus of attention, the individual may focus his attention more than he ought upon himself— himself as someone who is faring well or badly, as someone calling forth a desirable or undesirable response from others.” …_
+3.  _**Interactional consciousness**__: “A participant in talk may become consciously concerned to an improper degree with the way in which the interaction, qua interaction, is proceeding, instead of becoming spontaneously involved in the official topic of conversation.” ..._
+4.  _**Other-consciousness**__: “During interaction, the individual may become distracted by another participant as an object of attention.”_
 
 ”’ Notice that, by definition, you cannot consciously choose to fulfill the American (western? developed?) role, because that approach would make you too self-conscious to succeed in participating.
 
@@ -114,7 +113,7 @@ I have consistently chosen mechanical metaphors for the social system, such as c
 
 Back to alienated Americans. Goffman illustrates his thesis with observations from a backyard barbeque.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/7171c47f6344b8e7.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/2873834418df3af3.jpg)
 
  “_‘The men have been telling dirty jokes…Curt, who is Carney’s cousin, is telling a joke to Gary, which he presents as a true story, about the time that he and Mike were captured by the enemy in Vietnam. … At this point, Carney turns to her cousin Curt and says, “You forget I’m here.” By saying this, Carney is suggesting that she can disconfirm what Curt is saying. Indeed, Curt, who has persevered in the face of multiple challenges by Gary, here appears to acquiesce to Carney. Not only does he suspend the telling in progress, saying “Alright,” he joins with Carney in a bout of laughter. In this way, Curt displays that he has been “caught out” by Carney and does not in fact proceed with the telling until Carney instructs him with, “Go on.” Notice, then, that in formulating this in the way she does, Carney characterizes her own participation as something that has been treated by others as equivocal, ambiguous, or peripheral— as someone who, though present, can be, and has been to this point, disattended and, in fact, forgotten. A closer study of this episode (Sidnell 2011) argues that this equivocality is carefully managed by the participants, and especially by Carney, in such a way as to avert potential recipient design problems implicated in the telling of dirty jokes (again illustrating the normative nature of contact)._’”
 
@@ -140,9 +139,9 @@ Inferring what others act as though they believe: you might think it's a bug in 
 
 Probably not, if you are able to hold a basic conversation.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8c8f6a9b2e4c52f3.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/f436e1b70056ac81.jpg)
 
-![](https://acximages.ennals.org/images/2024-book-reviews/bbaf262a1fedfe8b.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/31b42e7e33afe55b.jpg)
 
 “‘_Here, when Dick asks, “How are you?” (in line 4) Deb’s response, “I’m fine,” is not a mere automatic, conditioned response. It displays a detailed understanding of Dick’s turn. First, by starting to talk at this moment (and not earlier), Deb’s talk at line 5 shows an understanding that Dick’s turn in line 4 was likely finished. Second, by saying “I’m fine”— which here constitutes an answer to Dick’s question— Deb demonstrates that she heard the previous turn to be a question. Third, by answering with a description of her personal state, Deb shows that she understands the kind of question it was (i.e., a content question rather than a yes-no question…). And fourth, by responding with fine rather than terrible or fantastic, Deb shows an understanding of what this question is doing in this environment, that is, that it is a routine opening inquiry, not to be taken literally_.”’
 
@@ -154,11 +153,11 @@ Linguists can spend 50 years analyzing a single barbeque that happened in the 70
 
 Let's look at cases where expectations weren't met, and see how people react.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d096da2ce3beb30f.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/a6fcde7ec129eee9.jpg)
 
 Roger produces something other than an answer, then is silent, then gives a wrong answer. Each time, Mother recognizes that Roger isn't on the same page and makes some attempt to repair the confusion. Her attempts are each based on a theory that potentially explains Roger's confusion: first she repeats, since he may not have heard, then she tries a simpler task, presuming that the first task was too hard.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/eb2e8ff094585965.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/c7d0ef7b632430f0.jpg)
 
 In this fragment, Betty has to interrupt herself and quickly counter Ann's proposal to have a bite. If Betty just continued, not commenting on the meal invitation, then her continuation of the conversation would imply acquiescence. She has to clarify a second time when Ann takes her literally.
 
@@ -178,7 +177,7 @@ There's a lot of very weird understudied life forms and the authors are over-con
 
 _Consequences_ gives a very elegant illustration of shared intersubjective reference, of which metalinguistic self-reference is a special case.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1fb70106da3a74c9.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/44c65757a8f5cdda.jpg)
 
 “‘_In the first frame, Viv (in the foreground) is telling Baga (in the background) about a man she thinks he might know but whose name he does not recognize. When the description given allows Baga to identify the person Viv is talking about, he points up the hill to his right (second frame). Notice that when Baga initially points, his own gaze is directed to the place he is indicating with his finger. … In the third frame, he maintains the pointing gesture but now gazes toward Viv, apparently to check whether his reference has been successful— checking, that is, on his recipient’s focus of attention. … He finds Viv pointing to the same place and the two engage in a moment of mutual gaze (last frame)._’”
 
@@ -190,7 +189,7 @@ What happened at the moment of apotheosis, when the up-and-to-the-right trajecto
 
 Such elaboration of grammar and vocabulary from humble beginnings plays out as children are learning to speak. They start with interjections, such as “no!”, and build up to phrases that are purely social, such as “Look, mom!” or “I'm a fire truck”, rather than material references: “I would like you to change my diaper,” or “What are the properties of bicycles?” If children want to accomplish something in the material world, they can just cry, no language needed.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/01acabae7cbcac53.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/0f022286f512d349.jpg)
 
 (“Where are you going?” “To pick up the _human infants_ from daycare.”)
 
@@ -252,45 +251,40 @@ _the mysteries of intersubjectivity, which has a language all its own, sweet and
 
 ## Further Reading
 
-> *   Nick Enfield has a [solo book](https://www.google.com/books/edition/Language_vs_Reality/PKzIEAAAQBAJ?hl=en) which I haven't read but seems less academic and more philosophical. He was [interviewed](https://braininspired.co/podcast/166/) about it on the Brain Inspired podcast.
-> *   MIT publishes a [ton](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) of open access books. I like browsing them, because it's an essentially friendly experience, like spending the day in a bookshop and reading as much of each book as I want before deciding. No paywalls, ads, or newsletters, so I don't have to be on the defensive.
-> *   At the beginning of this review, when I railed against the poor writing of the galaxy-brains, I was mostly just describing the writing of Slavoj Žižek. The examples he uses to support his theories are so diverse that they give his books a surreal, dream-like feel. One of his books contains the sentence: “The space in which the (un)dead can talk without moral constraints, as imagined by Dostoevsky, prefigures this Gnostic-cyberspace dream.” [5] Of the handful of his books that I've read, the most compatible with ACX readers is [The Sublime Object of Ideology](https://archive.org/details/sublimeobjectofi0000ieks). It's his first book, and it's written quite differently. Here, he precisely defines new jargon, then uses his previously defined concepts later to build up a tower of abstractions. I was constantly using Ctrl-F to find where terms were defined. It felt like I was reading an abstract algebra textbook, or like I was manually linking and compiling a C++ program. _Sublime_ is hard to understand, but it's hard to understand in a way that might work for some of you, and if you take the time to reconstruct his tower of abstractions in your own mind, then you'll discover that it hangs together. As far as I know, this book is the closest we have to a textbook on intersubjectivity which covers everything I consider important.
+*   Nick Enfield has a [solo book](https://www.google.com/books/edition/Language_vs_Reality/PKzIEAAAQBAJ?hl=en) which I haven't read but seems less academic and more philosophical. He was [interviewed](https://braininspired.co/podcast/166/) about it on the Brain Inspired podcast.
+*   MIT publishes a [ton](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) of open access books. I like browsing them, because it's an essentially friendly experience, like spending the day in a bookshop and reading as much of each book as I want before deciding. No paywalls, ads, or newsletters, so I don't have to be on the defensive.
+*   At the beginning of this review, when I railed against the poor writing of the galaxy-brains, I was mostly just describing the writing of Slavoj Žižek. The examples he uses to support his theories are so diverse that they give his books a surreal, dream-like feel. One of his books contains the sentence: “The space in which the (un)dead can talk without moral constraints, as imagined by Dostoevsky, prefigures this Gnostic-cyberspace dream.” [5] Of the handful of his books that I've read, the most compatible with ACX readers is [The Sublime Object of Ideology](https://archive.org/details/sublimeobjectofi0000ieks). It's his first book, and it's written quite differently. Here, he precisely defines new jargon, then uses his previously defined concepts later to build up a tower of abstractions. I was constantly using Ctrl-F to find where terms were defined. It felt like I was reading an abstract algebra textbook, or like I was manually linking and compiling a C++ program. _Sublime_ is hard to understand, but it's hard to understand in a way that might work for some of you, and if you take the time to reconstruct his tower of abstractions in your own mind, then you'll discover that it hangs together. As far as I know, this book is the closest we have to a textbook on intersubjectivity which covers everything I consider important.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/1f11a411c0613247.jpg)
 
 Diagrams I made to understand the last chapter of _Sublime_ illustrate that it's difficult but possible to link together all the concepts. Don't bother deciphering my notes; decipher the book instead.
 
-> *   [Modernity and Self-Identity](https://archive.org/details/modernityselfide0000unse/page/n5/mode/1up) by Anthony Giddens predicted (in 1991) and explains the current identity crisis. Dense academic writing, don't let that put you off, the ideas themselves are pretty approachable.
-> *   I heard John Robb ([substack](https://johnrobb.substack.com/), [patreon](https://www.patreon.com/johnrobb)) on a podcast, and he said that maybe the progressive left could turn against Israel, and I said to myself “Who is this guy? He's crazy!” Then after Oct 7, when the progressive left started lobbing accusations at Israel, I went back to check out his stuff. He uses whatever works, including sometimes intersubjectivity, to make predictions and offer frameworks at the intersection of tech and war, dividing his attention roughly evenly between moral, psychological and physical war. I almost didn't include him on this list, because he never focuses on intersubjectivity per se, only bringing it up when it's useful. I included him anyway, because he does some things that persuade a curmudgeon:
->
-> *   Discussing intersubjectivity because it's actually useful for prediction and control, rather than as an academic interest
-> *   Producing falsifiable predictions [6]
-> *   Writing in a terse, bulleted format
-> *   Saying “protecting our communities” and other right-wing phrases, which could persuade someone who identifies intersubjectivity as a left partisan ideology
-> *   Offering actionable suggestions
+*   [Modernity and Self-Identity](https://archive.org/details/modernityselfide0000unse/page/n5/mode/1up) by Anthony Giddens predicted (in 1991) and explains the current identity crisis. Dense academic writing, don't let that put you off, the ideas themselves are pretty approachable.
+*   I heard John Robb ([substack](https://johnrobb.substack.com/), [patreon](https://www.patreon.com/johnrobb)) on a podcast, and he said that maybe the progressive left could turn against Israel, and I said to myself “Who is this guy? He's crazy!” Then after Oct 7, when the progressive left started lobbing accusations at Israel, I went back to check out his stuff. He uses whatever works, including sometimes intersubjectivity, to make predictions and offer frameworks at the intersection of tech and war, dividing his attention roughly evenly between moral, psychological and physical war. I almost didn't include him on this list, because he never focuses on intersubjectivity per se, only bringing it up when it's useful. I included him anyway, because he does some things that persuade a curmudgeon:
+    *   Discussing intersubjectivity because it's actually useful for prediction and control, rather than as an academic interest
+    *   Producing falsifiable predictions [6]
+    *   Writing in a terse, bulleted format
+    *   Saying “protecting our communities” and other right-wing phrases, which could persuade someone who identifies intersubjectivity as a left partisan ideology
+    *   Offering actionable suggestions
 
 ## Takeaways
 
-> *   intersubjectivity = activity + accountability
->
-> *   Metaphysics is intersubjectivity misunderstood.
-> *   The social system matters not only for its outcomes, but its internal process is felt by the nodes.
-> *   Humans constitute a distributed ledger.
->
-> *   We act and speak to imply updates to the ledger.
-> *   We can, unconsciously, keep track of how others are likely to view us, and can formulate a strategy to optimize this.
->
-> *   We must choose, exclusively, between two definitions of truth: prediction and control vs material correspondence.
->
-> *   Instead of evaluating the material basis for a claim, we can evaluate the integrity of its goals.
-> *   Change minds by changing incentives.
->
-> *   Deconstruct what misguides your own actions and view every smallest interaction as a chance to be a better person.
->
-> *   Thick ethical concepts suck people into pointless, repetitive behavior.
-> *   Publicly display what you really believe in.
-> *   If you want to change your own mind, you should plug into different institutions.
-> *   Volunteer for a cause, any cause.
+*   intersubjectivity = activity + accountability
+    *   Metaphysics is intersubjectivity misunderstood.
+    *   The social system matters not only for its outcomes, but its internal process is felt by the nodes.
+    *   Humans constitute a distributed ledger.
+        *   We act and speak to imply updates to the ledger.
+        *   We can, unconsciously, keep track of how others are likely to view us, and can formulate a strategy to optimize this.
+
+*   We must choose, exclusively, between two definitions of truth: prediction and control vs material correspondence.
+    *   Instead of evaluating the material basis for a claim, we can evaluate the integrity of its goals.
+    *   Change minds by changing incentives.
+
+*   Deconstruct what misguides your own actions and view every smallest interaction as a chance to be a better person.
+    *   Thick ethical concepts suck people into pointless, repetitive behavior.
+    *   Publicly display what you really believe in.
+    *   If you want to change your own mind, you should plug into different institutions.
+    *   Volunteer for a cause, any cause.
 
 ## Notes
 

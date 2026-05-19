@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.891Z'
 slug: dating-apps-the-misery-engine
-wordCount: 6546
+wordCount: 6540
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Society
@@ -33,12 +32,12 @@ We’re deep in the age of the dating app now, with the old-style dating sites f
 
 If this were a different product, this would be where I’d go through and review the major players and their different pros and cons, but there’s not any real point in doing so here because there aren’t actually that many major players. The Match Group essentially owns the entire heterosexual-dating-app industry. This sounds like an exaggeration, but here’s a list of major apps they own:
 
-> *   Tinder
-> *   Hinge
-> *   Plenty of Fish
-> *   [Match.com](http://match.com)
-> *   OKCupid
-> *   Most if not all of the “XPeopleMeet” apps
+*   Tinder
+*   Hinge
+*   Plenty of Fish
+*   [Match.com](http://match.com)
+*   OKCupid
+*   Most if not all of the “XPeopleMeet” apps
 
 There are a few other competitors, Bumble being the largest (they also own Badoo, which is fairly popular outside of the US), but even the ones not owned by Match tend to be strikingly similar in design. They all use the swipe-based matching system (some have you press a like or dislike button instead of literally swiping, but the result is identical). They almost all focus on short profiles with very brief prompts. And they all lock the basic functionality of the app behind paywalls.
 
@@ -58,7 +57,7 @@ So obviously dating apps aren’t free. How are they getting your money? There�
 
 The first and most ubiquitous is the subscription plan. Let’s look at [the Hinge plans](https://help.hinge.co/hc/en-us/articles/38014282744595-Subscription-and-Purchase-Benefits), as an example:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/18736be5edef9361.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/096049ab580a728e.png)
 
 HingeX is $50 monthly, and the breakdown for Tinder features and cost for the highest tier is similar[3]. If you just want unlimited likes via Hinge+, pretty much the bare minimum you need as a male user to even be able to use the app, that runs around 30 dollars monthly.
 

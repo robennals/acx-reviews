@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.028Z'
 slug: fathers-and-sons-by-ivan-turgenev
-wordCount: 4368
+wordCount: 4382
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Fiction
@@ -117,35 +116,23 @@ We also mourn Bazarov for his role as the representative of a new generation. Th
 
 _Fathers and Sons_ remains relevant because its central theme, that of generational conflict, never dies. Indeed, in the more than 160 years since it was published, the division between generations has only seemed to expand. Technology advances at an ever-faster rate and social norms evolve with every passing year. I often think of the 1960s, which nearly tore apart the United States, France, and much of the Western world, one hundred years after the heyday of Turgenev’s “men of the sixties.” The Civil Rights Movement, the protests against the Vietnam War, the free speech movement, second-wave feminism, rock and roll – all seemed to be the product of a new generation determined to overthrow the existing order and create a new world. Songs of this era emphasize this theme. Bob Dylan is the obvious example. As he sings in ‘[The Times They Are A-Changin'](https://www.youtube.com/watch?v=90WD_ats6eE&ab_channel=BobDylanVEVO):’
 
-_“Come mothers and fathers throughout the land_
-
-_And don't criticise what you can't understand_
-
-_Your sons and your daughters are beyond your command_
-
-_Your old road is rapidly agin'_
-
-_Please get out of the new one if you can't lend your hand_
-
-_For the times they are a-changin'”_
+> _“Come mothers and fathers throughout the land_  
+> _And don't criticise what you can't understand_  
+> _Your sons and your daughters are beyond your command_  
+> _Your old road is rapidly agin'_  
+> _Please get out of the new one if you can't lend your hand_  
+> _For the times they are a-changin'”_
 
 Later in the decade, the call for generational solidarity took on a more militant tone. Take Jefferson Airplane’s track ‘[Volunteers](https://www.youtube.com/watch?v=SboRijhWFDU&ab_channel=RollingStone1987):’
 
-_“One generation got old_
-
-_One generation got soul_
-
-_This generation got no dissertation to hold_
-
-_Pick up the cry_
-
-_Hey now it's time for you and me_
-
-_Got a revolution, got to revolution_
-
-_Come on now, we're marching to the sea_
-
-_Got a revolution, got to revolution”_
+> _“One generation got old_  
+> _One generation got soul_  
+> _This generation got no dissertation to hold_  
+> _Pick up the cry_  
+> _Hey now it's time for you and me_  
+> _Got a revolution, got to revolution_  
+> _Come on now, we're marching to the sea_  
+> _Got a revolution, got to revolution”_
 
 Whatever you think of the 1960s counterculture and its legacy, the conflict between generations was real then, too. This was the decade where artists such as the Beatles or the [Rolling Stones](https://www.youtube.com/watch?v=A4LHb89pAlA&ab_channel=rcmiv), beloved by the young then and everyone today, were considered dangerous subversives. Activists like Timothy Leary seemed hellbent on convincing America’s youths to try dangerous new drugs like LSD. The modern iterations of a multitude of modern rights movements – for Indigenous people, Latinos, free speech, the gay community – launched during this decade. As Rick Perlstein notes in his excellent book, _[Nixonland](https://www.goodreads.com/book/show/2393575.Nixonland?from_search=true&from_srp=true&qid=gWDNM8YfMY&rank=1)__,_ we are still living with the generational culture wars that started in the 1960s.
 

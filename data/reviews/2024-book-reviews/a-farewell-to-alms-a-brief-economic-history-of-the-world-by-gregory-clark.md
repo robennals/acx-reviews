@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-farewell-to-alms-a-brief-economic-history-of-the-world-by-gregory-clark
-wordCount: 2363
+wordCount: 2356
 readingTimeMinutes: 11
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Economics
@@ -23,17 +22,17 @@ The Fermi paradox is well known for its existential nature: Why—despite all th
 
 Breaking this question down into parts gets us the Drake equation we get an estimate of the total number of communicable civilizations, N:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3595f5c7036b8764.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/643bce58c3349728.png)
 
  Where:
 
-> *   R\* is the rate of star formation per year
-> *   ƒₚ is the fraction of stars with planets
-> *   ⁿₑ s the number of Earth-like (or otherwise habitable) planets per system with planets
-> *   ƒₗ is the fraction of such planets with life
-> *   ƒᵢ is the fraction with life that develops intelligence
-> *   ƒ꜀ is the fraction of intelligent civilizations that are detectable/contactable
-> *   L is the average longevity of such detectable civilizations in years
+*   R\* is the rate of star formation per year
+*   ƒₚ is the fraction of stars with planets
+*   ⁿₑ s the number of Earth-like (or otherwise habitable) planets per system with planets
+*   ƒₗ is the fraction of such planets with life
+*   ƒᵢ is the fraction with life that develops intelligence
+*   ƒ꜀ is the fraction of intelligent civilizations that are detectable/contactable
+*   L is the average longevity of such detectable civilizations in years
 
 Now the paradox comes in when we make reasonable assumptions with what we can guess. The first three parameters can be inferred with simple observation of what we think the range of an 'Earth-like' planet ought to be. Rocky planets in a habitable zone, one with a regular orbit and rotation, one that could support life are so numerous; So, "Where are they"?  
 
@@ -43,7 +42,7 @@ The last one, L, or the longevity of a contactable civilization also seems like 
 
 Now Earth is just barely detectable/contactable, we, in the past ~100 have only just become delectable and we're not quite contactable yet (Messages in space need a couple of orders of magnitude more time) but if we do, say survive 10,000 years it's hard to imagine not surviving a lot longer—to exist for a meaningful percentage of our galaxy's present lifetime. (as opposed to our current 0.000...001% existence )
 
-![](https://acximages.ennals.org/images/2024-book-reviews/dab3b30a3efe6444.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/413691eccf5210ef.png)
 
 So that leaves us with the three hardest parameters: life, intelligence, and civilization.
 

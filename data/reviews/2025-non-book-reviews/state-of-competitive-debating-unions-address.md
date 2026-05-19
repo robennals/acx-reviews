@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.487Z'
 slug: state-of-competitive-debating-unions-address
-wordCount: 4106
+wordCount: 4051
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Society
@@ -46,13 +45,13 @@ Li then wonders if his second-strictest definition, “a motion is fair if teams
 
 Here are the [statistics about the motions that were set at the 2025 World Universities Debating Championship.](https://wudc2025.calicotab.com/open/motions/statistics/) The most balanced motion was that of the sixth round:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ae69df8937d2bd67.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c6c298136d0dee8d.png)
 
 _Perfect…_
 
 And the least balanced was that of the third round:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/6a9b28e3cec93d37.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5939b74e94fb1f30.png)
 
 _That canal was pretty beneficial._
 
@@ -62,23 +61,21 @@ But this imbalance is nothing compared to the motions of the past. In _[Motion F
 
 Some of them are about as close as you can get to balanced:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d6b1380a2c5c40fa.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5116991225869b96.png)
 
 But some of them are _decisively_ not:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/23f55bf49362d613.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6fb9d12afc8f73c0.png)
 
 This motion is clearly very flawed. The “public interest” is vague. This would create awful incentives for young men with main character syndrome. On the surface, it seems like there might be arguments in favour: this will incentivize whistleblowers to step forward! (Never mind that this was debated a year before the Snowden leaks.) But the arguments disperse when you look closely. There are usually legal ways to stand up against evil governments and corporations. When there aren’t, it’s still generally fine to impose penalties on lawbreaking: people who feel that speaking out is important enough will make the tradeoff.
 
 Today, this level of imbalance is practically unthinkable in large debate competitions. Why? I can’t say for sure:
 
-> *   It seems that the teams that select motions--called the Chief Adjudicators (CAs)--take their roles much more seriously. In ["Advice for new CAs setting motions,"](https://trolleyproblem.blogspot.com/2012/01/advice-for-new-cas-setting-motions.html) Li’s first suggestion is “don’t try to come up with motions on the day itself.” Even the most scattered CA teams will start assembling spreadsheets of motions a couple of weeks in advance.
->
-> *   There is much more pressure on tournaments to recruit smart, accomplished people to CA teams.
->
-> *   As Li predicted, the ability to perform large-scale analysis of motions and tournaments makes it easier for CA teams to predict which kinds of motions will be balanced.
->
-> *   It is also much easier to analyze the past performances of prospective CAs: people with track records of setting balanced motions are more likely to be hired.
+*   It seems that the teams that select motions--called the Chief Adjudicators (CAs)--take their roles much more seriously. In ["Advice for new CAs setting motions,"](https://trolleyproblem.blogspot.com/2012/01/advice-for-new-cas-setting-motions.html) Li’s first suggestion is “don’t try to come up with motions on the day itself.” Even the most scattered CA teams will start assembling spreadsheets of motions a couple of weeks in advance.
+    *   There is much more pressure on tournaments to recruit smart, accomplished people to CA teams.
+
+*   As Li predicted, the ability to perform large-scale analysis of motions and tournaments makes it easier for CA teams to predict which kinds of motions will be balanced.
+    *   It is also much easier to analyze the past performances of prospective CAs: people with track records of setting balanced motions are more likely to be hired.
 
 Li understands that “fairness” is not the only consideration to be made when evaluating a motion. It is important to make university debaters argue about topics that are interesting and relevant. He [praises](https://trolleyproblem.blogspot.com/2012/01/why-i-like-motions-about-aliens-and.html) motions about aliens and robots for the metaethical insights they produce; he [encourages](https://trolleyproblem.blogspot.com/2012/01/advice-for-new-cas-setting-motions.html) CAs not to let their personal obsessions leak into their motion-setting.
 
@@ -108,12 +105,11 @@ The idea that judges should apply a uniform approach to assessing debates took h
 
 Fierce discussions have been had about how to quantifiably score speeches. The scale theoretically standardizes scoring by asking the judge to consider:
 
-> *   How well-explained/logically sound the content was
->
-> *   How vulnerable the content was to responses of varying ingenuity
->
-> *   How relevant the content was
-> *   How easy the speech was to follow
+*   How well-explained/logically sound the content was
+    *   How vulnerable the content was to responses of varying ingenuity
+
+*   How relevant the content was
+*   How easy the speech was to follow
 
 The issue, of course, is that these things are largely subjective. Analyzing the scores given by judges at the most recent WUDC [shows](https://docs.google.com/spreadsheets/d/1JKlFWvd4mEgHCwnd4Id-KrgI2l2j2zQfgp4UZkV42XI/edit?gid=426246448#gid=426246448) that some judges consistently give teams scores that are far higher or far lower than their average performance.
 
@@ -123,39 +119,39 @@ But apparently speaker scores aren’t as subjective as one would think--or at m
 
 When I talk about the “American circuit,” I refer to the set of universities that participate in British Parliamentary debate. At this year’s United States Universities Debating Championship, this set included (in order of performance of their top team):
 
-> *   Stanford University
-> *   Columbia University
-> *   Harvard University
-> *   Princeton University
-> *   UC Berkeley
-> *   UC LA
-> *   University of Rochester
-> *   Bates College
-> *   Williams College
-> *   The Claremont Colleges
-> *   University of Southern California
-> *   University of Pennsylvania
-> *   UW Madison
-> *   Amherst College
-> *   Drexel University
-> *   Cornell University
-> *   Brown University
-> *   Colby College
-> *   Bard College
-> *   Middlebury College
-> *   Hobart & William Smith Colleges
-> *   Davidson College
-> *   University of Vermont
-> *   Morehouse College
+*   Stanford University
+*   Columbia University
+*   Harvard University
+*   Princeton University
+*   UC Berkeley
+*   UC LA
+*   University of Rochester
+*   Bates College
+*   Williams College
+*   The Claremont Colleges
+*   University of Southern California
+*   University of Pennsylvania
+*   UW Madison
+*   Amherst College
+*   Drexel University
+*   Cornell University
+*   Brown University
+*   Colby College
+*   Bard College
+*   Middlebury College
+*   Hobart & William Smith Colleges
+*   Davidson College
+*   University of Vermont
+*   Morehouse College
 
 Additional universities that participated in this year’s North American Universities Debating Championship:
 
-> *   University of Chicago
-> *   Northwestern University
-> *   Yale University
-> *   John Hopkins University
-> *   Dartmouth College
-> *   Swarthmore College
+*   University of Chicago
+*   Northwestern University
+*   Yale University
+*   John Hopkins University
+*   Dartmouth College
+*   Swarthmore College
 
 30 universities is not a small force, but it is far smaller than the [group of universities](https://apda.online/about/contacts/) in the American Parliamentary Debate Association who debate in the eponymous “fact”-slinging woke format. Some extremely successful international debaters _also_ participate in APDA (on a spectrum from “once a year” to “frequently”). High performers in international debate seem to do well when they wade into APDA; the reverse is less often true.
 
@@ -167,9 +163,9 @@ WUDC 2024 semifinalist Ryan Lafferty produced _520 pages_ of notes (about 100 pa
 
 Globally, the perception that American debaters and judges are bad has persisted for quite a while. Tenets of this argument include:
 
-> *   Most Americans perform poorly at international tournaments
-> *   For years, the vast majority of the US’s top performers at WUDC have been international students; the US can’t grow its own winners
-> *   The homegrown Americans who _are_ exceptionally good are ruining the activity by spitting out analysis at 200 wpm and beating inspiring speakers on “erm actually” esque technicalities
+*   Most Americans perform poorly at international tournaments
+*   For years, the vast majority of the US’s top performers at WUDC have been international students; the US can’t grow its own winners
+*   The homegrown Americans who _are_ exceptionally good are ruining the activity by spitting out analysis at 200 wpm and beating inspiring speakers on “erm actually” esque technicalities
 
 These things are true, but I (an outsider) no longer think they support the claim that the US is “worse at debate” than most other circuits.
 
@@ -205,7 +201,7 @@ If you want a complete explanation of the rules, [read them here](https://www.sc
 
 There are four teams (two arguing for the motion, two arguing against) of two speakers. Each speaker gets seven minutes to speak. The speaking order looks like this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/b5323f25976060ee.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/79a406e1e3ac9f6e.png)
 
 _The silly names are relics of the actual British Parliament._
 
@@ -217,15 +213,14 @@ All teams have to give arguments for their position, refute opponents’ argumen
 
 The topic of debate is called the motion. The beginnings of motions are almost always phrased in one of the following ways:
 
-> *   _This House Would_: this kind of debate is about implementing a policy or taking an action. The government teams have to prove it’s practically feasible and that it leads to better outcomes than alternative policies/actions. The opening government team gets to decide who the “house” is (it’s in their interest to pick something reasonable) and “model” what the policy’s implementation would look like.
->
-> *   _This House, as X, Would:_ Same as above, but the debate is from the perspective of a specific actor (e.g. “the CCP” or “a professional athlete”).
->
-> *   _This House Believes That:_ More of a normative judgement than a policy.
-> *   _This House Supports/This House Opposes:_ Exactly what it sounds like.
-> *   _This House Predicts:_ Exactly what it sounds like.
-> *   _This House Prefers:_ These debates will often set up an explicit comparison (e.g. world A over world B, action A over action B, etc).
-> *   _This House Regrets X:_ Government has to prove that the world would be better off if X had never happened. Opposition has to prove the opposite.
+*   _This House Would_: this kind of debate is about implementing a policy or taking an action. The government teams have to prove it’s practically feasible and that it leads to better outcomes than alternative policies/actions. The opening government team gets to decide who the “house” is (it’s in their interest to pick something reasonable) and “model” what the policy’s implementation would look like.
+    *   _This House, as X, Would:_ Same as above, but the debate is from the perspective of a specific actor (e.g. “the CCP” or “a professional athlete”).
+
+*   _This House Believes That:_ More of a normative judgement than a policy.
+*   _This House Supports/This House Opposes:_ Exactly what it sounds like.
+*   _This House Predicts:_ Exactly what it sounds like.
+*   _This House Prefers:_ These debates will often set up an explicit comparison (e.g. world A over world B, action A over action B, etc).
+*   _This House Regrets X:_ Government has to prove that the world would be better off if X had never happened. Opposition has to prove the opposite.
 
 ### Standard of knowledge for judges
 

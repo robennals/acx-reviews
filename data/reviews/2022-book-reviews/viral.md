@@ -7,9 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:52.511Z'
 slug: viral
-wordCount: 6602
+wordCount: 6551
 readingTimeMinutes: 30
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-viral'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-viral
 source: acx
 tags:
   - Science
@@ -55,16 +55,16 @@ A lot of these technical points are over my head, so I encourage you to read the
 When I first heard the idea of a lab origin of SARS-CoV-2 at the beginning of the pandemic, part of the reason I dismissed it was because the idea of a pathogen escaping from a lab really did seem like a conspiracy theory, or the plot of some sci-fi movie. One of the things that made me reconsider this position was learning how many lab leaks have occurred in the past. Chan and Ridley spend a chapter in the book reviewing some of these incidents. For example:
 
 *   Although the first SARS virus originated in nature, it was studied in labs after the initial epidemic, and escaped several times, infecting people. This occurred in Singapore, Taiwan, and China, from 2003-2004.
-    
+
 
 *   In April 1979, anthrax escaped from a biological warfare lab in Sverdlovsk, USSR, resulting in at least 64 deaths. This leak was successfully covered up by the Soviet authorities for more than a decade, with the KGB confiscating hospital records of the victims. The truth was only discovered after the fall of the Soviet Union, when a proper scientific investigation was finally allowed in 1992 and 1993.
-    
+
 
 *   In 1977 there was an influenza pandemic, now called the Russian Flu, which ultimately killed about 700,000 people. It was discovered that this flu strain was nearly genetically identical to a strain that had previously been common in the 1950s, but had since disappeared, except for samples that were being studied in research labs. It’s now thought that the 1977 Russian Flu was the result of vaccine trials gone awry, in which military recruits became infected after being exposed to live attenuated H1N1 virus.
-    
+
 
 *   Smallpox escaped from research labs in the UK three times from 1966-1978. In fact, the last ever case of smallpox occurred after it had already been eradicated, when it escaped from a medical laboratory in 1978 and infected a medical photographer, who [eventually died from the illness.](https://www.bbc.com/news/uk-england-birmingham-45101091)
-    
+
 
 These are only a few of many examples. According to the US Federal Select Agent Program, which oversees the possession and handling of dangerous biological agents and toxins, there were 219 accidental releases of these “select agents” in 2019. So, while accidental lab leaks are uncommon, they’re not unheard of. When it comes to the COVID-19 pandemic, it still makes sense to have a strong prior in favor of the natural origins hypothesis, but the idea that a pathogen can be accidentally released from a lab isn’t some wild, ridiculous idea like believing in alien abductions or Bigfoot or something.
 
@@ -123,22 +123,22 @@ So what should we make of this? Well, as I mentioned before, RaTG13 is no longer
 A lot of the book is devoted to criticizing the Chinese government’s lack of transparency during the pandemic. Some brief examples:
 
 *   In the early days of the initial outbreak in Wuhan, hundreds of people were investigated and punished for the crime of “spreading rumors”. This included whistleblowing doctors who attempted to warn others [3] about the spread of the disease and its human-to-human transmission, which was being denied by the Chinese government at the time.
-    
+
 
 *   Access to the Mojiang mine (the source of the RaTG13 virus discussed in the previous section) was blocked off, and journalists attempting to visit it were harassed and detained by police.
-    
+
 
 *   According to Chinese government directives, all academic research papers written by Chinese scientists are now required to go through a process of government review before being submitted for journal publication.
-    
+
 
 *   The WHO conducted an investigation that was apparently a sham. The investigation was composed of supervised, tightly-controlled visits to various sites in Wuhan, including a museum dedicated to China’s “heroic efforts to defeat the pandemic” – but the team was denied access to raw data from the early stages of the pandemic. At the end, they confidently concluded that a lab origin of SARS-CoV-2 was “extremely unlikely”, despite not having done any serious investigation into it. [4]
-    
+
 
 *   Virus sample sequences from early COVID patients in China were originally uploaded to an online database, but later removed in an apparent attempt at obfuscation. [However, evolutionary biologist Jesse Bloom came up with a clever way to recover this data.](https://www.science.org/content/article/claim-chinese-team-hid-early-sars-cov-2-sequences-stymie-origin-hunt-sparks-furor)
-    
+
 
 *   Probably the most important – the WIV had previously maintained a database of at least fifteen thousand bat samples, including the dates and locations of samples as well as information about the viruses found in them. This database was taken offline and its contents have not been shared with independent researchers since.
-    
+
 
 At this point, we need to be cautious and police our emotions so that we don’t start favoring the lab leak hypothesis for non-scientific reasons. When reading about this stuff, it’s easy to get angry and start wanting the Chinese government to be guilty of something, but we need to consider all possible explanations. 
 
@@ -185,22 +185,22 @@ After reading the book and going down several related rabbit holes, I feel as un
 To summarize, my overall updating went something like this:
 
 *   Prior: _Definitely natural origins (Obviously, I’m not a conspiracy theorist)._ 
-    
+
 
 *   Update 1: _Hmm, so I guess they haven’t found any direct evidence of an animal source yet, but I’m sure one will turn up. Anyway, a lab leak is still impossible, right?_
-    
+
 
 *   Update 2: _Ok, so I guess there have been some lab leaks in the past. But still, the zoonotic spillovers are much more common._
-    
+
 
 *   Update 3: _Wait a minute… you mean the location of the initial outbreak actually is not close to the nearest natural reservoir of this type of virus? In that case, isn’t it kinda suspicious that it is close to one of the only virology institutes in the world doing gain-of-function research on bat coronaviruses? Why am I just hearing about this now?_
-    
+
 
 *   Update 4: _Lots of technical points being discussed and debated, way over my head. However I notice scientists much smarter than me shifting their opinion and now claiming that neither hypothesis can be ruled out based on the current evidence._
-    
+
 
 *   Posterior: _Both hypotheses seem viable and a thorough, open investigation is needed._ 
-    
+
 
 ## Conclusion 2: Evaluating claims from experts and institutions
 
@@ -233,42 +233,42 @@ What’s even cooler is that much of this reevaluation was the result of amateur
 ## Further sources to check out
 
 *   Natural Origins Proponents
-    
+
     *   [The most comprehensive post I’ve found making the case for natural origins is Philipp Markolin’s Substack post](https://protagonistfuture.substack.com/p/natures-neglected-gof-laboratory?s=w), which attempts to apply Bayesian reasoning to the question. Definitely recommend. 
-        
+
     *   [Anderson et al. 2020 “Proximal Origins” paper](https://www.nature.com/articles/s41591-020-0820-9#auth-1)
-        
+
     *   [Holmes et al. 2021 paper](https://www.cell.com/cell/pdf/S0092-8674(21)00991-0.pdf), reviewing evidence and concluding in favor of natural origins.
-        
+
 
 *   Other Sources
-    
+
     *   [This is an interesting website called Rootclaim that applies Bayesian reasoning and quantifies updates.](https://www.rootclaim.com/analysis/What-is-the-source-of-COVID-19-SARS-CoV-2) Their quantified line of reasoning is especially interesting if you disagree with their conclusion, since you can pinpoint exactly which pieces of evidence you disagree on. They apply this analysis to many other claims as well. 
-        
+
     *   [Scott Aaronson’s review of](https://scottaaronson.blog/?p=6183) _[Viral](https://scottaaronson.blog/?p=6183)_
-        
+
     *   [Letter in the journal Science,](https://www.science.org/doi/10.1126/science.abj0016) signed by many prominent researchers, calling for an open investigation into the pandemic origins.
-        
+
     *   [Vanity Fair article](https://www.vanityfair.com/news/2022/03/the-virus-hunting-nonprofit-at-the-center-of-the-lab-leak-controversy) on the investigation into the pandemic origins, criticizing the NIH for lack of transparency.
-        
+
     *   [Yuri Deigin’s Medium post](https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748) on SARS-CoV-2 sequence analysis from April 2020. This is the earliest I know of someone making a serious case for the lab leak hypothesis. 
-        
+
     *   [Nicholas Wade’s May 2021 article](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/) – one of the first well-known, respected scientists to publicly take the lab leak hypothesis seriously.
-        
+
     *   [Rossana Segreto and Yuri Deigin’s paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744920/) on the furin cleavage site.
-        
+
     *   [US intelligence community’s declassified assessment](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2263-declassified-assessment-on-covid-19-origins) of the pandemic’s origins (turned out to be inconclusive). 
-        
+
     *   [This article from Laura H. Kahn](https://thebulletin.org/2022/03/the-origins-of-sars-cov-2-still-to-be-determined/) explains what evidence would be needed to conclusively show that COVID had a zoonotic origin, and how this burden of proof has not been met yet.
-        
+
     *   There are two active prediction markets [[1](https://www.metaculus.com/questions/3682/health-agencies-to-claim-lab-escape-by-25/), [2](https://www.metaculus.com/questions/8605/most-of-us-ic-favor-covid-lab-leak-hypothesis/)] (that I know of) related to the question of the pandemic’s origins. As Scott noted in a [recent ACX post](https://astralcodexten.substack.com/p/information-markets-decision-markets?token=eyJ1c2VyX2lkIjoyNTY2MzA5OCwicG9zdF9pZCI6NTExNDc3NzYsIl8iOiJHZ3Z1RCIsImlhdCI6MTY0OTIwOTg1MSwiZXhwIjoxNjQ5MjEzNDUxLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.475ITvoIy-e_BdSYd27rA11GTpV7yO69oe4IcYYzssQ&s=r), these markets are not straightforward predictions of whether the pandemic began in a lab or not. Rather, they’re predictions about what specific institutions will conclude about the pandemic origins, so they’re kind of tangentially related to the real underlying question.  
-        
+
 *   Risks of gain of function research (not specific to COVID)
-    
+
     *   [This is a great episode of the Sam Harris podcast](https://www.youtube.com/watch?v=UaRfbJE1qZ4) with Rob Reid on gain of function virology research as a possible existential risk. The episode isn’t about COVID and doesn’t take a position on the pandemic’s origins either way. Scary and important episode. 
-        
+
     *   [Recent article from Kelsey Piper](https://www.vox.com/22937531/virus-lab-safety-pandemic-prevention) on possible dangers of gain of function research (again, not specific to COVID). 
-        
+
 
 ## Footnotes
 

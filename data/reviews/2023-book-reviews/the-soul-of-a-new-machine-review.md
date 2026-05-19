@@ -1,16 +1,16 @@
 ---
-title: "The Soul of a New Machine Review"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Soul of a New Machine Review
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-soul-of-a-new-machine-review"
-wordCount: 2761
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-soul-of-a-new-machine-review
+wordCount: 2747
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Technology
   - History
@@ -40,12 +40,12 @@ Edson De Castro was the CEO of Data General, having started the company at the e
 
 Tom West is the originator and the leader of the Eagle project. He’s described by others throughout the book:
 
-> *   “a good man in a storm” _(p. 7)_
-> *   "He's fearless, he's a great politician, he's arbitrary, sometimes he's ruthless." Alsing _(p. 103)_
+*   “a good man in a storm” _(p. 7)_
+*   "He's fearless, he's a great politician, he's arbitrary, sometimes he's ruthless." Alsing _(p. 103)_
 
 And perhaps the highest praise a leader can be given:
 
-> *   "West never bored us." Alsing _(p. 275)_
+*   "West never bored us." Alsing _(p. 275)_
 
 West’s leadership is the subject of much prose throughout. Without him, the Eagle never would’ve been made.
 
@@ -79,9 +79,9 @@ Rosemarie Searle was the Eagle group’s main secretary, and perhaps more than a
 
 Those who worked on the hardware of the new computer called themselves the Hardy Boys.
 
-> *   Ken Holberger - Called the Chief Sergeant Detective. _(p. 189)_
-> *   Jim Veres and Jim Guyer - The two Jims “make a marvelous debugging team, but only when they aren’t working together.” _(p. 200)_
-> *   Josh Rosen - Upon getting fed up debugging nanosecond-scale issues, left a note reading: “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” _(p. )_
+*   Ken Holberger - Called the Chief Sergeant Detective. _(p. 189)_
+*   Jim Veres and Jim Guyer - The two Jims “make a marvelous debugging team, but only when they aren’t working together.” _(p. 200)_
+*   Josh Rosen - Upon getting fed up debugging nanosecond-scale issues, left a note reading: “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” _(p. )_
 
 ### The Microkids
 
@@ -89,11 +89,11 @@ It takes people with devious minds. - Dave Keating _(p. 156)_
 
 The Microkids, with their self-named microlounge and a van called the microbus, were responsible for the microcode - the incredibly low-level code that interfaces directly with the computer’s hardware. They delighted in pranking one another.
 
-> *   Dave Keating - Self-styled “devious mind.”
-> *   Chuck Holland - Hired because of a kinetic sculpture he was working on.
-> *   Dave Peck - A fast programmer with a raucous laugh, the “fastest in the East”. _(p. 163)_
-> *   Neal Firth - On liking abstract music in high school, said: “Maybe I'm right, maybe they are, but as far as I'm concerned they're entitled to their incorrect opinions.” _(p. 168)_
-> *   Jon Blau - When asked what he was getting out of working on the Eagle, he had this to say: “You have narrowed your field of vision to a small little world, trying to make it a vision of your own mind, and that's the kick - getting control of something.” _(p. 160)_
+*   Dave Keating - Self-styled “devious mind.”
+*   Chuck Holland - Hired because of a kinetic sculpture he was working on.
+*   Dave Peck - A fast programmer with a raucous laugh, the “fastest in the East”. _(p. 163)_
+*   Neal Firth - On liking abstract music in high school, said: “Maybe I'm right, maybe they are, but as far as I'm concerned they're entitled to their incorrect opinions.” _(p. 168)_
+*   Jon Blau - When asked what he was getting out of working on the Eagle, he had this to say: “You have narrowed your field of vision to a small little world, trying to make it a vision of your own mind, and that's the kick - getting control of something.” _(p. 160)_
 
 ## The Story
 
@@ -187,9 +187,9 @@ The last section is shorter, and while it’s framed around the events that happ
 
 Some things that stood out to me while reading the book:
 
-> *   Almost the entire engineering team on Eagle had been doing engineering of some sort since childhood, taking things apart and putting them back together, in a way reminiscent of how many geniuses spent their childhoods.
-> *   The architecture and specifications for the computer were determined almost organically, with Hardy Boys and Microkids going back and forth about what should be done in hardware and what in software; the design of the computer was the result of many negotiations over time.
-> *   All of the people who worked on Eagle worked ridiculous hours, often 60-80 per week or more, and they didn’t get paid overtime. Their motivations, while varied, were not monetary, and they worked absurdly hard. They felt responsible for the task, ownership of the product, and (for some) a sense that this was a worthy challenge.
+*   Almost the entire engineering team on Eagle had been doing engineering of some sort since childhood, taking things apart and putting them back together, in a way reminiscent of how many geniuses spent their childhoods.
+*   The architecture and specifications for the computer were determined almost organically, with Hardy Boys and Microkids going back and forth about what should be done in hardware and what in software; the design of the computer was the result of many negotiations over time.
+*   All of the people who worked on Eagle worked ridiculous hours, often 60-80 per week or more, and they didn’t get paid overtime. Their motivations, while varied, were not monetary, and they worked absurdly hard. They felt responsible for the task, ownership of the product, and (for some) a sense that this was a worthy challenge.
 
 ## The Conclusion
 

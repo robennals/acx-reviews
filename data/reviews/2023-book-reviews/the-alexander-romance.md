@@ -1,16 +1,16 @@
 ---
-title: "The Alexander Romance"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Alexander Romance
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-alexander-romance"
-wordCount: 4742
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-alexander-romance
+wordCount: 4749
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Fiction
   - History
@@ -27,7 +27,7 @@ There is no single Alexander Romance. Every culture from Ethiopia to Russia adde
 
 The outline below will be based on Penguin’s _The Greek Alexander Romance_, a pastiche of several versions keeping the skeleton of a 15th century Sicilian manuscript. Its history ensures that it’s wildly uneven; some parts seem to be mostly a real history of Alexander with a few embellishments; others are obviously completely imaginary. I’m going to assume you know Alexander’s real conquests and focus on the imaginary parts:
 
-**The Birth Of Alexander**
+## The Birth Of Alexander
 
 Nectanebo was a pharaoh who was also a wizard. He ruled Egypt wisely; when enemies attacked, he would magically vaporize their armies from afar. One day he scryed some enemies approaching Egypt’s border (the Persian army of Cambyses?); when he tried to vaporize them, the magic didn’t work. He realized that the gods had decreed that Egypt must fall, so he fled to Macedonia, working as a magician-for-hire to make ends meet.
 
@@ -41,7 +41,7 @@ King Philip came back from campaign and was angry, so Nectanebo transformed into
 
 Nectanebo then became the court doctor, advising Queen Olympias on when to give birth. As her labor began, he advised her _not_ to push, because the astrological chart was less than perfectly ideal. For hours, the poor woman tried to hold it in, as Nectanebo became increasingly agitated about improper positioning of Mercury or whatever. Finally, Nectanebo cast the horoscope and found that the destiny of someone born at that _exact_ moment would be to rule the world. He told Olympias to push, the baby came out immediately, and they named him Alexander.
 
-**Alexander And Darius**
+## Alexander And Darius
 
 Alexander grew up and headed out to conquer Persia. As he advanced, King Darius of Persia sent him increasingly insulting letters, to which Alexander sent back letters with dazzlingly witty responses to the insults. For example, from Darius, heavily edited for length:
 
@@ -61,13 +61,13 @@ The next day, Alexander ordered battle against the Persians. The Macedonians wer
 
 Then he went back to the crowd and said that the people who killed Darius should come forth so he could reward them - “I swear I will raise them up and make them conspicuous among men.” Darius’ killers came forth, and Alexander crucified them atop Darius’ tomb, explaining that he hadn’t broken his oath because he had literally raised them up and made them conspicuous.
 
-**Alexander In India**
+## Alexander In India
 
 Perhaps you have heard that Alexander tried to conquer India, but his troops mutinied, and he had to turn back. This is a vile lie. His troops tried to mutiny, but Alexander talked them down with a brilliant speech. Then he challenged Porus, King of India, to single combat, and won.
 
 ![ ](https://acximages.ennals.org/images/2023-book-reviews/882fc321fc2e3b1d.jpg)
 
-**Alexander At The Ends Of The Earth**
+## Alexander At The Ends Of The Earth
 
 India was the easternmost part of the known world, so Alexander got curious what was east of India and decided to march there and find out.
 
@@ -95,7 +95,7 @@ Finally, Alexander reached the end of the world, “where the sky meets the eart
 
 ![ ](https://acximages.ennals.org/images/2023-book-reviews/812f6987647ac627.jpg)
 
-**Alexander And The Naked Philosophers**
+## Alexander And The Naked Philosophers
 
 Alexander heard that there were some wise naked philosophers in India and decided to test their wisdom. Slightly edited:
 
@@ -145,7 +145,7 @@ There is a weird echo of this story in, of all places, the Talmud, although here
 >
 > 10\. "Is it better to live on the land or the sea?" They answered: "the land, because a person traveling on the oceans is not at peace with himself, he is concerned about mishaps while traveling. When he arrives home back on land, he is settled and has peace of mind."
 
-**Alexander Binds Gog And Magog**
+## Alexander Binds Gog And Magog
 
 Alexander came to the Caucasus Mountains and learned that the nations beyond the Caucasus Mountains - especially two called Gog and Magog - really sucked. Just utter trash nations. You would not believe how terrible these nations were:
 
@@ -163,7 +163,7 @@ The Caspian Gates of Alexander are sometimes identified with the real-world Cauc
 
 ![ ](https://acximages.ennals.org/images/2023-book-reviews/a7757f2d339c4da2.jpg)
 
-**The Alexander Romance And Popular Literature**
+## The Alexander Romance And Popular Literature
 
 The _Alexander Romance_ is, in many ways, not a very good book.
 
@@ -187,15 +187,15 @@ Mass culture follows somewhat different rules than its more prestigious relative
 
 Many of the things that happen to Alexander the Great in _The Alexander Romance_ have also happened to Batman. Alexander invented a submersible to explore the ocean depths, [and so did Batman](https://www.amazon.com/LEGO-DC-Batman-Underwater-Building/dp/B07GZ5691C). Alexander discovered the Fountain of Youth, [and so did Batman](https://batman.fandom.com/wiki/Lazarus_Pit). Alexander sealed evil nations behind a magic door, [and so did Batman](https://en.wikipedia.org/wiki/Batman:_Soul_of_the_Dragon). Alexander fought dinosaurs; [and so did Batman](https://batman.fandom.com/wiki/Dinosaur_Island).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4dce034764446225.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/9b5851d63a5aff05.jpg)
 
 _Left: Alexander the Great in his makeshift submersible. Right: the Batsub, only $39.99 from Lego!_
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d14b748857e637dd.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/5123c851a3723795.jpg)
 
 _Left: Alexander the Great fights an odontotyrannos. Right: Batman fights a tyrannosaurus._
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a4782c01eb5c3b2f.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/98c466fb814ebdbe.jpg)
 
 _Left: Nectonebo, father of Alexander, a pharaoh who is also a wizard. Right: Amenhotep from the Marvel universe, also a pharaoh who is also a wizard._
 

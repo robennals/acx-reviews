@@ -1,7 +1,5 @@
 ---
-title: >-
-  Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G.
-  Barto
+title: 'Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
@@ -11,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.573Z'
 slug: reinforcement-learning-an-introduction-by-richard-s-sutton-and-andrew-g-barto
 wordCount: 2840
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Technology
@@ -59,7 +56,7 @@ Dopamine is a neurochemical associated with pleasure. While it may seem like dop
 
 Echoing Pavlov’s dogs, the book describes a study where researchers (Schultz, Apicella, and Ljungberg, 1993) trained monkeys to associate a light turning on with a reward of a drop of apple juice. They hooked up brain scanners to the monkeys to monitor their dopamine receptor activity. Here’s how those neurons behaved:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/d2935d8b5bb12f65.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/6bb00e9c689be615.png)
 
 The x-axis is time elapsed and the y-axis is strength of dopamine response. CS: Light turning on R: Drop of apple juice dispensed
 

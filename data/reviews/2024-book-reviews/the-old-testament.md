@@ -7,20 +7,17 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.813Z'
 slug: the-old-testament
-wordCount: 11047
+wordCount: 11050
 readingTimeMinutes: 50
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Religion
 ---
 
-_Answer not a fool according to his folly, lest thou also be like unto him._
-
-_Answer a fool according to his folly, lest he be wise in his own conceit._
-
-_Proverbs 26:4-5_
+> _Answer not a fool according to his folly, lest thou also be like unto him._  
+> _Answer a fool according to his folly, lest he be wise in his own conceit._  
+> _Proverbs 26:4-5_
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/d64792430fe661a0.jpg)
 
@@ -40,7 +37,7 @@ There are cases in which these references are warranted and add to the overarchi
 
 “The Old Testament” is written under a pseudonym; that, by itself, is not a new discovery in the literary sciences. “Jane Eyre” was first published under the name of Currer Bell, and “Middlemarch” author Mary Ann Evans still appears on book covers as George Elliot. However, taking the pseudonym “God” is certainly new and bold. God’s Amazon account shows only one entry in its many reprints and translations, and not even a single image. This is a well-kept secret indeed. God also has an X account, but whether it’s genuine is anyone’s guess.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5b956b9cac1d8e44.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/59caf2e811ead683.png)
 
 God is also a prominent character in the novel itself, but he is always confusingly portrayed from the third-person perspective. To make sense of this Byzantine complexity, we need to answer a simple question: Who is God?
 

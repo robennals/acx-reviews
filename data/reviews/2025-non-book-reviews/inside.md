@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2025-01-01T00:00:00.000Z'
 slug: inside
-wordCount: 6063
+wordCount: 6062
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -41,11 +40,11 @@ Bo Burnham’s trajectory is unique, but his starting point was not--he was just
 
 “They're coming for every second of your life. It's not because anyone is bad, or anyone has evil plans, or even that they're doing it consciously. It's because these companies--Twitter, YouTube, Instagram and everything--they went public. They went to the shareholders. So they have to grow, their entire models are based off of growth. They cannot stay stagnant. Twitter grossed $4-5 billion last year, and it is in the red, it is unprofitable. It has to get more of **you**. [...] Every single free moment you have is a moment you could be looking at your phone, and they could be gathering information to target ads at you. That's what's happening.”
 
-> *   Bo Burnham, in a 2018 [interview](https://www.youtube.com/watch?v=SUTbnjIHfkg) for his movie Eighth Grade
+*   Bo Burnham, in a 2018 [interview](https://www.youtube.com/watch?v=SUTbnjIHfkg) for his movie Eighth Grade
 
 Targeted ads may be the main incentive for the social media engagement machine to keep turning, but they aren’t what’s left such an impact on society. It is the resulting _secondary_ effects, downstream of these attention engines racing to the bottom, that have reshaped human interaction and behavior on such a massive scale.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/0a1b1ff64fcf5c96.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c5567afcddf0d6b8.jpg)
 
 The Algorithm has grown into a ravenous force, which has imparted its maligned incentives on both the vast majority of consumers and the vocal minority of producers on every major platform. For consumers, it offers an endless ocean of entertaining posts, but the depth of each one is merely a droplet--100 pictures that make you instantly laugh, aww, or facepalm will get 100x the engagement of 1 nuanced piece of writing or art in the same amount of time, after all. The result is an overwhelm of vapidity, giving **you** only a few seconds to react with your gut before moving on, atrophying the sense of any higher judgement, critical thinking, or situational context--this is how the Algorithm sucks your brain out through your eyes. And for producers, the opportunity for social riches, perhaps even virality, is tantalizing, but requires reducing your expression into the simplest black-and-white terms in order to meet these fast-food quality standards. Your full self would take too long to digest, so the Algorithm only takes the thin veneer **you** give it. Besides, your potential outreach is so large that this is the way that most people will know about **you**, so do you even need the rest?
 
@@ -83,7 +82,7 @@ _“Is this heaven? Or am I looking at a white woman’s Instagram?”_
 
 But something changes in the song’s bridge. We stay with one scene for longer than a few seconds, and see it from two camera angles. The camera frame [widens back out to full screen](https://youtu.be/xHotXbGZiFY?t=148). Burnham sings about a photo of the titular woman’s mom, passed away a decade ago, and a grieving letter put in the caption. And in no time after it’s ended, the third verse returns us to a new slew of quick, composed shots and one-line descriptions. This is a crucial moment in the song, in the whole special, that shows both the beauty and tragedy of the experiential distillation that social media elicits from its users. The beauty is that, though the pictures are shallow, they still come from a full, living, breathing human, trying to just focus on and share some positivity with people online. The tragedy is, because the pictures are shallow, it’s very easy for those on the other side of the screen to forget that, and be taken by surprise when an earnest, heartfelt post enters the feed.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/8495a4f2121d2fa3.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8d06933d558fe177.png)
 
 The camera frame doesn’t even hold at full screen before immediately being squished back down to the Instagram square for the remainder of the song. The earnest bridge slowed things down momentarily, but the content engine will not be halted so easily, and anything that would slow it down gets reduced and thrust along. In a brief scene between bits, Burnham directly pans the vapidity depicted by these songs, suggesting that “maybe the flattening of the entire subjective human experience into a lifeless exchange of value [...] maybe that, as a way of life, forever…maybe that’s, um, _not_ good.”
 

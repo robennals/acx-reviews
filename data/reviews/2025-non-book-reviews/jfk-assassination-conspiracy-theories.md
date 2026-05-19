@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.476Z'
 slug: jfk-assassination-conspiracy-theories
-wordCount: 8063
+wordCount: 8066
 readingTimeMinutes: 36
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - History
@@ -29,7 +28,7 @@ You could even say the United States itself was founded on a conspiracy theory: 
 
 If conspiracy theories are the Great American Art Form, there’s no question as to which is the canonical work of art—our _Kind of Blue_, _West Side Story_, Superman, and _Illmatic_ all rolled into one: the theories surrounding the 1963 assassination of our third-best president named “John,” John Fitzgerald Kennedy[[1]](#h.fjbrhtbnats5). The belief that Lee Harvey Oswald didn’t act alone is the country’s most widely-believed conspiracy theory—if, indeed, it even _is_ a conspiracy theory—sustained across generations and deeply woven into American cultural memory through countless books, movies, and TV shows.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e24751a538131c8d.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e69eee24dfe80409.jpg)
 
 Sources: [Oswald](https://news.gallup.com/poll/514310/decades-later-americans-doubt-lone-gunman-killed-jfk.aspx), [2020 election](https://thehill.com/homenews/campaign/4384619-one-third-of-americans-say-biden-election-illegitimate/), [moon, flat Earth, microchip](https://carsey.unh.edu/publication/conspiracy-vs-science-survey-us-public-beliefs)
 
@@ -131,9 +130,9 @@ The Mafia harbored little affection for American politicians in general, but the
 
 There are hints of Mafia involvement everywhere you look—and as the wiseguys say, “You smell garlic, you know someone’s cookin’”:
 
-> *   In the months leading up to the assassination, Jack Ruby made a bunch of of phone calls to Mafia associates, and after killing Oswald, he received regular prison visits from a mob lieutenant.
-> *   Chicago mobster Johnny Roselli, when called to give congressional testimony on an unrelated matter, gave cryptic and suggestive answers that seemed to hint at the Mafia’s involvement, though he stopped short of claiming firsthand knowledge. The next year, a fisherman off the Miami coast found Roselli’s decomposing body in a 55-gallon steel drum, fueling speculation that he himself was killed for knowing too much.
-> *   And most tantalizing of all: In the 1980s, New Orleans don Carlos Marcello was captured on an FBI prison bug confessing to “having the son of a bitch killed.”
+*   In the months leading up to the assassination, Jack Ruby made a bunch of of phone calls to Mafia associates, and after killing Oswald, he received regular prison visits from a mob lieutenant.
+*   Chicago mobster Johnny Roselli, when called to give congressional testimony on an unrelated matter, gave cryptic and suggestive answers that seemed to hint at the Mafia’s involvement, though he stopped short of claiming firsthand knowledge. The next year, a fisherman off the Miami coast found Roselli’s decomposing body in a 55-gallon steel drum, fueling speculation that he himself was killed for knowing too much.
+*   And most tantalizing of all: In the 1980s, New Orleans don Carlos Marcello was captured on an FBI prison bug confessing to “having the son of a bitch killed.”
 
 The circumstantial evidence was compelling enough for the HSCA’s chief counsel, a man with the born-for-government-reports name of G. Robert Blakely. An organized crime expert who’d led the drafting of the RICO Act, Blakely later authored a book, _The Plot to Kill the President,_ which pointed to a Mafia conspiracy. The HSCA report as a whole didn’t blame the Mafia directly, though it left room for “the possibility that individual members may have been involved.” However it happened, Kennedy’s death did result in the feds turning down the heat: Lyndon Johnson booted Bobby Kennedy from the Attorney General’s office and replaced him with Nicholas Katzenbach, who deprioritized anti-Mafia efforts in favor of civil rights.
 
@@ -151,9 +150,8 @@ Nonetheless, this remains the most plausible of the major conspiracy theories—
 
 #### Lyndon Johnson did it
 
-_“He’s mean, bitter, vicious—an animal in many ways.” —RFK on LBJ_
-
-_“I’ve had more women by accident than he ever had on purpose.” —LBJ on JFK_
+> _“He’s mean, bitter, vicious—an animal in many ways.” —RFK on LBJ_  
+> _“I’ve had more women by accident than he ever had on purpose.” —LBJ on JFK_
 
 In a crowded field of backstabbers and power-grabbers, Lyndon Johnson takes the crown as America’s most ruthless president. Among other things, he froze out longtime backers forever over the smallest slights, almost certainly [stole the 1948 Texas Senate election](https://apnews.com/article/lbj-stolen-election-box-13-mangan-c818e478ec509c65585d3094bda69f96), and established dominance over his aides by making them join him in the bathroom to take dictation while he sat on the toilet.
 
@@ -179,7 +177,7 @@ Besides, Johnson spent the year between his ascension and his 1964 landslide con
 
 Or, to put it another way: if this _had_ happened, Robert Caro would have definitely found out about it by now.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/576f7602cf5929c4.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c38bcf13363ace5d.png)
 
 Even though it didn’t happen, this would make fora fantastic ten-episode miniseries. Cast J.K. Simmons as LBJ, Glen Powell as JFK, and Barry Keoghan as Bobby.
 
@@ -219,7 +217,7 @@ If blaming the Jews is too openly antisemitic for you, why not try pointing the 
 
 In 1963, Kennedy signed an [obscure executive order](https://en.wikipedia.org/wiki/Executive_Order_11110) relating to the Treasury Department’s authority to issue silver certificates. This was a routine, administrative document that went uncovered by the media and unnoticed by the public—until decades later, when conspiracy theorists seized on it as providing the key to understanding the assassination. They claimed that the real purpose of Kennedy’s order was to strip power from the Federal Reserve, leading influential financiers—in most tellings, Rothschilds and/or Rockefellers—to have him offed so they could reverse his monetary policies.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1e0587f672a4e3e5.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5cbc7f412154f0b7.jpg)
 
 The second shooter, allegedly
 
@@ -283,8 +281,7 @@ It’s not just that every specific conspiracy theory has good arguments against
 
 The conspiracy theorists do get a few things right. There _was_ a cover-up—but it was just the CIA covering its own ass. High-level government officials _did_ go into the investigation favoring some explanations over others—but it just so happens that the scenarios they were most afraid of really didn’t happen. The Warren Commission _didn’t_ get the whole truth from all of its witnesses—but it got the core story right anyway.
 
----
-
+- - -
 This sucks, and I’m pretty bummed about it.
 
 After all, the official narrative is deeply unsatisfying, and accepting the government’s version of events just feels so… uncool. I came of age in the George W. Bush era, when distrusting the experts and assuming the government was always lying were hallmarks of the left. Sometime in the Trump years, that all flipped. I already find myself cheering for Liz Cheney and defending the FBI. Now I have to tell everyone the Warren Report is accurate? When did being on the left become so fucking lame?
@@ -293,8 +290,7 @@ After all, the official narrative is deeply unsatisfying, and accepting the gove
 
 Remember when the biggest conspiracy theory this guy believed was that George Bush didn’t care about Black people?
 
----
-
+- - -
 Earlier in this piece, I said that the person who benefitted most from Kennedy’s assassination was Lyndon Johnson. But that wasn’t quite right. There’s someone who benefitted even more: Kennedy himself. Or at least, the Kennedy legacy.
 
 In case it’s not obvious from the tone of this review, I think Kennedy is a wildly overrated president, one whose reputation rests more on what he represented than what he actually accomplished. And that reputation would not have survived a second term intact.
@@ -307,7 +303,7 @@ There are a lot of reasons the Lincoln conspiracy theories died down while the K
 
 From today’s vantage point, it seems comically naive that anyone back involved in the Warren Commission ever thought an official government report is all it would take to stamp out conspiracy theories, but 1964 was a different time—77% of Americans back then said they trusted the federal government to do what is right “just about always” or “most of the time.” That was the highest that number has ever been. Over the next few years, it began a sharp downward plummet, and except for a brief and probably illusory post-9/11 spike, it hasn’t crossed 50% since. Today, it stands at just 22%.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/978db77e505577e7.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/56ad0956e06aef59.png)
 
 Source: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/24/public-trust-in-government-1958-2024/)
 

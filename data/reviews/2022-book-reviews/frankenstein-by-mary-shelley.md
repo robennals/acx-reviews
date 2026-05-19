@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.700Z'
 slug: frankenstein-by-mary-shelley
-wordCount: 3757
+wordCount: 3755
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Fiction
@@ -25,8 +24,8 @@ I guess that’s pretty common in tragic literature, and many of the Great Works
 
 Much of the sadness is conveyed while the protagonist travels, either through the Swiss Alps, or to England, or to France. Always, the same two points are conveyed:
 
-> 1.  Mary Shelley was familiar with European geography, and
-> 2.  Boy, was Dr Viktor Frankenstein a sad, sad guy.
+1.  Mary Shelley was familiar with European geography, and
+2.  Boy, was Dr Viktor Frankenstein a sad, sad guy.
 
 I don’t mean to dump too hard on the text here, because the sadness is conveyed _well_.  And it is a fitting and suitable sadness. He has good reason to be sad. But still: there is a lot of it. A brooding tone pervades the entire work with almost no reprieve. The analogy that springs to mind is a live performance of the Grateful Dead. _Frankenstein_ consists of Mary Shelley opening with a single sombre chord and then riffing on it for 335 pages.
 

@@ -7,28 +7,13 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.597Z'
 slug: bad-therapy
-wordCount: 7997
+wordCount: 7949
 readingTimeMinutes: 36
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Psychology
 ---
-
-[I- Prologue](#h.vvgbazi9diiv)
-
-[II- The Core Observation](#h.8yi2lgs5jsx5)
-
-[III- The Realm of the Potentially Traumatic](#h.amj1bxy0gx0u)
-
-[IV- “Won’t Somebody Please Think of the Children!?”](#h.6lskd7nxo2hc)
-
-[V- A Continuum of Parenting, With Sundry Bad Examples, and an Appearance by The Last Psychiatrist](#h.fwkad2ch1irw)
-
-[VI- Resilience](#h.pugs75ro1h3w)
-
-* * *
 
 ### I- Prologue
 
@@ -96,17 +81,17 @@ Now, imagine that at the center of that space are the traumatic negative experie
 
 On the opposite side of things, at the very edge of our space of negative experiences, you have those events that are definitely non-traumatic. These are still negative experiences, but (almost) no one would claim that they had caused lasting trauma: Stubbing a toe, getting a cold, making a minor mistake. If we were to illustrate this space, it would look something like this:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/b56a3a0cd452467d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/41a10e7f0dcf64d3.png)
 
 Thus far presumably everyone agrees with this structure. Some negative experiences are definitely traumatic, others are definitely not. The question is: what about the space between these two extremes—between the definitely traumatic and the decidedly non-traumatic? Things like: watching a terrifying movie when you’re too young; being repeatedly bullied in school; or watching someone in your scout troop die from a lightning strike.
 
 This is the territory that Shrier focuses on, and it’s the space where most of the confusion and pseudo-therapy lies. Let’s call this zone “potentially traumatic”.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3427ca52c96d2fa0.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/9b65a6d326c4d74b.png)
 
 This zone is composed of negative experiences which might be traumatic depending on the person, their previous experiences, and—most importantly for our purposes—how the negative experience is dealt with or treated. This is where the majority of our focus is going to be, and though she doesn’t lay it out as specifically as I have, this is the realm Shrier is concerned about. She provides numerous examples of situations and experiences that only become traumatic through misguided interventions. She doesn’t deny that some negative experiences definitely cause trauma, and that this trauma benefits from competent therapy.[[21]](#ftnt21) Her book isn’t against all therapy; it’s against _bad_ therapy, and the way we recognize it as bad is that rather than treating actual trauma it expands the definition and scope of trauma such that a greater number of negative experiences go from being potentially traumatic to definitely traumatic:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/a8adb60633c525bc.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/6d7de401820798cd.png)
 
 To return once again to the example of my son, I’m positive that if he had been subject to the sorts of practices Shrier describes that he could have been made to view his experience at scout camp as trauma—something that stayed with and haunted him, lessening his happiness and making him fearful. I’m confident that one of the many pseudo-therapists Shrier describes could have “talked him into this state”. I’m certain that I could have talked him into it, nor would it have involved any malice or double-dealing. It mostly would have been repeated variations of the question: “Are you sure you’re okay?”
 
@@ -128,11 +113,11 @@ From Shrier’s perspective, while smartphones and social media are definitely v
 
 Shier opens the book by recounting a recent trip with her son to the urgent care clinic. Once the immediate problem (a stomach ache) had been dealt with, a nurse arrived and asked if he could have a few minutes alone in order to do a “mental health screening” with her son. Shrier asked to see the screening questions. What she saw:
 
-> 1.  _In the past few weeks, have you wished you were dead?_
-> 2.  _In the past few weeks, have you felt that you or your family would be better off if you were dead?_
-> 3.  _In the past week, have you been having thoughts about killing yourself?_
-> 4.  _Have you ever tried to kill yourself? If yes, how? When?_
-> 5.  _Are you having thoughts of killing yourself right now? If yes, please describe._[[25]](#ftnt25)
+1.  _In the past few weeks, have you wished you were dead?_
+2.  _In the past few weeks, have you felt that you or your family would be better off if you were dead?_
+3.  _In the past week, have you been having thoughts about killing yourself?_
+4.  _Have you ever tried to kill yourself? If yes, how? When?_
+5.  _Are you having thoughts of killing yourself right now? If yes, please describe._[[25]](#ftnt25)
 
 Again, this was a visit to a pediatrician about a stomach ache. The nurse wasn’t a trained therapist, nor was Shrier or her son seeking any sort of therapy. .
 
@@ -144,19 +129,14 @@ What happens if the child answers “yes” to any of the questions? Particularl
 
 This is not the only occasion or venue where children will be asked questions like these. As long as we’re still thinking about the negative impact of phones, several companies have released mental health apps for kids. Shrier tried several:
 
-_Here are six of the first ten questions my therapist-bot asked me_
-
-> _“How lonely do you feel?”_
-
-                _“How supported do you feel?”_
-
-                _“How worried do you feel right now?”_
-
-                _“How down do you feel right now?”_
-
-                _“How often do you feel left out?”_
-
-                _“How sad do you feel right now?”_
+> _Here are six of the first ten questions my therapist-bot asked me_
+>
+> _“How lonely do you feel?”_  
+> _“How supported do you feel?”_  
+> _“How worried do you feel right now?”_  
+> _“How down do you feel right now?”_  
+> _“How often do you feel left out?”_  
+> _“How sad do you feel right now?”_
 
 In each case, the question is searching for potential trauma and gearing up to turn it into actual trauma. This is also the equivalent to what I mentioned above, asking my son over and over again if he’s okay. It’s important to remember [how suggestible kids are](https://en.wikipedia.org/wiki/Suggestibility#Child). Not to go on too much of a tangent, but recall that in the 80s just by asking kids over and over again if they had been abused authorities were able to construct an entire [ritual satanic sex abuse ring](https://en.wikipedia.org/wiki/Day-care_sex-abuse_hysteria). Yes, we’re just asking children if they’re okay, but at some point if you ask someone this question enough they’re forced to conclude the only reason you’re asking so much is that they’re not okay.
 
@@ -164,8 +144,8 @@ In each case, the question is searching for potential trauma and gearing up to t
 
 Of all therapeutic methodologies, [cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) seems to have one of the best reputations. The most import steps in CBT are:
 
-> 1.  Identification of negative thoughts.
-> 2.  Once identified they should be evaluated: are these thoughts actually accurate and helpful?
+1.  Identification of negative thoughts.
+2.  Once identified they should be evaluated: are these thoughts actually accurate and helpful?
 
 Other therapeutic practices [offer similar advice](https://chat.openai.com/share/4d082fae-5562-4f66-b524-4d9ecd0ac499). It would appear from the many examples given in the book that—as is so often the case when something is scaled up—the nuance of this two-step approach has been lost especially when these practices and approaches have seeped into the broader culture.
 
@@ -192,12 +172,12 @@ This methodology combines the ubiquity already mentioned...
 and the marination…
 
 > _Social-emotional exercises typically invite kids to marinate in a time when they were sad, scared, or vulnerable. One of the most popular social-emotional curricula, Second Step, for instance, instructs eighth graders to divulge the following:_
->
-> *   _“Have you ever stayed overnight in the hospital?”_
-> *   _“Has someone close to you died?”_
-> *   _“Have you ever lost a championship game or important competition?”_
-> *   _“Do you attend religious services?”_
-> *   _“Have you ever worried about the safety of a loved one?”_
+
+*   _“Have you ever stayed overnight in the hospital?”_
+*   _“Has someone close to you died?”_
+*   _“Have you ever lost a championship game or important competition?”_
+*   _“Do you attend religious services?”_
+*   _“Have you ever worried about the safety of a loved one?”_
 
 with yet one more pseudo-therapeutic aspect—doing it while part of a group:
 
@@ -297,7 +277,7 @@ Gessen’s story with Raffi is a perfect illustration of this concept. Had there
 
 Creating gradation in this space:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3de52c1c9951dd1c.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/825a11d0f19edd21.png)
 
 …encompasses most if not all of what Shrier is saying. Instead we have replaced gradation with an effort to wrap everything up into a single overarching anti-trauma effort. A one-size-fits-all approach that first attempts to stop negative experiences from happening—voices are never raised, punishment is never arbitrary, hands are never swung (see all the examples above). But, if a negative experience does slip through then the overwhelming effort they put towards avoiding negative experiences is now turned towards mitigating those experiences. They must be treated with all the care and seriousness a parent (or teacher) can muster. But again there is no gradation. In both cases it’s all or nothing. Parents and educators attempt to avoid all negative experiences but the moment one gets through their carefully crafted defenses it’s immediately considered to be traumatic. So how do we restore gradation?
 
@@ -305,7 +285,7 @@ Creating gradation in this space:
 
 A reminder of where we left off in Section III:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/a8adb60633c525bc.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/6d7de401820798cd.png)
 
 We’re seeing an ever-expanding circle of bad therapy which threatens to totalize all negative experiences as traumatic. The examples given above represent this impulse at its most extreme. There is an appealing simplicity to that approach which can be very attractive. Abandoning any sense of a continuum means that there are no difficult decisions about whether therapeutic intervention should be used. We can just use it all the time and everywhere. If there were no negative effects then that might actually work. But Shrier makes a compelling case that there are negative effects. The reason I started this review with my son’s own experience is that it bears this out. I think it would have been very easy to turn his experience into trauma.
 
@@ -315,7 +295,7 @@ How do we create a continuum where we treat negative experiences with the level 
 
 If you spend any time at all reading books about the various crises afflicting children you’ll come across the term resilience. It’s offered up everywhere as the one thing that will solve the various crises. But within these books advice on actually creating resilience is thin, and mostly consists of advice on what not to do. But the great thing about the framework we’ve extracted from Shrier’s book is that it naturally leads us to a definition and a methodology for creating resilience. It’s the quality that turns the potentially traumatic into the non-traumatic—resilience takes negative experiences and makes them normal. This is what turns the vast space between actual trauma on one side and the smallest bad event on the other into a continuum.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c8caf8b204ebe710.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/e4780bc7fdf3f2ef.png)
 
 This leads to a more muscular view of resilience than that found in most of the discussions, and as such this is the area where Shrier has attracted the most criticism. For example see this quote from a [review](https://thingofthings.substack.com/p/bad-therapy-review-fifties-dad-mental) by [Ozy Brennan](https://thingofthings.substack.com/):
 

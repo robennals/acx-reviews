@@ -1,19 +1,15 @@
 ---
-title: >-
-  Unsettled: What Climate Science Tells Us, What It Doesn’t, and Why It Matters
-  by Steven Koonin
+title: 'Unsettled: What Climate Science Tells Us, What It Doesn’t, and Why It Matters by Steven Koonin'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.177Z'
-slug: >-
-  unsettled-what-climate-science-tells-us-what-it-doesnt-and-why-it-matters-by-steven-koonin
-wordCount: 18623
+slug: unsettled-what-climate-science-tells-us-what-it-doesnt-and-why-it-matters-by-steven-koonin
+wordCount: 18615
 readingTimeMinutes: 83
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Science
@@ -136,8 +132,8 @@ Broadly speaking, Koonin’s book fits into the category of “climate skeptic�
 
 Writing a climate skeptic book is a difficult endeavor. Firstly, by definition, it’s going against the grain of the mainstream, which is never an easy task. Secondly, and more to the point here, climate change has such a significant potential impact that it's important that people who read Koonin's work gain a full understanding of climate change. He argues that the media has gone too far toward climate alarmism, so he pushes back on that. This is a reasonable and important thing to do; highlighting examples of overreach is valuable. However, in doing this, it’s easy to paint a picture that underplays the dangers of climate change, which would also be an unfortunate result. There’s always the potential for someone to point out conflicting evidence that, while it complicates the general public’s understanding, doesn't actually refute it. Going into this, two things were in my mind:
 
-> 1.  Does he state his case and back it up with evidence?
-> 2.  Is he careful not to overstate his case beyond the evidence?
+1.  Does he state his case and back it up with evidence?
+2.  Is he careful not to overstate his case beyond the evidence?
 
 ### What Is Unsettled?
 
@@ -171,9 +167,9 @@ It’s important to have clear and precise language when discussing technical to
 
 To be extra careful to avoid ambiguous language, Koonin uses terms like “human-caused climate change” to refer to climate responses to human activity. I will do the same in this review. Two things excluded by this definition are worth emphasizing:
 
-> 1.  Much of human behavior is not included in this. If people spread dry brush everywhere which causes a huge increase in wildfires, that would not be attributable to “human-caused climate change'' by this definition.  
->     
-> 2.  Natural climate change is not included. There is natural variation to the climate that generally moves much more slowly than human-caused climate change (except when an errant asteroid or unruly supervolcano interferes). Sea levels have always gone up and down throughout history. So if sea levels are rising today, it’s not necessarily because of human-caused climate change. If, however, human influences are causing sea levels to rise more (or less) quickly, then that is considered an effect of human-caused climate change.
+1.  Much of human behavior is not included in this. If people spread dry brush everywhere which causes a huge increase in wildfires, that would not be attributable to “human-caused climate change'' by this definition.  
+    
+2.  Natural climate change is not included. There is natural variation to the climate that generally moves much more slowly than human-caused climate change (except when an errant asteroid or unruly supervolcano interferes). Sea levels have always gone up and down throughout history. So if sea levels are rising today, it’s not necessarily because of human-caused climate change. If, however, human influences are causing sea levels to rise more (or less) quickly, then that is considered an effect of human-caused climate change.
 
 ### Sources of Information for Climate Change
 
@@ -193,11 +189,11 @@ I have this little ritual I do every New Year’s Day where I make predictions f
 
 Anyway, the point is, the globe is warming. Koonin says as much and includes a graph of global surface temperature anomalies that shows several independent analyses indicating warming temperatures which have impressive agreement. Below is a version of this [graph from climatecentral.org](https://www.climatecentral.org/gallery/graphics/global-surface-temperatures):
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/fd63c7e43e9fc5c8.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/44cfe6b450e0c1db.png)
 
 There is, however, more nuance to this than I had realized. I had always assumed everything was getting warmer — hotter days, less cold nights, etc. However, Koonin points to [a figure in chapter 6 of the 2017 Climate Science Special Report (CSSR)](https://science2017.globalchange.gov/chapter/6/) (reproduced below) that shows that it’s actually only cold days that are getting less cold. The warmest temperatures haven’t been increasing, and they were higher in the 1920s, 30s, and 40s.
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/f0c29f66535293fd.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/215d531ba6864c92.png)
 
 The notion that hot days are getting hotter is probably one of the most commonly repeated “facts” of human-caused climate change. I certainly thought it was the case. But Koonin shows that that isn’t completely true. I’ll admit, what I “knew” about warming temperatures was not so. The science of a warming globe is more nuanced than I had realized.
 
@@ -207,11 +203,11 @@ However, this only tells the story of the averages. Are we having more extreme t
 
 This means when you look at the ratio of record highs to lows, it appears to be increasing, but that’s because of the decrease in record lows. This is exactly how it was represented in the 2017 CSSR figure ES.5 (shown below). It uses running averages and looks at the ratio, which results in a graph that appears to suggest that more extreme high temperatures are happening when they aren’t.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/0490da6fd84cdab4.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/a1c11ffb990dc4bc.png)
 
 He and climatologist [John Christy](https://www.uah.edu/science/departments/atmospheric-science/faculty-staff/dr-john-christy) did their own review of record high and record low temperatures and found that the number of record high temperatures doesn’t appear to be increasing. He shows a graph of this in the book (shown below), but, unfortunately, it doesn’t seem like they have published it in any peer-review scientific journals. Also, these are only U.S. temperature records and it’s not clear that global records would show the same.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/8d30a185ec8012c3.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/f36ea255a5645fab.jpg)
 
 #### How Much Warming Is Anthropogenic?
 
@@ -231,7 +227,7 @@ Koonin does a good job of walking readers through how climate modeling is done. 
 
 At a high level, climate modeling works through an iterative process. The atmosphere of the Earth is divided into three-dimensional boxes over the entire planet. Over land, each box is about 100 km X 100 km and stacked in a pile 10–20 layers deep. Over water, the boxes are smaller, - typically 10 km X 10 km and stacked up to 30 layers high. Because the part of the atmosphere that affects weather is much less than 100 km high, each box is much longer and wider than it is tall, so the pile looks like a stack of pancakes. To start the modeling, scientists set the initial conditions of every box and use the laws of physics to calculate what the world will look like at the next step, which could be as small as a 10-minute increment. They do this a million times and voila! — they’ve got a climate model. The [image below from NOAA](https://www.gfdl.noaa.gov/climate-modeling/) shows a notional schematic of this process.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/44bffb8acd0d9fd8.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/a3d35325fde5996f.png)
 
 Although this is the state-of-the-art in climate modeling, its flaws are immediately apparent. Firstly, the grid sizes are huge — a single grid is almost as large as Connecticut. This is a problem because many important phenomena, such as clouds, storms, and tornadoes, are far smaller than a single grid, so they can’t be modeled with this process. Even things like temperature and humidity aren’t going to be a single value for such a large area.
 
@@ -243,7 +239,7 @@ All these variables give the modelers lots of little knobs to tune. This might m
 
 Researchers know their models have flaws, so they try to correct for all of these sources of error by ensembling results from many different models running many different simulations in the hopes that the errors roughly balance out. Koonin points to a figure, shown below, from [a paper on climate models](https://esd.copernicus.org/articles/11/737/2020/esd-11-737-2020-discussion.html) that shows 26 different CMIP6 models running a total of 127 simulations and smoothed with an 11-year running mean. You can see both that the individual models roughly track the observed data (black lines) but that they also vary rather widely, by about a degree. This certainly backs Koonin questioning our ability to predict temperature changes at the required level of precession.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5c2e3fc4acb3eee4.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/8fa644fe615e07cf.png)
 
 By explaining how modeling is done, Koonin instilled in me (what I hope is) a healthy skepticism for climate models. However, I think he goes too far when he says “Projections of future climate and weather events rely on models demonstrably unfit for the purpose.” So although I agree that many models are not as good as we’d like, I have many caveats.
 
@@ -251,15 +247,15 @@ Although I accept most of Koonin’s criticism of the modeling, that doesn’t m
 
 Also, how precise do these models need to be? Look at the [IPCC’s graph of global surface temperature increase by CO](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf)[2](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf) [emissions in the AR6 (Figure SPM.10)](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf). If you say the models are garbage and your 5-year-old nephew could do as well, I say break out the crayons and ask him to start making projections — it doesn’t take much insight to see that it’s going to keep going up.
 
-![surface temp](https://acximages.ennals.org/images/2022-book-reviews/ffc523b0bcbffc9a.png)
+![surface temp](https://acximages.ennals.org/images/2022-book-reviews/0b26e5b01bfb1e66.png)
 
 Another important climate model is that of sea-level rise. For many reasons, it’s very difficult to model, but take a look at this graph from the [U.S. Global Change Research Program](https://www.globalchange.gov/browse/indicators/global-sea-level-rise). We can debate the merits of various modeling methods, but the same applies here — we should all agree on what the overall trend is.
 
-![sea level](https://acximages.ennals.org/images/2022-book-reviews/d7bc6c9be8f54b70.png)
+![sea level](https://acximages.ennals.org/images/2022-book-reviews/1822e1fcf0b89e23.png)
 
 It’s important to note that just because the modeling is flawed, _doesn’t_ mean that bad effects aren’t going to happen. They could be as predicted, worse, better, completely different. We just don’t know for sure. For example, in a 2014 paper about [The accelerating rate of global change](https://link.springer.com/article/10.1007/s12210-014-0287-z) the authors show how a specific prediction of sea ice extent was wrong. The true result was that the sea ice melted 70 years _ahead_ of schedule, which shows that sometimes the models can _under_estimate the severity of climate change.
 
-![sea ice](https://acximages.ennals.org/images/2022-book-reviews/f935901f49c8eef6.png)
+![sea ice](https://acximages.ennals.org/images/2022-book-reviews/8897aa21f8c7aa61.png)
 
 ### Hurricanes and the Deep Dive into Scientific Literature
 
@@ -287,7 +283,7 @@ As we move forward, we have to be careful of how we evaluate the evidence. It’
 
 Just to dig into one such cycle for a moment, take a look at the Atlantic Multidecadal Oscillation (AMO) in the figure below. It shows that there is a natural warming and cooling cycle in the Atlantic Ocean with a period of 60–80 years. The AMO and other natural cycles have significant effects on hurricane activity. This means that we can’t just look for changes in hurricane data and attribute them to human-caused climate change. We’ll have to look for patterns of behavior that are _outside_ of natural variability.
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/bbc490a77eb14f02.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/5709b8f06ae44fe0.png)
 
 #### Investigating The Claim
 
@@ -335,7 +331,7 @@ In addition, the same authors published “[Tropical Cyclones and Climate Change
 
 I wanted to look at the data myself and fortunately, the author of the primary research the assessment cited, maintains a site, [climatlas.com](https://climatlas.com/tropical/), which keeps an up-to-date graph of global hurricane frequency over time. Here’s what it shows:
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/7090a3baf42878d2.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/bfff7bf9cade8931.png)
 
 In this graph, “Major Hurricanes” refers to categories 3–5 on the Saffir–Simpson scale (5 is the highest possible score), and “All Hurricanes” contains categories 1–5. It’s pretty clear that there are cyclical trends in the data here, but I don’t see any obvious overall upward or downward trend.
 
@@ -351,7 +347,7 @@ Following on that, the [2019 SROCC](https://www.ipcc.ch/site/assets/uploads/site
 
 We can also look at [part II of the 11-expert assessment](https://journals.ametsoc.org/view/journals/bams/101/3/bams-d-18-0194.1.xml) for their projection. Here’s Figure 1 from that paper:
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/b53cf0e1fa5c91c3.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/e57a9498aac942e0.png)
 
 The first thing I noticed is that the ranges are incredibly large. The range in every basin overlaps with 0% change, indicating that it’s possible absolutely nothing is changing at all in terms of frequency. And the uncertainties for the North Atlantic and North Indian basins are incredibly large. In both of those cases, the median change is a decrease, but there could also be an increase, and there’s about a 5% chance that the frequency doubles. It’s also interesting that the median value for global percent change is noticeably negative, somewhere around -15%. So it seems likely that hurricanes will decrease globally, but there’s a good chance they remain essentially unchanged.
 
@@ -375,7 +371,7 @@ There has been some evidence from modeling that there could be an increase in th
 
 Looking at [part II of the 11-expert assessment](https://journals.ametsoc.org/view/journals/bams/101/3/bams-d-18-0194.1.xml) again, it seems there’s a greater chance that these are increasing than there was for all hurricanes, but the median value is basically right at 0%. Looking at all the regions, it’s not at all clear that these values are changing.
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/ec0517519d437f1f.jpg)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/04f872cba22b4d3a.jpg)
 
 It was also interesting to see how the experts from the survey were divided on this issue. The paper said:
 
@@ -407,7 +403,7 @@ The lead author on that paper works at NOAA’s Geophysical Fluid Dynamics Labor
 
 The [Part II of 11-expert assessment](https://journals.ametsoc.org/view/journals/bams/101/3/bams-d-18-0194.1.xml) (of which the above author is a member) looked at 15 global estimates for hurricane intensity based on 2°C of anthropogenic global warming and found them all to be between 0–10% increases.
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/4992a50e3c9d8222.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/18981768550c4b66.png)
 
 The modal value here is a 4% increase. My takeaway is that a 4% or some other single-digit percentage increase in intensity over the next 80 years seems like our best guess.
 
@@ -419,17 +415,17 @@ But given all of the above, how did we get the [alarming statement from the 2014
 
 > The intensity, frequency, and duration of North Atlantic hurricanes, as well as the frequency of the strongest (Category 4 and 5) hurricanes, have all increased since the early 1980s. The relative contributions of human and natural causes to these increases are still uncertain. Hurricane-associated storm intensity and rainfall rates are projected to increase as the climate continues to warm.
 
-It was paired with this alarming graph of increasing Power Dissipation Index (PDI). PDI is an aggregate of hurricane frequency, intensity, and duration into a single index — you can think of it like total hurricane power over a season.![hurricane](https://acximages.ennals.org/images/2022-book-reviews/ce6b8d9af49664aa.png)
+It was paired with this alarming graph of increasing Power Dissipation Index (PDI). PDI is an aggregate of hurricane frequency, intensity, and duration into a single index — you can think of it like total hurricane power over a season.![hurricane](https://acximages.ennals.org/images/2022-book-reviews/6aa62517c113c216.png)
 
 Koonin says that the graph shown in the 2014 NCA is misleading. The graph of increasing PDI is just a subset of the [graph from this paper](https://journals.ametsoc.org/view/journals/clim/25/2/jcli-d-11-00146.1.xml), except that it has zoomed in on a specific region to highlight the increase. With the historical context, the growth in PDI seems to be within natural variability.
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/6ff7fb484acfce74.jpg)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/d3776ace24ac4316.jpg)
 
 When I first read the NCA statement, I had assumed that they were focusing on North Atlantic hurricanes because it’s a U.S.-based report and North Atlantic hurricanes have the largest impact on the U.S. I had also assumed that global trends were roughly following a similar trajectory. I realized now that that assumption is not correct — Atlantic hurricane behavior is quite anomalous compared to global trends.
 
 [Part I of the 11-expert assessment](https://journals.ametsoc.org/view/journals/bams/100/10/bams-d-18-0189.1.xml) split hurricane activity into regions, and you can see the different behavior for North Atlantic hurricanes here:
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/330a1d07e1368dfa.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/680528cbc76d5cc9.png)
 
 You can see the increase in Atlantic hurricane intensity here, but the various trends don't match my intuition for an effect driven by global warming. My thought is that if global warming were causing more intense hurricanes, they would be more intense everywhere (within some variability), not just in the Atlantic. But it seems that hurricane maximum intensity is decreasing in other basins and that there’s no clear overall trend. In terms of isolating human-caused climate change, this doesn’t seem like a clear signal to me.
 
@@ -489,7 +485,7 @@ That’s what we’re left with. The “balance of evidence suggests” anthropo
 
 We can also look at future projections from [part 2 of that survey](https://journals.ametsoc.org/view/journals/bams/100/10/bams-d-18-0189.1.xml) in this graph.
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/8b91b8ef56d6f2e0.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/8f241158bb689aa4.png)
 
 Similar to the present case for increased precipitation, this is the strongest evidence for a future projection we’ve seen so far.
 
@@ -499,7 +495,7 @@ Other reports, such as the [2019 SROCC](https://www.ipcc.ch/site/assets/uploads/
 
 Because the evidence for increased precipitation seems the strongest, I was curious about how much it mattered. How significant is precipitation in hurricane damage? So I found a study on the [cause of death in the United States directly attributable to Atlantic tropical cyclones, 1963–2012](https://journals.ametsoc.org/view/journals/bams/95/3/bams-d-12-00074.1.xml#). They show that storm surges, which are the temporary rises in water levels generated by a storm, are the most significant factor. But right behind them is rain, causing 27% of total deaths in the U.S. from hurricanes.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d02c2f6bfa0414ec.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/a19048414ceb812a.png)
 
 So any change in either total precipitation or the distribution of the precipitation should be taken very seriously.
 
@@ -509,7 +505,7 @@ But it’s not just the median we should be aware of. As well as understanding t
 
 Still, even though the bad scenarios are unlikely, we still have to consider them and continuously evaluate their probability. To see what the bad scenarios would look like, take a look at (a) in the figure below. This is from the website [Global Warming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/), which is maintained by the lead author of the 11-expert assessment and the 2010 article “[Tropical cyclones and climate change](https://www.nature.com/articles/ngeo779).” This is the type of thing that worries me.
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/c5964bbb05cc8000.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/8db9ea1ea2ff5964.png)
 
 The top graph shows hurricane PDI dramatically increasing, ending up with a 300% increase by 2100. How concerned should we be about this? Here are two paragraphs from the site that discuss this:
 
@@ -519,7 +515,7 @@ The top graph shows hurricane PDI dramatically increasing, ending up with a 300%
 
 Ultimately, it comes down to a question of how much increased greenhouse gases will affect Atlantic hurricane PDI. We know there is a tight connection between greenhouse gases and global mean temperature. The underlying physics is (relatively) straightforward and the evidence is solid. But that’s not the case for greenhouse gases and Atlantic hurricane PDI. Take a look at the graph below taken from the [same site](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/) and compare how Global Mean Temperature changes over time to that of Adjusted Hurricane Counts (it’s adjusted to correct for changes in our ability to detect hurricanes):
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/c8d02ccabbb38153.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/ecfcf80e770ee795.png)
 
 Global Mean Temperature is clearly rising, but to my eyes, the Adjusted Hurricane Counts isn’t. It was at a high point recently, but that looks entirely within natural variability to me. [The website](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/) goes into more detail, but the summary is (bolded in the original):
 
@@ -543,7 +539,7 @@ According to Koonin, the situation with tornadoes is entirely unclear. NOAA has 
 
 One thing Koonin does a wonderful job of is helping readers appreciate how weird the climate is. For reasons that are not yet clear, there seems to be a trend in tornadoes leaving the Central and Southern Great Plains and shifting towards the Midwest and Southeast. There are all sorts of counterintuitive effects going on. For example, he showed [Figure 9.3 from the 2017 CSSR](https://science2017.globalchange.gov/chapter/9/) (reproduced below):
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/7e5e8098691b0a0b.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/872a19f55b52d914.png)
 
 What’s the takeaway here? As the climate has warmed, fewer days have tornadoes. But those days are having more tornadoes. So, are the same-day tornadoes connected in some way? Is climate change causing tornadoes to travel in groups now? (What’s the group noun for a bunch of tornadoes? Herds? Caravans? Is it a whirlwind of tornadoes? Or are they more like lemurs — a conspiracy of tornadoes? OK, I’ll stop. But anyway, based on this figure, we need a word for it.)
 
@@ -565,7 +561,7 @@ However, we have seen precipitation get, as Koonin says, “lumpier.” A higher
 
 Drought is also something that isn’t happening on a national scale, but is certainly happening in some regions. Koonin points to the [EPA’s drought indicator](https://www.epa.gov/climate-indicators/climate-change-indicators-drought) to show that, when averaged across the contiguous U.S., there’s not a clear trend. However, he says “drought _is_ a serious issue for regions within the US, as it has been for millennia.”
 
-![](https://acximages.ennals.org/images/2022-book-reviews/f6e9ee8d126b3c3c.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/7da08fefce2b97ab.png)
 
 His main counter to the narrative that droughts are getting worse is that droughts have also been very bad in the past. So if the lumpiness of precipitation is causing droughts to become worse, it’s not worse in a “never before seen” way. Indeed, he quotes the IPCC AR5 as saying:
 
@@ -589,7 +585,7 @@ I took a positive message from this chapter. Stopping human-caused climate chang
 
 Sea levels are rising. Koonin says the continuous rise of sea levels is clear and shows it in a [plot of Global Mean Sea Level](https://www.cmar.csiro.au/sealevel/sl_hist_few_hundred.html).
 
-![](https://acximages.ennals.org/images/2022-book-reviews/32c524a2495012c5.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/6d1039d0544d52a6.png)
 
 But Koonin says the cause for the rise is not as clear:
 
@@ -599,7 +595,7 @@ Koonin claims that measuring sea level rise is difficult and disentangling effec
 
 He says it’s not clear how much effect humans are having and how sea level rise will change in the future. He thinks some of the climate reports, specifically the [2017 CSSR](https://science2017.globalchange.gov/chapter/12/), present a picture of sea levels rising at an increasing rate as the planet has warmed, but it’s not clear that this is causing the high rates. To see the trend more clearly, Koonin points to a graph of estimates of GMSL trends from [IPCC AR5](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter03_FINAL.pdf).
 
-![](https://acximages.ennals.org/images/2022-book-reviews/8ec59c761f5f3c1b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/cd96f443e2efa449.png)
 
 I agree with Koonin that there isn’t a clear pattern of the rate increasing as carbon emissions have grown. He says the sea level trend rises and falls with the Atlantic Multidecadal Oscillation (AMO), which has about a 60-year cycle. We’re at the top of a cycle right now, so he believes that it is “reasonable to expect that the rate will decline again during the next few decades.” I see his point but I think it’s hard to predict anything with confidence.
 
@@ -617,9 +613,9 @@ Koonin provides a tremendous amount of information in this book. For the parts I
 
 Although I agree with some of his summary, I object to a few aspects:
 
-> *   The use of the word “small” to describe human influences. The warming due to human influences might be small on some scales, but it’s not small relative to the amount that could cause disasters. For example, a 5°C temperature difference might be small compared to, say, the daily temperature variation, but it would be enough to significantly change the climate. Small implies insignificant, but human influences are significant. So maybe we could compromise with “small yet significant”?
-> *   Our observations and understanding aren't entirely insufficient. As we saw in the hurricane section, models suggested that we should see an increase in average hurricane intensity, and in 2020, [we did](https://www.pnas.org/doi/10.1073/pnas.1920849117). That certainly suggests these models are useful. [Other studies](https://www.nature.com/articles/nclimate2310) have found that historical models have made good estimates as well. I think Koonin is painting with too broad a brush when dismissing _all_ climate models.
-> *   He thinks about uncertainty in a way that I think is unwise given the subject matter. He highlights the uncertainty around an effect occurring, which makes it seem insignificant. But I think it’s better to highlight the uncertainty around the future state, i.e. whether the planet will continue to be comfortable for humans to live on. It’s much more significant that we don’t have certainty about the future state of the planet than whether a specific effect is occurring or not.
+*   The use of the word “small” to describe human influences. The warming due to human influences might be small on some scales, but it’s not small relative to the amount that could cause disasters. For example, a 5°C temperature difference might be small compared to, say, the daily temperature variation, but it would be enough to significantly change the climate. Small implies insignificant, but human influences are significant. So maybe we could compromise with “small yet significant”?
+*   Our observations and understanding aren't entirely insufficient. As we saw in the hurricane section, models suggested that we should see an increase in average hurricane intensity, and in 2020, [we did](https://www.pnas.org/doi/10.1073/pnas.1920849117). That certainly suggests these models are useful. [Other studies](https://www.nature.com/articles/nclimate2310) have found that historical models have made good estimates as well. I think Koonin is painting with too broad a brush when dismissing _all_ climate models.
+*   He thinks about uncertainty in a way that I think is unwise given the subject matter. He highlights the uncertainty around an effect occurring, which makes it seem insignificant. But I think it’s better to highlight the uncertainty around the future state, i.e. whether the planet will continue to be comfortable for humans to live on. It’s much more significant that we don’t have certainty about the future state of the planet than whether a specific effect is occurring or not.
 
 ## Cost of Climate Change
 
@@ -627,7 +623,7 @@ Although I agree with some of his summary, I object to a few aspects:
 
 In his book, Koonin also addresses the impacts climate change will have on the economy. He claims that “Global warming won’t have much impact on the economy.” To make his point, he presents this graph from [chapter 29 of the 2018 NCA](https://nca2018.globalchange.gov/chapter/29/) that shows how much impact various temperatures will have on the U.S. economy (note that these are in Fahrenheit, so 2–3 degrees Celsius would be 3.6–5.4 degrees Fahrenheit).
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/2d7d7b3ccaa8ed1c.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/70209262409d4a02.png)
 
 This graph shows estimates of the damage to U.S. GDP based on temperature change. To think about this in context we can again use the study that projected [between 2 and 3 degrees C of warming by 2100](https://iopscience.iop.org/article/10.1088/1748-9326/ac4ebf).
 
@@ -635,7 +631,7 @@ But Koonin examines more of a worst-case scenario estimate — imagining tempera
 
 How significant would this be? It’s certainly billions of dollars, but Koonin suggests we look at this number in context. The [U.S. GDP today is about $20 trillion](https://www.statista.com/statistics/263591/gross-domestic-product-gdp-of-the-united-states/). Projecting U.S. growth out to 2100 is highly uncertain, but estimated 2% annual growth. I thought some people might object to that so I added 1% growth as well. Here’s what U.S. GDP would look like under four scenarios:
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/5797773ceb40cdbe.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/e45e40793b71fedf.png)
 
 Looking at this graph, the total impact of climate change, even though it’s in the billions of dollars, looks small. As Koonin points out, another way to think about this is in terms of delay. With 2% economic growth, the U.S. will reach $95 trillion in GDP, 4.75 times more than today. If U.S. GDP is decreased by 4%, then it will eat up two years of economic growth, so we wouldn’t reach that level until 2102. Some people might object to a projection of 2% economic growth, so I added 1% growth, in which case GDP would be about $44 trillion and the impact of climate change would cost about four years of economic growth.
 
@@ -663,7 +659,7 @@ It’s not just in the U.S., but worldwide, the numbers don’t look that differ
 
 > Estimates agree on the size of the impact (small relative to economic growth), and 17 of the 20 impact estimates shown in Figure 10–1 are negative.
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/92094a5841842d47.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/f7f15e86a630abeb.png)
 
 The impacts are negative, but let’s think about these numbers. All but a couple of outliers predict less than 3% impact on welfare. This was, again, smaller than I had expected. I find it interesting that a couple of studies found a small amount of warming would have a positive impact on the economy. Koonin cites economist [Richard Tol suggesting that a small amount of warming will have a benefit up to about 2.25 degrees Celsius](https://www.sciencedirect.com/science/article/abs/pii/S0165188913000092).
 
@@ -679,7 +675,7 @@ If GDP alone isn’t the best measure, perhaps to better understand the situatio
 
 Koonin suggests we look at this in context. He points to the U.S. Department of Agriculture’s Economic Research Service, which [graphed crop prices over time](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=76964).
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/2e88e558c1b129a8.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/34b8dce691487a4a.png)
 
 Even if you think about the highest estimate of 23%, it looks like the prices have dropped by more than that in the last decade. I agree with Koonin that the larger context is useful. The summary from the report appears alarming, but imagine if it had instead read “leading to higher food prices and increased risk of food insecurity and hunger, like it was in 2010.”
 
@@ -689,13 +685,13 @@ Koonin also points out that there’s a clear downward trend for all crops in th
 
 Koonin argues that the scientific understanding of climate change does not support the grave outlook of public opinion. We’ve talked a lot about climate science; now let’s look at public opinion. In 2021, a survey of 10,000 young people (ages 16–25) in ten countries was [published in The Lancet](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3918955). This survey was released after Koonin’s book was published, but I think it’s relevant here because it illustrates a point he was getting at. The survey asks a variety of questions about climate anxiety, and I’ve highlighted a section below.
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/6fc986c5ab60a532.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/6ed52bfce1b9644d.png)
 
 In the survey, 56% of respondents reported that “humanity is doomed.” I find this both terrifying and sad that so many people believe this. I also think it’s shocking that 39% of people are hesitant to have children because of climate change. It’s prudent to be skeptical of polling data, but even given healthy skepticism, these numbers seem incredibly high to me.
 
 Understanding public opinion is difficult. I’m having trouble reconciling these results with those from the [Yale Climate Opinion Maps 2020](https://climatecommunication.yale.edu/visualizations-data/ycom-us/), which says that only 55% of adults believe “most scientists think global warming is happening.”
 
-![climate](https://acximages.ennals.org/images/2022-book-reviews/cbae1e48398c275d.png)
+![climate](https://acximages.ennals.org/images/2022-book-reviews/0d0131b2aa32dfe0.png)
 
 The evidence for global warming is overwhelming. The evidence for humanity’s certain doom is nonexistent. Perhaps most of the difference can be chalked up to the generational difference in the survey population. Whatever it is, these are the concerns and misunderstandings that Koonin is attempting to combat again with this book.
 
@@ -735,15 +731,15 @@ Koonin, quoting the IPCC, lays out what we need to do to reach the Paris Agreeme
 
 To get a sense for the feasibility of eliminating CO2 emissions, Koonin looks at the [trends in global CO2 emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions) using a graph similar to the one below. The graph he shows is cumulative but both tell the same story: The 20th century contained explosive growth in CO2 emissions that does not appear to be slowing down.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a8e330b7d273bf04.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/ca169624e5aba7fd.png)
 
 It’s hard to look at this graph and think it’s going to go to zero by 2050. In fact, it doesn’t even look like it’s flattening out anytime soon. But we have more than idle speculation — Koonin points to the U.S. Energy Information Agency (EIA), which [projects continuing increases in global energy consumption](https://www.eia.gov/todayinenergy/detail.php?id=42342).
 
-![](https://acximages.ennals.org/images/2022-book-reviews/513040eb758845d7.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/568052269b94775b.png)
 
 This is total energy, which is not necessarily CO2 emitting. The [EIA also separates consumption by energy source](https://www.eia.gov/todayinenergy/detail.php?id=42342), which shows that even if renewables continue to increase at a rapid rate, we will still consume even more carbon-emitting forms of energy in 2050 than we do today.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a7a08cc78a6a13a4.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/b37898f3ff960c27.png)
 
 He provided another fact that starkly demonstrated how much of a chimera, to use his word, ending carbon emissions is. The COVID-19 pandemic created the biggest shock and reduction in economic activity in decades. It shut down restaurants, bars, and activities across the world in a way that no government policy ever would have been able to (at least in a democracy). But despite all of the restrictions and reductions to our way of life, global CO2 emissions in the first half of 2020 were only down 8.8 percent compared to the same period in 2019.
 
@@ -837,7 +833,7 @@ Koonin started the chapter on hurricanes with a headline from [a Forbes article]
 
 Fortunately, this, and every other doomsday hurricane prediction, does not have to be true. Whether hurricanes are “getting worse” is a function of, among other things, the amount of damage they cause. This will depend, in many ways, on actions we take. For example, take a look at U.S. hurricane fatalities as recorded in [An Analysis of Coastal and Inland Fatalities in Landfalling US Hurricanes](https://www.researchgate.net/publication/227282076_An_Analysis_of_Coastal_and_Inland_Fatalities_in_Landfalling_US_Hurricanes):
 
-![hurricane](https://acximages.ennals.org/images/2022-book-reviews/bdd679ad2c4b9dcf.png)
+![hurricane](https://acximages.ennals.org/images/2022-book-reviews/0dc7cb4a9aab5f68.png)
 
 The number of people killed by hurricanes has been generally going down. All of this has happened as the world has been heating up. We can reduce fatalities even as the world heats up. The major exception to the downward trend is the 1,963 deaths caused by Hurricane Katrina, which makes up nearly all of the deaths in the 2000s. But this is a story of human choices - these deaths were not inevitable. Indeed, they were preventable. In New Orleans, levees hadn’t been maintained and they failed at less than their design tolerances. What went wrong in New Orleans wasn’t the hurricane, it was the [fatal engineering flaws in the city’s flood protection system](https://www.nytimes.com/2015/05/24/us/decade-after-katrina-pointing-finger-more-firmly-at-army-corps.html).
 

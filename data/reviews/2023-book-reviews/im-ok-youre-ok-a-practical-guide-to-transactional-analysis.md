@@ -1,22 +1,22 @@
 ---
-title: "I'm Ok, You're Ok: A practical guide to Transactional Analysis"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'I''m Ok, You''re Ok: A practical guide to Transactional Analysis'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "im-ok-youre-ok-a-practical-guide-to-transactional-analysis"
-wordCount: 2709
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: im-ok-youre-ok-a-practical-guide-to-transactional-analysis
+wordCount: 2706
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Psychology
   - Society
 ---
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8a7225d7270dc7ce.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/928dab1b97cc3451.png)
 
 ## Introduction
 
@@ -42,22 +42,22 @@ The basic unit of Transactional Analysis is the transaction: a unit of social in
 
 The three ego states are too a basic concept of the theory and have very specific definitions. Two of them are literal recordings of experienced internal and external events, and one is a probabilistic machine and the recording of its observations and conclusions. Harris proceeds to describe in detail the origin of each ego state and how it's defined. The two first are the Child and the Parent, both consisting of memories:
 
-> *   The Parent: a record of all external events a child experiences in their early years. Everything the child's parent says and does is internalized, and their words literally echo. The young child records such experiences without editing or correcting, not having the ability to question what they see. All kinds of stories, images, nonverbal communication, how-to guides, prejudices etc. are stored in the Parent. Unpleasant and inconsistent recordings are played less often - repression and weakening of the Parent data. I identify this also contains one’s priors  regarding the outside world, but the concept of interjections is also very important.
-> *   The Child: a record of all the internal events: the responses the young child has to what they see and hear. In the Child are recorded the young child's feelings and fears, their concept of who they are, what they need, etc. Since the child has lots of needs and is unable to fulfill them by themselves, here is recorded a basic negative feeling: "I'm not OK". The child recordings are replayed whenever the person feels cornered or afraid, the child takes over and the person relives their primary depression. Also recorded are positive feelings of comfort and joy: "OK recordings". Basically the priors regarding who you are, which might have too much influence in times of fear.
+*   The Parent: a record of all external events a child experiences in their early years. Everything the child's parent says and does is internalized, and their words literally echo. The young child records such experiences without editing or correcting, not having the ability to question what they see. All kinds of stories, images, nonverbal communication, how-to guides, prejudices etc. are stored in the Parent. Unpleasant and inconsistent recordings are played less often - repression and weakening of the Parent data. I identify this also contains one’s priors  regarding the outside world, but the concept of interjections is also very important.
+*   The Child: a record of all the internal events: the responses the young child has to what they see and hear. In the Child are recorded the young child's feelings and fears, their concept of who they are, what they need, etc. Since the child has lots of needs and is unable to fulfill them by themselves, here is recorded a basic negative feeling: "I'm not OK". The child recordings are replayed whenever the person feels cornered or afraid, the child takes over and the person relives their primary depression. Also recorded are positive feelings of comfort and joy: "OK recordings". Basically the priors regarding who you are, which might have too much influence in times of fear.
 
 Harris claims that the Parent and the Child recordings are complete at 5 years old: the child has already experienced all sorts of emotions, and any new events are just a reinforcement of previous recordings. However, a tertiary, more complex ego state appears when the child becomes able to do things by themself: the Adult.
 
-> *   The Adult: a record of data collected through hypothesis testing. The child figures out the world by experiment. Harris calls the Adult a "data-processing computer" that checks if things really are true and makes probability estimates. The Adult can be blocked in situations of conflict, but when it's free and not lagged by the past, it's able to implement creativity.
+*   The Adult: a record of data collected through hypothesis testing. The child figures out the world by experiment. Harris calls the Adult a "data-processing computer" that checks if things really are true and makes probability estimates. The Adult can be blocked in situations of conflict, but when it's free and not lagged by the past, it's able to implement creativity.
 
 And that's the entirety of the concept of the psyche that's studied by Transactional Analysis.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/8256227bed742793.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/5cd49a4f15f46146.png)
 
 In order to review the interjections contained in the Parent, you can start listing them off and they will come naturally as they're all stored in the same place.
 
 The book then proceeds to define the four life positions, which are answers to the question "AM I OK?" and "ARE YOU OK?" These are related to the child's development and Piaget's stages. For Harris, the person is born suffering and starts with the position "I'M NOT OK, YOU'RE OK". The boy looks at how their parents are OK, and wonders why he’s fundamentally NOT OK - what’s missing from him, and what does he need to do in order to become OK?  The position can change to any of the other positions, depending on how much stroking the young child gets from the world.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/07fb50ac91632a7b.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/973df450ee85430f.png)
 
 Harris describes I'M OK - YOU'RE NOT OK as a position of self-stroking that can lead to cruelty, sometimes with a mask of politeness.
 
@@ -67,7 +67,7 @@ The ideal position, I'M OK, YOU'RE OK, can only be achieved by using the Adult t
 
 Harris then describes how one can change to a better position. One step is to analyze the transactions in their lives, identifying which ego state is activated at which time, and what is the source of our responses. He then describes the different types of transactions. Same-level transactions are transactions where both people use the same ego-states. Other types of transactions are defined based on which ego states are used. To represent the ego-states, a three-circle diagram is used. Many examples of different transactions are given, which make for some quite fun scenarios and illustrations.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/dbbee2f096fadb43.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/ccf96707c048f889.png)
 
 Educational material on TA can be pretty fun on its own, as can be seen on this flipbook by [TalkinTA](https://talkingta.com.au/)
 

@@ -1,16 +1,16 @@
 ---
-title: "The Culture of Narcissism by Christopher Lasch"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Culture of Narcissism by Christopher Lasch
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-culture-of-narcissism-by-christopher-lasch"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-culture-of-narcissism-by-christopher-lasch
 wordCount: 3127
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Society
   - Politics
@@ -31,8 +31,7 @@ Lasch takes psychoanalytic theory very, very seriously. He is clear that narciss
 
 This is frustrating. It also undermines his more credible argument about the structural impact of hyperliberalism: if the one true mechanism for how people become narcissists is actually something about bad breasts and absent patriarchs, what does it matter if, say, schools are dysfunctional? And it adds long passages of boring and entirely unsubstantiated psychoanalytic digression that you have to skip through to stay sane between the complaints about the decline of Man.
 
-*\*\*
-
+* * *
 Complaint No. 1 might be summed up as ‘everyone is a bit useless’:
 
 ‘Having surrendered most of his technical skills to the corporation, [the average American] can no longer provide for his material needs. As the family loses not only its productive functions but many of its reproductive functions as well, men and women no longer manage to raise their children without the help of certified experts. The atrophy of older traditions of self-help has eroded everyday competence, in one area after another, and has made the individual reliant on the state, the corporation, and other bureaucracies.’
@@ -63,16 +62,15 @@ This is only part of the picture, though. The main problem for Lasch is that par
 
 Overall, the issue isn’t the lack of a cultural code or superego so much as that we now have the wrong, bad sort: ‘The decline of institutionalised authority in an ostensibly permissive society does not, however, lead to a “decline of the superego” in individuals. It encourages instead the development of a harsh, punitive superego that derives most of its psychic energy, in the absence of authoritative social prohibitions, from the destructive, aggressive impulses within the id.’ By this I assume Lasch foresaw people screeching at each other on Twitter, which is generally a good demonstration of everything that is bad both in _The Culture of Narcissism_ and in the world more generally.
 
-*\*\*
-
+* * *
 If there’s a swathe of people online oversharing emotional content that probably won’t serve them well long-term, regularly picking fights with other people and posting stuff that crudely signals certain status-signifiers, that sounds as much like a bunch of five-year-olds jostling for status in the playground as pathological narcissism.
 
 And an alternative to saying, ‘ah, that may be true but that’s what you get from arresting the correct individuation of the ego’ is to wonder if the reason people seem to act like increasingly like five-year-olds is that five-year-olds don’t have much executive function. Similarly, if lots of people are inclined towards self-gratification, lack emotional boundaries and underperform intellectually because learning involves too much effort, maybe that’s also more of an executive function problem than a literal pathological narcissism problem. Albert Ellis, the progenitor of Rational Emotive Behavioural Therapy, a type of CBT, might have described Lasch’s various complaints as examples of low frustration tolerance – some examples from the Frustration Discomfort Scale via [Wikipedia](https://en.wikipedia.org/wiki/Low_frustration_tolerance):
 
-> 1.  Emotional intolerance, involving intolerance of emotional distress.
-> 2.  Entitlement, involving intolerance of unfairness and frustrated gratification.
-> 3.  Discomfort intolerance, involving intolerance of difficulties and hassles.
-> 4.  Achievement, involving intolerance of frustrated achievement goals.
+1.  Emotional intolerance, involving intolerance of emotional distress.
+2.  Entitlement, involving intolerance of unfairness and frustrated gratification.
+3.  Discomfort intolerance, involving intolerance of difficulties and hassles.
+4.  Achievement, involving intolerance of frustrated achievement goals.
 
 These are the same problems that Lasch identifies; Ellis’s [three core irrational beliefs](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy#Core_beliefs_that_disturb_humans) fit Lasch’s diagnosis of narcissism perfectly, but Ellis doesn’t even see them as pathological, just as a very human tendency to think unreasonably when circumstances allow. Ellis’s solution to this would be that people need to be a bit more reasonable and get better at tolerating frustration, and that this can be learned in therapy. If Lasch is correct in observing a society-level tendency towards these behaviours, it’s a similar complaint in many ways to _[The Coddling of the American Mind](https://www.theatlantic.com/magazine/archive/2015/09/the-coddling-of-the-american-mind/399356/)_ which sees them through a CBT lens. And if that is the case, maybe a postliberal-style society-level solution is a more workable idea than everyone being in therapy, even if it is a less batshit form of therapy than psychoanalysis.
 

@@ -1,16 +1,16 @@
 ---
-title: "The Power of Glamour by Virginia Postrel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Power of Glamour by Virginia Postrel
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-power-of-glamour-by-virginia-postrel"
-wordCount: 3672
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-power-of-glamour-by-virginia-postrel
+wordCount: 3641
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Psychology
   - History
@@ -37,17 +37,17 @@ How did glamour do that?  By making Michaela envious?  By slashing her self-este
 
 Here is my outline of Postrel’s model and vocabulary:
 
-> *   Glamour is what connects an audience (which can be an individual) with a “totem” (image, concept, or some other item including a “celebrity”).
->
-> *   For an audience to be susceptible to glamour, the audience must have an “inarticulate longing.” An inarticulate desire.  Let’s call it the “ID.” Maybe for Michaela it is to rise out of her impoverished situation in Sierra Leone.
->
-> *   What Postrel calls “nonverbal…images, concepts, and totems” I will simply call the “totem.”  Postrel insists it must be nonverbal.  Concepts made up of a bunch of words must be “perceived and remembered as emotionally resonant snapshots” in order to become a totem.  In the Michaela example, the totem is the photograph.
->
-> *   Postrel tells us that the word “glamour” comes from an old Scots word meaning “magic spell.” To Postrel, this is an apt description of the process connecting an audience and a totem.  Various phenomena  (some of which may be consciously designed by skilled users of specific techniques) can intensify and draw out the longing that the audience possesses. The key is to bind “image and desire.”  
->
-> *   The totem succeeds only if the audience is “receptive.”  This means the totem must represent a “desire fulfilled,” and must be sufficiently mysterious to encourage projection by the audience into the totem. Of course, intellectually we know that there are “flaws, costs, frictions” required to actually “get there,” and others that may result from actually ”getting there” (“there” being the fulfilled state).  These things must be hidden from, or willfully ignored by, the audience.  Michaela’s photo likely contained no information regarding the extraordinary lengths she would have to go to in order to achieve her goal.  If it had, it is likely she would have ignored it.
->
-> *   When the audience and a totem are connected in this way, the audience experiences an emotional reaction which has a potentially important impact on its behavior.
+*   Glamour is what connects an audience (which can be an individual) with a “totem” (image, concept, or some other item including a “celebrity”).
+
+*   For an audience to be susceptible to glamour, the audience must have an “inarticulate longing.” An inarticulate desire.  Let’s call it the “ID.” Maybe for Michaela it is to rise out of her impoverished situation in Sierra Leone.
+
+*   What Postrel calls “nonverbal…images, concepts, and totems” I will simply call the “totem.”  Postrel insists it must be nonverbal.  Concepts made up of a bunch of words must be “perceived and remembered as emotionally resonant snapshots” in order to become a totem.  In the Michaela example, the totem is the photograph.
+
+*   Postrel tells us that the word “glamour” comes from an old Scots word meaning “magic spell.” To Postrel, this is an apt description of the process connecting an audience and a totem.  Various phenomena  (some of which may be consciously designed by skilled users of specific techniques) can intensify and draw out the longing that the audience possesses. The key is to bind “image and desire.”  
+
+*   The totem succeeds only if the audience is “receptive.”  This means the totem must represent a “desire fulfilled,” and must be sufficiently mysterious to encourage projection by the audience into the totem. Of course, intellectually we know that there are “flaws, costs, frictions” required to actually “get there,” and others that may result from actually ”getting there” (“there” being the fulfilled state).  These things must be hidden from, or willfully ignored by, the audience.  Michaela’s photo likely contained no information regarding the extraordinary lengths she would have to go to in order to achieve her goal.  If it had, it is likely she would have ignored it.
+
+*   When the audience and a totem are connected in this way, the audience experiences an emotional reaction which has a potentially important impact on its behavior.
 
 That is a pretty abstract description. The model doesn’t generate statistically verifiable predictions.  And frankly,  it wasn’t clear to me that this model held much promise for telling us much outside of the traditional concept of glamour (which, as I’ve already explained, interests me little).  Sure,  maybe it can tell us a bit about inspirational stories like Michaela’s.  But those are rare situations – how much is there to really learn from it?
 
@@ -79,15 +79,15 @@ Similarly,  Postrel describes the photo of a glamorous woman tennis player gazin
 
 In example after example we learn about a very large number of “totems.”  Also, we are introduced to a much smaller but still significant number of techniques that are used to link them to IDs. But, as far as I can tell, we see basically only two or three actual IDs, which are sometimes hard to distinguish from one another.  
 
-> *   Michaela herself describes her ID as the desire for “freedom…hope…trying to live a little longer.”  She wanted a big change.
-> *   Movies like _All the President’s Men_ and TV shows like _CSI_ made young people select specific careers which had been dramatized as glamorously important.  They wanted to “make a difference,” to do “important” things.
-> *   Did you know that nuns were glamorous in the 1950s, complete with nun movies and even nun dolls?  It was all about “sacrificial glamour,” they say.  Make a difference.  Be important.
-> *   Aviators.  This is a remarkably persistent and widespread glamour totem.  Does everyone want to be a pilot?  I don’t think so. More likely it's about escape and movement in general.
-> *   A Chinese kid in the 1970s glamorized an American candy wrapper, which he viewed as a totem leading him to actually move to America.  Escape.  Movement.  Change.
-> *   The glamour of central planning!  This was more surprising to me than even the nuns.   In the 1930’s and 40’s, planning was all the rage.  “It could be democratic or fascist, socialist or corporatist, communist or technocratic.”  But everywhere it was the essence of “modern.”  Planning was even the message of the 1939 New York World’s Fair, which set out to tell “the story of this planned environment, this planned industry, this planned civilization.”  Perhaps movement is still the underlying ID - a movement to a utopian future.  (No wonder Hayek had trouble gaining traction.)
-> *   Two real estate ads are compared.  They look almost identical.  Similarly posed models look out a window.  But one of the ads is a pitch to suburbanites to move into the city.  The other, a pitch to New Yorkers to move to where they can “escape from the noise.”  Again, movement and change, even if the specific objectives of the ads are opposite.  
-> *   Barack Obama is a classic “glamorous” politician. His first attempt at the presidency involved a campaign of largely undefined “change.”  Voters projected onto him the changes they wanted. (By the way, Postrel’s discussion of the difference between glamour, epitomized by Obama, and charisma, epitomized by Bill Clinton, is especially interesting.  Bottom line: glamour is what you need to campaign.  Charisma is what you need to govern.)
-> *   Martial glamour, the “glamour of battle,” says Postrel, is perhaps glamour’s most ancient form of all. What ID does it appeal to?  “Make a difference,” “be important.” But like all glamorous items, it ebbs and flows in its influence.  The martial glamour of the pre-World War I period apparently morphed (at least among the allies) into pacifist glamour in the pre-World War II period.  Perhaps not the best timing.
+*   Michaela herself describes her ID as the desire for “freedom…hope…trying to live a little longer.”  She wanted a big change.
+*   Movies like _All the President’s Men_ and TV shows like _CSI_ made young people select specific careers which had been dramatized as glamorously important.  They wanted to “make a difference,” to do “important” things.
+*   Did you know that nuns were glamorous in the 1950s, complete with nun movies and even nun dolls?  It was all about “sacrificial glamour,” they say.  Make a difference.  Be important.
+*   Aviators.  This is a remarkably persistent and widespread glamour totem.  Does everyone want to be a pilot?  I don’t think so. More likely it's about escape and movement in general.
+*   A Chinese kid in the 1970s glamorized an American candy wrapper, which he viewed as a totem leading him to actually move to America.  Escape.  Movement.  Change.
+*   The glamour of central planning!  This was more surprising to me than even the nuns.   In the 1930’s and 40’s, planning was all the rage.  “It could be democratic or fascist, socialist or corporatist, communist or technocratic.”  But everywhere it was the essence of “modern.”  Planning was even the message of the 1939 New York World’s Fair, which set out to tell “the story of this planned environment, this planned industry, this planned civilization.”  Perhaps movement is still the underlying ID - a movement to a utopian future.  (No wonder Hayek had trouble gaining traction.)
+*   Two real estate ads are compared.  They look almost identical.  Similarly posed models look out a window.  But one of the ads is a pitch to suburbanites to move into the city.  The other, a pitch to New Yorkers to move to where they can “escape from the noise.”  Again, movement and change, even if the specific objectives of the ads are opposite.  
+*   Barack Obama is a classic “glamorous” politician. His first attempt at the presidency involved a campaign of largely undefined “change.”  Voters projected onto him the changes they wanted. (By the way, Postrel’s discussion of the difference between glamour, epitomized by Obama, and charisma, epitomized by Bill Clinton, is especially interesting.  Bottom line: glamour is what you need to campaign.  Charisma is what you need to govern.)
+*   Martial glamour, the “glamour of battle,” says Postrel, is perhaps glamour’s most ancient form of all. What ID does it appeal to?  “Make a difference,” “be important.” But like all glamorous items, it ebbs and flows in its influence.  The martial glamour of the pre-World War I period apparently morphed (at least among the allies) into pacifist glamour in the pre-World War II period.  Perhaps not the best timing.
 
 If the deep ID we all share is just a longing to transform ourselves or our environment, the totem can be anything. Perhaps within some very broad limits, but still, essentially the totem is random. Countless very distinct goals are consistent with “change!” or “be important!.”  It doesn’t have to be based on any actual immediate need.  It is a goal unto itself.  It is devoid of reason.  Reason will be used to _achieve_ that goal, but not to _generate_ it.  It was generated by the mysterious, information-deficient totem.  Was it a rational calculation that led Michaela to set the goal of specifically becoming a ballerina?  That’s a stretch. Was she rational in deciding all the steps to get there, to become a ballerina once the goal was set?  I’m guessing mostly yes.
 
@@ -115,16 +115,16 @@ Except, does that work for the glamorous things in my life?   How do I test whet
 
 Here are some suggestions I would make based on my reading of this fine book:
 
-> 1.  Look for “glamour driven behavior” in yourself. Using Postrel’s definition.  It can be humbling.
->
-> 2.  Resign yourself to the fact that society as a whole will always be, in large part, random. Not just individuals.  Groups too, since the power of imitation amplifies the power of glamour.  It will often look insane.  Postrel tries to be an optimist about it all.   “Glamour may be an illusion, but it reveals the truth about what we desire.”  Really?  Or does it just reveal the truth that we have predominantly random, unarticulated desires that we are always chasing? Don't get me wrong.  Postrel is not simplistic about this.  She sees the downside too, touching on everything from the trap of overspending on “glamorous” items, to the role of glamour among Nazis, terrorists and gangsters. But in the end, Postrel emphasizes the upside.   The whole thing rattles me more than her.
->
-> 3.  Since nothing seems to escape the reach of artificial intelligence these days, do we need to consider what AI advances will do in the world of glamour?  Of course!  I have no contribution to the debates over whether there is some essentially human ability that AI will never be able to conquer.  But what is clear is that more and more human reasoning activities are becoming unnecessary.  Except for the pure pleasure of thinking (a pleasure which not everyone shares), AI reduces the number of things you _need_ to think about.  Given that, all I am left with are questions:  Since AI, like imitation, is a kind of thinking-substitute, will AI lead people to engage in _less_ imitation?  What if we spend ever more time applying our AI tools in the service of random glamorous totems that change arbitrarily?  What would that kind of world look like?  
->
-> 4.  If you must, go ahead and learn the principles of manipulating others through the techniques of glamour.  Use the book as a how-to manual. It will explain black and white vs. color photos.  Still photos vs video.  Sunglasses.  Stuff like that.  However,  I’m skeptical about how much one can do with this.  Given that I see randomness at its core,  I wonder if anyone can forecast trends or turning points in Postrelian glamour.  Is it like the stock market,  where good salespeople thrive by telling you what stocks to buy, but in reality their forecasting skills are nonexistent?
->
-> 5.  Postrel’s suggestion is to use your own episodes of glamour driven behavior for the “life-enhancing inspiration” that they are,  but to try to maintain your reasoning abilities, to try to remember “what might be left out.”  Yes, but this is hard.  First,  the shiny thing you find glamorous is inherently nonrational.  And second, trying to be rational will often just make you rationalize what you’ve already decided. But it doesn’t hurt to try.
->
-> 6.  Finally, be a bit more tolerant of glamour driven behavior in others.  I have always been indifferent to or even looked down on traditionally glamorous things.  So much of it seems like wasteful conspicuous consumption and senseless status-signaling.  Of course, there is much of that.  But when you see people under its spell, they aren’t always trying to elevate themselves above you, even if that’s how it feels.  They might just be trying to elevate themselves, period.  They might succeed, or they might fail. Perhaps some understanding - even sympathy at times - is called for.  Remember, you probably have your own IDs.
+1.  Look for “glamour driven behavior” in yourself. Using Postrel’s definition.  It can be humbling.
+
+2.  Resign yourself to the fact that society as a whole will always be, in large part, random. Not just individuals.  Groups too, since the power of imitation amplifies the power of glamour.  It will often look insane.  Postrel tries to be an optimist about it all.   “Glamour may be an illusion, but it reveals the truth about what we desire.”  Really?  Or does it just reveal the truth that we have predominantly random, unarticulated desires that we are always chasing? Don't get me wrong.  Postrel is not simplistic about this.  She sees the downside too, touching on everything from the trap of overspending on “glamorous” items, to the role of glamour among Nazis, terrorists and gangsters. But in the end, Postrel emphasizes the upside.   The whole thing rattles me more than her.
+
+3.  Since nothing seems to escape the reach of artificial intelligence these days, do we need to consider what AI advances will do in the world of glamour?  Of course!  I have no contribution to the debates over whether there is some essentially human ability that AI will never be able to conquer.  But what is clear is that more and more human reasoning activities are becoming unnecessary.  Except for the pure pleasure of thinking (a pleasure which not everyone shares), AI reduces the number of things you _need_ to think about.  Given that, all I am left with are questions:  Since AI, like imitation, is a kind of thinking-substitute, will AI lead people to engage in _less_ imitation?  What if we spend ever more time applying our AI tools in the service of random glamorous totems that change arbitrarily?  What would that kind of world look like?  
+
+4.  If you must, go ahead and learn the principles of manipulating others through the techniques of glamour.  Use the book as a how-to manual. It will explain black and white vs. color photos.  Still photos vs video.  Sunglasses.  Stuff like that.  However,  I’m skeptical about how much one can do with this.  Given that I see randomness at its core,  I wonder if anyone can forecast trends or turning points in Postrelian glamour.  Is it like the stock market,  where good salespeople thrive by telling you what stocks to buy, but in reality their forecasting skills are nonexistent?
+
+5.  Postrel’s suggestion is to use your own episodes of glamour driven behavior for the “life-enhancing inspiration” that they are,  but to try to maintain your reasoning abilities, to try to remember “what might be left out.”  Yes, but this is hard.  First,  the shiny thing you find glamorous is inherently nonrational.  And second, trying to be rational will often just make you rationalize what you’ve already decided. But it doesn’t hurt to try.
+
+6.  Finally, be a bit more tolerant of glamour driven behavior in others.  I have always been indifferent to or even looked down on traditionally glamorous things.  So much of it seems like wasteful conspicuous consumption and senseless status-signaling.  Of course, there is much of that.  But when you see people under its spell, they aren’t always trying to elevate themselves above you, even if that’s how it feels.  They might just be trying to elevate themselves, period.  They might succeed, or they might fail. Perhaps some understanding - even sympathy at times - is called for.  Remember, you probably have your own IDs.
 
 [Here's the book.](https://read.amazon.com/kp/embed?asin=B00A25EZ72&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_7W6SW3ZA5CAX64QV0HN1)

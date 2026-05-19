@@ -1,16 +1,16 @@
 ---
-title: "Power, Sex, Suicide"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Power, Sex, Suicide
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "power-sex-suicide"
-wordCount: 5383
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: power-sex-suicide
+wordCount: 5384
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Biology
   - History
@@ -57,7 +57,7 @@ All of this is a pretty big deal.  Especially the genome size bit.  For a bacter
 
 So in order to get larger cells with more complex genomes we needed to find a way to let cells get out of the geometric trap they were in, but that’s easier said than done.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a4322296d5a3d86d.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/15e48b1e60b8e2c7.png)
 
 _From_ _[Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life)__, of course_
 
@@ -83,7 +83,7 @@ For how this happened the book argues for something called the hydrogen hypothes
 
 As you might expect, in the nearly two decades since the book came out we’ve learned a lot on the topic especially given how quickly the technology behind reading genomes has been advancing.  When the book was written we’d already nailed down the bacterial ancestor of our mitochondria as a member of the_Rickettsiales_ order, a relative of the bacteria that invades our cells to cause typhus.  But we’ve made a lot of progress on the archaeal ancestor, in 2015 some samples from sediment near a hydrothermal vent called Loki’s Castle revealed a new group of archaea named after norse gods which is the closest relation to eukaryotes yet found, containing genes for proteins that had only ever been seen in Eukaryotes before.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2e8080b4217f6702.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/5fe26a8aafea6dbf.jpg)
 
 _Maybe not the prettiest microorganism._
 
@@ -189,9 +189,9 @@ Or take Mars.  Once warm and covered with water like Earth but smaller.  The sur
 
 And what if Earth had taken just another billion years between evolving life, photosynthesis, mitochondria, etc.  Well, in another billion years the sun will get bigger.  It will be brighter and closer to the Earth.  And all the liquid water on Earth will be gone.  It took 4 billion years or so to go from the first life to us but if it had taken 5 billion instead it wouldn't have mattered because our planet would have missed its chance and some other solar system somewhere out there would have had to fill in.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4eca1da363ebbce8.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/7c2919ecca6c30d4.png)
 
-_Mitochondria can’t evolve in space_
+> _Mitochondria can’t evolve in space_
 
 This all makes me pretty pessimistic about how often complex life might evolve out there but again, it all adds up to normality and with the Fermi Paradox we probably already knew that.  But on the flip side, it makes me more optimistic about our ability to find simple life out there.  Colonies of chemosynthetic life bound to deep sea vents on icy but geologically active moons in the outer solar system.  Or life that once arose on Mars but died out when the surface water went away.
 

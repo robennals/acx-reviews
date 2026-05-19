@@ -1,5 +1,5 @@
 ---
-title: 'The Life’s Work of Banerjee, Duflo, and Kremer'
+title: The Life’s Work of Banerjee, Duflo, and Kremer
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.396Z'
 slug: the-lifes-work-of-banerjee-duflo-and-kremer
 wordCount: 6329
 readingTimeMinutes: 29
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Economics

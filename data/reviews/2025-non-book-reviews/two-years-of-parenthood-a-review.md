@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.406Z'
 slug: two-years-of-parenthood-a-review
 wordCount: 2680
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Society

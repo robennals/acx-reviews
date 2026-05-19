@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.818Z'
 slug: fisher-is-evil
 wordCount: 3083
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science
@@ -66,7 +65,7 @@ I’m no biologist, so I did not understand why there could not be less than 11 
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/09e14235522715bc.jpg)
 
-![](https://acximages.ennals.org/images/2022-book-reviews/3637c5054813d729.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fe4cd61907da2a57.png)
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/a0842c89de471789.jpg) 
 

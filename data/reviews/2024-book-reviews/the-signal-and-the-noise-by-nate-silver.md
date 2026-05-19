@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.815Z'
 slug: the-signal-and-the-noise-by-nate-silver
-wordCount: 7425
-readingTimeMinutes: 33
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+wordCount: 7515
+readingTimeMinutes: 34
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Science
@@ -67,29 +66,10 @@ It’s an approach he doesn’t take in his updated preface for the 2020 edition
 
 Imagine a world where two Nates issue 10,000 forecasts. One is Nate Bronze, and the other is Nate Gold. Given all those forecasts, we calibrate both Nates’ predictions and how likely they are to be correct:
 
-**Nate:**
-
-**Prediction:**
-
-**\# Observed:**
-
-**Calibration:**
-
-**Bronze**
-
-25-30%
-
-7,500/10,000
-
-75%
-
-**Gold**
-
-5%
-
-500/10,000
-
-5%
+| Nate: | Prediction: | # Observed: | Calibration: |
+| --- | --- | --- | --- |
+| Bronze | 25-30% | 7,500/10,000 | 75% |
+| Gold | 5% | 500/10,000 | 5% |
 
 Bronze is biased and poorly calibrated. Meanwhile, Gold is perfectly calibrated. Now compare a situation like in 2016, where Gold predicted a 5% chance and Bronze predicted a 28.6% chance. Neither model predicted an outright ‘win’, meaning that some lower-probability event was realized either way. But which prediction was ‘right’?
 
@@ -103,79 +83,43 @@ Then why bring up such a small error? Look, everyone can learn a principle and u
 
 About halfway through the book, Silver introduces what he believes is a revolutionary way of thinking probabilistically: [Bayes’ theorem](https://en.wikipedia.org/wiki/Bayes'_theorem). Many who read ACX will be familiar with the theory, but let’s do a short recap for anyone who is new. Much of the theorem can be explained with a simple equation:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1923095e57f60920.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/f2b50c1be44468f3.png)
 
 Let’s define terms.
 
-> **P(A|B)** is the posterior probability that A is true, given B.
->
-> **P(A)** is the prior probability that A is true.
->
-> **P(B)** is the prior probability that B is true.
->
+> **P(A|B)** is the posterior probability that A is true, given B.  
+> **P(A)** is the prior probability that A is true.  
+> **P(B)** is the prior probability that B is true.  
 > **P(B|A)** is the posterior probability that B is true, given A.
 
 This is all esoteric until we start looking at real-world situations. Let’s say you have a cancer blood test that accurately detects the presence of cancer 90% of the time. If someone has cancer, 90% of the time this test will come up positive, P(Positive|Cancer) = 0.9. That sounds good! But what about the test’s specificity? How often do we get false positives? Let’s say if a patient doesn’t have cancer, they’ll get a false ‘positive’ test result 5% of the time, P(Positive|No Cancer). Finally, let’s assume 1% of the population has cancer, P(Cancer).
 
 If we get a positive test result, how likely is it that the person has cancer? To answer this question, we simply plug the variables into the equation:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/cc1cf6b9a1e3f91c.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/3a132e9f9366fc10.png)
 
 To calculate P(Positive) in the denominator, we’ll add together the probability of a true positive result the false positives of people who don’t have cancer: P(Positive) = P(Positive|Cancer) + P(Positive|No Cancer). Now we can plug this in with the numbers from above:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/18498ff606d81aa4.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/24b4dfcbc9ca3260.png)
 
 For every 100 patients who get positive results, slightly more than 15 will have cancer, while the rest were false negatives. This may be surprising. Despite this test having what looks like a high specificity, the large number of people you have to screen to find anyone with cancer means that the false positives dominate the results (84.6%). This is a powerful insight, and one that has had real-world consequences in recommendations for whether and when people should get cancer screenings.
 
 But how accurate is it? We can find the rate of false negatives by giving the test to a bunch of cancer patients. The rate of false positives is a little trickier, but assuming we do a good screening job, we can give the test to a bunch of people we’ve carefully screened who don’t have cancer and figure out the rate of false positives. Now what about that third number: the rate of cancer in the population. How well do we really know that number? I handed it down to you as part of the hypothetical, but maybe that’s not good enough. You could look to the [CDC](https://www.cdc.gov/cancer/dcpc/data/index.htm) or the [NCI](https://www.cancer.gov/about-cancer/understanding/statistics). Both will give you similar (but not the same) numbers. [Global](https://www.who.int/news-room/fact-sheets/detail/cancer) numbers are going to look different from US-centric numbers. Those will look different from numbers in your own state/city/family. How much does this matter? Say we take a dramatically different population and perform the same screening test. What’s the probability of a positive result if we’re looking at an enriched population where 50% of the people have cancer?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/ff0acf09e1073783.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/b8cdf1d0634297f3.png)
 
 Suddenly this terrible test became highly specific. All we had to do was change our probability estimate of who has cancer. This is an important insight into Bayesian probability updates, and one we’ll come back to later. It matters what probabilities you feed into each part of the algorithm.
 
 For now, let’s follow Silver’s logic of how we might use this equation to get around disagreements about what the baseline cancer rate is. Let’s say you and I disagree about the rate of cancer in the population. You think it’s 10% and I think it’s 0.01% - a thousand times less. We give the screening test to someone five times, and the test comes back positive five times. Assuming each test is independent, what’s the probability this patient truly has cancer? Since we both come to the table with different assumptions for the unknown probability, we’re going to get different answers from each Bayesian update. But watch how our estimates converge through serial applications of Bayes’ theorem:
 
-**Result #**
-
-**You**
-
-**Me**
-
-**Baseline**
-
-10.0%
-
-0.1%
-
-**1**
-
-66.7%
-
-1.8%
-
-**2**
-
-97.3%
-
-24.5%
-
-**3**
-
-99.8%
-
-85.4%
-
-**4**
-
-99.9%
-
-99.1%
-
-**5**
-
-99.9%
-
-99.9%
+| Result # | You | Me |
+| --- | --- | --- |
+| Baseline | 10.0% | 0.1% |
+| 1 | 66.7% | 1.8% |
+| 2 | 97.3% | 24.5% |
+| 3 | 99.8% | 85.4% |
+| 4 | 99.9% | 99.1% |
+| 5 | 99.9% | 99.9% |
 
 This is the answer to solving differences of opinion. This is Nate’s silver bullet to reasoning in uncertainty, and a major theme of the book. If you just apply Bayes’ theorem to your problems, “all the rest is commentary”. But if Bayesian reasoning is the silver bullet, what monster is it created to slay? Enter RA Fisher and frequentist statistics.
 
@@ -223,8 +167,8 @@ Silver complains that Fisher _should have known_ tobacco causes lung cancer. Why
 
 Which explanation better fits the evidence?
 
-> *   Fisher was blind to the obvious conclusions his frequentist colleagues had already accepted because his frequentist statistics led him (and somehow not them) astray, or
-> *   Fisher didn’t want to believe because he liked to smoke and got paid by the tobacco companies
+*   Fisher was blind to the obvious conclusions his frequentist colleagues had already accepted because his frequentist statistics led him (and somehow not them) astray, or
+*   Fisher didn’t want to believe because he liked to smoke and got paid by the tobacco companies
 
 Silver not only rejects all of Fisher’s contributions to a complex field of analysis – to the point of outright distortion – he goes on to reject the entire field of frequentist statistics.
 
@@ -232,9 +176,9 @@ Why?
 
 I suspect Silver’s background informs his world view. Nate Silver used to be a successful[[10]](#ftnt10) poker player. He used his statistical prowess to become a successful baseball statistician. He then used that same mind to create a successful business making political predictions. What do all these things have in common – in the world of statistics? They’re all games of chance, sure. But they’re all a particular kind of game:
 
-> *   Zero-sum
-> *   With definite winners and losers
-> *   Where results are announced objectively at defined timepoints
+*   Zero-sum
+*   With definite winners and losers
+*   Where results are announced objectively at defined timepoints
 
 In elections, baseball, and especially poker you can make a prediction and put money down on that prediction if it differs from someone else’s prediction. Later collect or pay out and see whose model fit the real scenario. There was one right answer, and everyone empirically knows what that answer was. It’s not up for debate. This is the world Silver comes from, and it’s the world all his statistics live within. The problem for Silver, then, is that this does not describe most of the world outside of his narrow specialty.
 
@@ -272,35 +216,12 @@ P(positive paper for defects|defect exists) = 95%
 
 P(negative paper for defects|defect exists) = 5%
 
-**Result**
-
-**Doc #1**
-
-**Doc #2**
-
-**P(defects from Zofran)**
-
-10%
-
-0.1%
-
-**Positive**
-
-65.5%
-
-1.9%
-
-**Negative**
-
-6.8%
-
-0.2%
-
-**Negative**
-
-<0.1%
-
-<0.1%
+| Result | Doc #1 | Doc #2 |
+| --- | --- | --- |
+| P(defects from Zofran) | 10% | 0.1% |
+| Positive | 65.5% | 1.9% |
+| Negative | 6.8% | 0.2% |
+| Negative | <0.1% | <0.1% |
 
 We got to the ‘right’ place, after just two follow-up papers!
 
@@ -308,41 +229,13 @@ Well, maybe.
 
 I’m sure the authors of the positive study will argue why the negative studies were done wrong, and vice-versa. We’ll get into a debate about technique. One side will debate whether the prior and posterior probabilities were set right. In the end, half of the doctors will still be refusing to consider Zofran safe after a dozen papers negative for birth defects, while others would still be prescribing it after at least a few positive papers. The whole thing will devolve into a Bayesian mess because people are allowing their priors to not just define P(A|B), but also how they interpret new data, i.e. P(A) and P(B). While everyone debates the specific details of each study and how much credibility they should assign them, what we’ll end up with is probably something closer to this:
 
-**Result**
-
-**Doc #1**
-
-**Doc #2**
-
-**P(defects from Zofran)**
-
-10%
-
-0.1%
-
-**Positive**
-
-78.5%
-
-0.2%
-
-**Negative**
-
-72.8%
-
-<0.1%
-
-**Negative**
-
-72.1%
-
-<0.1%
-
-**Negative**
-
-68.4%
-
-<0.1%
+| Result | Doc #1 | Doc #2 |
+| --- | --- | --- |
+| P(defects from Zofran) | 10% | 0.1% |
+| Positive | 78.5% | 0.2% |
+| Negative | 72.8% | <0.1% |
+| Negative | 72.1% | <0.1% |
+| Negative | 68.4% | <0.1% |
 
 Let’s talk about what’s **not** being done in this analysis. To do that, we’ll let the frequentists back into the discussion.
 
@@ -370,7 +263,7 @@ The last part of that quote hints at why, “it’s too hard to figure out how t
 
 Look again at it again:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1923095e57f60920.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/f2b50c1be44468f3.png)
 
 What does it really _mean_? What is a posterior probability? What is a prior probability? “In theory” these questions should be easy to answer since we have all the observations. That’s not what happened in the Rootclaim debate. Not only did the two debaters present different probabilities for each event, so did each of the judges. And so did Scott! And honestly so did everyone else who tried their hand at it. Far from being objective, each of these variables proved subjective.
 
@@ -414,25 +307,23 @@ The Bayesian training wheels are overly restrictive. They prevent us from consid
 
 Having spent so much time tearing down what Silver considers his most important point, you might think I hate everything about this book. Quite the opposite. I think there’s a lot of wonderful material in this book. If anything, a careful reading of tSatN will provide a masterclass on how difficult it is to consistently apply good statistical principles. Silver outlines dozens of principles and important nuances. Here are a few examples:
 
-> *   Don’t overfit[[17]](#ftnt17) based on past cases.
-> *   Low-probability events sometimes[[18]](#ftnt18) happen.
-> *   Don’t trust a forecaster with a poor record.
->
-> *   Corollary = don’t trust highly precise forecasts with records of low precision.
-> *   Corollary = know your forecast’s range of uncertainty.
->
-> *   Change your forecast when the evidence changes.
-> *   Beware the comprehensive model and the quick fix.
-> *   Patterns are not the same thing as signal.
-> *   More data = more noise.
->
-> *   Corollary: The hypothesis-free approach is prone to hallucination.
->
-> *   Averages may conceal complexity.
-> *   Don’t overlearn from computer[[19]](#ftnt19) model outputs.
-> *   Don’t just extrapolate a trendline.
-> *   Sometimes people react to a prediction, changing the outcome.
-> *   Sometimes you’re too emotional to think probabilistically – it’s okay to walk away.
+*   Don’t overfit[[17]](#ftnt17) based on past cases.
+*   Low-probability events sometimes[[18]](#ftnt18) happen.
+*   Don’t trust a forecaster with a poor record.
+    *   Corollary = don’t trust highly precise forecasts with records of low precision.
+    *   Corollary = know your forecast’s range of uncertainty.
+
+*   Change your forecast when the evidence changes.
+*   Beware the comprehensive model and the quick fix.
+*   Patterns are not the same thing as signal.
+*   More data = more noise.
+    *   Corollary: The hypothesis-free approach is prone to hallucination.
+
+*   Averages may conceal complexity.
+*   Don’t overlearn from computer[[19]](#ftnt19) model outputs.
+*   Don’t just extrapolate a trendline.
+*   Sometimes people react to a prediction, changing the outcome.
+*   Sometimes you’re too emotional to think probabilistically – it’s okay to walk away.
 
 I’ve flagged a few of these where Silver failed to follow his own advice in the book. I don’t think this is because Silver isn’t good with statistics. He’s made millions of dollars over the years proving otherwise. If Silver is making mistakes despite being particularly good, what does that say about the rest of us?
 

@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.486Z'
 slug: sheldon-browns-bicycle-technical-info
-wordCount: 1411
+wordCount: 1408
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Technology
@@ -20,7 +19,7 @@ tags:
 
 As a kid, I was awestruck by a guy biking nonchalantly past me with no hands on the handlebars. It wasn’t just the no hands though, he was chewing bubblegum while doing it. Two cool things at the same time, with no visible concerns to either safety or time. Obviously, I also wanted to be that badass when growing up. I mean, the kid I saw was probably 10 years old, but still.  
   
-Time passed, and now I am old. Thirty-something at the very least. I am unfortunately occupied with both safety and time. But I have knowledge now, and I know a lot more about bikes than that stupid 10-year old kid ever did. I know how to replace a chain, fix a punctured tube, change a bottom bracket, tighten the brakes and how to brake the fastest. I am self-reliant with my transport, like proper cool grown-ups should be. All of that, I owe to the amazing [bicycle blog](https://www.sheldonbrown.com/) of Sheldon Brown.
+Time passed, and now I am old. Thirty-something at the very least. I am unfortunately occupied with both safety and time. But I have knowledge now, and I know a lot more about bikes than that stupid 10-year old kid ever did. I know how to replace a chain, fix a punctured tube, change a bottom bracket, tighten the brakes and how to brake the fastest. I am self-reliant with my transport, like proper cool grown-ups should be. All of that, I owe to the amazing [bicycle blog](https://www.sheldonbrown.com/) of Sheldon Brown.  
 
 ## The guy and the bike(s)
 
@@ -29,8 +28,7 @@ Sheldon is an [interesting character](https://www.sheldonbrown.com/home.html). H
 Someone on Slatestarcodex once [described the feeling of first discovering the sequences](https://slatestarcodex.com/2014/03/13/five-years-and-one-week-of-less-wrong/):  
   
 
-> _“When I first discovered [Lesswrong] a year ago and read the sequences, my reaction was: ‘This is the most amazing thing I have ever read, this has changed my life, Eliezer Yudkowsky must be the smartest man on the planet.’ ...””  
-> _
+> _“When I first discovered [Lesswrong] a year ago and read the sequences, my reaction was: ‘This is the most amazing thing I have ever read, this has changed my life, Eliezer Yudkowsky must be the smartest man on the planet.’ ...””_  
 
 I think this sounds familiar to a lot of people who happened to stumble upon Lesswrong or Scotts blog. There was a special feeling of discovering a vast library of knowledge that you didn’t know you wanted. Things you had thought about in some vague sense, were now written down clearly. You might not believe me, but I had the same feeling when discovering Sheldons blog. _Where had this been all my life_. I was immersed. I had always been impressed by knowledgeable people, and even more so by those who managed to write it all down. People talked about the good parts of the internet, and the good old days before search was broken and AI slop had infiltrated every pore, and I had just discovered one of the old relics. This was awesome, I loved bikes, and of course I wanted to be able to repair them! Now I just needed to read it all.
 
@@ -40,18 +38,15 @@ Grokking a bicycle is actually kind of hard. There’s an old meme about this, w
   
 Deeper down, there's a lot of technical details! First off, what even keeps the [bike upright](https://www.sheldonbrown.com/brandt/gyro.html)? I guess you have heard about [pre-tensioned concrete](https://en.wikipedia.org/wiki/Prestressed_concrete), but did you ever stop to think that a bicycle wheel [works by the same principle](https://www.sheldonbrown.com/wheelbuild.html)? Many have dabbled with 3d-printers, and might have heard the term bowden-tube. Obviously when you pull a bicycle brake, the wire transfers the pulling force to the brake caliper. Less obvious is that the [cable housing must push too](https://www.sheldonbrown.com/cables.html). This is also a [bowden tube setup](https://en.wikipedia.org/wiki/Bowden_cable)! Or did you know that for [pedals, the threads should be normal-threaded on the](https://www.sheldonbrown.com/pedals.html) _[right](https://www.sheldonbrown.com/pedals.html)_ [side, but left-threaded on the](https://www.sheldonbrown.com/pedals.html) _[left](https://www.sheldonbrown.com/pedals.html)_ [side](https://www.sheldonbrown.com/pedals.html)? And for ([proper](https://www.sheldonbrown.com/cribsheet-bottombrackets.html)) bottom brackets it's the other way around? Me neither, before I read Sheldon.
 
-##   
-1\. buy bike, 2. Put 2500+ miles on your 10$ chain, 3.replace, 4. Repeat
+## 1\. buy bike, 2. Put 2500+ miles on your 10$ chain, 3.replace, 4. Repeat
 
 [Thoreau's analysis](https://no.wikipedia.org/wiki/Henry_David_Thoreau) on traveling where he concludes that traveling by foot is the fastest, is well known. The argument goes like [this](https://rosemarywashington.wordpress.com/2011/06/30/thoreau-thursdays-11-traveling-afoot/):  
-_  
-“Thoreau asserts that the fastest traveler is the one on foot.  A seeming paradox.  But when he goes on to explain, the mystery becomes clearer.  In Thoreau’s day, to travel 30 miles by train cost the equivalent of a day’s labor.  Thoreau could walk that distance in one day and arrive by evening.  The person traveling by rail would first have to spend a day laboring to earn the fare, and then take the train the next day.  Thus, the walking man arrived first and had a day full of the pleasures of the countryside.”_
+_“Thoreau asserts that the fastest traveler is the one on foot.  A seeming paradox.  But when he goes on to explain, the mystery becomes clearer.  In Thoreau’s day, to travel 30 miles by train cost the equivalent of a day’s labor.  Thoreau could walk that distance in one day and arrive by evening.  The person traveling by rail would first have to spend a day laboring to earn the fare, and then take the train the next day.  Thus, the walking man arrived first and had a day full of the pleasures of the countryside.”_
 
 The economics of travel have changed since Thoreau’s time, with both the car and the modern bicycle being invented later. However Ivan Ilvich [redoes the calculation](https://ranprieur.com/readings/illichcars.html):
 
 > _“ The model American male devotes more than 1600 hours a year to his car. He sits in it while it goes and while it stands idling. He parks it and searches for it. He earns the money to put down on it and to meet the monthly installments. He works to pay for gasoline, tolls, insurance, taxes, and tickets. He spends four of his sixteen waking hours on the road or gathering his resources for it. And this figure does not take into account the time consumed by other activities dictated by transport: time spent in hospitals, traffic courts, and garages; time spent watching automobile commercials or attending consumer education meetings to improve the quality of the next buy. The model American puts in 1600 hours to get 7500 miles: less than five miles per hour.”_
 
-  
 And he goes on:
 
 > “Man, unaided by any tool, gets around quite efficiently. He carries one gram of his weight over a kilometer in ten minutes by expending 0.75 calories. Man on his feet is thermodynamically more efficient than any motorized vehicle and most animals.  
@@ -69,5 +64,4 @@ So the bike is cheap, there’s a huge resource of knowledge available to everyo
   
 [1] Not literally everything though, like for example the (rare) [rota-fix method](https://www.youtube.com/watch?v=y16rJ0M4YLY) doesn’t seem to be described by Sheldon. Or anything on BMX
 
-  
 [2] Or other internet bicycle legends like [RJ the bike guy](https://www.youtube.com/c/RJTheBikeGuy?cbrd=1).

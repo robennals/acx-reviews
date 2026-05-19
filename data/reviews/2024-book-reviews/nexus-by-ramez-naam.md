@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.711Z'
 slug: nexus-by-ramez-naam
-wordCount: 3825
+wordCount: 3815
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Fiction
@@ -21,12 +20,12 @@ What kind of science fiction are we living in today?
 
 Ramez Naam’s 2012 novel _Nexus_ is not the answer, but there are some parallels:
 
-> *   A breakthrough technology in the 2020-30s has the potential to accelerate scientific progress and improve the human condition, but also to cause tremendous harm.
-> *   Institutions are increasingly defined by how they balance technological progress with safety.
->
-> *   A plucky group of developers in San Francisco recognize the risks but build a vastly more powerful version, believing that the benefits outweigh the harms because the good guys (themselves) will find the right safeguards.
-> *   A leading developer of the technology named Ilya inexplicably disappears from the action.
-> *   It is uncertain whether any of this is expected to be a net positive for humanity.
+*   A breakthrough technology in the 2020-30s has the potential to accelerate scientific progress and improve the human condition, but also to cause tremendous harm.
+*   Institutions are increasingly defined by how they balance technological progress with safety.
+
+*   A plucky group of developers in San Francisco recognize the risks but build a vastly more powerful version, believing that the benefits outweigh the harms because the good guys (themselves) will find the right safeguards.
+*   A leading developer of the technology named Ilya inexplicably disappears from the action.
+*   It is uncertain whether any of this is expected to be a net positive for humanity.
 
 Naam believed that this change was coming. He said that the technological wonders of the next few decades would rival “even the greatest science fiction” and wrote _Nexus_ to prepare readers for the moral and political questions ahead.
 
@@ -62,10 +61,10 @@ Because of this, _Nexus_ has very little to say about technological mis_alignmen
 
 _Nexus’_ moral arc is left with:
 
-> 1.  Technology empowers people to achieve their desires in ways that were not possible before.
-> 2.  Some people use it for selfish, evil, or ignorant purposes, which the government tries to stop.
-> 3.  Others want to use it for noble, altruistic, or harmless ends, but are barred from access.
-> 4.  It’s not clear how to enforce 2 without causing 3.
+1.  Technology empowers people to achieve their desires in ways that were not possible before.
+2.  Some people use it for selfish, evil, or ignorant purposes, which the government tries to stop.
+3.  Others want to use it for noble, altruistic, or harmless ends, but are barred from access.
+4.  It’s not clear how to enforce 2 without causing 3.
 
 While our timeline debates these questions in ‘AI Governance’ papers and Marc Andreesen screeds rather than with guns, I think _Nexus_ has a lot to say about this. Naam is at his best when he makes you sympathize with the father of a severely autistic child using Nexus to connect with his son, or the horror of a civilian having their mind/body hijacked in a terror attack. If you think AI has the potential to empower a lot of good and bad actors in the near future, _Nexus_ may resonate with you.
 

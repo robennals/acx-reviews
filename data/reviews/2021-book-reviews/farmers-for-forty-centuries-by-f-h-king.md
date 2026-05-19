@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.567Z'
 slug: farmers-for-forty-centuries-by-f-h-king
 wordCount: 1511
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - History

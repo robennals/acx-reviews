@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: why-fish-dont-exist
-wordCount: 2949
+wordCount: 2946
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
 source: gdoc
 tags:
   - Biology
@@ -79,7 +78,7 @@ _Why Fish Don’t Exist_ presents eugenics as bad science and bad policy, and th
 
 Certainly, they had a flawed understanding of human genetics. They [incorrectly believed that undesirable traits could be explained by a few recessive Mendelian variants](https://www.cshl.edu/good-genes-bad-science/), and worse, they allowed racism to dominate science. Was the “feeblemindedness” of immigrants really genetic, or because they struggled in a culturally and linguistically unwelcoming educational system? However, over the past few decades, research has conclusively shown that many socially important traits, including intelligence, are indeed heritable to a large extent.[[5]](#ftnt5) Therefore, applying selection pressure with respect to these traits would shift their distribution in the population over time. A eugenicist would select humans in the same way dairy farmers [have selected cattle for better milk production](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569519/).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1a80ad44485e71a2.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/8e2dee4c447a0775.png)
 
 [Source](https://www.journalofdairyscience.org/article/S0022-0302(06)72196-8/fulltext). Since the publication of that graph, [even more progress has taken place.](https://aipl.arsusda.gov/reference/nmcalc-2018.htm)
 
@@ -89,9 +88,9 @@ But there’s no avoiding an ugly truth: I am quite confident that, had I lived 
 
 Although I may have been uneasy about the means employed, I probably would have been convinced by the same arguments that convinced others, including top scientists and progressive politicians:
 
-> *    “These people don’t really want to have kids anyway, and couldn’t properly take care of them if they did.”
-> *    “A glorious future is worth a temporary sacrifice”[[6]](#ftnt6)
-> *    “[Three generations of imbeciles is enough](https://en.wikipedia.org/wiki/Buck_v._Bell)”
+*    “These people don’t really want to have kids anyway, and couldn’t properly take care of them if they did.”
+*    “A glorious future is worth a temporary sacrifice”[[6]](#ftnt6)
+*    “[Three generations of imbeciles is enough](https://en.wikipedia.org/wiki/Buck_v._Bell)”
 
 Therefore, I cannot really blame David Starr Jordan for believing in, and advocating for, eugenics as a means to improve humanity. His main fault here was overlooking the tragic cost of forced sterilizations, which was easy to ignore once he categorized certain humans as “unfit”.
 
@@ -111,7 +110,7 @@ Here we return to David Starr Jordan and the taxonomy of fishes. Jordan and his 
 
 Taxonomy has progressed quite a long way since the days of Linnaeus and the _scala naturae_. Although taxonomists since Darwin had tried to group organisms by common descent, as molecular biology became more advanced, it was clear that many of the traditional groupings were incorrect. By the 1980s, biologists had settled on a rigorous definition of taxonomy in terms of clades, which are all the descendants of a single particular ancestor.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a27920c369a1b209.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/af449676943fbc41.png)
 
 A phylogenetic tree of vertebrates ([source](https://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/))
 

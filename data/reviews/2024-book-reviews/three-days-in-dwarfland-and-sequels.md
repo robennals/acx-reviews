@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.818Z'
 slug: three-days-in-dwarfland-and-sequels
-wordCount: 2568
+wordCount: 2512
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction
@@ -95,8 +94,8 @@ This book is _not_ a textbook; the author is not trying to teach us math systema
 
 Sometimes the reader is invited to solve a problem along:
 
-“Oh, what beautiful apples are in this garden! Could we taste them?”
-
+> “Oh, what beautiful apples are in this garden! Could we taste them?”
+>
 > “Why not,” said Four, “but to do that, the apples must first be picked.”
 >
 > “We wanted to, but we couldn’t. Too high.”
@@ -125,24 +124,24 @@ Sometimes the reader is invited to solve a problem along:
 
 Topics mentioned in the book:
 
-> *   mathematical operators (“periods, commas, small dashes, large dashes, crosses, round brackets, square brackets, curly brackets and many, many more completely incomprehensible signs”)
-> *   exponentiation and roots
-> *   the origin of Arabic numerals in India
-> *   infinity (“something that has no end … no matter how far you walk, you are always in the very middle”)
-> *   binary search
-> *   commutativity of addition
-> *   multiplication by zero, infinity times zero
-> *   divisibility rules
-> *   prime numbers
-> *   perfect numbers, amicable numbers
-> *   Roman numerals, hieroglyphs, Cyrillic numerals[[58]](#ftnt58), Babylonian cuneiform numerals
-> *   comparing fractions
-> *   division by zero
-> *   dividing fractions
-> *   positive and negative powers of 10
-> *   repeating decimals
-> *   famous historical mathematicians[[59]](#ftnt59)
-> *   usefulness of math at discovering planets, etc.
+*   mathematical operators (“periods, commas, small dashes, large dashes, crosses, round brackets, square brackets, curly brackets and many, many more completely incomprehensible signs”)
+*   exponentiation and roots
+*   the origin of Arabic numerals in India
+*   infinity (“something that has no end … no matter how far you walk, you are always in the very middle”)
+*   binary search
+*   commutativity of addition
+*   multiplication by zero, infinity times zero
+*   divisibility rules
+*   prime numbers
+*   perfect numbers, amicable numbers
+*   Roman numerals, hieroglyphs, Cyrillic numerals[[58]](#ftnt58), Babylonian cuneiform numerals
+*   comparing fractions
+*   division by zero
+*   dividing fractions
+*   positive and negative powers of 10
+*   repeating decimals
+*   famous historical mathematicians[[59]](#ftnt59)
+*   usefulness of math at discovering planets, etc.
 
 Target audience… I would guess, children between 8 and 12 years old? Not sure.
 
@@ -162,22 +161,22 @@ Towards the end of the book, the children master the techniques of _al-gebr_ and
 
 Topics mentioned in the book:
 
-> *   substitution cipher
-> *   arithmetic and geometric means
-> *   number line, arithmetic operations using negative numbers
-> *   Latin[[61]](#ftnt61) and Greek letters
-> *   decimal numbers, irrational numbers, complex numbers
-> *   zero power, zero to the power of zero, half power, negative power
-> *   using letters to represent numbers
-> *   factorials
-> *   polynomials
-> *   multiplication of powers
-> *   Pascal’s triangle
-> *   arithmetic progression, the sum of arithmetic progression
-> *   geometric progression
-> *   how to solve a linear equation
-> *   powers of negative numbers
-> *   powers of imaginary unit
+*   substitution cipher
+*   arithmetic and geometric means
+*   number line, arithmetic operations using negative numbers
+*   Latin[[61]](#ftnt61) and Greek letters
+*   decimal numbers, irrational numbers, complex numbers
+*   zero power, zero to the power of zero, half power, negative power
+*   using letters to represent numbers
+*   factorials
+*   polynomials
+*   multiplication of powers
+*   Pascal’s triangle
+*   arithmetic progression, the sum of arithmetic progression
+*   geometric progression
+*   how to solve a linear equation
+*   powers of negative numbers
+*   powers of imaginary unit
 
 *
 
@@ -187,25 +186,25 @@ Little Zero decides to finally get an adventure of his own, and joins the crew o
 
 Topics mentioned in the book:
 
-> *   axioms (if you don’t take them on faith, you can make the gods really angry)
-> *   lines, line segments
-> *   angles: right, acute, obtuse; angular degrees
-> *   Pythagorean theorem
-> *   congruent triangles, similar triangles
-> *   proper and improper fractions, decimals
-> *   probability, statistics
-> *   units of measurements
-> *   volumes of solids
-> *   integral (the concept of the area under a curve)
-> *   circle: radius, diameter, sector
-> *   Möbius strip
-> *   use of math in music
-> *   percents
-> *   altitudes and orthocenter, angle bisectors and incenter, medians and centroid
-> *   functions
-> *   cycloid
-> *   coordinates
-> *   ellipse
+*   axioms (if you don’t take them on faith, you can make the gods really angry)
+*   lines, line segments
+*   angles: right, acute, obtuse; angular degrees
+*   Pythagorean theorem
+*   congruent triangles, similar triangles
+*   proper and improper fractions, decimals
+*   probability, statistics
+*   units of measurements
+*   volumes of solids
+*   integral (the concept of the area under a curve)
+*   circle: radius, diameter, sector
+*   Möbius strip
+*   use of math in music
+*   percents
+*   altitudes and orthocenter, angle bisectors and incenter, medians and centroid
+*   functions
+*   cycloid
+*   coordinates
+*   ellipse
 
 And thus concludes the Dwarfland trilogy.
 
@@ -217,9 +216,9 @@ Levshin wrote a few more books, and I originally assumed that those were written
 
 The Dwarfland trilogy is followed by the Absent-Minded Master trilogy, consisting of:
 
-> *   _Thesis of the Absent-Minded Master_ (Диссертация рассеянного магистра)
-> *   _Travel Notes of the Absent-Minded Master_ (Путевые заметки рассеянного магистра)
-> *   _In Search of the Stolen Stamp_ (В поисках похищенной марки)
+*   _Thesis of the Absent-Minded Master_ (Диссертация рассеянного магистра)
+*   _Travel Notes of the Absent-Minded Master_ (Путевые заметки рассеянного магистра)
+*   _In Search of the Stolen Stamp_ (В поисках похищенной марки)
 
 The protagonist of this trilogy is an extremely absent-minded mathematician trying to write his master thesis. After introducing himself to Levshin and asking him to take care of his pet dog (which turns out to be a cat), he departs to Dwarfland. One year later, he sends the completed thesis for a review. Levshin does the smart thing and outsources the review to children - Tanya, Seva, Oleg, and little Zero.
 
@@ -237,5 +236,5 @@ I believe this is exactly what Levshin has achieved with his Dwarfland trilogy.[
 
 For those who speak Russian, here is some audio on YouTube:
 
-> *   [Braggart Cat](https://www.youtube.com/watch?v=VB4_XmNcaTI)
-> *   The Adventures of little Zero: [Part 1](https://www.youtube.com/watch?v=2_TTIgG-Ffc); [Part 2](https://www.youtube.com/watch?v=mhj_nZQSViM); [Part 3](https://www.youtube.com/watch?v=3L1OMnb6u_Y)
+*   [Braggart Cat](https://www.youtube.com/watch?v=VB4_XmNcaTI)
+*   The Adventures of little Zero: [Part 1](https://www.youtube.com/watch?v=2_TTIgG-Ffc); [Part 2](https://www.youtube.com/watch?v=mhj_nZQSViM); [Part 3](https://www.youtube.com/watch?v=3L1OMnb6u_Y)

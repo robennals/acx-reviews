@@ -1,5 +1,5 @@
 ---
-title: 'Last Tsar. Nicholas II, His Reign & His Russia by Sergei Oldenburg'
+title: Last Tsar. Nicholas II, His Reign & His Russia by Sergei Oldenburg
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.571Z'
 slug: last-tsar-nicholas-ii-his-reign-his-russia-by-sergei-oldenburg
 wordCount: 4672
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - History
@@ -45,8 +44,7 @@ Second, indeed, it's interesting to note that despite the quality of research in
 
 It's way too easy to explain it away as "snobby liberal historians hate Nicholas and don't want to take a look at anything which contradicts their narrative". However, I'm pretty sure the circumstances of the book writing play at least as huge a role here. Are there many relatively popular Russian historians in the Anglosphere? The only one who I could think about might be Lev Gumilyov, and that must be in large part due to his and his father's tragic life (and death) in the USSR; also, curiously enough, as a response to "last tsar" query Amazon manages to show me something by Radzinsky. But "Russian émigré-historian" is someone who belonged to a small and scattered community which wasn't backed up by the resources of any nation-state. However good your books are, any popularity contest is going to be an uphill battle in such a condition; this battle was probably won only once by Nabokov.
 
-*\*\*
-
+* * *
 Of course, there are many things in the book. The first years of the Emperor's reign; the Russo-Japanese War; the Revolution of 1905, which didn't dethrone the Czar, but made him establish the Duma (parliament, pronounced as "doom-ah"); the agrarian reforms; the First World War, but...
 
 But the real meat for me—of course—would be the circumstances of the Revolution of 1917 and the people who created it.
@@ -55,16 +53,14 @@ Imagine you're watching a horror movie. The producer was really lazy, and the mo
 
 Those are basically the parts of the book related to the build-up to Revolution and the revolutionaries. Well, not quite—it stops right after the Revolution and the Czar's abdication (no surprise, given the title). But it certainly gives the reader the taste of horrors to come, and it's not like I haven't known what happened next.
 
-*\*\*
-
+* * *
 The description of revolutionaries reminded me a lot about that de Maistre's idea about how the French Revolution was a culmination of Enlightenment—and, hence, a kind of a providential divine punishment for all the cool and fashionable people of France who cheered for Enlightenment and republicanism in 18th century and who got murdered by it. This in a sense certainly applies to the Russian Revolution too. The people who wanted to remove the Czar were playing with fire, but they thought this fire was a small cool firecracker; it turned out to be a (no pun intended) Czar Bomb, obliterating all their plans and strategies in a heartbeat.
 
 A couple of good examples: 1) general Ruzsky who actually convinces the Czar to abdicate (while having the—I don't know—, gall or insanity to claim that it's  _actually_  for the Czar's and his dynasty's own good and safety, of course) gets murdered by the communists the next year; 2) the head of the "progressive Bloc" in Duma Guchkov who spent most of the 1916 working hard on creating the revolutionary conditions,  _after just the first ~week of the Revolution_  still cheers the dethroning of uncool monarch, and yet when he sometimes tries to understand who is actually in charge, he is like "wait wait wait, hold on, no, no, not like this, Oh God, NO!!!"; needless to say, it only gets worse from there.
 
 These examples are not an exception, they are more like an iron rule: not a single "moderate", "constitutional", "liberal" revolutionary in the Army or in the Duma gets what he wants (the most lucky ones were those who at least were able to escape to the West); to remember that famous Mencken quote: they certainly got what they deserved, and they got it good and hard.
 
-*\*\*
-
+* * *
 But why did these people cheer for the Revolution? Why did they all want—the things they wanted?
 
 Contrary to all the narratives about how it's only dumb people who believe dumb things—probably because they are not educated enough, people of any intellect can be captured by all kinds of fads (or dare I say,  _toxoplasmas_?). Moreover, since these fads often are functions of not only IQ, but social standing, religious beliefs, and political persuasion... Yeah.
@@ -89,24 +85,21 @@ Then the war doesn't end overnight, and everyone becomes kinda jaded. The libera
 
 Then in early 1917 the Duma's term is about to end, and the Czar is thinking about not convening it again, but before this happens, Petrograd — i.e. Saint Petersburg, which at the time was Russian capital — becomes engulfed in bread panic which then becomes bread riot (this is more or less the first time there were any major issues with food there: that the food supply in the Russian Empire was pretty much way ahead of every other major warring country is, like many Russian Empire-related things, an acknowledged but overlooked fact). The riot is suppressed, but then immediately — after months of revolutionary propaganda—an army regiment mutinies too. This mutiny is suppressed as well, but several others flare up, and soon Petrograd is controlled — if this word is applicable here — by the soldiers. The Czar tries to move the loyal regiments to the city and get there himself, but he is stopped by either dumb or Revolution-sympathizing general (see above, also, while I can believe he was thinking that the Duma was controlling something (in reality the true power in the city at the moment has already belonged to organizations like the "Councils of Revolutionary Soldiers"), I'm not sure if he was dumb enough to think that the Duma controlling city was actually something good, given what the Duma thought about the Czar; anyway...). This is the early March of 1917, and that's how the Empire ended: not with a bang but a whimper.
 
-*\*\*
-
+* * *
 Right now almost every country in the First World is a liberal democracy (even if it has some decorative royal figure). Some centuries ago almost all of them were absolute monarchies; at some point most of them were both monarchies and democracies at the same time; there were two centers of power: the monarch, and the electable body. These transitions were often slow and peaceful (like in e.g. England after 1688), and the reasons behind them may be not exactly clear. Curtis Yarvin once wrote that if you had claimed e.g. in England after the Glorious Revolution that this arrangement was unstable, you would have been instantly labeled as an ultra-right "Tory" absolutist-monarchist — but the history would have slowly proved you right. The history of representative democracy in Russian Empire demonstrates very well why this happens: you can't really have more than one center of power. They will try to compete with and subjugate each other until only one such a center will remain. In England this center turned out to be the Parliament which defeated the Crown. In Russia the Duma was pushing, pushing and pushing, never capitulating completely and always preparing to pump the pressure up again whenever possible. Probably the most serious issue with the Czar was that he didn't have enough guts to play as hard a ball as the situation required. Not so seldom he was trying to make a compromise with the Duma by appointing more liberal ministers. Needless to say, unless these ministers were following the Duma's positions rather than Czar's, they were obstructed and boycotted: the Duma never gave any quarter to the Czar. While, in my opinion, the very least every single member of "progressive bloc" deserved was lustration, probably not so radical methods could have helped too — at least, for a while. In short, so much for the "checks and balances". Thank you Montesquieu, very cool!
 
 It's interesting how you can notice this pattern even in temporary political struggles and positions of people who gained power: in 1917 no one needed moderates except as temporary useful idiots. Two stable positions were "I trust the full power in Czar", and "I trust the full power in People". "I trust a bit in Czar, but he should give some way to People" isn't really a way to win friends and influence people: it's a way to gain some temporary alliance which will end when the radicals will make your anti-Czar arguments more refined and more pure (and probably murder you for being not revolutionary enough).
 
-*\*\*
-
+* * *
 To sum, great book. It sort of confirms my priors about the Empire, and it somewhat changes them when it comes to Duma specifically and parliamentarism in general: I didn't held Russian politicians of the era in high esteem, but I didn't expect them to be that bad in the art of, well, managing the state (although they were certainly pretty good in intrigues and manipulating mass opinion!). Again, highly recommend it to anyone; regardless of your political affiliations, if you are even slightly interested in early 20-th century history, reading it most likely will be pretty rewarding for you.
 
-*\*\*
-
+* * *
 Some random thoughts and quotes:
 
-> *   It was quite interesting to brush up on the actions of far-left revolutionaries in rioting Petrograd in March. Lenin's October formula "To capture post offices, telegraph offices, and train stations" has been quite famous in Russia, but it was curious to see that socialists even in March had pretty strict contingency plans on the subject of "What to do when the SHTF in Petrograd" (to wit: free their leaders from prisons, telegraph the situation to other cities, ask workers at every factory to appoint a representative to the Workers' Council, etc., etc., etc., evil those people might be, but their coordination and strategic thinking are certainly quite impressive and instructive).
->
-> *   Oldenburg gives an interesting quote about the events by Winston Churchill, from "The world crisis. 1916-1918":
->
+*   It was quite interesting to brush up on the actions of far-left revolutionaries in rioting Petrograd in March. Lenin's October formula "To capture post offices, telegraph offices, and train stations" has been quite famous in Russia, but it was curious to see that socialists even in March had pretty strict contingency plans on the subject of "What to do when the SHTF in Petrograd" (to wit: free their leaders from prisons, telegraph the situation to other cities, ask workers at every factory to appoint a representative to the Workers' Council, etc., etc., etc., evil those people might be, but their coordination and strategic thinking are certainly quite impressive and instructive).
+
+*   Oldenburg gives an interesting quote about the events by Winston Churchill, from "The world crisis. 1916-1918":
+
 > Surely to no nation has Fate been more malignant than to Russia. Her ship went down in sight of port. She had actually weathered the storm when all was cast away. Every sacrifice had been made; the toil was achieved. Despair and Treachery usurped command at the very moment when the task was done.
 >
 > The long retreats were ended; the munition famine was broken; arms were pouring in; stronger, larger, better equipped armies guarded the immense front; the depots overflowed with sturdy men. Alexeieff directed the Army and Koltchak the Fleet. Moreover, no difficult action was now required: to remain in presence: to lean with heavy weight upon the far-stretched Teutonic line: to hold without exceptional activity the weakened hostile forces on her front: in a word, to endure—that was all that stood between Russia and the fruits of general victory. Says Ludendorff, surveying the scene at the close of 1916:
@@ -120,11 +113,11 @@ Some random thoughts and quotes:
 > Why should this stern test be denied to Nicholas II? He had made many mistakes, what ruler had not? He was neither a great captain nor a great prince. He was only a true, simple man of average ability, of merciful disposition, upheld in all his daily life by his faith in God. But the brunt of supreme decisions centred upon him. At the summit where all problems are reduced to Yea or Nay, where events transcend the faculties of men and where all is inscrutable, he had to give the answers. His was the function of the compass-needle. War or no war? Advance or retreat  Right or left? Democratize or hold firm? Quit or persevere? These were the battlefields of Nicholas II. Why should he reap no honour from them? The devoted onset of the Russian armies which saved Paris in 1914; the mastered agony of the munitionless retreat; the slowly regathered forces; the victories of Brusiloff; the Russian entry upon the campaign of 1917, unconquered, stronger than ever; has he no share in these? In spite of errors vast and terrible, the regime he personified, over which he presided, to which his personal character gave the vital spark, had at this moment won the war for Russia.
 >
 > He is about to be struck down. A dark hand, gloved at first in folly, now intervenes. Exit Czar. Deliver him and all he loved to wounds and death. Belittle his efforts, asperse his conduct, insult his memory; but pause then to tell us who else was found capable. Who-or what could guide the Russian State? Men gifted and daring; men ambitious and fierce; spirits audacious and commanding —of these there was no lack. But none could answer the few plain questions on which the life and fame of Russia turned. With victory in her grasp she fell upon the earth, devoured alive, like Herod of old, by worms. But not in vain her valiant deeds. The giant mortally stricken had just time, with dying strength, to pass the torch eastward across the ocean to a new Titan long sunk in doubt who now arose and began ponderously to arm. The Russian Empire fell on March 16; on April 6 the United States entered the war.
->
-> *   This moment was not mentioned in the book, but one of the important aspects of Communist propaganda (and "post"-communist, democratic actually too: they are quite synoptic on the topic of Russian monarchy) was "Czar was so disastrous a Commander, that Russian army lost lots of area in 1915". The Army lost a lot of area indeed: it's not for nothing they called the events of 1915 "The Great Retreat". And yet, if you look at the actual map, you'll see that this land lost (and actually partially recovered in 1916) is just peanuts compared to the vast, enormous extents the Communist army gave away in 1941 (and in much more disorganized manner, with much more severe personnel losses). Talk about throwing stones from the glass houses! (also, to be precise, the Czar appointed himself the commander-in-chief _after_ The Great Retreat)
->
-> *   There's also an interesting piece on "what the monarchy did wrong" from some monarchical address used as the afterword in the book. I read the book in original, so here is my translation of the excerpt:
->
+
+*   This moment was not mentioned in the book, but one of the important aspects of Communist propaganda (and "post"-communist, democratic actually too: they are quite synoptic on the topic of Russian monarchy) was "Czar was so disastrous a Commander, that Russian army lost lots of area in 1915". The Army lost a lot of area indeed: it's not for nothing they called the events of 1915 "The Great Retreat". And yet, if you look at the actual map, you'll see that this land lost (and actually partially recovered in 1916) is just peanuts compared to the vast, enormous extents the Communist army gave away in 1941 (and in much more disorganized manner, with much more severe personnel losses). Talk about throwing stones from the glass houses! (also, to be precise, the Czar appointed himself the commander-in-chief _after_ The Great Retreat)
+
+*   There's also an interesting piece on "what the monarchy did wrong" from some monarchical address used as the afterword in the book. I read the book in original, so here is my translation of the excerpt:
+
 > One of the most important reasons why the power consciously diverged from society was the distinctive policy of using the lower class as a support base over the heads of the middle class. This idea—of contraposition of "good people'' and "evil intelligentsia"—a kind of a "right-wing populism"—was familiar to many Rulers, starting with the emperor Nicholas I. And this is the antithesis to the idea The Great Catherine built her power on. This is the policy of Ivan the Terrible against the boyars, or of Gustav III against the Swedish nobles, etc., this piece is not the place to evaluate this policy; and yet both late Emperor and Empress had this thought sometimes; it was somewhat close to Witte too, but to a much lesser degree—to Stolypin.
 >
 > One of the dangers of this path is that it can easily lead you down the road of losing the understanding of what's real in politics and what's not. Some fictions and conventions start to appear. The living bond between the power and people is replaced by the bond theoretical. The belief that people are kind of real, good, devoted to their monarch, was alive in the Ruler until his last days. He could have been right—but the Czar's voice couldn't get to people through the inimical atmosphere. And so the Ruler had the distorted image of society and people, and people and society had the distorted image of the Czar.
@@ -133,8 +126,8 @@ Some random thoughts and quotes:
 
 (I would say I mostly agree with this, though it's really not obvious to me how to break this vicious cycle of "intelligentsia despises the government => they don't want to collaborate with the government => the government lacks smart people => intelligentsia despises the government even more" without resorting to direct concessions to intelligentsia which, of course, only make them realize that the power is weak and make them want to ask for more, until the sovereign is dethroned).
 
-> *   The book also demonstrates very explicitly and utilizing many sources just how much most of the talking points about the Revolution we still repeat (e.g. the Rasputin story) were pretty much political propaganda created hastily just for the purposes of taking power. Not that I didn't know it, and yet: kind of sad.
->
-> *   Another curious thing: lots of parliamentary quarrels, animosity and disagreements are just incredibly… petty? Going back to Guchkov: he was a leader of Octobrist Party, basically moderate monarchists/right-wingers; the Czar thinks of him well enough to give him a certain prominent position; after that they two have a private conversation, which Guchkov then partly leaks to the media; the Czar is really pissed off, and Guchkov goes full "well, then screw you too" and later leads the effort to force the parliamentary sovereignty on the Czar. This is not how the government of any country should look like, this is some kindergarten-level crap.
+*   The book also demonstrates very explicitly and utilizing many sources just how much most of the talking points about the Revolution we still repeat (e.g. the Rasputin story) were pretty much political propaganda created hastily just for the purposes of taking power. Not that I didn't know it, and yet: kind of sad.
+
+*   Another curious thing: lots of parliamentary quarrels, animosity and disagreements are just incredibly… petty? Going back to Guchkov: he was a leader of Octobrist Party, basically moderate monarchists/right-wingers; the Czar thinks of him well enough to give him a certain prominent position; after that they two have a private conversation, which Guchkov then partly leaks to the media; the Czar is really pissed off, and Guchkov goes full "well, then screw you too" and later leads the effort to force the parliamentary sovereignty on the Czar. This is not how the government of any country should look like, this is some kindergarten-level crap.
 
 * * *

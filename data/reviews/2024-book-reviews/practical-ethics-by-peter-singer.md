@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.714Z'
 slug: practical-ethics-by-peter-singer
-wordCount: 20689
+wordCount: 20666
 readingTimeMinutes: 92
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Philosophy
@@ -60,8 +59,8 @@ For the arguments, read the book. For the problems, read on.
 
 This part will be very long. I’ll address each chapter’s arguments and give some of my own objections. To start with, I want to make clear that I will only consider the arguments and claims found in the text itself, not those Singer has made elsewhere, nor other peoples’ arguments on the same issues. This is because it makes careful analysis possible, because the text itself is likely to be the only thing most readers see, and because I’m lazy.
 
-> *   ### About “About Ethics”
->     
+*   ### About “About Ethics”
+    
 
 In “Chapter 1: About Ethics”, Singer disavows (what he regards as) some common misconceptions about ethics, and then sketches a rough argument for utilitarianism.
 
@@ -105,8 +104,8 @@ Singer half-acknowledges the limits of his argument, calling it tentative and _s
 
 We will see how well he lives up to that.
 
-> *   ### A thousand tags of regret
->     
+*   ### A thousand tags of regret
+    
 
 If Scott had written “Chapter 2: Equality and Its Implications” on Slate Star Codex, it would undoubtedly have a “Things I Will Regret Writing” tag, or perhaps a thousand of them. This chapter covers race. And sex. And innate IQ differences. And whether discrimination can be justified. And affirmative action. In terms of its content, it’s a proverbial lightning rod.
 
@@ -150,8 +149,8 @@ But if the choice is between Singer’s collective cost-benefit analysis and _th
 
 Count. Me. In.
 
-> *   ### Are you smarter than a chicken?
->     
+*   ### Are you smarter than a chicken?
+    
 
 In “Chapter 3: Equality for Animals”, Singer says that animals’ interests matter and we should probably all go vegan.
 
@@ -187,8 +186,8 @@ If I go with instinct, on the other hand, it definitely seems like the best appr
 
 But neither can Singer prove it won’t.
 
-> *   ### Just asking questions
->     
+*   ### Just asking questions
+    
 
 Like, what’s actually _wrong_ with killing people anyway? Just asking!
 
@@ -242,8 +241,8 @@ And it’s hard for me not to see this as deliberate. As I said at the start, Si
 
 And that removes a lot of pleasure from _this_ being.
 
-> *   ### In which Singer temporarily quits his job
->     
+*   ### In which Singer temporarily quits his job
+    
 
 I don’t like “Chapter 5: Taking Life: Animals”.
 
@@ -287,8 +286,8 @@ Rather than admit the latter conclusion (the Anti-Repugnant, But Equally Repugna
 
 So I’m not sure what to make of it. But to be fair, neither is Singer.
 
-> *   ### THAT issue
->     
+*   ### THAT issue
+    
 
 In “Chapter 6: Taking Life: The Embryo and Fetus”, Singer addresses abortion. He’s in favor of it, to a degree far beyond the norm: as he’ll develop in the following chapter, he’s also sympathetic to many cases of infanticide.
 
@@ -320,8 +319,8 @@ Singer’s principle, repugnant-seeming as it is on the surface, does not have t
 
 But because Singer is a utilitarian, he is responsible for the likely effects of a pro-choice position on the kind of thinking embraced by the wider society. And I find a lot of that much more disturbing than his own.
 
-> *   ### In which Singer gets massively canceled
->     
+*   ### In which Singer gets massively canceled
+    
 
 In “Chapter 7: Taking Life: Humans”, Singer says disabled people should be killed.
 
@@ -352,8 +351,8 @@ But it’s the second, the discomfort with the possibility, that is the main hin
 
 So, within the practical everyday framework his book is built upon, Singer‘s arguments for euthanasia make sense (if you accept the utilitarian and personhood premises). But that doesn’t mean I’m not justified in worrying about them.
 
-> *   ### In which Singer channels Jesus
->     
+*   ### In which Singer channels Jesus
+    
 
 In “Chapter 8: Rich and Poor”, Singer says we should give all our possessions to the poor, then come and follow him.
 
@@ -389,8 +388,8 @@ So utilitarians are caught in a bind. When advocating for their philosophy publi
 
 So, should we give to the poor? Singer posits an extreme position, on the _extreme_ end of extreme, the sort of thing usually associated with a fanatical cult. It conflicts with most people’s basic intuitions about the sort of thing morality is, and if he’s going to disregard those intuitions it’s not clear why we should consider him to mean by “morality” anything like what most people mean. And then there’s the question of: _don’t the very rich have those obligations, not me?_ Which brings us to…
 
-> *   ### That OTHER issue
->     
+*   ### That OTHER issue
+    
 
 In “Chapter 9: Climate Change”, Singer covers a lot of detail about carbon emissions and the merits of different policies for reducing them. Since these are on the level of laws not individual actions, and no doubt require knowledge of economics, I’m not going to address them. When it comes to individual actions, he says we’re generally obligated to reduce our personal emissions quite substantially. And yet, it seems to depend on where we live.
 
@@ -412,7 +411,7 @@ But in the case of emissions, while Singer doesn’t outright say you have less 
 
 My preferred solution to matters of donation and concern for the poor in general, is for people to meet a modest charitable obligation on the basis of their means. This conflicts with Singer’s strict utilitarianism, but he’s quite inconsistent about it.
 
-> *   In which Singer hugs some trees
+*   In which Singer hugs some trees
 
 This is a boring chapter.
 
@@ -432,8 +431,8 @@ But mainly, his cost-benefit analysis just looks very one-sided. It probably is,
 
 I’m generally pretty in favor of preserving wilderness. But I doubt the issue is as one-sided as this chapter presents.
 
-> *   ### In which Singer is either with us, or with the terrorists
->     
+*   ### In which Singer is either with us, or with the terrorists
+    
 
 In “Chapter 11: Civil Disobedience, Violence and Terrorism“, Singer argues that illegal activity for political reasons is sometimes justified.
 
@@ -455,8 +454,8 @@ Third, civil disobedience not only gives unfairly extra power to the group engag
 
 I would, for the most part, prefer a moral principle (even, if not especially, one based on utilitarianism) to categorically prohibit disobedience or illegal activity (at least for public political purposes) in a democracy. There may need to be exceptions, but Singer is too ready to find them.
 
-> *   ### In which Singer asks why
->     
+*   ### In which Singer asks why
+    
 
 My review of “Chapter 12: Why Act Morally?” will be brief. I want to simply situate the two accounts of why to be moral presented in this chapter within the broader philosophical context. Singer, like Kant, presents an account of acting morally _for its own sake._
 
@@ -476,7 +475,7 @@ I have nothing to object to in this chapter. Singer provides one selfless accoun
 
 If you’ve made it through Part 2, congratulations! And if you’ve skipped Part 2 as suggested in the introduction…hi.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1919b985a655d375.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/0eff254885f20c3d.png)
 
 In the first chapter, Singer gave a tentative argument for preference utilitarianism. He also pledged to consider other moral theories as well, but didn’t always live up to this. In the second chapter, he derived the Principle of Equal Consideration of Interests, arguing that this requires us to treat all like interests equally, no matter the race, sex, intelligence, or other characteristic of the holder of that interest. On the basis of this principle, it doesn’t largely matter whether there are innate differences between races or other groups: what matters is maximizing the satisfaction of interests. This may sometimes require meritocracy and may sometimes require affirmative action, and which one will depend solely on cost-benefit calculations regarding these policies’ effect on society.
 
@@ -982,7 +981,7 @@ So your acceptance of Singer’s ethics will depend on a number of choices. Whic
 
 [[245]](#ftnt_ref245) [Some](https://www.t-online.de/nachrichten/deutschland/id_100329260/ard-und-zdf-einseitige-berichterstattung-studie-zeigt-deutliches-ergebnis.html) [outlets](https://www.derwesten.de/politik/linksdrall-ard-zdf-oeffentlich-rechtliche-studie-bild-zeitung-medien-id300828155.html) have framed the results of this study as proving that public media are not unfair to the AfD because public media is not MORE unfair than private media. Of course, that’s not the point. Only public media has a mandate to be politically neutral. Thus, deriving a reasonable standard from the reporting behavior of private media is absurd.
 
-[[246]](#ftnt_ref246) Interestingly, in the German version CORRECTIV writes about “Vertreibung” (expulsion/eviction/displacement) of German citizens and they deny having used the word “[Deportation](https://twitter.com/hori_____zont/status/1751675275002192195)” (deportation), despite using it in the English version. Anyways, German [media](https://www.zdf.de/nachrichten/politik/deutschland/afd-treffen-potsdam-cdu-abgrenzung-100.html) [and](https://www.zeit.de/politik/deutschland/2024-01/afd-rechtsextreme-potsdam-treffen-remigration-was-wir-wissen) [politicans](https://www.tagesschau.de/inland/innenpolitik/afd-geheimtreffen-bundestag-100.html) widely used the word “Deportation” to describe the plan.  
+[[246]](#ftnt_ref246) Interestingly, in the German version CORRECTIV writes about “Vertreibung” (expulsion/eviction/displacement) of German citizens and they deny having used the word “[Deportation](https://twitter.com/hori_zont/status/1751675275002192195)” (deportation), despite using it in the English version. Anyways, German [media](https://www.zdf.de/nachrichten/politik/deutschland/afd-treffen-potsdam-cdu-abgrenzung-100.html) [and](https://www.zeit.de/politik/deutschland/2024-01/afd-rechtsextreme-potsdam-treffen-remigration-was-wir-wissen) [politicans](https://www.tagesschau.de/inland/innenpolitik/afd-geheimtreffen-bundestag-100.html) widely used the word “Deportation” to describe the plan.  
 
 [[247]](#ftnt_ref247) [Here](https://www.volksverpetzer.de/analyse/25-krasse-hoecke-zitate/) is a collection of Höcke’s greatest hits, collected by a hostile source.
 
@@ -1082,9 +1081,9 @@ So your acceptance of Singer’s ethics will depend on a number of choices. Whic
 
 [[295]](#ftnt_ref295) To use the blogger’s words, the morally-relativistic narrative of the latter “tells us that sex outside of marriage isn't a big deal,” while the purity narrative of many Christian subcultures, in practice, communicates “that sex outside of marriage is the biggest deal of all the deals ever.”
 
-[[296]](#ftnt_ref296) Notice how apologetic I am there!
+[[296]](#ftnt_ref296) Notice how apologetic I am there!  
 
-[[297]](#ftnt_ref297) I think nearly all adults are aware that the following exist: foreplay, sexual arousal, erections, male and female orgasms, and “pleasuring” specifically of one partner or the other.
+[[297]](#ftnt_ref297) I think nearly all adults are aware that the following exist: foreplay, sexual arousal, erections, male and female orgasms, and “pleasuring” specifically of one partner or the other.  
 
 [[298]](#ftnt_ref298) He goes into this dilemma about choice of material and detail level in his first book, more targeted at colleagues in his field, “Constructing the Sexual Crucible: An Integration of Sexual and Marital Therapy.”
 

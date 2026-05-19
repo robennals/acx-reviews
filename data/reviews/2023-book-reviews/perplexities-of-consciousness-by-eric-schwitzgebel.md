@@ -1,20 +1,22 @@
 ---
-title: "Perplexities of Consciousness by Eric Schwitzgebel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Perplexities of Consciousness by Eric Schwitzgebel
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "perplexities-of-consciousness-by-eric-schwitzgebel"
-wordCount: 6587
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: perplexities-of-consciousness-by-eric-schwitzgebel
+wordCount: 6585
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Philosophy
   - Psychology
 ---
+
+>   
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/7887142fda6bb75d.png)
 
@@ -58,9 +60,9 @@ An accurate description of visual experience at any given moment is that there i
 
 _How vivid are your mental images?_                                                                          In the 1870’s Frances Galton administered to several hundred men a questionnaire about the vividness of their mental imagery. Now you, too, are about to be a Galton subject. Visualize your breakfast table, with your typical breakfast and other items upon it. Then, as you do, answer Galton’s questions:
 
-> 1.  Illumination: Is the image dim or fairly clear? Is its brightness comparable to that of the actual scene?
-> 2.  Definition: Are all the objects pretty well defined at the same time, or is the place of sharpest definition at any one moment more contracted than it is in the real scene?
-> 3.  Coloring: Are the colors of the china, the toast, bread crust, mustard, meat, parsley, or whatever may have been on the table, quite distinct and natural?
+1.  Illumination: Is the image dim or fairly clear? Is its brightness comparable to that of the actual scene?
+2.  Definition: Are all the objects pretty well defined at the same time, or is the place of sharpest definition at any one moment more contracted than it is in the real scene?
+3.  Coloring: Are the colors of the china, the toast, bread crust, mustard, meat, parsley, or whatever may have been on the table, quite distinct and natural?
 
 There was great variability in the responses Galton gathered. While most subjects described an intermediate level of vividness, there were numerous subjects at each end of the range: Many subjects reported that their mental image was equal in every respect to the sight of their actual breakfast table and many reported that they were unable to form any image at all.
 
@@ -122,4 +124,4 @@ I will give Schwitzgebel the last word:
 
 No, on second thought I think I will have the last word. While we think of ourselves as bottles, with inner experience uncontaminated, inviolate and private, that model is clearly wrong.  The blind echolocators were engaging in a process to which they themselves did not have introspective access, but which experimenters could recognize and measure. And much of what we think of as untainted inner experience is shaped by expectations and models that originate outside of us. We are less like wine bottles than we are like Klein bottles. It’s very unsettling. Have a drink.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7d1b25fb716efbc8.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ecb495eb9dc68d7d.png)

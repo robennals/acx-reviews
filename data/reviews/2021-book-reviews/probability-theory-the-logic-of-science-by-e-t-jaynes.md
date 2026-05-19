@@ -7,19 +7,18 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
 slug: probability-theory-the-logic-of-science-by-e-t-jaynes
-wordCount: 7029
+wordCount: 7032
 readingTimeMinutes: 32
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Science
   - Philosophy
 ---
 
-_P(A|B) = [P(A)\*P(B|A)]/P(B), all the rest is commentary._
-
-- Astral Codex Ten tagline.
+> _P(A|B) = [P(A)\*P(B|A)]/P(B), all the rest is commentary._
+>
+> - Astral Codex Ten tagline.
 
 If I told you that over the course of last year I have read Hartshorne's graduate math textbook "[Algebraic Geometry](https://en.wikipedia.org/wiki/Algebraic_Geometry_(book))" and did all the exercises in it, you would probably assume I have learned some mathematics.
 

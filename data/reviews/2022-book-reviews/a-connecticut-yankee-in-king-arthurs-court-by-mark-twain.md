@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.686Z'
 slug: a-connecticut-yankee-in-king-arthurs-court-by-mark-twain
-wordCount: 4514
+wordCount: 4510
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Fiction
@@ -19,10 +18,10 @@ tags:
 
 _**FORMATTING NOTES FOR SCOTT, IN CASE THIS MAKES IT:**_
 
-> 1.  _**Indenting means Substack quote formatting.**_
-> 2.  _**[[ ]] brackets means it’s a Substack image caption for the image above.**_
-> 3.  _**The review starts with the quote below.**_
->
+1.  _**Indenting means Substack quote formatting.**_
+2.  _**[[ ]] brackets means it’s a Substack image caption for the image above.**_
+3.  _**The review starts with the quote below.**_
+
 > “How much is 9 times 6?”
 >
 > “It is a mystery that is hidden from me by reason that the emergency requiring the fathoming of it hath not in my life-days occurred, and so, not having no need to know this thing, I abide barren of the knowledge.”
@@ -123,7 +122,7 @@ At one point, he visits Morgan Le Fay, evil witch extraordinaire, who abuses her
 
 It is amusing, but I can’t help but think moments like these stop _Yankee_ from delivering its intended message to the reader. They have trouble coexisting with an arc in which the main character is sold into slavery and vows to reform the social order.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/eafb15a48628b43e.png)[[The Boss is killing two birds with one stone, spreading the invention of soap _and_ making knights look silly. I’m not joshing here, that’s his stated intention.]]
+![](https://acximages.ennals.org/images/2022-book-reviews/0e2e0e4dd939d34e.png)[[The Boss is killing two birds with one stone, spreading the invention of soap _and_ making knights look silly. I’m not joshing here, that’s his stated intention.]]
 
 Slavery is where the story is going next, in fact. While The Boss has already been modernizing England by introducing toothpaste and top hats in-between helping damsels, that’s not enough for him. King Arthur is intrigued by The Boss’ intention in dressing up as a peasant and experiencing the troubles of a fellow man, and decides to join him.
 

@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.595Z'
 slug: against-democracy-by-jason-brennan
-wordCount: 3668
+wordCount: 3663
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Politics
@@ -23,11 +22,11 @@ In _Against Democracy_, Jason Brennan, a professor of strategy, economics, ethic
 
 First and foremost, voters are incredibly stupid. Brennan spends the first two chapters piecing together the grim picture painted by surveys of voter knowledge. A few findings that he lists:
 
-> *   _During election years, most citizens cannot identify any congressional candidates in their district._
-> *   _Citizens generally don’t know which party controls Congress._
-> *   _In 1964, only a minority of citizens knew that the Soviet Union was_ not _a member of the North Atlantic treaty Organization (Yes, that’s right: NATO, the alliance created to oppose the Soviet Union.) Keep in mind this is just a short time after the Cuban Missile Crisis, in which the United States almost went to (nuclear) war with the USSR._
-> *   _Seventy-three percent of Americans do not understand what the Cold War was about._
-> *   _During the 2000 presidential election, while slightly more than half of all Americans knew Al Gore was more liberal than Bush, they did not seem to understand what the word_ liberal _means. Fifty-seven percent of them knew Gore favored a higher level of spending than Bush did, but significantly less than half knew that Gore was more supportive of abortion rights, more supportive of welfare state programs, favored a higher degree of aid to blacks, or was more supportive of environmental regulation. Only 37 percent knew that federal spending on the poor had increased or that crime had decreased in the 1990s. On these questions, Americans did worse than a coin flip. Similar results hold for other election years._
+*   _During election years, most citizens cannot identify any congressional candidates in their district._
+*   _Citizens generally don’t know which party controls Congress._
+*   _In 1964, only a minority of citizens knew that the Soviet Union was_ not _a member of the North Atlantic treaty Organization (Yes, that’s right: NATO, the alliance created to oppose the Soviet Union.) Keep in mind this is just a short time after the Cuban Missile Crisis, in which the United States almost went to (nuclear) war with the USSR._
+*   _Seventy-three percent of Americans do not understand what the Cold War was about._
+*   _During the 2000 presidential election, while slightly more than half of all Americans knew Al Gore was more liberal than Bush, they did not seem to understand what the word_ liberal _means. Fifty-seven percent of them knew Gore favored a higher level of spending than Bush did, but significantly less than half knew that Gore was more supportive of abortion rights, more supportive of welfare state programs, favored a higher degree of aid to blacks, or was more supportive of environmental regulation. Only 37 percent knew that federal spending on the poor had increased or that crime had decreased in the 1990s. On these questions, Americans did worse than a coin flip. Similar results hold for other election years._
 
 He cites many more examples and assures us that the literature is overflowing with others. One might wonder whether knowledge of this kind is really relevant to and necessary for making informed voting decisions, but Brennan mentions that basic knowledge of politics, civics, and the social sciences is correlated with having the correct stance on issues that elections tend to revolve around. And yes, according to him, many political questions have right and wrong answers - he gives examples such as, price controls are bad, not doing anything about climate change is bad, and heavy restrictions on immigration are bad (the consensus among economists is that this is very detrimental to gross world product). I agree with the assertion that there’s oftentimes a correct answer, although it sometimes seems throughout the book that he forgets that not _all_ political questions are of this nature. Another good point he makes on this topic is that, when some of the things voters are clueless about include what percentage of the federal budget is spent on x versus on y, how can they be expected to allocate resources appropriately? This is a whole category of information that the majority of voters is ignorant about – most people have a terrible sense of relative spending, and therefore, they’re likely to prioritize the wrong things.
 

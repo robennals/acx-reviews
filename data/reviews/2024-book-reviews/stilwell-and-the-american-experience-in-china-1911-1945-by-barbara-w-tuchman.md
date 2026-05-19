@@ -1,5 +1,5 @@
 ---
-title: 'Stilwell and the American Experience in China 1911-1945, by Barbara W. Tuchman'
+title: Stilwell and the American Experience in China 1911-1945, by Barbara W. Tuchman
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.664Z'
 slug: stilwell-and-the-american-experience-in-china-1911-1945-by-barbara-w-tuchman
 wordCount: 5243
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - History

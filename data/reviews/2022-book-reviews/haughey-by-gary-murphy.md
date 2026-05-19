@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.702Z'
 slug: haughey-by-gary-murphy
-wordCount: 3824
+wordCount: 3818
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Politics
@@ -37,12 +36,12 @@ President Michael D. Higgins, taking a break from Santa’s workshop to be with 
 
 Political veterans like Charles Haughey may be ministers for three or more unrelated areas over their career. Here’s his relevant timeline:
 
-> *   **Minister for Justice:** 1961-1964
-> *   **Minister for Agriculture:** 1964-1966
-> *   **Minister for Finance:** 1966-1970
-> *   **Minister for Social Welfare:** 1977-1979
-> *   **Minister for Health:** 1977-1979
-> *   **Minister for the** **[Gaeltacht](https://en.wikipedia.org/wiki/Gaeltacht)****:** 1987-1992
+*   **Minister for Justice:** 1961-1964
+*   **Minister for Agriculture:** 1964-1966
+*   **Minister for Finance:** 1966-1970
+*   **Minister for Social Welfare:** 1977-1979
+*   **Minister for Health:** 1977-1979
+*   **Minister for the** **[Gaeltacht](https://en.wikipedia.org/wiki/Gaeltacht):** 1987-1992
 
 Haughey was also Taoiseach (prime minister, pronounced “tea-shuck”) from 1979 to 1981, then again from 1982 to later in 1982, and from 1987 to 1992.
 

@@ -7,9 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:42.734Z'
 slug: the-anti-politics-machine
-wordCount: 4508
+wordCount: 4504
 readingTimeMinutes: 21
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-anti-politics'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-anti-politics
 source: acx
 tags:
   - Politics
@@ -43,11 +43,11 @@ Ferguson’s description of the process is somewhat cynical and some of the erro
 But the process by which we go from data to narrative is still relatively casual and poorly theorized, and _this step_ was the main source of the World Bank group’s troubles. In the data-gathering process, they noted several facts: 
 
 1.  Most of the population in rural Lesotho grew crops, but they did not make very much income from them.
-    
+
 2.  More than 60% of the area’s young men were working in mines in nearby South Africa and sending back remittances.
-    
+
 3.  Many families had large flocks of underfed cattle. Even when money was tight, the team rarely observed cattle sales.
-    
+
 
 Each of these is true, but they need to be set within a larger narrative to inform the work of “development.” Instead of doing the ethnographical and historical work it would take to understand Lesotho’s particular history, political system, and culture, the World Bank’s team of experts substituted their notions of what “less-developed countries” are like, shaped just as much by countries very different from Lesotho and the array of “solutions” the team had to offer as they were by anything to do with the context they’d set out to study.
 
@@ -58,11 +58,11 @@ The same sort of jumps happened in interpreting the other two facts. The authors
 While Ferguson focuses on Thaba-Tseka, I think the “development discourse” lens he describes is easiest to understand by imagining how it might function in a very different context. If the same World Bank economists were to study an American suburb, they might learn that:
 
 1.  Most households grow fruits or vegetables in their yards, but make little profit by selling them.
-    
+
 2.  The majority of household breadwinners have a fairly long commute to work, which they complain endlessly about.
-    
+
 3.  People pour money into valuable assets they call “Roth IRAs”, but do not seem to sell them even when they could use the cash.
-    
+
 
 Should the World Bank conclude that suburban America is populated by subsistence farmers whose inability to grow good crops has forced them into long commutes? Are 401(k)s merely a “product” that young Americans hold onto because they’re too hard to sell? 
 
@@ -75,11 +75,11 @@ Similarly, the decision not to sell cattle was part of a complex traditional arr
 What I find so striking about the World Bank report (and Ferguson’s devastating deconstruction of it) is not that it’s a _bad_ piece of development writing, but that even fifty years later it’s still a _thoroughly unremarkable_ one. Economic development papers and talks tend to have a fairly fixed structure:  
 
 1.  A quick introduction to “the setting”
-    
+
 2.  Carefully gathered numerical data, with a variety of statistical arguments and robustness checks to show that one or two “main results” have been accurately reported.
-    
+
 3.  A story that plausibly explains these numbers (either a potential mechanism for an effect, or an explanation of why the effect turned out to be null)
-    
+
 
 If these stories are challenged, it is not because there is no actual evidence for them, but because an economist in the audience has thought of their own preferred theory. If the speaker can find some data point that contradicts the questioner’s idea, this is thought to “confirm” the original story. Since audience members (who often have little specific knowledge of the region) are unlikely to ask questions like “what if this village just has an incredibly complicated set of social conventions around cattle that prevents their sale even without market barriers in place?” or “do the region’s economic challenges have more to do with this very specific regulation in South African immigration law?”, plausible-sounding stories that explain one or two numerical data points tend to gain traction in the literature whether or not they have anything to do with reality. Mark McGovern famously noted this trend in a review of two of Paul Collier’s books, writing:
 
@@ -162,29 +162,29 @@ After writing _The Anti-Politics Machine,_ Ferguson largely gave up on the idea 
 ### Footnotes
 
 1.  Ferguson pg. 55
-    
+
 2.   World Bank, quoted by Ferguson pg. 25
-    
+
 3.   The idea that “less-developed countries” should all be alike seems unlikely, but it fits with the current trend in economics where essentially any question involving non-OECD countries is lumped together into “development.”
-    
+
 4.   [Popular Development Economics—An Anthropologist among the Mandarins](https://www.cambridge.org/core/journals/perspectives-on-politics/article/popular-development-economicsan-anthropologist-among-the-mandarins/F4B61C7199F51FF0F282DD9652635F31)  pg. 348
-    
+
 5.   Ferguson pg. 234
-    
+
 6.   As measured by randomized experiments. See, e.g. [Institutional Change by Imitation: Introducing Western Governance Practice in Congolese Villages](https://raulsanchezdelasierra.files.wordpress.com/2017/12/tuungane.pdf) for details.
-    
+
 7.   I learned this story from Raul Sanchez de la Sierra, a researcher involved in the evaluation.
-    
+
 8.   Ferguson pg. 252-253
-    
+
 9.   T. Sekhamane, quoted on Ferguson pg. 243
-    
+
 10.   Ferguson pg. 111
-     
+
 11.   Ferguson pg. 243
-     
+
 12.   See Orkin and Walker’s [Unconditional Cash Transfers and Civic Engagement in Kenya](https://www.povertyactionlab.org/evaluation/unconditional-cash-transfers-and-civic-engagement-kenya)
-     
+
 13.   Ferguson, pg. 258
-     
+
 14.   See “The Data is Gold” or Omar Bah’s comic, above, for some examples.

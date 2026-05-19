@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.478Z'
 slug: leisure-the-basis-of-culture-by-josef-pieper
-wordCount: 4175
+wordCount: 4170
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Philosophy
@@ -25,8 +24,8 @@ Now and then I get the sense that we are working too much. Over the last few yea
 
 Josef Pieper, calls this the _proletarianization_. Unlike the sociologist, he doesn’t talk about the proletariat as a capital-less person who is on the bottom of the food chain and forced to sell his labor for sustenance and livelihood. Rather, he talks about it as
 
-> 1.  An intensive and consuming engagement with and confinement to the ‘everyday world of work’,
-> 2.  in which the worker-type becomes the general human ideal and the worker figure foregrounds  itself as essential to what it means to be human and what it means to be good.
+1.  An intensive and consuming engagement with and confinement to the ‘everyday world of work’,
+2.  in which the worker-type becomes the general human ideal and the worker figure foregrounds  itself as essential to what it means to be human and what it means to be good.
 
 The proletarian is one who is “bound to the working-process”, regardless of whether or not she owns property. The proletarian is one “whose life is fully satisfied by the working-process itself because this space has been shrunken from within, and **because meaningful action that is not work is no longer possible or even imaginable”**. Pieper’s objection is thus metaphysical: to the idea that work is “the intrinsically meaningful realization of human existence”.
 
@@ -34,19 +33,19 @@ If Pieper is right and work has become a primary source of meaning and good, we 
 
 Workers in richer countries work less than workers in poorer countries. Ergo, capital matters.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d41b3f9c18d907b0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fbda069854a54aeb.png)
 
 South-East Asian ‘tiger economies’ (Singapore, Hong Kong, South Korea and Taiwan), which underwent rapid economic growth through the 1960s to the present, stand out as outliers. But even then, with the exception of Singapore, they saw a decline of work hours in the face of economic growth.  
 
-![](https://acximages.ennals.org/images/2022-book-reviews/f3a2636e059b376e.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/09e4ef6881e82489.png)
 
 This holds true for the other countries on the upper side of the trend (The United States, Myanmar, Ireland, Malaysia), except for China.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a79a2a8ef8018265.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e4bf284fa6dde257.png)
 
 Finally, this relationship between GDP / GDP growth and working hours also means that, on average, the higher your productivity (in dollar terms), the less you work.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/c6eff2c3601a8912.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/c324f616dd078363.png)
 
 According to Pieper, the proletarian works for the sake of work, regardless of capital. The above suggests otherwise. We’re getting to that 15 hour work week, just slower than Keynes expected. And, when we can afford it, we work less.
 
@@ -62,8 +61,8 @@ What is leisure? In modern parlance, leisure is the absence of work. Colloquiall
 
 Pieper tries to recover the ‘original’ meaning of leisure. Leisure is not the absence of work. It is in fact the _opposite_ of work. Where work is activity, leisure is non-activity. Where work is effortful, leisure is effortless. Where work serves a social function, leisure is subordinate to no purpose.
 
-> “Against the exclusiveness of the paradigm of work as activity, first of all, there is leisure as "non-activity"— an inner absence of preoccupation, a calm, an ability to let things go, to be quiet.  
->   
+> “Against the exclusiveness of the paradigm of work as activity, first of all, there is leisure as "non-activity"— an inner absence of preoccupation, a calm, an ability to let things go, to be quiet.
+>
 > Second, against the exclusiveness of the paradigm of work as effort, leisure is the condition of considering things in a celebrating spirit… [made possible when one] is in agreement with the world and its meaning….leisure lives on affirmation…
 >
 > In the third place, leisure stands opposed to the exclusiveness of the paradigm of work as social function… Leisure is not there for the sake of work, no matter how much new strength the one who resumes working may gain from it; leisure in our sense is not justified by providing bodily renewal or even mental refreshment to lend new vigor to further work - although it does indeed bring such things!
@@ -72,7 +71,7 @@ Secondly, like work, leisure is good. Because it stands in contrast to idleness 
 
 To summarize, this is sort of what Pieper is saying (the diagram is mine):  
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1132eeb0a4b3e494.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/08b54ae3837e1fd1.png)
 
 ## II.  
 
@@ -122,18 +121,17 @@ Finally, the third question I am interested in is regarding the book's first arg
 
 Differing attitudes and perceptions about work:
 
-> *   Textbook: Work is a series of tasks one is given to execute within a time frame. It’s a 9-5, unless your boss is an ass. You do it because everyone does it.
-> *   Aspirational: Work is a space where one encounters new problems and new experiences which helps one to become better thinkers and better doers. You keep at it and your enthusiasm knows no bounds.
-> *   Cynic: Work is a necessary evil. To bad UBI is not yet a thing and that even if it is, it will never be enough. Also, what else is there to do anyways?
-> *   Pragmatism: Work is a microcosm of life, a series of burdensome and unavoidable obligations. You accept it as an experience of life.
-> *   Hippie: Work is a place where you can find yourself?
+*   Textbook: Work is a series of tasks one is given to execute within a time frame. It’s a 9-5, unless your boss is an ass. You do it because everyone does it.
+*   Aspirational: Work is a space where one encounters new problems and new experiences which helps one to become better thinkers and better doers. You keep at it and your enthusiasm knows no bounds.
+*   Cynic: Work is a necessary evil. To bad UBI is not yet a thing and that even if it is, it will never be enough. Also, what else is there to do anyways?
+*   Pragmatism: Work is a microcosm of life, a series of burdensome and unavoidable obligations. You accept it as an experience of life.
+*   Hippie: Work is a place where you can find yourself?
 
 This is what lore looks like. And it has within it
 
 > “an element of imaginative irony to all the postures. We are aware enough of uncertainties, ambiguities, and gaps in our knowledge that we are not entirely sure of ourselves, so there is some invention and kayfabe-like willed belief involved. A gap between felt and performed confidence.”
 
-*\*\*
-
+* * *
 All said,  _Leisure: The Basis of Culture_ is a a great book. It’s a great book because it asks hard questions. Questions we aren’t asking because _we think_ they don’t have immediate utility. Questions we aren’t asking precisely because they are too hard to tackle and seem to go nowhere. Questions that are unsolvable (or only partially solvable). Questions which are the kind of questions philosophy, at least according to Pieper, is meant to ask. Recommended, if you have the patience.
 
 * * *

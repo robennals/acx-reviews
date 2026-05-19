@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.480Z'
 slug: martial-arts-review-muay-thai-and-brazilian-jiu-jitsu
-wordCount: 5767
+wordCount: 5777
 readingTimeMinutes: 26
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - History
@@ -51,9 +50,8 @@ _Humble Reviewer: We’ll get there, remember all this took a long time. From ni
 
 The public consciousness began to absorb the idea of someone with a black belt as unstoppable. White pajamas with a black band at the waist and you were consecrated; a titan of combat. A sort of real-life movie character, philosophically adept, physically deadly and emotionally balanced. This ideation soon hit a wall called Mixed-Martial-Arts.  
 
-_ER: You mean this is about the UFC?_ 
-
-_HR: No, but it makes a cameo._ 
+> _ER: You mean this is about the UFC?_  
+> _HR: No, but it makes a cameo._
 
 For years it seemed as though the effectiveness of the arts were directly tied to their rarity.  Over the four-decade period from the nineteen fifties to the nineteen nineties, every country Westerners had never (or barely) heard of brought forth its peculiar method of dispatching foes.  It wasn’t just enough to know Karate. Rather, you told people you did Shito-Ryu, or Kyokushin.  Not to be outdone, Kung-fu was no longer just Kung-Fu but Wing Chun, Lama-Pai, or Ba-Gua-Chang.  People trained in Hapkido, Tang Soo Do, the list goes on, and on.  North America, as is its wont, cobbled many of these into bespoke, hybrid styles.  North Americans love a mash-up, it is a rubric where we own the field.  
 
@@ -135,7 +133,7 @@ Actual competition, even at the amateur level, is grueling, and dangerous. Anyon
 
 In return for all this you receive lumps, contusions, burning lungs, and possibly a small trophy.  That’s it ---almost. The cheering of a large crowd is heady and no wonder some become addicted to it. Even a few hundred people shouting your name is a memorable experience. You will also gain the admiration of your peers. They may think you unbalanced but you won’t be openly denigrated.  Invariably, everyone respects someone who will climb into that ring.  
 
-**Final and most important aside****-** this is about potential damage to your body and brain.  Damage to your body, as a result of Muay Thai, will be minimal, impermanent, and you will almost always be stronger afterwards.  Damage to the brain is a different matter.  Brain damage from _training_ is not the problem.  Damage from ring fighting, or even sparring, is a **real thing**.  Chronic Traumatic Encephalopathy (CTE) doesn’t affect everyone, but the risks certainly outweigh the benefits. For ACX readers this strikes me as a particular concern.  Anyone who gets hit repeatedly in the head, even with subconcussive blows, risks this sort of damage.  It is a serious concern that bears mentioning.
+**Final and most important aside-** this is about potential damage to your body and brain.  Damage to your body, as a result of Muay Thai, will be minimal, impermanent, and you will almost always be stronger afterwards.  Damage to the brain is a different matter.  Brain damage from _training_ is not the problem.  Damage from ring fighting, or even sparring, is a **real thing**.  Chronic Traumatic Encephalopathy (CTE) doesn’t affect everyone, but the risks certainly outweigh the benefits. For ACX readers this strikes me as a particular concern.  Anyone who gets hit repeatedly in the head, even with subconcussive blows, risks this sort of damage.  It is a serious concern that bears mentioning.
 
 _ER: You aren’t selling me on this.  I have an advanced degree, and my peers already respect me._ 
 
@@ -159,9 +157,8 @@ Jujitsu
 
 Back in the time of the samurai…
 
-_ER: Oh not more history._
-
-_HR:  I’ll be brief._
+> _ER: Oh not more history._  
+> _HR:  I’ll be brief._
 
 Apocryphal story II
 
@@ -173,9 +170,8 @@ Jujitsu as we think of it today comes from Judo, by way of Brazil.  Legend goes 
 
 The Gracie clan, as they are sometimes known, began taking on all comers in the same manner as the Thais a few paragraphs back.  Tae Kwon Do, KickBoxing, Esoteric-Fighting-Style-#6, whatever.  They were willing to fight quiet anyone.  They issued a standing challenge to all other styles.  Eventually this challenge led to a series of events known in Portuguese as ‘Vale Tudo’, literally anything goes. People came from all over the world to try their hand in this new arena. This was the progenitor of what we now call Mixed Martial Arts.    
 
-_ER: Oh, this is the part with the UFC_ 
-
-_HR: This is the part with the UFC._ 
+> _ER: Oh, this is the part with the UFC_  
+> _HR: This is the part with the UFC._
 
 In the domain of martial arts movies there exists a seminal offering known as _Bloodsport_. Perhaps you have seen it. The main plot involves a secret underground fighting tournament. Martial artists of various styles travel across the world to prove their mettle against one another in fictional, no rules championship. By the late nineteen-eighties style vs. style fighting was everywhere in media. Apart from movies and television, video games became enamored with this same idea. Street Fighter and Mortal Kombat are prominent examples. The idea of this kind of ‘No Holds Barred’ tournament percolated for so long, in the minds of so many, that in nineteen-ninety three it finally made pay per view.  The first UFC was like nothing before seen and to the surprise of everyone but the Gracie family, Jujitsu came out on top. Every fight, even those whose participants without a grappling background, and who had every intention of remaining standing, ended up on the mat.  Suddenly the effectiveness of intricate hand and foot positions was usurped by the effectiveness of toeholds and triangle chokes.  Thus spawned the world of mixed martial arts as we know it today. Enter the supreme grappling art: Brazilian Jiu Jitsu.
 
@@ -201,17 +197,15 @@ Immobilizing someone larger than yourself is uncommonly rewarding. There is a re
 
  ER: So, no CTE?  
 
-_HR: No CTE. Being struck at all is not a part of the rule set._ 
-
-_ER: Sounds more appealing already.  What’s the drawback?_  
+> _HR: No CTE. Being struck at all is not a part of the rule set._  
+> _ER: Sounds more appealing already.  What’s the drawback?_
 
 From a pure combat point of view the drawbacks are twofold.  1) fighting on your feet offers advantage against multiple opponents (_I know, you don’t even plan to have one opponent._), in many settings it is preferable to remain standing.  2) Without strikes of its own, Brazilian Jujitsu leaves one vulnerable to being knocked out by a punch or kick. Still, for the average person, these drawbacks are almost immaterial.  Most people never have to use these skills.  
 
 The real drawback: Cauliflower ears.  Repeated instances of grinding and pressing with your head (a necessary part of grappling) will cause your ears to bend and fold and develop scar tissue.  Disconcertingly visible scar tissue. People will take notice when you are first introduced.  Now, some folks really go in for this, wearing minor disfigurement as a badge of honor. A jungle level warning. Fair enough, though I do not imagine it helps your dating life. Nor say, a career as a newscaster.  It is possible to protect your ears with a wrestler’s ear protection, but  in practice this is almost never done.  Most serious players consider cauliflowering to be a badge of accomplishment, which it is.
 
-_ER: So, do I want to do this?_ 
-
-_HR: Maybe.  It is safer and less painful than Muay Thai._ 
+> _ER: So, do I want to do this?_  
+> _HR: Maybe.  It is safer and less painful than Muay Thai._
 
 BJJ competition has a much lower ‘buy in’ than Muay Thai.  Because the matches are so much less demanding on the body and especially the brain. You can train a few hours a week and still compete as a hobbyist. Even if you decline to compete, a mere six months of classes will have you feeling very capable. You will be privy to knowledge that is rare, procured only through work, and cannot be taken away. ‘Rolling’ - those practice matches in class - will give you an earned confidence that translates well to everyday endeavors. Contusions are minimal  and your limbs mostly stay in working order.  
 

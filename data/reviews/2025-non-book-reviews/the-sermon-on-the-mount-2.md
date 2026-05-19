@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2025-01-01T00:00:00.000Z'
 slug: the-sermon-on-the-mount-2
-wordCount: 10062
+wordCount: 10043
 readingTimeMinutes: 45
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Religion
@@ -45,37 +44,22 @@ One of the keys to an effective speech is starting with a good hook. You need so
 
 The Sermon on the Mount begins with a series of statements known today as the Beatitudes: the “supremely blessed”. Let’s read them now, they’re not too long:
 
-> _Blessed are the poor in spirit,_
->
->     _for theirs is the kingdom of heaven._
->
->  _Blessed are those who mourn,_
->
->     _for they will be comforted._
->
->  _Blessed are the meek,_
->
->     _for they will inherit the earth._
->
->  _Blessed are those who hunger and thirst for righteousness,_
->
->     _for they will be filled._
->
->  _Blessed are the merciful,_
->
->     _for they will be shown mercy._
->
-> _Blessed are the pure in heart,_
->
->     _for they will see God._
->
->  _Blessed are the peacemakers,_
->
->     _for they will be called sons of God._
->
-> _Blessed are those who are persecuted because of righteousness,_
->
->     _for theirs is the Kingdom of Heaven.”_
+> _Blessed are the poor in spirit,_  
+> _for theirs is the kingdom of heaven._  
+>  _Blessed are those who mourn,_  
+> _for they will be comforted._  
+>  _Blessed are the meek,_  
+> _for they will inherit the earth._  
+>  _Blessed are those who hunger and thirst for righteousness,_  
+> _for they will be filled._  
+>  _Blessed are the merciful,_  
+> _for they will be shown mercy._  
+> _Blessed are the pure in heart,_  
+> _for they will see God._  
+>  _Blessed are the peacemakers,_  
+> _for they will be called sons of God._  
+> _Blessed are those who are persecuted because of righteousness,_  
+> _for theirs is the Kingdom of Heaven.”_
 
 To a modern audience, and particularly to those who grew up in the faith, the Beatitudes can be a bit confusing. Some of them are so straightforward that my mind tends to flow over them without taking notice, like “blessed are the peacemakers” or “blessed are the merciful.” Others are strange and confusing, like “blessed are the poor in spirit” or the most famous beatitude, “blessed are the meek”. The Beatitudes are never explained or referenced again. They just kind of happen. A modern Westerner reading them today will likely come away a bit confused why they’re there.
 
@@ -193,14 +177,10 @@ Jesus has made a lot of surprising statements so far, but he finishes with the m
 
 The radical nature of this message may be lost on a Western audience. The last 2,000 years of Christian history has consisted in great part of men grappling with this concept, trying to live it out, failing often but also succeeding here and there until we reach today where it is commonly accepted that unconditional love is an ideal goal to reach for. This was not anywhere in the headspace of his audience. These were the people, remember, who wrote things like:
 
-> _O daughter of Babylon, you devastator,_
->
-> _How blessed will be the one_
->
-> _Who repays you as you have repaid us._
->
-> _How blessed will be the one who seizes and dashes your little ones_
->
+> _O daughter of Babylon, you devastator,_  
+> _How blessed will be the one_  
+> _Who repays you as you have repaid us._  
+> _How blessed will be the one who seizes and dashes your little ones_  
 > _Against the rock. (Psalms 137:8-9)_
 
 Or

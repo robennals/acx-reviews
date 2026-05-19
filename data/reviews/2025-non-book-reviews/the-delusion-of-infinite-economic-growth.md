@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.395Z'
 slug: the-delusion-of-infinite-economic-growth
-wordCount: 1971
+wordCount: 1965
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Economics
@@ -19,12 +18,12 @@ tags:
 
 “[The Delusion of Infinite Economic Growth](https://www.scientificamerican.com/article/the-delusion-of-infinite-economic-growth/)” is an article published by the Scientific American in 2021, which is one of a long line of pieces making the same argument. They generally all have the same structure:
 
-> 1.  Here are one hundred different resources we rely on that at present our consumption of seems to be growing exponentially, but must have a limit. For instance, oil on earth.
-> 2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
-> 3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
-> 4.  And when we reach the limit, bad things happen.[1]
+1.  Here are one hundred different resources we rely on that at present our consumption of seems to be growing exponentially, but must have a limit. For instance, oil on earth.
+2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
+3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
+4.  And when we reach the limit, bad things happen.[1]
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/86beb132b793e6aa.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9b0bd9ef3fbc9d65.png)
 
 As a techno-optimist I do indeed want to respond with the argument in (2). Putting imaginary boundaries on systems is a common systems thinking error. “Lithium battery production” isn’t the system, and so its limit is not the limit that concerns us. Our limit is the laws of physics, and the [light cone](https://en.wikipedia.org/wiki/Light_cone#In_general_relativity) they seem to restrict us to.
 
@@ -32,8 +31,8 @@ But, I must admit their rebuttal to my response in (3) has a certain appeal – 
 
 So under the pretense of reviewing this article’s argument, I will go through my own analysis to conclude when we reach our limit, when exponential growth must stop. But I’ll do it under my own terms, I choose the system, and I choose the limit. In a sense, this is a steelman of the article they were trying to make, crafted for techno-optimist sensibilities. And through it we will see if the underlying article has mettle. I focus on this and ignore the rest of the, uh, fluff, in the article, as part of this steelmanning procedure, for its own benefit. These are my assumptions.
 
-> 1.  The speed of light is absolute.
-> 2.  The second law of thermodynamics is correct.
+1.  The speed of light is absolute.
+2.  The second law of thermodynamics is correct.
 
 For the record, I am being very charitable with my assumptions. Our understanding of physics has last been completely turned on its head just a century ago, and we are going to be discussing the far future. I am assuming the current understanding of physics will never be overturned, in a way that will allow our economy to grow a bit longer. Nevertheless, we must choose some assumptions or leave the current framing entirely, and I choose to accept these constraints.
 
@@ -65,7 +64,7 @@ As for how much negentropy we can potentially harvest, at the lower limit, the m
 
 If we take the upper limit of the entire Milky Way galaxy, we just do the same calculation using its mass. Combining both we get a limit of 10^77 - 10^101 Boltzmann constants. Quite a large range, but luckily we are going to be facing this limit off against an exponential.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/15d2fe94d24eff99.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e89ee352f2876517.png)
 
 What we get is that assuming our negentropy harvesting rate continues to grow by 2% year over year, we will exhaust the amount available to us in somewhere between 4,000 and 7,000 years. This doesn’t mean our negentropy consumption can’t grow for longer – after all, the light cone constantly expands. But it won’t be able to grow exponentially anymore.
 

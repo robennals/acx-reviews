@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.600Z'
 slug: determined-a-science-of-life-without-free-will-by-robert-m-sapolsky
-wordCount: 10536
-readingTimeMinutes: 47
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+wordCount: 10649
+readingTimeMinutes: 48
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Philosophy
@@ -19,89 +18,89 @@ tags:
 
 [review by S.F.]
 
-Let me set your bearings. This is a review of Robert M. Sapolsky’s 2023 book _Determined: A Science of Life Without Free Will_, divided into three sections. The middle section is a straight up, no-nonsense overview of what’s in the book, delivered with me trying to keep my opinions mostly to myself. The first and third sections provide what I believe to be the book’s missing on and off ramps. To me, _Determined_ is a book about religion that doesn’t realize it is. But despite that (perceived) shortcoming, I loved the book.
-
-Section I starts with me _defining_ religion in a way that should be new to you. It’s a definition with a simple, “mathematical” heart. You don’t need to be convinced of my definition to get through the full review, but you will have to be able to work with it. That definition goes on for quite a while, so if you can’t work with it, or don’t want to, but you’re still interested in hearing about a book on free will by a _scientist_ (not a philosopher), just read [Section II](#h.w0gonkvb9udp), which won’t win me any prizes, but should get the job done.
+> Let me set your bearings. This is a review of Robert M. Sapolsky’s 2023 book _Determined: A Science of Life Without Free Will_, divided into three sections. The middle section is a straight up, no-nonsense overview of what’s in the book, delivered with me trying to keep my opinions mostly to myself. The first and third sections provide what I believe to be the book’s missing on and off ramps. To me, _Determined_ is a book about religion that doesn’t realize it is. But despite that (perceived) shortcoming, I loved the book.
+>
+> Section I starts with me _defining_ religion in a way that should be new to you. It’s a definition with a simple, “mathematical” heart. You don’t need to be convinced of my definition to get through the full review, but you will have to be able to work with it. That definition goes on for quite a while, so if you can’t work with it, or don’t want to, but you’re still interested in hearing about a book on free will by a _scientist_ (not a philosopher), just read [Section II](#h.w0gonkvb9udp), which won’t win me any prizes, but should get the job done.
 
 ## I.
 
 ### Stranger and Enemy Used To Be the Same Word 
 
-British anthropologist Robin Dunbar accomplished a rare feat. He had a number named after him in his own lifetime: 150. Dunbar’s number is the approximate number of people any single person can know and remember well enough to assign a trustworthy trustworthiness score to. Dunbar was the first to notice that 150 shows up all over the human place. But for our purposes here I want to focus in on just one of them: certain types of groups split when membership hits 150. They can’t grow past it.
-
-Humans lived in groups much _smaller_ than 150 until relatively recently. The small sizes were probably due to frequently recurring ice ages. Humanity just couldn’t bloom until the next ice age failed to come along (and it still hasn’t arrived). In the extended temperate climate, the overall human population started to grow, and then, triggered by the subsequent crowding, the size of groups started to grow. Somewhere about 12,000 years ago the size hit 150. And then (relatively) shortly after that, moralistic religions appeared.
-
-Non-moralistic religions had existed prior to that point, in the under-150 groups, but those religions never bothered themselves with defining right and wrong; they limited themselves to explaining the natural world. So it looks like morality was required for groups of 151+. Why?
-
-The problem was strangers. Back then, all humans were born with a deep, fight-or-flight instinct for unrecognized humans. Unrecognized humans were like packs of wolves, but worse—because they could reason. “Run away!” was the instinctive response to an encounter with unknown humans, unless you were trapped or had an immediate and overwhelming gut feeling that you and yours could win the fight.
+> British anthropologist Robin Dunbar accomplished a rare feat. He had a number named after him in his own lifetime: 150. Dunbar’s number is the approximate number of people any single person can know and remember well enough to assign a trustworthy trustworthiness score to. Dunbar was the first to notice that 150 shows up all over the human place. But for our purposes here I want to focus in on just one of them: certain types of groups split when membership hits 150. They can’t grow past it.
+>
+> Humans lived in groups much _smaller_ than 150 until relatively recently. The small sizes were probably due to frequently recurring ice ages. Humanity just couldn’t bloom until the next ice age failed to come along (and it still hasn’t arrived). In the extended temperate climate, the overall human population started to grow, and then, triggered by the subsequent crowding, the size of groups started to grow. Somewhere about 12,000 years ago the size hit 150. And then (relatively) shortly after that, moralistic religions appeared.
+>
+> Non-moralistic religions had existed prior to that point, in the under-150 groups, but those religions never bothered themselves with defining right and wrong; they limited themselves to explaining the natural world. So it looks like morality was required for groups of 151+. Why?
+>
+> The problem was strangers. Back then, all humans were born with a deep, fight-or-flight instinct for unrecognized humans. Unrecognized humans were like packs of wolves, but worse—because they could reason. “Run away!” was the instinctive response to an encounter with unknown humans, unless you were trapped or had an immediate and overwhelming gut feeling that you and yours could win the fight.
 
 ### Stuck at 150
 
-It’s easy to see why 150 was such a hard ceiling. When adult-151 came on the scene, anyone who met them forgot some other adult member. And then later, when that forgotten member was happened across, flight-or-flight triggered. (An intruder!!!) Soon enough, all hell broke loose across the group as the membership grew further and further past 150. Internal strife split the group.
-
-This splitting-at-150 phenomenon went on for quite some time. It was an era of wildly proliferating societies, cheek by jowl, each with 150 adults, and each (eventually) with its own _language_ (not just dialect). It mimicked cell division, but with very little communication occurring between the cells (think about why). And it was pointless to conquer your neighbors (think about why). Today, in the 21st century, the echoes of this stuck-at-150 stage still reach us. New Guinea has ~800 languages; Nigeria, ~500; India, ~450; China, ~300; and so on.[[43]](#ftnt43)
+> It’s easy to see why 150 was such a hard ceiling. When adult-151 came on the scene, anyone who met them forgot some other adult member. And then later, when that forgotten member was happened across, flight-or-flight triggered. (An intruder!!!) Soon enough, all hell broke loose across the group as the membership grew further and further past 150. Internal strife split the group.
+>
+> This splitting-at-150 phenomenon went on for quite some time. It was an era of wildly proliferating societies, cheek by jowl, each with 150 adults, and each (eventually) with its own _language_ (not just dialect). It mimicked cell division, but with very little communication occurring between the cells (think about why). And it was pointless to conquer your neighbors (think about why). Today, in the 21st century, the echoes of this stuck-at-150 stage still reach us. New Guinea has ~800 languages; Nigeria, ~500; India, ~450; China, ~300; and so on.[[43]](#ftnt43)
 
 ### The Secret to 151+
 
-In order to break through the 150 threshold on group size–and there was most certainly selective pressure to do so–the fight-or-flight instinct for strangers needed to be replaced with a new, _wait-and-see_ behavior. From our vantage point today, that seems like an easy problem to solve. But in fact it was the greatest problem humans ever solved. Instincts are not easy to override. Try walking through a roomful of large poisonous snakes after I tell you they don’t bite. And if you can do that (All hail the ophiophilists!) then come play with my pet hyena.
-
-The solution to the problem was, of course, religion. Its sole job was to convince (the highly impressionable) young children in the group that humans were a _tame_ species, that every person—all the way up to and including the stranger—was “essentially” kind. The stranger, even though you feared him most of all, was to be given a chance. As the children grew older and witnessed how the adults _actually_ treated strangers, they would outgrow the belief, for the most part. They wouldn’t be able to _fully_ dispatch it because it had come in too early, and was too deeply embedded. And over the generations the belief would take deeper and deeper hold until eventually everyone, adults included, came to embrace the lie about the tameness of humans. And then an amazing property of mass delusion kicked in: if everyone in a group believes something, it _becomes_ true, in the only sense that matters to the group most of the time.
+> In order to break through the 150 threshold on group size–and there was most certainly selective pressure to do so–the fight-or-flight instinct for strangers needed to be replaced with a new, _wait-and-see_ behavior. From our vantage point today, that seems like an easy problem to solve. But in fact it was the greatest problem humans ever solved. Instincts are not easy to override. Try walking through a roomful of large poisonous snakes after I tell you they don’t bite. And if you can do that (All hail the ophiophilists!) then come play with my pet hyena.
+>
+> The solution to the problem was, of course, religion. Its sole job was to convince (the highly impressionable) young children in the group that humans were a _tame_ species, that every person—all the way up to and including the stranger—was “essentially” kind. The stranger, even though you feared him most of all, was to be given a chance. As the children grew older and witnessed how the adults _actually_ treated strangers, they would outgrow the belief, for the most part. They wouldn’t be able to _fully_ dispatch it because it had come in too early, and was too deeply embedded. And over the generations the belief would take deeper and deeper hold until eventually everyone, adults included, came to embrace the lie about the tameness of humans. And then an amazing property of mass delusion kicked in: if everyone in a group believes something, it _becomes_ true, in the only sense that matters to the group most of the time.
 
 ### The All-Important Sales Pitch 
 
-Now, while children may be highly impressionable, they won’t believe just anything you tell them, especially when life and death are involved. So, the children had to be _sold to_, and sold to hard. The pitch that ended up working best involved the promise of an eternal, carefree afterlife featuring a scorekeeper who tracked the behavior of everyone on earth. It was a simple game: score well, and you go to heaven. And the scorekeeper could be schmoozed. He could hear people’s thoughts. He understood the mistakes people made and would forgive their bad behavior (if they were truly contrite, of course) by revising their scores upward. Although his voice could not normally be heard, the scorekeeper was always there and his presence could always be felt. (The marketing department later added a fiery temper, large muscles, long hair, and a flowing beard, but the scorekeeper started out as a simple, friendly and caring statistician with a crew cut.)
-
-Variations of that pitch, incredibly (in retrospect), carried the day, allowing humans to live in groups of unlimited size—for thousands of years. And then it was fatally infected by science. True belief in the afterlife—_and true belief is required for all (living) religions_—could no longer be passed reliably across the generations. A new story was needed. Without one, large societies would collapse. Lucky for us, Religion 2.0 emerged.
+> Now, while children may be highly impressionable, they won’t believe just anything you tell them, especially when life and death are involved. So, the children had to be _sold to_, and sold to hard. The pitch that ended up working best involved the promise of an eternal, carefree afterlife featuring a scorekeeper who tracked the behavior of everyone on earth. It was a simple game: score well, and you go to heaven. And the scorekeeper could be schmoozed. He could hear people’s thoughts. He understood the mistakes people made and would forgive their bad behavior (if they were truly contrite, of course) by revising their scores upward. Although his voice could not normally be heard, the scorekeeper was always there and his presence could always be felt. (The marketing department later added a fiery temper, large muscles, long hair, and a flowing beard, but the scorekeeper started out as a simple, friendly and caring statistician with a crew cut.)
+>
+> Variations of that pitch, incredibly (in retrospect), carried the day, allowing humans to live in groups of unlimited size—for thousands of years. And then it was fatally infected by science. True belief in the afterlife—_and true belief is required for all (living) religions_—could no longer be passed reliably across the generations. A new story was needed. Without one, large societies would collapse. Lucky for us, Religion 2.0 emerged.
 
 ### The New Sales Pitch
 
-The new 2.0 story dumped the gods (and their holy books) because they were the source of the problem. The 1.0 religions had all unwittingly taken on the baggage of the earlier “nature-explaining” religions, so their holy books foolishly contained claims _which could someday be disproven_—a religion conjurer’s rookie mistake, though I’m sure it must have been hard to conceive of modern science. So, in the design of religion 2.0, the gods and the holy books were replaced with science and a brand new, _undisprovable_ white lie: human life is sacred. (Spoiler alert: human life is not sacred.) Stamping human life sacred not only causes each human life to be infinitely precious (providing the required tameness delusion), but also infinitely _equal_. The infinitely equal part turned out to be much truer than they knew at the time. It didn’t apply to just rich white men, as they had originally contrived it.
-
-But the infinitely precious part was a stroke of genius. I myself was taught as a child that human life is sacred, and I believe it, deep, deep down. Even though I know there’s absolutely no evidence for it (we’re just smart animals), I couldn’t purge that belief in a million years. I am a humanist, you are a humanist, and we will die humanists. Religion works.
+> The new 2.0 story dumped the gods (and their holy books) because they were the source of the problem. The 1.0 religions had all unwittingly taken on the baggage of the earlier “nature-explaining” religions, so their holy books foolishly contained claims _which could someday be disproven_—a religion conjurer’s rookie mistake, though I’m sure it must have been hard to conceive of modern science. So, in the design of religion 2.0, the gods and the holy books were replaced with science and a brand new, _undisprovable_ white lie: human life is sacred. (Spoiler alert: human life is not sacred.) Stamping human life sacred not only causes each human life to be infinitely precious (providing the required tameness delusion), but also infinitely _equal_. The infinitely equal part turned out to be much truer than they knew at the time. It didn’t apply to just rich white men, as they had originally contrived it.
+>
+> But the infinitely precious part was a stroke of genius. I myself was taught as a child that human life is sacred, and I believe it, deep, deep down. Even though I know there’s absolutely no evidence for it (we’re just smart animals), I couldn’t purge that belief in a million years. I am a humanist, you are a humanist, and we will die humanists. Religion works.
 
 ### Morality is Implanted, Not Awakened
 
-The morality that extends beyond the inborn morality for the 150, the morality that reaches all the way to the very last human, is not _awakened_ in the individual, it’s _implanted_ there. We are _told_ that the love-of-the-150 (only) is a stunted, insufficient thing that was always meant to be extended to all humans. But there’s no evidence for that claim—and _can’t_ be. However, does convincing ourselves of its “truth” help us survive? (Yes.)
-
-We were brainwashed, pure and simple. We were bombarded with morality tales from the moment we could speak. And the moral instruction continues throughout our lives via story based entertainment. All our stories are just morality tales dressed up in action, comedy, mystery, romance and sex. We are desperate to be reminded that human life is sacred, that being kind to strangers is good behavior—_because the brainwashing atrophies over time_, and without it, group cohesion erodes. We start seeing ourselves as the dangerous animals we truly are. _Even today, all humans are still being born with a deeply instinctual fear of strangers that must be suppressed._ When it can’t be, we fight wars. 
+> The morality that extends beyond the inborn morality for the 150, the morality that reaches all the way to the very last human, is not _awakened_ in the individual, it’s _implanted_ there. We are _told_ that the love-of-the-150 (only) is a stunted, insufficient thing that was always meant to be extended to all humans. But there’s no evidence for that claim—and _can’t_ be. However, does convincing ourselves of its “truth” help us survive? (Yes.)
+>
+> We were brainwashed, pure and simple. We were bombarded with morality tales from the moment we could speak. And the moral instruction continues throughout our lives via story based entertainment. All our stories are just morality tales dressed up in action, comedy, mystery, romance and sex. We are desperate to be reminded that human life is sacred, that being kind to strangers is good behavior—_because the brainwashing atrophies over time_, and without it, group cohesion erodes. We start seeing ourselves as the dangerous animals we truly are. _Even today, all humans are still being born with a deeply instinctual fear of strangers that must be suppressed._ When it can’t be, we fight wars. 
 
 ### The Current Dominant Religion is Humanism 
 
-Now don’t get me wrong. I’m not using ‘brainwashed’ pejoratively here. It was all for the good! Humanism—Religion 2.0—has worked amazingly well with its sacred life gambit. There are two clear signals of its success (in addition to its emergence having prevented the collapse of civilization). The first is that all the 1.0 religions are upgrading themselves to 2.0 religions. Slavery, forced clitoridectomies, homophobia—and many other sordid cruelties—were once all totally _in_, and are now almost all totally out. The 1.0 holy books, which were literally their law books in the beginning, are now to be largely ignored, or “taken metaphorically”. The gods themselves have been forced into anger management classes, from which they emerge as humanists, as they must if their societies are to survive.  
-
-They wouldn’t be able to survive because the other clear signal that humanism has worked well is that humanists have the bigger bombs, and that’s the bottom line. People who are kinder to each other, it turns out, cooperate better and survive more effectively.
+> Now don’t get me wrong. I’m not using ‘brainwashed’ pejoratively here. It was all for the good! Humanism—Religion 2.0—has worked amazingly well with its sacred life gambit. There are two clear signals of its success (in addition to its emergence having prevented the collapse of civilization). The first is that all the 1.0 religions are upgrading themselves to 2.0 religions. Slavery, forced clitoridectomies, homophobia—and many other sordid cruelties—were once all totally _in_, and are now almost all totally out. The 1.0 holy books, which were literally their law books in the beginning, are now to be largely ignored, or “taken metaphorically”. The gods themselves have been forced into anger management classes, from which they emerge as humanists, as they must if their societies are to survive.  
+>
+> They wouldn’t be able to survive because the other clear signal that humanism has worked well is that humanists have the bigger bombs, and that’s the bottom line. People who are kinder to each other, it turns out, cooperate better and survive more effectively.
 
 ### Humanism is the Way, But Not Forever
 
-As humanists, we think we’ve got it all figured out. Like all true believers of all religions, we believe that morality has been solved! We believe that we don’t have a religion, we have the truth. We’re _secular_. Other people have religions. We believe that humanism is the end game; that there is no better core belief around which to organize a society; that before humanism, humans simply didn’t understand that just treating each other better was the answer to everything! Forever, and for all time. (Redundancy intended.) It’s just the way the universe works.  
-
-But it’s not. Think about where the never-ending reduction in human suffering leads when pushed to the extreme. Not to nirvana. To bubble babies. There’s only so much gas in the kindness tank, and there’s no gauge to tell us how much is left. If we go on forever like this we’ll eventually get caught in an infinite politeness loop of “No, you go first.” Do we escape that loop with the flipping of coins inside it? Where would that leave us? With randomness ensuring equality? Is that a good way to organize a society? I don’t know, but I doubt it. Have we run the game theory simulations on this?
-
-It’s not sufficient to just swat down bubble babies and the politeness loop as ludicrous, extreme examples. Why are we always in the business of drawing moral lines? Why isn’t it always perfectly obvious to us what the correct way to reduce human suffering is? Is abortion ok? What constitutes a hate crime? What knowledge is harmful to children? Should children be able to command their own sex changes before puberty? And on and on and on. There _are_ no answers built into the universe that we can discover. Like all other living things, humans are antifragile; we require _some_ smacking around. Or are we to exist outside of the grip of natural selection?
+> As humanists, we think we’ve got it all figured out. Like all true believers of all religions, we believe that morality has been solved! We believe that we don’t have a religion, we have the truth. We’re _secular_. Other people have religions. We believe that humanism is the end game; that there is no better core belief around which to organize a society; that before humanism, humans simply didn’t understand that just treating each other better was the answer to everything! Forever, and for all time. (Redundancy intended.) It’s just the way the universe works.  
+>
+> But it’s not. Think about where the never-ending reduction in human suffering leads when pushed to the extreme. Not to nirvana. To bubble babies. There’s only so much gas in the kindness tank, and there’s no gauge to tell us how much is left. If we go on forever like this we’ll eventually get caught in an infinite politeness loop of “No, you go first.” Do we escape that loop with the flipping of coins inside it? Where would that leave us? With randomness ensuring equality? Is that a good way to organize a society? I don’t know, but I doubt it. Have we run the game theory simulations on this?
+>
+> It’s not sufficient to just swat down bubble babies and the politeness loop as ludicrous, extreme examples. Why are we always in the business of drawing moral lines? Why isn’t it always perfectly obvious to us what the correct way to reduce human suffering is? Is abortion ok? What constitutes a hate crime? What knowledge is harmful to children? Should children be able to command their own sex changes before puberty? And on and on and on. There _are_ no answers built into the universe that we can discover. Like all other living things, humans are antifragile; we require _some_ smacking around. Or are we to exist outside of the grip of natural selection?
 
 We’re trying to define what constitutes human suffering as we go. We _pretend_ like we know what we’re doing, but we always have to wait and see if what we chose worked out or not. And then we still don’t know. Not for sure. There are just too many variables. Many very smart people still believe, for example, that despite its repeated, consistent face plants, on both large and small scales, that communism is the answer. Is it?
 
 ### Religion is All the Rules We Make Up for Behavior in a Society
 
-A religion starts as a touchstone, as something like “there’s an afterlife”, or “human life is sacred” (aka, “all men are created equal”). Then from that touchstone all culture and law grow. Religion is not just the touchstone coupled with a book containing some stories that we consult in our spare time for spiritual guidance. Religion is the entire compendium of all the agreed-upon limits of acceptable behavior, and the punishments for breaking them, in a mind bogglingly complex world, with all of it justified against the touchstone.
-
-Natural selection provided humans with a well-honed instinct for intuiting correct behavior in groups where everyone is known to everyone else. But once we strolled past 150 and introduced strangers, we had to define group behavior on our own, using rationality. And rationality has _no idea_ what it’s doing. It’s still guessing with “everybody just be nice to everybody else”, and then trying to define exactly what that means as problems crop up.
+> A religion starts as a touchstone, as something like “there’s an afterlife”, or “human life is sacred” (aka, “all men are created equal”). Then from that touchstone all culture and law grow. Religion is not just the touchstone coupled with a book containing some stories that we consult in our spare time for spiritual guidance. Religion is the entire compendium of all the agreed-upon limits of acceptable behavior, and the punishments for breaking them, in a mind bogglingly complex world, with all of it justified against the touchstone.
+>
+> Natural selection provided humans with a well-honed instinct for intuiting correct behavior in groups where everyone is known to everyone else. But once we strolled past 150 and introduced strangers, we had to define group behavior on our own, using rationality. And rationality has _no idea_ what it’s doing. It’s still guessing with “everybody just be nice to everybody else”, and then trying to define exactly what that means as problems crop up.
 
 ### Religion Helps Us Survive, Not Please The Universe
 
 As pathetic as our religions are at defining large group behavior, they’re good enough for the job if they can win (or draw) wars against any other bumbling rational attempts at trying to define behavior for groups with strangers.
 
-Can wars be won in the 21st century without women in the workforce? Probably not. Can a slave society defeat a mechanized society? Definitely not. And it’s not because slave owners are bad people and the universe is rigged to let the good people win. It’s because societies with slaves are inefficient. They waste human minds. It’s not about good and evil, it’s about winning wars. In fact, our definitions of what is good and evil are constantly being reworked to suit that purpose.  
+> Can wars be won in the 21st century without women in the workforce? Probably not. Can a slave society defeat a mechanized society? Definitely not. And it’s not because slave owners are bad people and the universe is rigged to let the good people win. It’s because societies with slaves are inefficient. They waste human minds. It’s not about good and evil, it’s about winning wars. In fact, our definitions of what is good and evil are constantly being reworked to suit that purpose.  
 
 Consider this. Slave societies are gone now because they couldn’t survive against mechanized societies, but if things change and we find ourselves once again in a world where slavery is required for winning wars, it will surely come back in force. And we’ll have a lock-solid moral justification for it, which will be just what it was back then: get slaves or be slaves.
 
 ### Last Shots
 
-Still not convinced humanism is a religion? Think about this. Canceling someone is a profoundly religious act; it’s excommunication. How much more obvious could it be?
-
-Or how about this? Freedom of religion in the United States is the freedom to practice exactly those parts of your religion which do not conflict with the actual American religion, our humanist laws and our humanist culture. So, by all means, go to town! Build your buildings, dance your dances, sing your songs, speak your words. Just don’t break the law or annoy other (reasonably respectful) Americans with your legacy-religion ornamentation.
-
-Or, why are happy endings required for children’s stories? We tell ourselves that it’s because the children are too fragile, that they need to be toughened up before they’re ready for accurate depictions of reality. But wouldn’t toughening them up be best accomplished by gradually weaning them _off_ happy endings? But we don’t do that. We provide them a steady supply of happy endings their whole lives through. Why? Because the unconscious can’t distinguish between story and reality! (This is why advertisements work.) It’s _all_ reality to the unconscious—it determines truth by counting experiences. It doesn’t understand the context; that’s a _logical_ construct. To the unconscious, the more something happens the truer it is, period. The unconscious mind is quite literally a dog’s mind. And it’s running the show! We’re continually counterbalancing actual human behavior with depictions of model human behavior so that the unconscious becomes deluded as to the state of ongoing human behavior in the outside world and acts accordingly.
+> Still not convinced humanism is a religion? Think about this. Canceling someone is a profoundly religious act; it’s excommunication. How much more obvious could it be?
+>
+> Or how about this? Freedom of religion in the United States is the freedom to practice exactly those parts of your religion which do not conflict with the actual American religion, our humanist laws and our humanist culture. So, by all means, go to town! Build your buildings, dance your dances, sing your songs, speak your words. Just don’t break the law or annoy other (reasonably respectful) Americans with your legacy-religion ornamentation.
+>
+> Or, why are happy endings required for children’s stories? We tell ourselves that it’s because the children are too fragile, that they need to be toughened up before they’re ready for accurate depictions of reality. But wouldn’t toughening them up be best accomplished by gradually weaning them _off_ happy endings? But we don’t do that. We provide them a steady supply of happy endings their whole lives through. Why? Because the unconscious can’t distinguish between story and reality! (This is why advertisements work.) It’s _all_ reality to the unconscious—it determines truth by counting experiences. It doesn’t understand the context; that’s a _logical_ construct. To the unconscious, the more something happens the truer it is, period. The unconscious mind is quite literally a dog’s mind. And it’s running the show! We’re continually counterbalancing actual human behavior with depictions of model human behavior so that the unconscious becomes deluded as to the state of ongoing human behavior in the outside world and acts accordingly.
 
 You think you don’t have a religion because you don’t go to mosque/temple/church or read the Bible? They only did that stuff because they didn’t have Netflix. You get your good behavior supplements over the Internet. They had to go somewhere somebody could read theirs to them.
 
@@ -113,49 +112,49 @@ OK, we’ve finally reached the end of my endless take on religion. Thank you fo
 
 ### Sapolsky Fever
 
-_Determined_ was written by Stanford Professor Emeritus, Robert M. Sapolsky, one of my very favorite people in the whole world—in the fanboy sense. If you’ve seen any of his Stanford biology lectures from about 15 years ago, you’re probably in the club, too.[[44]](#ftnt44) My first instinct is to say I like Sapolsky so much because he’s a deeply caring person, but that doesn’t get to the core of it. It’s the caring combined with a rare skill that you have to experience to understand. Let me put it this way: if speaking fluently meant speaking mellifluously for long stretches with no mistakes or hesitation, then we would say that Sapolsky speaks fluently. It’s uncanny to watch.
-
-His previous book, his magnum opus, _Behave_, is—according to me—required reading for all humans. It’s a beautiful compendium of what we know about human behavior today. (Though it unfortunately appeared just prior to the replication crisis.) You simply don’t know how mis- and under-informed you are about humans until you read it. And the delivery! It’s a joy to spend time in Sapolsky’s company, even via the indirection of the written word. He’s organized, he’s interesting, he’s clear, he’s smart, and he’s funny. What else is there? So, if you revel in nonfiction tomes, it’s definitely worth checking out. (But do read the appendix carefully first. At least once.)
+> _Determined_ was written by Stanford Professor Emeritus, Robert M. Sapolsky, one of my very favorite people in the whole world—in the fanboy sense. If you’ve seen any of his Stanford biology lectures from about 15 years ago, you’re probably in the club, too.[[44]](#ftnt44) My first instinct is to say I like Sapolsky so much because he’s a deeply caring person, but that doesn’t get to the core of it. It’s the caring combined with a rare skill that you have to experience to understand. Let me put it this way: if speaking fluently meant speaking mellifluously for long stretches with no mistakes or hesitation, then we would say that Sapolsky speaks fluently. It’s uncanny to watch.
+>
+> His previous book, his magnum opus, _Behave_, is—according to me—required reading for all humans. It’s a beautiful compendium of what we know about human behavior today. (Though it unfortunately appeared just prior to the replication crisis.) You simply don’t know how mis- and under-informed you are about humans until you read it. And the delivery! It’s a joy to spend time in Sapolsky’s company, even via the indirection of the written word. He’s organized, he’s interesting, he’s clear, he’s smart, and he’s funny. What else is there? So, if you revel in nonfiction tomes, it’s definitely worth checking out. (But do read the appendix carefully first. At least once.)
 
 ### Determined
 
-_Determined_, the book I’m reviewing, is his latest, and is still “new” as I write this in 2024, having come out in 2023. It’s very much a follow up to _Behave_ (2017). The through-line in _Behave_ is that we can’t explain anything without pointing to what came before it, and caused it. And if we further assume that there’s zero randomness popping up between cause and effect, then in order to get our final answer we have to walk cause and effect all the way back to the Big Bang. This is a painting of a strictly deterministic reality with no room for free will. Although Sapolsky does dip his toes into the free will waters at the end of _Behave_, it’s in _Determined_ that he takes the full plunge.
+> _Determined_, the book I’m reviewing, is his latest, and is still “new” as I write this in 2024, having come out in 2023. It’s very much a follow up to _Behave_ (2017). The through-line in _Behave_ is that we can’t explain anything without pointing to what came before it, and caused it. And if we further assume that there’s zero randomness popping up between cause and effect, then in order to get our final answer we have to walk cause and effect all the way back to the Big Bang. This is a painting of a strictly deterministic reality with no room for free will. Although Sapolsky does dip his toes into the free will waters at the end of _Behave_, it’s in _Determined_ that he takes the full plunge.
 
 Sapolsky is not a philosopher, he’s a scientist. The value he brings to the free will table is the uniqueness of that scientific view. Because he’s very close to the science, and to lots of different _branches_ of the science, he’s in a position to effectively scout the universe for places where free will might be implemented, as it must be, somewhere, if it exists and is worth investigating.
 
-Sapolsky is not trying to convince the reader that the world is deterministic. He’s assuming it. To most scientists and philosophers today, the world is so obviously deterministic that he doesn’t need to do that work. Instead, he’s addressing those people who agree that the world is deterministic but also insist that there’s a secret back door that allows free will to slip in. These are the _compatibilists_; they believe free will is compatible with determinism. According to Sapolsky’s estimate, their numbers make up about 90% of philosophers and legal scholars. Sapolsky himself is in the small minority of (hard) _in_compatibilists: for him, determinism unequivocally rules out free will.
-
-Sapolsky is also not trying to convince the reader of _no_ free will: “Again, my goal isn’t to convince you that there’s no free will; it will suffice if you merely conclude that there’s so much less free will than you thought that you have to change your thinking about some truly important things.” (p. 12)
+> Sapolsky is not trying to convince the reader that the world is deterministic. He’s assuming it. To most scientists and philosophers today, the world is so obviously deterministic that he doesn’t need to do that work. Instead, he’s addressing those people who agree that the world is deterministic but also insist that there’s a secret back door that allows free will to slip in. These are the _compatibilists_; they believe free will is compatible with determinism. According to Sapolsky’s estimate, their numbers make up about 90% of philosophers and legal scholars. Sapolsky himself is in the small minority of (hard) _in_compatibilists: for him, determinism unequivocally rules out free will.
+>
+> Sapolsky is also not trying to convince the reader of _no_ free will: “Again, my goal isn’t to convince you that there’s no free will; it will suffice if you merely conclude that there’s so much less free will than you thought that you have to change your thinking about some truly important things.” (p. 12)
 
 ### The Approach
 
-The book is organized into two halves. The first half is Sapolsky saying, OK, let’s have a good hard look at those secret back doors where free will is supposedly slipping in. He starts off by setting the table, much as I just have, and then, after dismissing the central, roiling debate in the free will space (Libet[[45]](#ftnt45)) as inconclusive and irrelevant, he walks us through a quick review of what’s in _Behave_ (minus the replication crisis problems). That brings us to the heart of the first half: the in-depth takedowns of the three main (remaining) compatibilist back doors. All three, as you might guess, are places where the science is currently stymied or misunderstood. Sapolsky proceeds to explain away each of the back doors. All three are fascinating to learn about independent of the whole free will fight. One of the back doors was mostly new to me, but I enjoyed Sapolsky’s walk-throughs of all of them. I’ll give them very brief introductions in just a bit.
-
-The second half of the book is very different, and less dense. It’s essentially a history of free will itself, in the context of human ignorance. In this second half, we get to witness how our sense of free will is steadily weakening over time with respect to physical and mental illnesses. We once (truly) believed that people suffering from epilepsy were witches to be burned, and that mothers caused schizophrenia with frigid child care. But today those ideas strike us as stupid and cruel. So if we’re walking down a path on which we’re continually wringing a bit more of the free will out of misbehavior, where are we headed, and will we arrive there, and what would it mean if we did? Sapolsky’s histories are gripping reading.
-
-My deep disappointment with the book happens in this second half. But before we get to that, let's get back to the three back door takedowns, so you can get a quick glance at those first half subtopics. 
+> The book is organized into two halves. The first half is Sapolsky saying, OK, let’s have a good hard look at those secret back doors where free will is supposedly slipping in. He starts off by setting the table, much as I just have, and then, after dismissing the central, roiling debate in the free will space (Libet[[45]](#ftnt45)) as inconclusive and irrelevant, he walks us through a quick review of what’s in _Behave_ (minus the replication crisis problems). That brings us to the heart of the first half: the in-depth takedowns of the three main (remaining) compatibilist back doors. All three, as you might guess, are places where the science is currently stymied or misunderstood. Sapolsky proceeds to explain away each of the back doors. All three are fascinating to learn about independent of the whole free will fight. One of the back doors was mostly new to me, but I enjoyed Sapolsky’s walk-throughs of all of them. I’ll give them very brief introductions in just a bit.
+>
+> The second half of the book is very different, and less dense. It’s essentially a history of free will itself, in the context of human ignorance. In this second half, we get to witness how our sense of free will is steadily weakening over time with respect to physical and mental illnesses. We once (truly) believed that people suffering from epilepsy were witches to be burned, and that mothers caused schizophrenia with frigid child care. But today those ideas strike us as stupid and cruel. So if we’re walking down a path on which we’re continually wringing a bit more of the free will out of misbehavior, where are we headed, and will we arrive there, and what would it mean if we did? Sapolsky’s histories are gripping reading.
+>
+> My deep disappointment with the book happens in this second half. But before we get to that, let's get back to the three back door takedowns, so you can get a quick glance at those first half subtopics. 
 
 ### The Back Doors
 
-One of the back doors is the randomness in quantum mechanics. This is one of the ones I was familiar with, and suspect you might be as well. All scientists agree that when an elementary particle “collapses” from a wave to a particle, the place in the world where that particle appears can only be probabilistically determined. It’s somewhat random. So can this randomness be the source of free will? No, according to Sapolsky, because (1) it’s confined to such a microscopic distance with no way to bubble up to where humans make decisions, and (2) because even if it could bubble up, it would cause _random_ will, not _free_ will.
-
-The other two back doors are not so easy to summarize, so I’ll just breeze over them. One is chaos theory, which I also knew quite a bit about going in because Sapolsky speaks so fondly of James Gleick’s book _Chaos_ (1987) in one of his online lectures, so I had read that. It’s great. The essence of chaos theory is that lots of stuff scientists had long assumed could _never_ be explained (because it was “just too chaotic”) actually _could_ be explained; it just needed a different mathematics. It’s quite a collection of stuff, from the weather, to fluid dynamics, to arrhythmias, to fractals. If you’re new to this topic, fascinating is an understatement.
-
-The third of the back doors is emergent complexity. I’ve understood that all complexity must _somehow_ be emergent ever since reading Dawkins’ _The Selfish Gene_ (stupendously good), but to be introduced to such deep complexity growing from such simple rules in so many unrelated places was, well, only fascinating.  
+> One of the back doors is the randomness in quantum mechanics. This is one of the ones I was familiar with, and suspect you might be as well. All scientists agree that when an elementary particle “collapses” from a wave to a particle, the place in the world where that particle appears can only be probabilistically determined. It’s somewhat random. So can this randomness be the source of free will? No, according to Sapolsky, because (1) it’s confined to such a microscopic distance with no way to bubble up to where humans make decisions, and (2) because even if it could bubble up, it would cause _random_ will, not _free_ will.
+>
+> The other two back doors are not so easy to summarize, so I’ll just breeze over them. One is chaos theory, which I also knew quite a bit about going in because Sapolsky speaks so fondly of James Gleick’s book _Chaos_ (1987) in one of his online lectures, so I had read that. It’s great. The essence of chaos theory is that lots of stuff scientists had long assumed could _never_ be explained (because it was “just too chaotic”) actually _could_ be explained; it just needed a different mathematics. It’s quite a collection of stuff, from the weather, to fluid dynamics, to arrhythmias, to fractals. If you’re new to this topic, fascinating is an understatement.
+>
+> The third of the back doors is emergent complexity. I’ve understood that all complexity must _somehow_ be emergent ever since reading Dawkins’ _The Selfish Gene_ (stupendously good), but to be introduced to such deep complexity growing from such simple rules in so many unrelated places was, well, only fascinating.  
 
 ### Where Sapolsky Leaves Us
 
 So, here’s the high-level logic of Sapolsky’s case.
 
-• Since there’s no place for free will to reside, inside or outside the human, we should try to proceed as if it’s not there, despite what it feels like.  
+> • Since there’s no place for free will to reside, inside or outside the human, we should try to proceed as if it’s not there, despite what it feels like.  
 
 • If it’s not there, then people are not acting intentionally.
 
-• If people are not acting intentionally, then praise and blame make no sense—we simply do what we do.  
-
-• Therefore, we should try, even though it’s very hard, to praise and blame less. Misbehavior is not a choice, nor is good behavior. So, let’s do our best to reason our way through the counter-intuitiveness to a more humane world.
-
-There’s an important clarification that goes with that final bullet point. Preventing bad behavior and blaming someone for it are separate things. So, for the safety of the group, it’s perfectly ok to confine someone (in a jail, say) but we shouldn’t be beating them up or berating them as a bad person who _intentionally chose_ not to follow the rules. Chances are that in the future things will change, and we’ll appear as heartless ignoramuses to those looking back at us. So let’s at least be kind in our stupidity.
+> • If people are not acting intentionally, then praise and blame make no sense—we simply do what we do.  
+>
+> • Therefore, we should try, even though it’s very hard, to praise and blame less. Misbehavior is not a choice, nor is good behavior. So, let’s do our best to reason our way through the counter-intuitiveness to a more humane world.
+>
+> There’s an important clarification that goes with that final bullet point. Preventing bad behavior and blaming someone for it are separate things. So, for the safety of the group, it’s perfectly ok to confine someone (in a jail, say) but we shouldn’t be beating them up or berating them as a bad person who _intentionally chose_ not to follow the rules. Chances are that in the future things will change, and we’ll appear as heartless ignoramuses to those looking back at us. So let’s at least be kind in our stupidity.
 
 And the same goes for praise. No one is _deserving_ of anything in a world without free will.
 
@@ -163,47 +162,47 @@ And the same goes for praise. No one is _deserving_ of anything in a world witho
 
 ### What I Don’t Like About Sapolsky’s Conclusion
 
-Here’s a specific example of what stains the book for me. In the second half Sapolsky relates how American mothers got shackled with the blame for their schizophrenic children through a twist of historical fate. The Freudian revolution was largely a European thing at first, but many of Freud’s followers were driven out of Europe by WWII. They wound up occupying most of the leading psychology positions across America. This cohort of analysts had convinced themselves that people were _turned_ schizophrenic by “refrigerator mothering”. The history is fascinating and no doubt accurate, but Sapolsky lacerates the psychologists (“the psychoanalytic scumbags”, p. 329) and deifies those who took said scumbags down.
-
-Sapolsky’s good-guy/bad-guy framing is engaging, heartbreaking and heartwarming—for a  humanist who sees the world through a lens of good and evil! But the whole first half of the book describes and defends a _deterministic_ view of the world! As we just saw, in such a world, everyone, scumbags and heroes alike, have no free will. There _are_ no good guys and no bad guys in a determinist world; everyone is just doing what comes next, all the way back to the Big Bang. Sapolsky appears to forget this, or doesn’t really understand its implications, or thinks we won’t notice. He wants us to see _the underdogs_ as victims of their deterministic biological fates, but not the privileged. They get to keep their free will so that Sapolsky can beat up on them.
-
-The hardest thing to swallow about hard determinism is that it must apply to everyone, all the way to Hitler. Reality is just unfolding. Humans are not agents, they’re automatons. They’re like robots running on computer code, always following the next instruction, which may be a reaction to the environment they’re experiencing, but they still don’t ever have the power to jump the logic. They’re completely locked in.
+> Here’s a specific example of what stains the book for me. In the second half Sapolsky relates how American mothers got shackled with the blame for their schizophrenic children through a twist of historical fate. The Freudian revolution was largely a European thing at first, but many of Freud’s followers were driven out of Europe by WWII. They wound up occupying most of the leading psychology positions across America. This cohort of analysts had convinced themselves that people were _turned_ schizophrenic by “refrigerator mothering”. The history is fascinating and no doubt accurate, but Sapolsky lacerates the psychologists (“the psychoanalytic scumbags”, p. 329) and deifies those who took said scumbags down.
+>
+> Sapolsky’s good-guy/bad-guy framing is engaging, heartbreaking and heartwarming—for a  humanist who sees the world through a lens of good and evil! But the whole first half of the book describes and defends a _deterministic_ view of the world! As we just saw, in such a world, everyone, scumbags and heroes alike, have no free will. There _are_ no good guys and no bad guys in a determinist world; everyone is just doing what comes next, all the way back to the Big Bang. Sapolsky appears to forget this, or doesn’t really understand its implications, or thinks we won’t notice. He wants us to see _the underdogs_ as victims of their deterministic biological fates, but not the privileged. They get to keep their free will so that Sapolsky can beat up on them.
+>
+> The hardest thing to swallow about hard determinism is that it must apply to everyone, all the way to Hitler. Reality is just unfolding. Humans are not agents, they’re automatons. They’re like robots running on computer code, always following the next instruction, which may be a reaction to the environment they’re experiencing, but they still don’t ever have the power to jump the logic. They’re completely locked in.
 
 According to the hard determinist, human history is a horror show of ignorance and suffering not because people are choosing poorly, or selfishly, or fiendishly; they’re not choosing at all! Human behavior is exactly like the weather. Sometimes it’s sunny and breezy and sometimes it’s a tornado. The weather isn’t _deciding_ anything, and neither are we, despite how it feels.
 
 Determinism is a hard concept to hold in one’s head, never mind defend, but that’s Sapolsky’s job. He fails at it because he fails to model it. He wants to _have_ his good and evil and eat them, too.
 
-His conclusion should have been, “The steady progression of science is going to make it clearer and clearer that free will—the keystone of morality—is a delusion, so what are we going to replace it with?” Good and evil are going to be outed as the bogey men they are. At some point, our children are going to start rejecting our happy-enders, just like some of us started rejecting Bible stories. What do we do then?
+> His conclusion should have been, “The steady progression of science is going to make it clearer and clearer that free will—the keystone of morality—is a delusion, so what are we going to replace it with?” Good and evil are going to be outed as the bogey men they are. At some point, our children are going to start rejecting our happy-enders, just like some of us started rejecting Bible stories. What do we do then?
 
 ### What We Do Then 
 
 Let’s review. For 12,000 years humans have been able to live in groups of unlimited size because we’ve managed to convince ourselves that cause and effect applies everywhere in the universe except inside humans. But, those groups of unlimited size compete against one another. And in order to win those competitions—those _wars_—we’re being forced to learn more and more about how reality actually works, including how the humans inside it actually work: deterministically. The free will delusion is on a collision course with science, and it will lose.
 
-The free will delusion has survived against the onslaught of science so far by shape-shifting from communities of gods, to a single god, to a distributed god. Sapolsky’s book is telling us that the last bastions of the distributed god are now crumbling. And people like Sapolsky are beginning to struggle to maintain the delusion. This is a contagion that will spread, just like atheism did. I’m spreading it now.
-
-While my purpose in writing this book review is to get you, the reader, to start thinking about what the next religious touchstone will be, I have my own guess. We’re going to replace sacred life with transparency.
+> The free will delusion has survived against the onslaught of science so far by shape-shifting from communities of gods, to a single god, to a distributed god. Sapolsky’s book is telling us that the last bastions of the distributed god are now crumbling. And people like Sapolsky are beginning to struggle to maintain the delusion. This is a contagion that will spread, just like atheism did. I’m spreading it now.
+>
+> While my purpose in writing this book review is to get you, the reader, to start thinking about what the next religious touchstone will be, I have my own guess. We’re going to replace sacred life with transparency.
 
 ### Transparency is the New Freedom
 
-Sacred life works by getting people to self-police on a false premise. The false premise is: treating any human life as less than sacred makes you an irredeemably bad person. We need the false premise because so much of our behavior happens when no one’s watching—when we could get away with it! As technology advances and surveillance increases, less and less of our behavior is going to require the false premise. Because if more and more of our behavior is recorded, and filtered by a (community-trained) artificial intelligence for violations, we won’t need the false premise. We’ll have a _real_ realtime omniscience to use for that purpose.
-
-That might sound like an Orwellian dystopia, but it won’t be one _if we make the surveillance data public_, and we will. We’ll create safe spaces (much like we create college campuses today) that are fully monitored by AI gods. As long as any of us can check and challenge the work of the AIs, we’ll be perfectly fine with the monitoring. It’s when _only_ the government has (or _only_ the corporations have) the surveillance data (and we _don’t_) that it’s dangerous.
-
-These safe spaces will be required, in the survival sense, for all societies, just like colleges are today. Without them a society’s military and economy will fall far behind. Because inside the safe spaces, where all behavior is _publicly transparent and duly and timely punished,_ misbehavior will diminish, cooperation will surge, and better weapons will be produced.
-
-Think of it like this. Open source software was a step in the right direction. But what we need is open _runtimes_. How do we build systems that are fully transparent, and thus fully trusted? I think it _can_ be done, and I think it _will_ be done.  
-
-Our big problem living in big groups has always been that we don’t trust each other. Survival concerns will continue to lead us in directions where technology increases trust, as it has over the past several hundred years. Trust wins wars. Global, _public_, surveillance will increase trust. Therefore, it will emerge and survive.
+> Sacred life works by getting people to self-police on a false premise. The false premise is: treating any human life as less than sacred makes you an irredeemably bad person. We need the false premise because so much of our behavior happens when no one’s watching—when we could get away with it! As technology advances and surveillance increases, less and less of our behavior is going to require the false premise. Because if more and more of our behavior is recorded, and filtered by a (community-trained) artificial intelligence for violations, we won’t need the false premise. We’ll have a _real_ realtime omniscience to use for that purpose.
+>
+> That might sound like an Orwellian dystopia, but it won’t be one _if we make the surveillance data public_, and we will. We’ll create safe spaces (much like we create college campuses today) that are fully monitored by AI gods. As long as any of us can check and challenge the work of the AIs, we’ll be perfectly fine with the monitoring. It’s when _only_ the government has (or _only_ the corporations have) the surveillance data (and we _don’t_) that it’s dangerous.
+>
+> These safe spaces will be required, in the survival sense, for all societies, just like colleges are today. Without them a society’s military and economy will fall far behind. Because inside the safe spaces, where all behavior is _publicly transparent and duly and timely punished,_ misbehavior will diminish, cooperation will surge, and better weapons will be produced.
+>
+> Think of it like this. Open source software was a step in the right direction. But what we need is open _runtimes_. How do we build systems that are fully transparent, and thus fully trusted? I think it _can_ be done, and I think it _will_ be done.  
+>
+> Our big problem living in big groups has always been that we don’t trust each other. Survival concerns will continue to lead us in directions where technology increases trust, as it has over the past several hundred years. Trust wins wars. Global, _public_, surveillance will increase trust. Therefore, it will emerge and survive.
 
 ### Last Thoughts on Free Will
 
-If your inclination, like Sapolsky’s, is to think that free will—even if it _is_ a delusion—is just too deeply embedded in human consciousness to ever be dispensed with, let me try to disabuse you of that position.
-
-Like good and evil, I believe free will is “taught” to us (forced down our throats). Young children experience their bodies moving like we experience our bodies twitching. With surprise. From the child’s perspective, her arms and legs are moving, but _she’s_ not moving them; she’s _watching_ them move. She has to be convinced otherwise so that she can function in a society where everyone takes responsibility for their own behavior. Free will is part of the morality package, and only 12,000 years old.
-
-Sam Harris has convinced me that I actually have no idea what I’m going to think next, or say next, or do next. But I’ve been trained to take responsibility for all of it. Since so much of it is repetitive, I typically know what’s coming next, so believing that I’m willfully orchestrating it all is not so hard.
-
-When the time comes, I predict, we can and will drop the delusion of free will relatively quickly. We’ll stop teaching it to our children.
+> If your inclination, like Sapolsky’s, is to think that free will—even if it _is_ a delusion—is just too deeply embedded in human consciousness to ever be dispensed with, let me try to disabuse you of that position.
+>
+> Like good and evil, I believe free will is “taught” to us (forced down our throats). Young children experience their bodies moving like we experience our bodies twitching. With surprise. From the child’s perspective, her arms and legs are moving, but _she’s_ not moving them; she’s _watching_ them move. She has to be convinced otherwise so that she can function in a society where everyone takes responsibility for their own behavior. Free will is part of the morality package, and only 12,000 years old.
+>
+> Sam Harris has convinced me that I actually have no idea what I’m going to think next, or say next, or do next. But I’ve been trained to take responsibility for all of it. Since so much of it is repetitive, I typically know what’s coming next, so believing that I’m willfully orchestrating it all is not so hard.
+>
+> When the time comes, I predict, we can and will drop the delusion of free will relatively quickly. We’ll stop teaching it to our children.
 
 And just because you can’t imagine how things could possibly work without free will doesn’t mean they can’t. People used to be befuddled contemplating a world without God. Some people still are.
 
@@ -277,29 +276,13 @@ In describing the infinite chain of causality (what you do is influenced by what
 
 But where is the line? The following is a table from the book that outlines what Sapolsky believes to be the false dichotomy we make between behaviors which are “biological” (i.e. out of our control) and the result of “grit” (i.e. within our control):
 
-**“Biological Stuff”**
-
-**Do you have grit?**
-
-Having destructive sexual urges
-
-Do you resist acting upon them?
-
-Being a natural marathoner
-
-Do you fight through the pain?
-
-Not being all that bright
-
-Do you triumph by studying extra hard?
-
-Having a proclivity towards alcoholism
-
-Do you order ginger ale instead?
-
-Having a beautiful face
-
-Do you resist concluding that you’re entitled to people being nice to you because of it?
+| “Biological Stuff” | Do you have grit? |
+| --- | --- |
+| Having destructive sexual urges | Do you resist acting upon them? |
+| Being a natural marathoner | Do you fight through the pain? |
+| Not being all that bright | Do you triumph by studying extra hard? |
+| Having a proclivity towards alcoholism | Do you order ginger ale instead? |
+| Having a beautiful face | Do you resist concluding that you’re entitled to people being nice to you because of it? |
 
 Sapolsky argues, however, that both sides of the chart “are equally the outcome of uncontrollable biology interacting with uncontrollable environment,” and provides a few examples of behaviors - namely, epilepsy and schizophrenia - that have shifted from the left to right as our understanding of the conditions have evolved. We did it before, he says, so we can do it again.
 
@@ -327,7 +310,6 @@ Sapolsky brings up the classic liberal example of the Norwegian justice system, 
 
 > “...in Norway’s “open prison” system, criminals, even those under maximal security, have rooms rather than cells, computers and TVs in each, freedom of movement, kitchens to cook in communally, workshops for hobbies, music studios filled with instruments, art on the walls, trees on the campus-like grounds, a chance to ski in the winter and go to the beach in the summer.”
 
-  
 And contrary to concerns that such a system would be an ineffective deterrent, or even an incentive for crime, we see that Norway has a far lower recidivism rate. This means far fewer prisoners, savings from a smaller police force, and the obvious direct benefits of there just generally being less crime in society. It seems like a win-win: the only ‘loss’ is the satisfaction of our bloodlust.
 
 So as social policy, I’m broadly in favor of the quarantine system as Sapolsky describes it, and the example of Norway seems like proof to me that, slowly but surely, we can as a society reduce our desire to see bad people punished to the maximum extent possible. We’ll probably never get it down to zero, but as they say, perfect is the enemy of good.

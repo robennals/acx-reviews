@@ -1,16 +1,16 @@
 ---
-title: "Pacific War Trilogy by Ian W. Toll"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Pacific War Trilogy by Ian W. Toll
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "pacific-war-trilogy-by-ian-w-toll"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: pacific-war-trilogy-by-ian-w-toll
 wordCount: 3755
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - History
   - Politics
@@ -20,7 +20,7 @@ A Hard and Unforgiving School
 
 One must question the value of further additions to a topic to which libraries are devoted, and World War II stands as perhaps the foremost of such topics, given the scale of a conflict that enmeshed more participants, witnesses and victims than any other conflict in humanity’s long, bloody history. Yet Ian W. Toll’s three volume account of the United States’ Pacific Theatre war against Japan provides a worthy addition. The “War in the Pacific” was a struggle wholly unique in its nature and geographic extent, a conflict of giant, fantastically expensive industrial machines fighting wholly isolated from their berths across barren space that resembles science fiction more than the continental war occurring concurrently on opposite ends of the Eurasian landmass. No mere chronological narrative of the war, the Toll’s deft amalgamation of grand strategy, eyewitness accounts, technological, economic and biographical asides weaves the struggle into a story rewarding for both the casually acquainted or deeply studied in World War II’s Pacific Theater. While the evocative firsthand accounts of participants from all sides of the tragic struggle would stand alone as a narrative achievement, the larger discussions of the incoherence of Japanese grand strategy, the political and military disfunction of both the US and Japanese, and most of all, the evolving military and state institutions molded by the brutal mechanism of war rendered the 1,800 page price of admission worthy.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/965789c02ae3e236.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/6fb4c2fa4678f6de.png)
 
 _The Pacific Theatre without the Mercador Projection_
 
@@ -62,7 +62,7 @@ If there were ever any doubt of war’s potential to bend , the Pacific Theatre 
 
 For example, at onset of hostilities in 1941 the Japanese Zero fighter plane was superior in speed and maneuverability, and the veteran Japanese pilots could defeat their Allied counterparts in one on one dogfights. In response, Americans introduced group tactics like the Thatch weave and choosing tactically favorable encounters that favored the increased durability and firepower of the American planes. After new American fighter designs were introduced superior to the Zero in every respect, American fighter planes eviscerated the increasingly inexperienced Japanese air forces in the Marianas and the Philippine Sea. The Japanese, unable to develop new designs, produce airplanes or train pilots on pace with the Americans, responded in typically Japanese fashion with Kamikaze tactics and wave attacks which turned their planes into manned guided missiles, accepting high casualties and forgoing air supremacy to sink vulnerable enemy ships.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/f8c9d7599106ed23.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/801f66a4133e0c54.png)
 
 _The Thach Weave or: How I Learned to Stop Worrying and Love the Grumman F4F Wildcat_
 

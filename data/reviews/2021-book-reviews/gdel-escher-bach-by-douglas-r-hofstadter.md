@@ -1,5 +1,5 @@
 ---
-title: 'Gödel, Escher, Bach by Douglas R. Hofstadter'
+title: Gödel, Escher, Bach by Douglas R. Hofstadter
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
@@ -7,10 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.570Z'
 slug: gdel-escher-bach-by-douglas-r-hofstadter
-wordCount: 6138
+wordCount: 6115
 readingTimeMinutes: 28
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Science
@@ -41,31 +40,31 @@ So, lest you die without familiarizing yourself with GEB, let’s get started.
 
 The basic object of study in GEB is what Hofstadter calls a _formal system_. A formal system consists of:
 
-> *   A collection of allowable characters out of which we can form strings (sequences of characters)
-> *   A collection of strings called "axioms"
-> *   A collection of rules, or "inference rules," for changing some strings into others
+*   A collection of allowable characters out of which we can form strings (sequences of characters)
+*   A collection of strings called "axioms"
+*   A collection of rules, or "inference rules," for changing some strings into others
 
 Huh? Let's start with a simple, meaningless example called the MIU-system.
 
 The MIU-system:
 
-> *   Allowable characters: M, I, and U. (So strings are things like M, UMM, MIMMIUM, UMIIMUMUUIMIM, etc.)
-> *   Axioms: MI
-> *   Rules:
->
-> *   Rule I: given a string that ends in an I, you can add a U to the end.
->
+*   Allowable characters: M, I, and U. (So strings are things like M, UMM, MIMMIUM, UMIIMUMUUIMIM, etc.)
+*   Axioms: MI
+*   Rules:
+    
+    *   Rule I: given a string that ends in an I, you can add a U to the end.
+    
+    *   Rule II: given a string of the form M_x_ where _x_ consists of M’s, I’s, and U’s, you can form the string M_xx_
+    
+    *   Rule III: given any string with III appearing somewhere inside, you may replace III with U
+    
+    *   Rule IV: given any string with UU appearing inside, you may delete UU
+
 > Example: from UMI, form UMIU
->
-> *   Rule II: given a string of the form M_x_ where _x_ consists of M’s, I’s, and U’s, you can form the string M_xx_
 >
 > Example: from MIU, form MIUIU
 >
-> *   Rule III: given any string with III appearing somewhere inside, you may replace III with U
->
 > Example: from MIIII, you can form MUI (by replacing the middle III with U). You can also form MIU (by replacing the ending III with U).
->
-> *   Rule IV: given any string with UU appearing inside, you may delete UU
 >
 > Example: from MUUI, form MI
 
@@ -97,12 +96,11 @@ In this example, the MIU-system doesn't seem to reflect the structure of anythin
 
 The tq-system:
 
-> *   Allowable characters: t, q, -
-> *   Axiom: -t-q-
-> *   Rules:
->
-> *   Rule I: given a string _x_t_y_q_z_ where _x_,_y_,_z_ are strings consisting of only hyphens, you can form _x_-t_y_q_zy_
-> *   Rule II: given a string _x_t_y_q_z_ where _x,y,z_ are strings consisting of only hyphens, you can form _x_t_y_-q_zx_
+*   Allowable characters: t, q, -
+*   Axiom: -t-q-
+*   Rules:
+    *   Rule I: given a string _x_t_y_q_z_ where _x_,_y_,_z_ are strings consisting of only hyphens, you can form _x_-t_y_q_zy_
+    *   Rule II: given a string _x_t_y_q_z_ where _x,y,z_ are strings consisting of only hyphens, you can form _x_t_y_-q_zx_
 
 Unlike the MIU-system, the tq-system comes with an _interpretation_ which converts strings of the formal system into meaningful statements in some _context_. In this case, the context is “multiplications,” and the interpretation looks like
 
@@ -126,11 +124,11 @@ Proof:
 
 (4) --t---q------   (rule II)
 
-![](https://acximages.ennals.org/images/2021-book-reviews/38b26cf30ac13aa6.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/400ba0dffbb35fc8.png)
 
 We can think of an interpretation as giving _meaning_ to a formal system. Uninterpreted, --t---q------ is a meaningless string of characters, same as the strings of the MU-system. But equipped with the interpretation above, this string comes to _mean_ the multiplication “two times three equals six.” An analogy: to a child ignorant of the world, a globe is just a meaningless spinning toy. But once the child learns that pictures on the globe (the formal system) represent (interpret to) masses of land on the actual Earth (the context), aspects of the globe start to carry meaning – the fact that the splotch of green labeled “Asia” is larger than the one labeled “Australia” corresponds to the continent Asia having a larger land-mass than the continent Australia.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/f76d1ac14695f55b.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/91dc0704ef401a0e.png)
 
 Liberation, _by M.C. Escher. Strings in formal systems (the triangles at the bottom) are transformed into meaningful statements (the birds) via interpretation._
 
@@ -148,7 +146,7 @@ q ⇒ divided into
 
 and so on, so that --t---q------ now interprets to “two equals three divided into six.” In a case like this, it’d be a mistake to argue about what the “true meaning” of the string --t---q------ is; the correct takeaway is that both meanings are encoded simultaneously. Even this simple example of a double-entendre is somewhat interesting: it demonstrates that the structure of multiplications is “the same” as the structure of divisions (borrowing a word from mathematics, Hofstadter would say that multiplications and divisions are “isomorphic”).
 
-![](https://acximages.ennals.org/images/2021-book-reviews/0ceae9bfdc8c61c5.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/2f02ccd414ae086e.png)
 
 _The cover art is a real photograph of two carved blocks of wood. Depending on which interpretation (angle of the light) you use, you can pull three different meanings out of each block._
 
@@ -158,7 +156,7 @@ And third, all of the _theorems_ of the tq-system are not only well-formed, but 
 
 For a counterexample, if we changed ‘-’ to mean “two,” then we wouldn’t have an interpretation anymore since the theorem -t-q- would represent the multiplication "two times two equals two," which isn't two – achem excuse me – true.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/0d0a2b4e4c78e59f.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/c1aba9ecad1f8021.png)
 
 As a final half-example of a formal system, let's augment the tq-system so it can prove theorems representing statements like "6 is composite."
 
@@ -214,13 +212,13 @@ Truth on the other hand relies on a choice of interpretation. Given a formal sys
 
 Since by fiat all of our interpretations translate theorems to true statements, we know:
 
-in a formal system with an interpretation, all provable strings of the system are also true.
+> in a formal system with an interpretation, all provable strings of the system are also true.
 
 Or more succinctly: if provable then true. This is really important: it's why mathematicians and physicists can write some funny little squiggles on paper, do logic on them, produce some different funny squiggles, and be confident that the new squiggles actually mean something true about the universe!
 
 You might be tempted to believe the converse: that every true statement in a formal system is also provable. (Or at least, you might have been tempted to think that if I didn't have a whole section titled "truth vs. provability".) But consider the string P-- of the tqCP-system, which interprets to "two is prime." This string is certainly true, since two is prime. But it is _not_ provable in the tqCP-system – in fact, none of the rules of the system allow you to produce a theorem with the character P.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/7006d7780ddbb861.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/f3d799ef0ae40dc1.png)
 
 You're probably thinking that this demonstrates that the tqCP-system is _bad_ in some way, or at least woefully _incomplete_. Perhaps you're tempted to augment the tqCP-system by adding a new rule: if C_x_ is not a theorem for some _x_ consisting of only hyphens, then P_x_ is a theorem. But there's an issue here: applying this rule requires making a list of all (infinitely many) theorems of the tqCP-system and checking that C_x_ is not among them. But this is not the sort of simple, mechanistic rule that our formal systems are allowed to have – no person, and certainly no computer, could ever finish writing down all the theorems and checking that C-- is not among them. You might be able to prove _from outside the system_ that C-- is not a theorem, but such "outside the system" reasoning has no bearing on provability _inside_ the system.
 
@@ -250,7 +248,7 @@ Der obige englische Satz ist wahr. ("The English sentence above is true.")
 
 Here, "sentences in English" has an interpretation with context "sentences in German." But "sentences in German" itself can model "sentences in English." And although each sentence by itself is perfectly harmless, the whole is paradoxical!
 
-![](https://acximages.ennals.org/images/2021-book-reviews/aab38fe6bf37e367.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/07ef4db075e01389.png)
 
 Drawing Hands, _by M.C. Escher, an illustration of the two-step liar’s paradox._
 
@@ -284,7 +282,7 @@ You can do the same thing for the other rules too.
 
 Let's call a number which corresponds to a theorem of the MIU-system a MIU-number. So we've transformed the claim "MU is a theorem of the MIU-system" to the equivalent claim "30 is a MIU-number," which can also be stated as “30 can be formed from 31 by repeatedly applying such-and-such arithmetical operations.” This might not seem like progress, but it is! The claim "30 is a MIU-number" is a _number theoretical statement_ (though perhaps not an interesting one). In essence, it’s similar to – but more complicated than – the more familiar statement “216 is a power of 6” i.e. “216 can be formed from 1 by repeatedly applying the multiply-by-6 operation.”
 
-![](https://acximages.ennals.org/images/2021-book-reviews/30a7a24162e7046e.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/bd589baa4a1925cc.png)
 
 Now we can dispose of the MU puzzle by proving a proposition about MIU-numbers:
 
@@ -308,7 +306,7 @@ Given a string _G_ of the system _S_, let _g_ be the number corresponding to _G_
 
 In a situation like this, Gödel gave a magic recipe (or see chapters 13 and 14 of GEB) for cooking up a specific string _G_ such that the resulting _G'_ _is the same as_ _G_. Thus, this _G_ interprets to the statement “_g_ is not an _S_-number,” which is true if and only if _G_ is not a theorem of _S_. Informally, we might say that _G_ carries the meaning “_G_ is not provable in _S_.” And now we’re done: if _G_ is false, then G _is_ a theorem of S, and is therefore true, a contradiction. So _G_ is true, and thus _G_ is not provable. Thus _G_ is an unprovable truth and _S_ is incomplete. Q.E.D.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/753d248c62f8e262.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/3015faadda494349.png)
 
 I'll end this section with an exercise for those interested: how is this proof like the proof of undecidability of the halting problem? (For solutions, please consult _Gödel, Escher, Bach_ by Douglas Hofstadter.)
 
@@ -322,9 +320,9 @@ Obviously this summary isn't doing it justice. There's a bunch of big ideas in i
 
 Why so? Part of it is that Hofstadter argues from first principles for a bunch of claims that don’t seem to have aged well since GEB’s 1979 publication. For example:
 
-> 1.  While he avoids positing the existence of a so-called "grandmother neuron" – that is, a neuron whose sole job is to fire whenever you need to make use of the concept "grandmother" – he does seem to think that something kinda like this is true: that there is a "grandmother module" in the brain – perhaps a collection of neurons – which activates whenever you think of a grandmother.
-> 2.  He seems to believe that the way we think thoughts is for all of our various modules to fire together in roughly the same way that a bunch of words are said together to form a sentence. E.g. the thought "My grandmother is happy" boils down to the modules in your brain representing "grandmother" and "happy" firing together, along with some additional information to specify that it is “my grandmother” instead of just “a grandmother” and things like that.
-> 3.  His paradigm of (artificial) intelligence seems to involve intelligent systems working symbolically within a formal system while simultaneously connecting the patterns of the formal system to whatever problems it’s trying to solve.
+1.  While he avoids positing the existence of a so-called "grandmother neuron" – that is, a neuron whose sole job is to fire whenever you need to make use of the concept "grandmother" – he does seem to think that something kinda like this is true: that there is a "grandmother module" in the brain – perhaps a collection of neurons – which activates whenever you think of a grandmother.
+2.  He seems to believe that the way we think thoughts is for all of our various modules to fire together in roughly the same way that a bunch of words are said together to form a sentence. E.g. the thought "My grandmother is happy" boils down to the modules in your brain representing "grandmother" and "happy" firing together, along with some additional information to specify that it is “my grandmother” instead of just “a grandmother” and things like that.
+3.  His paradigm of (artificial) intelligence seems to involve intelligent systems working symbolically within a formal system while simultaneously connecting the patterns of the formal system to whatever problems it’s trying to solve.
 
 Idea 1 … well it’s actually not _so_ bad. We have a decent understanding of how the brain does the most basic steps of visual processing – things like edge detection – and we’ve identified some particular neurons that fire together in certain ways to encode information about the orientations of lines. This is kinda like a low-level version of grandmother module for very simple concepts like vertical-ness (though apparently [predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) has another take on what information exactly is being represented). Also, some people with brain damage have [trouble distinguishing](http://klab.tch.harvard.edu/academia/classes/Neuro230/2012/HMS230_Reading_Assignment_3.pdf) among inanimate objects but not among animate ones, which if you squint kinda looks like evidence we have an “inanimate object” module in our brain which sometimes gets damaged.
 

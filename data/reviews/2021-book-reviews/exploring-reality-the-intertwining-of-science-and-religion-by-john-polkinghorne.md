@@ -1,19 +1,15 @@
 ---
-title: >-
-  Exploring Reality: The Intertwining of Science and Religion by John
-  Polkinghorne
+title: 'Exploring Reality: The Intertwining of Science and Religion by John Polkinghorne'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
 contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.567Z'
-slug: >-
-  exploring-reality-the-intertwining-of-science-and-religion-by-john-polkinghorne
-wordCount: 7923
+slug: exploring-reality-the-intertwining-of-science-and-religion-by-john-polkinghorne
+wordCount: 7920
 readingTimeMinutes: 36
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Religion
@@ -44,7 +40,7 @@ The part I found most interesting, and that I learnt the most from, was Polkingh
 
 That’s all well and good, but the even more interesting fact is that although chaos seems to complement quantum uncertainty nicely, the two are in fact at tension. Quantum systems are inherently periodic because Schrodinger’s equation describes the time evolution of a discrete set of frequencies, whereas one defining characteristic of chaos is that it has no periods. Chaotic systems create a fractal pattern in phase space (the conceptual 6-dimensional space that combines position and momentum); quantum systems cannot have fractal phase spaces because the phase space is quantized. In fact, we know that quantum mechanics suppresses chaos. Even for large objects, the suppression timescale can be surprisingly short. For the chaotically tumbling Saturnian moon Hyperion, about the size of New York City, quantum mechanics should suppress chaos in 37 years. The fact that it’s still tumbling is a result of quantum decoherence, the interaction with the environment that restores the moon to classical behavior with every impacting dust grain and photon.
 
-> ![](https://acximages.ennals.org/images/2021-book-reviews/dbc3217300395c86.png)Bifurcation diagram of the [logistic map](https://en.wikipedia.org/wiki/Logistic_map), a dead simple equation that exhibits an astounding diversity of complex behavior. The ratio between one bifurcation interval to the next approaches Feigenbaum’s first constant: 4.669201609… This constant is universal: it holds not just for the logistic map, but for all maps with a single peak. After the periods bifurciate to infinity, which occurs at r~3.56995, chaos kicks in. The chaos subsides within islands of stability (white vertical bars). From 3.56995 to 3.82843 is the [Pomeau-Manneville scenario](https://en.wikipedia.org/wiki/Pomeau%E2%80%93Manneville_scenario), characterized by mostly periodic behavior with bursts of chaos. Image credit: [Morn](https://commons.wikimedia.org/wiki/File:Logistic_Map_Bifurcation_Diagram,_Matplotlib.svg)
+> ![](https://acximages.ennals.org/images/2021-book-reviews/bf272b951a25102e.png)Bifurcation diagram of the [logistic map](https://en.wikipedia.org/wiki/Logistic_map), a dead simple equation that exhibits an astounding diversity of complex behavior. The ratio between one bifurcation interval to the next approaches Feigenbaum’s first constant: 4.669201609… This constant is universal: it holds not just for the logistic map, but for all maps with a single peak. After the periods bifurciate to infinity, which occurs at r~3.56995, chaos kicks in. The chaos subsides within islands of stability (white vertical bars). From 3.56995 to 3.82843 is the [Pomeau-Manneville scenario](https://en.wikipedia.org/wiki/Pomeau%E2%80%93Manneville_scenario), characterized by mostly periodic behavior with bursts of chaos. Image credit: [Morn](https://commons.wikimedia.org/wiki/File:Logistic_Map_Bifurcation_Diagram,_Matplotlib.svg)
 
 Yet another fascinating fact is that novelty is maximized at the [edge of chaos](https://en.wikipedia.org/wiki/Edge_of_chaos):
 
@@ -98,9 +94,9 @@ Another point stressed in this chapter is that Jesus was probably not put to dea
 
 This much secular history can reveal. To justify going further and invoking the supernatural, Polkinghorne points to three major failings of the secular account:
 
-> 1.  Plenty of deluded Palestinian religious leaders were executed, to be forgotten by everyone except historians. Why do we all know about Jesus, an executed criminal who was deserted by his followers?
-> 2.  Although the gospels are highly discrepant on the issue of Jesus’ resurrection, there is one similarity: Jesus was hard to recognize, to the extent that Mary Magadelene mistook him for the gardener. This similarity is unlikely to arise by chance, and so must have been historical.
-> 3.  The empty tomb stories, which take the same form in all four gospels. The strongest justification for taking these stories seriously is that women play the leading role, yet women were not considered capable of being reliable witnesses in a court of law.
+1.  Plenty of deluded Palestinian religious leaders were executed, to be forgotten by everyone except historians. Why do we all know about Jesus, an executed criminal who was deserted by his followers?
+2.  Although the gospels are highly discrepant on the issue of Jesus’ resurrection, there is one similarity: Jesus was hard to recognize, to the extent that Mary Magadelene mistook him for the gardener. This similarity is unlikely to arise by chance, and so must have been historical.
+3.  The empty tomb stories, which take the same form in all four gospels. The strongest justification for taking these stories seriously is that women play the leading role, yet women were not considered capable of being reliable witnesses in a court of law.
 
 Throughout this chapter, Polkinghorne has been as charitable to skeptics as he can possibly be while remaining a Christian. He not only bends over backwards to acknowledge discrepancies within the New Testament, but admits that secular history cannot prove the veracity of supernatural events such as the mass feedings or the resurrection, let alone Jesus’ identity as God. He deserves enormous credit for his intellectual honesty.
 

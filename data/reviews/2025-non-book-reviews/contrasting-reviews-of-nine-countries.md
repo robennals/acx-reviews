@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.890Z'
 slug: contrasting-reviews-of-nine-countries
 wordCount: 8489
 readingTimeMinutes: 38
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Society
@@ -99,7 +98,6 @@ I first came here because my wife took me here for my first birthday I celebrate
 
 The city’s housing is 70% airbnbs, though. It is a theme park, designed to make tourists like me feel incredible so that we part with our money. I once talked with my Uber driver as he took me to the airport, and he told me that he had been on a police assault team there. He’d loved it; he’d loved the thrill, he’d loved the comradery, he’d loved protecting his community, he’d loved being a hero; he was a handsome and well-muscled man, and it was easy to imagine him as such. But, he said, he’d had to give all that up because Uber paid more than that. I was very upset by this, though tried not to show it, and probably expressed my condolences to him poorly.
 
-  
 The stereotypical Czech dish is in three parts – a fluffy yet rich egg-and-flour dumpling that’s white and full of visible sponge-like holes when it’s sliced up on your plate, which it always comes as already. Next to it is something of meat and roasted – pork, wild boar, venison, and rabbit have all made a showing on my plate. Sometimes it’s breaded before roasting, sometimes it comes to your plate bare, but always the meat is juicy and tender. Third, all across the plate, drowning dumpling and meat, is the sauce – a rich cream gravy flavored with paprika and vegetables and more things than I can name or am certain of. But it is thick and I could have a whole meal of nothing but that. Alongside this trinity is a massive glass of light high-noted richly acidic beer, at times literally sold for less than the price of water, and in my opinion the best in the world.
 
 I returned to Czechia 2 times after this.  
@@ -108,7 +106,6 @@ Once on a roadtrip with my boss to see a variety of Czech properties for her to 
 
 The real estate agents were mostly liars and cheats and layabouts who knew nothing of their business or product, and the countryside often had that emptied-out feeling from hyperurbanization – in village after village it was hard not to notice that it was only the old left. The young had fled; perhaps to Prague, perhaps to Brno, perhaps westward into Germany and France and the Benelux, those economic giants of sclerotic Europe, Europe of the never-ending Great Recession, Europe who makes nothing, Europe sheltering under the American security umbrella while whining about American barbarousness, Europe of whiners and Europe the museum-continent. There were still some young people in only two villages, and interestingly, those two had two of the most promising properties – not that, in the end, it mattered at all. My boss spent 6 months doing ketamine rather than actually purchasing the place. She also never gave me a clear look at her own financials. I honestly don’t understand why she hired me.
 
-  
 The last time I returned (and perhaps for the final time) for a few hours with my wife to see it on a layover while we were transiting from Portugal to Cyprus at a deeply inopportune time in deeply disappointing circumstances that would later grow worse, though this is not the place or time for that story.  
   
 That time, it was hard not to see it as a tourist trap, the crowds swelled with late December and the air biting at us – we had our delicious meal and our delicious beer, we had our wander through the streets. Overall, the experience was as magical as always, but by that time, I was aware of the synthetic nature of that magic even as I found it enchanting. That sort of double-consciousness creates something of a struggle within oneself, and while it does not prevent my enjoying the city, it does keep me from relaxing fully into that enjoyment.
@@ -129,7 +126,6 @@ Unfortunately, Georgia is a political tinderbox and I would say it's simply incr
 
 ### Georgia: Husband
 
-  
 Living in Georgia is how I found out that if you just straightforwardly describe places you’ve been to, people who have never left America will accuse you of being a racist for saying that people outside of America aren’t very much like Americans.
 
 I lived in Georgia for two years. This is the longest I’ve lived anywhere in the world other than America. I lived in Tbilisi, though, this is obvious if you know what living in these sorts of countries are like. Many countries are just a city with a country attached.  

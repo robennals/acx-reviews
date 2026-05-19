@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.817Z'
 slug: the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan
-wordCount: 4340
+wordCount: 4342
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction
@@ -72,7 +71,7 @@ I got home and I started reading it. I became confused. Surprisingly, it did blo
 
 Trying to summarize this book is a bit like trying to capture the essence of a complex three-dimensional object like a human body with a single two-dimensional slice:
 
-![Sagittal plane - Wikipedia](https://acximages.ennals.org/images/2022-book-reviews/d911162af568704f.png)
+![Sagittal plane - Wikipedia](https://acximages.ennals.org/images/2022-book-reviews/b1265be82e19401a.png)
 
 Nonetheless, the simplest way to describe _The Book of All Hours_ is that it tells a story not about characters in the normal sense, but about hyper-characters- archetypes. It does this by weaving a series of stories, with the same archetypes in them, together into sequences corresponding to a narrative of narratives.
 
@@ -80,9 +79,8 @@ The difficulty in reading it is peculiar, probably not quite what you are expect
 
 The “center of gravity” of the stories is that the heroes- these archetypes moving through the space of all possible worlds-are Unkin. Once-humans who have stepped out of linear time, into a space of narrative time, they became demi-gods. Over the millennia they have been arranging themselves into two sides: The Covenant- an attempt to govern the Unkin, to bring them to heel and cease their pretensions to Godhood- they have championed Abrahamic monotheism. The Sovereigns stand against them- individual self-styled deities and their little fiefdoms. Angels and demons duel with swords of fire and words of thunder in the air. But a third side is coming, a Greek chorus that has chosen to enter the fight, a swarm of dead souls, moved by the richness of the world out from death and eternity, furious at the pretensions of both sides:
 
-_**““NO MORE VILLAINS, NO MORE VICTIMS, NO MORE HEROES”**_
-
-_[…]_
+> _**““NO MORE VILLAINS, NO MORE VICTIMS, NO MORE HEROES”**_  
+> _[…]_
 
 _A commendable concept says Moloch_ _bitterly. And who might you be?_
 

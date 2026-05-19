@@ -1,16 +1,16 @@
 ---
-title: "The Red and the Black by Stendhal"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Red and the Black by Stendhal
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-red-and-the-black-by-stendhal"
-wordCount: 9897
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-red-and-the-black-by-stendhal
+wordCount: 9896
 readingTimeMinutes: 44
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Fiction
   - Politics
@@ -37,8 +37,7 @@ Note Stendhal mentions America both times. Gloomy England is substituted for Fra
 
 Specifically, it sanctions violence for such peers. The general, permanent human interest is to forbid murder, yet some men have particular, temporary interests to excuse or revere it. Honor is that “particular rule” of “a particular state” for how a people or class “distributes praise or blame.” In its preeminent world historical form, medieval aristocratic honor depended upon actor, typically, not actions. As war created feudal aristocracy, medieval nobles glorified valor first. Yet, Americans call “noble and estimable ambition” what medievals had named “service cupidity,” ascribing “blind and barbaric fury” to that “conquering ardor and warlike humor” of daily combats. Instead, democratic souls honor all honest work equally, thanks to “public opinion,” the natural sovereign interpreter of the honorable. As dissimilarities and inequalities of men created honor, it weakens as differences are effaced, to disappear with them.[[10]](#ftnt10) But de Tocqueville has a prescription.
 
-Americans have “so many ambitions” yet “so few great ambitions.” After a revolution, the aristocratic spirit subsists in confused desires because old mores wain. Equality allows all the shot to succeed at everything, but few achieve great things at anything due to competition. Aristocratic ambition is extensive in objects but fixed in its pursuit, whereas democratic ambition is narrow in objects but limitless in pursuit. Democratic souls love unlimited success more than definite glory. Thus, the greatest fear amid “the small incessant occupations of private life” is that “ambition will lose its spark” and “greatness,” with “human passions” both “appeased and debased,” that daily “the social body” is “more tranquil and less lofty.” To remedy this diagnosis, contemporaries should have a “vaster idea of themselves and their species.” Humility is unhealthy. Pride, vicious in aristocracy, is medicinal in democracy.[[11]](#ftnt11) But, _as democracy disorients honor, does pride disorient love?  
-_
+Americans have “so many ambitions” yet “so few great ambitions.” After a revolution, the aristocratic spirit subsists in confused desires because old mores wain. Equality allows all the shot to succeed at everything, but few achieve great things at anything due to competition. Aristocratic ambition is extensive in objects but fixed in its pursuit, whereas democratic ambition is narrow in objects but limitless in pursuit. Democratic souls love unlimited success more than definite glory. Thus, the greatest fear amid “the small incessant occupations of private life” is that “ambition will lose its spark” and “greatness,” with “human passions” both “appeased and debased,” that daily “the social body” is “more tranquil and less lofty.” To remedy this diagnosis, contemporaries should have a “vaster idea of themselves and their species.” Humility is unhealthy. Pride, vicious in aristocracy, is medicinal in democracy.[[11]](#ftnt11) But, _as democracy disorients honor, does pride disorient love?_  
 
 Stendhal explores this possible trouble of prideful love as a potential passion in vain. Love of honor in a bourgeois society is rechanneled when society is pacified after revolutionary violence. De Tocqueville found industry and rights to have replaced honor, and likewise, Stendhal mentions opinion and liberty to have invaded private life. Honor is necessarily public. Its motive is prideful. But what happens to the passions of private life when swayed by passions of public life? Stendhal knew something about the_soul_ which undergoes this democratic transvaluation. Referring to “this last great psychologist” who helps paint “the portrait of the free-spirited philosopher,”[[12]](#ftnt12) Nietzsche quotes Stendhal in his own defense of _De L’Amour_ (1822): “To be a good philosopher, one must be dry, clear, free of illusions. A banker who has made a fortune has something of the character needed to make philosophical discoveries, that is to say, to see clearly into that which exists.”[[13]](#ftnt13) 
 

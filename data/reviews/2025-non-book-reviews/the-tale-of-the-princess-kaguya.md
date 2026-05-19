@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2025-01-01T00:00:00.000Z'
 slug: the-tale-of-the-princess-kaguya
-wordCount: 9173
+wordCount: 9166
 readingTimeMinutes: 41
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -80,7 +79,7 @@ The fourth nobleman was asked to retrieve the Buddha's begging bowl but instead 
 
 His attempt fails because Kaguya's mother interferes in time, putting an unattractive servant in her place just before the nobleman pulls back the curtain. However, Wikipedia's plot summary claims that she was about to accept, and while I don't know how the author knows this for sure, it doesn't seem implausible. At the point where I've put the [x], Kaguya is seen shedding tears.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9bb02f4cb4988498.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/448055f54721e80a.png)
 
 Might she have been genuinely happy if her mother hadn't stepped in? Kaguya never talks about the incident, but her mother says this immediately after:
 
@@ -334,9 +333,9 @@ When I look at the real world and how people make decisions, I often feel this s
 
 Here are a few real-life examples:
 
-> *   In the early days after Elon Musk acquired Twitter, many people still viewed him as both a moral person and a serious intellectual. Add to that his considerable wealth and the fact that Twitter is plausibly a net negative for the world, it seemed like shutting down the entire thing would be, at the very least, something worth considering. Some people even advocated for it. And yet, did anyone actually _expect_ it to happen?
-> *   In the [email exchange between Sam Altman and Elon Musk](https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman-and-openai-blog) that led to the founding of OpenAI, the very first email that Sam sends indicates that he thinks it would be preferable for AI not to be developed at all (followed by the claim that it probably can't be stopped, that it's bad if it's developed by Google, and that this is why founding another company makes sense). Based on just this information, it seems like shutting down everything _now –_ to the extent that this is still possible – and publicly condemning AI research in the strongest possible terms would at least be a move worthy of consideration. (I'm not saying it would be the most _likely_ move to expect – it's not what he wanted to do initially – but it's aligned enough with his stated goals that it should at least be worthy of consideration, especially if AI looks less controllable than initially expected.) And yet, do you think there is even the slightest chance it will happen? Would you take the over/under on 5%? 1%? 0.2%?
-> *   Many people work full-time on things that aren't actually worthwhile, not because they're ill-intentioned but because they have mistaken views, sometimes about matters of fact and sometimes about philosophy. How often do you see them change their mind and renounce their life's work? Among the cases where this did happen, how often was the new view something _without_ a significant social movement behind it (e.g., environmental protection)? How many researchers have changed their minds about the value of their past work after just a regular conversation with a colleague who made some good points?
+*   In the early days after Elon Musk acquired Twitter, many people still viewed him as both a moral person and a serious intellectual. Add to that his considerable wealth and the fact that Twitter is plausibly a net negative for the world, it seemed like shutting down the entire thing would be, at the very least, something worth considering. Some people even advocated for it. And yet, did anyone actually _expect_ it to happen?
+*   In the [email exchange between Sam Altman and Elon Musk](https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman-and-openai-blog) that led to the founding of OpenAI, the very first email that Sam sends indicates that he thinks it would be preferable for AI not to be developed at all (followed by the claim that it probably can't be stopped, that it's bad if it's developed by Google, and that this is why founding another company makes sense). Based on just this information, it seems like shutting down everything _now –_ to the extent that this is still possible – and publicly condemning AI research in the strongest possible terms would at least be a move worthy of consideration. (I'm not saying it would be the most _likely_ move to expect – it's not what he wanted to do initially – but it's aligned enough with his stated goals that it should at least be worthy of consideration, especially if AI looks less controllable than initially expected.) And yet, do you think there is even the slightest chance it will happen? Would you take the over/under on 5%? 1%? 0.2%?
+*   Many people work full-time on things that aren't actually worthwhile, not because they're ill-intentioned but because they have mistaken views, sometimes about matters of fact and sometimes about philosophy. How often do you see them change their mind and renounce their life's work? Among the cases where this did happen, how often was the new view something _without_ a significant social movement behind it (e.g., environmental protection)? How many researchers have changed their minds about the value of their past work after just a regular conversation with a colleague who made some good points?
 
 It's worth noting that what's Genuinely Hard is different for different people. Going against the person you love is hard for someone like Kaguya or me; it wouldn't be all that hard for many other people, especially those with more confidence and a less gentle nature. Conversely, many of those people might find it Genuinely Hard to ever go against their own ego, which is probably something that Kaguya would be capable of.
 
@@ -348,10 +347,10 @@ Okay, so as rare as it might be for real people to do the Genuinely Hard Thing, 
 
 Well – no, actually. I would argue that even within fiction, this almost never happens. That said, here are the few examples that I could think of:
 
-> *   Ned Stark confessing to treason at the end of the first season of Game of Thrones.
-> *   Also from Game of Thrones, Daenerys reopening the fighting pits in [season 5](https://en.wikipedia.org/wiki/Game_of_Thrones_season_5). (It doesn't have to be a pivotal, life-defining choice.) Note that the show explicitly shows how emotionally repulsed she is by her own action.
-> *   And _also_ from Game of Thrones, Jamie leaving Cersei at the start of season 8. He later goes back to her; make of this what you wish.
-> *   I believe [Methods of Rationality](https://hpmor.com/) was getting at something like this around and before the _Roles_ chapter sequence (#90-99). (But full disclosure that I had to scramble to get this review done in time and didn't have time to reread any hpmor to confirm this.)
+*   Ned Stark confessing to treason at the end of the first season of Game of Thrones.
+*   Also from Game of Thrones, Daenerys reopening the fighting pits in [season 5](https://en.wikipedia.org/wiki/Game_of_Thrones_season_5). (It doesn't have to be a pivotal, life-defining choice.) Note that the show explicitly shows how emotionally repulsed she is by her own action.
+*   And _also_ from Game of Thrones, Jamie leaving Cersei at the start of season 8. He later goes back to her; make of this what you wish.
+*   I believe [Methods of Rationality](https://hpmor.com/) was getting at something like this around and before the _Roles_ chapter sequence (#90-99). (But full disclosure that I had to scramble to get this review done in time and didn't have time to reread any hpmor to confirm this.)
 
 I would love to provide an example from Harry Potter proper, but I don't think it exists – in fact, I would argue the series actively promotes a moral principle like being true to your nature no matter what, which is in direct contradiction to doing Genuinely Hard Things (because some level of conflict with your core principles is what makes a choice Genuinely Hard).
 
@@ -371,7 +370,7 @@ There's just one last point I want to make about this principle. Within fiction 
 
 In the real world, this usually won't be the case. In the real world, failure to do the Genuinely Hard Thing is unlikely to be Death, physical harm, or public humiliation. It is much more likely to look like this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5c3025920812c464.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/39dbd1505f972497.png)
 
 That is, it’s most likely to be invisible. Most Genuinely Hard things are opportunities to radically change something, and failure to do this will just look like you going about your regular life, doing regular things, without a sign that anything significant has changed or happened.
 
@@ -381,7 +380,7 @@ In the brief time when she is still on Earth but knows what is coming, Kaguya ex
 
 > _What have I been doing here in this land? Throwing tantrums because I didn't want to  belong to anyone... ignoring what you want from me, and fooling myself with tiny fake meadows and mountains._
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1505086501f859ae.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6a8115ad3af2642e.png)
 
  _Only now, when I'm forced to go back to the Moon, do I finally remember why I came here._[15]
 

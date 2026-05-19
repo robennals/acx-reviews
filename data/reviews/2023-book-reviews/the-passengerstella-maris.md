@@ -1,16 +1,16 @@
 ---
-title: "The Passenger/Stella Maris"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Passenger/Stella Maris
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-passengerstella-maris"
-wordCount: 2551
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-passengerstella-maris
+wordCount: 2557
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Fiction
   - History
@@ -65,14 +65,9 @@ If two guys in a bar talking about how Stueckelberg was never given proper attri
 
  With AI and nuclear doomsday scenarios pushing to the forefront of our daily lives, McCarthy is well positioned as a literary figure to articulate and attempt to answer many of the questions that arise.  The answers he offers are not always comforting. Why should they be?  One can’t help but conflate McCarthy meditating on his impending demise with ourselves (humanity) doing the same. Bobby and Alicia’s last name “Western” is no accident.  They represent the modern western world, immensely talented but morally and spiritually adrift and inheritors of a scientific birthright that is sure to be their downfall.  People have often looked to the humanities for comfort when the events of the world turn dark.  That’s not exactly what’s happening here. McCarthy is not one to sugarcoat.  If we feel powerless in the face of potentially civilization-ending forces, McCarthy offers not comfort but confirmation.  The final words of _Stella Maris_, and likely McCarthy’s final published words are shared between the psychiatrist and Alicia.
 
-_“I think our time is up._
-
-_I know. Hold my hand._
-
-_Hold your hand?_
-
-_Yes. I want you to._
-
-_All right. Why?_
-
-_Because that’s what people do when they’re waiting for the end of something”_
+> _“I think our time is up._  
+> _I know. Hold my hand._  
+> _Hold your hand?_  
+> _Yes. I want you to._  
+> _All right. Why?_  
+> _Because that’s what people do when they’re waiting for the end of something”_

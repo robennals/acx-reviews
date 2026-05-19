@@ -1,16 +1,16 @@
 ---
-title: "\"Without Marx or Jesus: the New American Revolution has begun\" by Jean-François Revel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: '"Without Marx or Jesus: the New American Revolution has begun" by Jean-François Revel'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "without-marx-or-jesus-the-new-american-revolution-has-begun-by-jean-franois-revel"
-wordCount: 5083
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: without-marx-or-jesus-the-new-american-revolution-has-begun-by-jean-franois-revel
+wordCount: 5085
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Politics
   - History
@@ -33,8 +33,7 @@ He criticized de Gaulle and the new regime he built in 1958, the Fifth Republic.
 
 For Revel, however, the U.S. was not just a backdrop against which the flaws of the French system came to the surface. In his eyes, America is a civilization that, in contrast with Europe, has “the ability to formulate cultural prototypes and prototypes of political societies.”
 
-*\*\*
-
+* * *
 Revel wrote in 2000 that if the French left and right were stripped of their anti-Americanism, there would be nothing left of their political ideas. This assessment may be considered too harsh, but every political formation and intellectual involved in politics in France had to grapple with their stance towards the United States as a global superpower. These issues boiled down to two questions, which Richard F. Kuisel formulated as follows in _The French Way: How France Embraced and Rejected American Values and Power_: “How can we avoid American hegemony and remain independent? How can we be modern and yet remain French?”
 
 At the time _Without Marx or Jesus_ is published, the two traditional poles of anti-Americanism – and the two frameworks structuring collective imagination in France – Gaullism and the Communist Party, have been undergoing a crisis. The first had been weakened by the departure of de Gaulle after a failed referendum. The Communist Party faltered due to a combination of challenges. May 68’ was a rebellion of the youth that drew upon leftist traditions opposing those represented by the party (which spoke out against the student revolt). Another factor undermining its authority was the Soviet invasion of Czechoslovakia. Solzhenitsyn’s _The Gulag Archipelago_, was published soon after. In the 1970s, anti-Americanism was waning.

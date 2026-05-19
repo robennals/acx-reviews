@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.019Z'
 slug: a-peoples-tragedy-a-history-of-the-russian-revolution-1891-1924-review-2
 wordCount: 17107
 readingTimeMinutes: 77
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - History
@@ -52,10 +51,8 @@ What was the vision of the bolsheviks for the regime and what did it actually ac
 
 Although there were few liberal regimes at the turn of the century, most countries of western Europe were transforming themselves into modern nation-states. Germany had recently been unified into a powerful empire after the defeat of France in 1871 and Italy followed the same process at the same period.
 
-  
 The nation-state was one of the main transforming ideas of the 19th  century. Together with the industrial revolution that was spreading from England, it would profoundly transform the continent.
 
-  
 While most states remained monarchical or even imperial, they were nonetheless experiencing deep structural changes in their organization that influenced their political , economic and societal characteristics.
 
 The state was becoming more powerful. As its resources increased, its capacity to intervene more effectively in the life of its citizens grew along with it.
@@ -64,10 +61,8 @@ From a very light bureaucracy that relied on local relays of power, more central
 
 Keeping the military force in mind, the statesmen of the period saw that there were more to it than sheer strength in number. What the modern era required was a literate population capable of following complex instructions and able to participate in large scale collaboration. This was required of soldiers in the army as it was of workers in the   factory.
 
-  
 The schooling system provided a solution to these issues, it became more widespread and was crucial in the forming of a national consciousness.
 
-  
 From a security state, it was turning into a benevolent one. All over western Europe, the state was getting involved in the betterment of the health and education of its population. The children were slowly being brought out of dreadful working conditions and put into schools, the workers were insured better working conditions, the elderly insured against destitution.
 
 The welfare policies enacted under the premiership of Disraeli in Great Britain or under Bismarck in Germany in the 1880s are good illustrations of that trend.
@@ -79,7 +74,8 @@ Freedom of the press was a crucial element of this evolution. The newspapers wer
 Politically, the transformations were not less profound, most countries had a parliament that grew more influential with time. The parliaments were first very constrained in their prerogatives. However, with time, they came to impose their primacy as initiators of the law and liberal parties acted as engines for further progressive policies.  
 The franchise tended to evolve toward more inclusion with some countries attaining [universal man suffrage](https://en.wikipedia.org/wiki/Universal_manhood_suffrage) before the turn of the century.
 
- Although it would be tempting to separate, for instance, the more liberal regimes of France, the only republic with Switzerland on the continent and Great Britain with those of imperial Germany, Austria-Hungary and The Russian empire, what is truly remarkable is that these changes were occurring regardless of the form of government.
+   
+Although it would be tempting to separate, for instance, the more liberal regimes of France, the only republic with Switzerland on the continent and Great Britain with those of imperial Germany, Austria-Hungary and The Russian empire, what is truly remarkable is that these changes were occurring regardless of the form of government.
 
 ### Russia at the turn of the century
 
@@ -108,7 +104,7 @@ This vital fact is all too often clouded by the revolutionaries' mythic image of
 
 The regular police, as opposed to the political branch, was extremely small by European standards. Russia's expenditure on the police per capita of the population was less than half of that in Italy or France and less than one quarter of that in Prussia. For a rural population of 100 million people, Russia in 1900 had no more than 1,852 police sergeants and 6,874 police constables. The average constable was responsible for policing 50,000 people in dozens of settlements stretched across nearly 2,000 square miles. Many of them did not even have a horse and cart.
 
- 
+   
 
 Far from emphasizing this failure of modernization as an expression of the essence of an ‘eternal Russia’ that could only have turned out this way, the author highlights the missed opportunity of the reform era following the emancipation in the 1860s.
 

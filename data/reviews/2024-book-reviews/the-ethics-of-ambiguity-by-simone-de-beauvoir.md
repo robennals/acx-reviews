@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.006Z'
 slug: the-ethics-of-ambiguity-by-simone-de-beauvoir
-wordCount: 2557
+wordCount: 2554
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Philosophy
@@ -30,9 +29,9 @@ This book does not give easy answers. Not because it does not want to, but becau
 
 I see the book as being structured into three main lines of arguments:
 
-> *   What freedom is, how you realize and what errors people run into, while trying to realize it.
-> *   How oppressors take away our freedom and what arguments they use to justify this.
-> *   How you can act in the world, to both realize your own freedom and that of others, and fight oppression.
+*   What freedom is, how you realize and what errors people run into, while trying to realize it.
+*   How oppressors take away our freedom and what arguments they use to justify this.
+*   How you can act in the world, to both realize your own freedom and that of others, and fight oppression.
 
 ## What is freedom? How do you realize it? Where can you go wrong?
 

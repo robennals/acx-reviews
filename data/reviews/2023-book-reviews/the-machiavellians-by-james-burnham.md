@@ -1,16 +1,16 @@
 ---
-title: "The Machiavellians by James Burnham"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Machiavellians by James Burnham
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-machiavellians-by-james-burnham"
-wordCount: 4623
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-machiavellians-by-james-burnham
+wordCount: 4629
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Politics
@@ -21,7 +21,7 @@ James Burnham followed an almost comically 20th century intellectual trajectory.
 
 Today he’s remembered for two books written in his post-Marxist, pre-National Review phase. The first, _The Managerial Revolution: What is Happening in the World_ was published in 1941 and became a world-wide bestseller but lost some of its cachet when Burnham’s confident prediction that Germany and Japan would win World War II did not pan out. It’s often cited as a key influence on Orwell when he was writing _1984,_ and [Orwell’s post-war essay](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/second-thoughts-on-james-burnham/) on Burnham summarises the thesis:
 
-Capitalism is disappearing, but Socialism is not replacing it. What is now arising is a new kind of planned, centralised society which will be neither capitalist nor, in any accepted sense of the word, democratic. The rulers of this new society will be the people who effectively control the means of production: that is, business executives, technicians, bureaucrats and soldiers, lumped together by Burnham under the name of ‘managers’. These people will eliminate the old capitalist class, crush the working class, and so organise society that all power and economic privilege remain in their own hands.
+> Capitalism is disappearing, but Socialism is not replacing it. What is now arising is a new kind of planned, centralised society which will be neither capitalist nor, in any accepted sense of the word, democratic. The rulers of this new society will be the people who effectively control the means of production: that is, business executives, technicians, bureaucrats and soldiers, lumped together by Burnham under the name of ‘managers’. These people will eliminate the old capitalist class, crush the working class, and so organise society that all power and economic privilege remain in their own hands.
 
 A prophecy that seemed hilariously wrong during the Cold War but now gets a little less laughable every day. In the late 2010s Thomas Piketty described the dominant political factions of the 21st century as the Brahmin Left and Merchant Right: rival elites who’ve captured the political parties that once represented labour and capital. For Burnham’s modern day admirers they’re a perfect representation of his managerial class, and their dominance of the public and private sectors is a validation of his thesis. We still enjoy a superficial form of democracy via the circus of electoral politics; but most power is held by the managers.
 
@@ -85,7 +85,7 @@ His answer is the iron law of oligarchy. To project political power in a modern 
 
 I rewatched the first few seasons of _The Wire_ while I was reading Burnham, and its depiction of the Baltimore Police Department is a great example of Michel’s principle of oligarchy. Rawls, Valchek and Burrell run the BPD and their primary goals are to further their own careers and advance the political interests of their patrons in the local Democratic party (which, again, is a corrupt and dysfunctional political monopoly). Sometimes their goals overlap with solving crime and sometimes they conflict with it, in which case careers and politics always take precedence over public interest. Oligarchs always choose their own advancement over the interests of the members or the ideals of the organisation, so they’ll generally out-compete rivals who fail to do this. For Michels the managerial oligarchy is the natural end state for all large organisations - especially central government. He believes that his Iron Law of Oligarchy reveals the deep flaws in democracy, capitalism and socialism, rendering them all doomed:
 
-Whatever social changes occur, whatever happens to economic relations, whether property is in private hands or socialised, organisation will remain and through organisation an oligarchical rule will be perpetuated.
+> Whatever social changes occur, whatever happens to economic relations, whether property is in private hands or socialised, organisation will remain and through organisation an oligarchical rule will be perpetuated.
 
 You can see how this logic leads him down the path to fascism. If a distributed self-serving oligarchy is inevitable why not have one central mega-oligarch running everything? A great and terrible leader unbounded by the rule of law, who embodies the will of the working class and can overrule all the bourgeois tyrants of the corporations and the bureaucracy! What could go wrong? He died in 1936, before the war.
 
@@ -93,7 +93,7 @@ Burnham thinks that the transition from Mosca’s more traditional ruling class 
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/e9b8b3eb6c046b03.png)
 
-Whoever becomes a lamb will find a wolf to eat him.
+> Whoever becomes a lamb will find a wolf to eat him.
 
 Vilfredo Pareto was the only one of Burnham’s Machiavellians I’d heard of prior to reading his book. But I didn’t know he started out as a classical liberal and became . . . maybe not a fascist exactly, but an important intellectual influence on Mussolini’s government. Italian intellectuals love to argue about whether he was or was not a fascist sympathiser.
 
@@ -105,11 +105,11 @@ And again, you can see how this line of thinking turns into a pretext for a fasc
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/5c7e403d40947c64.png)
 
-One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool
+> One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool
 
 Orwell’s essay on Burnham gleefully points out all the many predictions Burnham got wrong in his attempt to forecast the outcome of the war and the general trajectory of world history. He admits that Burnham was right about the big stuff, though. Industrialisation does seem to push societies towards technocratic oligarchy. But there are oligarchies and there are oligarchies: Burnham’s mistake, Orwell believes, and the mistake of his fascist-curious embittered ex-liberals and ex-socialists was to underestimate the resilience of democratic institutions that constrain their oligarchs. And they vastly overestimated the long term viability of totalitarian systems and the general sanity of unconstrained tyrants. Towards the end of his essay - written in 1946 - Orwell makes a prediction of his own and a final assessment of Burnham’s worldview:
 
-the Russian régime will either democratize itself, or it will perish. The huge, invincible, everlasting slave empire of which Burnham appears to dream will not be established, or, if established, will not endure, because slavery is no longer a stable basis for human society . . . That a man of Burnham’s gifts should have been able for a while to think of Nazism as something rather admirable, something that could and probably would build up a workable and durable social order shows, what damage is done to the sense of reality by the cultivation of what is now called ‘realism’.
+> the Russian régime will either democratize itself, or it will perish. The huge, invincible, everlasting slave empire of which Burnham appears to dream will not be established, or, if established, will not endure, because slavery is no longer a stable basis for human society . . . That a man of Burnham’s gifts should have been able for a while to think of Nazism as something rather admirable, something that could and probably would build up a workable and durable social order shows, what damage is done to the sense of reality by the cultivation of what is now called ‘realism’.
 
 He’s attacking the earliest edition of _The Managerial Revolution_ here. Burnham revised his book multiple times. Today the most widely available version is the 1972 edition which is less enthusiastic about Hitler and the merits of totalitarianism and more self-congratulatory about Burnham’s grand thesis being validated: western democracies were unmistakably managerial societies in which factions of elite technocrats vyed for political control to grant themselves more wealth and power.
 
@@ -117,7 +117,7 @@ This underestimation of democracy was an odd mistake for Burnham to make and poi
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/6ef0ba0683400f8c.png)
 
-Just as we seldom realize that we are growing old until we are already old, so do the contemporary actors in a major social change seldom realize that society is changing until the change has already come
+> Just as we seldom realize that we are growing old until we are already old, so do the contemporary actors in a major social change seldom realize that society is changing until the change has already come
 
 That last question obsessed liberal theorists during the 18th and 19th centuries, and into the early 20th. Adam Smith and David Ricardo talked about the problems of economic rent and rent seeking: elites using their power to extract value from the productive economy rather than creating new value through labour or the investment of capital. Smith thought that free markets would solve this problem. So did Keynes. In the final chapter of the General Theory, written in 1935 he was optimistic that capitalism will eventually lead to ‘the euthanasia of the rentier’. What went wrong?
 

@@ -1,19 +1,15 @@
 ---
-title: >-
-  From Paralysis to Fatigue: A History of Psychosomatic Illness in the Modern
-  Era by Edward Shorter
+title: 'From Paralysis to Fatigue: A History of Psychosomatic Illness in the Modern Era by Edward Shorter'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.700Z'
-slug: >-
-  from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter
-wordCount: 4704
-readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+slug: from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter
+wordCount: 4726
+readingTimeMinutes: 22
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Psychology
@@ -39,7 +35,7 @@ And:
 
 This “symptom pool” metaphor sounds an awful lot like an analog formulation of [predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/). There’s a bottom-up stream of formless sensory data, in this case consisting of interoception like “ascending colon just distended a little” or “left semicircular canals say our head is rotating.” There’s the top-down stream of predictions, here involving medical priors like “I have irritable bowel syndrome” or “a lot of my peers have been fainting lately.”
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d3e352467a2ac557.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/569b0a5a1e76521e.png)
 
 I think this model suggests that unexplained symptoms can arise in different ways. One person might have a bottom-up stream of internal sensation that’s unusually insistent, or a top-down stream with unusually imprecise health priors. They end up perpetually bothered by random pains, numbness and tingling that comes and goes, bloating and nausea, fatigue for no reason.
 
@@ -81,7 +77,7 @@ Anyway, in the 19th century West, fits came in two major categories: a “fainti
 
 > On a Sunday-school picnic a young lady was noticed by her friends to act queerly. She stopped talking, became absent-minded, stared about her in a dazed way, began to walk off…she soon began to get rigid and her face flushed. Then she commenced to go through various irregular movements of her body. She thrashed with her arms and kicked with her legs, threw her head from side to side, arched up her back and rolled about with such force that several of us had to hold her.”
 
-![](https://acximages.ennals.org/images/2022-book-reviews/eebdaaba44a407e0.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/21e4b3d4ae7121c0.jpg)
 
 _Back arching as part of a fit. Looks a lot like opisthotonus in tetanus._
 
@@ -163,7 +159,7 @@ Neurasthenia was conceived of as an organic (i.e. real) nerve or brain condition
 
 > Anything between the highly strung, interesting, but irritable young lady who abhors the designation nervous, and is grossly insulted by the slightest hint she is hysterical when she complains of an abiding cold spot between her shoulders in her spinal column that nothing relieves, and the stupid, depressed, ever-complaining and, indeed, heartbreaking “lie-abed,” a lifelong trouble to herself and her friends; anything between the intelligent, vivacious business man with a fixed and altogether exaggerated idea of the importance of a certain sensation in his head or stomach, and the distressing state of neurotic impasse as represented by the lifelong depressed hypochondriac, we call neurasthenia, and their name is legion.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/ff4c77e02ae82333.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/429c44c0f2d3168f.png)
 
 _Neurasthenia, in contrast to the female identified hysteria, enabled nerve doctors to reach untapped markets: middle-class businessmen and the new urban working class_.
 
@@ -187,37 +183,15 @@ We’ve seen a number of symptoms already rise and fall in popularity, in what i
 
 You may have noticed that psychosomatic entities have analogs in other medical conditions. There’s a form of the symptom that occurs “in nature,” which I’ll call the wild-type, and there’s a memetic form inspired by it. As Shorter says, “society does not invent symptoms; it retrieves them from the symptom pool.”
 
-**Wild-type form**
-
-**Memetic form**
-
-epileptic seizure
-
-“hysterical fit” or convulsion
-
-nerve or spinal cord injury
-
-limb weakness or numbness
-
-stroke
-
-conversion blindness, speech impairment
-
-tetanus, dystonia
-
-back arching, body spasms, ”drawing up”
-
-coma
-
-trance
-
-sickness behavior (like flu)
-
-chronic myalgia and fatigue
-
-heart attack
-
-atypical chest pain
+| Wild-type form | Memetic form |
+| --- | --- |
+| epileptic seizure | “hysterical fit” or convulsion |
+| nerve or spinal cord injury | limb weakness or numbness |
+| stroke | conversion blindness, speech impairment |
+| tetanus, dystonia | back arching, body spasms, ”drawing up” |
+| coma | trance |
+| sickness behavior (like flu) | chronic myalgia and fatigue |
+| heart attack | atypical chest pain |
 
 In the wild-type form, the symptom is explicable as a malfunction in an identifiable biologic mechanism. By definition, this isn’t true of the psychosomatic, or memetic versions, which result from a still obscure central nervous system process.
 
@@ -227,9 +201,9 @@ We’re up to the 1920s - 1930s. Thanks to advancing science, doctors have more 
 
 Pain and fatigue have several useful qualities. They’re universal experiences with a range of causes. They’re poorly understood compared to seizures or focal paralysis. They’re inherently subjective and “almost impossible to disprove.” Thus, somatization in the rest of the 20th century consisted largely of patients reporting pains, fatigue, and other sensations like nausea or dizziness.
 
-> *   A 1940s Boston internist: “one of the problems most encountered by the general practitioner and the internist is a complaint variously described as weakness, exhaustion, fatigue, loss of ambition, low vitality or weak spells.”
-> *   In 1960s France there was something called receptionists syndrome:
->
+*   A 1940s Boston internist: “one of the problems most encountered by the general practitioner and the internist is a complaint variously described as weakness, exhaustion, fatigue, loss of ambition, low vitality or weak spells.”
+*   In 1960s France there was something called receptionists syndrome:
+
 > Profound asthenia of both physical and psychological nature at the end of the workday, a drop in attentiveness, in interest and in memory; disturbances of mood and personality, nervousness, irritability, episodes of anxious agitation, hypersensitivity to noise, hyperactivity with tearful moments
 
 The pattern continued to the 1990s, when this book was written. The last few sections touch on Chronic Fatigue Syndrome (briefly attributed to chronic Epstein-Barr viral infection in the 1980s and christened “the Yuppie flu”) and Fibromyalgia. You can guess Shorter’s take: “From a grab-bag of scattered bodily pains, fibrositis (or fibromyalgia as some preferred to call it after muscle inflammation had failed to materialize) passed to being a specific disease.” With basically overlapping symptoms, he thinks Chronic Fatigue and Fibromyalgia are identical and probably represent a form of depression.
@@ -260,10 +234,10 @@ This distinction implies that some people experience prolonged sadness, or poor 
 
 If this hypothesis is true, you would expect to see shifts in how people experience common emotional symptoms, reflecting public awareness campaigns, media attention, drug marketing, and the cultural milieu. As far as I can tell, this is basically the consensus of historians in the field. It’s something like:
 
-> 1.  Pre 1900, when psychiatry was stigmatized and emotions repressed, everybody had physical symptoms.
-> 2.  In the early 20th century, when psychoanalysis reigned, everybody had neuroses and complexes.
-> 3.  In the mid 20th century, once barbiturates and benzodiazepines were common, [everybody had anxiety](https://www.goodreads.com/book/show/3152641-the-age-of-anxiety) and nervous breakdowns.
-> 4.  Post 1980s, once DSM III and SSRIs came out, [everybody](https://www.amazon.com/How-Everyone-Became-Depressed-Breakdown/dp/0199948089/ref=sr_1_1?crid=78BUBMG1OG0I&keywords=how+everybody+became+depressed&qid=1646158655&sprefix=how+everybody+became+depressed%2Caps%2C109&sr=8-1) had [depression](https://www.amazon.com/American-Melancholy-Constructions-Depression-Twentieth/dp/0813564735/ref=sr_1_3?crid=DIIWG6KH2PRU&keywords=american+melancholy&qid=1646158519&sprefix=american+melancholy%2Caps%2C133&sr=8-3).
+1.  Pre 1900, when psychiatry was stigmatized and emotions repressed, everybody had physical symptoms.
+2.  In the early 20th century, when psychoanalysis reigned, everybody had neuroses and complexes.
+3.  In the mid 20th century, once barbiturates and benzodiazepines were common, [everybody had anxiety](https://www.goodreads.com/book/show/3152641-the-age-of-anxiety) and nervous breakdowns.
+4.  Post 1980s, once DSM III and SSRIs came out, [everybody](https://www.amazon.com/How-Everyone-Became-Depressed-Breakdown/dp/0199948089/ref=sr_1_1?crid=78BUBMG1OG0I&keywords=how+everybody+became+depressed&qid=1646158655&sprefix=how+everybody+became+depressed%2Caps%2C109&sr=8-1) had [depression](https://www.amazon.com/American-Melancholy-Constructions-Depression-Twentieth/dp/0813564735/ref=sr_1_3?crid=DIIWG6KH2PRU&keywords=american+melancholy&qid=1646158519&sprefix=american+melancholy%2Caps%2C133&sr=8-3).
 
 Anecdotally, I can tell you that bipolar disorder was very common from 2000-2012ish, but lately is surpassed by PTSD and ADHD.
 
@@ -271,7 +245,7 @@ Maybe people’s symptoms don’t change, but we just settle on new labels every
 
 Maybe people had PTSD or depression or autism all along, and now we finally recognize it? Maybe! Though this reminds me of the [Medieval Barber](https://youtu.be/edIi6hYpUoQ) fallacy:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d7e6f720a0f2eafc.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/edd13a1b7a10c7ad.png)
 
 Theodoric of York: “You know, medicine is not an exact science, but we are learning all the time. Why, just fifty years ago, they thought a disease like your daughter’s was caused by demonic possession or witchcraft. But nowadays we know that Isabelle is suffering from an imbalance of bodily humors, perhaps caused by a toad or a small dwarf living in her stomach.”
 

@@ -1,16 +1,16 @@
 ---
-title: "Why People Die By Suicide by Thomas Joiner"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Why People Die By Suicide by Thomas Joiner
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "why-people-die-by-suicide-by-thomas-joiner"
-wordCount: 2474
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: why-people-die-by-suicide-by-thomas-joiner
+wordCount: 2472
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Psychology
   - Society
@@ -22,7 +22,7 @@ Strangely, the part about escalating suicidality in adolescents seems underempha
 
 But this model has many shortcomings. For one thing, why do some people with severe depression attempt suicide, and others never do? What about people with no apparent history of emotional problems? There are dozens of other [risk factors](https://afsp.org/risk-factors-protective-factors-and-warning-signs) including impulsivity, physical health problems, a family history, [suicide clusters](https://doi.org/10.1371/journal.pone.0108724), and access to firearms.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7f4cb3dfdc706340.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/290ee2f7c17c3592.png)
 
 _Old men are at much greater risk than adolescent girls._
 
@@ -34,13 +34,13 @@ In short, good theories of suicide are hard to come by. Past attempts to explain
 
 According to Joiner, the best explanation for this (and all the other data) is that a serious suicide attempt requires three distinct conditions, each necessary but not sufficient.
 
-**Desire for Death**
+## Desire for Death
 
 People usually try their best to stay alive. Why would a "desire for death'' emerge in an organism so shaped by evolution? Joiner argues that two social factors are key.
 
 > _No more fiendish punishment could be devised, were such a thing physically possible, than that one should be turned loose in society and remain absolutely unnoticed by all members thereof. If no one turned around when we entered, answered when we spoke, or minded what we did, but if every person we must 'cut us dead,' and acted as if we were non-existent things, a kind of rage and impotent despair would before long well up in us, from which the cruelest bodily torture would be a relief._
->
-> *   William James (1890) via Joiner
+
+*   William James (1890) via Joiner
 
 The first is Thwarted Belongingness. Put simply, humans need frequent positive interactions with others. Personal connections create meaning in life and act as a buttress - it's common for even severely depressed people, when asked about suicide, to say something like "I could never do that to so-and-so."
 
@@ -50,7 +50,7 @@ The second component is Perceived Burdensomeness. Suicidal people view themselve
 
 Research also supports a correlation here. One study concluded that "genuine suicide attempts were often characterized by a desire to make others better off, whereas nonsuicidal self-injury was often characterized by desires to express anger or punish oneself." Another looked at chronically ill patients who needed caregiving from their spouse. One might expect spousal support to reduce suicidality, but instead the correlation was positive - interpreted as patients’ sense of burden on their spouse.
 
-**The Ability to Enact Lethal Self-Injury is Acquired**
+## The Ability to Enact Lethal Self-Injury is Acquired
 
 Joiner asks:
 
@@ -62,11 +62,11 @@ One route is practice, or “working up to it.” A history of multiple attempts
 
 Other forms of bodily harm accomplish the same end: cutting, IV drug use, tattoos, combat exposure, childhood physical abuse, and even aggression toward others. Repeated exposure to any painful or provocative stimuli leads to habituation and lessening of aversive effects. Just as a veteran skydiver replaces fear with exhilaration, self-injury can become reinforcing.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ac260377c5dcbc27.png)_._
+![](https://acximages.ennals.org/images/2023-book-reviews/811e68ae94febced.png)_._
 
 This is a plausible framework for why certain types of people are at such high risk. For instance, the ratio of attempted to completed attempts in young people is very high (100:1 according to Joiner) but decreases dramatically in the elderly. This fits a model in which people acquire the capacity for more serious self-harm over time. Substance use is such a risk because it entails repeated provocative experiences (IV drug use, alcohol related injuries) as well as the isolation and burdensomeness of late-stage addiction.
 
-**Problems**
+## Problems
 
 At times Joiner really strains the model, while ignoring some major topics altogether.
 
@@ -80,29 +80,29 @@ Finally, Joiner rejects the possibility of impulsive suicide attempts, asserting
 
 Altogether, these are substantial flaws. The theory also doesn’t account well for established risk factors like chronic pain, insomnia, anxiety, psychosis, and feeling trapped.
 
-**Energy States and Suicide**
+## Energy States and Suicide
 
 Joiner’s most convincing move is separating a _desire_ for death from the _capability_ to self-harm. Starting from this insight, I can’t help but see a different sort of model.
 
-> 1.  Being alive and being dead are two different states. Being alive is usually preferred.
-> 2.  Sometimes the states seem equivalent, for instance if prolonged disconnection makes life feel pointless.
-> 3.  More rarely, death actually seems preferable. This often involves a belief that others are better off without them, but can also occur anytime quality of life is low enough.
-> 4.  Even in such cases, killing oneself is hard! This state change involves a substantial barrier, or activation energy. The very act of attempting is a high-energy transition state. The higher the barrier, the less likely a suicidal person is to actually make an attempt.
-> 5.  Factors that raise the activation energy include fear of pain, fear of death, and prohibitions against suicide. Factors that lower the barrier include practice, impulsivity, and any beliefs that make suicide more acceptable, such as specific cultural beliefs or exposure to suicide attempts by others.
+1.  Being alive and being dead are two different states. Being alive is usually preferred.
+2.  Sometimes the states seem equivalent, for instance if prolonged disconnection makes life feel pointless.
+3.  More rarely, death actually seems preferable. This often involves a belief that others are better off without them, but can also occur anytime quality of life is low enough.
+4.  Even in such cases, killing oneself is hard! This state change involves a substantial barrier, or activation energy. The very act of attempting is a high-energy transition state. The higher the barrier, the less likely a suicidal person is to actually make an attempt.
+5.  Factors that raise the activation energy include fear of pain, fear of death, and prohibitions against suicide. Factors that lower the barrier include practice, impulsivity, and any beliefs that make suicide more acceptable, such as specific cultural beliefs or exposure to suicide attempts by others.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7a3e8612140f7361.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/5ffb0fd6573043ae.png)
 
 The “favorability” of the change depends on the relative desirability of life and death. Desire for death isn’t always due to interpersonal problems - there are other factors like chronic pain, severe insomnia, and psychosis.
 
 The “rate” is determined by the height of the barrier, or activation energy. People with high barriers are unlikely to ever attempt suicide, while those with a low barrier could act any time the desire is present. Viewing this as a barrier to overcome, rather than an acquired capacity, seems to better account for innate fear of pain and death, as well as cultural prohibitions that effectively raise the threshold for suicide. Conversely, firearms and alcohol act as catalysts, lowering activation energy by their presence. Finally, more impulsive people, kinda by definition, have lower barriers to action across the board.
 
-**Implications**
+## Implications
 
 Let’s go back to Joiner’s model, which suggests a grim future. Suicidal thoughts are already prevalent among young people, whatever your preferred sociological explanation. As these cohorts age, they will only gain more experience with various forms of self-harm, increasing the capacity for serious suicide attempts. The opioid epidemic, declining marriage and fertility rates, remote work; these trends all push in the same worrying direction.
 
 On the other hand, facile stories about suicide are misguided. At the societal level, dozens of factors interact in contingent ways. For instance, we might see opposing trends like increasing social isolation but decreasing substance use. In the right circumstances, it’s perfectly consistent for high levels of suicidal ideation to coexist with low suicide rates. Finally, blanket attributions of suicide to diagnosable mental illness miss the role of family, employment, religion, physical health, trait impulsivity, firearm access, and more.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/24c46aae85f34b9a.png)![](https://acximages.ennals.org/images/2023-book-reviews/8c0cf50f70af5886.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/be048a4b5f4718d6.png)![](https://acximages.ennals.org/images/2023-book-reviews/0e8555e86d906e42.png)
 
 _My chart, data from CDC and_ _[Shields et al](http://eknygos.lsmuni.lt/springer/662/305-335.pdf)__. Table per_ _[WHO 2019](https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate)__._
 

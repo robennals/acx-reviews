@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.283Z'
 slug: how-many-super-mario-games-are-there-now
-wordCount: 6543
+wordCount: 6554
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:
   - Society
@@ -28,7 +27,7 @@ But since I don’t have the luxury of having built an audience partially answer
 
 jan Misali has structured his quest on the idea of a mainline Mario game, or “Super Mario” game for short. If you’re unfamiliar, this division between mainline and spinoff games is widely accepted within Mario and wider gaming fandom. “Super Mario” games are generally thought of as the games where the most stereotypically Mario things take place. If you’re clearing platforming challenges to beat a gross monster and rescue a princess, you’re probably playing a Super Mario game. If Mario and friends are doing something else, like driving go carts, playing tennis, or using RPG battle mechanics, you’re probably playing a Mario spinoff. Misali’s survey took (almost) every Mario video game ever released and asked its participants if they were mainline, spinoffs, or not Mario games at all. He also asks whether a game is a “distinct entry” in the Super Mario series, in order to account for the many, many rereleases of Mario games over time.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1d15324928eab920.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/262816927767b488.png)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/843e9213247b3163.png)
 
@@ -40,7 +39,7 @@ _The way I’ve decided to count it is that if someone counts a game as part of 
 
 Games with 80% or more respondents answering in this way from the most popular individual list of mainline Super Mario games. Overall, I think this is a fairly logical way to design a survey answering this question. Its sheer breadth obviously selects for people passionate enough about the Mario series to devote the time and energy to complete it (a fact Misali readily acknowledges), but given that the target audience who would be heavily interested in this sort of question are likely to be Mario nerds as well, this doesn’t seem like a massive deal. The list of games that cross this threshold also seem fairly reasonable from the perspective of someone like me, with a lot of familiarity with the series. More or less all of the 2D and 3D platformers starring Mario are included on this list, with a notable edge case I’ll adress later.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/6f3962718ae40e1e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/529ac58198765c49.png)
 
 Probably the most contentious individual point to make is about how Misali interprets the data. His purported reason for starting this video series is that there is “no consensus” on what Mario games count as mainline, and that this lack of consensus is interesting. He’s certainly correct that Nintendo doesn’t have an internally consistent list of Super Mario games (any official lists usually don’t claim to be comprehensive and vary by region), and that content creators invoking the concept of the “Super Mario series” use it to describe varying sets of games. The inclusion rate of games outside of this set of 19, however, falls off dramatically. The 20th most included game has a rate of under 50%, with the 19th game boasting over 80%! Misali’s chief defense is that
 
@@ -64,7 +63,7 @@ _I could have made special  categories for just Bowser’s Fury, but I could not
 
 Now, in the interest of fairness, I can see where he was coming from. I’m just personally opposed to this conception of fairness as the most important principle for this survey. Misali’s goal was to get actual figures on what people thought about these games, and _Bowser’s Fury_ is one of the most spirited debate topics in that context. It was more important, in my view, to get answers on this question than to be absolutely fair to the likes of _Donkey Kong Jr. + Sansū Lesson_.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/98ce27bf1ffbcc53.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2effbbfe165541ec.png)
 
 Yes, this is real.
 
@@ -90,12 +89,12 @@ Like all Dungeons and Dragons campaigns, _[Rude Tales of Magic](https://www.rude
 
 This episode in particular centres Albee Dawn (played by Carly Monardo): a loveable, punky, driven faun determined to become a Monk of the Four Elements. Her path—both literal and emotional—takes center stage in this episode. She is accompanied by her friends:
 
-> *   Cordelia Sasquatch (played by Ali Fisher): A self-assured, jean-jacket-wearing sasquatch who took the name of the land as her own.
-> *   Frederick de Bonesby (played by Christopher Hastings): A once-human noble-turned-fancy-wig-wearing-skeleton by way of a botched lich ritual.
-> *   Stir Fry (played delightfully by Tim Platt): A hyperactive Kenku chef who was granted the ability to speak by de Bonesby, and has been overcompensating ever since.
-> *   Bellow Gorramael (played by Joe Lepore): A hot, blue, druid tiefling with “psychotically chill” vibes.
->
-> *   And the Game Master, Branson Reese, whose voice and and narration is just exciting enough without being overstimulating to me, and who performs an impressive array of characters throughout the course of the show.
+*   Cordelia Sasquatch (played by Ali Fisher): A self-assured, jean-jacket-wearing sasquatch who took the name of the land as her own.
+*   Frederick de Bonesby (played by Christopher Hastings): A once-human noble-turned-fancy-wig-wearing-skeleton by way of a botched lich ritual.
+*   Stir Fry (played delightfully by Tim Platt): A hyperactive Kenku chef who was granted the ability to speak by de Bonesby, and has been overcompensating ever since.
+*   Bellow Gorramael (played by Joe Lepore): A hot, blue, druid tiefling with “psychotically chill” vibes.
+
+*   And the Game Master, Branson Reese, whose voice and and narration is just exciting enough without being overstimulating to me, and who performs an impressive array of characters throughout the course of the show.
 
 So—quest. Naturally, unhinged improvisation coincides with meandering paths and shenanigans as the group traverses the Teenage Woods and what lies beyond. This show is, at turns, hilarious, horrifying, and every now and then—against all logic—profound. What happens is fairly typical. There’s some owlbears and bearowls. Attempting to potty-train a ratman in exchange for answers. A reunion with a brother. The murder of a brother. A Kebin—a “stupid as fuck” yet horrifying monster made up of mutilated body parts and flesh who can turn anything inside out.
 
@@ -219,7 +218,7 @@ Albee, confused:
 
 Kreedis, without hesitation:
 
-I wanna be dead. But what I’m saying is, your hero worship is holding you back. There is nobody who found anything meaningful out from someone else’s journey. _Your_ journey is what is teaching you.
+> I wanna be dead. But what I’m saying is, your hero worship is holding you back. There is nobody who found anything meaningful out from someone else’s journey. _Your_ journey is what is teaching you.
 
 This moment is raw and complicated. Kreedis isn’t trying to guide Albee to a specific answer—he’s trying to shake her out of the belief that answers come from outside herself. He’s asking her to stop narrating her own growth, to stop grading herself, and instead, _perceive._
 
@@ -245,17 +244,15 @@ Not to be cruel, but to force her to confront the absurdity of her reality—and
 
 This is the turning point.
 
-_Kreedis: You can walk away from nirvana. Most people do._
-
-_Albee: I mean, it doesn’t seem to have brought you anything but more pain._
-
-_Kreedis: This reality is pain, yeah absolutely._
+> _Kreedis: You can walk away from nirvana. Most people do._  
+> _Albee: I mean, it doesn’t seem to have brought you anything but more pain._  
+> _Kreedis: This reality is pain, yeah absolutely._
 
 The scene continues to cut back and forth between Albee’s internal unraveling and the external absurdity of the nachos threatening to engulf her friends. It’s a surreal juxtaposition: cosmic truth and food-based apocalypse. But it works.
 
 Kreedis delivers another teaching:
 
-The power that will come from you accepting the world as it is, is a power that can unlock every star in the universe. The acceptance of the things that are beyond your control is the path to self-control, and the self and the universe are one and the same. Accept doesn’t mean endorse. Accept doesn’t mean admire. Accept doesn’t mean approve. It just means accept.
+> The power that will come from you accepting the world as it is, is a power that can unlock every star in the universe. The acceptance of the things that are beyond your control is the path to self-control, and the self and the universe are one and the same. Accept doesn’t mean endorse. Accept doesn’t mean admire. Accept doesn’t mean approve. It just means accept.
 
 And here, finally, Albee lets go.
 
@@ -327,15 +324,15 @@ She feels it—the guilt, the pain, the failure. She feels his life, both the de
 
 All at once, she’s enveloped in it:
 
-The drinking, the drugging, the high-profile interviews… the shame, the seclusion—all deliberate choices made to numb the pain and the guilt of having destroyed an entire peninsula of living souls minding their own business. _(Game Master, “Mountaintop,” Rude Tales of Magic)_
+> The drinking, the drugging, the high-profile interviews… the shame, the seclusion—all deliberate choices made to numb the pain and the guilt of having destroyed an entire peninsula of living souls minding their own business. _(Game Master, “Mountaintop,” Rude Tales of Magic)_
 
 She feels it all. The joy in the power. The crushing realization of consequence. The burden of it all. It becomes a kind of plan—slowly forming, aimless, yet deliberate.
 
-The grim skeleton of a plan begins to form and amble about. _Become nothing_. Albee feels musculature and a nervous system begin to form around the plan. _Destroy the path behind me, so that nobody may follow where I go… I can never again have my hands on the wheel. I am a vehicle I never learned to drive_. _(Game Master, “Mountaintop”)_
+> The grim skeleton of a plan begins to form and amble about. _Become nothing_. Albee feels musculature and a nervous system begin to form around the plan. _Destroy the path behind me, so that nobody may follow where I go… I can never again have my hands on the wheel. I am a vehicle I never learned to drive_. _(Game Master, “Mountaintop”)_
 
 She’s experiencing the full scope of what it means to have lived a life of both overwhelming power and destructive isolation. Every toxin Kreedis has ever consumed, every failure, every moment of confusion, and every ounce of shame is now coursing through her, too.
 
-You feel every single toxin that he has ever pumped through his bloodstream voluntarily. You feel sixty-plus years of failure and disappointment and weight and… just absolute existential… _death_. You feel it. You feel the guilt. You feel the power. You feel the excitement at the power. You feel the shame that comes along with it. You feel the confusion. You feel the anger, you feel the acceptance…” _(Game Master, “Mountaintop”)_
+> You feel every single toxin that he has ever pumped through his bloodstream voluntarily. You feel sixty-plus years of failure and disappointment and weight and… just absolute existential… _death_. You feel it. You feel the guilt. You feel the power. You feel the excitement at the power. You feel the shame that comes along with it. You feel the confusion. You feel the anger, you feel the acceptance…” _(Game Master, “Mountaintop”)_
 
 The magnitude of it nearly overwhelms her, but Albee realizes,
 
@@ -411,22 +408,17 @@ I questioned whether or not to submit this review, not sure if I actually had an
 
 * * *
 
-_Kreedis: These beautiful memories. Do they matter to the universe?_
-
-_Albee: No._
-
-_Kreedis: Do they matter to you?_
-
-_Albee: Yes._
-
-_Kreedis: Is that enough?_
+> _Kreedis: These beautiful memories. Do they matter to the universe?_  
+> _Albee: No._  
+> _Kreedis: Do they matter to you?_  
+> _Albee: Yes._  
+> _Kreedis: Is that enough?_
 
 _Albee:_ Yes.
 
-_Kreedis: Hell yeah._
-
-_Albee: Hell yeah._
-
-* * *
+> _Kreedis: Hell yeah._  
+> _Albee: Hell yeah._
+>
+> * * *
 
 … it is okay for something to matter only to you.

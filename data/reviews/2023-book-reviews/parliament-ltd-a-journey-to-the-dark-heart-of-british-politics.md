@@ -1,16 +1,16 @@
 ---
-title: "Parliament Ltd: A Journey to the Dark Heart of British Politics"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Parliament Ltd: A Journey to the Dark Heart of British Politics'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "parliament-ltd-a-journey-to-the-dark-heart-of-british-politics"
-wordCount: 5083
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: parliament-ltd-a-journey-to-the-dark-heart-of-british-politics
+wordCount: 5085
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Politics
   - Society
@@ -123,9 +123,8 @@ Williams recounts his interview with Labour MP Gisela Stuart thusly:
 
 “_It was as if I’d just taken a crap on the table in front of her. A mixture of horror, disgust and anger – but, above all, just complete confusion. Yet all I’d done was ask a simple question:_
 
-_‘What is Vestra Wealth?’_
-
-_A stunned look sprang on her face. ‘Is that on the Register?’_
+> _‘What is Vestra Wealth?’_  
+> _A stunned look sprang on her face. ‘Is that on the Register?’_
 
 _‘No’ I said. ‘It’s not’_”
 

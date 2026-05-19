@@ -1,16 +1,16 @@
 ---
-title: "The Motivation To Work"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Motivation To Work
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-motivation-to-work"
-wordCount: 2700
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-motivation-to-work
+wordCount: 2691
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Psychology
   - Economics
@@ -26,7 +26,7 @@ So says psychologist and researcher Frederick Herzberg in his 1959 book titled _
 
 To more fully understand what Herzberg is telling us in _The Motivation To Work_, let’s assume your/my company is rife with poor managers and demotivated/dissatisfied employees. Hence we invest a bunch of time, money, & creativity into management training - which inevitably fails. Why? Because, per my poorly drawn diagram below, dissatisfaction/demotivation and satisfaction/motivation do not live on a continuous spectrum. Instead, per Herzberg, there’s a brick wall sitting between them.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/0e83068efb614d4c.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/bec63db3603ba813.png)
 
 With certain factors holding power on one side of the wall while different factors hold power on the other side (this theory goes by two different names: Two-Factory Theory and Motivation-Hygiene Theory) And guess what, Management Skills lives on the opposite side of the wall from Satisfied/Motivated employees. No matter what we do to improve our managers, that investment will never get us satisfied/motivated employees.  The best we can hope for is employees that, in Herzberg’s words, are NOT DISSatisfied. An outcome that sounds about as thrilling as sister-kissing.
 
@@ -60,9 +60,9 @@ One last point before heading back into the review, Herzberg did not work alone.
 
 Let’s start with a list of guaranteed attitude killers, ways to create dissatisfaction, ways to fail on the Hygiene side of the ledger. Recall that Hygiene is all about context or environment. The distractions that the gossipers love to bitch about. The stuff that sucks the life out of otherwise good employees. Here are the top three
 
-> *   Enforce policies that lack fairness.
-> *   Hire and promote incompetent managers that also have poor interpersonal skills.
-> *   Put a confusing salary structure in place.
+*   Enforce policies that lack fairness.
+*   Hire and promote incompetent managers that also have poor interpersonal skills.
+*   Put a confusing salary structure in place.
 
 Suck at these Hygiene factors and your employees will be deeply dissatisfied, they’ll consider you unfair, and per Herzberg, they’ll conclude that you _lack integrity_. Since no ethical employer wants to be unfair and/or be thought of as lacking integrity, these Hygiene problems are obviously worth fixing. However, we need to attack these issues with eyes wide open. With the acceptance that the payoff for our hard work on the Hygiene side of the equation will be, at best, employees that are NOT DISsatisfied.
 
@@ -72,14 +72,10 @@ Fine, but how do we get satisfaction/motivation?
 
 Here are Herzberg’s motivators as called out in his original 1959 terms…
 
-> Achievement    38%
->
-> Recognition      27%
->
-> Work Itself        31%
->
-> Responsibility   28%
->
+> Achievement    38%  
+> Recognition      27%  
+> Work Itself        31%  
+> Responsibility   28%  
 > Advancement    23%
 
 *The numbers represent the % of time interviewees mentioned each factor as a motivator. The numbers add to greater than 100% because subjects could list more than one factor.
@@ -92,10 +88,8 @@ Lesson learned, only praise real achievement - or don't even do that. Herzberg f
 
 I’m a recovering engineer and love equations, so I interpret these findings like this…
 
-> NON-Achievement + Recognition = De-Motivation
->
-> Real Achievement + Zero Recognition = Some Motivation
->
+> NON-Achievement + Recognition = De-Motivation  
+> Real Achievement + Zero Recognition = Some Motivation  
 > Real Achievement + Sincere Recognition = Max  Motivation
 
 We now have a surefire way of demotivating someone - false praise. And we understand one of Herzberg’s key motivators - recognizing real achievement. Let’s move on to his next motivator.

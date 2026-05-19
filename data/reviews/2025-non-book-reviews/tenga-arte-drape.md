@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.394Z'
 slug: tenga-arte-drape
 wordCount: 1073
 readingTimeMinutes: 5
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Society

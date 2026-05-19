@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.490Z'
 slug: reason-and-society-in-the-middle-ages-by-alexander-murray
-wordCount: 4497
+wordCount: 4487
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - History
@@ -21,8 +20,8 @@ tags:
 
 Everyone reading this review, I expect, will be in some shape or form convinced that rationality is the way forward for, well, whatever one’s goals are. How to be rational, how to apply it to the world, how to prioritize and strategize towards goals, all are worthy subjects that have been explored in this community. However, why our reason is the only acceptable tool for these tasks is a different question. In fact, it's something of a nonsensical one; to argue for why we should use our reason must necessarily rely on arguments based on it, forcing us into circular reasoning. While I, and the work I review, don’t pretend to answer this already well-chewed over philosophical problem, we do nevertheless offer an explanation for why we all do all agree on reason. A tacit agreement among people is a social norm, and social norms have a human history entangled with belief, institutions, and power - one that we must examine, not as philosophers, but as historians. This, then, is the value of Alexander Murray’s 1978_Reason and Society in the Middle Ages_.
 
-> 1.  ### “Greeks” and “Hebrews”
->     
+1.  ### “Greeks” and “Hebrews”
+    
 
 Murray begins by pointing out that problems in society, we rational moderns have assumed, arise from a lack of understanding of those problems. The solution to social problems is the solution that has served so well in other arenas since the Enlightenment, more study, more analysis, more science. The institutions responsible for social problems have failed? Study them, then. Once the core of the problem has been located, understood, and made obvious to everyone, no one will be able to disagree, and the problem is solved. Murray’s point is that this is a historical mentality, something that has not always been true, and emerged at an identifiable time and place among identifiable people. Murray dubs this mentality the “Greek” mentality: social problems, as well as any other problem, are problems of ignorance, and they can be solved through rational inquiry and education.  
 
@@ -32,8 +31,8 @@ Forming the other side, then is what Murray calls the “Hebrew” mentality. Th
 
 A Greek would ask why eating the fruit would cause the ground to be cursed, a Hebrew recognizes himself when Adam chose to do wrong despite already knowing it would curse humanity. According to Murray, this is fundamental to the Judeo-Christian worldview.
 
-> 2.  ### The Scheme
->     
+2.  ### The Scheme
+    
 
 Ok, then, but wasn’t this supposed to be about history? This kind of Continental philosophizing is really outside what historians are supposed to be doing, even for 1978. So, Murray proposes that the Judeo-Christian synthesis with Hellenistic culture in the dying days of the Roman Empire would lead to an unresolved tension in Medieval thought; one that wouldn’t be escaped until the Protestant Reformation. After the Reformation, neither “camp” embraced one or the other mentality, rather, this was simply lost in the more politically relevant question of Catholic vs. Protestant. Before this, though, there was no room for thought that completely discarded one or the other mentality, Medieval scholastics, if they were to explain the world’s problems and guide us to solutions, had to accept both “Greek” and “Hebrew” mentality and synthesize them. Absent the ideological fragmentation of the Reformation, the tension is played out in the social history of intellectuals and institutions.
 
@@ -45,8 +44,8 @@ All of that is the introduction, but its necessary to understand why this isn't 
 
 ## II. The History
 
-> 3.  ### Economics and the Mind
->     
+3.  ### Economics and the Mind
+    
 
 Despite what you may of heard, the Western Roman Empire really did fall, at least when it came to its economy. Money, as a concept, had to be slowly re-introduced to Europe from the Islamic caliphates to the south and east. At first it was usually a way of evening out a barter, pre-divided bullion to make a trade in goods balance out. Real wealth was in land, and the power to command loyal followers to take more, as Charlemagne did in the years around 800.
 
@@ -54,24 +53,21 @@ Around 950 to 1100, though, Europeans came to see money itself as an object of d
 
 This new mobility was disturbing to a previously static society; in Christian polemic, avarice replaced pride as the root of all evil. Simony (the sin of buying and selling positions in the Church) suddenly became the number 1 priority for Church reformers, whereas previously, it was hard to distinguish from standard political favor trading. Widespread persecution of Jews was largely absent until Europe's re-monetization; being exempt from the Christian disquiet over the new liquidity, they became a conspicuous target, despite being only roughly 2% of Europe's financiers around 1200. Money, and its new ability to overturn social order, rapidly became a favorite target for satirists. Murray translates Petrus Pictor’s _De denario:_
 
-_A handsome lover visits his fair whore_
-
-_But brings no money - and is shown the door_
-
-_A monster follows, money in his wallet,_
-
-_And finds a banquet ready for his palate…_
+> _A handsome lover visits his fair whore_  
+> _But brings no money - and is shown the door_  
+> _A monster follows, money in his wallet,_  
+> _And finds a banquet ready for his palate…_
 
 Although condemnation is more ready from our sources, Murray really wants to talk about the opposite side of the point - ambition. At the same time wealth and power were growing beyond a coterie of warlords dominating land into a state, men were needed to run that state. Intermediary business men, those who could turn money into resources, suddenly found that they were needed by the state. Kings like Henry II of England read Vegitius’_[De rei militari](https://en.wikipedia.org/wiki/De_re_militari)_ and decided they didn’t need loyal knights ready to assemble, but logisticians who could guarantee a well provisioned siege. Nobles needed to invent the concept of hereditary knighthood in order to justify their rule, when all it took was money to buy the horse and harness that backed their prior claim. The prior term for a knight, the Latin _miles_, merely indicated an armed man; the term _prud'homme_ had to be coined to indicate that his place as a prudent man for the king is what set him apart.
 
 A peculiar manuscript of the time, the _[Secretum Secretorum](https://en.wikipedia.org/wiki/Secretum_Secretorum)_, was the handbook of the ambitious man. It wasn’t a book of moral exhortation, rather, the route to power was through the pseudo-virtue of prudence, knowing _what_ to do. It purported to contain some of Aristotle’s advice to Alexander translated from Syriac to Arabic to Latin, more likely it was a 10th century Arabic “Mirror of Princes”, a handbook to courtiers. Although it is little remembered now, the _Secretum_ was one of the most copied manuscripts in the central Middle Ages. Along with commentary on everything from anatomy to astrology, the _Secretum_ presents a view of the state radically different from prior medieval thought. It presents this diagram:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/8fdba749309db7fa.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/8f64dd17f1e54072.png)
 
 Each item causes the one next to it, cyclically. The king relies on the army, the army on the state, etc. Each item is integral to the one opposite to it - notice what lies opposite of “king”. The supposed wisdom of the ancients was clear: if you wanted to run a successful state, you needed money. If you wanted to be a part of the newly growing state apparatus, a courtier with power, there was no better route than being a money man, a man who could count.
 
-> 4.  ### Arithmetic
->     
+4.  ### Arithmetic
+    
 
 Fungible wealth, by definition, has a quality that wealth in land, treasure, and loyalty does not - countability. The monetization of Europe’s economy, and close behind, the state, meant that a money man was a man of arithmetic. Too bad, then, that the state of mathematics at the turn of the millennium was pathetic. The Venerable Bede, in 8th century England, wasn’t argued with when he calculated the proper date of Easter because there were no other clerics available that could understand the math. He popularized dating his histories by_Anno Domini_, dating from the birth of Christ instead of a local regnal year; basic mistakes in addition and subtraction by his scribes irritated him to no end. The Carolingian Renaissance, despite introducing the 1 _librum_ (pound) = 20 _solidus_ (shilling) = 240 _denarius_ (penny), had few scholars who mastered the _major computus_, the sum total of mathematical knowledge of the West, monks instead relied on a complex system of hand contortions to calculate sums. The counting system from Alcuin’s “Propositions for Sharpening Youth_”_ only functions up to 9000, and few saw the need to go further.
 
@@ -79,8 +75,8 @@ Fungible wealth, by definition, has a quality that wealth in land, treasure, and
 
 Murray points to the growing adoption of the abacus and Arabic numerals as a sign of the growth in numerate mentality. Leonardo Bonacci (Fibonacci) of Pisa’s 1202_Liber Abaci_ may get credit for the introduction of Arabic numerals among Florentine financers, but it is the halls of power that we see it grow first. Adelard of Bath, who learned the abacus in his travels to Norman Sicily (which still used the state apparatus left by its prior Muslim occupants) was personally excused by King Henry I from a fine in recognition of his service. The _Dialogus de Scaccario_ (c. 1180), a handbook on how to run the Exchequer under Henry I’s grandson, Henry II, directly explains how the abacus is operated in front of the both the sheriff delivering the taxes and the king’s appointed accountants (a grid on a massive table is surrounded by bleachers is wonderfully legible). Where scholars of the day regularly exaggerated and rounded off numbers of men in armies and the tons of food provisioning them, Exchequer records provide exact numbers down to the last man and bushel. Artisans, architects and businessmen presumably had their own functional techniques to operate, but the growing state demanded accountable, legible mathematics and the men that could provide them. Just as the _Secretorum_ recommended, inculcating the mentality of generalized arithmetical reasoning was a route to power.
 
-> 5.  ### Reading and Writing
->     
+5.  ### Reading and Writing
+    
 
 Less obscure sources are needed to track the growth of literacy in this period, and scholarship has made more progress here; Murray focuses on the social drivers for adopting the mentality of literate rationality. Here too, the story begins with money, but for a different reason.
 
@@ -92,8 +88,8 @@ This production of elites was not without its anxieties. There were only so many
 
 As the church struggled to accommodate these elites it was overproducing in universities, those educated young men turned to convincing kings that their skills at bureaucratic accountability would serve state power better than the military elite. And convince them they did. Royal household budgets (because they were now being recorded) show a consistent tenfold increase in expenditure on writing materials every century for the 11th through the 14th. Paper mills, producing a heretofore known but unneeded material, had to be built when parchment production stalled. Spectacles had to be made to keep aging clerks in the business. Where noble’s lawsuits based on half-remembered norms had to be adjudicated ceaselessly by monarchs, written law executed uniformly by clerks freed the monarch to turn his attention to more exciting tasks, like war. As the literates were happy to point out, the ancients agreed that virtue came from reason; surely the military elite could not inherit virtue. Literates combined with numerates not only to form the “Greek” mentality, they did everything they could to make sure it was the rising side of the wheel of fortune.
 
-> 6.  ### Nobility and Religion
->     
+6.  ### Nobility and Religion
+    
 
 As one mentality rides the wheel to the top, that previously there must necessarily fall. The history of the “Hebrew” mentality, where the world is to be understood not through reason, but will, is less appreciated by scholarship, but a necessary counterpart to Murray’s history.
 
@@ -103,8 +99,8 @@ However, as kings found that personal disloyalty and moral failure persisted as 
 
 What was the solution? Monasticism. While the Greeks took over church offices on their mission to fix the world through empowered reason, nobles went to the cloister to exercise their Hebrew will in prayer. Monastic celibacy freed them from the obligation to reproduce their line. Military discipline became spiritual discipline, their ferocity in prayer would heal the world’s sins. [Bernard of Clairvaux](https://en.wikipedia.org/wiki/Bernard_of_Clairvaux) and [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi), both noble sons, had their formative spiritual crises and conversion on the way to battle. Bernard’s enthusiastic support of the Crusades and the Knights Templar was not a contradiction, nor a coincidence. Hagiographies of this period begin to report that [St. Hubertus](https://en.wikipedia.org/wiki/Hubertus) (yes, the Jägermeister guy) converted during that most noble of activities, hunting (itself a kind of training for war). [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas), although plenty Greek in his mentality, was kidnapped and imprisoned by his own (noble) family to keep him from joining the Dominicans. According to Murray, many such cases.
 
-> 7.  ### Saints
->     
+7.  ### Saints
+    
 
 So while the Greek rationalists rode the wheel up, the Hebrew nobles rode it down, and bowed out of our records. Murray’s last move is his most obscure. As said at the beginning, Catholic medieval European society required a harmonious synthesis of these opposing mentalities. The solution was embodied by the most medieval of concepts, the saint.
 

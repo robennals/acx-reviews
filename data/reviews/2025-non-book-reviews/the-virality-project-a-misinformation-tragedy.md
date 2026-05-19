@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.404Z'
 slug: the-virality-project-a-misinformation-tragedy
-wordCount: 9833
+wordCount: 9824
 readingTimeMinutes: 44
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Politics
@@ -30,7 +29,7 @@ The government’s vaccination campaign merged with its fight against misinforma
 
 From the beginning of the pandemic, public health organizations worried that misinformation would undermine compliance with interventions necessary for conquering the virus. In February 2020, two months into the pandemic, the director of the World Health Organization (WHO) [claimed](https://www.who.int/director-general/speeches/detail/munich-security-conference) that “we’re not just fighting an epidemic; we’re fighting an infodemic. Fake news spreads faster and more easily than this virus, and is just as dangerous.” As US vaccination rates stalled in July 2021, Surgeon General Vivek Murthy echoed the WHO’s concerns. In a report on _[Confronting Health](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)_ _[Misinformation](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)_, Murthy argued that:
 
-Many people have had trouble figuring out what to believe, which sources to trust, and how to keep up with changing knowledge and guidance … Misinformation has caused confusion and led people to decline COVID-19 vaccines, reject public health measures such as masking and physical distancing, and use unproven treatments.
+> Many people have had trouble figuring out what to believe, which sources to trust, and how to keep up with changing knowledge and guidance … Misinformation has caused confusion and led people to decline COVID-19 vaccines, reject public health measures such as masking and physical distancing, and use unproven treatments.
 
 To help the public make better decisions, Murthy sought to “build a healthier information environment.” The NGOs, think tanks, and universities that received government anti-misinformation grants promised to help the Surgeon General in this fight.
 
@@ -142,10 +141,10 @@ Of course, if public health institutions really wanted to restore some trust in 
 
 On March 10, 2021, Mexican actor Eugenio Derbez interviewed Anthony Fauci about Covid vaccines on [Instagram](https://www.instagram.com/p/CMQOqwxDNy0/). Before starting the interview, Derbez acknowledged that he was skeptical about getting vaccinated himself and explained that Fauci’s office had reached out to him so that he could ask questions on behalf of other vaccine hesitant people in his audience. In the interview, Derbez politely asked several reasonable questions that reflected genuine concerns that his audience might have:
 
-> *   Why do the vaccines only have Emergency Use Authorization instead of full authorization?
-> *   Why are pharmaceutical companies asking governments to protect them from liability? Won’t that reduce their incentive to make sure that the vaccines are safe?
-> *   If the vaccines prevent transmission of the virus, why are you asking people to wear masks even after they are vaccinated?
-> *   If mRNA vaccines are new, how can you be sure that they are safe in the long run?
+*   Why do the vaccines only have Emergency Use Authorization instead of full authorization?
+*   Why are pharmaceutical companies asking governments to protect them from liability? Won’t that reduce their incentive to make sure that the vaccines are safe?
+*   If the vaccines prevent transmission of the virus, why are you asking people to wear masks even after they are vaccinated?
+*   If mRNA vaccines are new, how can you be sure that they are safe in the long run?
 
 Although he was not perfect, I think that Fauci did pretty well in the interview. His answer about masking was convoluted because the official recommendations were convoluted (sometimes vaccinated people should wear masks and sometimes they could take them off depending on various complicated conditions that Fauci tried to summarize). [16]  And Fauci’s answer about the liability of pharmaceutical companies was evasive. He twice assured Derbez that of course you can sue the companies if they do something that harms you, a response which fails to explain why they were seeking liability protection in the first place. Overall, however, Fauci was calm, thoughtful, and persuasive. _I_ certainly wouldn’t have had any hesitancy about getting vaccinated immediately if I had seen the interview when it first aired.
 
@@ -175,13 +174,13 @@ Critics may argue that I exaggerate the importance of this contradiction. In the
 
 I have a couple of responses to this critique. First, the thorough control and monitoring required to catch all these little tricks on a platform would be chilling to vibrant discourse and almost impossible to apply equally to everyone. Some of the examples of content moderation avoidance that the VP includes in its analysis are so petty and trivial that they discredit the whole project. Here is one of the VP’s examples of using lexical variation to avoid detection on Twitter:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e02d7eb7b4079fed.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1bd3b0cf9af83a03.png)
 
 The VP complains that this joke-tweet with 6 likes and two quotes “is unlabeled, and, over a week after being posted, is still available on Twitter.” When I saw this, I had to remind myself that the VP had access to a Twitter feed that included 50 million Covid tweets per day. Was this really the best example of the dangerous misinformation flooding social media that they could find? Did they also expect Twitter to scour its site to remove all the mean jokes posted about the unvaccinated?
 
 Here’s another example of the dangerous stuff that slipped through the cracks of Twitter’s content moderation:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/891804cc22b62a78.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5f67809961fdf485.png)
 
 Per the VP, the problem with this tweet is that “prominent anti-vaccine influencer Dr. Sherri Tenpenny, uses a vaccine-neutral hashtag (#COVIDshot) in order to get her tweet which casts doubt on a vaccine program in Georgia to more users.” Again, is this one of the best examples that they could come up with? I read the tweet, the VP’s analysis of it, and looked up [the story](https://www.newsweek.com/georgia-judges-offer-some-reduced-sentences-offenders-who-get-vaccinated-1593713) to confirm that it is accurate, and I still can’t figure out where the misinformation is. How is using a hashtag about vaccines to share a story about vaccines a devious trick to evade Twitter’s rules? Apparently, the VP knows that this tweet is misinformation only because it was posted by a “prominent anti-vaccine influencer.”  If the same tweet had been posted by a pro-vaccine activist, it might have been read as celebrating a policy to get more people vaccinated. The VP’s own examples illustrate the impossibility of applying a misinformation based content moderation in an unbiased way.
 
@@ -229,12 +228,12 @@ Perhaps fewer people would have gotten vaccinated if public health experts hadn�
 
 [3] _Memes, Magnets, and Microchips: Narrative Dynamics Around COVID-19 Vaccines_ (2022). The other organizations are listed on the title page:
 
-> *   [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory) - Note that the SIO was closed in 2024.
-> *   [NCoC Algorithmic Transparency Institute](https://ncoc.org/algorithmic-transparency-institute/) 
-> *   [NYU Tandon School of Engineering](https://engineering.nyu.edu/)
-> *   [NYU Center for Social Media and Politics](https://csmapnyu.org/)
-> *   [UW Center for an Informed Public Digital Forensic Research Lab](https://www.cip.uw.edu/)
-> *   [Graphika](https://www.graphika.com/)
+*   [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory) - Note that the SIO was closed in 2024.
+*   [NCoC Algorithmic Transparency Institute](https://ncoc.org/algorithmic-transparency-institute/) 
+*   [NYU Tandon School of Engineering](https://engineering.nyu.edu/)
+*   [NYU Center for Social Media and Politics](https://csmapnyu.org/)
+*   [UW Center for an Informed Public Digital Forensic Research Lab](https://www.cip.uw.edu/)
+*   [Graphika](https://www.graphika.com/)
 
 [4] _Memes, Magnets…_ p. 30.
 

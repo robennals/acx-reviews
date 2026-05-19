@@ -42,10 +42,11 @@ export function VotingBanner({ year }: { year?: number }) {
           {votingEnd && (
             <span className="text-amber-700">
               Closes{' '}
-              {votingEnd.toLocaleDateString(undefined, {
+              {votingEnd.toLocaleDateString('en-US', {
                 month: 'short',
                 day: 'numeric',
                 year: 'numeric',
+                timeZone: 'UTC',
               })}
             </span>
           )}

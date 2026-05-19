@@ -7,9 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:03.331Z'
 slug: order-without-law
-wordCount: 14758
-readingTimeMinutes: 66
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-order-without-law'
+wordCount: 14719
+readingTimeMinutes: 67
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-order-without-law
 source: acx
 tags:
   - Society
@@ -383,70 +383,70 @@ With this additional caveat, is the hypothesis true? I still wouldn’t confiden
 I want to finish up with some further questions.
 
 *   The world seems to be getting more atomic, with less social force being applied to people. Does that result in more legal force? Ellickson gives a brief answer: “In [Donald Black’s] view, the state has recently risen in importance as lawmakers have striven to fill the void created by the decline of the family, clan, and village.” (Also: “increasing urbanization, the spread of liability insurance, and the advent of the welfare state”. But Black speculates it’ll decline in future because of increasing equality. And although the number of lawyers in the US has increased, litigation between individuals other than divorce remains “surprisingly rare”.)
-    
+
 *   Can I apply this to my previous thoughts on [the responsibility of open source maintainers](http://reasonableapproximation.net/2020/04/13/in-my-culture-responsibility-oss.html)? When I try, two things come to mind. First, maintainers know more about the quality of their code than users. Thus, if we require maintainers to put reputation on the line when “selling” their code, we (partially) transfer costs of bad code to the people who best know those costs and are best able to control them. So that’s a way to frame the issue that I don’t remember having in mind when I wrote the post, that points in the same directions I was already looking. Cool. Second, I feel like in that post I probably neglected to think about transaction costs of figuring out whether someone was neglecting their responsibility? Which seems like an important oversight.
-    
+
 *   To test the hypothesis, I’d be tempted to look at more traditions and see whether those are (at least plausibly) welfare-maximizing. But a caveat: are traditions enforced through norms? I’d guess mostly yes, but some may not be enforced, and some may be enforced through law. In those cases the hypothesis doesn’t concern itself with them.
-    
+
 *   Making predictions based on the hypothesis seems difficult. Saying that one set of norms will increase welfare relative to another set might be doable, but how can you be confident you’ve identified the best possible set? Ellickson does make predictions, and I don’t feel like he’s stretching too far – though I can’t rule it out. But I’m not sure I’d be able to make the same predictions independently. How can we develop and test this skill?
-    
+
 *   Sometimes a close-knit group will fracture. What sort of things cause that? What does it look like when it happens? What happens to the norms it was maintaining?
-    
+
 *   What are some follow-up things to read? Ellickson approvingly cites [The Behavior of Law](https://www.goodreads.com/en/book/show/588368.The_Behavior_of_Law) a bunch. If we want skepticism, he cites [Social Norms and Economic Theory](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.3.4.99) a few times. At some point I ran across [Norms in a Wired World](https://www.cambridge.org/core/books/norms-in-a-wired-world/579E00EDD40589222284D1661B7C725D#fndtn-information) which looks interesting and cites Ellickson, but that’s about all I know of it.
-    
+
 *   How does this apply to the internet? I’d note a few things. Pseudonymity (or especially anonymity) and transience will reduce close-knittedness, as you only have limited power over someone who can just abandon their identity. To the extent that people do have power, it may not be broadly distributed; on Twitter for example, I’d guess your power is roughly a function of how many followers you have, which is wildly unequal. On the other hand, public-by-default interactions increase close-knittedness. I do think that e.g. LessWrong plausibly counts as close-knit. The default sanction on reddit is voting, and it seems kind of not-great that the default sanction is so low-bandwidth. For an added kick or when it’s not clear what the voting is for, someone can write a comment (“this so much”; “downvoted for…”). That comment will have more weight if it gets upvoted itself, and/or comes from a respected user, and/or gets the moderator flag attached to it. Reddit also has gilding as essentially a super-upvote. For sanctioning remedial behavior, people can comment on it (“thanks for the gold”, “why is this getting downvoted?”) and vote on those comments. But some places also have meta-moderation as an explicit mechanism.
-    
+
 *   How much information is available about historical norms and the social conditions they arose in? Enough to test the hypothesis?
-    
+
 *   There’s a repeated assumption that if someone has extraordinary needs then it’s welfare maximizing for the cost to fall on them instead of other people. I’m not sure how far Ellickson would endorse that; my sense is that he thinks it’s a pretty good rule of thumb, but I’m not sure he ever investigates an instance of it in enough detail to tell whether it’s false. It would seem to antipredict norms of disability accomodation, possibly including [curb cuts](https://en.wikipedia.org/wiki/Curb_cut). (Possibly not, because those turn out to benefit lots of people. But then, curb cuts are enforced by law, not norm.) This might be a good place to look for failures of the hypothesis, but it’s also highly politicized which might make it hard to get good data.
-    
+
 *   Ellickson sometimes suggests that poor people will be more litigous because they have their legal fees paid. We should be able to check that. If it’s wrong, that doesn’t necessarily mean the hypothesis is wrong; there are other factors to consider, like whether poor people have time and knowledge to go to court. But it would be a point in favor of something like “the hypothesis is underspecified relative to the world”, such that trying to use it to make predictions is unlikely to work.
-    
+
 *   Is Congress close-knit? Has that changed recently? Is it a good thing for it to be close-knit? (Remember, norms maximizing the welfare of congresspeople don’t necessarily maximize the welfare of citizens.)
-    
+
 *   Does this work at a level above people? Can we (and if so, when can we) apply it to organizations like companies, charities, and governments?
-    
+
 *   Suppose the book’s analysis is broadly true. Generally speaking, can we use this knowledge for good?
-    
+
 
 ## Footnotes
 
 1.  In this review, I use the present tense. But the book was published in 1991, based on research carried out in the 1980s. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:present-tense)
-    
+
 2.  Something like this is familiar to me from the days when most of my friendships took place in pubs. Small favours, even with specific monetary value, would typically be repaid in drinks and not in cash. Once, apparently after a disappointing sexual experience, I was asked my opinion on the exchange rate between drinks and orgasms.
-    
+
     It strikes me that your neighbor is still clearly worse off than if your goat hadn’t eaten his tomatoes. He’s gone from having tomatoes-now to only having future-tomatoes. But that means your neighbor has no reason to be careless with his tomatoes. And helping to replant may encourage you to control your goat more than paying money would. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:replant)
-    
+
 3.  Ellickson never says explicitly what one of these is, but my read is a small ranch, more a home than a business and operated more for fun than profit. Only a handful of animals or possibly none at all, and sometimes crops. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:ranchette)
-    
+
 4.  If you want a teaser, the first three chapters were based on his previous article [Of Coase and Cattle](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1465&context=fss_papers) (1986). I haven’t compared closely, but they seem to have a lot of text in common.
-    
+
     I should note here that I read part one a few years ago. I took reasonably detailed notes, with the intent of editing them into something worth publishing before moving on to part two. Then I didn’t do that. My review of part one is largely based on my notes, although I have skimmed or reread large amounts of it. I read part two recently, specifically for this contest. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:part-one-teaser)
-    
+
 5.  He was a founding member of the [American Law and Economics Association](http://www.amlecon.org/) in 1991, and its President 2000-2001. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:alea)
-    
+
 6.  “This counterintuitive proposition states, in its strongest form, that when transaction costs are zero a change in the rule of liability will have no effect on the allocation of resources. … This theorem has undoubtedly been both the most fruitful, and the most controversial, proposition to arise out of the law-and-economics movement.” The [paper](https://en.wikipedia.org/wiki/The_Problem_of_Social_Cost) which first presented the theorem used cattle trespass as an example, directly inspiring the study in part one. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:coase-theorem)
-    
+
 7.  Ellickson offers citations but (apart from Shasta County) no elaboration on these. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:anti-las-examples)
-    
+
 8.  Ellickson makes two points. First, that ranchers are more familiar than ranchette owners with barbed-wire fencing. To some extent that seems circular, since they’re the ones who are expected to know about it, but it’s also in part because many ranchette owners have moved from the city. Second, that ranchers can fence in their own herds unilaterally, while victims would have to coordinate; motorists in particular would have trouble with that, and arguably they benefit the most. But motorists aren’t part of the relevant close-knit group, so we should ignore them for this analysis. And as far as I know the other noteworthy victims are all landowners, who don’t need to coordinate to protect their own interests.
-    
+
     But: even if victims wouldn’t need to coordinate, they’d all need to act individually, and acquiring the skills would be a cost to them. Ranchers would presumably still need those skills, and even if not, there are presumably fewer of them. So it seems cheaper for all ranchers to acquire the skills, than all of their potential victims. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:cheap-barbed-wire-maintenance)
-    
+
 9.  Of course, since this example was a generator of the hypothesis, that [says little](https://en.wikipedia.org/wiki/Testing_hypotheses_suggested_by_the_data) by itself. This isn’t a big deal, Ellickson looks outside Shasta County plenty, I’m just pointing it out because it’s important to notice things like this. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:post-hoc-theorizing)
-    
+
 10.  No, really. This isn’t him saying one thing and me [saying](http://reasonableapproximation.net/2016/04/09/sally-anne-fallacy.html) “well that only works if…”. He says explicitly that the hypothesis “assumes that norm-makers in close-knit groups would subscribe to an unalloyed version of this principle”. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:no-sally-anne)
-     
+
 11.  Actually, for parenthood, a plausible answer does come to mind: deciding who society celebrates as parents (rich couples who can mostly pay the costs of parenthood themselves) and who it shames (poor single mothers who socialize the costs). Then I guess the hypothesis predicts that you’re allowed to socialize the costs of parenthood to the same extent that parenthood is welfare-positive. Except… that doesn’t really work, because the total welfare change seems like it would be more-or-less the same whether the costs are borne by the parents or by society. I dunno, I think I’m still confused. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:parenthood)
-     
+
 12.  This is kind of a weird example, as he all-but-admits in a footnote: “This statement assumes the continuing presence of foundational rules that forbid the firefighters from killing, maiming or imprisoning each other.” If we want to know what actually happens in this situation, he points us to [Dudley and Stephens](https://en.wikipedia.org/wiki/R_v_Dudley_and_Stephens) and a book named _Cannibalism and the Common Law_. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:cannibalism)
-     
+
 13.  I haven’t read these recently, and might be misremembering. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:misremembering)
-     
+
 14.  Minor complaint: I wish Ellickson had been clearer about what exactly a “fishery” is. Did two boats from different fisheries ever encounter each other? [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:fishery)
-     
+
 15.  In one case study, 23 permission letters were sent to publishers and only 17 received a response in six months. Ellickson doesn’t say how many were denied. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:slow-permission)
-     
+
 16.  I looked it up out of curiosity. Although the 10% figure may have come from [the relevant guidelines](https://en.wikisource.org/wiki/Copyright_Law_Revision_%28House_Report_No._94-1476%29), they’re unsurprisingly a lot more restrictive than that. For prose the maximum seems to be “1,000 words or 10% of the work, whichever is less, but in any event a minimum of 500 words.” [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:10-percent)
-     
+
 17.  At least, if we can’t in practice, there’s nothing stopping us in theory. I’m not sure if we know exactly what the slime molds are doing. But I’m sure that if we _did_ know, there wouldn’t turn out to be anything fundamentally mysterious and unprogrammable-in-computers about it. [↩](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fnref:program-slime-molds)

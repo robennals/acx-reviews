@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:20.710Z'
 slug: money-capital
 wordCount: 4749
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Economics
@@ -60,7 +59,7 @@ The authors build on the ideas they introduce in the book’s first three chapte
 
 The chapter on China, like many of the book’s chapters, dives into a detailed historical account of important macroeconomic developments, which I found helpful to plot on a timeline:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/9891e17b4a6bd963.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/205045197de31c44.png)
 
 The authors highlight the following events in China’s journey towards strengthening its banks’ credit:
 
@@ -90,13 +89,13 @@ In sum, by swapping debt for equity, China was able to gradually resolve its unp
 
 That all sounds well and good, but macroeconomists will tell you that that’s still not enough to sustainably finance growth and construction, whose returns are notoriously too low and too far into the future. This is where, per the authors, the last piece of the puzzle comes in: the legendary Wuhu Model.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/a8a2e70abb049308.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/80881035b1974c4b.png)
 
 In 2002, the Anhui provincial government created a structured financial contract among four lenders: the CDB, the Wuhu municipal government, private-sector developers, and the Anhui provincial government itself, in order to finance highway construction, water supply improvements, landfill construction, and other projects. This four-agent long-term relation improved on the typical bilateral principle-agent relation between a public investment bank and a local government borrower that is customary in public infrastructure works.
 
 Perhaps the most innovative centerpiece of the contract was how land value appreciation was captured. Essentially, the PBC guaranteed that its loan to private developers would be repaid by collateralizing development rights, which would appreciate in value as the land was improved through ongoing investment. In conjunction with subsidies pledged by the city of Wuhu in the event that construction companies could not repay their loans, this meant investment in the project was significantly de-risked for Chinese banks. This model provided the CDB with a powerful framework that it was able to re-apply throughout the nation, which partially explains this incredible picture:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3cc7bc220bad302d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/185a48d2c3affecc.png)
 
 [Source](https://twitter.com/alvinfoo/status/1786606404377428203)
 
@@ -124,7 +123,7 @@ Among many such stories, I heard about the impossible situation Mario Draghi fac
 
 In the book, the authors provide a thorough account of the events leading up to that day, presented on the timeline below:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/50330756b0ae9cd1.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/eaf476f7b7c60256.png)
 
 Here’s what all this meant, in more detail:
 
@@ -132,11 +131,11 @@ Here’s what all this meant, in more detail:
 
 **1972:** As a way to maintain stability in their exchange rates, European nations agreed to keep their currencies within a narrow band of values relative to a starting exchange rate with the US dollar, by buying and selling domestic currency if its exchange rate got too high or too low:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5d07d4f0b9cc6209.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/2936afc0e362c3c6.png)
 
 Unsurprisingly, this perhaps overly simplistic system rapidly ran into issues, and in practice played out more like this:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/857516a426000882.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/256338c212f63f54.png)
 
 The UK’s Pound Sterling, Irish Punt, and Danish kroner had to exit the system in short succession due to speculative attacks. The base rate had to undergo frequent readjustments to keep the system sustainable. And the strength of the German economy placed the Deutsche Mark as the de facto anchor of the snake, making it harder for other currencies to stay within the narrow band, placing pressure on those economies.
 
@@ -188,7 +187,7 @@ Of particular interest to the authors of the book was the fact that the Federal 
 
 Perhaps the most recent test of the authors’ thesis came in the form of the COVID Pandemic. The 2020 [CARES Act](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707) injected a great deal of money into the economy without it being tied to value-increasing investments, which in the short run led to a lot of inflation. Perhaps the biggest surprise was how long the inflation lingered, which the authors argue came from a “cost push” due to supply chain issues and the rise in energy costs caused by the Ukraine conflict. This seems to be borne out by the fact that all nations experienced inflation, regardless of their fiscal and monetary response to the COVID financial crisis.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/e42225d630a6fe8e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/89106e086e087bde.png)
 
 [Source](https://home.treasury.gov/news/featured-stories/the-us-economic-recovery-in-international-context-2023)
 
@@ -216,6 +215,6 @@ But as far as I can tell, the book does an exhaustive job of showing how this fr
 
 I certainly enjoyed the journey, which was my first real in-depth exposure to macroeconomic thinking. It certainly comes with many useful mental models: reliance on indifference conditions, analysis of strategic equilibria in massive flows of capital, or the surprising recurrence of self-fulfilling prophecies. Indeed, whether it be bank runs, the monetary value of emerging markets, or the faith we place in nations’ monetary policies, it’s somewhat alarming the extent to which the world is the way it is simply because we’ve all arbitrarily agreed to have it be the way it is. In any case, I hope _Money Capital_ can help us all agree on what paths to pursue into a brighter economic future. Or at the very least, help brave newcomers who read it better learn, as I hopefully did, more adequate usage of common economics terminology:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/a58d0b959d722be1.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/a18e8409c9fe2572.png)
 
 [Source](https://twitter.com/depthsofwiki/status/1785792182558818522)

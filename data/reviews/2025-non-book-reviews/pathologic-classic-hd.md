@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.284Z'
 slug: pathologic-classic-hd
-wordCount: 10714
+wordCount: 10715
 readingTimeMinutes: 48
-originalUrl: >-
-  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:
   - Fiction
@@ -18,6 +17,7 @@ tags:
 ---
 
 >   _Changeling: I know. The entire burden of the Earth is weighing you down…_
+>
 
 That’s how it feels to think about writing a thorough Pathologic review. Hundreds of hours of engaging with the work, hundreds of thousands of words read, ten pages of relevant quotes selected and I still don’t know where to even begin. To make sense of Pathologic is to make sense of life itself – how do you even approach a task like that? It’s a work that’s _trying_ to be about the entire history of humanity and it largely succeeds. No matter how long you’ve been thinking about it you will notice new and more nuanced themes and every time you are going to be tempted to call them ‘the main theme’ because they all feel equally fundamental and all-encompassing. Every minor character's story feels like a profound commentary on the human condition and…
 
@@ -61,7 +61,7 @@ Another major aspect of interaction with this unjust world of ours is dialogue. 
 
 > _Inquisitor: Just… thinking. Thinking of how similar people's fates turn out. We've had so many bright stars of talent rise recently, you know. Almost all of them tried to single-handedly break the laws of history, nature,_ _morality__. And all threaded such identical paths!_
 
-That means you can never skip the dialogue or zone out during it. And even though it has its moments, as a rule it’s not trying to be light, entertaining or funny. It’s written in this unnatural theatrical way that makes reading it an intellectual exercise rather than something you’d do for fun. ![](https://acximages.ennals.org/images/2025-non-book-reviews/4ac3a3cac3b4790c.jpg)
+That means you can never skip the dialogue or zone out during it. And even though it has its moments, as a rule it’s not trying to be light, entertaining or funny. It’s written in this unnatural theatrical way that makes reading it an intellectual exercise rather than something you’d do for fun. ![](https://acximages.ennals.org/images/2025-non-book-reviews/0a45b1cf3beca28c.jpg)
 
 And all of its exercises Pathologic makes as unavoidable as possible. In fact, the game doesn’t have any difficulty settings. It is like this by design. This is no power fantasy. This is Disempowerment Realism. No matter what position you occupy, whether you are an important spiritual leader with special destiny, a famous scientist with emergency powers granted, or a literal saint with khilling touch – you can’t escape the brutal reality of what it’s actually like to try and save the world, be that surviving on bread crumbs and lemon slices or listening politely to horrible people.
 

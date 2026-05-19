@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.688Z'
 slug: a-swim-in-a-pond-in-the-rain-by-george-saunders
-wordCount: 1529
+wordCount: 1520
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Fiction
@@ -28,10 +27,10 @@ Saunders practises what he teaches; he has won several awards for his short stor
 
 Everyone who would like:
 
-> *   to understand what makes a good story, a movie, an article or a blog post,
-> *   to learn about the art of writing,
-> *   to get an expert insight of why and how good stories work and
-> *   to read and watch better.
+*   to understand what makes a good story, a movie, an article or a blog post,
+*   to learn about the art of writing,
+*   to get an expert insight of why and how good stories work and
+*   to read and watch better.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/0ea15e27597bb7e8.png)
 
@@ -51,7 +50,7 @@ My interpretation in a nutshell: _A good story has well developed patterns, an i
 
 If you’d set out to visualise this, you take Freytag’s pyramid as a base, ok, and then you show everyone you are no good in drawing by adding patterns and causality.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7685f236f66c3bc9.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/3a3534361e96e47c.png)
 
 Freytag’s pyramid (1900) with additions.
 
@@ -93,8 +92,8 @@ A story puts you in a big black box with a door. You will leave a good one chang
 
 If I paraphrase Cornfeld (ibid.); in a good movie you will notice that every scene does two things:
 
-> 1.  it is entertaining in its own way and
-> 2.  it advances the story in a non-trivial way.
+1.  it is entertaining in its own way and
+2.  it advances the story in a non-trivial way.
 
 Writer is like an architect and interior designer; he/she first sets the structure, and then designs the interior. For “The Darling” Chekhov defines the black box:
 
@@ -130,9 +129,9 @@ As instructed I went and compared two stories from Tolstoy to see what 39 years 
 
 For my own writing:
 
-> *   using the word “shit” is fine, because it’s a part of my voice,
-> *   commitment to revise sentences, paragraphs and storyline is a virtue, not a problem,
-> *   each sentence should help the reader to read on; read your writing (can also be a simple e-mail!) like a reader would.
+*   using the word “shit” is fine, because it’s a part of my voice,
+*   commitment to revise sentences, paragraphs and storyline is a virtue, not a problem,
+*   each sentence should help the reader to read on; read your writing (can also be a simple e-mail!) like a reader would.
 
 ### Closing remarks
 

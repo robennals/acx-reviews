@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2025-01-01T00:00:00.000Z'
 slug: knives-out
-wordCount: 4792
+wordCount: 4769
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -32,15 +31,15 @@ _Knives Out_ is, at its bookends, a classic whodunit (we’ll get into its uncon
 
 This is a book clearly inspired by Agatha Christie. It is so inspired by Christie that Johnson acknowledged the detective is meant to be an American Poirot. It is so inspired by Christie that the title font literally traces text from Christie’s book covers.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/af27c0c1921880b2.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cfdcdf91b9301573.png)
 
 _Screenshot from the “Making Knives Out Title”_ _[video](https://vimeo.com/345776242)_
 
 If you’ve ever read a Christie novel, you might have noticed that on the first or second page, it says something like “Outsold only by the Bible and Shakespeare, Agatha Christie is the best-selling novelist of all time.” This is a bonkers fact! The list of most popular English-language writers apparently goes:
 
-> 1.  God
-> 2.  The guy who invented modern English
-> 3.  A genre-fiction girlie who wrote guilty pleasures  
+1.  God
+2.  The guy who invented modern English
+3.  A genre-fiction girlie who wrote guilty pleasures  
 
 Selling that many books is no easy feat. How did she do it?
 
@@ -60,13 +59,13 @@ _Knives Out_ is so good because it is also a moral fable first and mystery last.
 
 One set of characters in this moral fable are the rich victim’s three children. They are bad because they are all greedy and selfish nepo-babies, although each of them puts their own twist on it.
 
-> 1.  The daughter started a real estate business with a huge loan from her dad.
-> 2.  The son manages his dad’s publishing empire.
-> 3.  The daughter-in-law (her husband, the other son, is dead) gets living expenses from her father-in-law.
+1.  The daughter started a real estate business with a huge loan from her dad.
+2.  The son manages his dad’s publishing empire.
+3.  The daughter-in-law (her husband, the other son, is dead) gets living expenses from her father-in-law.
 
 Ask yourself, why three kids? In the real world, the answer would be “their parents wanted a big family” or “birth control didn’t work out” but this is not the real world. Why did the writer create three kids, not two or four? Because the three kids fill out the three bad quadrants in the below plot.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/44908292f6d18b88.png) 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ec13d0558ee1f5b6.png) 
 
 If there was a fourth kid, to be a unique character, he would need to be both successful and doing his own thing, which would make him a worthy heir to his dad, which would make the nurse redundant, which would make the story fail.
 
@@ -98,11 +97,11 @@ The Goliath in this story is The Mouse, Ruler of the Magic Kingdom, Commander of
 
 The David in this David v. Goliath story is Johnson, accompanied by his _Knives Out_ collaborators:
 
-> *   Steve Yedlin: his cinematographer who has been working with him since freshman year of college
-> *   Nathan Johnson: his composer who has worked on all his movies except one where John Williams got grandfathered in, also a cousin
-> *   Zach Johnson: artist who created the title font and end credit paintings, also a cousin
-> *   Joseph Gordon-Levitt: actor who has been in all of Johnson’s movies and some [side projects too](https://vimeo.com/5575022), [also an effective altruist](https://www.youtube.com/watch?v=MyweG9__CCQ)
-> *   Ram Bergman, Bob Ducsay, Noah Segan: other people who have been involved in most of Johnson’s projects
+*   Steve Yedlin: his cinematographer who has been working with him since freshman year of college
+*   Nathan Johnson: his composer who has worked on all his movies except one where John Williams got grandfathered in, also a cousin
+*   Zach Johnson: artist who created the title font and end credit paintings, also a cousin
+*   Joseph Gordon-Levitt: actor who has been in all of Johnson’s movies and some [side projects too](https://vimeo.com/5575022), [also an effective altruist](https://www.youtube.com/watch?v=MyweG9__CCQ)
+*   Ram Bergman, Bob Ducsay, Noah Segan: other people who have been involved in most of Johnson’s projects
 
 I obviously don’t know Johnson, but I’m willing to believe that he’s probably in the nicest quintile of Hollywood people. For one, he has been working with the same people for more than two decades in a cutthroat industry. For another, he sounds like a nice person on his director’s commentary tracks. And lastly, his continued relationship with Joseph Gordon-Levitt sort of makes him EA-adjacent, which means he’s just like me fr.
 
@@ -130,10 +129,10 @@ In his interviews and the director’s commentary, Johnson talks over and over a
 
 The first thing Johnson did to make the movie interesting was to simplify, simplify, simplify.
 
-> *   You know how I talked about the rich victim’s three children above? He cut out most of the scenes that describe their individual motivations, and instead simplified them into a single “rich greedy kids” blob. The original script has many scrapped details like how one of them was shot in the leg by a loan shark, and the other one is being sued for selling lotions that cause horrible rashes.
-> *   He removed a lot of the conversations that attempted to fill in plot holes, like answers to questions like: “Shit. Why would they test his blood?” and “How did Harlan miss this?” and “So wait, if the police know this, why am I not in jail?” This stuff just bores and confuses the audience; we want to float along on vibes instead.
-> *   He cut out many of Blanc’s dialogues, like a monologue about aging and grief and a worldbuilding dialogue about his cat in the city. Blanc does get to keep his long “donut hole” speech during the denouement, but even that was a close call, and Johnson only kept it in full because the actor delivered a terrific performance.
-> *   One of the keys to the movie is that the nurse mixes up two bottles of medicines. Johnson spent a lot of time writing and rewriting this part to make the explanation for the mix up as simple as possible, eventually landing at the foolproof solution of having the bottles fall to the ground and roll around.
+*   You know how I talked about the rich victim’s three children above? He cut out most of the scenes that describe their individual motivations, and instead simplified them into a single “rich greedy kids” blob. The original script has many scrapped details like how one of them was shot in the leg by a loan shark, and the other one is being sued for selling lotions that cause horrible rashes.
+*   He removed a lot of the conversations that attempted to fill in plot holes, like answers to questions like: “Shit. Why would they test his blood?” and “How did Harlan miss this?” and “So wait, if the police know this, why am I not in jail?” This stuff just bores and confuses the audience; we want to float along on vibes instead.
+*   He cut out many of Blanc’s dialogues, like a monologue about aging and grief and a worldbuilding dialogue about his cat in the city. Blanc does get to keep his long “donut hole” speech during the denouement, but even that was a close call, and Johnson only kept it in full because the actor delivered a terrific performance.
+*   One of the keys to the movie is that the nurse mixes up two bottles of medicines. Johnson spent a lot of time writing and rewriting this part to make the explanation for the mix up as simple as possible, eventually landing at the foolproof solution of having the bottles fall to the ground and roll around.
 
 In short, Johnson’s attitude to whodunit affeccionados’ expectations that the plot have intricately woven clues and red herrings can be summed up by what his nurse says while playing Go: “I’m not playing to beat you, I’m playing to build a beautiful pattern.”
 
@@ -153,10 +152,10 @@ Johnson gets around this by making Blanc kinda… dumb?
 
 I hate to say this, but I’m afraid it’s true.
 
-> *   He enlists the nurse to help him solve the case, without first checking how much money she stands to inherit (and thus what motivations she may have).
-> *   He lets the nurse tramp around in footprints from the night of the murder, destroying that evidence.
-> *   He lets the nurse erase a tape from a security camera, destroying that evidence.
-> *   He doesn’t notice the nurse throwing away a piece of a broken trellis behind his back, hiding that evidence.
+*   He enlists the nurse to help him solve the case, without first checking how much money she stands to inherit (and thus what motivations she may have).
+*   He lets the nurse tramp around in footprints from the night of the murder, destroying that evidence.
+*   He lets the nurse erase a tape from a security camera, destroying that evidence.
+*   He doesn’t notice the nurse throwing away a piece of a broken trellis behind his back, hiding that evidence.
 
 The original script did have quite a few moments of brilliance from Blanc. For example, at one point, he tests an influencer family member’s lotion brand on himself to check if it actually works. At another point, he semi-mystically detects that the victim’s ancient mother has something to say to him, and arrives at her side exactly when she speaks about an important clue. All these moments are left on the cutting room floor.
 
@@ -178,10 +177,10 @@ But maybe the most opulent thing about this movie is that it actually contains a
 
 We get four main suspects, who echo the victim’s kids from _Knives Out_, except this time they aren’t compressed into a single “rich greedy people” blob. Getting into the weeds:
 
-> *   We have Claire and Lionel, who despite not being married, give off the same energy as the real estate daughter and her husband from the first movie. Both sets of characters are the most successful and respectable ones in their circles. Both sets of characters owe the start of their success to a rich guy.
-> *   Birdie and the daughter-in-law would be best friends if they knew each other. Both are flighty and frivolous influencers who hawk shitty wares (sweatpants and makeup respectively). Both are probably into crystals and aligning chakras. Both have daughter-figures much more serious and down-to-earth than them.
-> *   Duke and the unsuccessful son are both weak men who overcompensate for their weakness by getting mixed up in unsavory bullshit (right-wing influencing and borrowing from a loan shark respectively). Both are interested in starting an online media empire.
-> *   They’re not suspects, but Helen and the nurse are both main characters that belong to marginalized groups and are the only nice people in their circles. In a sign of the times, 2019’s _Knives Out_ has an immigrant nurse with an undocumented mother and 2022’s _Glass Onion_ has a brilliant Black woman.
+*   We have Claire and Lionel, who despite not being married, give off the same energy as the real estate daughter and her husband from the first movie. Both sets of characters are the most successful and respectable ones in their circles. Both sets of characters owe the start of their success to a rich guy.
+*   Birdie and the daughter-in-law would be best friends if they knew each other. Both are flighty and frivolous influencers who hawk shitty wares (sweatpants and makeup respectively). Both are probably into crystals and aligning chakras. Both have daughter-figures much more serious and down-to-earth than them.
+*   Duke and the unsuccessful son are both weak men who overcompensate for their weakness by getting mixed up in unsavory bullshit (right-wing influencing and borrowing from a loan shark respectively). Both are interested in starting an online media empire.
+*   They’re not suspects, but Helen and the nurse are both main characters that belong to marginalized groups and are the only nice people in their circles. In a sign of the times, 2019’s _Knives Out_ has an immigrant nurse with an undocumented mother and 2022’s _Glass Onion_ has a brilliant Black woman.
 
 Even though the two sets of characters are similar, the _Glass Onion_ characters have way more depth. We find out classic whodunit information like (1) what they were doing before they met the rich guy at the center of this story, (2) how the rich guy helped them become famous, and (3) why their relationship with the rich guy is currently strained.
 
@@ -211,7 +210,7 @@ Similarly, at the end of the movie, Blanc hands the woman a dangerous explosive,
 
 Again, from a storywriting perspective, this makes sense. The woman is the main character. The movie is only fun to watch if she has agency and saves herself. Blanc saving her would be boring, and involve too many words besides. Her saving herself is fun, and she can do it by literally blowing shit up, which looks great onscreen.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/38f1eeea4c1bdb9b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e78616cf3d8e4a19.png)
 
 _This is the resulting explosion._
 

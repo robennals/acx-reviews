@@ -1,16 +1,16 @@
 ---
-title: "The Family That Couldn't Sleep"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Family That Couldn't Sleep
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:34.919Z"
-slug: "the-family-that-couldnt-sleep"
-wordCount: 10253
-readingTimeMinutes: 46
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-the-family-that"
-source: "acx"
+publishedDate: '2026-05-10T03:23:34.919Z'
+slug: the-family-that-couldnt-sleep
+wordCount: 10221
+readingTimeMinutes: 47
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-family-that
+source: acx
 tags:
   - History
   - Science
@@ -266,21 +266,21 @@ This is to say that CWD is quite a bit more common in the American deer populati
 There is an absolute ton going on in this book. I’ve had to skim over whole sections. Parts that couldn’t be easily slotted into a narrative review include:
 
 1.  When Gajdusek was invited to a party at Prusiner’s house, he was horrified to find his rival had purchased hundreds of New Guinean statues – all with the genitals removed.
-    
+
 2.  Elio Lugaresi, the neurologist who clinically identified FFI, shipped his patient’s brain to his former student Pierluigi Gambetti. Gambetti at this point ran a neuropathology lab at Case Western Reserve University, in Cleveland. Lugaresi was absolutely _bewildered_ as to why his student would leave Italy for Cleveland.
-    
+
 3.  The only time DTM ever saw Lugaresi upset was when Lugaresi took him out for dinner at a restaurant specializing in wine, and he had to tell him he didn’t drink it.
-    
+
 4.  The British agricultural minister attempted to force-feed his four-year-old daughter a burger as a photo-op. Later, [a family friend’s daughter died of vCJD](https://www.theguardian.com/politics/2007/oct/12/uk.bse).
-    
+
 5.  BSE origin theories include: space dust, Gajdusek being a secret CIA operative who infected cows, CJD-infected human remains accidentally getting shipped to Britain as animal feed.
-    
+
 6.  George Glenner, an Alzheimer’s expert and collaborator of Prusiner’s, died of cardiac amyloidosis, where amyloid plaques (similar to those seen in the brain in both prion diseases and Alzheimer’s) build up in the heart. Several of their collaborators suspect he was somehow infected.
-    
+
 7.  Prusiner experimented with quinacrine, the malaria cure, as a potential CJD treatment. He gave a bunch of it to a young woman whose father heard about his research. It stopped her symptoms from progressing – and exploded her liver. _“By now, more than three hundred prion disease sufferers have tried quinacrine and, according to Graham Steel, the head of the CJD Alliance in the United Kingdom, “they’re all dead.””_
-    
+
 8.  There were internet fora full of people convinced they had vCJD. Minor side notes like “symptoms persisting for several years without decline” or “spontaneous recovery” were not considered contraindications. Some claimed to be cured of vCJD, and shilled various alt-med solutions. _“[T]he woman who said she’d been cured responded with accidental ambiguity, “I don’t believe my information gives false hope—at the moment, what else is there?””_
-    
+
 
 “What else is there”, indeed.
 

@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.823Z'
 slug: the-ecotechnic-future-by-john-michael-greer
-wordCount: 9990
+wordCount: 9983
 readingTimeMinutes: 45
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Technology
@@ -33,7 +32,7 @@ Nevertheless, the book is deeply thought-provoking. For one like me who swims in
 
 Is peak oil happening? We should address this question up front, since the whole book rests upon it. Convincing you of this is not the central purpose of the book—in fairness to Greer, such an analysis would fill at least one lengthy tome, perhaps more—so for now it will suffice to summarize his arguments and what objections I could think of offhand.
 
-![oil price graph](https://acximages.ennals.org/images/2022-book-reviews/5cd3903402859871.png) Oil prices per barrel Feb. 1946 – Sep. 2021, in 2021 dollars. [[source](https://www.macrotrends.net/1369/crude-oil-price-history-chart)]
+![oil price graph](https://acximages.ennals.org/images/2022-book-reviews/b63c2893b7a0559f.png) Oil prices per barrel Feb. 1946 – Sep. 2021, in 2021 dollars. [[source](https://www.macrotrends.net/1369/crude-oil-price-history-chart)]
 
 > While recent swings in the price of energy make it hard to see the larger picture, the general trend in energy costs is still up... [chapter 8, section 3]
 >
@@ -99,13 +98,12 @@ In other words, a short bout of prosperity may actually leave those who come aft
 
 Greer enumerates the following seres:
 
-> 1.  The industrial age
->
-> *   You are now here
->
-> 2.  Scarcity industrialism
-> 3.  Salvage society
-> 4.  The ecotechnic age
+1.  The industrial age
+    *   You are now here
+
+2.  Scarcity industrialism
+3.  Salvage society
+4.  The ecotechnic age
 
 Peak oil will mark the beginning of **scarcity industrialism**; and this transition, though not pinpointable to a single moment, is something that will supposedly be noticeable within our lifetimes. Already, says Greer, "the American political debate has begun to shift slowly from the maintenance of empire to the raw necessities of national survival" [ch. 4, sec. 3]. The age of scarcity will put an end to frivolous energy expenditures—tourism being the first casualty, he says, and later our globalized, specialized economy where goods are shipped long distances from producer to consumer. Population densities may actually _increase_ in certain areas as transportation costs rise and people need to live closer to where they work and shop.
 

@@ -7,9 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:56.306Z'
 slug: mans-search-for-meaning
-wordCount: 7423
-readingTimeMinutes: 33
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-mans-search-for'
+wordCount: 7288
+readingTimeMinutes: 34
+originalUrl: https://www.astralcodexten.com/p/your-book-review-mans-search-for
 source: acx
 tags:
   - Philosophy

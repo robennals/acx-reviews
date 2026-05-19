@@ -7,9 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:47.618Z'
 slug: the-righteous-mind
-wordCount: 11986
-readingTimeMinutes: 54
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-righteous-mind'
+wordCount: 11967
+readingTimeMinutes: 55
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-righteous-mind
 source: acx
 tags:
   - Psychology
@@ -51,15 +51,15 @@ This is the “rider and elephant” analogy that’s seeped well into rationali
 After making the case for intuitionism, the middle section of the book focuses on the core of Haidt’s research, his moral foundations model. By analogy to taste receptors, the idea is that we don’t have just one intuitive impulse producing our snap moral judgements that we then rationalise, but five (later this is expanded to six, but I’ll follow the book’s process of introducing that one later, as it was added later in Haidt’s own research). The five foundations are:
 
 *   Care: Basic utilitarian idea that suffering is bad;
-    
+
 *   Fairness: Desire for equality and freedom, and the urge to punish free-riders and defectors (if this seems like a messy category at best, and a contradictory mess at worst, don’t worry, Haidt refines this one in time);
-    
+
 *   Loyalty: Basic in-group/out-group alignment;
-    
+
 *   Authority: Respect for those in positions of power/prestige, and the idea that they can determine what is right and wrong and instruct accordingly;
-    
+
 *   Sanctity: Religious-seeming (though not always explicitly so) ideas of purity vs profanity, not violating the sacred, and so on.
-    
+
 
 The idea is that these are five fundamental intuitions humans have that come together to create our instinctive moral judgements, but that they are weighted differently in different people. Haidt then goes on to claim, based on his research, a strong correlation between the extent to which people feel these intuitions and the US partisan groupings of conservatives and liberals (Haidt is aware that the term “liberal” means all sorts of things around the world, but is working in a US context so uses it that way throughout, as I will), with liberals mostly responding to care and fairness, and conservatives to all five.
 

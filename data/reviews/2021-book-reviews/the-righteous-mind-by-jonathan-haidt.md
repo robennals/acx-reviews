@@ -7,10 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2021-01-01T00:00:00.000Z'
 slug: the-righteous-mind-by-jonathan-haidt
-wordCount: 12264
+wordCount: 12259
 readingTimeMinutes: 55
-originalUrl: >-
-  https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
 source: gdoc
 tags:
   - Psychology
@@ -98,9 +97,9 @@ Affective reactions can be simplistic mechanisms. Robert Zajonc showed that peop
 
 Social and political judgments are particularly intuitive. A study looked at people’s ability to determine if the second word in the following pairs was “good” or “bad”:
 
-> *   Flower—Happiness
-> *   Hate—Sunshine
-> *   Love—Cancer
+*   Flower—Happiness
+*   Hate—Sunshine
+*   Love—Cancer
 
 It took people, on average, 250 milliseconds longer to recognize that ‘sunshine’ was a good word than it took them for ‘happiness,’ simply because sunshine was preceded by ‘hate,’ while ‘happiness’ was preceded by ‘flower.’ That is to say, “hate’ primed people’s minds for a negative evaluation, causing their brains to lean that direction. They then needed an extra 250 milliseconds to undo the priming.
 
@@ -352,8 +351,8 @@ If the stories are so different, can each side even understand the other? Haidt,
 
 They found that moderates and conservatives were more accurate in their predictions of what the typical liberal or typical conservative believed. Liberals were the least accurate—especially those who described themselves as “very liberal.” The biggest errors came when liberals tried to guess what the typical conservative thinks about care and Fairness questions. They assumed conservatives would disagree with the following statements:
 
-> *   “One of the worth things a person could do is hurt a defenseless animal” (Care foundation)
-> *   “Justice is the most important requirement for a society” (Fairness foundation)
+*   “One of the worth things a person could do is hurt a defenseless animal” (Care foundation)
+*   “Justice is the most important requirement for a society” (Fairness foundation)
 
 Haidt believes liberals in American politics have another blind spot: They miss the importance of social capital and moral capital. Conservatives believe that people are inherently imperfect and are prone to act badly when all constraints and accountability are removed. But through institutions, we can account for this weakness through moral capital. Moral capital (i.e. the general commitment by everyone to do the right thing and not be selfish when no one’s looking) is generated among communities with strong social capital (i.e. the number and strength of relationships between individuals, and people’s commitment to reciprocity and trustworthiness to those they have a relationship with). Social capital could take the form of formal membership to institutions, like university or church. Or it could be the informal ties of shared culture, traditions, and identities that make people similar to each other. Social capital encourages people to adopt similar norms of good behavior and reinforces those norms with formal laws and religions as well as informal customs and traditions.
 

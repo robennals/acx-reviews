@@ -1,16 +1,16 @@
 ---
-title: "Probability Theory: The logic of Science by E.T. Jaynes"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Probability Theory: The logic of Science by E.T. Jaynes'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "probability-theory-the-logic-of-science-by-et-jaynes"
-wordCount: 6589
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: probability-theory-the-logic-of-science-by-et-jaynes
+wordCount: 6556
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Philosophy
   - Science
@@ -28,77 +28,25 @@ The first two chapters of the book are by far the toughest. In chapter one Jayne
 
 “Correlation is not causation”, while a useful statement, if misused, might cause some to ignore important data related to causation. Clouds are clearly correlated with rain, but many a cloudy day goes by without rain. There is a weak connection or weak syllogism here that we intuitively reason - if we see clouds, it’s more likely to rain. Strong syllogism is handled by traditional logic (if it rains, there are clouds). The weak syllogism (if there are clouds, it will rain) doesn’t always hold, but there is an association between seeing clouds expecting that it might rain that boolean truth tables don't capture. How can we formalize this intuition for a connection between clouds and rain? Jaynes suggests the brain is incorporating information to evaluate the degree of plausibility, for example, using the weak syllogisms below that imply that correlation can affect plausibility. We add examples showing why these are ‘weak’, i.e., sometimes conveys little information:
 
-Rule
+| Rule | Useful example | Less useful example |
+| --- | --- | --- |
+| If A is true, then B is trueA is false————————————Therefore, B becomes less plausible. | If it rains, there are cloudsIt doesn’t rain————————————Clouds are less plausible | If it rains, 1 + 1 = 2It doesn’t rain————————————“1 + 1 = 2” is less plausible |
 
-Useful example
-
-Less useful example
-
-If A is true, then B is true
-
-A is false
-
-————————————
-
-Therefore, B becomes less plausible.
-
-If it rains, there are clouds
-
-It doesn’t rain
-
-————————————
-
-Clouds are less plausible
-
-If it rains, 1 + 1 = 2
-
-It doesn’t rain
-
-————————————
-
-“1 + 1 = 2” is less plausible
-
+>
 > _“In this case, the evidence does not prove that B is false; but one of the possible reasons for its being true has been eliminated, and so we feel less confident about B. [...]”_
 
-Rule
-
-Useful example
-
-Less useful example
-
-If A is true, then B becomes more plausible
-
-B is true
-
-——————————————
-
-therefore, A becomes more plausible.
-
-If there are clouds, rain becomes more plausible
-
-It rains
-
-————————————
-
-Clouds are are more plausible
-
-If there are clouds, cloud-hiding monsters becomes more plausible
-
-Cloud-hiding monsters exist
-
-————————————
-
-Clouds are more plausible
+| Rule | Useful example | Less useful example |
+| --- | --- | --- |
+| If A is true, then B becomes more plausibleB is true——————————————therefore, A becomes more plausible. | If there are clouds, rain becomes more plausibleIt rains————————————Clouds are are more plausible | If there are clouds, cloud-hiding monsters becomes more plausibleCloud-hiding monsters exist————————————Clouds are more plausible |
 
 Jaynes wants to formalize weak syllogism like the ones above, and does that by imagining building a robot that can output the plausibility of an outcome, updating on some data. The actual implementation is up to the builder, but it should fulfill three desiderata that allows for solving the problem. These are:
 
-> 1.  Degrees of plausibility are represented by real numbers.
-> 2.  Qualitative correspondence with common sense.
-> 3.  Consistency
->
-> 1.  If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
-> 2.  The robot always takes into account all of the evidence it has relevant to a question.
-> 3.  The robot always represents equivalent states of knowledge by equivalent plausibility assignments.
+1.  Degrees of plausibility are represented by real numbers.
+2.  Qualitative correspondence with common sense.
+3.  Consistency
+    1.  If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
+    2.  The robot always takes into account all of the evidence it has relevant to a question.
+    3.  The robot always represents equivalent states of knowledge by equivalent plausibility assignments.
 
 The motivation for building a robot is that this can be an objective, computational method that is compatible with human intuition including the weak syllogism. At this point, it’s not clear that the robot is optimal, but there is a lot of value in the ability for the robot to match ‘common sense’.
 
@@ -106,12 +54,9 @@ The motivation for building a robot is that this can be an objective, computatio
 
 After Chapter 1 we have formal logic so we can make statements like:
 
-> Jaynes is the coolest Bayesian
->
-> The coolest Bayesian killed Fisher
->
-> ———————————————
->
+> Jaynes is the coolest Bayesian  
+> The coolest Bayesian killed Fisher  
+> ———————————————  
 > Jaynes killed Fisher
 
 We also have 3 desiderata from the previous chapter, and are left with the question, what more do we need for our robot to make inferences? It turns out we only need two things, the product rule and the sum rule.
@@ -120,12 +65,9 @@ This Chapter is the driest in the book, because it contains all the math needed 
 
 What we want are rules to connect the rules of logic to mathematical functions so we can make statements such as
 
-> Jaynes has a bloody knife and is shouting “death to frequentism”
->
-> Fisher’s corpse full of stab wounds is lying next to him
->
-> ———————————————————————
->
+> Jaynes has a bloody knife and is shouting “death to frequentism”  
+> Fisher’s corpse full of stab wounds is lying next to him  
+> ———————————————————————  
 > It is likely that Jaynes killed Fisher.
 
 The product rule is the first of the 2 rules we need. It is introduced by appealing to desiderata 3a. By noting that knowing A then B should be the same as knowing B then A, Jaynes introduces it like this:
@@ -139,14 +81,14 @@ The product rule is the first of the 2 rules we need. It is introduced by appeal
 > As a first orientation, note that the process of deciding that AB is true can be broken down
 >
 > into elementary decisions about A and B separately. The robot can
->
-> 1.  decide that B is true; (![](https://acximages.ennals.org/images/2023-book-reviews/d8379d8123253158.png))
-> 2.  having accepted B as true, decide that A is true. (![](https://acximages.ennals.org/images/2023-book-reviews/fd002dda5e8d4bb8.png))
->
+
+1.  decide that B is true; (![](https://acximages.ennals.org/images/2023-book-reviews/d8379d8123253158.png))
+2.  having accepted B as true, decide that A is true. (![](https://acximages.ennals.org/images/2023-book-reviews/fd002dda5e8d4bb8.png))
+
 > Or, equally well,
->
-> 1.  decide that A is true; (![](https://acximages.ennals.org/images/2023-book-reviews/4cad311287c4343f.png))
-> 2.  having accepted A as true, decide that B is true. (![](https://acximages.ennals.org/images/2023-book-reviews/2a6deeda22a7b073.png))
+
+1.  decide that A is true; (![](https://acximages.ennals.org/images/2023-book-reviews/4cad311287c4343f.png))
+2.  having accepted A as true, decide that B is true. (![](https://acximages.ennals.org/images/2023-book-reviews/2a6deeda22a7b073.png))
 
 Note that Jaynes here uses the ![](https://acximages.ennals.org/images/2023-book-reviews/4cad311287c4343f.png) instead of the ![](https://acximages.ennals.org/images/2023-book-reviews/e2718433285375b8.png)) notation we are used to in modern statistics, because at this point in chapter 2 he is in the process of reinventing all of probability theory and statistics including the basic ‘p’ operator! Spoiler alert, using a lot of tedious math (that we honestly do not fully follow), we end up with ye old product rule:
 
@@ -156,9 +98,9 @@ Or as Jaynes prefers it:
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/1a0af6b006b87dac.png)
 
-Note that Jaynes has a habit of always slapping on an extra conditional ![](https://acximages.ennals.org/images/2023-book-reviews/c7d6b57f4df0da60.png) instead of ![](https://acximages.ennals.org/images/2023-book-reviews/3be9e5cf5552739f.png) to emphasize that ![](https://acximages.ennals.org/images/2023-book-reviews/3be9e5cf5552739f.png) is a probability subject to whatever background information (prior knowledge) you have available to you, for him the concept of ![](https://acximages.ennals.org/images/2023-book-reviews/b77eb4197d963f13.png) makes no sense, as it suggests a probability independent of any information
+Note that Jaynes has a habit of always slapping on an extra conditional ![](https://acximages.ennals.org/images/2023-book-reviews/c7d6b57f4df0da60.png) instead of ![](https://acximages.ennals.org/images/2023-book-reviews/0e017b43d731787c.png) to emphasize that ![](https://acximages.ennals.org/images/2023-book-reviews/0e017b43d731787c.png) is a probability subject to whatever background information (prior knowledge) you have available to you, for him the concept of ![](https://acximages.ennals.org/images/2023-book-reviews/1d35ea9a405d1623.png) makes no sense, as it suggests a probability independent of any information
 
-The Sum rule is basically that since A and not A is one (![](https://acximages.ennals.org/images/2023-book-reviews/5f8d58ba21b5731f.png)), then
+The Sum rule is basically that since A and not A is one (![](https://acximages.ennals.org/images/2023-book-reviews/1fefa8c019e35622.png)), then
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/fb5666aa07cfd922.png)
 
@@ -180,8 +122,8 @@ Sampling theory is the foundation of classical or frequentist statistics. It con
 
 When Jaynes wrote this chapter people were much more confused about causality than we are today. And philosophers like Penrose “_takes it as a fundamental axiom that probabilities referring to the present time can depend only on what happened earlier and, not what happens later_”, thus the two following scenarios are very different:
 
-> *   my first draw from an urn was a red ball; what is your guess for the color of the second?
-> *   my second draw from an urn was a red ball; what is your guess for the color of the first?
+*   my first draw from an urn was a red ball; what is your guess for the color of the second?
+*   my second draw from an urn was a red ball; what is your guess for the color of the first?
 
 However when we use probability as logic, we do not care about causality only about how the information available to changes our beliefs, and in the above case knowing that the second or first ball is red contains equal information about the urn, which in turn gives equal information about information about the unknown draw (whenever it happened). In Judea Pearl's notation this propensity vs logic is solved by introducing a new syntax, where ![](https://acximages.ennals.org/images/2023-book-reviews/da5ab54d92c4a373.png) is the information B gives about A (as above) and the new notation ![](https://acximages.ennals.org/images/2023-book-reviews/ad6f59d6e0f2ae74.png) is how “doing B” (rather than knowing B) changes A.
 
@@ -192,17 +134,17 @@ Jaynes is a physicist and therefore cares about the real world, not the idealize
 > In probability theory there is a very clever trick for handling a problem that becomes too
 >
 > difficult. We just solve it anyway by:
->
-> 1.  making it still harder;
-> 2.  redefining what we mean by ‘solving’ it, so that it becomes something we can do;
-> 3.  inventing a dignified and technical-sounding word to describe this procedure, which has the psychological effect of concealing the real nature of what we have done, and making it appear respectable.
->
+
+1.  making it still harder;
+2.  redefining what we mean by ‘solving’ it, so that it becomes something we can do;
+3.  inventing a dignified and technical-sounding word to describe this procedure, which has the psychological effect of concealing the real nature of what we have done, and making it appear respectable.
+
 > In the case of sampling with replacement, we apply this strategy as follows.
->
-> 1.  Suppose that, after tossing the ball in, we shake up the urn. However complicated the problem was initially, it now becomes many orders of magnitude more complicated, because the solution now depends on every detail of the precise way we shake it, in addition to all the factors mentioned above.
-> 2.  We now assert that the shaking has somehow made all these details irrelevant, so that the problem reverts back to the simple one where the Bernoulli urn rule applies.
-> 3.  We invent the dignified-sounding word randomization to describe what we have done. This term is, evidently, a euphemism, whose real meaning is: deliberately throwing away relevant information when it becomes too complicated for us to handle.
->
+
+1.  Suppose that, after tossing the ball in, we shake up the urn. However complicated the problem was initially, it now becomes many orders of magnitude more complicated, because the solution now depends on every detail of the precise way we shake it, in addition to all the factors mentioned above.
+2.  We now assert that the shaking has somehow made all these details irrelevant, so that the problem reverts back to the simple one where the Bernoulli urn rule applies.
+3.  We invent the dignified-sounding word randomization to describe what we have done. This term is, evidently, a euphemism, whose real meaning is: deliberately throwing away relevant information when it becomes too complicated for us to handle.
+
 > We have described this procedure in laconic terms, because an antidote is needed for the impression created by some writers on probability theory, who attach a kind of mystical
 >
 > significance to it. For some, declaring a problem to be ‘randomized’ is an incantation with
@@ -239,8 +181,8 @@ The previous chapter was about forward probabilities where we reason from hypoth
 
 In order to flip or reverse the probability we need a prior. Jaynes imagines the robot as always having information X available where X is all the robot has learned since it rolled of the factory floor, so what we want is not:
 
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/68a98db000cf626a.png): What the data makes us believe about H, but
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/d87f79f7aecf9b89.png): What the data and our prior knowledge makes us believe about H.
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/68a98db000cf626a.png): What the data makes us believe about H, but
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/d87f79f7aecf9b89.png): What the data and our prior knowledge makes us believe about H.
 
 Any probability ![](https://acximages.ennals.org/images/2023-book-reviews/eae70af8420927d1.png) that is only conditional on X is a prior probability. It is important to note that it is prior in “information/logic” not prior in “time/causality”, as there is no time variable in information theory.
 
@@ -254,10 +196,10 @@ Since the 3 previous chapters have given us: logic, the product and sum rule and
 
 In common parlance these 4 probabilities (or distributions) are called:
 
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/eae70af8420927d1.png) is the prior information we have about the hypothesis before the data
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/44c7e3c4399e7174.png) is the likelihood or sampling function which says how likely the data is under different hypotheses, in short: what does the hypothesis say about the data?
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/b9ae1d3cc6c8d904.png) is the probability of the data, and is usually found by marginalization (iterating over all the hypothesis)
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/7e5d7f19009d3c98.png) is called the posterior, it contains the information we have after considering the prior and data.
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/eae70af8420927d1.png) is the prior information we have about the hypothesis before the data
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/44c7e3c4399e7174.png) is the likelihood or sampling function which says how likely the data is under different hypotheses, in short: what does the hypothesis say about the data?
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/b9ae1d3cc6c8d904.png) is the probability of the data, and is usually found by marginalization (iterating over all the hypothesis)
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/7e5d7f19009d3c98.png) is called the posterior, it contains the information we have after considering the prior and data.
 
 So when you read Bayes theorem above, you should say:
 
@@ -297,8 +239,8 @@ We can use this to get the evidence of the posterior:
 
 Now let us try to use this. Imagine the following background information ![](https://acximages.ennals.org/images/2023-book-reviews/a67e2faeb691422d.png): There are 11 raiding parties potentially attacking our cities, and it is always the same raiding party attacking all cities.
 
-> *   10 are made of goblins who breach the walls with probability ⅙,
-> *   1 is made of stronger orcs who breach the walls with probability ⅓.
+*   10 are made of goblins who breach the walls with probability ⅙,
+*   1 is made of stronger orcs who breach the walls with probability ⅓.
 
 We now want to consider the hypothesis that we were attacked by orcs, the prior odds are 10:1, so ![](https://acximages.ennals.org/images/2023-book-reviews/2e79578dcb7a6741.png).
 
@@ -342,8 +284,8 @@ The next interesting story Jaynes discusses is about the paradox of intuition in
 
 I.J. Good’s response (with the title ‘The white shoe is a red herring’) shows what happens if you observe a black crow and consider just two hypotheses:
 
-> *   A world where crows are always black but rare (1/10000 birds are crows, 9999/10000 are parrots)
-> *   Another world where there are only crows, but only 10% of them are black.
+*   A world where crows are always black but rare (1/10000 birds are crows, 9999/10000 are parrots)
+*   Another world where there are only crows, but only 10% of them are black.
 
 If these are your only hypotheses, seeing a black crow is 30 dB (1000:1) of evidence that you are in the second world where not all crows are black. This is because for every black crow in world one there are 1000 black and 10000 white crows in world two, thus a black crow is stronger evidence for world two.
 
@@ -357,7 +299,7 @@ Kahneman and Tversky (1972) and Wason and Johnson laird (1972) both show that hu
 
 ### Chapter 6: Elementary Parameter Estimation
 
-This chapter would usually be chapter 1 or assumed reading of normal statistical books, alas, we are now on page 149 and Jaynes finally introduces the concept of a parameter! This is like writing a 149 pages introduction to programming without introducing the concept of a variable for “pedagogical reasons”. The pedagogical trick being played here is to save yourself from the mind projection fallacy. If your model (or computer program) has a parameter for the frequency of red balls being drawn from my basket then that is a feature of your model not a feature of the basket! How can you write 150 pages of statistics without variables? Because they are not real! The way Jaynes pulled it off was by always pointing to the events in the world rather than the parameters in a statistical model in his head, so we have ![](https://acximages.ennals.org/images/2023-book-reviews/a911adfd03511d47.png), the probability that the 3rd draw from the urn is a red ball given two previous red draws, rather than ![](https://acximages.ennals.org/images/2023-book-reviews/ecb0b3582aee994c.png) where ![](https://acximages.ennals.org/images/2023-book-reviews/af86416ad9ca402a.png) is the “urns propensity to produce red balls”. Thanks Jaynes!
+This chapter would usually be chapter 1 or assumed reading of normal statistical books, alas, we are now on page 149 and Jaynes finally introduces the concept of a parameter! This is like writing a 149 pages introduction to programming without introducing the concept of a variable for “pedagogical reasons”. The pedagogical trick being played here is to save yourself from the mind projection fallacy. If your model (or computer program) has a parameter for the frequency of red balls being drawn from my basket then that is a feature of your model not a feature of the basket! How can you write 150 pages of statistics without variables? Because they are not real! The way Jaynes pulled it off was by always pointing to the events in the world rather than the parameters in a statistical model in his head, so we have ![](https://acximages.ennals.org/images/2023-book-reviews/a911adfd03511d47.png), the probability that the 3rd draw from the urn is a red ball given two previous red draws, rather than ![](https://acximages.ennals.org/images/2023-book-reviews/ecb0b3582aee994c.png) where ![](https://acximages.ennals.org/images/2023-book-reviews/52c7f6fe0fecb750.png) is the “urns propensity to produce red balls”. Thanks Jaynes!
 
 First, we’ll introduce the maximum likelihood estimate (MLE), which can be used to estimate outcomes or parameters. This method can be applied once you are able to assign probabilities to every possible outcome, by literally selecting the outcome with the highest probability as your estimate. This effectively discards a lot of information about the distribution, and can produce counterintuitive results if the discarded information was actually useful. There are some cases where this will have ‘atypical’ estimates (that are outside of the ‘typical set’ in information theory). An easy to understand example is that if you have a 60/40 biased coin, the MLE for a 1000 sequence of flips will be 1000 heads in a row. Note that this all-heads result is the most likely estimate of the sequence, which we are focusing on to show counterintuitive properties of MLE (you could use MLE to estimate the number of total heads to expect instead of the ordered sequence, and it would estimate 600 heads here). In real life we’d always expect some tails in the sequence, and we’d expect more tails if the coin is closer to 50/50, but the MLE is indifferent to the degree of fairness that the coin has - for any even slightly biased coin it will be all heads. If you think about this further, MLE can be very blunt, since all coins probably have some tiny physical difference that would bias them just a teeny bit to one side of the coin (say 49.999999999% heads, 50.00000001% tails), so all MLE estimates for coin flip sequences should be all heads or all tails if we inspect them closely enough. This example is for the MLE of an outcome, given the coin’s bias parameter, which is arguably the easier case to grok. The other way to use it is to find the most likely estimate for the parameter (e.g. the amount of bias in the coin) given data (e.g. a sequence of coin flips).
 
@@ -365,18 +307,18 @@ Jaynes' very physicist-oriented example concerns the emission of particles from 
 
 While the above may seem very counter intuitive, all the confusion can be fixed by plotting the above distribution (Which Jaynes does not do). Below we have 3 plots:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/41357fb3526a2bf5.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/7d22521389965ffc.png)
 
 Where:
 
-> *   The left is the source which follows a Poisson distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/186ba57de6ea5c02.png)
-> *   The middle is the detector, which follows a Binomial distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/111a0549db525d62.png)
-> *   The right is the posterior compromises of n between the prior (source) and likelihood (detector)
-> *   The red line is the MLE estimate of 150, the green is the Bayesian estimate of 105.
+*   The left is the source which follows a Poisson distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/cf7b02ddee3ce299.png)
+*   The middle is the detector, which follows a Binomial distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/111a0549db525d62.png)
+*   The right is the posterior compromises of n between the prior (source) and likelihood (detector)
+*   The red line is the MLE estimate of 150, the green is the Bayesian estimate of 105.
 
 It is very easy without fancy math to see that the prior is narrow and the likelihood is broad, so the posterior compromise should favor the prior, in modern parlance this approach is called “full bayesian” because we use the full distributions to make inference, where the MLE approach hopes that the mode of the distributions capture sufficient information.
 
-Back in math land: by using the Poisson distribution to model the distribution of particles given the source strength and sensor counts, and using the entire posterior distribution to calculate the expected number of originating particles, Jaynes’ robot takes the 15 observed particles as the minimum possible particles (we assume the sensor doesn’t produce counts without particles), and adds to this ![](https://acximages.ennals.org/images/2023-book-reviews/9675841503e11f6c.png), where the 100 comes from ![](https://acximages.ennals.org/images/2023-book-reviews/751390d64dedcbb6.png) and 0.1 comes from ![](https://acximages.ennals.org/images/2023-book-reviews/24c03665ff00df16.png). As the coin example shows, MLE can be blunt, because it doesn’t consider all of the information - in the coin example it didn’t care about the degree of bias. In this particle/sensor example, MLE didn’t care about the source strength, ![](https://acximages.ennals.org/images/2023-book-reviews/751390d64dedcbb6.png). (We should note that there is a risk of strawmanning MLE too much if we don’t mention there may be ways to ameliorate this with MLE by asking a different question, but the point is that incorporating more information can be good sometimes, and MLE often discards information). As non-physicists, we also feel Jaynes is also probably incorporating some physicist-internalized priors such as how to think about the standard deviation for particle radiation. Jaynes gives more detail:
+Back in math land: by using the Poisson distribution to model the distribution of particles given the source strength and sensor counts, and using the entire posterior distribution to calculate the expected number of originating particles, Jaynes’ robot takes the 15 observed particles as the minimum possible particles (we assume the sensor doesn’t produce counts without particles), and adds to this ![](https://acximages.ennals.org/images/2023-book-reviews/bce2c3d22f07d71e.png), where the 100 comes from ![](https://acximages.ennals.org/images/2023-book-reviews/751390d64dedcbb6.png) and 0.1 comes from ![](https://acximages.ennals.org/images/2023-book-reviews/24c03665ff00df16.png). As the coin example shows, MLE can be blunt, because it doesn’t consider all of the information - in the coin example it didn’t care about the degree of bias. In this particle/sensor example, MLE didn’t care about the source strength, ![](https://acximages.ennals.org/images/2023-book-reviews/751390d64dedcbb6.png). (We should note that there is a risk of strawmanning MLE too much if we don’t mention there may be ways to ameliorate this with MLE by asking a different question, but the point is that incorporating more information can be good sometimes, and MLE often discards information). As non-physicists, we also feel Jaynes is also probably incorporating some physicist-internalized priors such as how to think about the standard deviation for particle radiation. Jaynes gives more detail:
 
 > _“What caused the difference between the Bayes and maximum likelihood solutions? The difference is due to the fact that we had prior information contained in this source strength s. The maximum likelihood estimate simply maximized the probability for getting c counts, given n particles, and that yields 150. In Bayes’ solution, we will multiply this by a prior probability p(n|s), which represents our knowledge of the antecedent situation, before maximizing, and we’ll get an entirely different value for the estimate. As we saw in the 6 Elementary parameter estimation 177 inversion of urn distributions, simple prior information can make a big change in the conclusions that we draw from a data set.”_
 

@@ -7,9 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:43:56.979Z'
 slug: progress-and-poverty
-wordCount: 18646
-readingTimeMinutes: 83
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty'
+wordCount: 18424
+readingTimeMinutes: 84
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty
 source: acx
 tags:
   - Economics
@@ -29,11 +29,11 @@ But he didn't just write a book. He also [ran for Mayor of New York city in 1886
 I'm writing this book review for three reasons:
 
 *   George's arguments about land, labor, and capital present a fresh alternative to conventional ideas about "Capitalism" and "Socialism" (and whatever we mean by those on any given day)
-    
+
 *   The book has timeless advice for navigating modern crises such as ever-rising rents, homelessness, and the [NIMBY](https://en.wikipedia.org/wiki/NIMBY) vs. [YIMBY](https://en.wikipedia.org/wiki/YIMBY) wars.
-    
+
 *   This is a golden opportunity to shamelessly over-use the catchy phrase "By George!"
-    
+
 
 If I had to summarize the book in a single sentence I would put it this way:
 
@@ -165,7 +165,7 @@ George goes the other way:
 
 > It is never the amount of labor that has been exerted in bringing a thing into being that determines its value, but always the amount of labor that will be rendered in exchange for it.  
 >   
-> - Henry George, _The Science of Political Economy,_ p. 253
+- Henry George, _The Science of Political Economy,_ p. 253
 
 In other words, "a thing's value is whatever someone is willing to pay for it." This is in line with the so-called [marginal revolution](https://en.wikipedia.org/wiki/Marginal_utility#Marginal_Revolution) (the movement, not the [blog](https://marginalrevolution.com/)) and modern theories of value.
 
@@ -194,7 +194,7 @@ It gets a little clearer when we ask what _isn't_ wealth.
 And by George, **Money** isn't wealth.
 
 Articles of gold are wealth because they're tangible things that have been dug up, crafted, and fulfill certain human desires. But paper currency, digital currencies, and other things that aren't inherently valuable but merely _represent_ value are _not_ wealth (outside of putting their physical articles in coin collections or making paper airplanes, and so forth). Now don't get the man wrong, these things are certainly _valuable_. They're just not _wealth_. They are certificates that represent _claims_ on wealth. For any computer programmers in the audience, money is a _pointer_ to wealth.  
-  
+
 Likewise **Stocks and Bonds** and other financial instruments are not wealth. These are also just claims on wealth. A creditor's title to **Debt** isn't wealth, either, it's just a claim on the debtor's (typically future) wealth. And, writing as he was not long after the Civil War, George points out that **Slaves** are not wealth either but, represent "merely the power of one class to appropriate the earnings of another class."
 
 Wealth, thus defined, is the terminal "ground truth" bits of the economy, and all the financial layers on top are fancy IOUs that just encode various claims on it.
@@ -397,11 +397,11 @@ Capital "increases the power of labor to produce wealth."
 How?
 
 *   By enabling labor to apply itself more effectively (power tools go brrrr)
-    
+
 *   By availing labor of the reproductive forces of nature (cows make baby cows)
-    
+
 *   By making possible the division & specialization of labor (you dig bait, I'll catch fish)
-    
+
 
 Capital is a _force multiplier_ that supercharges the productive power of labor. It doesn't supply labor with raw materials (nature does), nor does it provide for the maintenance of workers (who eat bread by the sweat of their own brow).
 
@@ -494,11 +494,11 @@ George says the false assumption at the root of the old theories is in thinking 
 George makes the following assertions:
 
 1.  "Labor can be exerted only upon land"
-    
+
 2.  "It is from land that the matter which it transmutes into wealth must be drawn"
-    
+
 3.  "Capital is not a necessary factor in production"
-    
+
 
 Therefore, we should always put land first in all our inquiries rather than capital, which ought to come last.
 
@@ -524,13 +524,13 @@ Furthermore, any piece of land has only one seller, and no producers. This furth
 
 Land has value because people are willing to pay you for the privilege of using it.  
 The price of rent derives from the most marginal land available.  
-  
+
 I'll explain with an example. Let's grade some imaginary lots according to their productivity by using abstract utility points, or "utils".
 
 Lot A is good fertile land worth 100 utils.  
 Lot B is just as good, also worth 100 utils.  
 Lot C is crappy land worth 10 utils.  
-  
+
 Let's say I own Lot A. I won't be able to charge you any rent to work on Lot A, if Lot B is freely available for anyone to use. Why would you pay even 1 util worth of rent if you could just work on Lot B, earn 100 utils, and keep it all?
 
 ![](https://substackcdn.com/image/fetch/$s_!wRJ6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb219ea42-6b0f-41eb-8381-b78052a4c810_600x400.png)
@@ -577,7 +577,7 @@ George reminds us that labor and capital will have to share whatever landowners 
 So... what happens when the productivity of land goes up?
 
 Let's go back to Lot A and Lot B, both 100-util fields. Let's say they belong to different landlords, and I'm a tenant on Lot B. I improve the soil of the field I'm working on so now it's worth 110 utils. What happens?  
-  
+
 My landlord raises the rent, of course!
 
 ![](https://substackcdn.com/image/fetch/$s_!zIvo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43f758ce-2bb5-479e-bc07-b2bb7fcc6eb8_600x400.png)
@@ -587,13 +587,13 @@ The only way wages (the return to labor) and interest (the return to capital) ca
 ## The Law of Interest
 
 George wants to find the fundamental reason capital is able to produce wealth and justly claim a fair share of production.  
-  
+
 Remember that capital is wealth devoted to getting more wealth. So if capital is wealth that begets wealth, it makes sense that if I lend it out to you, I miss out on the potential for it to grow while it's out of my hands. George says I am justly entitled to ask for more back than I originally gave you.
 
 Let's say I loan you some corn seeds for a season. Had I not leant them to you, in a season's time I could have grown my own crop of corn and been left with more seed than I started with. So in a perfectly square deal, you need to give me back what I started with _and_ what I could have expected to gain from natural increase (less the value of the labor required to get things started).
 
 Likewise with any other article of capital – say bricks or lumber. In the time I've spent without it while it was in your possession, I could have found someone else who had a better use for it than I did and exchanged it for something of theirs that I had a better use for, leaving me with capital of greater value. George says the act of progressively exchanging things in a way that increases subjective value for all involved is analogous to the natural forces of nature that make living capital (like corn and cows) grow over time.  
-  
+
 Remember, "subjective value" is _real value_. In a game of _Settlers of Catan_, if I have two bricks and you have two lumber, neither of us can build anything. The simple act of trading one brick for one lumber means _both_ of us are better off because each of us can now build a road. The amount of bricks and lumber in the world didn't increase, but the amount of _roads_ (or potential roads) did, and that represents a real increase in wealth.
 
 Interest thus springs from the "reproductive" powers of capital, whether that's biological reproduction, or the more abstract reproductive force of exchanging things so that you have a more valuable distribution of capital than you started with.
@@ -635,11 +635,11 @@ As a society undergoes material progress, the rent goes up. Why?
 Let's break it down. Three things contribute to material progress:
 
 *   Increasing population
-    
+
 *   Technological advance
-    
+
 *   Improvements in the social fabric
-    
+
 
 "Social fabric" is my term, George calls it "greater knowledge, education, government, police, manners, and morals, so far as they increase the power of producing wealth."
 
@@ -652,15 +652,15 @@ Generally speaking, as you get more people your productivity grows exponentially
 That's thanks to specialization and division of labor. This happens without needing any technological advance. And as labor's productivity goes up, it makes it worth developing on more marginal (ie, less productive) lands, pushing the margin of production down (and outward geographically), which gives landlords more room to jack up rents.
 
 A bustling town is a more valuable and productive place to live than a tiny hut in the middle of a remote forest. In the town there's a butcher, a baker, a candlestick maker, and others to supply you with whatever your heart desires. In the middle of the forest you have to do everything yourself, regardless of how abundant the natural resources might be. Every neighbor that moves in to town makes you "richer" in this sense because they contribute to the total productive potential of your community.  
-  
+
 Population increase also drives productivity by making things valuable that were useless before. Let's say there's some resource on some land, say iron ore. Even if you have all the technology to mine and smelt it, you probably aren't capable of doing this whole operation yourself, and if nobody else lives there you don't have anybody to sell the iron to. It's the presence of a civilization that will give that ore its value, and for that you need to increase the population. Until population shows up to give it value, the ore is "latent potential" in the land.
 
 By George, increasing population increases the share of rent (and decreases the share of interest and wages) in two ways:
 
 1.  It lowers the margin of production
-    
+
 2.  It brings out the latent potential of land
-    
+
 
 * * *
 
@@ -773,11 +773,11 @@ He doesn't want to confiscate land, or force everyone to live on some giant hipp
 He anticipates a lot of pushback on this, and promises that his remedy:
 
 *   Is just
-    
+
 *   Can actually be practically applied
-    
+
 *   Will solve all our problems once and for all
-    
+
 
 ## Why the Remedy is Just
 
@@ -846,7 +846,7 @@ What if I plant some nice trees, and invest in some landscaping to stop erosion?
 > But it will be said: There are improvements which in time become indistinguishable from the land itself! Very well; then the title to the improvements become blended with the title to the land; the individual right is lost in the common right. It is the greater that swallows up the less, not the less that swallows up the greater.
 
 Okay, ground rent bad. How much should we tax it?  
-  
+
 By George, _One Hundred Percent_.
 
 Take the rent the tenant has to pay each month, calculate the portion attributable to the value of the unimproved land itself, and send it to the taxing agency.
@@ -854,7 +854,7 @@ Take the rent the tenant has to pay each month, calculate the portion attributab
 ## Effects of the Remedy
 
 Wow! 100% tax rate on ground rent! Can we really do that? In practice Georgists often talk about rates closer to 85+% given real-world limitations in assessment, but the point is to hit it as hard as you possibly can. Get close enough and you still have good effects.  
-  
+
 Won't land taxes jack up land prices? No, actually - in fact it will do the opposite, because such a tax is laser-calibrated to eliminate speculation, which makes up the bulk of inflated land values, and thus rent. Tax land for the full ground rent and you make real estate _more_ affordable, not less_._
 
 Won't it enable an all-powerful centralized nanny state? Quite the opposite – land value assessment is a fundamentally bottom-up, localized task, so it naturally empowers local municipalities at the expense of distant central authorities. Also, income taxes, wealth taxes, investment taxes, etc, require an ever-vigilant centralized bureaucracy peeking into every aspect of an individual's life to catch tax evaders, who have every incentive to hide their assets or even just flee.
@@ -998,21 +998,21 @@ Another effect George asserts is that once land is no longer monopolized, labor 
 So to sum up, if we tax the ever loving hell out of ground rent, George says we'll see the following benefits:
 
 *   Make housing much more affordable
-    
+
 *   Eliminate perverse incentives and speculation
-    
+
 *   Encourage the most efficient use of land
-    
+
 *   End wage slavery and rack-rents
-    
+
 *   Encourage investment and innovation
-    
+
 *   Fund a Universal Basic Income and public goods
-    
+
 *   Lower or eliminate some other unpopular taxes
-    
+
 *   Not hand everything over to a centralized planned economy that probably won't work
-    
+
 
 The Rent is Too Damn High, but, by George,  
 it doesn't have to be.
@@ -1024,31 +1024,31 @@ it doesn't have to be.
 ### on Georgism:
 
 *   [Complete list of works](https://web.archive.org/web/20210220202946/https://www.biblio.com/henry-george/author/42457) by Henry George
-    
+
 *   [Wikipedia article on Georgism](https://en.wikipedia.org/wiki/Georgism) and [Land Value Tax](https://en.wikipedia.org/wiki/Land_value_tax)
-    
+
 *   [Georgism / LVT FAQ](https://bluerepublik.wordpress.com/2020/04/28/georgism-lvt-faq/) by [@BlueRepublik](https://twitter.com/BlueRepublik)
-    
+
 *   [No, Georgism is Still Sane](https://bluerepublik.wordpress.com/2020/04/28/no-georgism-is-still-sane/) by [@BlueRepublik](https://twitter.com/BlueRepublik)
-    
+
 *   [Welfare Economics of the Land Value Tax](https://bluerepublik.wordpress.com/2019/07/31/welfare-economics-of-the-land-value-tax/) by @BlueRepublik
-    
+
 *   [If the Land Tax Is Such A Good Idea, Why Isn’t It Being Implemented?](https://www.strongtowns.org/journal/2019/3/8/if-the-land-tax-is-such-a-good-idea-why-isnt-it-being-implemented) by [Strong Towns](https://www.strongtowns.org/)
-    
+
 *   [The Consequences of Land Speculation are Tenantry and Debt on the Farms,  
     and Slums and Luxury in the Cities](https://books.google.com/books?id=isYCAAAAMAAJ&pg=PA2&lpg=PA2&dq=The+Consequences+of+Land+Speculationare+Tenantry+and+Debt+on+the+Farms,and+Slums+and+Luxury+in+the+Cities&source=bl&ots=95-zsanxSs&sig=ACfU3U3lkh9lRjX7cwynf0psfQIFTLmhVw&hl=en&sa=X&ved=2ahUKEwjU6tuHqPnuAhUBGs0KHXPqC2YQ6AEwAnoECAUQAw#v=onepage&q=upton%20sinclair&f=false) by Upton Sinclair
-    
+
 
 ### on Distributism (a close cousin to Georgism):
 
 *   [Wikipedia article on Distributism](https://en.wikipedia.org/wiki/Distributism)
-    
+
 *   [Front Porch Republic](https://www.frontporchrepublic.com/) on [Distributism](https://www.frontporchrepublic.com/tag/distributism/)
-    
+
 *   [Georgism and Distributism](https://www.cooperative-individualism.org/medaille-john_georgism-and-distributism-2012-sep.pdf) by John Medaille
-    
+
 *   [Towards a Truly Free Market](https://www.amazon.com/Toward-Truly-Free-Market-Distributist-ebook/dp/B00JUC6PN0) by John Medaille
-    
+
 
 * * *
 
@@ -1087,7 +1087,7 @@ Okay, George makes a strong _moral_ case. But a moral case isn't enough, and I t
 But if the premises _aren't true,_ then the dangerous and scary policy prescription – say, "let the Irish starve to death" – is both evil _and_ unnecessary. History has shown that many officials will shrug their shoulders at "evil" policies [so long as they believe them to be "necessary."](https://web.archive.org/web/20201124061457/https://aphelis.net/destroy-village-order-save-unknown-1968/)
 
 Cool, we've established that Malthusianism is bad.  
-  
+
 Now let's establish that it's _wrong_.
 
 * * *
@@ -1157,11 +1157,11 @@ George gets _really_ mad about this, and calls out John Stuart Mill and Henry Th
 ## Appendix B: George dunks on the Conventional Laws of Distribution  
 
 **Conventional Law 1: Wages** aredetermined by the ratio between capital devoted to the payment & subsistence of labor, divided up by the number of laborers.  
-  
+
 **Conventional Law 2: Rent** is determined by something called the "margin of production," AKA the "margin of cultivation."  
-  
+
 What's that?  
-  
+
 Let L be some land.  
 Let W be the worst land available.  
 Let A = the produce L makes.  
@@ -1183,14 +1183,14 @@ If your three returns sum to more or less than 100% of the return to production,
 First we've got to stop using "profits" to mean a return to capital. If we look into a profit stream, we see more than one kind of thing. Conventional economists list the following:
 
 1.  Wages of "superintendence"
-    
+
 2.  Compensation for risk
-    
+
 3.  Return for the use of capital
-    
+
 
 "Superintendence" is a fancy word for management. White-collar though it may be, it's still labor, and it's compensation is **wages**. That's not a return to capital.  
-  
+
 As for compensation for risk, George says that risk averages out and disappears when you take the God's eye view and sum all of society's transactions together. If I take the winning side of a bet and you take the losing side, I enjoy gain, you suffer loss, but the amount of wealth in the world hasn't actually increased as a result of our bet.
 
 That leaves return for the use of capital, which George calls **interest.**
@@ -1204,17 +1204,17 @@ That leaves return for the use of capital, which George calls **interest.**
 Things we've already tried that George says aren't sufficient:
 
 *   Austerity measures & smaller government
-    
+
 *   Improved education & worker training
-    
+
 *   Labor unions
-    
+
 *   Co-ops
-    
+
 *   Government redistribution of wealth
-    
+
 *   Land redistribution
-    
+
 
 Why they're insufficient:
 

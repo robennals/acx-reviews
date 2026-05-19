@@ -1,19 +1,15 @@
 ---
-title: >-
-  Adult Gymnastics: How Falling On Your Butt Repeatedly Makes Everything Else in
-  Life Easier
+title: 'Adult Gymnastics: How Falling On Your Butt Repeatedly Makes Everything Else in Life Easier'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
 contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.886Z'
-slug: >-
-  adult-gymnastics-how-falling-on-your-butt-repeatedly-makes-everything-else-in-life-easier
-wordCount: 2553
+slug: adult-gymnastics-how-falling-on-your-butt-repeatedly-makes-everything-else-in-life-easier
+wordCount: 2546
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Memoir
@@ -27,7 +23,7 @@ I started training and competing in gymnastics 13 years ago at age 24, and I hav
 
 Not the high bar, that’s inarguably rather high. But actually most gyms have an adjustable height bar that you can put as low as you want. In any case, I’m talking about the metaphorical bar of “how \_\_\_\_\_ you need to be to do gymnastics”. The most common response I get when I pitch people on adult gymnastics is some combination of “I’m not flexible” and “LOL I’m too weak”. I think people imagine starting gymnastics to be something like getting put up on a set of rings and being told to try to do an iron cross.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/fbd56b5f00873087.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3763e36d9a00a878.png)
 
 This would be insane, and I agree that you likely aren’t flexible or strong enough to do that. But you also aren’t fast enough to keep up with marathon world-record-holder Kelvin Kiptum in a race or tall enough to shoot hoops with LeBron, but people don’t seem to balk at the idea of going out for a jog or joining a pickup game at the local basketball court. Similar to how you’d start running for the first time, you start gymnastics with skills, drills, and basics that are appropriate to whatever your fitness and capability levels are right now, and those exist even for very very beginner level adults. Good adult coaches can meet you where you’re at, even if where you’re at is face down on the mat. I’ve taught beginner classes to people who have literally never done a sport in their lives, and they left the class in one piece, with a smile on their face, and a desire for more (and to be fair also a fair amount of sweat and soreness).
 
@@ -35,7 +31,7 @@ This would be insane, and I agree that you likely aren’t flexible or strong en
 
 The specialized nature of most physical activities creates what you might call "fitness asymmetries." Runners develop impressive cardiovascular capacity but often neglect upper body strength. Weightlifters build impressive force production but may lack mobility. Rock climbers develop grip strength that would make a gorilla jealous but might have comparatively underdeveloped lower bodies. But gymnastics really does use pretty much every muscle in your body. The sheer variety of movements and loads you need to master if you’re training all 8 different apparatus (across all the men’s and women’s events) is pretty unmatched across other physical activities I’m aware of. The phrase “I’m sore in places I didn’t even know I had muscles” is not uncommon in the gymnastics gym! And while gymnastics doesn’t push that far into the endurance realm of things (floor routines generally don’t go longer than 90 seconds), it’s not purely anaerobic and does a good job of working strength, power, and medium length strength-endurance.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9ef195b687e941a2.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/99187e304d4a4691.png)
 
 Beyond just being fit for the sake of being fit, one benefit I’ve found is that being fit across many domains (upper and lower body, power/strength/endurance, balance) means that when you want to try a new physical activity, you’re generally well prepared to jump right in. So even if you end up moving to a different activity (or simply supplementing your newfound gymnastics hobby), chances are good that the fitness you’ve gained in the gym will translate well to any new sport or activity. Beyond the realm of other sports, it’s becoming increasingly clear that whole body fitness is important for increasing your “healthspan” (a term coined by Peter Attia in his book “Outlive”) - how many years you have in a body that can do most of what you want it to do. Put differently: gymnastics doesn't just make you good at gymnastics; it makes you better at being a human with a body.
 
@@ -43,7 +39,7 @@ Beyond just being fit for the sake of being fit, one benefit I’ve found is tha
 
 You could replicate much of gymnastics’ physical benefits by going to the gym and lifting weights, doing plyometrics, and hitting the treadmill. The problem with that is that it’s SUPER BORING. Gymnastics, on the other hand, is like solving a physical puzzle while accidentally getting ripped. Most of the time in gymnastics you’re either trying to figure out how to get your body and brain to do what you know they need to or figuring out what you need to do in the first place. And if you get bored, frustrated, or stuck on a given skill? Lucky for you, there are thousands of other things you can work on! Even better, when you come back to the skill you paused on, the other things you’ve learned and the strength and flexibility you’ve gained in the meantime will likely have increased your chances of progressing on the original skill. I pole vaulted for 6 years before picking up gymnastics, and while the two sports have a lot in common, the lack of variety in pole vaulting meant that mental or physical stumbling blocks were a lot more frustrating and disheartening than they’ve been in gymnastics. Same thing with distance running, soccer, and every other sport I’ve tried. On a similar note, the infinite variety means that if you really don’t like a given apparatus or skill, you can just not do it! There’s plenty of other things to dive (roll) into, and no one is forcing you to do anything!
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/0503aaed1e089d30.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7b117b68e45552ca.png)
 
 _There are hundreds of pages like this, filled with skills to try - and you can always make up your own if something isn’t already in there!_
 
@@ -57,13 +53,13 @@ There’s a reason so many people dream about flying - it’s fucking awesome. G
 
 Yes, fear is good, and there are three main reasons:
 
-> 1.  **Mandated Mindfulness:** When part of your brain (whether rationally or irrationally, you’ll experience both in this sport) is worried you might be about to die, instinct takes over and shoves all other thoughts aside. I guarantee you won’t be ruminating about that project that’s overdue at work, or the fight you got in with your partner last night, or any of the other myriad stresses and worries that plague our everyday lives. So while some people meditate to clear their minds, I recommend something way more fun: controlled and repeated exposure to situations where part of your brain is screaming “AHHHHHHHH!!!”. I have found it to be extremely healthy and “mentally refreshing” to have a dedicated, regular block of time where I won’t (and can’t) think about all the other things going on in my life.
-> 2.  **Adjusting the Fear Baseline:** The principle of hedonic adaptation is that our brains eventually get used to even the most amazing feeling things, causing them to eventually become less enjoyable as your brain recalibrates to fit the new range of experiences into the standard spectrum. This has the downside of making things that used to feel quite good feel less good in comparison as the spectrum of feeling gets compressed and shifted. Down on the negative end of the spectrum, however, this can be a positive outcome! When you flip backwards and risk landing on your head (don’t worry you don’t do this on day one!) regularly, this gets pegged as the new “oh my god I’m so scared” end of the spectrum, and having that stressful talk with your boss to ask for a promotion no longer feels quite so scary. As with everything in this review, your mileage may vary, but at least in my experience this has made mundane “scary” activities much more approachable.
-> 3.  **Humility and Empathy via Brain Betrayal:** In most of our lives, it seems like we’re in full control of our bodies: when you want to pick up your phone, your hand does exactly what you want and reaches out and grasps the phone. But it becomes glaringly obvious that things aren’t quite that simple when you do any fear-adjacent activity like gymnastics. You might be fully physically capable of a skill, have done it multiple times in the past, know that if you do the correct technique it will be safe and easy, and know that if you do the wrong thing it’ll get more dangerous. And yet when you go to do the skill, your brain (or at least my brain) regularly goes “HOLD MY BEER!” and grabs control of your body and does the instinctual “oh my god I’m upside down and falling and twisting” thing, which unfortunately almost always makes things worse.  
->       
->     Imagine if everyday life was like this: you go to take a pot of pasta off the stove, you’ve done it plenty of times, and you know that you just need to grab the handle where it won’t be too hot. Then as you reach out, for some reason instead you just slap your hand against the bottom side of the pot and burn yourself. That’s what happens all the time when you’re learning new skills you’re afraid of. Don’t worry, you set up mats and spotting and harnesses and belts and whatnot to make the consequences non-disastrous. Experiencing things like this regularly makes me more aware and thankful that the rest of my life operates so smoothly!  
->       
->     Another side effect of this awareness (at least for me) is an increased level of empathy for others who are seemingly acting against their own interests. In my everyday life, I’m pretty good at doing things that are good for me, but experiencing first hand obviously self-defeating behavior in the gym gives me a better idea of what it might be like for those who do similar things in more conventional settings.
+1.  **Mandated Mindfulness:** When part of your brain (whether rationally or irrationally, you’ll experience both in this sport) is worried you might be about to die, instinct takes over and shoves all other thoughts aside. I guarantee you won’t be ruminating about that project that’s overdue at work, or the fight you got in with your partner last night, or any of the other myriad stresses and worries that plague our everyday lives. So while some people meditate to clear their minds, I recommend something way more fun: controlled and repeated exposure to situations where part of your brain is screaming “AHHHHHHHH!!!”. I have found it to be extremely healthy and “mentally refreshing” to have a dedicated, regular block of time where I won’t (and can’t) think about all the other things going on in my life.
+2.  **Adjusting the Fear Baseline:** The principle of hedonic adaptation is that our brains eventually get used to even the most amazing feeling things, causing them to eventually become less enjoyable as your brain recalibrates to fit the new range of experiences into the standard spectrum. This has the downside of making things that used to feel quite good feel less good in comparison as the spectrum of feeling gets compressed and shifted. Down on the negative end of the spectrum, however, this can be a positive outcome! When you flip backwards and risk landing on your head (don’t worry you don’t do this on day one!) regularly, this gets pegged as the new “oh my god I’m so scared” end of the spectrum, and having that stressful talk with your boss to ask for a promotion no longer feels quite so scary. As with everything in this review, your mileage may vary, but at least in my experience this has made mundane “scary” activities much more approachable.
+3.  **Humility and Empathy via Brain Betrayal:** In most of our lives, it seems like we’re in full control of our bodies: when you want to pick up your phone, your hand does exactly what you want and reaches out and grasps the phone. But it becomes glaringly obvious that things aren’t quite that simple when you do any fear-adjacent activity like gymnastics. You might be fully physically capable of a skill, have done it multiple times in the past, know that if you do the correct technique it will be safe and easy, and know that if you do the wrong thing it’ll get more dangerous. And yet when you go to do the skill, your brain (or at least my brain) regularly goes “HOLD MY BEER!” and grabs control of your body and does the instinctual “oh my god I’m upside down and falling and twisting” thing, which unfortunately almost always makes things worse.  
+      
+    Imagine if everyday life was like this: you go to take a pot of pasta off the stove, you’ve done it plenty of times, and you know that you just need to grab the handle where it won’t be too hot. Then as you reach out, for some reason instead you just slap your hand against the bottom side of the pot and burn yourself. That’s what happens all the time when you’re learning new skills you’re afraid of. Don’t worry, you set up mats and spotting and harnesses and belts and whatnot to make the consequences non-disastrous. Experiencing things like this regularly makes me more aware and thankful that the rest of my life operates so smoothly!  
+      
+    Another side effect of this awareness (at least for me) is an increased level of empathy for others who are seemingly acting against their own interests. In my everyday life, I’m pretty good at doing things that are good for me, but experiencing first hand obviously self-defeating behavior in the gym gives me a better idea of what it might be like for those who do similar things in more conventional settings.
 
 ## Accidental Abs: Aesthetic Side Effects May Occur
 
@@ -73,7 +69,7 @@ I’d be remiss if I didn’t mention the impact of this very physical activity 
 
 As a counterpoint, all of these people also do gymnastics and obviously have a wide range of body types:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9786bea979e1ce83.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/fb7175253d62728f.png)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/d28f43fefb6a9c74.png)
 

@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: skibidi-toilet
 wordCount: 6419
 readingTimeMinutes: 29
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -47,7 +46,6 @@ Historically, these all stem from an interesting question: Why would you want to
 
 ## A brief history of machinima
 
-  
 This makes more sense then you might think. I think for a lot of us, our first memories of video games were watching someone else play it. Friends. An older sibling. Waiting for your turn on the controller, or handing over the reins to your sibling to see if they can do the hard part for you, or just watching – natural and enchanting to watch someone else play.
 
 You get to see the visuals. If there’s a story, you still get to experience the story. If they’re good at it, it becomes like watching sport. Earliest preserved game footage – not games, videos _of people playing games_ preserved for reasons other than technical demos of the game itself – are of PVP combat or speedruns, e.g., skills.

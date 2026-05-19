@@ -1,16 +1,16 @@
 ---
-title: "The Simulacra"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Simulacra
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-simulacra"
-wordCount: 4633
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-simulacra
+wordCount: 4606
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Fiction
   - Philosophy
@@ -36,10 +36,10 @@ The word “simulacra” was used only sparsely in later Latin fiction by Virgil
 
 Philip K. Dick knew enough Latin to meditate at length on obscure Latin theological phrases in his later _Exegesis_. He had a habit of buttressing his book titles with Latinate words uncommon in lay English:
 
-> *   _The Penultimate Truth_
-> *   _The Three Stigmata of Palmer Eldritch_
-> *   _Deus Irae_ (collaboration with Roger Zelazny)
-> *   _A. Lincoln, Simulacrum_ (not a book, but a magazine serial)
+*   _The Penultimate Truth_
+*   _The Three Stigmata of Palmer Eldritch_
+*   _Deus Irae_ (collaboration with Roger Zelazny)
+*   _A. Lincoln, Simulacrum_ (not a book, but a magazine serial)
 
 Like Lucretius, Philip K. Dick maintained a specific meaning for the word “simulacra” in the world of his book. Dick’s usage cleaves closer to the _Vetus Testamentum_ usage of “graven images” than the phrase hit upon by most English translators of _De Rerum Natura_; one can speculate that Dick’s novel would doubtfully have produced the same impact had it been titled _The Images of Things_.
 
@@ -47,9 +47,9 @@ Like Lucretius, Philip K. Dick maintained a specific meaning for the word “sim
 
 Philip K. Dick’s biographer Lawrence Sutin wrote of _The Simulacra_ “Of all Phil’s novel plots, this may be the most complex.” [6] _The Simulacra_ has never been adapted for screen, stage, or video game console. Philip K. Dick published _The Simulacra_ in 1964, the same year as three other of his novels:
 
-> *   _The Penultimate Truth_
-> *   _Martian Time-Slip_
-> *   _Clans of the Alphane Moon_.
+*   _The Penultimate Truth_
+*   _Martian Time-Slip_
+*   _Clans of the Alphane Moon_.
 
 Some of the themes from Dick’s other novels of this hyperprolific period of his career can seem to bleed together. As an example, _The Penultimate Truth_ shares with _The Simulacra_ the theme of a political leader whose facade of authentic humanity conceals a hidden elite who control the perception of leadership with technology. Although _The Penultimate Truth_ reused the word simulacrum to describe this maneuver, the two stories imagined very different technologies accomplishing this effect.
 
@@ -85,7 +85,7 @@ The novel is set in the year 2041; for Philip K. Dick writing, this date was nea
 
 When Dick wrote _The Simulacra_, all of the events forming the pivotal timeline of that world could still potentially have happened. The book’s timeline begins to diverge from the timeline that we in the twenty-first century call our real world history with the ascension to power of First Lady Nicole Thibodeaux, seventy-three years prior to the present-day of the novel. With some arithmetic, one can calculate this year as 1968, four years after the novel’s publication.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ba15fb0384788e96.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/bae538a50d1347a6.jpg)
 
 Neither do the acts of time-travel substantially differentiate the twentieth century history in the novel from the twentieth century history of its author. Time machines, called “von Lessinger equipment”, barely seem to affect events at all. Material changes which time travelers (“von Lessinger technicians”) achieve in the past are extinguished by opposing time travelers with opposite goals, who go back to the same past and ensure the operations of their time-traveling opponents somehow fail. Time travel is presented as a (disappointingly paradox-free) tool of the existing political order, and a tepid and feeble one at that.
 
@@ -113,14 +113,10 @@ Advertising machines, called Theodorus Nitz commercials after their inventor, ha
 
 Before Ace Books published _The Simulacra_ in August 1964, Fantastic magazine published the short story “The Novelty Act” in its February 1964 edition, prefaced by this editorial summary:
 
-> If you carry to their illogical lengths the ideas
->
-> of cooperative housing, culture-mania and ama-
->
-> teur nights, you might begin to approximate the
->
-> conditions under which the Brown brothers did
->
+> If you carry to their illogical lengths the ideas  
+> of cooperative housing, culture-mania and ama-  
+> teur nights, you might begin to approximate the  
+> conditions under which the Brown brothers did  
 > their jug-playing music. [9]
 
 By contrast, the jug musicians in _The Simulacra_ are not brothers, and neither one is named Brown, but _The Simulacra_ did keep salient the three ideas mentioned in that snippet. Philip K. Dick biographer Lawrence Sutin has suggested that the short story is a pared-down version of the novel, rather than the novel being an expansion of the short story [6].
@@ -253,7 +249,7 @@ While Philip K. Dick was the first English-language writer to include the word �
 
 Google n-grams attests to this timeline. A graph tracking the frequency with which the word “simulacra” appeared in print begins its ascent around the time that Baudrillard’s _Simulacra and Simulation_ appeared, while Dick’s _The Simulacra_ did not seem to have inspired as much written interest in simulacra as a concept (at least around the time it was written).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/b8d4b5f5d74be533.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ea34f74de290b355.png)
 
 The fact that Baudrillard name-drops Philip K. Dick in three distinct chapters of _Simulacra and Simulation_ hints at the role Dick had to play in shaping the way this concept would come to be understood philosophically.
 
@@ -282,22 +278,22 @@ Philip K. Dick’s continued relevance can be found in LessWrong discourse durin
 
 [3]: “EPISTULA I IOANNIS - Nova Vulgata, Novum Testamentum.” http://www.vatican.va, www.vatican.va/archive/bible/nova\_vulgata/documents/nova-vulgata\_nt\_epist-i-ioannis\_lt.html. Accessed 19 Mar. 2023. The word _simulacra_ is not used to denote idols anywhere in the books of the Pentateuch, nor in the Gospels. A different Latin term is employed in those books: _similitūdō_. The books within the Vulgate where the word _simulacra_ is used are the following:
 
-> *   _ACTUS APOSTOLORUM_
-> *   _AD COLOSSENSES EPISTULA SANCTI PAULI APOSTOLI_
-> *   _AD CORINTHIOS EPISTULA I SANCTI PAULI APOSTOLI_
-> *   _AD THESSALONICENSES EPISTULA I SANCTI PAULI APOSTOLI_
-> *   _APOCALYPSIS IOANNIS_
-> *   _EPISTULA I IOANNIS_
-> *   _LIBER BARUCH_
-> *   _LIBER ISAIAE_
-> *   _LIBER PRIMUS MACCABAEORUM_
-> *   _LIBER PRIMUS REGUM_
-> *   _LIBER PSALMORUM_
-> *   _LIBER SECUNDUS MACCABAEORUM_
-> *   _LIBER SECUNDUS PARALIPOMENON_
-> *   _PROPHETIA EZECHIELIS_
-> *   _PROPHETIA HABACUC_
-> *   _PROPHETIA OSEE_
+*   _ACTUS APOSTOLORUM_
+*   _AD COLOSSENSES EPISTULA SANCTI PAULI APOSTOLI_
+*   _AD CORINTHIOS EPISTULA I SANCTI PAULI APOSTOLI_
+*   _AD THESSALONICENSES EPISTULA I SANCTI PAULI APOSTOLI_
+*   _APOCALYPSIS IOANNIS_
+*   _EPISTULA I IOANNIS_
+*   _LIBER BARUCH_
+*   _LIBER ISAIAE_
+*   _LIBER PRIMUS MACCABAEORUM_
+*   _LIBER PRIMUS REGUM_
+*   _LIBER PSALMORUM_
+*   _LIBER SECUNDUS MACCABAEORUM_
+*   _LIBER SECUNDUS PARALIPOMENON_
+*   _PROPHETIA EZECHIELIS_
+*   _PROPHETIA HABACUC_
+*   _PROPHETIA OSEE_
 
 [4]: Géley, Gustave. _From the Unconscious to the Conscious_. United Kingdom, William Collins Sons, 1920, p.62. Géley appears to use the word simulacra in Lucretius’ original sense, uncritically accepting _De Rerum Natura_ as a still-reasonably-viable account of experiential phenomenon.
 

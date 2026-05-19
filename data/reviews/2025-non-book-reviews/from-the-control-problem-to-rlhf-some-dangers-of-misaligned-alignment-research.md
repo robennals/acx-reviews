@@ -1,7 +1,5 @@
 ---
-title: >-
-  From the Control Problem to RLHF – Some Dangers of Misaligned Alignment
-  Research
+title: From the Control Problem to RLHF – Some Dangers of Misaligned Alignment Research
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -11,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.893Z'
 slug: from-the-control-problem-to-rlhf-some-dangers-of-misaligned-alignment-research
 wordCount: 5004
 readingTimeMinutes: 23
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Technology
@@ -101,7 +98,7 @@ This architecture allows a NN to map complex, many-dimensional correlations, whi
 
 Now, take a text corpus made up of data scraped from forums, video descriptions and advertisements, of wikipedia articles and publicly available academic articles, the landing pages of corporations and governments, the archives of AO3 and fanfic.org, filter some things out (license keys, personal information), tokenize your data and start feeding it to your NN.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ec048c719c1813fa.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/4cca19ec9530a05a.png)
 
 You might think of deep learning along the lines of a quantitative data analysis, only with an insane number of variables, or something like a lossy compression algorithm that burns the structure of the training data into an NNs weights. Through the process of outputting initially random continuations of text strings, the model's weights are continually adjusted by checking its ‘guesses’ (which at the outset can not even be called that – the correlations with the dataset still have to get in there) against the dataset, until at the end of your training run you have a _base model_ that outputs _reasonably probable continuations_ of a given text string.
 
@@ -127,7 +124,7 @@ In the next step we cross-breed our base model with an instruct-only model, that
 
 By overlaying the weights of the models on top of each other, we get an instruct model that combines their properties and responds in an instruct format with a decent probability when prompted in the right way while tapping into the broader 'hallucination space' of the base model.
 
- ![](https://acximages.ennals.org/images/2025-non-book-reviews/75407ea995d4ed88.png)
+ ![](https://acximages.ennals.org/images/2025-non-book-reviews/3a7cbdcd518512cd.png)
 
 All this is to say that an instruct model, just as the models it was based off, generates responses by hallucinating probable completions for a given context, except that the 'probability of instruct-like outputs' is high enough to keep the consistent illusion of a stable 'identity', usually at least for a few rounds of conversation, if we aren't actively trying to derail our model and activate other patterns.
 
@@ -144,7 +141,7 @@ To create the kind of ‘ethical’ language model that is the only type most pe
 In RLHF human testers compare paired model outputs and assign a preference label (+1/-1). A separate reward model is trained to predict these labels; the instruct model is then optimised, via proximal-policy-optimisation, to maximise the predicted reward. Unlike the earlier “merge two LMs” step, RLHF rewrites the weights globally: every context is now shaped by the applied value-function rather than by next-token likelihood alone. The identity of the model becomes much more stable across contexts, leading to the familiar GPT-isms and standard refusals that can pop up regardless of context.  
 This ability to distort the model’s weights is straightforwardly desirable in many instances. Downvote your model for getting factual information wrong, for making things up when it doesn’t know better, for throwing out non-existent citations, and though you are still left with the problem [that you can only reward the model for what you](https://www.astralcodexten.com/p/elk-and-the-problem-of-truthful-ai) _[think](https://www.astralcodexten.com/p/elk-and-the-problem-of-truthful-ai)_ [is correct](https://www.astralcodexten.com/p/elk-and-the-problem-of-truthful-ai) (you aren’t aligning to the platonic ideal of truthfulness, so much as adherence to whatever beliefs and argumentative practices are considered valid according to some group of people), this mapping of ‘consensus reality’ is still usually more useful than having the model draw its information from random parts of its training data, without us even knowing which part of discursive space it’s currently simulating.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9a9fe9191dbd3d3d.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/091f3779a3ba574d.png)
 
 Regarding the criteria for their ethical criteria, OpenAI states that they refer to “the literature [which] often frames alignment using such terms as ‘human preferences’ and ‘human values’” (Ouyang [18](https://arxiv.org/abs/2203.02155)), and they further adopted the HHH (helpful, harmless, honest)-criteria (2). Page 18 also gives a more general breakdown of the process that was used for hiring the labelers in accordance with their degree of agreement with the alignment goals OpenAI’s researchers had chosen, and some of the particularities of labeling process itself, but really the following is a good enough summary for our purposes here: “we are aligning to our preferences as the researchers designing this study (...). We write the labeling instructions that our labelers use as a guide when writing demonstrations and choosing their preferred output, and we answer their questions about edge cases in a shared chat room.”
 
@@ -168,7 +165,7 @@ OpenAIs mission statement has been to “make agi safe” from [the first post o
 
 Quietly, on one hand the _justification_ given for adopting the ‘human values’ frame shifted from ‘or everyone dies forever’ to ‘in order to minimize harms’, where harms is an umbrella term that includes everything under the sun from instructions for creating bioweapons to cooking meth to using biased language, and on the other hand, in the absence of a superintelligence that could calculate our CEV for us, OpenAI decided that it’s on them to take up the ethical overlord duties.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/8572d7317f5b122a.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0afffa2912e65974.png)
 
 Why did this happen? I don’t think we need to be too cynical here – the simplest explanation is that OpenAI was founded against the backdrop of worries about superintelligence, and by the time of the major breakthroughs, this narrative was well solidified as a go-to frame for approaching any normative questions, so that the novel problem of what to do with LMs was never truly taken seriously on its own terms.
 

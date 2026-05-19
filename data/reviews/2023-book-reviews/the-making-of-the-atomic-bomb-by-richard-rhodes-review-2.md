@@ -1,16 +1,16 @@
 ---
-title: "The Making of the Atomic Bomb, by Richard Rhodes (Review 2)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Making of the Atomic Bomb, by Richard Rhodes (Review 2)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-making-of-the-atomic-bomb-by-richard-rhodes-review-2"
-wordCount: 4998
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-making-of-the-atomic-bomb-by-richard-rhodes-review-2
+wordCount: 4996
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Science
   - History
@@ -26,13 +26,13 @@ The 19th century was the golden age of chemistry; discoveries made in this perio
 
 Chemists had discovered that all materials were made of fundamental components called _elements_ and Mendeleev had realized that if you sorted all the elements by their atomic weight, arranged them in a row, and inserted newlines at certain positions, the columns of the resulting table held elements with similar chemical properties. For example, the rightmost column all held [gaseous elements that didn't seem to react with anything](https://en.wikipedia.org/wiki/Noble_gas), while the leftmost column held [soft, highly reactive metals](https://en.wikipedia.org/wiki/Alkali_metal). This was the state of the periodic table in 1905:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/3b3713c9043db23f.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/58f45fad1c218f35.png)
 
 Alfred Werner’s 1905 Periodic Table
 
 Chemists also knew various methods of identifying elements: if you burned an element and refracted the resulting light through a prism, you could identify individual frequencies of light that were present. These were the so-called spectral lines:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/cc4f22873206e6ea.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/55a7e5ec61b2f56a.png)
 
 _Spectral lines of Helium_
 
@@ -40,8 +40,8 @@ It was an exciting time to be a physicist; we were entering the final few decade
 
 Radiation is an unfortunately-overloaded term in physics that causes a fair amount of confusion in the general public. The term most generally refers to the emission of some substance from another. There are two different forms:
 
-> *   Electromagnetic radiation—this is just light. Its frequency can range from very low (microwaves) to very high (ultraviolet).
-> *   Particle radiation—these are the emissions of non-massless particles like alpha and beta particles.
+*   Electromagnetic radiation—this is just light. Its frequency can range from very low (microwaves) to very high (ultraviolet).
+*   Particle radiation—these are the emissions of non-massless particles like alpha and beta particles.
 
 Radiation can also be characterized along a different axis: ionizing radiation (which, when it hits atoms, can knock off electrons and cause damage to living tissue) and non-ionizing radiation. All particle radiation is ionizing, but only high frequency electromagnetic radiation (UV and above) is ionizing. Substances that spontaneously emit ionizing radiation are called _radioactive_. In this review we are only concerned with ionizing radiation, most of it from particles.
 
@@ -55,13 +55,13 @@ Beta particles were later found to be a new type of particle, an electron. JJ Th
 
 Rutherford, working through some strange experimental results from his colleagues, began to doubt Thomposon’s model. He set up another legendary experiment: position a source of alpha particles such that the radiation hits a piece of gold foil. If plum-pudding was correct, all the particles should be able to pass through the foil. However, Rutherford immediately noticed a few were deflected. The forces involved for such a deflection would have to be massive—and the only possible explanation was that most of the mass of the atom was concentrated in a small region of it: the nucleus.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/904a8b9d67ec4ba7.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/758235b36056595e.png)
 
 _Rutherford’s Gold Foil experiment_
 
 Rutherford proposed a new model of the atom consisting of a positively-charged nucleus surrounded by mostly empty space plus electrons. Danish physicist Nils Bohr elaborated on this by proposing that the electrons occupied particular stable orbits with different energy levels. These energy levels also explained those mysterious spectral lines: bombard an element with X-rays and you dislodge an inner electron. An outer electron falls in to replace it, emitting light of a certain frequency. Bohr produced a beautiful mathematical formula which exactly predicted the frequencies of the discrete spectral lines for individual elements.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/fc9284074b51ea52.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/3b9e73b5329f299c.png)
 
 _Bohr’s electron shells_
 
@@ -75,7 +75,7 @@ As is often the case in science, new experimental discoveries necessitated the d
 
 The **mass spectrometer**, developed by Francis Aston, allows separation of a substance by the atomic weight of its constituent parts. Charged particles in an electrical field experience a force along the direction of the field proportional to the charge, while moving charged particles in a magnetic field experience a force _perpendicular_ to the magnetic field and the direction of motion proportional to the velocity. Applying both a magnetic and electric field to a moving charged particle causes it to deflect in a curve, and the amount of deflection ends up being related to the mass / charge ratio:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2a977edcb386bf83.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/fa98bddcf9f4875d.png)
 
 Thus, Aston could now take an element, ionize it (to give it some non-zero charge) and deflect individual atoms of it in order to separate its different isotopes (which will have the same charge, but different mass). Using his mass spectrometer Aston was able to classify 212 of 297 naturally occurring isotopes.
 
@@ -83,13 +83,13 @@ The **cyclotron**, developed by Ernest Lawrence, allows acceleration of charged 
 
 Lawrence’s insight was that if he simply applied a magnetic field at the same time, the resulting deflection would cause the particles to spiral, allowing him to reuse the same electric field many many times. The additional distance a particle needed to travel as it spiraled outwards exactly compensated for its increase in speed as it was accelerated, which allowed it to always enter the electric field experiencing the highest possible voltage.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/b6e23dbd0b64c330.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/27a5d88713c78709.png)
 
 With an AC potential of just 1000V, Lawrence was able to accelerate protons to 80,000V.
 
 Finally the **Geiger Counter** solved a rather tricky problem—how do you count individual radioactive particles? Well, thread an electrically-charged wire through a chamber filled with gas, and allow a charged particle (like a positively charged alpha or a negatively charged beta) to enter the chamber. The particle will ionize the gas resulting in two new charged particles, a positive ion, which will be attracted to the cathode, and a free electron, which will be attracted to the anode. These particles will then bump into more gas molecules causing a chain reaction, specifically known as a Townsend avalanche. The resulting cascade briefly alters the electric current in the wire, which can be detected by a speaker as that classic audible click. In this way, Geiger and his colleagues could now precisely measure the radioactive activity of various substances by simply counting clicks.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d40e8b9537edcdfa.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/cb9f1ad0878f4868.png)
 
 ## Chain Reactions
 
@@ -123,7 +123,7 @@ In Germany Otto Hahn, Lise Meitner, and Fritz Strassmann, suspecting something w
 
 Previous radioactive transmutations managed to shift elements by one or two places on the table, but this was much larger. Meitner—who at this time had to flee Austria because of the ongoing purge of Jewish scientists—continued to ponder the question. Eventually she and her nephew, Otto Robert Frisch conclude that the uranium atom must be induced to divide into two parts: an isotope of Barium and an isotope of Krypton. They deemed this process **nuclear fission**:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1f3d49dd2582cf88.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/bafe37cf83695f49.png)
 
 The idea of fission sent shockwaves throughout the scientific community; transmuting an atom a couple of places right or left on the periodic table was one thing, but the wholesale breaking apart of an atom was quite another. It takes energy to bind all the neutrons and protons together in the nucleus of a uranium atom; when the atom is split into the comparatively smaller barium and krypton, much of that binding energy is no longer needed and is simply released. The possibility of harnessing this energy captured the attention of the smartest minds of this generation for the next decade.
 
@@ -169,7 +169,7 @@ More serendipitously, it was also discovered that the U-235 need not be as pure 
 
 Lastly there was the matter of the initiator. This required a source of neutrons: the standard solution was to expose beryllium-9 to polonium-210. Alpha particles from the latter would hit atoms of the former, releasing neutrons. A handful of neutrons (only about 10 are needed) then hit the plutonium 239 atoms in the surrounding shell. These cause the plutonium to fission, starting a chain reaction. Normally this chain reaction would cause the plutonium to explode outwards and fizzle out all too quickly, but a surrounding tamper of Uranium 238 which does not undergo fission by fast neutrons as easily holds the plutonium in place for longer allowing a much greater yield.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/bf90963fb5832675.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ee31ec6a2d3ec5ac.png)
 
 You know the rest of the story—the Trinity test, “I am become death, destroyer of worlds”, **Little Boy** dropped on Hiroshima, then **Fat Man** on Nagasaki. A few neutrons go a long way.
 

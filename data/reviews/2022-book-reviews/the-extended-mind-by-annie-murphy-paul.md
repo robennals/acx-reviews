@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.825Z'
 slug: the-extended-mind-by-annie-murphy-paul
-wordCount: 5243
+wordCount: 5202
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Psychology
@@ -27,33 +26,18 @@ A moment’s reflection reveals that there is much truth to this claim. As Paul 
 
 But if the mind is not a sort of machine, if it is more like a “magpie” as Paul claims, what exactly does that _mean_? How, in fact, does the mind work, and how can we apply this knowledge to our lives? These are the key questions _The Extended Mind_ sets out to answer.
 
-**Paul Builds Her Case**
+## Paul Builds Her Case
 
 _The Extended Mind_ is divided into thirds—one on _embodied_ cognition, one on _situated_ cognition, and one on _social_ cognition—each of which is itself divided into three subsections. Arguably, this neat threes-within-three structure imposes some artificial constraint on ideas that might otherwise bleed together or cleave apart. But the buckets generally do a good job of holding all the information, and are nothing if not clear.
 
 In the spirit of the book’s thesis, I was inspired to map out a kind of visual summary of all this—which I hope has been preserved in the submission process! (At this point, I don’t think a graphic organizer is hugely beneficial for my own understanding of _The Extended Mind_—but I hope it will serve to preserve its structure in the background as I bounce around between different chapters.)
 
-Extending the Mind through…
-
-Ch. 1: sensations →
-
-Ch. 2: movement →
-
-Ch. 3: gestures →
-
-Ch. 4: natural spaces →
-
-Ch. 5: built spaces →
-
-Ch. 6: “the space of ideas” →
-
-Ch. 7: experts →
-
-Ch. 8: peers →
-
-and Ch. 9: groups →
-
-…improves learning, retention, creativity, and work product.
+| Extending the Mind through… |
+| --- |
+| Ch. 1: sensations → |
+| Ch. 4: natural spaces → |
+| Ch. 7: experts → |
+| …improves learning, retention, creativity, and work product. |
 
 “The Extended Mind” is, in fact, a concept first proposed by philosopher Andy Clark, who coined the phrase in his [1998 paper](https://www.nyu.edu/gsas/dept/philo/courses/concepts/clark.html) by the same name, and is cited frequently throughout Paul’s work. (_Where does the mind stop and the rest of the world begin?_ is the central question that paper attempts to parse.) Somehow, I only realized about halfway through writing this that Andy Clark is _also_ the author of _Surfing Uncertainty_, [of SSC book review fame](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)—another fascinating take on the mind you should definitely check out if you’re unfamiliar.
 
@@ -63,44 +47,42 @@ Like any book laying out a grand theory, _The Extended Mind_ lives and dies by i
 
 _From “Thinking with Our Bodies”…_
 
-> *   In an experiment requiring subject to flip cards with different monetary rewards and penalties, people’s “skin conductance began to spike when they contemplated clicking on the bad decks” (two were stacked against them); even though it took people another forty or so turns to _express_ this knowledge consciously, participants [began gravitating more and more toward the favorable decks](https://www.mindfulvisionaries.com/uploads/1/1/3/0/113020403/siy_program_-_bechara_et_al._1997.pdf) (26).
-> *   Radiologists [improved from 85% to 99% diagnostic accuracy](https://pubmed.ncbi.nlm.nih.gov/18954813/) when walking on a treadmill (44).
-> *   [Doodling improved retention](http://pignottia.faculty.mjc.edu/math134/homework/doodlingCaseStudy.pdf) on a boring listening task by 29% (49).
-> *   In classic [Piagetian conservation tasks](https://www.youtube.com/watch?v=gnArvcWaH6I), children [display emerging understanding through gesture](https://d1wqtxts1xzle7.cloudfront.net/48258348/The_Mismatch_Between_Gesture_and_Speech_20160823-26126-1cf0ajv-with-cover-page-v2.pdf?Expires=1649167299&Signature=E-R2moSGNUOeGAMoYOeXZabdsK1fCBDcGEjroNoegCGdfCnm7nTbhBqADTBV0Wgo862Vr3mehE-MZJZK1hkiFPK5VJ57jrMtXboiTmqU47xVIkn1uvH7~~FVmKRR0Z2JSdUZAnLv9yROLzlId516LJ-2Es73VgpwCGzFiMm9~p4wqENHMfDPaXCmgrdPWV2QA-Xf4P~CT5V2MGsk6R47FNaKibF9Lh~I6X1sizFJnKH3c5mgpSm0iFSvnD7SS99L1rT~1esTktNGZY1S34544DIZk6xFDfS69ODs-Ko3sJQlCzzKVff9Na~Ylcq8o95-PdifxBMCp6VLtRwwWuqlPA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) some 40% of the time (75).
->
-> *   (Paul describes: “The girl is shown a tall, skinny glass full of water, the contents of which are then poured into a short, wide glass. Asked whether the amount of water remains the same, the girl answers no—but at the same time, her hands are making a cupping motion, indicating that she’s beginning to understand that the wider shape of the second glass accounts for…the same amount of water.”)
+*   In an experiment requiring subject to flip cards with different monetary rewards and penalties, people’s “skin conductance began to spike when they contemplated clicking on the bad decks” (two were stacked against them); even though it took people another forty or so turns to _express_ this knowledge consciously, participants [began gravitating more and more toward the favorable decks](https://www.mindfulvisionaries.com/uploads/1/1/3/0/113020403/siy_program_-_bechara_et_al._1997.pdf) (26).
+*   Radiologists [improved from 85% to 99% diagnostic accuracy](https://pubmed.ncbi.nlm.nih.gov/18954813/) when walking on a treadmill (44).
+*   [Doodling improved retention](http://pignottia.faculty.mjc.edu/math134/homework/doodlingCaseStudy.pdf) on a boring listening task by 29% (49).
+*   In classic [Piagetian conservation tasks](https://www.youtube.com/watch?v=gnArvcWaH6I), children [display emerging understanding through gesture](https://d1wqtxts1xzle7.cloudfront.net/48258348/The_Mismatch_Between_Gesture_and_Speech_20160823-26126-1cf0ajv-with-cover-page-v2.pdf?Expires=1649167299&Signature=E-R2moSGNUOeGAMoYOeXZabdsK1fCBDcGEjroNoegCGdfCnm7nTbhBqADTBV0Wgo862Vr3mehE-MZJZK1hkiFPK5VJ57jrMtXboiTmqU47xVIkn1uvH7~~FVmKRR0Z2JSdUZAnLv9yROLzlId516LJ-2Es73VgpwCGzFiMm9~p4wqENHMfDPaXCmgrdPWV2QA-Xf4P~CT5V2MGsk6R47FNaKibF9Lh~I6X1sizFJnKH3c5mgpSm0iFSvnD7SS99L1rT~1esTktNGZY1S34544DIZk6xFDfS69ODs-Ko3sJQlCzzKVff9Na~Ylcq8o95-PdifxBMCp6VLtRwwWuqlPA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) some 40% of the time (75).
+
+*   (Paul describes: “The girl is shown a tall, skinny glass full of water, the contents of which are then poured into a short, wide glass. Asked whether the amount of water remains the same, the girl answers no—but at the same time, her hands are making a cupping motion, indicating that she’s beginning to understand that the wider shape of the second glass accounts for…the same amount of water.”)
 
 _From “Thinking with Our Surroundings”…_
 
-> *   “[A twenty-minute walk in a park](https://vegetableproject.org/wp-content/uploads/2017/08/Faber-Taylor-2009-Children-with-attention.pdf) improved children’s concentration and impulse control as much as a dose of an ADHD drug like Ritalin” (96).
-> *   “[Medical] patients who occupied [rooms with a view of trees](https://pubmed.ncbi.nlm.nih.gov/6143402/) required fewer painkillers, experienced fewer complications, and had shorter hospital stays than patients whose rooms looked out on a brick wall” (102).
-> *   When negotiating in their own space, [hosts claimed 60-160% more value](https://www.researchgate.net/publication/227419124_Location_in_negotiation_Is_there_a_home_field_advantage) than visitors (126).
-> *   In one study, subjects [completed basic visualization tasks ten times as fast](https://www.sciencedirect.com/science/article/pii/S009784930700060X) using a super-sized computer display relative to a smaller screen (148); in another, [multiple monitors improved retention](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.1064.9537) by 56% relative to a single screen (149).
+*   “[A twenty-minute walk in a park](https://vegetableproject.org/wp-content/uploads/2017/08/Faber-Taylor-2009-Children-with-attention.pdf) improved children’s concentration and impulse control as much as a dose of an ADHD drug like Ritalin” (96).
+*   “[Medical] patients who occupied [rooms with a view of trees](https://pubmed.ncbi.nlm.nih.gov/6143402/) required fewer painkillers, experienced fewer complications, and had shorter hospital stays than patients whose rooms looked out on a brick wall” (102).
+*   When negotiating in their own space, [hosts claimed 60-160% more value](https://www.researchgate.net/publication/227419124_Location_in_negotiation_Is_there_a_home_field_advantage) than visitors (126).
+*   In one study, subjects [completed basic visualization tasks ten times as fast](https://www.sciencedirect.com/science/article/pii/S009784930700060X) using a super-sized computer display relative to a smaller screen (148); in another, [multiple monitors improved retention](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.1064.9537) by 56% relative to a single screen (149).
 
 _From “Thinking with Our Relationships”…_
 
-> *   In a computer science course, shifting from a lecture model to [a small-group tutoring model reduced the fail rate](https://www.cs.uni-potsdam.de/ti/kreitz/PDF/14sigcse-teaching-theory.pdf) from as high as 60% to 10% (164).
-> *   Trauma surgeons asked to explain how they perform an operation “[neglected to cite nearly 70 percent of the actions](http://anitacrawley.net/Resources/Articles/2008Cognitive%20task%20analysis.pdf) they performed during the procedure” (181)
->
-> *   (Interpretation: “Experts are able to articulate only about 30 percent of what they know.”)
->
-> *   Performance on the classic [Wason Selection Task](https://en.wikipedia.org/wiki/Wason_selection_task) improves from [10% to 75% when it requires](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf) _[social](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf)_ [reasoning](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf) vs. pure logical reasoning (193).
->
-> *   _Original task:_ “Take a look at the cards shown here. Each card has a vowel and a consonant on one side and an even or an odd number on the other. Which card or cards must be turned over in order to determine whether it is true that _If a card has a vowel on one side, it has an even number on the other?_” [Visible card faces = E; K; 3; 6]
-> *   _Social version:_ “You are serving at a bar and have to enforce the rule that if a person is drinking beer, they must be 21 years of age or older. The four cards shown here have information about people sitting at a table. One side of the card tells you what a person is drinking, and the other side tells you their age. Which card or cards must you turn over to see if the rule is being broken?” [card faces =  over 21; under 21; alcoholic beverage; nonalcoholic beverage]
->
-> *   For athletes and dancers, “[moving in unison increases endurance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817271/?mod=article_inline) and [reduces the perception of physical pain](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2015.0767)” (218).
+*   In a computer science course, shifting from a lecture model to [a small-group tutoring model reduced the fail rate](https://www.cs.uni-potsdam.de/ti/kreitz/PDF/14sigcse-teaching-theory.pdf) from as high as 60% to 10% (164).
+*   Trauma surgeons asked to explain how they perform an operation “[neglected to cite nearly 70 percent of the actions](http://anitacrawley.net/Resources/Articles/2008Cognitive%20task%20analysis.pdf) they performed during the procedure” (181)
+    *   (Interpretation: “Experts are able to articulate only about 30 percent of what they know.”)
+
+*   Performance on the classic [Wason Selection Task](https://en.wikipedia.org/wiki/Wason_selection_task) improves from [10% to 75% when it requires](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf) _[social](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf)_ [reasoning](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf) vs. pure logical reasoning (193).
+    *   _Original task:_ “Take a look at the cards shown here. Each card has a vowel and a consonant on one side and an even or an odd number on the other. Which card or cards must be turned over in order to determine whether it is true that _If a card has a vowel on one side, it has an even number on the other?_” [Visible card faces = E; K; 3; 6]
+    *   _Social version:_ “You are serving at a bar and have to enforce the rule that if a person is drinking beer, they must be 21 years of age or older. The four cards shown here have information about people sitting at a table. One side of the card tells you what a person is drinking, and the other side tells you their age. Which card or cards must you turn over to see if the rule is being broken?” [card faces =  over 21; under 21; alcoholic beverage; nonalcoholic beverage]
+
+*   For athletes and dancers, “[moving in unison increases endurance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817271/?mod=article_inline) and [reduces the perception of physical pain](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2015.0767)” (218).
 
 Along the way, Paul also racks up a bank of mind-extension vocabulary—a useful and intuitive language for discussing learning/knowledge work. Here, again, are some of my favorite examples, with the originator of the phrase indicated when relevant:
 
-> *   On the notion that our brains evolved for, and benefit from, movement of the body: “mind on the hoof” (47; Andy Clark)
-> *   On the use of gestures to bolster comprehension and help crystallize understanding: “mental hooks” (84) and “virtual diagrams” (76; Barbara Tversky)
-> *   On the kind of diffuse, restorative attention evoked by nature: “soft fascination” (97; William James) or “soft gazing” (97; a tai chi term)
-> *   On generic, nondescript buildings: “the cognitive deficiency of non-places” (137; Richard Coyne)
-> *   On creators discovering new ideas in things they’ve already made: “the backtalk of self-generated sketches” (155; Gabriela Goldschmidt)
-> *   On the mutual benefits of the tutor-tutee relationship: “cognitive apprenticeship” (164; Allan Collins) and “cascading mentorship” (198)
-> *   On the loss of ego associated with synchronous movement: “social eddy” (218; Kerry L. Marsh)
-> *   On the methods/processes involved in collaboration: “error pruning” (233), “shared artifacts” (233; Gary and Judith Olson), and “transactive memory” (236)
+*   On the notion that our brains evolved for, and benefit from, movement of the body: “mind on the hoof” (47; Andy Clark)
+*   On the use of gestures to bolster comprehension and help crystallize understanding: “mental hooks” (84) and “virtual diagrams” (76; Barbara Tversky)
+*   On the kind of diffuse, restorative attention evoked by nature: “soft fascination” (97; William James) or “soft gazing” (97; a tai chi term)
+*   On generic, nondescript buildings: “the cognitive deficiency of non-places” (137; Richard Coyne)
+*   On creators discovering new ideas in things they’ve already made: “the backtalk of self-generated sketches” (155; Gabriela Goldschmidt)
+*   On the mutual benefits of the tutor-tutee relationship: “cognitive apprenticeship” (164; Allan Collins) and “cascading mentorship” (198)
+*   On the loss of ego associated with synchronous movement: “social eddy” (218; Kerry L. Marsh)
+*   On the methods/processes involved in collaboration: “error pruning” (233), “shared artifacts” (233; Gary and Judith Olson), and “transactive memory” (236)
 
 Along these lines, I was impressed by how persuasive much of the book’s imaginative and anecdotal evidence—some of it, frankly, even more so than the empirical research. Paul introduces a number of exemplary mind-extenders, for example—people ranging from Daniel Kahneman to Jackson Pollock to Haruki Murakami—and describes how their seminal work was less “brain-bound” than we might imagine. For me, the most intriguing of these individual examples were a few first-hand descriptions of scientific discovery. Here’s how Paul recounts Einstein coming up with relativity, for example:
 
@@ -122,7 +104,7 @@ Three examples come to mind: First, consider the way people write down multiple 
 
 If these last three examples don’t convince you that the mind is, in a very tangible sense, extendable, I don’t know what will.
 
-**A Brief Rant About Framing**
+## A Brief Rant About Framing
 
 My only overarching critique of the book: As I was reading, I couldn’t help but think that mind _extension_ isn’t quite the right phrase to encompass the various phenomena Paul describes. It’s not as if we’re able to literally merge with some external neural network, after all, like how in (the movie) _Avatar_, the blue alien people are able to plug into their tree god or (I am so sorry…) do that [weird sex thing with their hair tentacles](https://www.youtube.com/watch?v=Uf9SWvs4beE).
 
@@ -186,7 +168,7 @@ I’m skeptical this could work. It’s not that I don’t believe bodily awaren
 
 Here, I think, we get to the crux of the issue with trying to explain why/how the extended mind works: The greater a role in cognition we grant to the environment, the more variables there are to contend with. This doesn’t mean that we shouldn’t _try_ to leverage mental extensions and understand how they work, of course; but it does mean that Paul’s model of the mind—while probably more accurate—is also inherently messier and harder to study systematically. And while I don’t necessarily fault her for being unable to provide a perfect account/application of every principle, I’m not any less interested in knowing the answer.
 
-**Looping Back**
+## Looping Back
 
 Let me attempt to recap, and bring together, these various strands by way of another great anecdote from the book, about the physicist Richard Feynman:
 
@@ -214,7 +196,7 @@ First, as I’ve been arguing throughout, I think this is just a fundamentally t
 
 Finally, if it’s not obvious, I _really_ felt the applicability of loops in the course of writing this review, and had a lot of fun employing many of Paul’s techniques: This is a text that invites speculation and repeatedly chewing on ideas—turning them over in your mind, examining them from multiple angles, seeing where they crop up in your own life in unexpected places. In this sense, the book is a profound success.
 
-**Overall Assessment**
+## Overall Assessment
 
 _The Extended Mind_ is an exceptionally clear, informative book whose thesis slightly overpromises in philosophical terms, but nevertheless offers a remarkable array of examples and empirical research; sometimes, the breadth of this evidence makes it difficult to know how to best apply it.
 

@@ -1,16 +1,16 @@
 ---
-title: "Human: Solving the Global Workforce Crisis in Healthcare"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Human: Solving the Global Workforce Crisis in Healthcare'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "human-solving-the-global-workforce-crisis-in-healthcare"
-wordCount: 8087
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: human-solving-the-global-workforce-crisis-in-healthcare
+wordCount: 8084
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Economics
   - Society
@@ -66,7 +66,7 @@ Up front, Britnell sets out some stark statistics on healthcare workforce supply
 
 Beyond a smattering of examples  and perhaps because it goes without saying, Britnell is surprisingly quiet on the impact of workforce shortages on patient outcomes. The manifestation of understaffed medical services varies across the globe: in Brazil, it results in huge disparities (he cites, for example, an infant mortality rate in the north of Brazil that is double that of the better staffed south); in India, non-medically trained traditional healers step in to fill some of the void. In the US, healthcare workforce supply is one of the [drivers of cost and is negatively impacting access](https://www.mckinsey.com/industries/healthcare/our-insights/assessing-the-lingering-impact-of-covid-19-on-the-nursing-workforce) to services. 97% of senior leaders in the UK cited workforce shortages as having “serious and detrimental impact on services”.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/6ca768820b5584d2.png)![](https://docs.google.com/drawings/d/sRxHjJBKTCEzHTcTKbvpQHw/image?parent=1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU&rev=1&drawingRevisionAccessToken=bPxJHMzYKcHcPA&h=1&w=642&ac=1)
+![](https://acximages.ennals.org/images/2023-book-reviews/97c778493b2b3553.png)![](https://docs.google.com/drawings/d/sRxHjJBKTCEzHTcTKbvpQHw/image?parent=1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU&rev=1&drawingRevisionAccessToken=bPxJHMzYKcHcPA&h=1&w=642&ac=1)
 
 Britnell also reflects on why scarcity matters as a driver of _further scarcity_ i.e. vicious cycle. As staff leave the profession and roles are left unfilled, the burden placed on staff that remain grows. In the UK, vacancies are routinely filled with long-term temporary staff - in some cases, the very staff who have left permanent employment in favour of better paying temporary positions. Administrative tasks (running the team, managing the rota, responding to complaints) fall to permanent staff and, as vacancies and temporary staff increase, the burden of this unsatisfying and bureaucratic work is increasingly placed on those who remain, increasing the likelihood they too will choose to leave.
 
@@ -84,7 +84,7 @@ Ultimately though, healthcare is still based on a traditional ward or appointmen
 
 Attempts to redesign the workforce, to increase the productivity of clinical staff through (e.g. new roles that can bridge professions, having less expensive staff take on more tasks, or expanding the staff empowered with particular rights, such as prescribing) have been hampered by unions and professional bodies. Unions representing doctors-in-training, for example, have suggested that Physicians Assistants[[32]](#ftnt32) have taken on work that would have formed part of a doctors training (e.g. conducting routine echocardiograms). This is understandable but short-sighted: Professional bodies – such as Royal Colleges or medical societies – and unions exist to protect the interests of their members. Many of these reforms are about intended to increase outputs and lower costs, which often makes for less desirable work. Some of the reforms involve shifting tasks to cheaper or less qualified staff and reform is sometimes resisted on the grounds of worsening care or patient safety (though these are often unfounded and rarely weighed against a counter-factual of workforce shortages!). Substantial workforce reform to grow productivity will require taking on the vested interests of existing professions – handing privileges and status from a group of professionals to a wider workforce. It will also require, however, clinical leadership – the public will never trust workforce reform that has not come with the backing of doctors and nurses.  
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8b7c26006b4dded7.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/2b779fdef7c61bf3.png)
 
 _Figure 4_ Each of the forces of scarcity feed of each other
 
@@ -132,7 +132,7 @@ Over time, this knowledge was refined and honed – the scientific method allowe
 
 In the 21st century, healthcare has the potential to transform fully to a _knowledge_ business. It should be about connecting a patient with the knowledge about what ails them and what can be done about it. Pre-internet and digital connectivity, knowledge was stored and passed on in either physical books or the memories of people. It made sense to have a professional as the vessel for storing and imparting knowledge (and, importantly, identifying the correct knowledge and how to deploy it!). Doctors, through learning and experience, sifted huge reams of knowledge to identify a diagnosis and recommend a treatment. Lay persons would not have known where to start, trying to access the information in books, or by themselves.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1be113821cd0be1e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/1e2cab8c8208e17d.png)
 
 _Figure 5_ A post-professional model would see roles delivering individual tasks, supported by AI and technology
 
@@ -146,9 +146,9 @@ In medical specialties, too, a doctor will typically deliver a wide-range of cli
 
 AI and technology will be critical to this uncoupling of clinical knowledge and clinical professionals. Even without undertaking the notoriously difficult task of forecasting when we might have 'strong' AI that is as generally intelligent as a top clinician, there are obvious roles for 'weak' AI trained for specific circumscribed tasks and decoupling clinical knowledge and clinical professionals. The possible functions it might support include:
 
-> *   _Supported clinical decision making_: The pool of medical academic literature is growing at a rate far higher than can be followed by a single person. Having AI sift, appraise and curate developments in medical science will help clinicians make decisions backed by the latest evidence (e.g. is this patient on the right list of medications for their condition, genetics and demography? A complex task for a human but a rapid calculation for a trained bot). Beyond decision making support for clinicians, AI will also be able to support _patients_ to make decisions about their health, something which has not been possible until now. This should help patients make intelligent decisions about diagnosis and treatment, without needing to ask a physician.
-> *   _Automated diagnosis_: As AI becomes better trained at engaging in dialogue with humans, a chatbot should easily be able to extract a clinical history and cross-reference that with literature and context, to reach a differential diagnosis, recommend investigations and initiate a treatment protocol.
-> *   _Communication, coordination and sign-posting_: Chatbots will also be able to support patients in navigating complex healthcare systems. One of the most valuable functions of clinicians presently, is pointing patients to the next place they can find help (be that a formal referral to a specialist or a set of trusted resources online). It should also be easy for AI to provide the administrative functions that take up a great deal of clinical and non-clinical time (“when is my appointment?”, “can I eat grapefruit with this?”, “what are the results of my recent scan?”).
+*   _Supported clinical decision making_: The pool of medical academic literature is growing at a rate far higher than can be followed by a single person. Having AI sift, appraise and curate developments in medical science will help clinicians make decisions backed by the latest evidence (e.g. is this patient on the right list of medications for their condition, genetics and demography? A complex task for a human but a rapid calculation for a trained bot). Beyond decision making support for clinicians, AI will also be able to support _patients_ to make decisions about their health, something which has not been possible until now. This should help patients make intelligent decisions about diagnosis and treatment, without needing to ask a physician.
+*   _Automated diagnosis_: As AI becomes better trained at engaging in dialogue with humans, a chatbot should easily be able to extract a clinical history and cross-reference that with literature and context, to reach a differential diagnosis, recommend investigations and initiate a treatment protocol.
+*   _Communication, coordination and sign-posting_: Chatbots will also be able to support patients in navigating complex healthcare systems. One of the most valuable functions of clinicians presently, is pointing patients to the next place they can find help (be that a formal referral to a specialist or a set of trusted resources online). It should also be easy for AI to provide the administrative functions that take up a great deal of clinical and non-clinical time (“when is my appointment?”, “can I eat grapefruit with this?”, “what are the results of my recent scan?”).
 
 Humans will always be a part of healthcare – almost certainly for the duration of the 21st century, at least. Some interventions are physical tasks, which robotics are some-way from being able to deliver autonomously without any human supervision. Some tasks are too personal to be delivered without a human touch, such as delivering a difficult piece of news or eliciting the true concern behind a patient’s story. Some patients suffer digital illiteracy or exclusion and will need to be supported through the system. Some matters of judgement are so delicate that people are unlikely to entrust them to anyone but another human – whether we should give treatment a last-ditch attempt or make a loved one comfortable, for example. Expert clinicians will likely have a place (particularly in the early period) in training and directing AI, as well as helping navigate and lead ethical conversations about priorities. They will also be invaluable in building public support and trust in automated solutions. And for at least the next twenty years, Artificial Intelligence is unlikely to be able to wholly replace the experience and judgement of healthcare professional – weighing up a host factors, including social context, the individuality of a patient, ambiguous evidence, etc.
 

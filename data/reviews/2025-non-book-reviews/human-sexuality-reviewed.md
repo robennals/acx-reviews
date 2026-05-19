@@ -1,5 +1,5 @@
 ---
-title: 'Human Sexuality, reviewed.'
+title: Human Sexuality, reviewed.
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.903Z'
 slug: human-sexuality-reviewed
-wordCount: 6689
+wordCount: 6702
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Biology
@@ -67,7 +66,7 @@ These twin systems use much of the same psychological machinery and produce simi
 
 The prestige system evolved as humans became more dependent on cultural knowledge, skill acquisition, and complex cooperation. As tool use made pure dominance strategies more dangerous (it's hard to be the alpha when weaker members can kill you in your sleep), humans increasingly relied on prestige. But we never lost the older dominance circuits—we just layered the new system on top.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/4fb22b725e4585e6.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6a54a452dd013ed5.png)
 
 So, we're left with a leaderboard in our head, keeping track of something called "status" for us and those around us. Status can be earned through dominance or through prestige, but is usually stored in memory and action as a single variable; social software is easier if you just have to keep track of one thing.
 
@@ -89,9 +88,9 @@ Notably, Greg acts both dominant and prestigious, fluidly switching between thre
 
 That's a lot of info, but for the purposes of this essay, the important points are:
 
-> 1.  Status is earned through two different mechanisms: prestige and dominance
-> 2.  Status is stored as a single variable, which our subconscious mind tracks in people around us
-> 3.  Status is hooked into the reward mechanisms of the human brain
+1.  Status is earned through two different mechanisms: prestige and dominance
+2.  Status is stored as a single variable, which our subconscious mind tracks in people around us
+3.  Status is hooked into the reward mechanisms of the human brain
 
 ## The Status Theory of Sexual Attraction
 
@@ -121,17 +120,15 @@ As with HSH, low status hotness has different versions, based on dominance and p
 
 So, to summarize, there are two main types of sexiness the human brain can experience. These are tied into the status system, and each have their own two main subcategories:
 
-> 1.  High Status Hotness (HSH)
->
-> *   Dominance-based HSH: Controlling, commanding, potentially causing pain/discomfort
-> *   Prestige-based HSH: Skilled, making partner feel incredible pleasure, being admired
->
-> 2.  Low Status Hotness (LSH)
->
-> *   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
-> *   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
+1.  High Status Hotness (HSH)
+    *   Dominance-based HSH: Controlling, commanding, potentially causing pain/discomfort
+    *   Prestige-based HSH: Skilled, making partner feel incredible pleasure, being admired
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e2b0bf8f500ff49b.png)
+2.  Low Status Hotness (LSH)
+    *   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
+    *   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/097e4c974f330c78.png)
 
 Is this turning into a magic system-esque typology? Slightly, but I think this framework does the best job of explaining the complexity of human sexuality. High and low status are real and ancient, and the dominance and prestige model does the best job of explaining what the components of status are. Combine them together, and this is what you get.
 
@@ -141,47 +138,14 @@ The almost complete lack of good scientific information about what people are ac
 
 Justin Lehmiller published the raw numbers from his two-year, 4,175-respondent fantasy survey in his book [Tell Me What You Want](https://www.amazon.com/Tell-Me-What-You-Want/dp/0738234958/). Here's a sample of the findings:
 
-Fantasy theme
-
-% who've fantasized ever
-
-% who fantasize often
-
-Threesome
-
-89%
-
-26%
-
-Orgy/sex party
-
-74%
-
-14%
-
-Inflicting pain
-
-60%
-
-17%
-
-Receiving pain
-
-65%
-
-19%
-
-Public/"people might see"
-
-57%
-
-16%
-
-Cuckolding/hot-wife
-
-52% men, 36% women
-
-9% men, 4% women
+| Fantasy theme | % who've fantasized ever | % who fantasize often |
+| --- | --- | --- |
+| Threesome | 89% | 26% |
+| Orgy/sex party | 74% | 14% |
+| Inflicting pain | 60% | 17% |
+| Receiving pain | 65% | 19% |
+| Public/"people might see" | 57% | 16% |
+| Cuckolding/hot-wife | 52% men, 36% women | 9% men, 4% women |
 
 Lehmiller's book groups the 369 prompts into seven clusters; the top three alone—multi-partner, power/control/rough, novelty/adventure—soak up over two-thirds of every "often" tick-mark. The remaining four (taboo, partner-sharing, passion/romance, erotic flexibility) are basically themed remixes of those top three.
 
@@ -193,10 +157,10 @@ Another surprising finding is that while there are gender differences in the pre
 
 What these numbers tell us is that:
 
-> 1.  Status-related sexual fantasies (dominance, submission, exhibitionism) are extremely common
-> 2.  Both HSH and LSH are present in both genders, with statistical tilts but not binary splits
-> 3.  Many people enjoy both high and low status fantasies, suggesting the neural circuitry for both exists in most people
-> 4.  The most popular fantasies across genders can be classified using our status framework
+1.  Status-related sexual fantasies (dominance, submission, exhibitionism) are extremely common
+2.  Both HSH and LSH are present in both genders, with statistical tilts but not binary splits
+3.  Many people enjoy both high and low status fantasies, suggesting the neural circuitry for both exists in most people
+4.  The most popular fantasies across genders can be classified using our status framework
 
 Now, let's examine how this framework explains specific fantasies and behaviors:
 
@@ -338,21 +302,21 @@ of nuance.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/4dd1471b6785267f.png)
 
-_Anything can be sorted into two buckets_
+> _Anything can be sorted into two buckets_
 
 At the same time, I do think our brain does that fundamental simplification, that sorting into high and low status  because it makes social decisions and judgments quicker and easier. Having a leaderboard in your head for those around you and yourself, which tracks who is ahead and who is behind, simplifies a lot of decision making.
 
 Ultimately, I think this framework is still valuable if it:
 
-> 1.  Provides a unified explanation for seemingly unrelated phenomena
-> 2.  Makes successful predictions
-> 3.  Offers more explanatory power than alternatives
+1.  Provides a unified explanation for seemingly unrelated phenomena
+2.  Makes successful predictions
+3.  Offers more explanatory power than alternatives
 
 And this theory does make testable predictions:
 
-> 1.   People with more testosterone should be more likely to exhibit high status sexual preference.
-> 2.  Basically all fetishes should have some status component, including common roleplay scenarios;
-> 3.  Porn that caters to one gender should be more focused on one kind of sexuality than the other, i.e. porn consumed by woman should prominently feature extremely high status suitors (and I do notice that written erotica for women does feature a suspicious amount of billionaires…)
+1.   People with more testosterone should be more likely to exhibit high status sexual preference.
+2.  Basically all fetishes should have some status component, including common roleplay scenarios;
+3.  Porn that caters to one gender should be more focused on one kind of sexuality than the other, i.e. porn consumed by woman should prominently feature extremely high status suitors (and I do notice that written erotica for women does feature a suspicious amount of billionaires…)
 
 ### Objection #2: "This Reduces Sex and Love to Status Games"
 
@@ -362,9 +326,8 @@ The status framework might seem to paint an unromantic picture of human sexualit
 
 But, just because something is uncomfortable, doesn’t mean it’s not true. We don’t particularly like thinking about status, and we don’t like thinking about sexuality; combining them feels uncomfortable. But,
 
-_“If the box contains a diamond,_
-
-_I desire to believe that the box contains a diamond;_
+> _“If the box contains a diamond,_  
+> _I desire to believe that the box contains a diamond;_
 
 What is true is already so. And I think having a framework, having explanations, is more comforting than people might think. I’ve talked to friends that had dark, violent sexual fantasies, and were ashamed of them, felt bad about them, and from what I’ve seen on the internet, they’re far from alone in this. I’ve explained some of this framework to those friends, that this is widespread, that our sexual instincts are focused on status, and that it’s ok to be turned on by these fantasies, that it’s human, not evidence of your brain being broken; they found that message helpful.
 
@@ -376,9 +339,9 @@ The status-sexuality framework doesn't explain everything about human sexuality.
 
 If I had to formalize this theory, I'd propose something like this:
 
-> 1.  Humans evolved dual status systems (dominance and prestige) for navigating social hierarchies
-> 2.  Sexual selection pressures linked status and sexual arousal in complex feedback loops
-> 3.  Rather than creating separate systems for males and females, evolution gave everyone similar neural circuitry but with different default settings
+1.  Humans evolved dual status systems (dominance and prestige) for navigating social hierarchies
+2.  Sexual selection pressures linked status and sexual arousal in complex feedback loops
+3.  Rather than creating separate systems for males and females, evolution gave everyone similar neural circuitry but with different default settings
 
 This isn't a complete theory of human sexuality, but it's a substantial improvement over the standard model of "people want genital stimulation with attractive partners." It explains weird edge cases not as anomalies but as predictable variations within a coherent framework.
 
@@ -392,9 +355,7 @@ Likewise, a status based theory of sexuality is a framework that replaces increa
 
 It's elegant. It's predictive. And most importantly, it helps make sense of human behavior in all its weird, wonderful complexity.
 
-**Why does this matter?**    
-  
-To some degree, as mentioned before, this is insight porn; great for understanding things, or feeling like you understand things, but potentially less useful in day-to-day life. Status is a powerful framework, but also, if you try to handle regular social interactions through it, I think you’ll mostly just be incredibly awkward and weird. Pick the right frame for the context you’re in.
+**Why does this matter?**  To some degree, as mentioned before, this is insight porn; great for understanding things, or feeling like you understand things, but potentially less useful in day-to-day life. Status is a powerful framework, but also, if you try to handle regular social interactions through it, I think you’ll mostly just be incredibly awkward and weird. Pick the right frame for the context you’re in.
 
 But, I do think there is some value in understanding the links between status and sexuality. In my life, it’s made me a better lover. I flailed around when I first started sleeping with people, trying out different things. Some things got better reactions, and so, I started doing those things more, but I had no idea why people liked it when I moved them around, told them what to do, lightly choked them, etc. I could vaguely speculate, “I guess being dominant is attractive?” but that was about the limit of the framework I had at the time. I knew BDSM was a thing, and realized that I was acting as a Dom, but I’m a pretty prototypical Scott Alexander reader; I needed a framework, a scaffold to understand what the essence of being a Dom was, not just a list of traits.
 

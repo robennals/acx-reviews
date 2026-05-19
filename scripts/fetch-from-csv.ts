@@ -19,6 +19,12 @@ import path from 'path';
 import { slugify, countWords, calculateReadingTime } from '../lib/utils';
 import { processImages } from './lib/process-gdoc-images';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
+import { stringifyMarkdown } from './lib/frontmatter';
+import {
+  loadExceptions,
+  findH2Override,
+  applyH2Overrides,
+} from './lib/gdoc-exceptions';
 
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
 
@@ -157,6 +163,71 @@ function sanitizeTitle(raw: string): string {
 }
 
 /**
+ * Per-slug content exceptions. Loaded lazily on first lookup.
+ * Schema (in data/review-exceptions.json):
+ *   { "<slug>": {
+ *       "truncateAtLineContaining": "<substring>",  // drop from match to end
+ *       "dropBlock": { "from": "<substring>", "to": "<substring>" },
+ *     },
+ *     ... }
+ * Substrings are matched case-insensitively against the plain text of each
+ * line (markdown formatting stripped). dropBlock removes everything from
+ * the first line containing `from` through the first line containing `to`
+ * (both inclusive). Used for things like skipping a duplicate
+ * table-of-contents block at the start of a doc.
+ */
+interface ReviewException {
+  truncateAtLineContaining?: string;
+  dropBlock?: { from: string; to: string };
+}
+let reviewExceptionsCache: Record<string, ReviewException> | null = null;
+function loadReviewExceptions(): Record<string, ReviewException> {
+  if (reviewExceptionsCache) return reviewExceptionsCache;
+  const filePath = path.join(REVIEWS_DIR, '..', 'review-exceptions.json');
+  if (!fs.existsSync(filePath)) {
+    reviewExceptionsCache = {};
+    return reviewExceptionsCache;
+  }
+  reviewExceptionsCache = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  return reviewExceptionsCache!;
+}
+const stripFormattingForMatch = (line: string) =>
+  line.replace(/[*_`#>[\]()]/g, '').toLowerCase();
+
+function applyContentException(markdown: string, slug: string): string {
+  const exceptions = loadReviewExceptions();
+  const ex = exceptions[slug];
+  if (!ex) return markdown;
+  let lines = markdown.split('\n');
+  if (ex.dropBlock) {
+    const fromNeedle = ex.dropBlock.from.toLowerCase();
+    const toNeedle = ex.dropBlock.to.toLowerCase();
+    let fromIdx = -1, toIdx = -1;
+    for (let i = 0; i < lines.length; i++) {
+      const stripped = stripFormattingForMatch(lines[i]);
+      if (fromIdx < 0 && stripped.includes(fromNeedle)) {
+        fromIdx = i;
+      } else if (fromIdx >= 0 && stripped.includes(toNeedle)) {
+        toIdx = i;
+        break;
+      }
+    }
+    if (fromIdx >= 0 && toIdx >= 0) {
+      lines = [...lines.slice(0, fromIdx), ...lines.slice(toIdx + 1)];
+    }
+  }
+  if (ex.truncateAtLineContaining) {
+    const needle = ex.truncateAtLineContaining.toLowerCase();
+    for (let i = 0; i < lines.length; i++) {
+      if (stripFormattingForMatch(lines[i]).includes(needle)) {
+        return lines.slice(0, i).join('\n').trimEnd() + '\n';
+      }
+    }
+  }
+  return lines.join('\n');
+}
+
+/**
  * Strip the leading title (and related citation/byline lines) from markdown
  * content when they duplicate the CSV title.
  *
@@ -263,6 +334,7 @@ async function createMarkdownFile(
     content: string;
     originalUrl: string;
     publishedDate: string;
+    existingTags?: string[];
   },
   applyMode: boolean,
   anonymousMode: boolean = false,
@@ -273,8 +345,23 @@ async function createMarkdownFile(
   // Strip leading title line if it duplicates the CSV title
   const contentWithoutTitle = stripLeadingTitle(data.content, data.title);
 
+  // Apply per-slug content exceptions (e.g. truncating an author's note
+  // section that's marked "not for publication"). Loaded from
+  // data/review-exceptions.json — keyed by slug.
+  let truncatedContent = applyContentException(contentWithoutTitle, slug);
+
+  // Apply per-file H2 overrides — for docs where the generic bold-to-H2
+  // promoter picks the wrong lines (e.g. what-is-real treats numbered
+  // sections AND some rhetorical asides as section headings). Listed in
+  // data/gdoc-exceptions.json under perFileH2Overrides.
+  const exceptions = loadExceptions();
+  const h2Override = findH2Override(exceptions, slug);
+  if (h2Override) {
+    truncatedContent = applyH2Overrides(truncatedContent, h2Override.h2Lines);
+  }
+
   // Upload images and rewrite markdown
-  const imageResult = await processImages(contentWithoutTitle, contestId);
+  const imageResult = await processImages(truncatedContent, contestId);
   const processedContent = imageResult.markdown;
 
   const wordCount = countWords(processedContent);
@@ -286,27 +373,38 @@ async function createMarkdownFile(
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
 
-  const yamlEscape = (s: string) => s.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
-
+  // Frontmatter as a plain object — stringifyMarkdown emits YAML in the
+  // same default style (unquoted / single-quoted) used by apply-tags and
+  // fetch-from-gdocs, so re-serializations don't churn the quote style.
+  const fm: Record<string, unknown> = {
+    title: data.title,
+    author: 'Unknown',
+    reviewAuthor: data.reviewAuthor,
+    contestId,
+    contestName,
+    year,
+    publishedDate: data.publishedDate,
+    slug,
+    wordCount,
+    readingTimeMinutes: readingTime,
+    source: 'gdoc',
+  };
   // In anonymous mode, omit the original Google Doc URL since it could
   // reveal the author via sharing settings or document owner info.
-  const originalUrlLine = anonymousMode ? '' : `\noriginalUrl: "${data.originalUrl}"`;
+  if (!anonymousMode) fm.originalUrl = data.originalUrl;
+  // Preserve any previously-assigned tags. Tags are manual annotations
+  // so they shouldn't disappear when a re-import pulls fresh content.
+  if (data.existingTags && data.existingTags.length > 0) {
+    fm.tags = data.existingTags;
+  }
 
-  const frontmatter = `---
-title: "${yamlEscape(data.title)}"
-author: "Unknown"
-reviewAuthor: "${yamlEscape(data.reviewAuthor)}"
-contestId: "${contestId}"
-contestName: "${contestName}"
-year: ${year}
-publishedDate: "${data.publishedDate}"
-slug: "${slug}"
-wordCount: ${wordCount}
-readingTimeMinutes: ${readingTime}${originalUrlLine}
-source: "gdoc"
----
-
-${processedContent}`;
+  // Prepend a newline to the content so gray-matter emits a blank line
+  // between the closing `---` of the frontmatter and the first body
+  // paragraph. Without this, the output is `---\n${body}` (no blank
+  // line), which is valid CommonMark but inconsistent with how older
+  // ingested files were laid out and produces noisy whitespace-only
+  // diffs on every re-import.
+  const frontmatter = stringifyMarkdown('\n' + processedContent, fm);
 
   if (applyMode) {
     if (!fs.existsSync(contestDir)) {
@@ -362,10 +460,34 @@ async function main() {
   const rows = parseCsv(csvPath);
   console.log(`Found ${rows.length} valid submissions\n`);
 
-  const processedSlugs = new Set<string>();
+  // Read existing reviews so we can (a) overwrite in place when a row's
+  // publishedDate matches one we've already imported (authors can edit
+  // their docs after submission, and we want re-runs to reflect those
+  // edits), and (b) clean up stale duplicate files written for a
+  // duplicate row by an older buggy version of the script.
+  const contestDir = path.join(REVIEWS_DIR, contestId);
+  const fileForDate = new Map<string, string>();
+  if (fs.existsSync(contestDir)) {
+    for (const f of fs.readdirSync(contestDir)) {
+      if (!f.endsWith('.md')) continue;
+      const content = fs.readFileSync(path.join(contestDir, f), 'utf8');
+      const m = content.match(/^publishedDate: ['"]?([^'"\n]+)['"]?$/m);
+      if (m) fileForDate.set(m[1], f);
+    }
+    if (fileForDate.size > 0) {
+      console.log(`Found ${fileForDate.size} existing reviews on disk\n`);
+    }
+  }
+  const processedSlugs = new Set<string>(
+    fs.existsSync(contestDir)
+      ? fs.readdirSync(contestDir).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, ''))
+      : []
+  );
+
   let totalCreated = 0;
   let totalFailed = 0;
   let totalImages = 0;
+  const seenDocIds = new Set<string>();
 
   for (const row of rows) {
     const docId = extractDocId(row.docUrl);
@@ -375,9 +497,35 @@ async function main() {
       continue;
     }
 
+    // A submitter can submit the same doc twice (e.g. they think the first
+    // submission didn't go through). Each row gets a distinct publishedDate
+    // from its form-submission timestamp, so date-based skip won't catch it.
+    // Skip duplicate docIds within this run.
+    if (seenDocIds.has(docId)) {
+      console.log(`  ⏭️  Duplicate submission of doc ${docId} — skipping`);
+      // Self-heal: an older version of the script (before docId-dedup)
+      // would have imported this duplicate row as a -N suffix file. If a
+      // file with this row's publishedDate is sitting on disk, it was
+      // written by the buggy old script for this exact row — delete it.
+      const stalePublishedDate = parseTimestamp(row.timestamp);
+      const stale = fileForDate.get(stalePublishedDate);
+      if (stale && applyMode) {
+        const stalePath = path.join(contestDir, stale);
+        fs.unlinkSync(stalePath);
+        fileForDate.delete(stalePublishedDate);
+        console.log(`  🧹 Removed stale duplicate from a prior run: ${stale}`);
+      }
+      continue;
+    }
+    seenDocIds.add(docId);
+
     const docUrl = `https://docs.google.com/document/d/${docId}`;
+    const publishedDate = parseTimestamp(row.timestamp);
     console.log(`\n📄 "${row.title}" by ${row.name}`);
 
+    // Always re-fetch the doc. Authors can edit their submission after
+    // the form goes through, so a re-run of this script needs to pick up
+    // the latest content rather than skipping by publishedDate.
     try {
       const html = await fetchGDocAsHTML(docId);
       const markdown = convertGDocToMarkdown(html);
@@ -389,8 +537,17 @@ async function main() {
         console.log(`  ⚠️  Empty slug for "${title}", using fallback: ${slug}`);
       }
 
-      // Deduplicate slugs within this run
-      if (processedSlugs.has(slug)) {
+      // If a file on disk was written for THIS row in a previous run
+      // (matched by publishedDate), reuse its filename so we overwrite
+      // in place — the slug computed from the current CSV title might
+      // differ if the title changed, but it's still the same submission
+      // and we want to update, not create a duplicate.
+      const existingForDate = fileForDate.get(publishedDate);
+      if (existingForDate) {
+        slug = existingForDate.replace(/\.md$/, '');
+      } else if (processedSlugs.has(slug)) {
+        // First-time import with a slug collision against a *different*
+        // submission of the same book — append -N suffix.
         let counter = 2;
         while (processedSlugs.has(`${slug}-${counter}`)) counter++;
         slug = `${slug}-${counter}`;
@@ -398,12 +555,31 @@ async function main() {
       }
       processedSlugs.add(slug);
 
+      // Preserve manually-assigned tags across re-imports. Tags are
+      // applied by scripts/apply-tags.ts from data/review-tags.json
+      // after each ingestion run, but it's safer to keep them in-place
+      // here too so the file is never tagless between fetch-csv and
+      // apply-tags.
+      const filePath = path.join(contestDir, `${slug}.md`);
+      let existingTags: string[] | undefined;
+      if (fs.existsSync(filePath)) {
+        const oldContent = fs.readFileSync(filePath, 'utf8');
+        const tagsMatch = oldContent.match(/^tags:\n((?: {2}- [^\n]+\n)+)/m);
+        if (tagsMatch) {
+          existingTags = tagsMatch[1]
+            .split('\n')
+            .filter(Boolean)
+            .map(l => l.replace(/^ {2}- /, ''));
+        }
+      }
+
       const result = await createMarkdownFile(contestId, slug, {
         title,
         reviewAuthor: anonymousMode ? 'Anonymous' : row.name,
         content: markdown,
         originalUrl: docUrl,
-        publishedDate: parseTimestamp(row.timestamp),
+        publishedDate,
+        existingTags,
       }, applyMode, anonymousMode);
 
       if (result.wrote) totalCreated++;

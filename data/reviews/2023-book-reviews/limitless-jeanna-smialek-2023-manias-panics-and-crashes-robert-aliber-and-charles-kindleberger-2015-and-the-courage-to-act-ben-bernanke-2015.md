@@ -1,16 +1,16 @@
 ---
-title: "Limitless, Jeanna Smialek, 2023; Manias, Panics and Crashes, Robert Aliber and Charles Kindleberger, 2015; and The Courage to Act, Ben Bernanke, 2015."
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Limitless, Jeanna Smialek, 2023; Manias, Panics and Crashes, Robert Aliber and Charles Kindleberger, 2015; and The Courage to Act, Ben Bernanke, 2015.
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "limitless-jeanna-smialek-2023-manias-panics-and-crashes-robert-aliber-and-charles-kindleberger-2015-and-the-courage-to-act-ben-bernanke-2015"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: limitless-jeanna-smialek-2023-manias-panics-and-crashes-robert-aliber-and-charles-kindleberger-2015-and-the-courage-to-act-ben-bernanke-2015
 wordCount: 2011
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Economics
   - Society

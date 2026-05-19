@@ -1,20 +1,15 @@
 ---
-title: >-
-  Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons
-  Manufacturers, and Foreign Governments Shape American Foreign Policy by
-  Richard Hanania
+title: 'Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy by Richard Hanania'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.487Z'
-slug: >-
-  public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania
-wordCount: 7085
+slug: public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania
+wordCount: 7048
 readingTimeMinutes: 32
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Politics
@@ -63,14 +58,14 @@ What _doesn’t_ have comparable influence is business interests as argued by IR
 
 The mechanism of influence is outbidding all other competitors in the marketplace of ideas, by
 
-> 1.  donating to the most influential think tanks in Washington (the United Arab Emirates to CSIS; Qatar to Brookings Institution);
-> 2.  funding movements, as in the case of neoconservative who pushed for Saddam’s overthrow, the movement was spearheaded by PNAC (created by Lockhead Martin) lobbyists who would go on to become Bush administration officials like Rumsfeld, Wolfowitz, Cheney and Weber;
-> 3.  bureaucratising public opinion management (the supposedly independent and neutral RAND Corporation gets 80% of its funding from the federal government);
-> 4.  boxing in the president’s major foreign policy decision via military generals’ press manipulation (MacArthur commenting on escalating engagement in the Korean War before he was fired by Truman; top generals in the Obama administration publicly discussing troop commitment needed to win in Afghanistan)
-> 5.  shaping foreign policy reporting from propagandistic journalists in the close-knit ‘foreign policy community’ (former Assistant Secretary of State Victoria Nuland is literally the wife of neocon author Robert Kagan)
-> 6.  ‘revolving doors’ for all three concentrated interest to actively collaborate (80% of retired three- and four-star generals between 2004 and 2008 went on to work as consultants or executives in the defence industry; ‘rent-a-general’ like the Four Star Group in which generals leverage their Pentagon contacts to consult in equity investing)
+1.  donating to the most influential think tanks in Washington (the United Arab Emirates to CSIS; Qatar to Brookings Institution);
+2.  funding movements, as in the case of neoconservative who pushed for Saddam’s overthrow, the movement was spearheaded by PNAC (created by Lockhead Martin) lobbyists who would go on to become Bush administration officials like Rumsfeld, Wolfowitz, Cheney and Weber;
+3.  bureaucratising public opinion management (the supposedly independent and neutral RAND Corporation gets 80% of its funding from the federal government);
+4.  boxing in the president’s major foreign policy decision via military generals’ press manipulation (MacArthur commenting on escalating engagement in the Korean War before he was fired by Truman; top generals in the Obama administration publicly discussing troop commitment needed to win in Afghanistan)
+5.  shaping foreign policy reporting from propagandistic journalists in the close-knit ‘foreign policy community’ (former Assistant Secretary of State Victoria Nuland is literally the wife of neocon author Robert Kagan)
+6.  ‘revolving doors’ for all three concentrated interest to actively collaborate (80% of retired three- and four-star generals between 2004 and 2008 went on to work as consultants or executives in the defence industry; ‘rent-a-general’ like the Four Star Group in which generals leverage their Pentagon contacts to consult in equity investing)
 
-![](https://acximages.ennals.org/images/2022-book-reviews/b1f32d13562c2aa8.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/5b113b1f9631ff2a.png)
 
 _You know the book is dry when this is one of the only two graphics._
 
@@ -84,19 +79,19 @@ _In the satire, the terrorists have WMDs courtesy of Kim Jung Un; in real life, 
 
 International law allows the use of force either in self-defence or with the approval of the United Nations Security Council (UNSC). The “legal” American military interventions include:
 
-> *   **The Korean War** (1950-1953): UNSC declared a “breach of the peace” when North Korea crossed the 38th parallel
-> *   **The Vietnam War** (1954-1975): from the initial American involvement in fighting off communist insurgency in the South as requested by the sovereign state of the Republic of Vietnam, to the later ceding of governing responsibilities to South Vietnam with the signing of the Paris Peace Agreement in 1975 (notwithstanding the violation of proportionality in the Vietnam War, and the violation of international law in extending conflict to the sovereign nations of Cambodia and Laos)
-> *   **The First Gulf War** (1990-1991): UNSC authorised the US and 34 other countries to bomb Saddam Hussein’s Iraqi invation out of Kuwait at the Gulf Monarchy’s request
-> *   **The War in Afghanistan** (2001-2021): a series of UN Resolutions justified, out of self-defence, the US invasion of Afghanistan, overthrow of the Taliban government, and targeting of al-Qaeda, in spite of the failure of nation building when the Taliban returned to Kabul in the midst of the final American withdrawal
+*   **The Korean War** (1950-1953): UNSC declared a “breach of the peace” when North Korea crossed the 38th parallel
+*   **The Vietnam War** (1954-1975): from the initial American involvement in fighting off communist insurgency in the South as requested by the sovereign state of the Republic of Vietnam, to the later ceding of governing responsibilities to South Vietnam with the signing of the Paris Peace Agreement in 1975 (notwithstanding the violation of proportionality in the Vietnam War, and the violation of international law in extending conflict to the sovereign nations of Cambodia and Laos)
+*   **The First Gulf War** (1990-1991): UNSC authorised the US and 34 other countries to bomb Saddam Hussein’s Iraqi invation out of Kuwait at the Gulf Monarchy’s request
+*   **The War in Afghanistan** (2001-2021): a series of UN Resolutions justified, out of self-defence, the US invasion of Afghanistan, overthrow of the Taliban government, and targeting of al-Qaeda, in spite of the failure of nation building when the Taliban returned to Kabul in the midst of the final American withdrawal
 
 Similarly, the Soviet Union did not violate the sovereignty of states when it invaded Afghanistan at the invitation of its government in 1979, and similarly in Syria in 2015. When Russia violated international law, most notably Georgia in 2014 and the annexation of Crimea in 2014, the goal was occupation rather than removing their governments, killing their leaders, or fundamentally remaking their societies (the book was published before the 2022 invasion of Ukraine).
 
 The US is truly singular in violating international law:
 
-> *   **Grenada Intervention** (1983): Reagan ordered an invasion, not out of self-defence nor with UNSC approval (in fact voted against by UN general assembly 108 to 9), of the small island off the coast of Venezuela where its communist military junta came into power
-> *   **Yugoslavia Humanitarian Intervention** (1995, 1999): UNSC sanctioned NATO’s intervention against ethnic Serbs’ massacre of ethnic Bosnians in Srebrenica and Sarajevo in 1995, but not the so-called “illegal but legitimate” 1999 bombing of Kosovo to stop the Serbs’ ethnic cleansing of Bosnians as NATO would have been vetoed by Russia and China.
-> *   **The War in Iraq** (2003-2011): China, Russia, France, and Germany all opposed the invasion of Iraq and overthrow of the Saddam regime that was sold as a ‘preemptive war’, turns out there were no WMD and the supposed connection between Saddam Hussein and al-Qaeda was nonexistent.
-> *   **The bombing of Librya** (2011): a newly passed UNSC resolution allowed NATO to enforce a no-fly zone against al-Gadhaffi’s government “to protect civilians”, but did not sanction the no-fly zone intended for regime change, nor the subsequent airstrike that led to the capture and killling of al-Gadhaffi by rebels
+*   **Grenada Intervention** (1983): Reagan ordered an invasion, not out of self-defence nor with UNSC approval (in fact voted against by UN general assembly 108 to 9), of the small island off the coast of Venezuela where its communist military junta came into power
+*   **Yugoslavia Humanitarian Intervention** (1995, 1999): UNSC sanctioned NATO’s intervention against ethnic Serbs’ massacre of ethnic Bosnians in Srebrenica and Sarajevo in 1995, but not the so-called “illegal but legitimate” 1999 bombing of Kosovo to stop the Serbs’ ethnic cleansing of Bosnians as NATO would have been vetoed by Russia and China.
+*   **The War in Iraq** (2003-2011): China, Russia, France, and Germany all opposed the invasion of Iraq and overthrow of the Saddam regime that was sold as a ‘preemptive war’, turns out there were no WMD and the supposed connection between Saddam Hussein and al-Qaeda was nonexistent.
+*   **The bombing of Librya** (2011): a newly passed UNSC resolution allowed NATO to enforce a no-fly zone against al-Gadhaffi’s government “to protect civilians”, but did not sanction the no-fly zone intended for regime change, nor the subsequent airstrike that led to the capture and killling of al-Gadhaffi by rebels
 
 Indeed, the idea of some wars being “illegal” seems odd enough, but the fact that no country on earth violates the most fundamental tenets of international norms so flagrantly and often as the United States means that IR theorists cannot insist on the grand strategy of maintaining “rules based international order”.
 
@@ -108,7 +103,7 @@ _It’s surprising how the longest-running meme of American invasion for oil is 
 
 An additional evidence against American grand strategy is the pattern of troop deployments abroad:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1b51cc87a45b6f4b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e6ff0eebfc0a9a87.png)
 
 _Practically unchanged throughout 1951, 1986, and 2019._
 
@@ -124,10 +119,10 @@ The three main concentrated interests do not oppose sanctions (the only exceptio
 
 In theory, sanctions work by:
 
-> 1.  Hurting the economy
-> 2.  People get fed up
-> 3.  Blame the regime for their problems
-> 4.  Get rid of the regime
+1.  Hurting the economy
+2.  People get fed up
+3.  Blame the regime for their problems
+4.  Get rid of the regime
 
 The theory falls apart because citizens still need to overcome the collective action problem; regime elites, almost by definition, benefit from the current regime; regimes prioritise paying for security forces over domestic population; and rival powers come to the rescue.
 
@@ -143,9 +138,9 @@ Once again, Hanania shows that there is no American grand strategy — sanctions
 
 After 9/11, the United States has invaded the al-Qaeda sanctuary of Afghanistan, but also the completely irrelevant Iraq. In the view of grand strategy, war is a means to accomplish national security objectives; in the view of public choice, national security objectives is a means to accomplish war (or at least a large military budget). The post hoc rationalisation of the war on terror rests on three incoherent ideologies:
 
-> 1.  Antiterrorism: disproportional militarised response to terrorist attacks
-> 2.  The Freedom Agenda: America must spread democracy abroad
-> 3.  Counterinsurgency (COIN)
+1.  Antiterrorism: disproportional militarised response to terrorist attacks
+2.  The Freedom Agenda: America must spread democracy abroad
+3.  Counterinsurgency (COIN)
 
 In the case of Afghanistan, the Bush administration was so eager to go to war it avoided any other options. No evidence has ever emerged that Taliban (the political faction that ruled Afghanistan at the time) itself knew about the 9/11 attacks, much less planned it; the Afghan ambassador to Pakistan condemned the attacks on 9/12. “We don’t negotiate with terrorists” became the standard American line — before the war began, Taliban was willing to discuss bin Laden’s fate but the White House Chief of Staff refused; after the war began, Taliban was willing to hand over bin Laden to a third country for trial but White House refused just the same.
 
@@ -177,24 +172,24 @@ Cost-benefit analysis also fails outside the major wars: NATO, despite the colla
 
 While an utter failure in humanitarian and economic terms, American foreign policy has a been a resounding “success” from the public choice perspective:
 
-> 1.  Lockheed Martin received $36 billion in government contracts in 2008 alone (more than any company in history)
-> 2.  The Pentagon has a budget of $700 billion for fiscal year 2019 (higher than it was at the end of the cold war even after adjusting for inflation); the vast majority of high-ranking generals have become rich as consultants or weapons industry executives upon retirement
-> 3.  Eastern European countries that joined NATO are protected by the threat of American nuclear war; Israel and Middle Eastern Gulf monarchies see an Iran impeded by American sanctions
+1.  Lockheed Martin received $36 billion in government contracts in 2008 alone (more than any company in history)
+2.  The Pentagon has a budget of $700 billion for fiscal year 2019 (higher than it was at the end of the cold war even after adjusting for inflation); the vast majority of high-ranking generals have become rich as consultants or weapons industry executives upon retirement
+3.  Eastern European countries that joined NATO are protected by the threat of American nuclear war; Israel and Middle Eastern Gulf monarchies see an Iran impeded by American sanctions
 
 Hanania ends with some ideas for legal reforms:
 
-> 1.  Limited, if not lifetime, ban of retired military and national security personnel from taking jobs with Pentagon-contracted companies
-> 2.  Requiring think tanks to disclose their funding sources like 501(c)(3) non-profits
-> 3.  Closing the loophole for scholarly work (e.g. authoring books) in the Foreign Agents Registration Act (FARA) that requires individuals lobbying for foreign states to report their propaganda to the federal government  
-> 4.  Making lobbying illegal for all states including allies (e.g. Saudi Arabia), not just enemies (e.g. Iran), except recognised democracies
-> 5.  Reinforcing the Supreme Court ruling in _New York Times Co. v. United States_ by prosecuting any individual who publicise classified material, including top military officials and journalists who routinely leak classified material but are never prosecuted (unlike whistleblowers like Edward Snowden)
+1.  Limited, if not lifetime, ban of retired military and national security personnel from taking jobs with Pentagon-contracted companies
+2.  Requiring think tanks to disclose their funding sources like 501(c)(3) non-profits
+3.  Closing the loophole for scholarly work (e.g. authoring books) in the Foreign Agents Registration Act (FARA) that requires individuals lobbying for foreign states to report their propaganda to the federal government  
+4.  Making lobbying illegal for all states including allies (e.g. Saudi Arabia), not just enemies (e.g. Iran), except recognised democracies
+5.  Reinforcing the Supreme Court ruling in _New York Times Co. v. United States_ by prosecuting any individual who publicise classified material, including top military officials and journalists who routinely leak classified material but are never prosecuted (unlike whistleblowers like Edward Snowden)
 
 And finally some ideas for norm changes:
 
-> 1.  The press should include current weapons industry employment when reporting ex-government officials
-> 2.  The press should include funding information when reporting think tank scholars’ work, and clarify that the organisation cited refused to provide said information should it be unavailable
-> 3.  The press should include political motivations when reporting American leaders’ foreign policy decisions (as they do for Kim and Putin)
-> 4.  The press should include Tetlock’s superforecasting/prediction markets when reporting the forecasts by the military and national security bureaucracy at public interviews, official reports, and congressional testimony
+1.  The press should include current weapons industry employment when reporting ex-government officials
+2.  The press should include funding information when reporting think tank scholars’ work, and clarify that the organisation cited refused to provide said information should it be unavailable
+3.  The press should include political motivations when reporting American leaders’ foreign policy decisions (as they do for Kim and Putin)
+4.  The press should include Tetlock’s superforecasting/prediction markets when reporting the forecasts by the military and national security bureaucracy at public interviews, official reports, and congressional testimony
 
 ## 7\. Conclusion And Further Readings
 
@@ -246,7 +241,7 @@ Besides Hanania’s recommendations in the last section (which he admits are mor
 
 Nuclear security is one of the top priorities in Effective Altruism, per [80,000 Hours](https://80000hours.org/problem-profiles/nuclear-security/), [Future of Life Institute](https://futureoflife.org/background/the-risk-of-nuclear-weapons/), and [Our World In Data](https://ourworldindata.org/nuclear-weapons-riskhttps://ourworldindata.org/nuclear-weapons-risk). Toby Orb, who wrote the definitive book on existential risk, _[The Precipice](https://www.goodreads.com/en/book/show/50485582-the-precipice)_, estimates x-risk from nuclear war to be [~1 in 1000](https://slatestarcodex.com/2020/04/01/book-review-the-precipice/) in the next century. Luisa Rodriguez [estimates](https://forum.effectivealtruism.org/posts/PAYa6on5gJKwAywrF/how-likely-is-a-nuclear-exchange-between-the-us-and-russia-1) a 1.1% chance of nuclear war each year and that the chances of a US-Russia nuclear war may be in the ballpark of 0.38% per year; [summarised](https://twitter.com/MaxCRoser/status/1498945370935767040) by Max Roser as:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/8c597e9d3e9abca3.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fcc80e2cc40fa870.png)
 
 Nuclear risk is neglected by the public because of [Pax Americana](https://en.wikipedia.org/wiki/Pax_Americana#:~:text=Pax%20Americana%20(Latin%20for%20%22American,United%20States%20became%20the%20world's) since the collapse of the USSR, and is not discussed as often in EA as it’s thought to be relatively well-funded and mainstream, but in fact major donors like the [MacArthur Foundation](https://www.politico.com/news/2021/07/19/washington-arms-controllers-nuclear-weapons-500126) have been withdrawing funding. As Joan Rohling [details](https://80000hours.org/podcast/episodes/joan-rohlfing-avoiding-catastrophic-nuclear-blunders/) in an 80,000 Hours podcast there is much to be done, especially when Ukraine [gave up](https://en.wikipedia.org/wiki/Budapest_Memorandum_on_Security_Assurances) their nuclear arsenal in 1994 in exchange for Russia’s promise to never threaten or use military force against them.
 
@@ -262,9 +257,9 @@ _Public Choice Theory and the Illusion of Grand Strategy_ is an important work b
 
 ## Endnotes
 
-> 1.  In the fiscal year 2018, the top five government contractors were all weapons manufacturers, with Lockheed Martin in first place at $40.6 billion. The Department of Defence spent $358 billion on contracting, ten times higher than second place Department of Energy. Collective action problems that stop a bunch of smaller companies from effectively influencing policy are no hindrance for companies like Lockheed Martin.
-> 2.  It is a universal feature of the American government that substantial federal agencies do not shrink — even Ronald Reagan, the president most opposed to an expansive federal government since Coolidge, failed to see any reduction in spending.
-> 3.  Foreign governments can be direct beneficiaries of American foreign policy as the US defends and overthrows countries, and provides material and economic aid; indirectly the US controls American weapons sales, aid, and diplomatic support for states to head off domestic rivals. Dictatorships, in particular, act more like unitary actors as their existential question relies on their ruling territories, not elections.
-> 4.  Pax Americana had been so strong that even American ice-cream companies have foriegn policy priorities — [Ben & Jerry's thinks NATO should chill a little over Ukraine](https://qz.com/2123753/ben-jerrys-thinks-nato-should-chill-a-little-over-ukraine/).
+1.  In the fiscal year 2018, the top five government contractors were all weapons manufacturers, with Lockheed Martin in first place at $40.6 billion. The Department of Defence spent $358 billion on contracting, ten times higher than second place Department of Energy. Collective action problems that stop a bunch of smaller companies from effectively influencing policy are no hindrance for companies like Lockheed Martin.
+2.  It is a universal feature of the American government that substantial federal agencies do not shrink — even Ronald Reagan, the president most opposed to an expansive federal government since Coolidge, failed to see any reduction in spending.
+3.  Foreign governments can be direct beneficiaries of American foreign policy as the US defends and overthrows countries, and provides material and economic aid; indirectly the US controls American weapons sales, aid, and diplomatic support for states to head off domestic rivals. Dictatorships, in particular, act more like unitary actors as their existential question relies on their ruling territories, not elections.
+4.  Pax Americana had been so strong that even American ice-cream companies have foriegn policy priorities — [Ben & Jerry's thinks NATO should chill a little over Ukraine](https://qz.com/2123753/ben-jerrys-thinks-nato-should-chill-a-little-over-ukraine/).
 
 * * *

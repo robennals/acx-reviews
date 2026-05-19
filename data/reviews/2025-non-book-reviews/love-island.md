@@ -7,16 +7,15 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2025-01-01T00:00:00.000Z'
 slug: love-island
-wordCount: 2407
+wordCount: 2416
 readingTimeMinutes: 11
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Society
 ---
 
-**I.**
+## I.
 
 I never thought I'd write a review of a reality TV show. I'm admittedly the snob who silently judges those who’d rather spend their days watching TV instead of diving into Dostoevsky. Luckily, I married someone normal, which means I've gotten exposure to more "current" entertainment. Most of the time, this consists of the culture defining mega-shows like _Severance_ and _White Lotus_. But sometimes, it involves _Love Island_. For some reason, I found _Love Island_ more compelling for a review than the thought-provoking social critique about severing one's consciousness. Go figure. After all, the wisest man in Athens once said that the unexamined reality show was not worth watching. It turns out I happen to agree.
 
@@ -36,27 +35,27 @@ The entertainment value of the show revolves around the tension of whether coupl
 
 The chart below illustrates this idea. The X-axis represents the stakes - or the degree to which breaking up feels meaningful, translating to higher entertainment value for the viewer. Since the stakes of a breakup are higher for a month-old couple than for a day-old couple, this axis doubles as a proxy for time. The Y-axis, on the other hand, represents the risk that a given couple will break up. In other words, it tracks the likelihood that something will go wrong. This is the primary lever for the producers to manufacture drama.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/fa1f2d02d0b914a8.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5e1bd3160636dff0.png)
 
-**Quadrant 1 - A lot happening but it doesn't matter**
+## Quadrant 1 - A lot happening but it doesn't matter
 
 The top left quadrant is the show's introductory phase, meant to familiarize us with the contestants and the contestants with each other. You'd think this would be entertaining, but you'd be wrong. A lot is happening, the islanders are sizing each other up, relationships are forming and dissolving in minutes, etc. However, the entertainment value is low because the stakes are low. It doesn't feel meaningful because there hasn't been enough time for committed relationships to form or for the viewer to get to know the contestants.
 
-**Quadrant 2 - Nothing happens**
+## Quadrant 2 - Nothing happens
 
 _Love Island_ differs from other dating shows, like _The Bachelorette_, in that the ending is the least interesting part. I don't think I have ever actually finished a _Love Island_ season; it's just not why you watch. The boredom arises from the opposite problem as Quadrant 1: now the stakes are high, but it doesn't matter because the risk of a breakup has fallen to near zero, and the show loses its raison d'etre.
 
-**Quadrant 3 - The purest form of entertainment right into your veins**
+## Quadrant 3 - The purest form of entertainment right into your veins
 
 The climax of the show comes with two separate events that happen in quick succession - Casa Amor and Movie Night. Both are interesting for their own reasons, but they share real risks for the couples and enough time has passed for it to feel meaningful.
 
-**Casa Amor**
+## Casa Amor
 
 This is undoubtedly the peak of the show, and it happens about 60% of the way through. At a certain point, all contestants of a specific gender, let's say the men, get sent to a _different_ villa, with an equivalent number of new women. At the same time the original group of women contestants get an equivalent number of new men staying with them at the villa. The contestants stay in their newly assigned villa for 3 days in complete isolation before converging back to a single villa. The "original" contestants get to decide if they want to "bring back" one of the new contestants. I cannot overstate the intensity of the drama this produces. The "new" contestants are hell-bent on getting selected to come back, and the original contestants must decide if they are going to betray their existing couple for someone new. The process by which these decisions are revealed to the viewer is carefully manicured reality TV gold.
 
 If you want to get a sense of what a Casa Amor reveal looks like, [this clip](https://youtu.be/jvTSNZMFubs?t=56) shows a contestant bringing back someone from Casa Amor, despite being in a strong couple beforehand (sorry for the quality).
 
-**Movie Night**
+## Movie Night
 
 If you assumed that “whatever happens in Casa Amor, stays in Casa Amor”, you’d be mistaken. Anything scandalous that wasn’t brought up naturally gets revealed during Movie Night.
 
@@ -70,7 +69,7 @@ The underlying importance of Movie Night, and hence why it comes after Casa, is 
 
 [Here is a clip](https://www.youtube.com/watch?v=3a5F24SU5go) from movie night where the women learn that the men were more promiscuous at the other villa than they let on.
 
-**II.**
+## II.
 
 There is an interesting dynamic related to authenticity that is pervasive throughout the show. The explicitly stated goal of contestants is to find love, but everyone knows that’s not the real reason. It shouldn’t be a surprise that love-based reality shows have a [very poor track record](https://flourish.studio/blog/love-island-data-analysis/) of helping people find love. Considering the contestants know this, we assume their primary motivation is to become a famous influencer. This _also_ shouldn't be a surprise, nor is it very interesting by itself. What _is_ interesting is that the ultimate faux pas for a contestant is to reveal that they are just there for clout. Letting their true motivations slip is usually a death knell - the public turns on them (which matters for voting), and the contestants also turn on them (probably because they know the public will).
 
@@ -80,13 +79,13 @@ The obvious answer is to get the watching public to like you, to become a "fan f
 
 If intentionally changing your personality is too hard, then the only other option is quantity, which means maximizing one's days on the show. It doesn't matter how boring you are, the more time you can be in front of the audience, the more Instagram followers you will get. Believe it or not, someone actually has a graph for this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/34675b64f17efabd.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e0871dcbd876fd80.png)
 
 The astute reader may question the causality - it may not be the quantity that leads to fame, but instead those with influencer "qualities" tend to last a long time. This may be partially true, especially for the real talents, but overall it doesn’t change the strategy: it is very hard to become famous from _Love Island_ if you quickly get kicked off _Love Island_.
 
 To stay on the show, the contestants need to _actually_ play the game: find a couple, convince the other contestants and the public that it's authentic, and don't get dumped. This is the hilarious paradox of the authenticity of the contestants. Their implicit motivation is fame, but to achieve this they must maximize their time on the show, which means trying to fall in love. Therefore, it's reasonable to assume that most contestants are acting authentically!
 
-**III.**
+## III.
 
 Usually once per episode I find my mind has drifted off attempting to figure out what weird human quirk makes this enjoyable to watch. Specifically the parts where a happy couple is imploding before my eyes. I don't think it's schadenfreude. I don't feel joy or pleasure when watching the misfortune of contestants, but I _am_ highly entertained. Why?
 
@@ -108,6 +107,6 @@ Much like how sex is incentivized by feeling good, [gossiping releases significa
 
 I think this is as good a theory as any for why we like reality shows, especially dating shows. They recreate a small band of humans and use artificial rules to maximize the amount of gossip. You also have no risk of the gossip turning on you - it's only upside!
 
-**IV.**
+## IV.
 
 When first trying to come up with a way to close this essay, I came to the realization that my essay was turning into a _Love Island_ episode - a drawn out ending where nothing substantial happens. Therefore, I hope you can appreciate me saving you the time and abruptly ending here. I’ll leave those interested with the suggestion to check out _Love Island: UK_, season 5.

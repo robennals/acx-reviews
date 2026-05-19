@@ -1,16 +1,16 @@
 ---
-title: "Transcendence: How Humans Evolved through Fire, Language, Beauty, and Time by Gaia Vince (2020)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Transcendence: How Humans Evolved through Fire, Language, Beauty, and Time by Gaia Vince (2020)'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "transcendence-how-humans-evolved-through-fire-language-beauty-and-time-by-gaia-vince-2020"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: transcendence-how-humans-evolved-through-fire-language-beauty-and-time-by-gaia-vince-2020
 wordCount: 478
 readingTimeMinutes: 3
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Biology
   - Science

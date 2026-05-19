@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: adolescence-2025-tv-mini-series
 wordCount: 8911
 readingTimeMinutes: 40
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -25,7 +24,7 @@ I don’t really approve of negative reviews. It’s not that I don’t dislike 
 
 The problem with negative reviews is that they aren’t very informative. Like a cat, there is lots of fluff – and like with the cat, when it gets wet, you realize that there is barely anything inside of all that fur. A negative review is mostly a very long-winded way of saying _I don’t like thing_. Well, thanks for sharing, I guess, I hear it’s therapeutic to open up about your feelings. But it’s not exactly what you would want from a review. If you have a pair of chopsticks, it’s a lot more useful to know that they’re great for bite-sized chunks of food, and even work for eating potato chips without getting your hands greasy, than it is to hear all about how they’re no use for soup or for steak or for fighting off a home invader. The process of elimination isn’t a super effective recommendation algorithm..
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/aece58784da17094.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6b89caf3123e66a0.jpg)
 
 Image credit: [https://wealldraw.tumblr.com/post/41441002018/do-you-ever-just](https://wealldraw.tumblr.com/post/41441002018/do-you-ever-just)
 
@@ -57,7 +56,7 @@ To give a very quick impression of the reception, a columnist from The Guardian 
 
 However, Adolescence can also be fairly described as shallow and deeply flawed. I will briefly summarize the series, including my own “ratings”, episode by episode. It should be a decent refresher if you have already seen the show. And if you haven’t and aren’t allergic to spoilers, you will at least get some vague impressions of what it’s all about. I will not, however, pretend that every part of the review will make perfect sense without the full context of the TV show..
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/f8558805c7f92364.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8ab4228b98b2b456.png)
 
 Image credit: Screenshot from imdb.com
 
@@ -245,7 +244,7 @@ It is indeed about a boy in his early teens and his struggle with some fairly no
 
 _Adolescence_, the TV show, is about adolescence in about the same sense as Fight Club is about fighting or Harry Potter is about magic. Actually, the entire show is much more about _parenthood_, and it would have made for a much better story if it had accepted and embraced that. If only the name wasn’t already taken.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/3ba828566b869417.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c8a30c6a8a9455ae.jpg)
 
 Image credit: DVD cover for 4th season of Parenthood.
 

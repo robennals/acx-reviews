@@ -1,16 +1,16 @@
 ---
-title: "So Good They Can't Ignore You by Cal Newport"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: So Good They Can't Ignore You by Cal Newport
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "so-good-they-cant-ignore-you-by-cal-newport"
-wordCount: 4591
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: so-good-they-cant-ignore-you-by-cal-newport
+wordCount: 4587
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Philosophy
   - Psychology
@@ -49,8 +49,8 @@ Come on! Of _course_ Steve Martin wasn't going to become an accountant, he was b
 
 Newport's second counter-argument is "more fundamental" (his words), namely: "I don't really care why performers adopt the craftsman mindset." (p. 41) Uh, I think you _should_ care! Many of your claims depend on your ability to disarm this argument! Now rather than trying to actually defend his position, Newport attempts this judo flip:
 
-> 1.  It's unclear why some top performers choose to adopt the craftsman mindset.
-> 2.  Regardless, adopting the craftsman mindset has instrumental value—it will help you get your dream job—so you should do it anyway.
+1.  It's unclear why some top performers choose to adopt the craftsman mindset.
+2.  Regardless, adopting the craftsman mindset has instrumental value—it will help you get your dream job—so you should do it anyway.
 
 But this simply assumes the conclusion—in Newport's own words on the previous page, the crux of the argument from pre-existing passion is that "the craftsman mindset is only viable for those who already feel passionate about their work." The whole point of the argument from pre-existing passion is that it might not be possible for everyone to simply adopt the craftsman mindset for any given domain. That's what Newport needed to disprove here, but he again fails to do so: maybe it really is the case that Steve Martin levels of practice are only possible if you feel Steve Martin levels of passion!
 
@@ -180,5 +180,5 @@ What I don't understand is how Newport is perfectly willing to just leave it at 
 
 13For you, the particularly dedicated reader, let me prove that I actually read this thing by offering a couple of typos in this (unlinked) endnote.
 
-> 1.  On page 82, elite chess players are "pouring" over books, which tends not to be good for the books' longevity;
-> 2.  On page 222, we learn of Esther Duflo, "who won a MacArthur 'Genius Grant' for her work evaluating _ant-poverty_ programs" (emphasis mine). Now, I fact-checked this one—her research focus seems to be _anti_-poverty programs, but this being an EA-friendly space, it was worth confirming. If only FTX was still around—there _are_ a lot of ants, after all…
+1.  On page 82, elite chess players are "pouring" over books, which tends not to be good for the books' longevity;
+2.  On page 222, we learn of Esther Duflo, "who won a MacArthur 'Genius Grant' for her work evaluating _ant-poverty_ programs" (emphasis mine). Now, I fact-checked this one—her research focus seems to be _anti_-poverty programs, but this being an EA-friendly space, it was worth confirming. If only FTX was still around—there _are_ a lot of ants, after all…

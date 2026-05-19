@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.024Z'
 slug: broken-harbor-by-tana-french
-wordCount: 3073
+wordCount: 3066
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Fiction
@@ -44,15 +43,15 @@ Patrick is losing it, and all Jennifer can do is watch. Her son, who is young en
 
 At this point, after having thoroughly spoiled the story for you, let me beg for forgiveness. Spoiling a mystery book is a most uncouth act, but in this case, it is slightly less bad than it seems because:
 
-> 1.  I have avoided talking about at least one major plot point that will still surprise you.
-> 2.  The book is fun to read even if you know the ending. I re-read it in preparation for writing this review, and even though I remembered almost everything, I still walked around with my nose in the book the entire weekend.
-> 3.  This is not the best of French’s books. The most widely acclaimed is _The Faithful Place_, while my personal favorite is _The Trespasser_. If this book sounds good to you, there are several excellent books you can still dig into.
+1.  I have avoided talking about at least one major plot point that will still surprise you.
+2.  The book is fun to read even if you know the ending. I re-read it in preparation for writing this review, and even though I remembered almost everything, I still walked around with my nose in the book the entire weekend.
+3.  This is not the best of French’s books. The most widely acclaimed is _The Faithful Place_, while my personal favorite is _The Trespasser_. If this book sounds good to you, there are several excellent books you can still dig into.
 
 ## Gone Girl, come back
 
 _Gone Girl_ (2012) was the biggest thing to happen to suspense books in the last decade. Gone Girl was so big that it was released as a David Fincher (director of _Fight Club_) and Ben Affleck (actor in Dunkin Donuts commercial) blockbuster movie a mere two years after publication. Gone Girl was so big that its author hasn’t written another novel since. Gone Girl was so big that it is now a [cruise theme](https://www.youtube.com/watch?v=A7NBW13ANI8). Gone Girl was so big that there is now a whole genre of books that sound like it:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8fd9110252283612.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/49b13ab3f9b32ae8.jpg)
 
 _The original is in the top-left. I’m ashamed to admit I’ve read all of these._
 
@@ -72,14 +71,14 @@ Over and over again, good people’s orderly lives fall apart due to sheer bad l
 
 Pop quiz time: where are these cafes located?
 
-![](https://acximages.ennals.org/images/2023-book-reviews/e2b654bcad78ebcf.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/80ccefb4268bcc49.jpg)
 
 Answers, clockwise from top-left:
 
-> *   Chai Café, Harare, Zimbabwe
-> *   Two or More Cafe, Karachi, Pakistan
-> *   Rose Café, Barquisimeto, Venezuela
-> *   The Thirty-Six, Medan, Indonesia
+*   Chai Café, Harare, Zimbabwe
+*   Two or More Cafe, Karachi, Pakistan
+*   Rose Café, Barquisimeto, Venezuela
+*   The Thirty-Six, Medan, Indonesia
 
 But if you answered that they are located in America, you are not wrong. They are not physically in America, but they are American in every other way that counts. You could walk into any of these cafes and have the barista draw you adorable latte art. You could walk up to any of the customers and ask them what they thought of the latest season of _Game of Thrones_. I didn’t even try that hard to find these examples! It took me fifteen minutes on Google Maps to find all four pictures.
 

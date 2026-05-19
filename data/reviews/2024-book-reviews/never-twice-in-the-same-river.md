@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.710Z'
 slug: never-twice-in-the-same-river
-wordCount: 5233
+wordCount: 5220
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Politics
@@ -21,7 +20,7 @@ Höcke and the AfD
 
 [Björn Höcke](https://de.wikipedia.org/wiki/Bj%C3%B6rn_H%C3%B6cke) is the [fascist](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsurteil-zu-eisenach-a-1289131.html), [nazi](https://taz.de/Verfahren-wegen-Beleidigung-eingestellt/!5968418/) [de facto leader](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-der-wahre-chef-der-afd-a-60b3ae03-8db5-43f8-b2e8-9a00c7b5471f) of the [anti-democratic](https://www.cicero.de/innenpolitik/afd-bjoern-hoecke-alexander-gauland-demokratie), [far-right extremist party](https://www.tagesschau.de/inland/afd-bericht-gutachten-verfassungsschutz-100.html) “AfD” (Alternative für Deutschland/Alternative for Germany) in Germany. At least if you believe media representatives, politicians of other parties, the domestic intelligence service, and courts around the country. This should be rather concerning given that the AfD has steadily become stronger since its inception and is currently standing at slightly below 20% in national polls, which makes it the second strongest party.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3d7594d8a509fc5d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/589b1ff59d72fca3.png)
 
 Source: INSA
 
@@ -29,7 +28,7 @@ In some east German states, notably Thuringia, the state for which Höcke aims t
 
 However, media reporting on Höcke and the AfD may not be entirely even-handed and objective. A recent [study](https://www.researchgate.net/publication/377721606_Fehlt_da_was_Perspektivenvielfalt_in_den_offentlich-rechtlichen_Nachrichtenformaten) analyzed the content of both private and public news formats concerning the treatment of different parties. As you can see, reporting is almost universally negative.[[245]](#ftnt245) But maybe the AfD is simply horrible and deserves all the bad press it gets?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d3854cb01d00b083.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ac93f7b3b3a650f2.png)
 
 Content analysis of public media (left) and private media (right)
 
@@ -37,7 +36,7 @@ A recent example of such negative reporting was a CORRECTIV report about a secre
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/fb449002ae8797e9.jpg)![](https://acximages.ennals.org/images/2024-book-reviews/4b3d9359d2312df6.jpg)
 
-It is not in question that this meeting took place and that the “remigration” of non-assimilated individuals with German citizenship, as well as the expulsion of refugees to safe countries, have been discussed. However, there are good reasons to believe that this remigration does NOT include deportation, i.e. the extra-legal expulsion of citizens through violent means. Instead, Martin Sellner, the main speaker at the meeting, demands the formation of a “Leitkultur” (main culture) in addition to a set of incentives with the aim of getting non-assimilated migrants with German citizenship to leave the country voluntarily. You can watch a reenactment of Sellner’s presentation [here](https://rumble.com/v46t93k-mslive-livestream.html). Sellner very clearly denies that he called for deportations of German citizens. Meanwhile, CORRECTIV has rowed back by stating that they never used the word “[Deportation](https://twitter.com/hori_____zont/status/1751675275002192195)” to describe what was promoted by Sellner. The difference between deportation and remigration as defined by Sellner is crucial. Whereas the former is clearly unconstitutional and morally repugnant, the latter is not.
+It is not in question that this meeting took place and that the “remigration” of non-assimilated individuals with German citizenship, as well as the expulsion of refugees to safe countries, have been discussed. However, there are good reasons to believe that this remigration does NOT include deportation, i.e. the extra-legal expulsion of citizens through violent means. Instead, Martin Sellner, the main speaker at the meeting, demands the formation of a “Leitkultur” (main culture) in addition to a set of incentives with the aim of getting non-assimilated migrants with German citizenship to leave the country voluntarily. You can watch a reenactment of Sellner’s presentation [here](https://rumble.com/v46t93k-mslive-livestream.html). Sellner very clearly denies that he called for deportations of German citizens. Meanwhile, CORRECTIV has rowed back by stating that they never used the word “[Deportation](https://twitter.com/hori_zont/status/1751675275002192195)” to describe what was promoted by Sellner. The difference between deportation and remigration as defined by Sellner is crucial. Whereas the former is clearly unconstitutional and morally repugnant, the latter is not.
 
 Media dishonesty and bias surrounding the AfD irks me a lot personally because I see the massive challenges that mass migration brings to the country but I do not want to support a fascist party that aims to abolish democracy and the rule of law. Unfortunately, just because the media uses misleading language, doesn’t mean they are wrong! It seems like we will have to do some work ourselves. Let’s see what we can figure out about the beliefs of big man Höcke himself. **Is he a fascist? Does he want to abolish democracy? How far is he willing to go to deal with immigration?**
 
@@ -53,17 +52,17 @@ You _could_ interpret this as “Germany should no longer remember its past misd
 
 Before I start the review proper, I want to present a short overview of the current migrant situation in Germany. This has two reasons. Firstly, I want to convince you that the migrant crisis is one of the most significant problems Germany will face this century. Dealing with this crisis is the AfD’s raison d'être. Secondly, I want to be transparent and give you a context for my own views, so you can properly interpret my assessment of Höcke’s book. Since around 15 years, net migration has exploded in Germany.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/18bc03380aaecd58.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/e8f12dedc79f13e5.png)
 
 Net migration in Germany
 
 Most notable are the Syrian refugee crisis of 2015 and the current Ukraine crisis of 2022. As you can see from the following figure, Germany took in the most refugees from the 2015 crisis. Of course, Germany is a populous country with a strong economy, but comparing our intake with the UK, France, and Italy shows that we took in a lot of people even after accounting for these variables.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/6f88b11fecdff62d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/24f84503d3bb0f08.png)
 
 There are, in my view, two main reasons for why refugees came to Germany. Firstly, because Germany has a rather comfortable welfare system and secondly, because Angela Merkel, the former German Chancellor, _literally_ asked for it. As a consequence of this migration policy mixed with past migration and relatively low native birth rates (1.36 (native) vs. 1.88 (non-native) per woman), the native population in Germany is gradually getting replaced. Consider the figure below, which shows the amount of individuals living in Germany by migrant background and age.[[248]](#ftnt248) Whereas only about 10% of retired people have a migration background, about 40% of children do.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/bdbaedb43d0afb2d.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/360fe216ed322572.jpg)
 
 Individuals with migration background (green) compared to the overall population by age (2020)
 
@@ -119,22 +118,22 @@ It may not surprise you to find out that Höcke isn’t particularly fond of mod
 
 Here are some things Höcke blames modernity for
 
-> *   ugly architecture
-> *   the deconstruction of gender, ethnicity, families, religions, borders, and humanity itself
-> *   mutating creative people into “flat mass persons”
-> *   being “directed against creation itself”, due to their “aim of permanent liquefaction”, which is “a relapse to the formless and desolate mass of preworldly chaos, as Ovid saw it in his metamorphoses”
+*   ugly architecture
+*   the deconstruction of gender, ethnicity, families, religions, borders, and humanity itself
+*   mutating creative people into “flat mass persons”
+*   being “directed against creation itself”, due to their “aim of permanent liquefaction”, which is “a relapse to the formless and desolate mass of preworldly chaos, as Ovid saw it in his metamorphoses”
 
 Well, at least concerning the architecture I can agree. Though I do wonder if he really thinks that everything about modernity is to be rejected. The Enlightenment? The Rise of Democracy? The rise of global markets? Women’s Rights? Increases in individual freedom? The relatively long period of peace in Europe after WW2? The abolition of slavery and Imperialism? Should all of this be reversed too?
 
 What can we do about it? As usual, Höcke is being vague because “the details of a new building [of the community] should not and cannot be decreed from above, but determined in a large, joint discussion.” After some prodding, he decides to provide some guidance:
 
-> *   a new down-to-earthness should be promoted
-> *   the idealistic value of meaningful work must be revitalized
-> *   a productive economic order should be created that generates a balanced social fabric and does not widen the gap between rich and poor
-> *   one's homeland should be rediscovered as a space of security and life development
-> *   a people's monopoly on settlement and organization in their country should be ensured
-> *   we should make beauty and a sense of form and measure the new benchmark
-> *   we must strive for a metaphysical re-anchoring
+*   a new down-to-earthness should be promoted
+*   the idealistic value of meaningful work must be revitalized
+*   a productive economic order should be created that generates a balanced social fabric and does not widen the gap between rich and poor
+*   one's homeland should be rediscovered as a space of security and life development
+*   a people's monopoly on settlement and organization in their country should be ensured
+*   we should make beauty and a sense of form and measure the new benchmark
+*   we must strive for a metaphysical re-anchoring
 
 Everything clear? This WILL be on the final exam. Höcke expands further on the topic of migration. He demands that migrants should get “acculturated”, meaning that they should not only accept the German rule of law but also integrate an unspecified German value system into their identity. The main reason why this doesn’t happen is because we Germans have stopped honoring our own traditions and religions because of our negative disposition towards our own culture. Due to this, migration turns invasive and threatens to replace the native culture. As mentioned before, I agree that we Germans have a rather negative view of ourselves and our history and that this adversely impacts us. However, I am not sure what Höcke means with a German value system, as the set of values that all Germans hold is pretty slim. If anything, it would be the rules as laid out in our constitution but Höcke explicitly demands more.
 
@@ -190,7 +189,7 @@ At least for me personally I can come to the clear conclusion that I will not vo
 
 It gives me no joy to say this, it rather fills me with concern for the future of my country. As I see it, unless the establishment parties radically change their course, as they have done in e.g. Denmark, there are currently only two possible ways forward.
 
-> 1.  Vote for the establishment parties and observe the slow but inevitable decline of this nation.
-> 2.  Vote for the AfD and risk an even quicker downfall in the hopes of preventing it.
+1.  Vote for the establishment parties and observe the slow but inevitable decline of this nation.
+2.  Vote for the AfD and risk an even quicker downfall in the hopes of preventing it.
 
 _Quo vadis, Germania?_

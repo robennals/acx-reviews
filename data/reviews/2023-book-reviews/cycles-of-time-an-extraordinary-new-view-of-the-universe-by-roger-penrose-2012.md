@@ -1,7 +1,5 @@
 ---
-title: >-
-  Cycles of Time: An Extraordinary New View of the Universe. By Roger Penrose,
-  2012
+title: 'Cycles of Time: An Extraordinary New View of the Universe. By Roger Penrose, 2012'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2023-book-reviews
@@ -11,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.026Z'
 slug: cycles-of-time-an-extraordinary-new-view-of-the-universe-by-roger-penrose-2012
 wordCount: 2307
 readingTimeMinutes: 11
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Science
@@ -46,7 +43,7 @@ Each curvature presents its cosmological evolution, for if the curvature of spac
 
 By applying entropy to an expanding universe, where equilibrium is impossible, we have an adiabatic expansion, where the entropy remains consistent. The phase space, where the particles move into, is growing. So, while the particles are becoming evenly distributed in the phase space, the phase space itself is expanding. This is compounded further by exporting our understanding of entropy to the universe as a whole, which introduces the issue of gravity. If phase space is the universe, and if our particles of paint are, in fact, stars and other large bodies of matter, a classical model of entropy should see these star "particles" become evenly distributed in space. Because of gravity, these stars attract each other, forming clusters. Through the force of gravity, the universe introduces a force that acts as a self-regulating system that creates a level of cohesion into what should be an increasing level of randomness. However, such a mechanism, the reversal of entropy by the forces of gravity, is rendered mute with the introduction of black holes.
 
-Black holes, as understood by Stephen Hawking's work from the 1970s, is when one applies quantum field theory to curved space-time, black holes have a tiny temperature T, which is inversely proportional to the black hole's mass. A black hole whose mass is 10 M**☉** would emit a temperature of 6x10^-9k, and because it is an inverse proportion, the larger the black hole, the smaller the temperature. So, for the black hole at the centre of the galaxy, which has a mass of 4,000,000 M**☉****,** its temperature would be only 1.5x10^-14k or -273.15°C. In contrast, the average temperature of the Cosmic Background Radiation (CMB) is -270..45°C, noticeably warmer than black holes! Now, if the universe is to expand forever, the temperature of the CMB will decrease and reach equilibrium with black holes. Upon reaching this equilibrium, black holes will start to radiate out their energy in the form of temperature and massless particles, and because of e=mc^2, black holes will lose mass. After an incredibly long time, Penrose estimates google years (10^100) for the largest black holes to have radiated away their entire mass and hence, cease to be.  
+Black holes, as understood by Stephen Hawking's work from the 1970s, is when one applies quantum field theory to curved space-time, black holes have a tiny temperature T, which is inversely proportional to the black hole's mass. A black hole whose mass is 10 M**☉** would emit a temperature of 6x10^-9k, and because it is an inverse proportion, the larger the black hole, the smaller the temperature. So, for the black hole at the centre of the galaxy, which has a mass of 4,000,000 M**☉,** its temperature would be only 1.5x10^-14k or -273.15°C. In contrast, the average temperature of the Cosmic Background Radiation (CMB) is -270..45°C, noticeably warmer than black holes! Now, if the universe is to expand forever, the temperature of the CMB will decrease and reach equilibrium with black holes. Upon reaching this equilibrium, black holes will start to radiate out their energy in the form of temperature and massless particles, and because of e=mc^2, black holes will lose mass. After an incredibly long time, Penrose estimates google years (10^100) for the largest black holes to have radiated away their entire mass and hence, cease to be.  
 
 ## III: The Big Bang
 

@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.485Z'
 slug: moscow-petushki-by-venedikt-yerofeyev
-wordCount: 8817
+wordCount: 8843
 readingTimeMinutes: 40
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Fiction
@@ -18,7 +17,7 @@ tags:
 
 **Preface**: this Russian-language book has three translations, which (in order of both publication and quality) are _Moscow to the End of the Line_, _Moscow Circles_, and _Moscow Stations._ Its title in the original Russian is “Moscow-Petushki”. Being a big-brain genius, I’ve read all three (except I didn’t finish the first one because it sucked), and the original Russian text; I’ll be referring to the work as “Moscow-Petushki” (that’s how it is generally referred to in literary journals), and will be using _Moscow Stations_ translated by Stephen Murline for quoted text throughout.
 
-**I. IF YOU WANT TO GO LEFT, GO LEFT; IF YOU WANT TO GO RIGHT, GO RIGHT**
+## I. IF YOU WANT TO GO LEFT, GO LEFT; IF YOU WANT TO GO RIGHT, GO RIGHT
 
 _“I, who have consumed so much that I’ve lost track of how much, and in what order – I’m the soberest man in the world.”_
 
@@ -92,15 +91,15 @@ _Shall I tell you what they were like? There’s really nothing to it: on a shee
 
 _Here, for instance, is the chart of one Victor Totoshkin, Komsomol member: enjoy …_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/587ee34ec8791890.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/02cdd862c19137eb.jpg)
 
  _And this is Alexei Blindyaev, Communist Party member since 1936, and shagged-out old creep:_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1ea1b0431afd5ecd.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/1596be9f81f00908.jpg)
 
 _And behold – your humble servant, ex-brigade leader of the OTC cable layers, and author of the poem [Moscow-Petushki]_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/370b35183c9bc33b.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/7abfc8ffb2ae2c1f.jpg)
 
 _Interesting lines,_ n’est-ce pas? [_…_] _Anyway, to the seeker after truth (like myself, for example), those lines let every cat out of every bag about man and the human heart: about his virtues, from the sexual to the practical, and his failings, from the practical to the sexual; about his degree of mental equilibrium, his aptitude for treachery, and all the secrets of his subconscious, if indeed he’s got any._
 
@@ -130,11 +129,11 @@ _the chubbiest and best-behaved infant of them all._
 
 Venya climbs aboard the train, excited to see them.
 
-**II. GRACEFUL AND NECESSARY SELF-DESTRUCTION**
+## II. GRACEFUL AND NECESSARY SELF-DESTRUCTION
 
 I’d call Moscow-Petushki “loser-fiction” (Eduard Limonov’s messed-up ‘83 novel _Diary of a Loser,_ a Russian emigre’s fantasies of violence, homoeroticism, and resentment_,_ is the guiding star of the constellation). While Venya is undoubtedly a loser, his Brezhnev-era context questions how responsible he is for his unenviable state. Being a loser in a paper office in Slough in 2001 is different from being a loser on a rattling commuter train in 1970s Moscow. Limonov talked of always remaining loyal to the “glorious tribe of losers”, and while I’d hesitantly put Venechka amongst storytelling’s loser-tribe, I posit losers exist at both tips of a horseshoe-like spectrum, with a loser like the American boss from the Office on one tip — sorry I don’t remember is name — and Venya on another (the middle of the shoe is “not losers”). This is defined by how debased their environment is. Here’s a highly scientific diagram.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/06f3138bceb34ebe.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/1ee3d819f940cadd.jpg)
 
 I refer to the Office, because _Moscow-Peutski_ brings to mind Ventakesh Rao’s RIbbanfarm post about cringe and shadow [[https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/](https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/)]. I mean, Venya is a sad failure, with a girlfriend and son, spending his attention on drink and self-pity. Something cringe-adjacent is happening, and I’ll explain what.
 
@@ -148,7 +147,7 @@ _Moscow-Petushki_ inverts the cringe paradigm: in this Brezhnev-era USSR world, 
 
 _I took everything out of my little suitcase, and gave it the once-over, from the sandwiches to the fortified rosé at a rouble 37. I ran my fingers over it, and suddenly felt depressed and jaded. Oh, Lord, you see before You everything I possess … But is_ this _what I need? Is_ this _what my soul hungers for? No, this is what people have given me instead. And if they’d given me what my soul hungers for, would I really have needed_ this_? You see, Lord? Have a look – fortified rosé at a rouble 37 …_
 
-**III. A SOUR MASH OF SORROW AND FEAR**
+## III. A SOUR MASH OF SORROW AND FEAR
 
 Aboard the train, Venya tells us:
 
@@ -182,35 +181,25 @@ Pacing anxiously along the carriage, excited to get to Petushki, Venya shares wi
 
 _“…you’d better write down the recipe for Canaan Balsam. You’ve only got one life, and if you want to see it out, you don’t make mistakes with recipes:_
 
-            _methylated spirits        100 g_
-
-         _milk stout        200 g_
-
-         _clear varnish        100 g_
+> _methylated spirits        100 g_  
+> _milk stout        200 g_  
+> _clear varnish        100 g_
 
 The Spirit of the Geneva:
 
-_White Lilac toilet water        50 g_
-
-_sock deodorizer        50 g_
-
-_Zhiguli beer        200 g_
-
-_spirit varnish        150 g_
+> _White Lilac toilet water        50 g_  
+> _sock deodorizer        50 g_  
+> _Zhiguli beer        200 g_  
+> _spirit varnish        150 g_
 
 The teaks of the Komsomolka:
 
-            _Lavender water        15 g_
-
-         _Verbena        15 g_
-
-         _Forest Water eau-de-Cologne        30 g_
-
-         _nail varnish        2 g_
-
-         _mouthwash        150 g_
-
-         _lemonade        150 g_
+> _Lavender water        15 g_  
+> _Verbena        15 g_  
+> _Forest Water eau-de-Cologne        30 g_  
+> _nail varnish        2 g_  
+> _mouthwash        150 g_  
+> _lemonade        150 g_
 
 _During preparation, the mixture should be stirred for twenty minutes with a sprig of honeysuckle. Honestly, when I see these people using bindweed instead of honeysuckle, I could split my sides laughing, I really could._
 
@@ -218,17 +207,12 @@ _During preparation, the mixture should be stirred for twenty minutes with a spr
 
 _What’s the most beautiful thing in life? The struggle to free all mankind. But here’s something even more beautiful – write it down:_
 
-            _Zhiguli beer        100 g_
-
-         _Sadko the Wealthy Guest shampoo        30 g_
-
-         _anti-dandruff solution        70 g_
-
-         _superglue        12 g_
-
-         _brake fluid        35 g_
-
-         _insecticide        20 g_
+> _Zhiguli beer        100 g_  
+> _Sadko the Wealthy Guest shampoo        30 g_  
+> _anti-dandruff solution        70 g_  
+> _superglue        12 g_  
+> _brake fluid        35 g_  
+> _insecticide        20 g_
 
 _Let it marinade for a week with some cigar tobacco, then serve._
 
@@ -276,7 +260,7 @@ _‘Hey, come on, old man,’ I said. ‘I’ll stand you a drink, you’ve earn
 
  We’re all on the wagon of life together; Venya knows it. In his warm heart he understands we must treat one another like brothers and sisters. Venya might be escaping from reality, but into nothing especially grandiose, and his own conception of himself seems measured; he is driven by self-pity and the pity of “the fruit of every womb”, not self-hatred or love. Those around him are not instruments of gratification but fellow sufferers. His own suffering is central, let’s grant that; he does tell his possibly-sick son he’s a lonely tree. And yet, the brotherhood of man is alive in Venya.
 
-**IV. DRINKING IN A WORLD WHERE FACTS DON’T MATTER**
+## IV. DRINKING IN A WORLD WHERE FACTS DON’T MATTER
 
 Scott Adams, the Dilbert cartoonist hated by swathes of the internet, wrote a book called _Win Bigly: Persuasion in a World where Facts Don’t Matter_ in which he brags about predicting Donald Trump’s election, and explains how he thinks he did it. In the book Adams talks about a concept called “mental filter”. People experience, Scott says, not unmediated reality but a sea of mental constructs, coloured by biases, faults, perceptions, the incomplete information we receive, and so on — that is, our mental filter. Uncontroversial so far, but Adams goes on to claim the way to evaluate if one’s mental filter is “any good” (since we don’t need to know the True Nature of Reality to live happy lives) is to ask: 1. does it make me happy and 2. is it any good at predicting the future?
 
@@ -330,12 +314,11 @@ Venya and friends are ruled by a stagnant dysfunctional system making strong obj
 
 It would also be incorrect to say that this debris finds no practical use: the Biblical references in much of Venya’s sympathies almost provide a _functional system_ for his love. The angels help, too. The debris of Christianity, as it exists in a Soviet alcoholic, infuses with grandeur and kindness both the suffering of the poor man and of those around him. With his debris, religious and intellectual, Venya is adapting to an inhumane world with the humanity he has available. He’s preserved his curiosity, energy and humanity in an alcoholic magic kingdom. It kind of works. But it can only work for so long.
 
-**VII. AN EXTREMELY NASTY RIDDLE**
+## VII. AN EXTREMELY NASTY RIDDLE
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/3e3259c25bd5ca4c.jpg)
 
-_An appropriate Moscow-Petushki book cover  
-_
+_An appropriate Moscow-Petushki book cover_  
 
 With Venya slumped and disoriented on the train seat, the text leaves material reality entirely; let’s leave Venya alone as he (passed out, on a train bench, most likely) leads a hallucinatory revolution in a Russian village, declares war on Norway, and shortens the Russian alphabet. On return to the physical world, our utterly disoriented hero crawls into a corner of the wagon in a state of paranoia.
 
@@ -363,11 +346,9 @@ _“But this Friday, at 11 o’clock, it can be pitch-dark already, just use you
 
 He begins to nod off, when —
 
-_“ There in front of me was a thing with no legs, no tail, and no head._
-
-_‘Who are you?’ I asked in astonishment._
-
-_‘Guess who!’ And it burst out laughing. Laughing like a cannibal.”_
+> _“ There in front of me was a thing with no legs, no tail, and no head._  
+> _‘Who are you?’ I asked in astonishment._  
+> _‘Guess who!’ And it burst out laughing. Laughing like a cannibal.”_
 
 […]
 
@@ -449,12 +430,11 @@ _“You know, it’s disgusting, those swines’ve turned my country into a shit
 
 Let’s leave the rest of the book shrouded in darkness. I will only say it’s tragedy upon tragedy. A blend of hallucinations and reality, but even the hallucinations are reality, because of course all events in this book are real. The house of cards is swept aside by a veiny Soviet arm, and everything is annihilated.
 
-**VIII. END OF THE LINE**
+## VIII. END OF THE LINE
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/3dc6b9fb7edf0a62.jpg)
 
-_The central square of Petushki, in real life, as of 2003.  
-_
+_The central square of Petushki, in real life, as of 2003._  
 
 Earlier we asked: is Venya’s self-destruction graceless or unnecessary? There’s a lot you could claim it to be, especially with the analytical toolbox of a 2022 rationalist blog reader (learned helplessness crossed my mind; I wonder if Integrated Family Systems can be shoved in there; what if Gendlin Focusing can be a metaphor for a riddle-posing Sphinx), but I want to go back to the “general” and “human” here, use only words that appear in the Bible, and make claim Venya’s self-destruction is _graceful_ and _necessary_ because it produced this book.
 

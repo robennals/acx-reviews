@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.485Z'
 slug: nobody-wants-to-read-your-sht-by-steven-pressfield
-wordCount: 1461
+wordCount: 1462
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Society
@@ -72,7 +71,7 @@ This is the job of the writer: to discover and eliminate those things that donâ€
 
 And oh, there are quite a number of things to improve.
 
-**Act Two: You lack empathy and do not know the foundational writing principles**
+## Act Two: You lack empathy and do not know the foundational writing principles
 
 Developing empathy is the biggest applicable lesson from the book, so letâ€™s step through what it means.
 

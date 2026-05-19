@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.886Z'
 slug: a-new-theodicy-for-high-school-math
-wordCount: 1363
+wordCount: 1365
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Philosophy
@@ -54,15 +53,14 @@ Eliason spends time explaining the value of having proven to yourself that you c
 
 Across my social media, people were _loving_ this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9f5ebf93ce040117.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/043b7d51b1c83220.png)
 
 And look, I find it compelling too. There are things I’ve done in my life that I probably would not have attempted, without the belief that I could do hard things. And there are probably difficult things I could be doing right now, if only I had a greater personal history of overcoming hardship.
 
 Eliason is getting at something important; it is genuinely good to have proof you can do hard things. But as I read through the comments online, I found myself thinking _but_ _that’s not good justification for pointless activity_. In fact, once you pay attention, it approaches _non sequitur:_
 
-“Dad, why did you make me count the 474,339 blades of grass on the lawn?”
-
-“Son, I’ve given you a gift: proof you can do hard things. You’re welcome.”
+> “Dad, why did you make me count the 474,339 blades of grass on the lawn?”  
+> “Son, I’ve given you a gift: proof you can do hard things. You’re welcome.”
 
 By now, we should all know from the internet [atheism](https://slatestarcodex.com/2017/10/24/how-did-new-atheism-fail-so-miserably/) [wars](https://www.astralcodexten.com/p/the-rise-and-fall-of-online-culture) (or the history of philosophy) that this pattern of reasoning just doesn’t work. When posed with the Problem of Evil — how could there be evil in a world created by an all-powerful, all-knowing, and all-loving god? — theists quickly say that some evils are “[soul-building](http://www.philosophyblog.com/2009/01/problem-of-evil-soul-making.html)”, or evil arises necessarily from God’s [gift of free will](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense).
 
@@ -84,7 +82,7 @@ Have we already forgotten what it’s like to be a teenager? If my parents or te
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/3ec1fd64863c3854.png)
 
->          “Why are you making me learn calculus?”
+> “Why are you making me learn calculus?”
 
 And here’s a sociological observation: a lot of the new atheists (in my experience, angsty /r/atheism types) were former Christians that, having fully grappled with the problem of evil, didn’t just lose their faith in God, but actively turned against it. The sentiment is familiar: even if there _was_ a God, why worship him? He’s a jerk, after all.  
 

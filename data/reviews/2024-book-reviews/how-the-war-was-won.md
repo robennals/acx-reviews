@@ -1,16 +1,16 @@
 ---
-title: "How The War Was Won"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: How The War Was Won
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:26.338Z"
-slug: "how-the-war-was-won"
-wordCount: 5296
+publishedDate: '2026-05-10T03:23:26.338Z'
+slug: how-the-war-was-won
+wordCount: 5250
 readingTimeMinutes: 24
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-how-the-war-was"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-how-the-war-was
+source: acx
 tags:
   - History
   - Society
@@ -21,11 +21,11 @@ tags:
 To a first approximation, there are a million books about World War II. Why should you care about _How the War Was Won_ (hereinafter “HtWWW”) by Phillips Payson O’Brien?
 
 *   It provides a new, transformative view of the conflict by focusing on production of key goods and what affected that production instead of the ups and downs of battles at the front.
-    
+
 *   That particular lens used can (and should) be applied outside of just World War II, and you can get a feel for how that might be done by reading HtWWW.
-    
+
 *   I have lectured about World War II and read many, many books about it. I have never texted friends more excerpts of a book than this one.
-    
+
 
 I have some criticisms of HtWWW, but if the criticisms dissuade you from reading the book, I will have failed. These complaints are like tut-tutting Einstein’s penmanship.
 
@@ -34,32 +34,32 @@ I have some criticisms of HtWWW, but if the criticisms dissuade you from reading
 To understand why O’Brien’s argument is so novel, you need to know the modern-day conventional understanding of the story of World War II. Here is my summary of the conventional narrative of World War II:
 
 *   Germany conquered Poland and France. It tried to bomb the UK into submission/maybe enable an invasion. That effort failed when Germany was defeated in the Battle of Britain, thanks largely to the plucky efforts of British airmen (memorably summarized by Winston Churchill: “Never in the field of human conflict was so much owed by so many to so few.”)
-    
+
 *   Stymied in the West, Germany invaded the Soviet Union, won a bunch of crushing victories, but then got turned back at the gates of Moscow. The Soviets moved all of their factories east of the Ural Mountains and produced a vast tide of T-34 tanks that overpowered the Germans.
-    
+
 *   The Germans suffered a catastrophic defeat at Stalingrad and a bloody strategic defeat at Kursk, after which the Soviets relentlessly pounded Germany to defeat.
-    
+
 *   The US and the UK sent a lot of material help and eventually fought the Germans too, most notably in the D-Day invasion and the Battle of the Bulge. However, most of the fighting was done by the Soviets.
-    
+
 *   It is very difficult to say how important the aerial bombing campaigns of the Western Allies were in defeating Germany. The Germans moved much of their production underground, insulating them from truly disastrous effects.
-    
+
 *   The U.S. mostly fought alone against Japan, which won a series of impressive early victories (e.g., Pearl Harbor, the conquest of Singapore) until the decisive Battle of Midway, after which the vastly larger US industrial base outproduced Japan into oblivion.
-    
+
 *   The US bombed the Japanese into submission by destroying Japanese cities, ultimately by dropping atom bombs on Hiroshima and Nagasaki.
-    
+
 
 By examining where the Axis focused their productive capacities and how the Allies disrupted those capacities, O’Brien challenges virtually every part of that narrative:
 
 *   The Battle of Britain was not a close-run thing. The fact that British fighter planes were flying over their own territory meant their attrition rate of pilots and aircraft were far lower than the Germans’.
-    
+
 *   American and British bombing mattered far more to the war’s outcome than the battles of the Eastern Front, which consumed a much smaller portion of German expenditures.
-    
+
 *   American and British airpower made German battlefield victories on the Western Front virtually impossible and dramatically limited the force Germany could bring to bear in the East.
-    
+
 *   Japan (really, Japan plus the giant empire it conquered at the beginning of the war) was an industrial behemoth to rival the Soviet Union. However, the destruction of the Japanese merchant fleet by American air and sea forces wrecked Japan’s economy.
-    
+
 *   The firebombing of Japanese cities and the atomic bombings of Hiroshima and Nagasaki had an ambiguous strategic effect. American air power played a much more important role in severing Japan from the natural resources it had conquered in the early part of the war.
-    
+
 
 ## Battles are Overrated
 
@@ -100,13 +100,13 @@ O’Brien is at his absolute best describing the subtle factors that whittled aw
 For example, after the Allied air bombings started, Germany built vast underground aircraft factories to protect production. But that move carried a host of negative side effects. To name a few:
 
 *   The direct cost of building new factories in inconvenient places was very manpower intensive.
-    
+
 *   The old factories had been sited convenient to resource bases. The new factories were necessarily _not_ near resource bases—they were in areas where one could dig out big new facilities.
-    
+
 *   Railroads, by far the most efficient means of transportation, were set up to efficiently move goods to and from the old factories, not the new ones.
-    
+
 *   Those factories had to be optimized for things like size and compactness, not efficiency and quality control. Aircraft frequently broke down on their way to the front lines. Once damaged, they could not be fixed on the front lines and were effectively useless.
-    
+
 
 These effects ultimately mean fewer airplanes produced as the war went on, and dramatic increases in non-operational losses. Citing the German field marshal in charge of aircraft production, O’Brien assessed that the Germans lost approximately half of their planned fighter production in this way. This comports with post-war American assessments, which assessed total German aircraft losses at the front as 15,327 in 1944, and non-operational losses at approximately 15,000. For comparison: total German aircraft losses at Kursk were approximately 159(!)
 
@@ -211,11 +211,11 @@ Politics and psychology matter tremendously in war, sometimes more than producti
 A perfect companion book to HtWWW would examine _why_ military historians and the broader public have focused inordinately on battles. Here are some plausible factors:
 
 *   **Battles are more dramatic.** Propaganda during the war focused on battles so that there would be more inherent drama. Working twelve hour shifts in a factory to win the great battle is probably psychologically easier than thinking your work is going to disappear into an inchoate slog.
-    
+
 *   **The battle-focused narrative empowers the blue-collar men who did the hard fighting**. This is politically convenient. Those blue-collar men vote and do not want to be told that what they did was relatively less important. It is also commercially advisable to play up the everyman. People want to watch movies and buy books showing people like them (or their fathers or grandfathers) making an individual difference in the war. They don’t want to watch a movie showing how important it was that the bomber offensive led to Germany decentralizing German manufacturing, thereby increasing the attrition rate of German fighters on their way to the front.
-    
+
 *   **People want to believe that individual effort matters**. They want to believe that the endless suffering means something, that their loved ones’ deaths meant the world could be free. This is particularly true in the heartbreaking Soviet context where, for example, 80 percent of males born in 1923 did not survive the war.
-    
+
 
 ## Broadly Applicable Lessons from HtWWW
 
@@ -232,13 +232,13 @@ Finally, we should be wary of romanticized narratives and simplistic conclusions
 HtWWW spoils the reader with an endless parade of fascinating statistics. As I said in the opening, when I first read the book, I excitedly texted friends these numbers every few minutes as I was reading. These stories didn’t fit in my review, but I could not in good conscience omit them. Below are just a few.
 
 *   Germany, Japan, the United Kingdom (including the British Empire), and the United States all devoted between 65 and 80 percent of their economic output to the making and arming of aircraft, naval vessels, and anti-aircraft equipment.
-    
+
 *   During the three most intense months of the Battle of Britain, the German air force landed only 17 bombs that caused “severe” damage to aircraft and aircraft engine production, electricity services, gas supplies, water industry, oil infrastructure, and food service industries _combined_. This underscores just how ineffective Germany’s campaign was and how little chance there was a of an actual British defeat.
-    
+
 *   According to Albert Speer, the German minister for armaments during the war, the Germans had 2.33 million workers building aircraft, which was not only more than all the works employed building all weapons and ammunition for the army, it was equal to or more than the number of American workers building aircraft. Germany built about 65,000 planes in 1943-44. The United States built 182,000.
-    
+
 *   On December 27, 1941, when the climactic battle outside Moscow was taking place, the Germans had deployed almost a hundred more aircraft to the fight the Royal Air Force than they had on the Eastern Front.
-    
+
 *   Railway activity in Germany and occupied territories declined by almost 40% between August and December 1944.
-    
+
 *   The Japanese navy lost 50% more pilots at the Battle of Santa Cruz (off Guadalcanal) than at Midway—and that was only one of six major naval battles in the Solomon Islands.

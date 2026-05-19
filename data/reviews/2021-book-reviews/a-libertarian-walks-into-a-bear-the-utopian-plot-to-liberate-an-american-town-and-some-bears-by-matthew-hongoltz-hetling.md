@@ -1,19 +1,15 @@
 ---
-title: >-
-  A Libertarian Walks Into a Bear: The Utopian Plot to Liberate an American Town
-  (And Some Bears) by Matthew Hongoltz-Hetling
+title: 'A Libertarian Walks Into a Bear: The Utopian Plot to Liberate an American Town (And Some Bears) by Matthew Hongoltz-Hetling'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
 contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.560Z'
-slug: >-
-  a-libertarian-walks-into-a-bear-the-utopian-plot-to-liberate-an-american-town-and-some-bears-by-matthew-hongoltz-hetling
+slug: a-libertarian-walks-into-a-bear-the-utopian-plot-to-liberate-an-american-town-and-some-bears-by-matthew-hongoltz-hetling
 wordCount: 3073
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Politics

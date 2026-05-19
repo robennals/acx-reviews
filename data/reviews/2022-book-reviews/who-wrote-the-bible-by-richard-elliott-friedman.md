@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.185Z'
 slug: who-wrote-the-bible-by-richard-elliott-friedman
-wordCount: 8304
+wordCount: 8310
 readingTimeMinutes: 37
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Religion
@@ -19,11 +18,11 @@ tags:
 
 “It appears that everybody _but_ Moses wrote the Torah.”
 
-> *   Talmidah (Shira Halevi), _The Life Story of Adam and Havah: A New Targum of Genesis 1:26-5:5_
+*   Talmidah (Shira Halevi), _The Life Story of Adam and Havah: A New Targum of Genesis 1:26-5:5_
 
 Book Review: _Who Wrote the Bible?_
 
-**0\. What is this book, anyway?**
+## 0. What is this book, anyway?
 
 _Who Wrote the Bible?_, Second Edition, by Richard Elliott Friedman
 
@@ -33,7 +32,7 @@ I know, I know, tradition says that Moses wrote the Torah. You’ve probably hea
 
 But maybe you want to form an opinion on this without having to read through six hundred and thirteen laws on not boiling a goat in its mother’s milk. Better yet, you’d like to know who exactly wrote one of the foundational texts of Western civilization. Well, the bad news is, we don’t know _exactly_ who. But we can actually make some surprisingly educated guesses as to their backgrounds, nationalities (...besides just “probably Israelite”), agendas, and - in two cases - names! Enter Richard Elliott Friedman, who intends to explain to us just that.
 
-**0.5. Who wrote this book, anyway?**
+## 0.5. Who wrote this book, anyway?
 
 Before believing anything anyone says with “Bible” and “history” in the same sentence, paragraph, or day, it’s generally a good idea to see if they have any formal academic qualifications whatsoever. (I realize this is exactly the kind of credentialism we should be eschewing in our enlightened times, but you might not have seen the nuts I have when it comes to Biblical scholarship.) This goes double for books written for popular audiences, such as this one. Fortunately, however, Dr Friedman has a doctorate in Hebrew Bible and Near Eastern Languages and Civilizations from Harvard, a master's in same from same, and a master's in Hebrew Literature from the Jewish Theological Seminary. He was also a fellow at both Cambridge and Oxford, and was a professor (in relevant subjects) at UGA and UCSD. So we aren’t dealing with a Dinosaurs Built The Pyramids type here - or rather, if we _are_, at least he’s probably got good reasons for being one. [Probably](https://slatestarcodex.com/2016/04/28/why-were-early-psychedelicists-so-weird/).
 
@@ -49,7 +48,7 @@ Now, we should note that this book is a bit old. (I am reviewing the second edit
 
 (Yes, it is _extremely confusing_ that only half the Israelites lived in Israel, since Israel was next door to the Kingdom of Judah, where lived the other half of the Jews.)
 
-**I. The Documentary Hypothesis**
+## I. The Documentary Hypothesis
 
 Right, onto the good stuff. We’re all familiar with the Internet Atheists expounding upon the zillions of contradictions in the Bible. If you’re Jewish - or fundamentalist Protestant - you’re probably also familiar with the Heraclean efforts commentators go to to explain how Abraham was born in both Ur and Haran. But, I mean, come on; Biblical infallibility is clearly not what’s happening. _Obviously_ the reason that God changes Jacob’s name to Israel twice isn’t because God changed Jacob’s name to Israel twice, but because _there were two stories in which God changed Jacob’s name to Israel_. Friedman goes into a brief history of how people gradually figured this out over the centuries - generally they realized that they should keep their dang mouths shut if they knew what was good for them - until we get to Julius Wellhausen in the nineteenth century, who put together the _basic_ model of the Documentary Hypothesis we (or at least Friedman) use today.
 
@@ -61,7 +60,7 @@ Also, sometimes the Bible is Deuteronomy.
 
 This sounds super made-up. But if you really investigate it in detail, as Friedman and the last 150 years of exegetes have, there are actually a ton of things in the Torah that this model causes to make sense. For example, some passages of the Bible seem bizarrely pro-Aaron, which makes a lot more sense when you consider that one of the sources was written by Aaronid priests. Or, other passages seem bizarrely in favor of the Southern Kingdom of Judah over the Northern Kingdom of Israel, which makes a lot of sense when you consider that “YHWH” was the Southern way of referring to God. And there are _so many_ doubled stories that call God “YHWH” in one version and “Elohim” in the other. As a quick and easy demonstration, Friedman demarcates the two Flood stories, and reading it, it’s pretty dang hard to say that the _basics_ of the Documentary Hypothesis aren’t real.
 
-**II. J and E**
+## II. J and E
 
 Friedman begins by giving us a snapshot of Israel as it was from the end of the Bronze Age (when archaeology tells us the Israelites settled into permanent, non-nomadic dwellings) to the Assyrian Conquest. We have some nice little scene-setting to understand what sort of place the author would have herself lived in. For example:
 
@@ -101,7 +100,7 @@ Maybe. _E_, Friedman says, “was almost certainly a male.” E was, again, very
 
 Now then, we get to see how J and E were stitched together. Answer: rather crudely.
 
-**II.5 J and E together**
+## II.5 J and E together
 
 Friedman says that J and E got combined probably around 722 BCE, when the Assyrians smashed Israel and huge numbers of Northerners moved to Judah as a result.
 
@@ -109,7 +108,7 @@ Friedman says that J and E got combined probably around 722 BCE, when the Assyri
 
 Friedman says that the priests of the newly-cosmopolitan Judah wouldn’t have been able to get away with proclaiming J as the only correct text_or_ E as the only correct text. “One could not tell the story of the events at Sinai without referring to the golden calf incident, for example, because someone in the audience (especially a former northerner) would remember the story and protest. One could not tell the story of Abraham without telling the story of the events at Hebron, because someone else in the audience (especially someone from Hebron) would object.” But if they kept both of the texts “side by side on the same shelf”, it would not be the best PR for there to be two obviously separate versions of Israel’s sacred history. So some priest or priests decided to combine the two sources into JE, which we will come across again later down the line. For now, let’s move on to P.
 
-**III. P**
+## III. P
 
 P is generally pretty easy to pick out, first because it’s really concerned with priestly stuff (eg, the Creation story is all about the Sabbath), and second because, Friedman says, “the language of P is so characteristic that undergraduate students can generally identify a P passage in the Bible on sight within weeks after being introduced to this study.” The whole of Leviticus is P - you may have guessed that from the name - and the source as a whole makes up about half the Torah
 
@@ -135,7 +134,7 @@ Since P was working off a combined J/E, P must have lived after 722 BCE. Since J
 
 So did P live in the reign of Hezekiah? Maybe! P probably lived around that time period, at least. Friedman says that the person who wrote the stories of P_most_ likely was one Aaronid priest living during the reign of Hezekiah, and who compiled (and added to) the holy laws.
 
-**IV. D**
+## IV. D
 
 After the Assyrians basically destroyed the Northern Kingdom of Israel in 722 BCE (deporting so many Israelites that that’s where we get the legend of the Ten Lost Tribes - ten of the twelve tribes were supposedly banished and never returned), the Hebrews/Israelites/Jews were mainly living in the Kingdom of Judah, which was theoretically under the broad power of Assyria. Shortly after 722 BCE, King Hezekiah came to the throne of Judah. According to the Biblical books of Isaiah and 2 Kings (and 2 Chronicles), he essentially banned all sacrifices to YHWH (and, apparently, to non-Yahwistic idols) at places other than the Temple. The Temple just so happened to be in Hezekiah’s capital of Jerusalem.
 
@@ -170,13 +169,13 @@ So, who_was_ this writer? Well, the DH spends a weirdly large amount of time tal
 > _And there was none like him before him, a king who returned to YHWH with all his heart and with all his soul and with all his might according to all the law of Moses, and none arose like him after him._
 
 Shockingly, Friedman thinks the DH was written in the reign of Josiah.  
-        Friedman presents a slew of fiddly details to really hammer in the case, but really I’m willing to buy it already. (Oh, also, the DH criticizes every king except Josiah and Hezekiah for not  abolishing the non-Temple temples_until_ Josiah, after whom the issue isn’t even brought up. Same with comparing kings to David.)
+        Friedman presents a slew of fiddly details to really hammer in the case, but really I’m willing to buy it already. (Oh, also, the DH criticizes every king except Josiah and Hezekiah for not  abolishing the non-Temple temples _until_ Josiah, after whom the issue isn’t even brought up. Same with comparing kings to David.)
 
 However, the _laws_ in Deuteronomy were probably _not_ written by a member of Josiah’s _court_. We know this because one of the laws in Deuteronomy says that the king isn’t allowed to have too much money. Also, a couple of the military laws seem to presume a draft that was rescinded well before Josiah’s reign. And the laws in Deuteronomy are very pro-Levite, so we can probably be pretty safe in saying that the author was a Levite priest; but Deuteronomy also gives no special distinctions to the Aaronid Levites, or in fact mentions them at all, so the author probably wasn’t an _Aaronid_ Levite.
 
 Friedman does some more analysis of various parts of the Deuteronomy laws, and comes up with this:
 
-_The place to look for the author of Deuteronomy, therefore, [is] in a group (1) that wanted centralization of religion, but not tied to the ark [of the Covenant, the Indiana Jones one] or to the Jerusalem priesthood; (2) that cared about all Levites’ livelihood, but would enfranchise only a group of_ central _Levites; (3) that accepted having a king, but wanted limitations on his rule; (4) that had a premonarchy approach to matters of war._
+> _The place to look for the author of Deuteronomy, therefore, [is] in a group (1) that wanted centralization of religion, but not tied to the ark [of the Covenant, the Indiana Jones one] or to the Jerusalem priesthood; (2) that cared about all Levites’ livelihood, but would enfranchise only a group of_ central _Levites; (3) that accepted having a king, but wanted limitations on his rule; (4) that had a premonarchy approach to matters of war._
 
 Friedman says this description matches the same folks who came up with E, namely the priests of Shiloh (albeit some centuries later). However, he says, the priests of Shiloh likely wrote only Deuteronomy’s_law code_; chapters one through eleven were added by the Deuteronomistic Historian, along with a scene where Moses writes the law code on a scroll and tells the Israelites to keep it in the Temple (well, Tabernacle).
 
@@ -184,11 +183,11 @@ Friedman says this description matches the same folks who came up with E, namely
 
 So who’s the Deuteronomistic Historian? We can tell a few things about him:
 
-> *   He doesn’t like Aaron; for example, in chapters one through eleven (and the last chapters) of Deuteronomy, it says that God wanted to kill him.
-> *   He really hates Solomon and Jeroboam; for example, in the DH, he uses the words “disgusting” and “abomination” to describe the heathen gods Solomon worshiped.
-> *   He portrays Jeremiah as a prophet loyal to Josiah and heavily linked to the court members involved with the ‘discovery’ of the law.
-> *   The last surviving Shiloh priest went to Anathoth, where Jeremiah was later born; and the Book of Jeremiah seems rather pro-Shiloh.
-> *   Parts of Deuteronomy are written in really, really similar words as parts of the Book of Jeremiah. Like, compare “and he brought you out of the iron furnace, from Egypt” to “in the day I brought them out from the land of Egypt, from the iron furnace”, or “With all your heart and with all your soul” to “With all my heart and with all my soul”.
+*   He doesn’t like Aaron; for example, in chapters one through eleven (and the last chapters) of Deuteronomy, it says that God wanted to kill him.
+*   He really hates Solomon and Jeroboam; for example, in the DH, he uses the words “disgusting” and “abomination” to describe the heathen gods Solomon worshiped.
+*   He portrays Jeremiah as a prophet loyal to Josiah and heavily linked to the court members involved with the ‘discovery’ of the law.
+*   The last surviving Shiloh priest went to Anathoth, where Jeremiah was later born; and the Book of Jeremiah seems rather pro-Shiloh.
+*   Parts of Deuteronomy are written in really, really similar words as parts of the Book of Jeremiah. Like, compare “and he brought you out of the iron furnace, from Egypt” to “in the day I brought them out from the land of Egypt, from the iron furnace”, or “With all your heart and with all your soul” to “With all my heart and with all my soul”.
 
 “Okay, [name],” you say, “we get the picture! Friedman claims that Jeremiah wrote most of Deuteronomy and the four later books!”
 
@@ -198,7 +197,7 @@ Nope! See, we don’t actually think Jeremiah wrote_anything_. Because his own b
 
 And this is where the autograph comes in. In 1980, they dug up a seal which says, “in a Hebrew script of the late seventh and early sixth century” BCE, “belonging to Baruch son of Neriyah the scribe…It is now located in the Israel Museum. It means that we have the signature of the recorder - and possibly the author/editor - of eight books of the Bible.”
 
-**IV.5 D, Second Edition**
+## IV.5 D, Second Edition
 
 But remember how Josiah died unexpectedly and the kingdom’s religion went to heck? So did Baruch! (Or Jeremiah, whoever.) After that happened, some twenty-two years after the writing of the first portion of Deuteronomy, he snuck in prophecies in Deuteronomy saying that the Israelites would be exiled, and put one in the DH saying that YHWH cursed Jerusalem because of what Josiah’s grandfather had done as king. However, he couldn’t get away with editing out the Davidic Covenant, so he said that it was the_people_ of Judah who had turned away from God, not the king.
 
@@ -210,7 +209,7 @@ Upon reading this, one might get tempted to get mad at Baruch (or whoever) for f
 
 > _Jeremiah…and Baruch were no frauds, pious or otherwise. The Deuteronomistic Historian built his history around the Deuteronomic law code, which was an authentically old document, and which he may well have believed to be by Moses himself. He used other documents as well, and he fashioned a continuous history out of them. His own additions to that history gave it structure, continuity, and meaning. His last chapters told of events that he had witnessed personally. There need not be anything fraudulent in this. Quite the contrary. It rather appears to be a sincere attempt, by a sensitive and skillful man, to tell his people’s history - and to understand it._
 
-**V. R**
+## V. R
 
 Finally, the three main sources - J/E, P, and D (not including the additional DH) - were combined into one Torah. The usual way of referring to the guy who did that is R, for Redactor. He was actually very careful about what he did. He couldn’t delete any story that people would complain would be missing. D had been read to the public every seven years, so he couldn’t leave out anything from it that anyone might remember. “J and E had been around for centuries and were quoted in D. P had been around since Hezekiah’s days, it had been associated with a national reform, and it had the support of the priesthood that was in power.” But he_had_ to combine them, since they were all supposedly by Moses, and it was not a good look to have three mutually contradictory versions of the same story by the same supposed author!
 
@@ -238,7 +237,7 @@ Friedman talks for a bit about how mashing all the sources into one Frankenstein
 
 ...Though now that I type that example out, I remember that we’re actually _not_ sure what the main [source](https://en.wikipedia.org/wiki/Ur-Hamlet) of _Hamlet_ was. And we’re poorer for it!
 
-**VI. What to make of all this**
+## VI. What to make of all this
 
 Should you buy this book, or at least borrow it from the library? If you want more details and more fiddly little bits of evidence, yes. If you want to see exactly which parts of the Bible Friedman claims are from which author, yes, because that’s listed in the appendix (though if that’s what you’re after then you’re probably much better off buying his later book _The Bible With Sources Revealed_…unless you’re colorblind). I can’t help but curse the citation system he uses (requires you to have three pages open at once), but it might be a handy book to have in your library just to refer back to. If you’re a Christian or Jew who cares about Torah, it would probably be pretty useful to have a better idea of various authors’, well, agendas.
 

@@ -1,16 +1,16 @@
 ---
-title: "The Call of Cthulhu by H. P. Lovecraft"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Call of Cthulhu by H. P. Lovecraft
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-call-of-cthulhu-by-h-p-lovecraft"
-wordCount: 2825
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-call-of-cthulhu-by-h-p-lovecraft
+wordCount: 2801
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Fiction
   - Philosophy
@@ -31,11 +31,11 @@ This text is a commentary on H. P. Lovecraft’s story _The Call of Cthulhu_. An
 
 Consider the following examples:
 
-> *   In the year 1327, a renowned friar and his novice arrive at a monastery in Northern Italy. The abbot there tells them that, not long before, one of the young monks, a talented illuminator who hailed from Otranto, was found dead by goatherds below the monastery tower escarpment at dawn. But all the windows of the tower building were closed and, though it had been raining, and though the wind blew against the windows, there was no puddle of water below any of them.3
-> *   The observable universe is 93 billion light-years in diameter and contains trillions of galaxies, each of which galaxy holds billions of stars, around one of which orbit eight huge rocks. One of those rocks is Earth, which once had no life, but then did. How? No one has a definite answer. Why? Definitely no one has an answer.
-> *   As COVID-19 has taken hold of our planet, we’ve been hearing more and more reports about disordered sleep.456 Scientists have found links between it and melatonin.7 But though one of the symptoms of long-term COVID-19 is insomnia, no one knows for sure why that is the case, or what role exactly sleep plays in warding off or recovering from the disease.8
-> *   In the 16th century, a Spanish nun, deep in prayer, sees an angel close by, small of stature, face burning, a beautiful cherub. In his hand, the cherub is holding a long golden spear, the point of which burns, too. He thrusts the spear into her heart, pulls it out and pulls out the entrails with it. It is terribly painful, but there’s a sweetness in the pain. She moans. She is on fire with the love of God.9
-> *   An old man is about to leave his little apartment when he realises that his keys are gone. He definitely remembers putting them on the hallway table and there’s no one besides him living in the apartment. But after half an hour of searching, he still hasn’t found them.
+*   In the year 1327, a renowned friar and his novice arrive at a monastery in Northern Italy. The abbot there tells them that, not long before, one of the young monks, a talented illuminator who hailed from Otranto, was found dead by goatherds below the monastery tower escarpment at dawn. But all the windows of the tower building were closed and, though it had been raining, and though the wind blew against the windows, there was no puddle of water below any of them.3
+*   The observable universe is 93 billion light-years in diameter and contains trillions of galaxies, each of which galaxy holds billions of stars, around one of which orbit eight huge rocks. One of those rocks is Earth, which once had no life, but then did. How? No one has a definite answer. Why? Definitely no one has an answer.
+*   As COVID-19 has taken hold of our planet, we’ve been hearing more and more reports about disordered sleep.456 Scientists have found links between it and melatonin.7 But though one of the symptoms of long-term COVID-19 is insomnia, no one knows for sure why that is the case, or what role exactly sleep plays in warding off or recovering from the disease.8
+*   In the 16th century, a Spanish nun, deep in prayer, sees an angel close by, small of stature, face burning, a beautiful cherub. In his hand, the cherub is holding a long golden spear, the point of which burns, too. He thrusts the spear into her heart, pulls it out and pulls out the entrails with it. It is terribly painful, but there’s a sweetness in the pain. She moans. She is on fire with the love of God.9
+*   An old man is about to leave his little apartment when he realises that his keys are gone. He definitely remembers putting them on the hallway table and there’s no one besides him living in the apartment. But after half an hour of searching, he still hasn’t found them.
 
 The distinction I want to make is this. Sometimes we mean by _mystery_ a situation where a thing is not known that could or should be known. This is the case for three of the examples above: the circumstances of the young monk’s murder, the link between COVID-19 and sleep and the whereabouts of the old man’s keys are all things that we should, or at least could in theory, know. But we don’t. And the fact that we don’t but should or would ordinarily know focuses our attention on these unanswered questions. That’s what makes them mysterious. I call this **the mystery of the unknown**. It is the domain of secrecy and mystery fiction.
 
@@ -85,24 +85,24 @@ Early on in _The Call of Cthulhu_, having recounted his grand-uncle’s having c
 
 * * *
 
-> 1.  Lovecraft, H. & Schweitzer, D. (2008). _Supernatural horror in literature & other literary essays_. Rockville, Md: Wildside Press. ↩
-> 2.  My source here is [Wiktionary](https://en.wiktionary.org/wiki/mystery), though the Oxford English Dictionary and the Catholic Encyclopedia give similar origins. ↩
-> 3.  This is the beginning of the plot of Umberto Eco’s magnificent novel _The Name of the Rose_. ↩
-> 4.  Li, Y., Qin, Q., Sun, Q., Sanford, L. D., Vgontzas, A. N., & Tang, X. (2020). _Insomnia and psychological reactions during the COVID-19 outbreak in China_. Journal of Clinical Sleep Medicine, 16(8), 1417–1418. ↩
-> 5.  Huang, Y., & Zhao, N. (2020). _Generalized anxiety disorder, depressive symptoms and sleep quality during COVID-19 outbreak in China: a web-based cross-sectional survey_. Psychiatry Research, 288, 112954. ↩
-> 6.  Casagrande, M., Favieri, F., Tambelli, R., & Forte, G. (2020). _The enemy who sealed the world: effects quarantine due to the COVID-19 on sleep quality, anxiety, and psychological distress in the Italian population_. Sleep Medicine, 75, 12–20. ↩
-> 7.  Hamblin, _[The Mysterious Link Between COVID-19 and Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)_. ↩
-> 8.  ibid. ↩
-> 9.  This scene is from the autobiography of Teresa of Ávila. ↩
-> 10.  From an interview by Ivar Ivask, translated into Swedish by Lasse Söderberg and back into English by myself. ↩
-> 11.  Kierkegaard, S. (1989). _The sickness unto death : a Christian psychological exposition for edification and awakening_. London, England New York, N.Y., USA: Penguin Books. ↩
-> 12.  I follow Wayne C. Booth in making the common-sense distinction between [the implied author](https://en.wikipedia.org/wiki/Implied_author) and the breathing (or, as it were, decaying) author. ↩
-> 13.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
-> 14.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
-> 15.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
-> 16.  Meyer, M. & Funk. (2007). _The Nag Hammadi scriptures_. New York: HarperOne. ↩
-> 17.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
-> 18.  Huxley, A. (2004). _The doors of perception and Heaven and hell_. New York: Perennial Classics. ↩
-> 19.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
+1.  Lovecraft, H. & Schweitzer, D. (2008). _Supernatural horror in literature & other literary essays_. Rockville, Md: Wildside Press. ↩
+2.  My source here is [Wiktionary](https://en.wiktionary.org/wiki/mystery), though the Oxford English Dictionary and the Catholic Encyclopedia give similar origins. ↩
+3.  This is the beginning of the plot of Umberto Eco’s magnificent novel _The Name of the Rose_. ↩
+4.  Li, Y., Qin, Q., Sun, Q., Sanford, L. D., Vgontzas, A. N., & Tang, X. (2020). _Insomnia and psychological reactions during the COVID-19 outbreak in China_. Journal of Clinical Sleep Medicine, 16(8), 1417–1418. ↩
+5.  Huang, Y., & Zhao, N. (2020). _Generalized anxiety disorder, depressive symptoms and sleep quality during COVID-19 outbreak in China: a web-based cross-sectional survey_. Psychiatry Research, 288, 112954. ↩
+6.  Casagrande, M., Favieri, F., Tambelli, R., & Forte, G. (2020). _The enemy who sealed the world: effects quarantine due to the COVID-19 on sleep quality, anxiety, and psychological distress in the Italian population_. Sleep Medicine, 75, 12–20. ↩
+7.  Hamblin, _[The Mysterious Link Between COVID-19 and Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)_. ↩
+8.  ibid. ↩
+9.  This scene is from the autobiography of Teresa of Ávila. ↩
+10.  From an interview by Ivar Ivask, translated into Swedish by Lasse Söderberg and back into English by myself. ↩
+11.  Kierkegaard, S. (1989). _The sickness unto death : a Christian psychological exposition for edification and awakening_. London, England New York, N.Y., USA: Penguin Books. ↩
+12.  I follow Wayne C. Booth in making the common-sense distinction between [the implied author](https://en.wikipedia.org/wiki/Implied_author) and the breathing (or, as it were, decaying) author. ↩
+13.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
+14.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
+15.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
+16.  Meyer, M. & Funk. (2007). _The Nag Hammadi scriptures_. New York: HarperOne. ↩
+17.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
+18.  Huxley, A. (2004). _The doors of perception and Heaven and hell_. New York: Perennial Classics. ↩
+19.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
 
 * * *

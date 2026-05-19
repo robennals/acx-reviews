@@ -1,16 +1,16 @@
 ---
-title: "The Silmarillion by J. R. R. Tolkien"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Silmarillion by J. R. R. Tolkien
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-silmarillion-by-j-r-r-tolkien"
-wordCount: 7650
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-silmarillion-by-j-r-r-tolkien
+wordCount: 7642
 readingTimeMinutes: 34
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Fiction
   - Philosophy
@@ -33,9 +33,9 @@ That brings us to J.R.R. Tolkien. He's famous as a novelist, not as a theologian
 
 For reasons that can’t detain us here, readers today almost exclusively consume written fiction in novel form, so it’s only worth going on this limb if you fall into one of three categories:
 
-> 1.  You loved reading _Lord of the Rings_ and you want to read more about the world of Middle-Earth no matter how dry the material. This is the largest category by far, but if you’re in it, then statistically speaking, you have already read _The Silmarillion_, so this review won’t further address you except to try to unpack something about the text you likely didn’t dwell on while reading it.
-> 2.  You love reading ancient mythological texts and appreciate their depth of thought and archaic prose despite their textual contradictions, frustrating lacunae, and so on. This review may help explain why _The Silmarillion_, despite being an _imitation_ ancient text, is nevertheless worth your time, but honestly it won’t really do justice to what might appeal to you. Given the paucity of imitation ancient texts, you probably owe it to yourself to try it regardless.
-> 3.  You wonder why God would allow bad things to happen to good people, how a smart theist could possibly worship a God who permits suffering, or similar questions. Or maybe I have you wondering what a bunch of silly stories about Elves could possibly say about this subject. In that case, read on.
+1.  You loved reading _Lord of the Rings_ and you want to read more about the world of Middle-Earth no matter how dry the material. This is the largest category by far, but if you’re in it, then statistically speaking, you have already read _The Silmarillion_, so this review won’t further address you except to try to unpack something about the text you likely didn’t dwell on while reading it.
+2.  You love reading ancient mythological texts and appreciate their depth of thought and archaic prose despite their textual contradictions, frustrating lacunae, and so on. This review may help explain why _The Silmarillion_, despite being an _imitation_ ancient text, is nevertheless worth your time, but honestly it won’t really do justice to what might appeal to you. Given the paucity of imitation ancient texts, you probably owe it to yourself to try it regardless.
+3.  You wonder why God would allow bad things to happen to good people, how a smart theist could possibly worship a God who permits suffering, or similar questions. Or maybe I have you wondering what a bunch of silly stories about Elves could possibly say about this subject. In that case, read on.
 
 ## II.
 
@@ -91,11 +91,11 @@ This makes Fëanor, as one might expect, extremely angry. He blames the good ang
 
 Obviously this is a story in close conversation with the Garden of Eden story in the Bible. But as with the creation story, this is not Narnian equivalence where the names are changed but the ideas are the same. Nor is it simple elaboration:
 
-> *   Melkor doesn’t just tell a single lie, he apparently tells lots of lies, and when they don’t prove sufficient, he wounds the world and kills Fëanor’s father.
-> *   Fëanor doesn’t get cursed and thrown out of paradise on a technicality or a momentary bad decision. He experiences loss and grief that, whatever his faults, he certainly didn’t deserve. He demands that angels act to fix the evil in the world, and when they don’t, he forges weapons, declares war on Satan, and personally leads an army out of paradise.
-> *   From Tolkien’s perspective, Fëanor’s principal sin is pride: it’s not his role to fix the evil in the world and not even remotely in his power. But pride is being kind of an abstract sort of sin, Fëanor almost immediately--but believably--commits the obviously unacceptable sin of murder, whereas in Genesis it’s not until Adam and Eve’s son Cain that someone does something indisputably evil and sheds blood.
-> *   There’s no room for fuzzy interpretations, like hey, Adam was duped by Eve and maybe women are the real villains here! Although some Elves are born later, since they don’t age, most important characters in the rest of _The Silmarillion_ are already alive and willingly choose to follow Fëanor.
-> *   But not every Elf does! Some Elves, including some of Fëanor’s people, do in fact realize this is a very bad idea and stay in paradise. This demonstrates the contingency of the choice made by Fëanor and the other rebelling Elves.
+*   Melkor doesn’t just tell a single lie, he apparently tells lots of lies, and when they don’t prove sufficient, he wounds the world and kills Fëanor’s father.
+*   Fëanor doesn’t get cursed and thrown out of paradise on a technicality or a momentary bad decision. He experiences loss and grief that, whatever his faults, he certainly didn’t deserve. He demands that angels act to fix the evil in the world, and when they don’t, he forges weapons, declares war on Satan, and personally leads an army out of paradise.
+*   From Tolkien’s perspective, Fëanor’s principal sin is pride: it’s not his role to fix the evil in the world and not even remotely in his power. But pride is being kind of an abstract sort of sin, Fëanor almost immediately--but believably--commits the obviously unacceptable sin of murder, whereas in Genesis it’s not until Adam and Eve’s son Cain that someone does something indisputably evil and sheds blood.
+*   There’s no room for fuzzy interpretations, like hey, Adam was duped by Eve and maybe women are the real villains here! Although some Elves are born later, since they don’t age, most important characters in the rest of _The Silmarillion_ are already alive and willingly choose to follow Fëanor.
+*   But not every Elf does! Some Elves, including some of Fëanor’s people, do in fact realize this is a very bad idea and stay in paradise. This demonstrates the contingency of the choice made by Fëanor and the other rebelling Elves.
 
 From all this, it seems clear to me that rather than transpose the Garden of Eden into a fantasy world, Tolkien sets out to improve upon it. Most of all, Tolkien’s version foregrounds the problem of evil in a way that Genesis never does. Fëanor’s crimes would never have happened if not for Melkor.
 

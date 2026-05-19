@@ -1,16 +1,16 @@
 ---
-title: "The Dawn of Everything: A New History of Humanity"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Dawn of Everything: A New History of Humanity'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-dawn-of-everything-a-new-history-of-humanity"
-wordCount: 7166
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-dawn-of-everything-a-new-history-of-humanity
+wordCount: 7161
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Philosophy
@@ -19,15 +19,14 @@ tags:
 
 ## Apologia
 
-_“First is the worst; second is the best”_
-
-_— Timeless Adage_
+> _“First is the worst; second is the best”_  
+> _— Timeless Adage_
 
 I know what you’re thinking: “Oh boy, here we go again. Didn’t someone review this book last year?” Indeed, Erik Hoel [won last year’s contest](https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything) by braving the vast seas of The Dawn of Everything, a devastating realization I only made once I was hundreds of pages into my own voyage through this behemoth of a book. I debated charting a new course through a different text to preempt accusations of piracy, but after examining last year’s review more carefully, I resolved to complete this one for a few reasons:
 
-> 1.  Erik and I simply draw on different parts of the book. Given this tome’s scope and length, it can certainly support multiple reviews.
-> 2.  When we do tackle the same material, we often make different points that are not in tension. Ships in the night.
-> 3.  I disagree with some of Erik’s points, and I work through these clashes in the last section of this post. The Dawn of Everything locates itself in the Enlightenment tradition of sweeping historical accounts, tempered by “grand dialogue” in salons and public letters, so it seems fitting to subject this work to the same treatment.
+1.  Erik and I simply draw on different parts of the book. Given this tome’s scope and length, it can certainly support multiple reviews.
+2.  When we do tackle the same material, we often make different points that are not in tension. Ships in the night.
+3.  I disagree with some of Erik’s points, and I work through these clashes in the last section of this post. The Dawn of Everything locates itself in the Enlightenment tradition of sweeping historical accounts, tempered by “grand dialogue” in salons and public letters, so it seems fitting to subject this work to the same treatment.
 
 Full steam ahead!
 
@@ -81,15 +80,14 @@ Despite (or perhaps because of) his historical misconceptions, Rousseau’s lega
 
 ## Two Models of Freedom
 
-_“If freedom means doing what I want, well, don’t I gotta want something?”_
-
-_— Ramshackle Glory_
+> _“If freedom means doing what I want, well, don’t I gotta want something?”_  
+> _— Ramshackle Glory_
 
 The Davids outline three freedoms[[3]](#ftnt3) they find are neglected in the discourse of Western political philosophy. These are:
 
-> 1.  The freedom to move away or relocate from one’s surroundings
-> 2.  The freedom to ignore or disobey commands issued by others
-> 3.  The freedom to shape entirely new social realities, or shift back and forth between different ones
+1.  The freedom to move away or relocate from one’s surroundings
+2.  The freedom to ignore or disobey commands issued by others
+3.  The freedom to shape entirely new social realities, or shift back and forth between different ones
 
 The first two “prop up” the third: the ability to leave or disobey checks back against hierarchy, maintaining a degree of collective possibility. But if the first freedom crumbles, say in the form of a weaker safety net for women, the second will weaken as women face higher barriers to fleeing abusive relationships, which in turn would undermine the third freedom. A woman who attempted to create new social realities under these conditions would “instantly be marked as a subversive.”
 
@@ -101,9 +99,8 @@ Indeed, the American Indian concept of freedom comes at the cost of guaranteed s
 
 ## The Agency Argument
 
-_“I could stop any time.”_
-
-_— My uncle on his second pack of the day_
+> _“I could stop any time.”_  
+> _— My uncle on his second pack of the day_
 
 The Davids open with a call to “treat people, from the beginning, as imaginative, intelligent, playful creatures,” rather than a monolithic “primordial human soup,” which is a great band name. After all, “even small children are typically far more imaginative than this, and as we all know spend a considerable part of their time constructing alternative roles and symbolic worlds to inhabit.”
 
@@ -113,9 +110,9 @@ This is a laudable project, and a well-needed corrective to the habit of reducin
 
 Reading between the lines, we might gather that there are three independently necessary and collectively sufficient conditions for a community to make self-conscious decisions about its social and political organization:
 
-> 1.  Alternatives arrangements are available
-> 2.  The community is aware of these alternatives
-> 3.  People deliberately choose their way of living to the exclusion of the alternatives
+1.  Alternatives arrangements are available
+2.  The community is aware of these alternatives
+3.  People deliberately choose their way of living to the exclusion of the alternatives
 
 The Rousseau-Hobbes discussion should satisfy the first criterion: people really did manage to arrange their social worlds in dramatically different ways, even controlling for environment and technology. If you remain unconvinced, read the book yourself I guess.
 
@@ -169,14 +166,14 @@ The upshot is not that the Davids are necessarily wrong about their examples, bu
 
 What’s most frustrating about the Davids’ disregard for these strategic considerations, is that throughout the book they touch on fascinating social arrangements, the stability of which is readily apparent. Let’s take a whirlwind tour:
 
-> *   The Wendat did not punish criminals, even murderers. Instead, they demanded compensation from the culprit’s lineage or clan, which created the incentive for the people who knew the culprit best to keep the peace.
-> *   Egalitarian foraging bands often belittle their best hunters and shame potential bullies.
-> *   In these same groups, meat is sometimes distributed at random, rather than by the person who made the kill, transforming meals into a repeated game in which selfishness can be punished.
-> *   The Plains Indians accomplished a similar outcome by rotating which clan yielded authority every ritual season. We might imagine that the threat of future retaliation checked back against present abuses of power.
-> *   Other tribes ensured the ritual police force rotated out its members every year.
-> *   Among the Yurok of California, winners in battle had to “pay compensation for each life taken, at the same rate one would pay if one were guilty of murder,” which discouraged frivolous warfare. (Presumably, any group that refused to pay would be met with the wrath of a meta-norm or some more subtle check.)
-> *   “Throughout much of history, grain states and barbarians remained ‘dark twins’, locked together in an unresolvable tension, since neither could break out of their ecological niches.” Neither side managed to secure dominance over the other.
-> *   The Davids puzzle that when Egyptians kings would pass into the next life circa 5000 years ago, they were often accompanied by sacrificed “wives, guards, officials, cooks, grooms, entertainers, palace dwarfs and other servants.” But they do not suggest that this tradition aligned the king and the people best-positioned to assassinate him: if the cook poisoned the king’s meal, the cook would also meet an early grave.
+*   The Wendat did not punish criminals, even murderers. Instead, they demanded compensation from the culprit’s lineage or clan, which created the incentive for the people who knew the culprit best to keep the peace.
+*   Egalitarian foraging bands often belittle their best hunters and shame potential bullies.
+*   In these same groups, meat is sometimes distributed at random, rather than by the person who made the kill, transforming meals into a repeated game in which selfishness can be punished.
+*   The Plains Indians accomplished a similar outcome by rotating which clan yielded authority every ritual season. We might imagine that the threat of future retaliation checked back against present abuses of power.
+*   Other tribes ensured the ritual police force rotated out its members every year.
+*   Among the Yurok of California, winners in battle had to “pay compensation for each life taken, at the same rate one would pay if one were guilty of murder,” which discouraged frivolous warfare. (Presumably, any group that refused to pay would be met with the wrath of a meta-norm or some more subtle check.)
+*   “Throughout much of history, grain states and barbarians remained ‘dark twins’, locked together in an unresolvable tension, since neither could break out of their ecological niches.” Neither side managed to secure dominance over the other.
+*   The Davids puzzle that when Egyptians kings would pass into the next life circa 5000 years ago, they were often accompanied by sacrificed “wives, guards, officials, cooks, grooms, entertainers, palace dwarfs and other servants.” But they do not suggest that this tradition aligned the king and the people best-positioned to assassinate him: if the cook poisoned the king’s meal, the cook would also meet an early grave.
 
 The Davids’ inattention to the power of social equilibria is made all the more pronounced by their frequent complaints about the social constraints under which they operate! From the opening pages, they ground the project in the intransigence of “a few privileged experts” to abandon “their own tiny piece of the puzzle, to compare notes with others outside their specific subfield.” By broaching these questions, the Davids decided to “stick their necks out.” They are confronting the punishments for defecting from the Rousseau-norm we encountered above, in which good evidence explains how we got from the state of nature to Western civilization. They even manage to pin down the structural barriers that buttress the current equilibrium: “Whole fields of knowledge – not to mention university chairs and departments, scientific journals, prestigious research grants, libraries, databases, school curricula and the like – have been designed to fit the old structures and the old questions.”
 
@@ -198,25 +195,24 @@ Maybe, once again, they’re really chafing against the friction that inheres to
 
 ## Is the Evidence in the Room with Us Right Now?
 
-_“Gee, wouldya look at all the bullet holes in them there aircraft wings!”_
-
-_— Someone in WWII, probably_
+> _“Gee, wouldya look at all the bullet holes in them there aircraft wings!”_  
+> _— Someone in WWII, probably_
 
 So far the story goes something like this. The Davids show you some evidence, and ask you to connect the dots:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1f296adf47d59e30.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/1d62de3aae6ed3db.jpg)
 
 We see some appealing but unconvincing attempts from our friends Hobbes and Rousseau:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/03751fbe8b82bb44.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/ca629543d0b2439d.jpg)
 
 They just didn’t quite fit all the data, so maybe you take a stab yourself:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/eb4cb8da5e471268.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/82741995cfd4d284.jpg)
 
 And you’re feeling pretty good because you succeeded where the Enlightenment philosophers failed, until the Davids came along to ridicule your model. “Not quirky enough!” they scold. Then they reveal their own method of connecting the dots:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/e80738bb4d29c735.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/07881b50f3a5617b.jpg)
 
 For all the ink these guys spill on the contributions of esoteric knowledge to empire building and state formation, you sure do get the impression that they are gatekeeping some esoteric knowledge. Despite the book’s length, the Davids cover so much content that you rarely feel comfortable with any particular society or body of evidence before the topic changes. This constant whiplash leaves you suspecting the authors have selectively curated the evidence to support their stylized narrative.
 
@@ -230,9 +226,8 @@ If we had the full evidence of human history, our connect the dots would actuall
 
 ## Standing on Erik Hoel’s Giant Shoulders
 
-_“Fee fi fo fum”_
-
-_— The Giant_
+> _“Fee fi fo fum”_  
+> _— The Giant_
 
 I know Erik’s review was excellent because it improved my understanding of the book after I’d finished reading it. I’ll refrain from submitting my own speculative theory of human history and focus on two points of disagreement.
 
@@ -248,9 +243,8 @@ More importantly, dwelling on the Sapient Paradox misses the pragmatic value the
 
 ## Fun Facts
 
-_“It is fun to have fun but you have to know how.”_
-
-_— Dr. Seuss_
+> _“It is fun to have fun but you have to know how.”_  
+> _— Dr. Seuss_
 
 The idea of the “noble savage” first referred to Indian men who spent their days hunting and fighting, which were largely the preserve of the noblemen back in France.
 

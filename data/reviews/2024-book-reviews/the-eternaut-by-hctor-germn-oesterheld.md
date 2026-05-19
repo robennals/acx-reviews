@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.006Z'
 slug: the-eternaut-by-hctor-germn-oesterheld
-wordCount: 3485
+wordCount: 3488
 readingTimeMinutes: 16
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Fiction
@@ -21,7 +20,7 @@ _Héctor Germán Oesterheld (file No. 143), scriptwriter by profession, was born
 
 _“In November 1977 I was abducted and remained in captivity until January 1978. Héctor Oesterheld had been there for a long time. He was in terrible condition. We stayed together for a long time. One of the most terrible moments was when they brought his little five-year-old grandson. That kid was carried off after the capture and killing of Héctor's fourth daughter and son-in-law and taken to that hell pit (...) One of the most unforgettable memories I have of Héctor refers to Christmas Eve of '77. The guardians gave us permission to take off our hoods and smoke a cigarette. They also allowed us to talk to each other for five minutes. Then Héctor said that because he was the oldest of all the prisoners, he wanted to shake hands with all who were there one by one. I will never forget that last handshake. Héctor Oesterheld was sixty years old when these events occurred. His physical state was very, very poor. I don't know what his fate could have been. I was released in January 1978. He remained in that place. I never heard from him again.”_ _(1)_
 
-**II.**
+## II.
 
 “The Eternaut” is a science fiction comic book first published in Argentina as a weekly serial from 1957 to 1959. It was written by Héctor Germán Oesterheld with artwork by Francisco Solano López. “Serial” means cliffhangers. Cliffhangers everywhere. As far as the eye can see there is someone or something hanging from a cliff. Reading the whole 350 or so pages in one go has the effect of all this hanging getting a bit repetitive fairly quickly. However, there’s enough variety to keep the reader engaged. Some cliffs are actually giant beetles with light-throwing cannons, others are mind control devices about to be implanted on our hero's neck and sometimes they’re accidental Yo Mamma Jokes.
 
@@ -29,7 +28,7 @@ _“In November 1977 I was abducted and remained in captivity until January 1978
 
 But she doesn’t come up until much later. The first thing we see is a comic book writer, who’s alone working in his study on a cold night when The Eternaut materializes out of thin air in a chair right in front of him.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/818bea981b2964d6.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/c8f0b3f348843874.jpg)
 
 The apparition is by this point exhausted from traveling through time and space, so all he can do is tell his story in return for a place to rest. He used to be a regular guy, Juan Salvo, who owned a small factory of electric transformers and liked to build model airplanes in his spare time. On cold nights such as this one, his friends would come over to his house to play cards. They are Lucas Herbert, Favalli and Polsky.
 
@@ -51,23 +50,23 @@ But protected from what? I’m jumping ahead again. It’s a very cold night and
 
 Now they’re like shipwrecked sailors, like Robinson Crusoe, the OG competent man. Or like his modern incarnation, Josh Hutcherson(5). Our heroes rationalize their woes into a series of practical problems to solve one after the other. Air supply, water, food and some form of radio communication with the outside world. Their hobbies provide them with the necessary materials and expertise to build an isolation suit made of rubber so they can venture outside to get more weapons and medicine. They roll a dice to decide who will be the first to test the suit and Juan is the lucky winner.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/509b5bb78d950d6e.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/a2de5f1f117a7c59.jpg)
 
 This snowfall has been given all sorts of different meanings over the years. For someone in the 1950s, “Death falling from the sky” would've meant flashbacks from WWII: the Blitz, Dresden, Hiroshima, Nagasaki. For someone in Argentina, the latest bombing had happened in 1955, just a few years before the publication of this comic, when Argentine Navy planes bombed the Plaza de Mayo in downtown Buenos Aires, and killed around three hundred people in an attempt to assassinate the president, General Perón. Perón survived, but was ousted later that same year anyway in a military coup. In the 2020s, not being able to go outside without protective gear can also mean having a pandemic loose on the planet. But between nukes and Covid, the deadly snow was often compared to life under a military dictatorship. You’re isolated, you can’t communicate freely with the outside world and just being out in the street can randomly get you killed. This reading is entangled with what happened to the author, who was taken by the military government, held, and tortured for a period of months, before finally becoming one of about thirty thousand people who disappeared in Argentina between 1976 and 1983. This includes all four of Héctor and Elsa Oesterheld’s daughters, Diana, Marina, Beatriz and Estela, aged between 20 and 25 years old, who were murdered in 1976 and 1977 because of their left-wing political activities. Two of them, Diana and Marina, were pregnant when they disappeared.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/1e01f1303df037d1.png)
 
-**III.**
+## III.
 
 While trying, sometimes failing, to survive the snow and other groups of survivors who want their stuff, our heroes see glowing spheres falling from the sky, too slowly to be meteors. They conclude they’re probably invading spaceships and suspicions are confirmed when a bunch of planes which were apparently going to fight the aliens get blasted by a beam of light.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/96b894773b84ddf8.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/acd9c0b78c4b3eb2.jpg)
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/c64a8b618a9e31ae.jpg)
 
 They decide there’s no reason to remain in Buenos Aires and make plans to flee and hide in the mountains. The group sits down for a last meal before departure when what’s left of the military arrives and recruits them for The Resistance.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/07b04b8853b0c993.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/fda308e572d55208.jpg)
 
 Salvo is made a Corporal, and almost immediately raised to Lieutenant and given a unit made out of other civilians to command in recon missions. The military is eager to see what kind of weapons the enemy would obliterate them with, and Salvo agrees to be their Laika dog because everyone is going to die anyway so might as well be of use. What follows is a series of battles with the alien forces on the way towards the River Plate football stadium.
 
@@ -75,7 +74,7 @@ Salvo is made a Corporal, and almost immediately raised to Lieutenant and given 
 
 The stadium will be humanity’s base of operations and, sixty years later, a venue for two Taylor Swift concerts during the Eras Tour. The enemy keeps attacking them, at the stadium or on the streets, using whatever weapons Oesterheld can come up with each week: giant beetles, lightrays, flying saucers, hallucination producing clouds, weird guys with eighty fingers on each hand, mind controlled humans, invincible monsters the size of buildings, ubiquitous landmark destruction.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/a7efbfc0ec88d8b4.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/af4cb9a76eed92bc.jpg)
 
 But the men fight hard, always finding some weak point or some clever escape scheme. They must, or humanity will be doomed. Or worse, Taylor Swift will have to skip town because it is infested by alien bugs. However, the humans never get to fight or even see the actual masterminds of the invasion, only known as “Them” (“_Ellos_”).
 
@@ -85,13 +84,13 @@ to, for example, the Galactic Empire in Star Wars or the ’empires’ in a vide
 
 “Them” control an Intergalactic Empire, so they don’t have to actually do any fighting. Subjugated species do all the fighting for them. Some because they’re literally mind controlled or brainwashed and others, like the “Hands” who act as their field commanders, because they have an implanted poisonous gland which instantly kills them if they ever feel fear, such as they would feel if they ever thought of rebellion. This is why they’re not depicted as truly evil. They’re just another victim of #Imperialism.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/e47cb0f2973108f1.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/85344828ef0edaeb.jpg)
 
 We can empathize with the “Hands” because, as Devereux points out, _“the dominant human experience of empire is not the experience of being the imperial conqueror – it is the experience of being the subject of empire, of having taxes and resources extracted from you, in the name of a state that likely inflicts violence on you and may care little for your safety or needs.”_
 
 The Empire has a Cybernetic Command & Control Center ©, manned by these “Hands” guys. Command & Control means _“the exercise of authority and direction by a properly designated individual over assigned resources in the accomplishment of a common goal”_(2). For the humans in The Eternaut there is no command, control nor center. Not really. No Earthling leader the aliens can ask to be taken to. The highest ranking surviving military officer, a Major, can give orders, but he has no way of overseeing that they’re actually carried out. His subordinates do basically whatever they want, and often sneak out to engage in whatever missions they choose. The point of view in the comic is rarely that of the isometric all-seeing floating command chair of a strategy game. It’s mostly street level. There’s rubble blocking the street and nobody knows what’s on the other side. And despite this disadvantage, Salvo’s group mow down beetles and robot-men like they’re made of cardboard. Their capacity to act independently is represented as being highly more effective in practice than just being the mindless tool of a cybernetic control center, even one controlled by a vastly superior intelligence such as that of the “Hands” and that of “Them”. They’re very smart and cultured but they’re also very vulnerable to punching.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5e0e30a7b7fce955.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/47bc28f08b17ceed.jpg)
 
 However, this just applies to tactics. On a strategic level, “Them” seem to have a clear inevitability. They don’t care about losing hundreds of beetles for every human they kill, because they can just keep sending more beetles.
 
@@ -99,23 +98,23 @@ However, this just applies to tactics. On a strategic level, “Them” seem to 
 
 What do they care? It’s the humans who are getting exhausted.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/7e7d10ac41d08cce.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/bd125625c8f1970b.jpg)
 
-**IV.**
+## IV.
 
 Musings about imperialism became more and more common among Latin American artists and intellectuals throughout the sixties. Many of them begin by writing “apolitical” (at least in its intentions) genre fiction or metaphysical stories and slowly, through coming into contact with each other or with the realities of the oppressed peoples in their own countries, start becoming more politicized. Most of them do it from exile, because their countries are under some form of military dictatorship. They live in Paris and write pamphlets in favor of Cuba, for example. Others take a more direct approach. That’s how a man like Oesterheld can start the decade as a staunch anti-peronist and middle class businessman who owns a small print and in his late fifties end up going underground and joining _Montoneros_, a peronist left-wing guerilla group.
 
 I mention this because in 1959 Oesterheld didn’t set out to write a political comic about imperialism. It was just an adventure meant to showcase the power of male friendship. However, when he remade The Eternaut ten years later, he very much did set out to write a political comic. Also, it looks like this:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8222bb25473a0e4b.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/3cda9949943955ab.jpg)
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3363720cd8bced70.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/7075b542f6ce7de1.jpg)
 
-It was drawn by Uruguayan artist Alberto Breccia, who had a more experimental style than Solano Lopez. If you’re having a hard time figuring out exactly what’s going on and who’s shooting at what then you’re not alone. As the story was being published in _Gente_ (“People_”_) magazine, the readers bombarded the editors with letters of pure hatred(7). They couldn’t understand anything, and whatever they did understand they didn’t like. Not only for the weird art style, but because what in the original was veiled references and potential subtext now became straight up text. In the 1959 version, every country in the world is fighting the aliens. We see for example the U.S. trying to nuke them out of existence, French planes dropping bombs on them and so on. Ten years later, the Great Powers straight up give away South America to the invaders.![](https://acximages.ennals.org/images/2024-book-reviews/6b170b7e24c67309.jpg)
+It was drawn by Uruguayan artist Alberto Breccia, who had a more experimental style than Solano Lopez. If you’re having a hard time figuring out exactly what’s going on and who’s shooting at what then you’re not alone. As the story was being published in _Gente_ (“People_”_) magazine, the readers bombarded the editors with letters of pure hatred(7). They couldn’t understand anything, and whatever they did understand they didn’t like. Not only for the weird art style, but because what in the original was veiled references and potential subtext now became straight up text. In the 1959 version, every country in the world is fighting the aliens. We see for example the U.S. trying to nuke them out of existence, French planes dropping bombs on them and so on. Ten years later, the Great Powers straight up give away South America to the invaders.![](https://acximages.ennals.org/images/2024-book-reviews/a4da8ecd7b57b334.jpg)
 
 There’s also a notorious shift in how the local military is depicted. In the original comic, they’re generally ok people. They sincerely and faithfully want to defend their country, even if they do blunder a lot and are not always up to the challenge. But in the remake, written after more than a decade of living under their rule, they’re straight up psychopaths who do the thing where they shoot their own men just to show how evil and ruthless they are.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/cd0c09237c8ec671.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/1844597c3080d6bb.jpg)
 
 The comic was canceled after just a few issues, but since Oesterheld and Breccia were given a heads up they managed to condense the whole story in about 50 pages. So it’s technically The Eternaut in full, only ridiculously abridged beyond the point of comprehension for people who haven’t read the original. Despite its brevity, it also manages to fix gender once and for all, going from women be shopping:
 
@@ -129,13 +128,13 @@ Susana replaces Pablito, a kid they find locked-up in a hardware store basement 
 
 Another subtext turned text in the 1969 version is that “_Ellos_”, the name for the alien conquerors, becomes a psychoanalytical reference. “_Ello_” is the Spanish name for the Freudian “_Id_”, the uncoordinated instinctual desires. What being colonized does to you, according to Franz Fanon,(8) is it pushes you constantly into survival mode in order to strip you of everything that is not a basic impulse.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d5ea1261f32e3de9.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/7eb6704f4a3bd70e.jpg)
 
 It’s not that Horny=Bad. It’s that if you ignore everything that’s happening because you’re too horny or too hungry to think, then you become essentially an animal. There’s a long history of conquered peoples being depicted as little more than beasts, sometimes even in the very own eyes of the conquered(9). This is very helpful to the conquering effort, so in response to it, colonized people try very hard to preserve their culture. In The Eternaut, with its emphasis on the collective hero, what you need to survive is to have a community and to have a community you need to develop a common culture. References to local musical artists, jokes, pranks, games and sports are not only attempts at worldbuilding and character development, but just as essential to resistance as weapons and medicine.
 
 Additionally, the fact that Juan Salvo is The Eternaut and the narrator of most of the story is just confirmation bias, because he is not special. He’s not The-Best-At-What-He-Does and he is not The-Chosen-One, he just happened to live. Many people figure out how to make isolation suits, how to survive the snow and many different groups organize to fight back against the aliens. College professors, soldiers, business owners, factory workers, kids: basically everyone can be a competent man. It’s not that they survive because they’re preppers, who saw the apocalypse coming and trained for it. Or that they died because they didn’t. They’re not survival specialists. They’re hobbyists, and their hobbies provide a reservoir of skills which give them a shot when their usual means of subsistence are no longer there. So go get a hobby.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/2caa2420772372d1.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/b6cf2792de99a44f.jpg)
 
 If you’re a man that is. In the 1950s women had more pressing tasks at hand.
 

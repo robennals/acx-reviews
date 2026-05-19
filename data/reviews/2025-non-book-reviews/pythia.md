@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: pythia
-wordCount: 1473
+wordCount: 1454
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Philosophy
@@ -37,7 +36,7 @@ Fully justifying each pillar of this argument would take a book, so I’ve left 
 
 “Wait, doesn’t an invasion from the future imply time travel?"
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/136e4460fa9d6038.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7fc9ff8759dc8e11.png)
 
 #### Time & Agency
 
@@ -51,7 +50,7 @@ To the extent that they accurately model the future (based on data from their pa
 
 This can be pretty prosaic: if you expect to regret eating that second packet of potato chips because you predict that your future self would feel bad based on this happening the last five times, you might put them out of reach rather than eating them.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/fdc6c36ef9232e9b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/54390c6a038a3205.png)
 
 However, the more powerful and general a predictive model of the environment, the further it can interpolate evidence it has into more novel domains before it loses reliability.
 
@@ -69,7 +68,7 @@ Even a singleton will tend to have internal parts which function as subagents; t
 
 Is this inevitable? Hopefully not. Even if Pythia is the strongest attractor in the landscape of minds, there might be other metastable states if a powerful system can come up with strategies to stop itself decaying, perhaps by reloading from an earlier non-corrupted state or by performing advanced checks on itself to detect value drift.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/a44ead5d3d3c26c0.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/897a0dedc187a033.png)
 
 _We could go to either a truly stable state like Pythia or a metastable state like an aligned sovereign_
 
@@ -93,25 +92,20 @@ Without a [once-and-for-all](https://aligned.substack.com/p/alignment-solution) 
 
 How much of a problem Pythia is depends on how strongly the [Orthogonality Thesis](https://www.youtube.com/watch?v=hEUO6pjwFOo) holds.
 
-> *   [Strong Orthogonality](https://www.lesswrong.com/w/orthogonality-thesis)
->
-> *   All goals are equally easy to design an agent to pursue, beyond the inherent tractability of that goal.[4]
->
-> *   [Orthogonality](https://www.lesswrong.com/w/orthogonality-thesis)
->
-> *   There can exist arbitrarily intelligent agents pursuing any kind of goal.
->
-> *   [Obliqueness](https://www.lesswrong.com/posts/vdATCfuxdtdqM2wh9/the-obliqueness-thesis#:~:text=an%20%22obliqueness%20thesis%22.-,Obliqueness%20Thesis%3A,-The%20Diagonality%20Thesis)
->
-> *   Agents do not tend to factorize into an Orthogonal value-like component and a Diagonal belief-like component; rather, there are Oblique components that do not factorize neatly.
->
-> *   [Diagonality](https://www.lesswrong.com/posts/vdATCfuxdtdqM2wh9/the-obliqueness-thesis#:~:text=a%20possible%20formulation%3A-,Diagonality%20Thesis%3A,-Final%20goals%20tend)
->
-> *   All sufficiently advanced systems converge towards maximizing intelligence/power/influence/self-evidencing, shredding all their other values in the process.
->
-> *   [Universalist moral internalism](https://www.lesswrong.com/w/orthogonality-thesis#Relation_to_moral_internalism)
->
-> *   What is right must be _universally_ motivating so all sufficiently advanced AI systems discover objective moral truth and do Good Things. (Maybe it takes them a while to converge)
+*   [Strong Orthogonality](https://www.lesswrong.com/w/orthogonality-thesis)
+    *   All goals are equally easy to design an agent to pursue, beyond the inherent tractability of that goal.[4]
+
+*   [Orthogonality](https://www.lesswrong.com/w/orthogonality-thesis)
+    *   There can exist arbitrarily intelligent agents pursuing any kind of goal.
+
+*   [Obliqueness](https://www.lesswrong.com/posts/vdATCfuxdtdqM2wh9/the-obliqueness-thesis#:~:text=an%20%22obliqueness%20thesis%22.-,Obliqueness%20Thesis%3A,-The%20Diagonality%20Thesis)
+    *   Agents do not tend to factorize into an Orthogonal value-like component and a Diagonal belief-like component; rather, there are Oblique components that do not factorize neatly.
+
+*   [Diagonality](https://www.lesswrong.com/posts/vdATCfuxdtdqM2wh9/the-obliqueness-thesis#:~:text=a%20possible%20formulation%3A-,Diagonality%20Thesis%3A,-Final%20goals%20tend)
+    *   All sufficiently advanced systems converge towards maximizing intelligence/power/influence/self-evidencing, shredding all their other values in the process.
+
+*   [Universalist moral internalism](https://www.lesswrong.com/w/orthogonality-thesis#Relation_to_moral_internalism)
+    *   What is right must be _universally_ motivating so all sufficiently advanced AI systems discover objective moral truth and do Good Things. (Maybe it takes them a while to converge)
 
 [1] And not just for crafting much of the memeplex which birthed e/acc.
 

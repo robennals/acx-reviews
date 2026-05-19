@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.573Z'
 slug: revolt-of-the-public-by-martin-gurri
 wordCount: 1940
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Politics

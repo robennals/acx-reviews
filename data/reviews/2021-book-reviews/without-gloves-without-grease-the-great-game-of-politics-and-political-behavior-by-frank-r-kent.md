@@ -1,16 +1,16 @@
 ---
-title: "'Without Gloves', 'Without Grease', 'The Great Game of Politics' and 'Political Behavior' by Frank R Kent"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: '''Without Gloves'', ''Without Grease'', ''The Great Game of Politics'' and ''Political Behavior'' by Frank R Kent'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "without-gloves-without-grease-the-great-game-of-politics-and-political-behavior-by-frank-r-kent"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: without-gloves-without-grease-the-great-game-of-politics-and-political-behavior-by-frank-r-kent
 wordCount: 1151
 readingTimeMinutes: 6
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Politics
   - History
@@ -22,7 +22,7 @@ Politicians paraphrased him. When FDR spoke against 'Fat Cats', I thought he was
 
 >  'Men of large means, who having reached middle age, having achieved success in finance or business and there being no further sense in the mere piling up of millions, develop a yearning for some sort of public honor or prestige.
 >
->     ...Such men are known in political circles as 'Fat Cats and they are as welcome in the organization as flowers in May. This can be accepted as fact- any 'Fat Cat'  able and willing to spend as much as necessary can get what he want in state politics, provided he has not exercised the excessively bad judgment of picking a party hopelessly in the minority in his state. In other words, while under normal circumstances the nominations for higher offices go to the men who have come up the escalator, when a 'Fat Cat' appears on the horizon, there is a rush to take him'.
+> ...Such men are known in political circles as 'Fat Cats and they are as welcome in the organization as flowers in May. This can be accepted as fact- any 'Fat Cat'  able and willing to spend as much as necessary can get what he want in state politics, provided he has not exercised the excessively bad judgment of picking a party hopelessly in the minority in his state. In other words, while under normal circumstances the nominations for higher offices go to the men who have come up the escalator, when a 'Fat Cat' appears on the horizon, there is a rush to take him'.
 
 So FDR was partly attacking the rich as such and partly attacking rich men who wanted to get into politics, say Orange Hitler 2015.
 

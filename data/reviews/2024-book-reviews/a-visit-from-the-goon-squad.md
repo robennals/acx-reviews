@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:15.594Z'
 slug: a-visit-from-the-goon-squad
 wordCount: 3308
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Fiction

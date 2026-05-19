@@ -7,9 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:18.041Z'
 slug: addiction-by-design
-wordCount: 5183
+wordCount: 5163
 readingTimeMinutes: 24
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-addiction-by-design'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-addiction-by-design
 source: acx
 tags:
   - Psychology
@@ -26,7 +26,7 @@ One explanation is that TikTok is a good corporate citizen that helps its users 
 
 > Sometimes employees at Netflix think, ‘Oh my god, we’re competing with FX, HBO, or Amazon’ … [W]e actually compete with sleep.
 > 
-> - Reed Hastings
+- Reed Hastings
 
 Randomness is addictive, in rats. B. F. Skinner learned that when he created his eponymous rat boxes. The boxes had levers that, when pressed, dispensed food pellets. Rats in boxes where one press resulted in one pellet pressed the lever when hungry. But rats in boxes where one press randomly resulted in no, one, or many pellets, became addicted to pressing the lever. That mammalian attraction to randomness lies at the heart of all gambling.
 
@@ -105,7 +105,7 @@ The book’s description of machine gambling addiction forced me to rethink two 
 
 > Guns don’t kill people, people kill people
 > 
-> - NRA
+- NRA
 
 **I.**
 

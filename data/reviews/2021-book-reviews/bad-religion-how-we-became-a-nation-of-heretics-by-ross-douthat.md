@@ -7,10 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.563Z'
 slug: bad-religion-how-we-became-a-nation-of-heretics-by-ross-douthat
-wordCount: 5982
+wordCount: 5948
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Religion
@@ -71,15 +70,14 @@ Beyond the obvious criticisms that the prosperity gospel is incomplete (Douthat�
 
 This fallacy, though, is not limited to the prosperity gospel:
 
-> 1.  Fictional Steve Prefontaine in movie “Without Limits” when he claims “I run to see who has the most guts.”
-> 2.  The successful science professor who says “Whenever I worked hard, the experiment worked out for me, so you must be slacking.” (not a paraphrase…)
-> 3.  “The people who think admission to an Ivy League university was because they were superior, intellectually and perhaps morally, to those not as fortunate. They wanted to be the college admission version of John Calvin’s ‘elect,’ and they didn’t want luck to play any part of their admission” from [Ethical College Admissions: Ivy Lottery](https://www.insidehighered.com/admissions/views/2021/01/11/should-ivy-league-universities-conduct-admissions-lottery-opinion)
->
-> 1.  Note: this is true even if elite colleges stopped admitting legacies or athletes or stopped preferentially accepting people willing to pay full tuition (i.e. early decision)
-> 2.  The truth is almost everyone who is accepted to an elite college is qualified and deserves to be there (yes, the athletes and legacies too) —it’s just that there are many, many other people who are also qualified.
-> 3.  It’s why I support a lottery like Nathan Robinson’s [Admit Everybody](https://www.currentaffairs.org/2018/03/admit-everybody)
->
-> 4.  the entrepreneur who thinks his business succeeded only because he worked hard
+1.  Fictional Steve Prefontaine in movie “Without Limits” when he claims “I run to see who has the most guts.”
+2.  The successful science professor who says “Whenever I worked hard, the experiment worked out for me, so you must be slacking.” (not a paraphrase…)
+3.  “The people who think admission to an Ivy League university was because they were superior, intellectually and perhaps morally, to those not as fortunate. They wanted to be the college admission version of John Calvin’s ‘elect,’ and they didn’t want luck to play any part of their admission” from [Ethical College Admissions: Ivy Lottery](https://www.insidehighered.com/admissions/views/2021/01/11/should-ivy-league-universities-conduct-admissions-lottery-opinion)
+    1.  Note: this is true even if elite colleges stopped admitting legacies or athletes or stopped preferentially accepting people willing to pay full tuition (i.e. early decision)
+    2.  The truth is almost everyone who is accepted to an elite college is qualified and deserves to be there (yes, the athletes and legacies too) —it’s just that there are many, many other people who are also qualified.
+    3.  It’s why I support a lottery like Nathan Robinson’s [Admit Everybody](https://www.currentaffairs.org/2018/03/admit-everybody)
+
+4.  the entrepreneur who thinks his business succeeded only because he worked hard
 
 Douthat seems to be worried that “the result is a country where religion actively promotes the sort of recklessness that produced our economic meltdown, rather than serving as a brake on materialism and a rebuke to avarice” (5, Bad Religion).
 
@@ -117,37 +115,36 @@ In one study, Philip Tetlock shows that many people commonly discover that half 
 
 Christian Statements
 
-> 1.  “The stories (New Testament)….tell us nothing whatsoever about the origins of Christian faith but quite a lot about the origins of Christian authority” John Crossan (171, Bad Religion)
-> 2.  The “exodus story” is a myth because we do not have archaeological evidence.
+1.  “The stories (New Testament)….tell us nothing whatsoever about the origins of Christian faith but quite a lot about the origins of Christian authority” John Crossan (171, Bad Religion)
+2.  The “exodus story” is a myth because we do not have archaeological evidence.
 
 Science
 
-> 1.  No aliens exist.
-> 2.  One study shows flossing doesn’t reduce cavities or gum disease, so flossing has no benefit.
-> 3.  Hunter-gatherer societies never had woman hunters.
-> 4.  The Out of Africa hypothesis is true because all ancient hominid were fossils found in Africa.
-> 5.  “While mammals and birds possess the prerequisite neural architecture for phenomenal consciousness, it is concluded that fish lack these essential characteristics and hence do not feel pain.” a 2014 [scientific article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4356734/) published in Springer: Biology and Philosophy
+1.  No aliens exist.
+2.  One study shows flossing doesn’t reduce cavities or gum disease, so flossing has no benefit.
+3.  Hunter-gatherer societies never had woman hunters.
+4.  The Out of Africa hypothesis is true because all ancient hominid were fossils found in Africa.
+5.  “While mammals and birds possess the prerequisite neural architecture for phenomenal consciousness, it is concluded that fish lack these essential characteristics and hence do not feel pain.” a 2014 [scientific article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4356734/) published in Springer: Biology and Philosophy
 
 Polling (aka Silver was right and I will not be taking questions about the 2016 election at this time)
 
-> 1.  “I get why Silver wants to hedge. It’s not easy to sit here and tell you that Clinton has a 98% change of winning. Everything inside us screams out that life is too full of uncertainty, that being so sure is fantasy. But that’s what the numbers say." (Ryan Grim, [Nate Silver is Unskewing Polls –All of Them—In Trump’s Direction](https://www.huffpost.com/entry/nate-silver-election-forecast_n_581e1c33e4b0d9ce6fbc6f7f))
-> 2.  While 538 is great and mostly well-calibrated, they need to update their NBA playoff predictions. Their RAPTOR model’s skepticism of the Lakers wasn’t credible (the model actually favored the Rockets and Heat in last year’s playoffs)
+1.  “I get why Silver wants to hedge. It’s not easy to sit here and tell you that Clinton has a 98% change of winning. Everything inside us screams out that life is too full of uncertainty, that being so sure is fantasy. But that’s what the numbers say." (Ryan Grim, [Nate Silver is Unskewing Polls –All of Them—In Trump’s Direction](https://www.huffpost.com/entry/nate-silver-election-forecast_n_581e1c33e4b0d9ce6fbc6f7f))
+2.  While 538 is great and mostly well-calibrated, they need to update their NBA playoff predictions. Their RAPTOR model’s skepticism of the Lakers wasn’t credible (the model actually favored the Rockets and Heat in last year’s playoffs)
 
 Covid-19 Edition
 
-> 1.  I haven’t had Covid-19 symptoms, so I haven’t had Covid-19.
-> 2.  “Is this going to be a deadly pandemic? No.” ([deleted Vox tweet](https://www.thewrap.com/vox-deletes-january-tweet-coronavirus-not-deadly/)).
-> 3.  “[The Conspiracy theories about the origins of the coronavirus, debunked](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab)”
->
-> 1.  “But already, virologists who’ve parsed the genome and infectious disease experts who study coronaviruses say they have enough evidence the virus is brand new and came from nature” ([fifth paragraph](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab), vox, again)
->
-> 4.  “[baseless theory that Covid-19 was manufactured in a Chinese Lab](https://twitter.com/kmele/status/1364607470690181122?s=20)” from NYT
+1.  I haven’t had Covid-19 symptoms, so I haven’t had Covid-19.
+2.  “Is this going to be a deadly pandemic? No.” ([deleted Vox tweet](https://www.thewrap.com/vox-deletes-january-tweet-coronavirus-not-deadly/)).
+3.  “[The Conspiracy theories about the origins of the coronavirus, debunked](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab)”
+    1.  “But already, virologists who’ve parsed the genome and infectious disease experts who study coronaviruses say they have enough evidence the virus is brand new and came from nature” ([fifth paragraph](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab), vox, again)
+
+4.  “[baseless theory that Covid-19 was manufactured in a Chinese Lab](https://twitter.com/kmele/status/1364607470690181122?s=20)” from NYT
 
 Note Vox’s article, “[Covid-19 vaccine trials are showing promising results. A lot can still go wrong](https://www.vox.com/21311768/covid-19-coronavirus-vaccine-available-moderna-fauci)” is epistemically correct.
 
 I’m susceptible too
 
-> 1.  My “family myth” about my ancestor who changed his name from Andersson while in transit from Germany is false. (I “knew” this was so because there was no evidence, other family stories are also false, and the commonality of “Andersson” was suspicious). Turns out, I’m related to an Anders Larsson from Sweden. Given Swedish patronymics, this means my ancestor originally called himself Andersson.
+1.  My “family myth” about my ancestor who changed his name from Andersson while in transit from Germany is false. (I “knew” this was so because there was no evidence, other family stories are also false, and the commonality of “Andersson” was suspicious). Turns out, I’m related to an Anders Larsson from Sweden. Given Swedish patronymics, this means my ancestor originally called himself Andersson.
 
 But don’t overcorrect. Don’t be a [scared](https://twitter.com/conor64/status/1366276761084829696?s=20), [half-committed](https://apnews.com/article/586b1e81cb684654b0cf689b9074c1cb), [appeasement-seeking](https://www.thenation.com/article/politics/trump-coup-riot-congress/) [poll herder](https://fivethirtyeight.com/features/heres-proof-some-pollsters-are-putting-a-thumb-on-the-scale/). (said in [this tone](https://www.youtube.com/watch?v=5PT20MU6WXs))
 
@@ -170,7 +167,7 @@ Some theories that are probably false include the rise of education, urban life,
 But if you look at the data, it’s clear that liberals are becoming non-religious at a much higher rate than moderates or conservatives. This article at 538, [The Christian Right Is Helping Drive Liberals Away From Religion](https://fivethirtyeight.com/features/the-christian-right-is-helping-drive-liberals-away-from-religion/)” by Amelia Thomson-Deveaux is very persuasive and provides evidence for the claim that the biggest reason for the decline of Christianity is the Christian right.
 
 ![Chart, line chart
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/c1ad9d01de5735a2.png)
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/f611ac388f4c4adb.png)
 
 We’ve talked a lot about political polarization with respect to political parties and ideological conformity, and I’m not convinced that political polarization is a bad thing for political parties or the American political system. But the association of Christianity with the Right is very bad for Christianity writ large. Ideally, a Christian church should transcend partisanship and sometimes challenge the political consensus of the Republican Party, the Democratic Party, or both. Jesse Jackson, Al Sharpton, Pat Robertson, and Mike Huckabee running for president are symptoms of too many religious leaders (Robert Jeffress, Jerry Falwell Jr. among others) becoming overtly partisan. More obviously, the evangelical community identifying with the Republican party “magnified their political strength even as it compromised their moral credibility.” (69, Bad Religion). To Douthat, it’s depressing that “frequent churchgoers were the most fervent supporters of waterboarding detainees, among other seemingly un-Christian practices” (141, Bad Religion). As Douthat observes about the Christian Right: “resentment, partisanship, hero worship, martial language…these were unattractive features for a movement whose primary goal was supposed to be winning converts, not elections” (141, Bad Religion).
 
@@ -180,12 +177,12 @@ After earning my Eagle Scout in 2009, the Boy Scout Council gave me a signed cop
 
 To evaluate the other causes, though, it’s important to have the correct mental model about how large and widespread this decline actually is. This graph from Pew Research Center shows that the decline in religiosity is largely a generational effect.
 
- ![Large generation gap in American religion](https://acximages.ennals.org/images/2021-book-reviews/ec1da702d413354e.png)
+ ![Large generation gap in American religion](https://acximages.ennals.org/images/2021-book-reviews/45f34dd0949c820e.png)
 
 And before you think this phenomenon is just because young people are more likely to be less-religious; it’s pretty clear that the generational difference in religiosity is not just an age effect. In fact, _every_ generation has declined in religiosity over the last 20 years. (table from Gallup’s [U.S. Church Membership Down Sharply in Past Two Decades](https://news.gallup.com/poll/248837/church-membership-down-sharply-past-two-decades.aspx)) So people are not even attending church more as they age.
 
 ![Graphical user interface, text
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/0e155c05635fa57c.png)
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/c330ed398ebaa0b3.png)
 
 Not only are people not getting more religious, but younger generations are less religious than older generations. From the table, we can see that at the same age, 62% of Gen X belonged to a church while only 42% of Millennials do. The key insight is that the religious preferences of the next generation start young:
 
@@ -236,9 +233,9 @@ But seriously, Douthat seems to misunderstand the unease faced by many theologic
 But my frustration with the “traditional Christianity” faction goes deeper. One proponent of “traditional” Christianity wrote a twitter thread about the Methodist schism that was especially illustrative and infuriating. Among other things, he accuses white theological liberal American Methodists of being racist:
 
 ![Graphical user interface, text, application, email
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/d8d4aef886db6baf.png)![Graphical user interface, text, application
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/e154f34a4e4a531f.png) ![Graphical user interface, text, application
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/25e2c305c6166196.png)
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/3ee016fce06768f6.png)![Graphical user interface, text, application
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/17f561cbdf110241.png) ![Graphical user interface, text, application
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/17cc78b55f6ff925.png)
 
 The debate, as everyone knows, was about whether the United Methodist Church would sanction gay marriage. The fact that this flashpoint also fractured the church politically made the schism possible. So while I’m sad that there’s a schism, it might be for the best.
 
@@ -248,10 +245,10 @@ I don’t expect everyone to want to be Methodist. But Methodism has open commun
 
 Douthat suggests four possibilities for Christianity’s recovery.
 
-> 1.  **The Postmodern Opportunity.** Here, Douthat suggests that it might be possible for people to re-gain the spirt of Christianity in the first-century. The scholarly “radical Orthodoxy” or evangelical “emergent” movement would re-build Christianity from the ground-up with house churches and small groups; with prayer and storytelling.
-> 2.  **The Benedict Option.** Popularized by [Rod Dreher](https://www.amazon.com/Benedict-Option-Strategy-Christians-Post-Christian/dp/0735213291) and practiced by the Church of Latter Day Saints, here Christian communities would self-segregate in a “mustard-seed” strategy.
-> 3.  **New Christendom**. From Philip Jenkins’s [book](https://www.amazon.com/Next-Christendom-Coming-Global-Christianity/dp/0199767467). In this scenario, the emerging centers of Christendom of Sub-Sahara Africa, Pacific Asia, and Latin-America re-evangelize North America and Europe.
-> 4.  **Age of Diminished Expectations**. Last, Douthat suggests that cultural crises might cause a reassessment of modern life and drive people back to the faith of their forefathers.
+1.  **The Postmodern Opportunity.** Here, Douthat suggests that it might be possible for people to re-gain the spirt of Christianity in the first-century. The scholarly “radical Orthodoxy” or evangelical “emergent” movement would re-build Christianity from the ground-up with house churches and small groups; with prayer and storytelling.
+2.  **The Benedict Option.** Popularized by [Rod Dreher](https://www.amazon.com/Benedict-Option-Strategy-Christians-Post-Christian/dp/0735213291) and practiced by the Church of Latter Day Saints, here Christian communities would self-segregate in a “mustard-seed” strategy.
+3.  **New Christendom**. From Philip Jenkins’s [book](https://www.amazon.com/Next-Christendom-Coming-Global-Christianity/dp/0199767467). In this scenario, the emerging centers of Christendom of Sub-Sahara Africa, Pacific Asia, and Latin-America re-evangelize North America and Europe.
+4.  **Age of Diminished Expectations**. Last, Douthat suggests that cultural crises might cause a reassessment of modern life and drive people back to the faith of their forefathers.
 
 Personally, I am partial to the postmodern opportunity (though I would be hesitant about making the analogy too strong to the early Christian church). I respect the confidence of the Benedict option, but in practice I am sad that the Mormons left the Boy Scouts. As for New Christendom? American Christianity is one of the best avenues we have to assimilate the many immigrants needed to achieve [One Billion Americans](https://www.amazon.com/One-Billion-Americans-Thinking-Bigger/dp/0593190211/ref=sr_1_1?dchild=1&keywords=one+billion+americans&qid=1614586691&s=books&sr=1-1).
 
@@ -261,10 +258,10 @@ As for Douthat’s fourth suggestion, well, [I’m a dreamer too](https://www.yo
 
 Douthat provides four suggestions.
 
-> 1.  **political without being partisan.** It may be the case that we have to have liberal and conservative church denominations, with the exception of the Catholic Church. But just because you attend a liberal or conservative church, it doesn’t have to be a partisan church.
-> 2.  **ecumenical but also confessional** Douthat suggests that each denomination should conserve its inheritance. Catholics should still be robust Catholics. Methodists should continue to be inspired by John Wesley. Every denomination should remember its own traditions and inheritance.
-> 3.  **moralistic but also holistic** Douthat suggests that Christianity must not abandon criticism of the seven deadly sins, or to forget the importance of chastity and fidelity. That Christianity must always remember St. Basil’s exhortation that “The bread that you possess belongs to the hungry.”
-> 4.  **oriented toward sanctity and beauty** Douthat suggests Christianity requires “public examples of holiness, and public demonstrations of what the imitation of Christ can mean for a fallen world” (292, Bad Religion). If this revival is accompanied by great Christian songs, art, literary works, or architecture so much the better.
+1.  **political without being partisan.** It may be the case that we have to have liberal and conservative church denominations, with the exception of the Catholic Church. But just because you attend a liberal or conservative church, it doesn’t have to be a partisan church.
+2.  **ecumenical but also confessional** Douthat suggests that each denomination should conserve its inheritance. Catholics should still be robust Catholics. Methodists should continue to be inspired by John Wesley. Every denomination should remember its own traditions and inheritance.
+3.  **moralistic but also holistic** Douthat suggests that Christianity must not abandon criticism of the seven deadly sins, or to forget the importance of chastity and fidelity. That Christianity must always remember St. Basil’s exhortation that “The bread that you possess belongs to the hungry.”
+4.  **oriented toward sanctity and beauty** Douthat suggests Christianity requires “public examples of holiness, and public demonstrations of what the imitation of Christ can mean for a fallen world” (292, Bad Religion). If this revival is accompanied by great Christian songs, art, literary works, or architecture so much the better.
 
 What does this look like practice?
 

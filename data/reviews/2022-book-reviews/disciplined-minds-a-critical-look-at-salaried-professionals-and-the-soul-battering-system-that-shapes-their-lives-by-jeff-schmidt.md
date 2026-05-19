@@ -1,19 +1,15 @@
 ---
-title: >-
-  Disciplined Minds: A Critical Look at Salaried Professionals and the
-  Soul-Battering System That Shapes Their Lives by Jeff Schmidt
+title: 'Disciplined Minds: A Critical Look at Salaried Professionals and the Soul-Battering System That Shapes Their Lives by Jeff Schmidt'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.698Z'
-slug: >-
-  disciplined-minds-a-critical-look-at-salaried-professionals-and-the-soul-battering-system-that-shapes-their-lives-by-jeff-schmidt
+slug: disciplined-minds-a-critical-look-at-salaried-professionals-and-the-soul-battering-system-that-shapes-their-lives-by-jeff-schmidt
 wordCount: 2705
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Society
@@ -62,7 +58,7 @@ Earlier in this same chapter, Schmidt makes clear that the difference between th
 
 > The _Times_ is written for a readership of professionals, who need ideological direction and reassurance of the system’s strength. The _Journal_ is written for bosses—business owners and executives—who give direction and do not need to be reminded where their interests lie. Among _Journal_ subscribers, mangers outnumber professionals more than three to one. Among _Times_ readers, professionals outnumber managers three to two. (44)
 
-In the year 2000, Schmidt identifies the _Times_ as the paper of record for professionals, namely, for the segment of the population that is charged with enforcing the ideological interests of their bosses. As Schmidt is a leftist, it goes without saying (although he says so plenty) that the interests of these bosses is that of capitalist self-interest. Therefore, any notion that professionals as a group are “liberals” is the result of a misunderstanding of how professionals actually influence society (in Schmidt’s definition, “the set of _relationships_ among… the collection of individuals who happen to live within the national boundaries”). While public opinion polls do show that “professionals are more liberal than non-professionals on many social issues, such as civil liberties, personal morality and cultural issues” (13), the fact is that they are not actually liberal where it counts, namely, on the job:
+In the year 2000, Schmidt identifies the _Times_ as the paper of record for professionals, namely, for the segment of the population that is charged with enforcing the ideological interests of their bosses. As Schmidt is a leftist, it goes without saying (although he says so plenty) that the interests of these bosses is that of capitalist self-interest. Therefore, any notion that professionals as a group are “liberals” is the result of a misunderstanding of how professionals actually influence society (in Schmidt’s definition, “the set of _relationships_ among… the collection of individuals who happen to live within the national boundaries”). While public opinion polls do show that “professionals are more liberal than non-professionals on many social issues, such as civil liberties, personal morality and cultural issues” (13), the fact is that they are not actually liberal where it counts, namely, on the job:  
 
 > If, for example, you were given the power to dictate the outlook that governs the day-in day-out decision-making of a professional at work, and I were given the power to dictate the outlook that governs what that professional does inside the voting booth once every four years, then your power to shape society would be vastly greater than mine. (12-3)
 

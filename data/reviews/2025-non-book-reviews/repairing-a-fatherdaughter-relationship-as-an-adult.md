@@ -7,21 +7,19 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: repairing-a-fatherdaughter-relationship-as-an-adult
-wordCount: 5227
+wordCount: 5203
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Memoir
   - Religion
 ---
 
-> 1.  ## Introduction
->     
->
-> 1.  ### A song from my past
->     
+1.  ## Introduction
+    
+    1.  ### A song from my past
+        
 
 _“Now that she’s back in the atmosphere / With drops of Jupiter in her hair…”_
 
@@ -45,8 +43,8 @@ During his life, I wouldn’t be able to write something like this, because… w
 
 But Dad passed away two years ago, so he’s beyond my puny misjudgements and relational fumblings. Our story is fair game now.
 
-> 2.  ## Problems
->     
+2.  ## Problems
+    
 
 A few years back, I remember an online conversation where one person commented he’d had a happy family growing up, and a happy family as a father, but, from talking to his (now-adult) children, he gathered many of their friends had a very different experience.
 
@@ -72,33 +70,35 @@ But well into my late 20s, maybe even into my 30s, I would lie in bed staring up
 
 But I–really both Dad and I–did indeed find a way to bridge this silent gap. And, to my surprise, I was able to see Dad mellow with age.
 
-> 3.  ## Resources
->     
+3.  ## Resources
+    
+    2.  ### The Heroes and Poets
+        
+    
+    3.  ### The Love of My Life.
+        
+    
+    4.  ### A New View of What’s Past
+        
+    
+    5.  ### Circumstances Beyond your Control
+        
 
 To bridge this gap, we needed to leverage resources that we did not yet have.
 
 But think about it: In the face of his parents’ choices, a seven-year-old child is comparatively powerless: He doesn’t have an imagination for the influence that he _could_ have on his parents at twenty-seven. To really win at filial love, he needs to grow and mature–but he should take care _how_ he shall grow: “_Keep your heart with all vigilance, for from it flow the springs of life._”
 
-> 2.  ### The Heroes and Poets
->     
->
 > Where would I be without heroes? A poor example of a human being, and a woman trying to live without hope.
 >
 > My dad’s driving narratives were cynical: “Kid, someday you’ll learn that people are assholes.” “Religious people are all hypocrites.” (But he always bestowed these dad-proverbs as someone with “an axe to grind.”) Or he’d say “Nobody really wants you to bother them.” (Decades later, I could stand on my own two feet, and say to myself, “Maybe nobody wants _him_ to bother them, but that is not how things are for _me_.”)
 >
 > I needed my heroes to keep my hope. But, hey, I was literate, my parents had encouraged me to read longer books–so my youth was luminous with them: Isaiah. Moses. Paul the Apostle. Joseph, son of Jacob, reconciling his broken family. Daniel. Calm counselors and teachers in the modern days: C.S. Lewis, an ever patient voice. (I always forget how pleasant he is when I haven’t read him in awhile.) George MacDonald or someone reminding someone that though they grew up, they perhaps rather ought to have _grown down._ Amy Carmichael and Elizabeth Eliot. Some guy whose name I have not retained, who had been a thief before becoming a Christian, and when he learned about restitution embraced a new holy task: living on a small salary from an honest job, when he received his paycheck each week, he went to the Post Office and mailed envelopes of money to those he had stolen from to give back what he had taken. (How did he know the names of everyone he had stolen from and the amounts, I always wonder?) Corrie Ten Boom. Brother Yun. Step back in time, and you have Hudson Taylor and Jonathan Edwards. Augustine.
 >
-> 3.  ### The Love of My Life.
->     
->
 > When you come out of this, and then you get married, the person who most bears the brunt of the cost and the need to sacrifice… is your spouse. Or so it was with me.  My husband sacrificed so much as my many dysfunctionalities ran up against the realities of life.
 >
 > I remember how since I, like my mom, had learned how to “manage” the frail ego of my upset dad (try to find reasons why I myself am to blame for anything that has gone wrong, true or untrue, and bring them forth). Then when I projected this on to my husband who very-much was not looking for verbose self-castigation out of me as a way to “make things better” when one of us screwed up. It… was kind of an insult, if unintended. Once, when he told me that assigning blame was not what he was looking for, I was drawn up short and wondered: “Okay, what else could I even be trying to do now?” (Wonder of wonders, a possible answer presented itself to my mind. It was something to the effect of: _attempt to fix the presenting problem._ Or, if it’s too late for that–amelioration or do an after-action review.) In my childhood, maintaining the social reality of “Dad is not wrong” had seemed to be what was most necessary if you wanted to avoid disaster. It overrode everything. But as an adult, I could still change.
 >
 > And the sacrifice–just knowing my husband was sacrificing for me, and without giving in to bitterness or apathy at his circumstances–was such a gift. And when you get a gift like that, you don’t want to squander it.
->
-> 4.  ### A New View of What’s Past
->     
 >
 > My husband, too, could tell me things that nobody else could. He would listen to the hardest things I experienced, and so, over the years, he could also speak to them–notice something new.  
 >
@@ -112,13 +112,10 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 >
 > And it’s a fear I can understand.
 >
-> 5.  ### Circumstances Beyond your Control
->     
+> This is going to sound like I’m saying “You can just throw your problems at your… other problems!” But sometimes you really can. My relationship with my dad has greatly benefitted from the disappointments common to life and even frightening circumstances beyond my control.
 >
-> This is going to sound like I’m saying “You can just throw your problems at your… other problems!” But sometimes you really can. My relationship with my dad has greatly benefitted from the disappointments common to life and even frightening circumstances beyond my control.  
->   
-> I remember when my husband lost a job, how surprised I was with my dad’s instant sympathy for him. (This is my dad who would always talk about how when he lost a job, he’d go around to apply at different places and find a new job in about a week! But it’s different when instead of “kids these days who complain so much,” it’s a _particular_ person who’s lost something.)  
->   
+> I remember when my husband lost a job, how surprised I was with my dad’s instant sympathy for him. (This is my dad who would always talk about how when he lost a job, he’d go around to apply at different places and find a new job in about a week! But it’s different when instead of “kids these days who complain so much,” it’s a _particular_ person who’s lost something.)
+>
 > I got a surprise cancer diagnosis when I was an adult, but unusually young to be expecting _that_. Finding a time to get him on the phone was something I fretted and worried and prayed about. (For awhile, much to my frustration, he had asked me to just email him everything, no phone; but I wasn’t willing to do an email _for this_.)
 >
 > The conversation was incredibly powerful: he had instant sympathy for me (of course), but didn’t freak out. (Freaking out over cancer–especially cancer in someone youngish–is shockingly common, I regret to inform you.) Dad was, instead, able to open up and express regrets about the past–about things he said to my mom when she was dying of cancer and he was feeling sorry for himself. And this was–I couldn’t imagine a more precious conversation to be having with him.
@@ -139,9 +136,9 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 
 ## IV. Dad’s Stories
 
-> 1.  ### How we got to the point of Dad sharing the stories I wanted to hear
->     
->
+1.  ### How we got to the point of Dad sharing the stories I wanted to hear
+    
+
 > So I’ve come at you, dear reader, with an insistence on idealism: “Don’t give up,” etc., etc. And that is true, for it is good and right. But it’s not a very detailed picture. “Mash one button, with the word ‘idealism’ printed on it?”
 >
 > And not only that, but–you can’t just do whatever _seems_ like a good idea, because if you’re from a dysfunctional family, some of the things your mind has been trained are “obvious good ideas”/”the only way to do things”–just. aren’t. …either of those things! You need to find out what’s true, how people work… otherwise, your efforts will just be “barking up a dead end.” Sometimes, as a daughter, I might say to myself, “I’m trying to love Dad in spite of his faults,” when I’m really just using that as an excuse for enabling. Because it’s easier than confronting. Other times, I might want to tell myself, “I concluded I need to practice ‘tough love,’ so Dad just needs to deal with it,” when, really, there’s not that much love in it at all: It could be an act of turning her back on someone I love, letting my heart get cold and brittle, but all the while repeating a line from a cliche she heard, so I feel justified. Keep repeating it enough and you’ll believe.  (What I’m saying is, don’t repeat it. Maybe even, “you repeat this mantra at your peril.”)
@@ -198,10 +195,8 @@ Dad’s loyalty for Winston was characteristic. Dad once told me that, whenever 
 
 I could’ve done with the reminder “Remember: he is not you.”
 
-  
 “I didn’t like to dance.” he said.
 
-  
 I turned towards him and wondered where this was going.
 
 “I had pimples and didn’t like being up close near a woman, where she could see that. And you know I had glasses.”

@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.399Z'
 slug: the-sermon-on-the-mount
-wordCount: 6013
+wordCount: 5998
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Religion
@@ -29,12 +28,12 @@ The biggest influences on culture aren't the ones that we debate, but the ones t
 
 Consider how many times you've heard people use the following idioms and aphorisms without consciously realizing that they're quoting Jesus:
 
-> *   Turn the other cheek
-> *   Go the extra mile
-> *   Salt of the earth (describing a person who is humble, dependable, and honest)
-> *   Judge not, lest ye be judged
-> *   (Don't throw your) pearls before swine
-> *   (Beware of) wolves in sheep's clothing
+*   Turn the other cheek
+*   Go the extra mile
+*   Salt of the earth (describing a person who is humble, dependable, and honest)
+*   Judge not, lest ye be judged
+*   (Don't throw your) pearls before swine
+*   (Beware of) wolves in sheep's clothing
 
 And that’s without even touching the obviously-Christian material: “Blessed are the meek, for they shall inherit the earth.” “Store up for yourselves treasures in heaven.” “You are the light of the world.” “You cannot serve both God and money.” And, of course, the _Our Father In Heaven…_, which has been recited aloud by millions every day for nearly two millennia: “Give us this day our daily bread.” “Forgive us our debts as we forgive our debtors.” “Lead us not into temptation.”
 
@@ -208,25 +207,16 @@ At the center of the Sermon on the Mount is a short model prayer in prayer that 
 
 > “This, then, is how you should pray:
 >
-> Our Father in heaven,
->
-> hallowed be your name,
->
-> your kingdom come,
->
-> your will be done,
->
->     on earth as it is in heaven.
->
-> Give us today our daily bread.
->
-> And forgive us our debts,
->
->     as we also have forgiven our debtors.
->
-> And lead us not into temptation,
->
->     but deliver us from the evil one
+> Our Father in heaven,  
+> hallowed be your name,  
+> your kingdom come,  
+> your will be done,  
+> on earth as it is in heaven.  
+> Give us today our daily bread.  
+> And forgive us our debts,  
+> as we also have forgiven our debtors.  
+> And lead us not into temptation,  
+> but deliver us from the evil one
 
 (That's where Jesus's version ends.  There's a popular liturgical version that ends with "_For thine is the kingdom, and the power, and the glory, forever and ever. Amen,"_ as seen in the 1549 Book of Common Prayer compiled by Archbishop Thomas Cranmer.)
 

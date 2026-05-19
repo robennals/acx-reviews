@@ -7,17 +7,16 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.813Z'
 slug: the-oldest-documents-of-the-human-race-by-johann-gottfried-herder
-wordCount: 6853
+wordCount: 6848
 readingTimeMinutes: 31
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - History
   - Religion
 ---
 
-**I.**
+## I.
 
 If you asked me what I thought the greatest law in human history was, I’d probably default to a boringly tame answer: the first amendment, the first line of Germany’s _Grundgesetz_. Maybe if I’m trying to impress a niche crowd I’m going for the [Edict of Nantes](https://en.wikipedia.org/wiki/Edict_of_Nantes). Or maybe I say “the Five Second Rule”, and ridicule my over-earnest questioner for asking such an annoying question in the first place.
 
@@ -47,7 +46,7 @@ I’m also here on a side-quest to convince you that, no, not all German philoso
 
 And as a final welcome side-effect, this book also doubles up as a great performancing-enhancing drug for the popular hobby of Observing Sunrise (rivalling even that other great sunrise supplement, Movies By Richard Linklater).
 
-**II.**
+## II.
 
 Open up _The Oldest Documents of the Human Race_, and within a single paragraph you’ll encounter more exclamation marks than you’d see in an email from a panicked (and [statistically female](https://academic.oup.com/jcmc/article/11/4/1012/4617714)) mid-20s new hiree trying their best to avoid the spectral threat of accidentally passive aggressive prose. Herder writes with the spirit and vigour of the _[Sturm und Drang](https://en.wikipedia.org/wiki/Sturm_und_Drang)_, excoriating his opponents, mass-producing paeans to the ancients, and decrying the corruption of modern man.
 
@@ -61,13 +60,13 @@ It was in this exegesis of Genesis that Herder first made this philosophical pro
 
 To do so, _The Oldest Documents of the Human Race_ has to challenge a number of popular Enlightenment ideas:
 
-> 1.  Humans can use reason to learn the essential content of the divine law through the observation of nature via a process termed “natural theology”.
->
-> 2.  Because religious knowledge is available to all, the claims of the priesthood to arcane wisdom are false.
->
-> 3.  Because man originally possessed this natural reason (which decrees the correct order of things), the continued existence of tyranny is in an important sense a historical accident.
->
-> 4.  This historical accident is in fact the result of a betrayal, an act of _priestcraft_, wherein a powerful class of priestly deceivers usurped the epistemic claim to spiritual knowledge, and used it to oppress the people.
+1.  Humans can use reason to learn the essential content of the divine law through the observation of nature via a process termed “natural theology”.
+
+2.  Because religious knowledge is available to all, the claims of the priesthood to arcane wisdom are false.
+
+3.  Because man originally possessed this natural reason (which decrees the correct order of things), the continued existence of tyranny is in an important sense a historical accident.
+
+4.  This historical accident is in fact the result of a betrayal, an act of _priestcraft_, wherein a powerful class of priestly deceivers usurped the epistemic claim to spiritual knowledge, and used it to oppress the people.
 
 Though Herder thinks tyranny unnatural, and is heavily in favour of liberal reforms and popular participation in government, he regards this story as a load of misleading rubbish.
 
@@ -79,7 +78,7 @@ Read Genesis like this, says Herder, and you will find not the careful and calcu
 
 This makes reading the _Oldest Documents_ a peculiarly moving exercise - one gets the repeated impression that Herder is interrupting himself, resorting again and again to the exclamation mark and increasingly to italics, capital letters or  s p a c i n g  (rendered uniformly as italics in modern editions) in an attempt to convey the all-important urgency and significance of his messages. It reads, at times, like the ramblings of a particularly literary psychosis. Like a psychotic, Herder feels himself in unique possession of an urgent truth. His mission: to “explain and salvage a _revelation from God_ that has been obscured and disfigured for millenia”.
 
-**III.**
+## III.
 
 Let’s turn to the text. The book is several hundred pages long, and Herder covers most of Genesis, unsurprisingly spending a lot of time on Moses in particular. But it’s the early chapters, on Genesis 1-3, where he really shines.
 
@@ -151,7 +150,7 @@ In any case, the discovery that 1) Adam was in some sense a priest; 2) idolatry 
 
 Not a chance.
 
-**IV.**
+## IV.
 
 Ok, I hear you say. But what does this have to do with putting the Sabbath on a political pedestal? And how is this a part of the long shadow-history of German nationalism?
 
@@ -191,7 +190,7 @@ The situation he describes is pretty simple: we live in a world in which force p
 
 Suddenly, everyone is obsessed with the idea that, damn, it sure does look like everything that happens is just the result of Force Prevailing. The follow-up is obvious: “But wait - are we stuck in the predicament? Will everything always just be force all the way down? How and when will _right prevail_?”
 
-![](https://acximages.ennals.org/images/2024-book-reviews/71fbcb58c1c9f4d0.png)![](https://acximages.ennals.org/images/2024-book-reviews/a82fdde25f422d42.png)![](https://acximages.ennals.org/images/2024-book-reviews/65a5c3331a13ff8d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/71fbcb58c1c9f4d0.png)![](https://acximages.ennals.org/images/2024-book-reviews/13452809e24f95a2.png)![](https://acximages.ennals.org/images/2024-book-reviews/65a5c3331a13ff8d.png)
 
 _The equity of these outcomes may  be debatable, but they’re all undeniably the result of Force Prevailing_.
 
@@ -213,7 +212,7 @@ Even worse, it’s not like just _any_ group of people can even be plausibly be 
 
 I encourage you to guess which one - the answer will be posted at the bottom of this review. If you want to hold yourself accountable you can even log your guess _[here](https://forms.gle/GQ6xkErWF2rfoc3U8)_).
 
-**IV.**
+## IV.
 
 The Germans end up taking this to the weirdest possible places.
 
@@ -221,11 +220,11 @@ Immanuel Kant, who was famous for never having sex, adored Rousseau. A portrait 
 
 Kant’s _Groundwork for the Metaphysics of Morals_ basically just applies the logic of the above quoted Rousseau paragraph to morality itself. I refuse to quote Kant out of principle, so I’ll treat you to my own summary instead.
 
-> 1.  Duty to a moral law must arise out of duty to morality itself, and something cannot be moral just because it is imposed through force (“force cannot create right”).
->
-> 2.  Anything which is not the product of an own individual’s will is, strictly speaking, the product of force.
->
-> 3.  Morality too, therefore, must be self-legislated. Any purportedly “moral” precept believed on the basis of outside authority is Positive Law, and is therefore just another example of Force.
+1.  Duty to a moral law must arise out of duty to morality itself, and something cannot be moral just because it is imposed through force (“force cannot create right”).
+
+2.  Anything which is not the product of an own individual’s will is, strictly speaking, the product of force.
+
+3.  Morality too, therefore, must be self-legislated. Any purportedly “moral” precept believed on the basis of outside authority is Positive Law, and is therefore just another example of Force.
 
 This is how Kant ends up with the categorical imperative, history’s most dunked-on principle. Aside from telling you to point the Gestapo in the direction of your hiding Jewish neighbours, however, the categorical imperative does contain an important and compelling argument: real morality is _self-legislated_. Morality cannot be compelled, and thus strictly speaking can never be the result of positive instruction nor the consequence of natural inclination.
 
@@ -239,7 +238,7 @@ Herder - a proud, scholarly and sensitive OG Lutheran - wants to put an early st
 
 _The Oldest Documents_ are his weapon of choice.
 
-**V.**
+## V.
 
 Now we can see Herder’s elevation of the Sabbath in proper light: the only real Lawgiver is God, and he communicates his Laws to us through creation. His method of instruction is _example_: he creates and then rests, and so we should do the same.
 
@@ -263,7 +262,7 @@ The Sabbath - the rule emanating from this revelation - is the origin of man’s
 
 Start taking your Sundays seriously my G’s.
 
-**VI.**
+## VI.
 
 “18th century priest reads Bible and discovers the truth of religion” is hardly a good hook for a book review. So why bother with Herder? Even if his claim about the origins of human learning and order were believable to begin with, it certainly don’t seem it now. In any case, the _Epic of Gilgamesh_ seems a likelier candidate for humanity’s oldest document. Cave paintings don’t bear much metaphysical fruit either.
 
@@ -301,9 +300,9 @@ _**Epilogue II. The Oldest Documents in the age of Deep Learning**_
 
 We all know that _2001: A Space Odyssey_ was woefully wrong in its predictions of humanity’s future. An unexpected outcome of the deep learning revolution is to invalidate that film’s vision of our past, too.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/fb3bb0b136a89e11.png)                                        ![](https://acximages.ennals.org/images/2024-book-reviews/19b1f97d3ce4431e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/b8c5d4536228f75d.png)                                        ![](https://acximages.ennals.org/images/2024-book-reviews/a2a33c7c1a4384f5.png)
 
-![](https://acximages.ennals.org/images/2024-book-reviews/97c943cddb09dffd.png)![](https://acximages.ennals.org/images/2024-book-reviews/9fefabbfe34fc373.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/97c943cddb09dffd.png)![](https://acximages.ennals.org/images/2024-book-reviews/c0b85b7beb27e35a.png)
 
 There is no monolith. If AI can do it, we can do it too - human ingenuity is looking more and more like statistics and associative learning all the way down. There is no divine message to recover. Adam’s story has no special sauce. Anything and anyone can learn, anywhere.
 

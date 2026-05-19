@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.662Z'
 slug: safe-enough-a-history-of-nuclear-power-and-accident-risk
-wordCount: 8339
-readingTimeMinutes: 38
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+wordCount: 8319
+readingTimeMinutes: 37
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Technology
@@ -26,8 +25,8 @@ _“If you’re not [pursuing safety] cost-effectively, you’re killing people.
 
 —David Okrent, former member of the Advisory Committee on Reactor Safeguards
 
-> 1.  ## Enlightenment Faith
->     
+1.  ## Enlightenment Faith
+    
 
 _Safe Enough?_ is the heartbreaking story of an industry that tried to move fast and break things, and in the process ended up completely broken. But it is also a cautiously hopeful tale of repeated attempts to resuscitate nuclear power through the arduous, and often controversial, process of Probabilistic Risk Assessment (PRA). While it doesn’t fully explain what went wrong with nuclear power, or whether it can be fixed, this book fills in some of the gaps, without the ideological blinders that often define the popular debate.
 
@@ -39,12 +38,12 @@ This argument plays directly to my biases: PRA is sometimes called “the ration
 
 To understand the problems nuclear energy faced in its early years, we need a bit of context: the terrific speed of its arrival and the excitement that surrounded it. Energy industry insiders never really believed nuclear would make electricity “too cheap to meter” (they expected capital costs to be higher than a coal plant’s, due to the more complex equipment and the need to protect the workers from radiation), but they did see it as a manifestation of science and of humanity's bright future, and the obvious solution to rapidly rising demand for electricity. Its promise was threefold: compared to coal or oil, it would have low fuel costs, run on practically inexhaustible reserves of uranium, and create no air pollution. Most experts thought of major nuclear accidents as a remote possibility that barely merited concern. The sooner the transition to energy abundance could happen, the better.
 
-> 2.  ## Crash Course
->     
+2.  ## Crash Course
+    
 
 Twenty-five years after the Wright brothers flew the first airplane, the state of the art in commercial air travel was the Boeing 40B, an open-cockpit biplane that could hold up to four passengers. It mainly carried mail, a program the government introduced to encourage the industry because passenger travel was so unprofitable.
 
-![A Boeing 40B biplane](https://acximages.ennals.org/images/2024-book-reviews/77d9f22d574d499e.png)
+![A Boeing 40B biplane](https://acximages.ennals.org/images/2024-book-reviews/b53fc3661172dbdf.png)
 
 25 years of aviation technology (Boeing 40B)
 
@@ -70,23 +69,23 @@ How _likely_ this kind of accident was didn’t get as much attention, because t
 
 Recognizing that the Design Basis Accidents did not account for every possibility, the AEC also wanted nuclear plants to follow the principle of “Defense in Depth” by having additional layers of safeguards, like putting the reactor at a remote site and surrounding it with a containment structure. The commissioners believed these passive factors were “more reliable” than active measures like the ECCS.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/9cc23d952aee187d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/fd9b6ddd2426f1d9.png)
 
 Phenomena during a severe accident had not been thoroughly studied [[ref](https://www.intechopen.com/chapters/17972)]
 
 It was a crude approach. The AEC didn't really know whether these protections would be “adequate,” per their regulatory directive, nor could they know if some of their requirements were excessive. The plan, it seems, was to figure things out as they went along.
 
-> 3.  ## Bandwagon Market and Turnkey Power Plants
->     
+3.  ## Bandwagon Market and Turnkey Power Plants
+    
 
 As it turned out, that plan would be severely challenged by the explosive growth of the nuclear industry. After a handful of small demonstration plants, the 1960s saw a meteoric rise in both the number and the size of nuclear plants applying for licenses. The rapid build-out was not organic; it was by design. The two main nuclear vendors, General Electric with its Boiling Water Reactors and Westinghouse with its Pressurized Water Reactors (pictured below), began offering what were called “turnkey” plants. These had a fixed up-front price to the utility that ordered them, with all the investment risk assumed by the manufacturer. The first one, Oyster Creek, sold for just $66 million. Like many others, it was a loss leader, sold below cost in a successful effort to create “a bandwagon effect, with many utilities rushing ahead...on the basis of only nebulous analysis.” Nuclear was the energy of tomorrow, and GE and Westinghouse wanted to bring it to fruition as quickly as possible. Utilities, initially skeptical of untested tech, came to think of a nuclear plant as a feather in their cap that proved they were tech-savvy, bold, and at the forefront of progress.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/db6fd627c6d88788.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/c5cfb01bd6164567.png)
 
 The bandwagon approach had downsides, though. Some of the earlier plants took only about 4 years to build, but as reactors got larger (upwards of 800 MW electric capacity by the mid-1970s) they needed more specialized manufacturing. Build times doubled. Utilities started building new designs before the prior generation was finished. Even plants of the same nominal design were customized by the builders, making every one unique. And bigger, as it turned out, was not always better: larger plants were more complex to operate and maintain. In modern terms, the scale-up was creating more and more technical debt.
 
-> 4.  ## Regulatory Ratchet
->     
+4.  ## Regulatory Ratchet
+    
 
 Safety reviewers couldn’t keep up. What would later become the NRC started as a small division within the AEC (1% of the budget), with just a handful of staff acting as “design reviewers, inspectors, hearings examiners, and enforcers.” It lacked the deep technical knowledge of the research and development labs, meaning that regulatory staff often had to consult with colleagues in charge of promoting nuclear energy. The conflict of interest became clear immediately, and the commission made efforts to keep the regulators independent. The Atomic Energy Act allowed quite a bit of flexibility in the AEC’s approach to safety requirements, but early commissioners (on the advice of Edward Teller) wanted nuclear power to have a higher standard of safety than other industries—partly from fear that an accident would turn the public against the technology.
 
@@ -104,7 +103,7 @@ In an early warning of problems to come, licensing times began to increase. “B
 
 Oyster Creek, started in 1964, featured an innovative Mark I pressure-suppression containment—the same type that failed to protect the Fukushima reactors a half century later. It shrank down the massive steel structure until it fit tightly around the reactor vessel. To deal with the steam burst from a LOCA, it would direct it down an array of pipes into a pool of water where, they hoped, most of it would condense before creating enough pressure to burst the walls. Regulators, uncertain of its safety, granted only a conditional license. And that sort of decision became a trend: “From one application to the next, the AEC demanded new, expensive, redundant safety systems.” According to the AEC, these regulatory “surprises” came about because each plant had a new and unique design. The industry called it excess conservatism and “regulatory uncertainty.” How could builders hope to meet safety requirements that were a moving target?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5068b33bd7dd2b45.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/082bd03c386ddb08.png)
 
 Throughout the 1970s, the AEC “often forced redesign and backfits on plants already under construction,” with no way of knowing how much they would improve safety. The list is long: New rules required seismic restraints, fireproof construction and ventilation, and “greater physical separation of redundant safety-related equipment such as electrical cables.” Everything had to be resistant to heat, humidity, and radiation. [Ref 4]. In one case, by 1976 the AEC had required 64 different upgrades (backfits) for a single reactor.
 
@@ -126,18 +125,18 @@ Antinuclear activists known as “intervenors,” with the support of a few of t
 
 The rules were piling up. In his excellent article [Why Does Nuclear Power Plant Construction Cost So Much?](https://progress.institute/nuclear-power-plant-construction-costs/), Brian Potter shows this graph as an indicator of increases in regulatory requirements and thoroughness of NRC review throughout the 1970s:
 
-![Plot: Cumulative totals of Division 1 Regulatory Guides and Branch Technical Positions Issued by NRC To Date. It rises steadily from near-zero in 1970 to over 250 expected by 1977.](https://acximages.ennals.org/images/2024-book-reviews/2a97ee0777ba6512.png)Increasing regulation: [Szalay 1978](https://inis.iaea.org/collection/NCLCollectionStore/_Public/10/421/10421637.pdf), as quoted [here](https://progress.institute/nuclear-power-plant-construction-costs/)
+![Plot: Cumulative totals of Division 1 Regulatory Guides and Branch Technical Positions Issued by NRC To Date. It rises steadily from near-zero in 1970 to over 250 expected by 1977.](https://acximages.ennals.org/images/2024-book-reviews/8f8b08769fad8d60.png)Increasing regulation: [Szalay 1978](https://inis.iaea.org/collection/NCLCollectionStore/_Public/10/421/10421637.pdf), as quoted [here](https://progress.institute/nuclear-power-plant-construction-costs/)
 
 It's worth nitpicking that the "regulatory guides" and "branch technical positions" shown here were not new regulations being created--they were examples the AEC/NRC gave of methods for showing that a plant meets the requirements. But my understanding is that the people building reactors mostly tried to follow them exactly (to reduce the risk of a denied application), so they are a decent proxy for how detailed and rigorous a license application would need to be. Demonstrating that a design followed all those rules and guidelines took up thousands of pages, and increasingly meant debating back and forth with the reviewers as well.
 
-![Plot of regulatory guides in effect from 1970 to 2023. The steep rise stops in 1978.](https://acximages.ennals.org/images/2024-book-reviews/3fbd6d854c334025.png)
+![Plot of regulatory guides in effect from 1970 to 2023. The steep rise stops in 1978.](https://acximages.ennals.org/images/2024-book-reviews/c95cac5087f79a96.png)
 
 Division 1 (reactor-related) Regulatory Guides from the AEC and NRC [[Ref](https://www.nrc.gov/reading-rm/doc-collections/reg-guides/power-reactors/rg/index.html)]. I couldn't find data on Branch Technical Positions.
 
 But something shifted. If we extend the plot up to the present, it looks like most of the regulatory guides were issued between 1970 and 1978, and then the number stayed flat for the next 20 years before slowly rising again. It may not be a coincidence that 1978 was also the last year any plant started construction until 2013. The regulatory ratchet did not grind to a halt—after the Three Mile Island accident in 1979, for example, the NRC created new requirements for evacuation planning and operator training. But with no new reactor designs to review, practices for applying the existing rules had a chance to stabilize. Reactor designs had finally started to become more standardized around 1975, so there had been time to understand and react to any new issues those designs raised. Regulators were starting to catch up with the pace of change.
 
-> 5.  ## Quantify Risk?
->     
+5.  ## Quantify Risk?
+    
 
 In the early 1970s, the tide of public opinion had started to turn against nuclear power and against the AEC in particular. The AEC represented the military-industrial complex, and the rising environmental movement did not trust its claims about how safe reactors were. The hidden update to the WASH-740 study, with its 45,000 potential deaths, had “sat like a tumor in remission in AEC filing cabinets, waiting to metastasize.” When anti-nuclear crusaders learned of its existence, they considered it proof that the AEC was lying, and demanded its full release. Politically, the AEC needed to be able to prove that the WASH-740 scenario was vanishingly unlikely. But more than that, they needed to show that _all_ accidents with significant consequences were unlikely. If they could calculate probabilities and consequences for every type of reactor accident that might happen, it would allow fair comparisons between the risks of nuclear power and other common dangers, including those of fossil fuels. They needed to “see all the paths to disaster.”
 
@@ -145,7 +144,7 @@ In the early 1970s, the tide of public opinion had started to turn against nucle
 
 WASH-1400, also called the Rasmussen Report after its lead scientist, was to be the first attempt at Probabilistic Risk Assessment. Other industries had already developed a technique called a fault tree, in which the failure probabilities of individual components could be combined, using Boolean logic (“and” gates and “or” gates), to give the failure probability of a multi-component system. The new study aggregated a number of fault trees into an “event tree,” a sort of flow chart mapping the system failures or successes during an incident to its eventual outcome. And in turn, there would be many different event trees derived from various possible ways for an accident to begin.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8aab0458a9b5c2ce.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/17f91a2f7dc44521.png)
 
 Sample PRA. A key innovation of WASH-1400 was to combine the
 
@@ -171,7 +170,7 @@ More helpfully, WASH-1400 provided new insights about what types of accident wer
 
 In 1975, a fire started at the Browns Ferry plant in Tennessee when a worker used a candle to check for air leaks in a chamber where wiring was routed underneath the control room (a standard practice at the time, somehow). The insulation of the control cables burned for seven hours. Like a malicious ghost in a horror movie, it caused equipment all over the plant to switch on and off at random. The operators barely managed to keep the core submerged.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/7c5775fd8c5fd57e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ecba34768da060fc.png)
 
 Fire in the cable trays [[ref](https://blog.ucsusa.org/dlochbaum/fission-stories-98-fires-at-browns-ferry-get-your/)]
 
@@ -187,7 +186,7 @@ The next year, at Three Mile Island, the operators were not so lucky.
 >
 > [Radiation] readings taken after the accident were just a third of levels measured at the site during the 1986 Chernobyl disaster some five thousand miles away. Defense in depth had worked.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/0e556dff6c859eaf.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/9effec6628aab6cb.png)
 
 Though later investigation showed much of the core had melted, it did not escape the reactor vessel, and the containment building worked as designed [[image source](https://sciencephotogallery.com/featured/three-mile-island-damaged-reactor-core-nuclear-regulatory-commissionscience-photo-library.html)]
 
@@ -195,8 +194,8 @@ Defense in depth “may have proven its worth in protecting the public, but not 
 
 As the PRA techniques developed in WASH-1400 proved themselves useful, they began to spread beyond just nuclear accidents. PRA “made knowable the unknown risks of rare catastrophic events” not only to nuclear plants but space missions, chemical plants, and other complex engineered systems.
 
-> 6.  ## Canceled
->     
+6.  ## Canceled
+    
 
 By the mid-1970s, orders for new reactors had collapsed. In the 70s and early 80s, utilities canceled over a hundred reactor orders, 40 percent of them before the accident at Three Mile Island. The reasons were numerous: unexpectedly flat electricity demand, skyrocketing interest rates that made large capital investments unattractive, increasing costs and delays in reactor construction, and public opposition. Some utilities lacked the technical expertise and quality control systems needed for a nuclear plant. “Our major management shortcoming,” the CEO of Boston Edison said, “was the failure to recognize fully that the operational and managerial demands placed on a nuclear power plant are very different from those of a conventional fossil-fired power plant.” Even some nearly complete plants were abandoned or converted to fossil fuels.
 
@@ -214,8 +213,8 @@ Congress obliged, splitting the AEC into the NRC and the Energy Research and Dev
 
 In a Department of Energy survey, utility executives named regulatory burden as a contributing factor in 38 of 100 decisions to cancel. But whoever was to blame, the party was over.
 
-> 7.  ## How Safe is Safe Enough?
->     
+7.  ## How Safe is Safe Enough?
+    
 
 The NRC commissioners answered this question in 1986, in their Safety Goal Policy Statement. Living within a mile of a nuclear power plant should not increase a person's risk of accidental death by more than 0.1%, and living within 10 miles should not increase someone's risk of cancer death by more than 0.1%. ("Accidental death" here means a fatality from acute radiation poisoning, which could take weeks or months.) These criteria have no legal force—they are guidelines to be considered when writing and interpreting regulations. They were carefully chosen to sound reasonable and reassuring, and yet still be achievable. Their purpose, in part, was to end the arbitrary regulatory ratchet and replace it with careful calculations of cost and benefit. A safe enough plant—one that met the goals by a healthy margin—could be exempt from backfit requirements entirely.
 
@@ -223,8 +222,8 @@ For a typical nuclear plant, the 0.1% cancer increase is much more restrictive t
 
 Once the safety goals were established, licensees had to perform at least a rudimentary PRA for each power plant. The NRC placed a lot of trust in the utilities: industry associations peer reviewed their PRAs, but regulators saw only the results. In practice, rather than calculating health effects for each plant, the NRC considered the plant likely to meet the safety goals if it showed a core damage frequency less than 1 in 10,000 years. Most did, at least when considering internal (random) events; adding in earthquakes, tsunamis, tornadoes, etc. made it less clear. Later NRC studies on accident consequences showed fewer deaths than the early PRAs (but more property damage) because releases of radiation could be delayed long enough for thorough evacuations. The possibility of another meltdown began to look less like an intangible looming catastrophe and more like a manageable economic risk.
 
-> 8.  ## The Rise and Strangely Recent Fall of Nuclear Energy
->     
+8.  ## The Rise and Strangely Recent Fall of Nuclear Energy
+    
 
 Why should we still care about nuclear power or how it’s regulated? The economic, political, and technical problems that arose in the 70s killed the dream of nuclear abundance, and left a zombie industry running on inertia. Of the plants that would eventually be completed, none started construction after 1978. Yet miraculously, 40+ years later, it still produced 20% of US electricity. Even today it is our largest source of low-carbon energy. The long series of missteps reversed itself: robbed of growth, the nuclear industry turned inward and found ways to scrape up cost savings and efficiency improvements for the plants it already had.
 
@@ -232,7 +231,7 @@ As construction projects of the 70s, delayed by TMI or the intervenors, slowly c
 
 These power uprates held the total licensed capacity fairly steady until the next round of closures began in 2013. The actual energy being sold to the grid continued to increase into the early 2000s, then stayed flat all the way up to the pandemic dip of 2020. Its time is finally up, though. Despite the recent addition of two units at Plant Vogtle in Georgia, the current downward trend will continue indefinitely unless a new wave of construction succeeds.
 
-![Plot of number of US nuclear plants, total capacity, and energy produced, 1957-2022](https://acximages.ennals.org/images/2024-book-reviews/2d64794ed85b82dc.png)Nuclear Energy in the US ([source](https://www.eia.gov/totalenergy/data/browser/?tbl=T08.01#/?f=A&start=1957&end=2022&charted=1-0-2) with interactive graph)
+![Plot of number of US nuclear plants, total capacity, and energy produced, 1957-2022](https://acximages.ennals.org/images/2024-book-reviews/735a34f9631dd5c1.png)Nuclear Energy in the US ([source](https://www.eia.gov/totalenergy/data/browser/?tbl=T08.01#/?f=A&start=1957&end=2022&charted=1-0-2) with interactive graph)
 
 The trick to producing more energy with fewer and fewer power plants is to increase their capacity factor—the average power level the plant runs at, as a percentage of its maximum capacity. Gas and coal plants need expensive fuel, so when there's low demand for electricity, they save fuel by running at less than their maximum power or shutting off entirely. Intermittent sources (wind and solar) are at the whim of the weather and often have capacity factors as low as 20-25%. But because the fuel for a nuclear plant is relatively cheap, you can hardly save any money by shutting it off when electricity prices dip—plus it takes many hours to start up again. To maximize profit, it needs to be running basically all the time; every interruption is a financial disaster. The average capacity factor in the early 1980s was an abysmal 55%.
 
@@ -244,7 +243,7 @@ One thing that could not be reformed was treatment of low-level radioactivity. P
 
 ### Near Miss
 
-In 2002, a shockingly close call threatened to undermine all the industry’s progress on safety and public trust. A few plants had recently noticed unexpected cracks in control rod nozzles that penetrated the reactor vessel head. Regulators, concerned that a large enough crack might sever a nozzle, warned other PWRs to check for the same problem. The Davis Besse plant in Ohio, on NRC orders and after quite a bit of stalling, shut down to inspect its control rod nozzles for cracks. Instead, workers found a hole in the vessel head the size of a pineapple. Corrosive water leaking from a crack had eaten all the way through the five-inch-thick steel, down to a stainless steel liner just ⅜ of an inch thick. back the 150-atmosphere operating pressure of the coolant. It was the closest any reactor had ever come to a large, or at least a medium-sized, LOCA. If the cavity had been allowed to grow, the liner would eventually have burst, leaving an opening of unknown size for coolant to escape into containment. ![](https://acximages.ennals.org/images/2024-book-reviews/b13399a9efa14939.png)
+In 2002, a shockingly close call threatened to undermine all the industry’s progress on safety and public trust. A few plants had recently noticed unexpected cracks in control rod nozzles that penetrated the reactor vessel head. Regulators, concerned that a large enough crack might sever a nozzle, warned other PWRs to check for the same problem. The Davis Besse plant in Ohio, on NRC orders and after quite a bit of stalling, shut down to inspect its control rod nozzles for cracks. Instead, workers found a hole in the vessel head the size of a pineapple. Corrosive water leaking from a crack had eaten all the way through the five-inch-thick steel, down to a stainless steel liner just ⅜ of an inch thick. back the 150-atmosphere operating pressure of the coolant. It was the closest any reactor had ever come to a large, or at least a medium-sized, LOCA. If the cavity had been allowed to grow, the liner would eventually have burst, leaving an opening of unknown size for coolant to escape into containment. ![](https://acximages.ennals.org/images/2024-book-reviews/c7d058c7cd6cd22d.png)
 
 The hole that ate nearly through the reactor vessel head [[ref](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML042600455)]
 
@@ -254,7 +253,7 @@ The dramatic damage resulted in a record-setting fine for the owner and criminal
 
 The NRC admitted to some mistakes in handling the case, and launched new efforts to improve safety culture among operators, but it doubled down on using PRA for similar decisions in the future. From what they knew at the time, “[t]he increase in the probability of core damage of 5×10-6 (one in two hundred thousand) reactor years was acceptable under NRC guidelines.” Afterward, the NRC added the incident to its Accident Sequence Precursor program, a PRA-based retrospective analysis of all dangerous events at US plants. ASP calculated in hindsight a much higher core damage probability of 6×10-3 for the time the hole existed. But older events looked worse.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1b0a1b66baa8d588.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/50507c0bd334ee58.png)
 
 Conditional core damage risk for various reactor incidents over the years, according to the NRC’s [Accident Sequence Precursor](https://www.nrc.gov/about-nrc/regulatory/research/asp.html) analyses [[data source](https://app.powerbigov.us/view?r=eyJrIjoiNmU2NjJiYjktOTQyYS00OGRhLTk0MGItMmUxNDdlOGI5NTgzIiwidCI6ImU4ZDAxNDc1LWMzYjUtNDM2YS1hMDY1LTVkZWY0YzY0ZjUyZSJ9)]. The two giant bars are the [Browns Ferry fire](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20168A437) and the [Rancho Seco loss of feedwater](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20168A722) event. Davis-Besse’s [head corrosion](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20112F488) in 2002 is far larger than anything else this century. Not included in this chart is Three Mile Island, with a core damage probability of 1.
 
@@ -276,9 +275,9 @@ _Obligatory disclaimer:_ This review contains my own thoughts on the book and su
 
 ## Further Reading and References
 
-> 1.  “A Short History of Nuclear Regulation” ([NUREG/BR-0175](https://www.nrc.gov/reading-rm/doc-collections/nuregs/brochures/br0175/index.html)), co-written by Thomas Wellock, is a shorter and more readable starting point than Safe Enough, while covering a lot of the same history with less attention to PRA.
-> 2.  _Shorting the Grid_, by Meredith Angwin, is not mainly about nuclear energy, but is a good explanation of the weaknesses of energy "markets" and the problems that can arise from infrastructure privatization, a key factor in the tenuous economic viability of nuclear. [https://www.goodreads.com/en/book/show/55716079](https://www.goodreads.com/en/book/show/55716079)
-> 3.  “Ten blows that stopped nuclear power: Reflections on the US nuclear industry’s 25 lean years,” by energy industry analyst Charles Komanoff, is a blog post from the 1990s that brings a valuable perspective on the story of nuclear energy’s demise. [https://www.komanoff.net/nuclear\_power/10\_blows.php](https://www.komanoff.net/nuclear_power/10_blows.php)
-> 4.  _Power Plant Cost Escalation: Nuclear and Coal Capital Costs, Regulation, and Economics_, also by Komanoff, is a book written in 1981 and captures a great deal of detail that later accounts tend to gloss over. [https://www.komanoff.net/nuclear\_power/Power\_Plant\_Cost\_Escalation.pdf](https://www.komanoff.net/nuclear_power/Power_Plant_Cost_Escalation.pdf)
+1.  “A Short History of Nuclear Regulation” ([NUREG/BR-0175](https://www.nrc.gov/reading-rm/doc-collections/nuregs/brochures/br0175/index.html)), co-written by Thomas Wellock, is a shorter and more readable starting point than Safe Enough, while covering a lot of the same history with less attention to PRA.
+2.  _Shorting the Grid_, by Meredith Angwin, is not mainly about nuclear energy, but is a good explanation of the weaknesses of energy "markets" and the problems that can arise from infrastructure privatization, a key factor in the tenuous economic viability of nuclear. [https://www.goodreads.com/en/book/show/55716079](https://www.goodreads.com/en/book/show/55716079)
+3.  “Ten blows that stopped nuclear power: Reflections on the US nuclear industry’s 25 lean years,” by energy industry analyst Charles Komanoff, is a blog post from the 1990s that brings a valuable perspective on the story of nuclear energy’s demise. [https://www.komanoff.net/nuclear\_power/10\_blows.php](https://www.komanoff.net/nuclear_power/10_blows.php)
+4.  _Power Plant Cost Escalation: Nuclear and Coal Capital Costs, Regulation, and Economics_, also by Komanoff, is a book written in 1981 and captures a great deal of detail that later accounts tend to gloss over. [https://www.komanoff.net/nuclear\_power/Power\_Plant\_Cost\_Escalation.pdf](https://www.komanoff.net/nuclear_power/Power_Plant_Cost_Escalation.pdf)
 
 Quotes in this review with no citation are from _Safe Enough_.

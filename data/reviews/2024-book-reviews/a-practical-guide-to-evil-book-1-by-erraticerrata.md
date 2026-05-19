@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-practical-guide-to-evil-book-1-by-erraticerrata
-wordCount: 2728
+wordCount: 2729
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Fiction
@@ -24,25 +23,25 @@ How could I try to sell ACX subscribers on reading_A Practical Guide to Evil_ (P
 
 Well, it’s got a plucky teenage bisexual protagonist making morally dubious choices in a fantastical world with a diverse cast of loveable, likable, and so-hateable-you-love-them characters.  A magic system that’s actually consistent and legible, hilarious dialogue, and frenetic fight sequences…
 
-> *   _No, come on, this isn’t Tumblr, I can do better._
+*   _No, come on, this isn’t Tumblr, I can do better._
 
 While superficially it’s a young adult fantasy epic about Evil triumphing over Good, it takes its world seriously and manages to create a multilayered masterpiece.  Like _A Game of Thrones_, the expansive cast and detailed backstories presented seem like only a glimpse of the world the author created; the details are presented in the order which makes for a compelling story, but the characters and world develop together in ways that are deeply compelling.
 
-> *   _That might work on GoodReads, but I think this series deserves better…_
+*   _That might work on GoodReads, but I think this series deserves better…_
 
 What would you do if you knew you were in a simulation?  As in, your existence is predicated on beings from outside your Reality created you for their own purposes, and your position and continued existence depend on you and the people you interact with doing the bidding of the simulators, but they won't tell you any of the "rules" and the objectives of the simulation are seemingly opaque…
 
-> *   _Oh, that framing might be catnip to ACXers, but I only remember that theme appearing in later books; I wonder if it was present at the start of the series?_  
->
+*   _Oh, that framing might be catnip to ACXers, but I only remember that theme appearing in later books; I wonder if it was present at the start of the series?_  
+
 > _**In the beginning, there were only the Gods.**_
 >
 > _**Aeons untold passed as they drifted aimlessly through the Void, until they grew bored with this state of affairs. In their infinite wisdom they brought into existence Creation, but with Creation came discord. The Gods disagreed on the nature of things: some believed their children should be guided to greater things, while others believed that they must rule over the creatures they had made.**_
-
-_**So, we are told, were born Good and Evil.**_
-
+>
+> _**So, we are told, were born Good and Evil.**_
+>
 > _**Ages passed in fruitless argument between them until finally a wager was agreed on: it would be the mortals that settled the matter, for strife between the Gods would only result in the destruction of all. We know this wager as Fate, and thus Creation came to know war. Through the passing of the years grooves appeared in the workings of Fate, patterns repeated until they came into existence easier than not, and those grooves came to be called Roles. The Gods gifted these Roles with Names, and with those came power. We are all born free, but for every man and woman comes a time where a choice must be made.**_
-
-_**It is, we are told, the only choice that ever really matters.”**_
+>
+> _**It is, we are told, the only choice that ever really matters.”**_
 
 **– First page of the Book of All Things**
 

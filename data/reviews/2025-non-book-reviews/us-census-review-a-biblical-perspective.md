@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.406Z'
 slug: us-census-review-a-biblical-perspective
 wordCount: 2256
 readingTimeMinutes: 11
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Religion
@@ -53,11 +52,11 @@ Donald and Melania Trump both caught Covid in October, 2020.
 
 Thus, every 10 years does the land of the free and the home of the brave sin against their heavenly protector, and every 10 years do they repent of their sin through one of the three options – war, plague, or famine (broadly construed) – as chosen by the sitting president. Alas, had they called up the ghosts of Samuel and Saul, they could well have warned them of the consequences of ignoring the will of God!
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/410cc54121b274d4.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/41be5ded95bbd54f.png)
 
 Census takers themselves, of course, suffer their own personal punishment for participating in such impiety:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/a2b5add514d2a6e3.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0888749ca262d21c.png)
 
 This vicious cycle all started back under the nation’s very first President – Washington. In 1790, the first census was taken, finding the US population to number just under 4 million souls. When God came to Washington to chastise him for his prideful counting, Washington made the choice one would expect of the general who won the War of Independence – and the following year, US troops suffered bitter defeat in the Harner and St. Clair’s offensives of the Northwest Indian War.
 
