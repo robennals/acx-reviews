@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T15:12:16.000Z'
 slug: cry-havoc
-wordCount: 7299
+wordCount: 7303
 readingTimeMinutes: 33
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1gLX00QQl1bQhmA1blMOmJl0GOe9rm53O8MV97gFucjg
@@ -109,9 +109,17 @@ Maybe he has some ethical convictions. But I don't think that they are strong en
 
 Let's address the elephant in the room. Take a look at EG's exports in 2004:
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/b34dd5deb4cb79f1.png)
 
+<figcaption>
+
 From [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/21/Equatorial_Guinea_Exports_Treemap_%282009%29.jpg)
+
+</figcaption>
+
+</figure>
 
 It appears to have lots of oil. So, if you pulled off a coup there, perhaps there could be a bit of money involved. As the man who put the new President in power, you could assume a lot of power, especially if he is constantly surrounded by bodyguards that you command. In fact, you probably have more power than the President in that position, since you aren’t constantly surrounded by gun-toting men on his payroll. You basically get to run a country, a country so oil rich that if you go into the rainforest you see it literally seeping out of some rocks. So there is a bit of wonga to be made. (The EG coup attempt is generally referred to as the "Wonga Coup", as a result of a letter from Mann from prison, saying that his getting out may "[come] down to a large splodge of wonga", "wonga" being some obscure British slang for "money".) Mann insists that money isn't the primary motivation, even if it is a factor:
 

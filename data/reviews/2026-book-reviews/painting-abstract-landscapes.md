@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-26T04:33:50.000Z'
 slug: painting-abstract-landscapes
-wordCount: 7206
+wordCount: 7226
 readingTimeMinutes: 33
 source: gdoc
 originalUrl: https://docs.google.com/document/d/18QZyTWVPOaj_ULIUeen9ZA6SBzTA5q8mUtzFpk2WnBw
@@ -25,9 +25,17 @@ I want to paint, and sometimes like painting, but don’t have a style or direct
 
 The book is about equal parts prints of Gareth Edwards’ paintings, aesthetic opinions from him and his daughter, Kate Reeve-Edwards, and technical instruction about how the reader can themselves create abstract landscapes. Gareth Edwards is a professional artist working in the United Kingdom, and the paintings and processes are his. Kate Reeve-Edwards is a literary analyst, and many of the words are hers, but it’s not clear which. The bulk of the book is written in third person, and is full of poetic quotes and allusions to various art historical figures, which are probably written by Kate, who refers to Gareth as Edwards and GE interchangeably, as I shall also do here. There’s a quote attributed to Picasso, “When art critics get together they talk about Form and Structure and Meaning. When artists get together they talk about where you can buy cheap turpentine." Kate writes a lot about Form, Structure, and her father’s reluctance to commit to any specific Meaning. Gareth has a lot to say about what to do with the turpentine once you have it. There are several prints of the artwork of [Joseph Mallord William Turner](https://www.nationalgallery.org.uk/artists/joseph-mallord-william-turner), one of the first painters to go in more abstract directions with his landscapes, as can be seen, for instance, in [Wind, Steam, and Speed](https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway) (1844)
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/51ca0f083def791a.jpg)
 
+<figcaption>
+
 _Overlook along the Million Dollar Highway_, by the author. 9.5”x9”, Oil and cold wax on paper, 2026
+
+</figcaption>
+
+</figure>
 
 Because of the way the concrete painting advice is bolted together with literary allusions, the most practical content is not the most interesting to write about. The best parts, as a painter, are starting from a randomized, abstract expressionist, “poured” background, painting on a square or nearly square support, buying desaturated tubes of paint instead of always starting from primaries, specific compositional devices, and certain surface techniques. The most interesting thing to think about, on the other hand, is poetic moods, emotional weathers, an artist’s knapsack of themes that recurs throughout their work, about the feeling of color, desire and a sense of need in selecting colors, and the feeling that a painting shouldn’t be too neat and pretty, should be a bit uncertain and complicated, but still look like someplace.
 
@@ -79,17 +87,33 @@ What then? Should I paint that? What should I paint it on? Like most artists, GE
 
 GE likes to dissolve oil paint in turpentine (turps), pour it over his prepared ground, smear paint directly from the tube onto the piece, and wipe or drip it away. Alternately, someone could start by applying the paint from the tube, then blend it, perhaps with their fingers, to begin a section of air, and apply ground with a palette knife. I tried dissolving water mixable oils in water, and pouring them, finger painting, and mixing cold wax medium into the paints and somewhat randomly pulling it about with a silicone wedge. I prefer the oil and cold wax approach [4]. It has some of the melted wax look of encaustic, some of the unpredictability of turps, and is easier to use at the dining room table, when I have to set up, paint, and clean up all within two hours or so.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/b41f5804fc98d31d.png)
 
+<figcaption>
+
 Three Initial layers: a fingerpainting, a pour, and scraped with wax.
+
+</figcaption>
+
+</figure>
 
 After the pour, the next phase is to look at the painting for a while, and consider where it might go. It should have, among other things, a composition that will help the viewer read the image, and Edwards offers suggestions for several possibilities, including the Horizon, the Golden Section, the X, the Inverted Pyramid, or perhaps the Double Pyramid, the Stepped Diagonal, and the Diamond. The horizon is mostly just a strong horizon line, with sky above and ground below. This is powerful and frequently used. The Golden Section is also classic, pleasing, and can be hinted at, as in [The Rising and Falling](https://www.jillgeorgegallery.co.uk/artworks/6202-gareth-edwards-the-rising-and-falling-2020/), where the large, more softly graduated left section is balanced by the tall thin dark section on the right, and the small, calmer light violet square on the top right. The X composition suggests a bit of linear perspective, which is good for leading the eye back in space. The Pyramids are interesting. Portraits tend to be pyramidal, with the smaller head and broader shoulders, and landscapes usually aren’t, though there are painters who will depict a portrait of a cloud, for instance, and it will become very dramatic and detailed. The Inverted Pyramid in landscape can suggest a valley, with deeper tones on the sides, and lighter tones in the center, and it can be nice to overlap a light pyramidal cloud in the center, so that the light section is in a kind of central triangle, making up a valley of light. These and other compositional devices can be overlaid, especially through the subtle forms of the clouds, as in Turner’s [Keelmen Heaving in Coals by Moonlight](https://www.nga.gov/artworks/1225-keelmen-heaving-coals-moonlight) (1835), where there’s an X composition, showing perspective and depth with the ships, and also a pyramidal cloud formation on the center left. I liked this section. Some art teachers forget to teach about composition at all, and others say things that I didn’t understand and couldn't use. The main compositional device I learned and understood previously was “rule of thirds,” where your main horizontal and vertical lines are along thirds lines of the picture plane. So if there were a tree standing in a field, the horizon line for the field might be a third of the way up, and the tree might be two thirds to the right. This is very common, and fine, but Edwards doesn’t mention it until _Air and Water_, towards the end of the book, and it’s nice to have other options that aren’t too hard to pull off.
 
 I looked at my paintings, and applied some compositions to them, too aggressively at times.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/ef1d5ff395ced50a.png)
 
+<figcaption>
+
 Three layers of _Overlook along the Million Dollar Highway_
+
+</figcaption>
+
+</figure>
 
 It started out with a stepped diagonal and horizontal through accident, and I imposed the Golden Section on it because it looked interesting, and I didn’t want to have to wait around for it to emerge spontaneously from my subconscious. The first layer looks interesting as well, and one of the questions I have for this stage is about retaining components of the initial pour in the final painting, since oil paint is very opaque, and it’s easy to just cover it up altogether, even though it does contain interesting drips, unexpected blends, and textures from the dissolved pigments, which like to clot and drip.
 
@@ -129,9 +153,17 @@ Looking at the paintings above, perhaps the memory was of the cloud on the right
 
 The Air, Water, and Land chapters were an interesting pivot, from formal elements of art, to physical elements. The book doesn’t focus on all the formal elements, only those of importance in this specific genre, and so too this section has three of the four classical elements, in accordance with GE’s misty, cool aesthetic. Turner was bolder, with pieces like “_[The Burning of the Houses of Lords and Commons, 16 October 1834](https://en.wikipedia.org/wiki/The_Burning_of_the_Houses_of_Lords_and_Commons)_,” containing plenty of fire, and also signs of people, which Edwards’ paintings lack. In the chapter on _Land_, there’s some information on using raw earth pigments, such as yellow ochre and raw umber, and a tutorial about mixing oil paint from pigment. They encourage readers to trust the viewer, they will see a landscape at the slightest suggestion, and like to fill things in from their own memory and feelings.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/a57417ae63d5a937.jpg)
 
+<figcaption>
+
 _Descent into a Phoenix Exurb_, by the author. 9”x9.5”, Oil and cold wax on paper, 2026
+
+</figcaption>
+
+</figure>
 
 The final chapter has examples of other artists' work, their views of how to finish a painting, and how they know when a painting is done. It amounts to: you have to decide for yourself. The other painters are interesting, and I especially liked [Andrew Hardwick](https://www.andrewhardwick.com), who said that if his art doesn’t sell and returns to him, he paints over it rather than store it, since he has limited storage space.
 
@@ -147,9 +179,17 @@ There are a lot of hints about their emotional makeup that I find foreign, and I
 
 A person can paint and write poetry cleverly, like Lewis Carrol or M.C. Escher; grandly, like Gerard Houckgeest or Tchaikovsky; evocatively and romantically, like John Keats or Gareth Edwards. Whether or not a Thinker is missing out on some Feeling essence in the work, painting Abstract Landscapes, Jungian psychogeographies, and vistas full of atmospheric perspective can be a good practice. It’s easy to get all wound up in the thought space of people talking about assortative mating and TFR and hypergamy and other such things, and it’s good to step out into ancestral moorlands full of tragic love stories, fairies, and atmosphere overtaking everything, covering all human habitation in mystery.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/83ec4aede0572abe.jpg)
 
+<figcaption>
+
 Detail of _Poetic Overlook_, by the author. Oil and cold wax on paper, 2026
+
+</figcaption>
+
+</figure>
 
 ## Conclusion: Beautiful, and Somewhat Useful
 

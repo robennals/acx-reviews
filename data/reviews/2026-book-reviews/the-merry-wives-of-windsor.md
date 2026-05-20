@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T21:00:19.000Z'
 slug: the-merry-wives-of-windsor
-wordCount: 7908
+wordCount: 7948
 readingTimeMinutes: 36
 source: gdoc
 originalUrl: https://docs.google.com/document/d/19Cow6y-2eqpPq4cCgR3WNdaAXKD0AwjS_yUbe4CY4mU
@@ -19,9 +19,17 @@ tags:
 
 ### Prologue: The Teaser
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/0f4e71459d04228a.jpg)
 
+<figcaption>
+
 _David Garrick Between Tragedy and Comedy_ by Joshua Reynolds (1761)
+
+</figcaption>
+
+</figure>
 
 In 1761 the English painter Joshua Reynolds portrayed the stage actor David Garrick pulled between two women, one representing Comedy and one representing Tragedy. In his many-decade career, Garrick was far and away the most celebrated actor of his generation.
 
@@ -58,9 +66,17 @@ You are probably aware of the broad outlines of Shakespeare’s biography. A pro
 
 Some of Shakespeare’s earliest successes involved turning dry historical chronicles into sweeping, powerful dramas. Circa 1595, he and his company launched _Richard II_, a play we mostly know today for the line “_Let us sit upon the ground / And tell sad stories of the death of kings._” It was a political firebomb in Elizabethan England. The tale of banished nobleman Henry Bolingbroke returning from overseas with an army and forcing the abdication of the titular King Richard II had certain resonances with contemporary audiences.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/88c579a36acea31b.jpg)
 
+<figcaption>
+
 Elizabeth I (Armada Portrait), Unknown English Artist, 1588
+
+</figcaption>
+
+</figure>
 
 A monarch on shaky political ground was not dusty history in the 1590’s. Elizabeth I as a female monarch may not have had to work-twice-as-hard-to-get-half-as-far as a male monarch, but she did have to endure twice as many attempts to overthrow her reign. Her father Henry VIII’s establishment of a Protestant Church of England remained controversial amongst her subjects. The Catholic Church in Rome sent Jesuit priests to infiltrate the countryside and perform the forbidden rituals. Elizabeth faced rebellions in Ireland, a Spanish armada (more Catholics) and a faction that believed her cousin Mary, Queen of Scots, had the better claim to the throne.
 
@@ -70,9 +86,17 @@ After the performance, the Queen’s authorities got wind of the planned uprisin
 
 Shakespeare’s company was hauled before the authorities and managed to convince them it was an honest error, having taken the commission to perform an old play only because they were paid forty pounds above their usual rate. This was lucky. Essex and two additional conspirators were beheaded at the Tower of London. Two more of the conspirators were hanged, drawn and quartered. (Gruesome, don’t look it up.) Wriothesely and many others were locked up in the Tower and only released upon the ascension of King James I.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/0954c022f8ff8225.jpg)
 
+<figcaption>
+
 The Execution of Robert Devereaux, 2nd Earl of Essex, woodcut, 17th Century
+
+</figcaption>
+
+</figure>
 
 Scholar and critic Jonathan Bate has made the point that Shakespeare alone amongst his contemporary playwrights was able to avoid plagues, violence and financial turmoil long enough to have a full career. George Peele: died in debt. Thomas Nashe: died in debt. Kit Marlowe: killed in a tavern brawl under suspicious circumstances, possibly to do with espionage. Thomas Kyd: censured for his writings, died in debt. Robert Greene: died of “a surfeit of pickled herring and rhenish wine.” (Remember that.)
 
@@ -88,9 +112,17 @@ Shakespeare hastened to change the name John Oldcastle to John Falstaff for futu
 
 Falstaff does in fact die in the next play in the series, _Henry V_ – off-stage. Some historians speculate the play’s Falstaffian lacuna is due to the Oldcastle controversy but rather I suspect it was from dramatic necessity. Falstaff’s purpose in the narrative was already completed.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/0c0ad6a25f035759.jpg)
 
+<figcaption>
+
 Mihály Zichy, _Falstaff with a Tankard of Wine and a Pipe_, 1873
+
+</figcaption>
+
+</figure>
 
 So what was the purpose of Falstaff, a fictional character in two (kinda three) plays about actual factual kings? Falstaff is a dramatic catalyst twice over, and the combination would prove unforgettable. He is not only part of a crew of lowlifes who provide comic relief from the scenes of high-falutin’ noblemen, he is a father figure for Prince Hal. Over the course of the Henriad (as the trilogy of _Henry IV, Part 1; Henry IV, Part 2_ and _Henry V_ is called), Hal is torn between Falstaff’s boisterous world of whores, drunks and petty thieves and the cloistered, dynastic world of his father, the king. To the King’s great chagrin, Hal resists the obligations of the crown to engage in antics with Falstaff and his crew.
 
@@ -117,9 +149,17 @@ Falstaff thinks he’s playing a joke. He thinks Hal is acting regal for the sak
 
 But there is no longer a private Hal, only Prince Henry. Falstaff and his rude companions are hauled away. And this scene, if not for a play called _The Merry Wives of Windsor_, would be the last appearance of Falstaff in the Shakespeare-verse. In Act I of _Henry V_ we only hear about his death, presumably, from a surfeit of Sherry wine and pickled herring (like Robert Greene) – and/or a broken heart.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/cb8bee9e495037f7.jpg)
 
+<figcaption>
+
 Falstaff Rebuked, Robert Smirke, c. 1795
+
+</figcaption>
+
+</figure>
 
 If you ever have the pleasure of seeing the Henriad plays in short succession, you will know just how much of an impression Falstaff makes. His self-awareness of his own absurdity and his gusto for life’s abundant pleasures makes him instantly vivid. Shakespeare, as the youths might say, _highkey rizzmaxxed_ with Falstaff, _no cap_.
 
@@ -127,9 +167,17 @@ And don’t just listen to the kids. Critic and self-appointed keeper of the Wes
 
 > _When I was a child, and saw Ralph Richardson play Falstaff, I was so profoundly affected that I could never see Richardson again, on stage or screen, without identifying him with Falstaff despite the actor’s extraordinary and varied genius. The reality of Falstaff has never left me, and a half century later was the starting point for this book. If a poor player struts and frets his hour upon the stage, and then is heard no more, we can say that a great player reverberates for a lifetime, most particularly if he acts not only a strong role, but a character deeper than life, a wit unmatched by anyone merely real whom we will ever know._
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/7c14bd4cc9fbad98.jpg)
 
+<figcaption>
+
 Literary critic Harold Bloom, or an actor playing Falstaff? You decide!
+
+</figcaption>
+
+</figure>
 
 Harold Bloom dedicated an entire book to rhapsodising the character’s greatness (Falstaff: Give Me Life [2017]). And yet…
 
@@ -167,9 +215,17 @@ DISCLAIMER: The form of _Merry Wives_ may not strike us as notable by today’s 
 
 What is a situation comedy? It is a show that uses recurring characters to repeatedly tell self-contained comedic stories, often performed in front of a live studio audience. Ladies and gentlemen, I give you the world’s first television sit-com — somehow conceived of prior to the invention of the television! — _The Merry Wives of Windsor_…
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/0167faa904b1178f.png)
 
+<figcaption>
+
 Image generated with ChatGPT
+
+</figcaption>
+
+</figure>
 
 The show opens with a recurring character — but not the one we all came to see, Sir John Falstaff, our loveable Homer Simpson-meets-Frasier Crane type. No, first we find ourselves listening to Falstaff’s frequent foil Justice Shallow, griping to his nephew and a parson about Falstaff’s latest unspecified offense. (Supposed by some to be poaching a deer.) Justice Shallow is the Newman to Falstaff’s Seinfeld: a local government official who is frequently in conflict with the lead. If you didn’t know these characters from seeing the earlier Henry plays, you are now caught up from the very first line.
 
@@ -279,9 +335,17 @@ In 2015, researchers at the University of Alberta were testing the ability of pa
 
 Further testing to isolate what was funny about particular words resulted in a theory of word sound silliness, or the Snunkoople Effect. In [‘Wriggly, Squiffy, Lummox and Boobs: What Makes Some Words Funny?’](https://gwern.net/doc/psychology/novelty/2019-westbury.pdf) (2019) authors C. Westbury and Geoff Hollis propose that fragments of obscenities in a word (‘buck’ evokes ‘fuck’ and ‘cock’; ‘basket’, ‘ass’ “shit’) as well as unlikely repetitions of sounds make some words naturally funnier. They also note that the phoneme /k/ is over-represented in words that people rate as funny.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/562ab558bf949a4b.png)
 
+<figcaption>
+
 Figure 9 from Hollis & Westbury (2019), semantic correlations between vectors of funny words
+
+</figcaption>
+
+</figure>
 
 The idea of the comedy K is well-known amongst today’s comedy writers. In the Neil Simon play _The Sunshine Boys_ (1975), a vaudeville comedian explains to his nephew:
 
@@ -320,9 +384,17 @@ Master Ford of course spends a great deal of time in the scene digging through t
 
 With Master Ford’s jealousy again proven unreasonable and Falstaff’s overtures again thwarted, the wives end the scene with the resolution to let their husbands in on the joke. They will invite them to be part of the final prank on Falstaff.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/db2010d87332713b.jpg)
 
+<figcaption>
+
 Falstaff and the Wives at Herne’s Oak, Robert Smirke, 1789 (The Royal Shakespeare Company Collection)
+
+</figcaption>
+
+</figure>
 
 Mistress Ford for the third time sends word to Falstaff that she wants to meet, this time in the forest at midnight. And she asks him to engage in a little sexy costume play: to dress as Herne the Hunter, a fairy-world character (probably invented for this play) who wears the horns of a stag on his head. (He’s the cuck, get it?) When the superstitious Falstaff enters the grove that local tradition says is enchanted, pretty much all the other characters, disguised as fairies, will surround him and threaten to burn him with their candles.
 
@@ -377,9 +449,17 @@ Above all, if you do read the play, read not from a pedestal but from the pit, t
 
 ### Epilogue: The Post-Credits Tag
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/61481c013a108d7b.jpg)
 
+<figcaption>
+
 _The Apotheosis of David Garrick_ by George Carter (1782, The Royal Shakespeare Company Collection)
+
+</figcaption>
+
+</figure>
 
 In 1782 the English artist George Carter unveiled the painting _The Apotheosis of David Garrick_. In the picture, a pair of angels lift Garrick heavenward as his fellow actors, garbed “in their favorite Habits of Shakespeare” pay their respects. (Amongst the throng are Mrs. Pope as Mistress Page and Mr. Baddely as Doctor Caius.)
 

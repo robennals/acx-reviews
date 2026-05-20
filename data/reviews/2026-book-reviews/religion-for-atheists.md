@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T10:03:56.000Z'
 slug: religion-for-atheists
-wordCount: 5671
+wordCount: 5687
 readingTimeMinutes: 26
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1mXuX7zB-_a1ES7hp-JuTL-W_2Mt4hR5cho94e6hUwl8
@@ -147,9 +147,17 @@ One university course that would live up to de Botton’s standards would be Dea
 
 > “There is one thing I can be sure of: I am going to die. But what am I to make of that fact? This course will examine a number of issues that arise once we begin to reflect on our mortality. The possibility that death may not actually be the end is considered. Are we, in some sense, immortal? Would immortality be desirable? Also a clearer notion of what it is to die is examined. What does it mean to say that a person has died? What kind of fact is that? And, finally, different attitudes to death are evaluated. Is death an evil? How? Why? Is suicide morally permissible? Is it rational? How should the knowledge that I am going to die affect the way I live my life?”
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f5019f5cfe626524.jpg)
 
+<figcaption>
+
 Seen recently on the Book Lovers Facebook page
+
+</figcaption>
+
+</figure>
 
 De Botton describes religion as being more concerned about our willingness to act on what we already know that we should do. This is linked to the Greek concept _akrasia_ - “the mysterious tendency of knowing what to do combined with the stubborn refusal to act, either due to lack of will or carelessness”.
 
@@ -241,9 +249,17 @@ To de Botton, the true difficulty of communicating ideas through art is that the
 
 I’m reminded of reading a story about Bill Murray coming out the other end of a troubling period in his life after stopping by the Art Institute of  Chicago and seeing the painting “The Song of the Lark” by Jules Breton. [[15]](https://www.deviantart.com/techgnotic/journal/Bill-Murray-Can-A-Painting-Save-A-Life-490500677)
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/d69871094a0d0d75.png)
 
+<figcaption>
+
 The Song of the Lark, by Jules Breton, 1884
+
+</figcaption>
+
+</figure>
 
 A lone peasant girl pauses her work to listen to a lark singing in the distance
 
@@ -296,9 +312,17 @@ At the end of the 13th century, skeptics and atheists began their attack against
 
 As per Plato’s advice that philosophers should become kings or kings should become philosophers, it’s obvious to de Botton that writing books is not enough to change things. He supports his claim with a comparison of the financial resources that institutions can gather vs what the most successful individual author can gather.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/799e9106bede4508.png)
 
+<figcaption>
+
 James Patterson is considered the most well paid individual author in the world.
+
+</figcaption>
+
+</figure>
 
 > “The other 99% of authors would not even register on the graph.”
 
@@ -330,9 +354,17 @@ Compte’s secular calendar marked November as the Month of Craftsmanship. On it
 
 He only gathered enough funding to materialize his vision for a Chapel of Humanity in an apartment in a building in the Parisian district Marais.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/02bdc139afaf81d4.png)
 
+<figcaption>
+
 The Religion of Humanity
+
+</figcaption>
+
+</figure>
 
 Love as principle, order as base, progress as goal
 

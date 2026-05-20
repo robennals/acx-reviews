@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-12T11:16:16.000Z'
 slug: the-cambridge-introduction-to-jacques-lacan
-wordCount: 3503
+wordCount: 3511
 readingTimeMinutes: 16
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1KvJqh_czLZ8CZpcXHgyaewT1uA5wui6s8kNBMuz9nfQ
@@ -38,9 +38,17 @@ To understand how Lacan could endlessly tantalize his daughter and his students,
 
 Lacan's words and actions each carry the same important message about the deceptive and self-destructive nature of desire. Strip away the esoteric facade, and Lacan is saying: “You want what you think I've got, because I'm negging you.” The astonishing part is that no students leave the hall; instead they hungrily jot it all down. None of them realize that the only thing they're getting out of the seminars is an inferiority complex.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/451880330bb45eae.png)
 
+<figcaption>
+
 _You want to know what's on the easel because all the normal people are standing in front of the easel where they can look at it. You're the only one behind the easel where you can't see the painting. What kind of person stands there? They're all looking at you, trying to figure what's wrong. (So says Lacan.)_
+
+</figcaption>
+
+</figure>
 
 Lacanian theory—a desirable object that you don't have—is profoundly misleading. Most writers elevate it further out of reach to hint at secret insight, but Todd McGowan tackles it with a clarity and brevity that deflates it. That's precisely what Lacan's theory would predict: when an object is denied to you specifically, he claimed, it seems desirable and you seem defective. Just with clear writing, Todd can clean away the theory's patina of exclusivity.
 
@@ -82,9 +90,17 @@ The homeostatic foundations of recognition are why exclusion feels so awful, why
 
 Self-schema violations are the root of evolved responses to exclusion. Excluded animals are in constant danger, and a specifically evolved pathway links self-schema violations to chronic stress, constant vigilance and persistent anxiety. Exclusion makes everything seem awful and dangerous. It can feel like you have a black hole inside of you, or like something is surely wrong with you but you can't figure out what it is.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/4518cc33a1f4dbee.png)
 
+<figcaption>
+
 _Halsey’s “Gasoline” captures the self-schema violation Lacan exploited._
+
+</figcaption>
+
+</figure>
 
 Any anaesthetic that gets you out of that anxious misery becomes intensely desirable. Desire is encoded by mesolimbic dopamine, the same pathway that's artificially triggered by meth, coke, and ADHD meds. Dopamine increases both motivation and learning; addiction arises when a drug hit makes the new addict learn to associate dopamine release with the people and places of their future drug habit. Later, merely seeing those people and places will be enough to trigger craving. Opioids directly juice the mesolimbic pathway, neatly explaining the addictive qualities of morphine and inclusion.
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T00:50:58.000Z'
 slug: the-end-of-history-and-the-last-man
-wordCount: 4014
+wordCount: 4030
 readingTimeMinutes: 18
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1Z7RRes_NilgrehDPmgldy0NHzG1xds2-zuXHlsnT4-A
@@ -64,9 +64,17 @@ Christianity had the right idea, but it was really just a coping mechanism that 
 
 ## III.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/953b6523c8c59667.png)
 
+<figcaption>
+
 Storming of the Bastille, 1789
+
+</figcaption>
+
+</figure>
 
 The next thymotic push came in the late 18th century when the French and American Revolutions took the ideals of Christianity, those of equality and freedom, and brought them down to earth.
 
@@ -98,9 +106,17 @@ To go to war there needs to be a convincing narrative, which always centers on a
 
 ### Objection 1: "Democracy is in decline and China is thriving"
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/b10f02657d43ebea.png)
 
+<figcaption>
+
 [source](https://ourworldindata.org/democracy?insight=the-world-has-become-much-more-democratic-over-the-last-two-centuries#key-insights)
+
+</figcaption>
+
+</figure>
 
 This is the most common objection to _The End of History_. The last twenty years have seen a decline in liberal democracies, but whether this is a temporary retreat or true reversal of the 100-year trend is still unclear. I realize “just keep waiting” isn’t a great rebuttal, and liberal democracy certainly didn’t grow at the pace Fukuyama expected, but trends as messy as human governance rarely act linearly.
 
@@ -170,13 +186,29 @@ Nietzsche agreed with Hegel that Christianity was a slave ideology of which demo
 
 This objection rests on the idea that excessive isothymia, or universal recognition, will drain the creativity, beauty, and greatness out of our souls. On one hand, he’s right. Democracies do not produce nearly as many beautiful things as monarchies do. We don’t care about [crown jewels](https://en.wikipedia.org/wiki/Crown_Jewels_of_the_United_Kingdom) or [Fabergé eggs](https://en.wikipedia.org/wiki/Faberg%C3%A9_egg) anymore, and modern architecture seems objectively uninspired:
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/9c34dc1eeb29c733.png)
+
+<figcaption>
 
 US Department of Energy, completed in 1969
 
+</figcaption>
+
+</figure>
+
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/70d3c1dda345df05.png)
 
+<figcaption>
+
 Taj Mahal, completed 1653
+
+</figcaption>
+
+</figure>
 
 This is obviously going to happen though. Democracies are more practical than other forms of government. The US Department of Energy building is an office building; the Taj Mahal is a mausoleum for the emperor's favorite wife. It doesn't matter what the economic system of the democracy is either. Capitalism doesn't find any ROI in extravagance, and socialism finds extravagance antithetical to the goals of equity and equality. Democracies do create fewer beautiful things than aristocratic societies, but they produce a lot more things that are very, very useful.
 

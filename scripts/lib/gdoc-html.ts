@@ -31,6 +31,25 @@ const turndownService = new TurndownService({
 // Remove Google Docs styling spans that add no value.
 // IMPORTANT: must not strip spans that wrap images, and must not strip
 // whitespace-only spans (see comment on the cheerio span cleanup).
+// Preserve `<figure>` and `<figcaption>` as raw HTML wrappers around
+// markdown content. Generated upstream when we detect an image-caption
+// pair (image paragraph followed by a centered/italic paragraph). The
+// blank lines around the inner content let CommonMark parse the wrapped
+// markdown (image, italic text, links) inside the figure block.
+turndownService.addRule('figureBlock', {
+  filter: 'figure',
+  // Blank lines INSIDE the figure block are required: CommonMark only
+  // parses markdown inside a raw-HTML block when blank lines separate
+  // the inner markdown content from the surrounding tags. Without them
+  // `![](url)` immediately under `<figure>` stays raw text in the
+  // rendered output.
+  replacement: (content) => `\n\n<figure>\n\n${content.trim()}\n\n</figure>\n\n`,
+});
+turndownService.addRule('figcaption', {
+  filter: 'figcaption',
+  replacement: (content) => `\n<figcaption>\n\n${content.trim()}\n\n</figcaption>\n`,
+});
+
 turndownService.addRule('removeEmptySpans', {
   filter: (node) => {
     if (node.nodeName !== 'SPAN') return false;
@@ -116,6 +135,9 @@ interface GDocStyleMap {
   // section headings that authors styled as underlined plain text
   // (e.g. "More Money Than God" uses underline-only for every section).
   underlineClasses: Set<string>;
+  // Classes with `text-align: center`. Used to detect image captions
+  // styled as centered text (the conventional Google Docs caption style).
+  centeredClasses: Set<string>;
   // Classes that ON THEIR OWN meet the indent threshold — used by the body-
   // default gate (which is per-class) and the fast-path single-class check.
   indentClasses: Set<string>;
@@ -147,11 +169,12 @@ function parseGDocStyles(html: string): GDocStyleMap {
   const italicClasses = new Set<string>();
   const largeFontClasses = new Set<string>();
   const underlineClasses = new Set<string>();
+  const centeredClasses = new Set<string>();
   const indentClasses = new Set<string>();
   const classMargins = new Map<string, ClassMargins>();
 
   const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
-  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, indentClasses, classMargins };
+  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, centeredClasses, indentClasses, classMargins };
 
   const styleText = styleMatch[1];
 
@@ -175,6 +198,9 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/text-decoration\s*:\s*underline/.test(props)) {
       underlineClasses.add(cls);
     }
+    if (/text-align\s*:\s*center/.test(props)) {
+      centeredClasses.add(cls);
+    }
     const marginLeftMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
     const marginRightMatch = props.match(/margin-right\s*:\s*(\d+(?:\.\d+)?)pt/);
     const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
@@ -189,7 +215,7 @@ function parseGDocStyles(html: string): GDocStyleMap {
     }
   }
 
-  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, indentClasses, classMargins };
+  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, centeredClasses, indentClasses, classMargins };
 }
 
 // True if every substantive (non-empty) span in the paragraph carries an
@@ -701,6 +727,70 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
           el.wrapInner('<em></em>');
         }
       }
+    });
+  }
+
+  // Image captions: when a `<p>` contains ONLY an `<img>` (no other
+  // substantive content), and the next non-empty `<p>` is "caption-
+  // shaped" — its paragraph class has `text-align: center` OR ALL its
+  // substantive spans are italic — wrap both elements in a `<figure>`
+  // and the caption text in a `<figcaption>`. Turndown rules emit
+  // those tags as raw HTML wrappers around the markdown-converted
+  // image + caption, preserving semantic figure structure for CSS to
+  // style. Heuristic chosen after a corpus scan: 100% of italic-after-
+  // image cases were genuine captions; centered-text-after-image is
+  // the standard Google Docs caption styling.
+  {
+    const isImageOnlyP = (p: ReturnType<typeof $>) => {
+      if (!p.find('img').length) return false;
+      // Image present; require no substantive text in the paragraph.
+      const text = p.text().replace(/\s/g, '');
+      return text.length === 0;
+    };
+    const isCaptionP = (p: ReturnType<typeof $>) => {
+      const cls = (p.attr('class') || '').split(/\s+/);
+      const isCentered = cls.some(c => styles.centeredClasses.has(c));
+      if (isCentered) return true;
+      // Italic-only fallback: every substantive span carries an italic
+      // class. Useful for docs where the author didn't center captions
+      // but italicized them (kristin-lavransdatter, etc).
+      const spans = p.find('span');
+      if (!spans.length) return false;
+      let hasSubstantive = false;
+      let allItalic = true;
+      spans.each(function () {
+        const s = $(this);
+        if (!s.text().trim()) return;
+        hasSubstantive = true;
+        const sc = (s.attr('class') || '').split(/\s+/);
+        if (!sc.some(c => styles.italicClasses.has(c))) allItalic = false;
+      });
+      return hasSubstantive && allItalic;
+    };
+    $('body > p, body > div > p').each(function () {
+      const p = $(this);
+      if (!isImageOnlyP(p)) return;
+      // Find next paragraph sibling, skipping empty paragraphs.
+      let next = p.next();
+      while (next.length && next.is('p') && !next.text().replace(/\s/g, '').length) {
+        next = next.next();
+      }
+      if (!next.length || !next.is('p')) return;
+      if (!isCaptionP(next)) return;
+      // Cap on caption length to avoid sweeping up long-prose body
+      // paragraphs that happen to be centered (rare but possible).
+      const captionText = next.text().trim();
+      if (!captionText || captionText.length > 500) return;
+      // Wrap both in <figure>, and move the caption content into
+      // <figcaption>. Preserve the original markup of both elements.
+      const figure = $('<figure></figure>');
+      p.before(figure);
+      figure.append(p);
+      const figcaption = $('<figcaption></figcaption>');
+      // Move all children of the caption paragraph into figcaption.
+      figcaption.append(next.contents());
+      next.remove();
+      figure.append(figcaption);
     });
   }
 

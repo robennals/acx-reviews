@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T17:36:27.000Z'
 slug: the-escape-artist
-wordCount: 7746
+wordCount: 7767
 readingTimeMinutes: 35
 source: gdoc
 originalUrl: https://docs.google.com/document/d/142yRA1GdVLtlIt3DoqP2UzcZrCzlMOnGbsFai-BQLEg
@@ -40,9 +40,17 @@ Of course, it’s not like he knows what he’s signing up for. The Nazi line at
 
 The camp administrators seek volunteers for “farm work” elsewhere, and Walter is one of the first to raise his hand, despite the dire warnings from another prisoner: “Go there and you’ll die.” It’s not that he doesn’t believe the warnings. But he’s decided that being moved somewhere else, no matter where that somewhere else is, might bring an opportunity for escape. And from the moment the Nazi tanks first rolled into Czechoslovakia, Walter has been single-mindedly focused on escape[[5]](#ftnt5).
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/3a104330e8eb775f.jpg)
 
+<figcaption>
+
 _Walter in a photo taken after the war, looking like a dead ringer for Joaquin Phoenix._
+
+</figcaption>
+
+</figure>
 
 Already, Walter has a sense that he’s different from the other prisoners—and, for that matter, from most people he knew back home in his hometown of Trnava. Why aren’t they doing anything? he wonders. Why aren’t they all trying to escape too? If Walter were alive today, one gets the sense he’d describe himself as high-agency and everyone else as NPCs. You Can Just Do Things, he believes, even when the thing in question is escaping from a concentration camp. Maybe this is youth talking. Maybe it’s naivety. Or maybe Walter is simply, constitutionally, a difficult person: allergic to authority and already showing the same contrarian streak that will later get him fired from multiple academic jobs.
 
@@ -70,9 +78,17 @@ But Walter’s next assignment disabuses him of that illusion once and for all. 
 
 Not the real Canada, of course. This “Canada” is an enormous lot full of possessions stolen from arriving prisoners. Walter and the others there are tasked with sorting through these items in search of anything valuable: money sewn up in coat linings, for example, or gems hidden in toothpaste tubes. The area’s name comes from _Kann er da_, German for “might there be”—as in, “might there be something of value?” The bureaucracy-obsessed Nazis in fact placed the entire concentration camp apparatus in the SS’s _economic_ office, and everything taken from Canada—not just money and gems, but even things like artificial limbs—is either sold to fund the war effort or repurposed as relief for the civilian population[[7]](#ftnt7).
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/72efc8aa3c284727.png)
 
+<figcaption>
+
 _“Canada,” Auschwitz’s land of plenty_
+
+</figcaption>
+
+</figure>
 
 Walter is good at this new job, and he finds a perverse satisfaction in his own skill despite the context. Of course, he also finds ways to serve himself: in Canada, valuable resources are everywhere, and it’s not that hard to swipe them when the guards aren’t looking. (A good moment is usually when they’re distracted by beating someone else.)
 
@@ -112,17 +128,33 @@ Auschwitz consists of two concentric camps, an inner camp where prisoners sleep 
 
 But this system—which the orderly Nazis, as with all of their systems, never deviate from—has a flaw. Paradoxically, the route to escape isn’t to escape _out_ of Auschwitz, but to escape _within_ it. If you could somehow find a way to hide inside the outer camp for 72 hours, you could just walk right out after sunset. And a new section of the outer camp—under construction in preparation for those new Hungarian arrivals—provides just such a hiding place: a hole in the ground, big enough to hold two men, hidden under a pile of lumber.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/939ea390ddf47ad5.jpg)
 
-> _If this plan sounds familiar, that might be because it has uncanny, presumably coincidental echoes of the plot of the 2006 Spike Lee movie_ Inside Man*.*
+<figcaption>
+
+_If this plan sounds familiar, that might be because it has uncanny, presumably coincidental echoes of the plot of the 2006 Spike Lee movie_ Inside Man*.*
+
+</figcaption>
+
+</figure>
 
 There are a few false starts: they call off their first escape attempt when unexpectedly vigilant SS guards are seen patrolling the construction site, and in a bizarre twist, their second is foiled by an unrelated escape attempt coincidentally happening at the same time. Finally, one day when the coast is clear, they slip into the hideout. It is April 7, 1944—unbeknownst to them, the first night of Passover.
 
 Fred and Walter spend three days and three nights cramped inside the tiny, dark hole. The whole time, they can hear the aboveground sounds of the increasingly frantic Nazi search party[[14]](#ftnt14). They mark the passage of time by the sounds of the Auschwitz band playing the music that signals the end of each workday. There are a few close calls, moments when they hear guards coming right up to their hiding spot, but they’re never discovered. And then, after exactly 72 hours—in accordance with the always-rigid Nazi protocol—everything goes quiet. The search is called off.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/1e4aebcfbba83267.jpg)
 
-> _That’s right: Auschwitz had its own band, the_ _[Women’s Orchestra of Auschwitz](https://en.wikipedia.org/wiki/Women%27s_Orchestra_of_Auschwitz)__. The conductor was Gustav Mahler’s niece._
+<figcaption>
+
+_That’s right: Auschwitz had its own band, the_ _[Women’s Orchestra of Auschwitz](https://en.wikipedia.org/wiki/Women%27s_Orchestra_of_Auschwitz)__. The conductor was Gustav Mahler’s niece._
+
+</figcaption>
+
+</figure>
 
 Walter and Fred are so weak, their muscles so cramped, from their three days in the hole that they can barely lift the wooden planks that hide their spot. But finally they do[[15]](#ftnt15), and then they slither on their stomachs undetected, all the way out of Auschwitz, only rising to their feet once they’re hidden in the surrounding woods.
 
@@ -144,9 +176,17 @@ Even once they conclude that Walter and Fred are telling the truth, their approa
 
 The shocking estimate that the Nazis have already killed _1.7 million_ Jews, meanwhile, appears only at the very end of the report. And the ÚŽ refuses to do the main thing Walter wants from them—explicitly warn the remaining Jews of Europe that this same fate is coming for them—insisting that their report must only contain definitive facts. Walter is deeply unhappy with the final report, but he signs his name to it anyway, convinced that continuing to argue with the ÚŽ will only further delay the spread of the news.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/c8dfc23cf830c06e.jpg)
 
-> _The ÚŽ report’s nondescript cover, in a copy from the FDR Presidential Library._
+<figcaption>
+
+_The ÚŽ report’s nondescript cover, in a copy from the FDR Presidential Library._
+
+</figcaption>
+
+</figure>
 
 This signature is the last time he uses the name Walter Rosenberg. The ÚŽ supplies fake IDs for both Walter and Fred, and although Fred will readopt his original name after the war, Walter keeps using his new name—Rudolf Vrba, ironically the name of a notorious antisemite—forever. (I too will refer to him as Rudi throughout the remainder of this review.) He says it’s because the name “Walter Rosenberg” is too German[[18]](#ftnt18), but one suspects he has additional reasons for wanting to leave his old identity behind.
 
@@ -180,9 +220,17 @@ Who—or what—is the real antagonist of this story?
 
 We can strike one obvious candidate from the list right away: it’s not the Nazis. They’re of course not the good guys here, but from a narrative perspective, they aren’t the primary opposing force Rudi encounters on his quest. Their villainy is assumed; it’s the premise of the story, not its central conflict.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/679c0a941c8818ee.jpg)
 
+<figcaption>
+
 _Are we the baddies? Narratively speaking, actually not this time._
+
+</figcaption>
+
+</figure>
 
 The Allies? Well, with their repeated foot-dragging and unwillingness to intervene directly against the Holocaust, they certainly don’t come across as the heroes they’re typically portrayed as in tales of World War II. You could see their choices as the kind of unsavory but hard-nosed decision-making that war requires, or you could see them as driven by prejudice, against both Jews and Eastern Europeans more generally[[22]](#ftnt22). Regardless, the Allies aren’t the antagonists either—in the end, they’re really just bit players in this particular story.
 

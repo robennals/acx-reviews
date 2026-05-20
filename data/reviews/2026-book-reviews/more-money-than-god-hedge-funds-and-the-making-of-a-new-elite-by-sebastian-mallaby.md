@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T06:52:29.000Z'
 slug: more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby
-wordCount: 16810
+wordCount: 16847
 readingTimeMinutes: 75
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1qY04t3uoyecAOvfS-iek-qi6gfJI-Z16
@@ -16,9 +16,17 @@ tags:
   - History
 ---
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/a2cdafdd9fb78bb2.png)
 
+<figcaption>
+
 **They’re just trying to hedge their bets.**
+
+</figcaption>
+
+</figure>
 
 **I. Whence All This Money?**
 
@@ -64,9 +72,17 @@ But hedging is not infallible. There are in general two ways the strategy of hed
 
 The second way hedging can go wrong is much simpler. Note that if the markets are going up, it is more profitable in the short-term to just put all your money into buying stocks rather than splitting it between buying and shorting. Thus, it is tempting for hedge funds to, well, just stop hedging. But you can’t reduce risk merely by calling yourself a “hedge fund” – you have to actually do the hedging part too!
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/327ae041812921e4.png)
 
-> **What’s going to be cleaned out is your bank account when the market turns.**
+<figcaption>
+
+**What’s going to be cleaned out is your bank account when the market turns.**
+
+</figcaption>
+
+</figure>
 
 If you look at Jones’s toy example, you notice that if a third investor borrows the extra $100k and then just buys, and the market goes up, he makes 30% on $200k for a $60k profit, beating the original two investors handily. But if the market goes down, he loses big time – down $20k, more than double the losses of the traditional investor. And in 1969, when the bull market finally shifted, this failure mode is exactly what happened to the not-very-well supervised traders in Jones’s firm, as well as many of the copycat firms. The individual managers had realized that just buying stocks was more profitable, so they had stopped shorting and were no longer “market neutral”. Thus, when the market went down, so did they. The number of hedge funds in the next few years almost halved as all who had forgotten the hedging part took severe losses. The SEC had been considering regulating the growing hedge fund industry, but after the crash wiped out so many of them, they decided the sector was too small to bother. (Regulators finding reasons not to bother with hedge fund regulation is a recurring theme.)
 
@@ -78,9 +94,17 @@ One fund that hedged properly and managed to profit from the bear market in 1969
 
 It was only a few years later when the market crashed again. This time, though, Steinhardt was prepared for the market shift and ready to profit off of it because of the research of one of his employees, Frank Cilluffo. Cilluffo, who joined the fund in 1970, believed in the Kondratiev wave theory of capitalist economies (the finance version of Turchin’s cliodynamics), which predicted – either through piercing insight, or lucky coincidence – an economic crash in precisely the year 1973. Steinhardt shorted heavily in 1972, and when the crash came in 1973, he made out with 41% returns for the year.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/59ed1ee6f75f7a38.png)
 
-> **Considering how short she is, you’d think she’d be more afraid of a bull.**
+<figcaption>
+
+**Considering how short she is, you’d think she’d be more afraid of a bull.**
+
+</figcaption>
+
+</figure>
 
 But Steinhardt did not trust Cilluffo’s market predictions just on the basis of a sketchy Russian theory of market cycles. Cilluffo also was able to call the market crash because of his early recognition of the utility of tracking monetary data – that is, whether banks were lending a lot of money and increasing the money supply, or whether they had stopped lending and the money supply was constant or shrinking. Cilluffo realized that when banks are lending a lot of money and the money supply is increasing, this led to inflation. And when inflation got high, the Federal Reserve was bound to increase interest rates. The high interest rates would in turn prompt investors to take their money out of stocks and put it in banks or bonds instead. And the increase in people selling stocks rather than buying would cause a drop in the stock market. By this chain of reasoning, Cilluffo knew that when banks said they had maxed out their lending capacity, this meant markets were about to go down in a few months. By the 1980s this phenomenon became common knowledge, but at the time Cilluffo’s thinking was ahead of the curve.
 
@@ -120,9 +144,17 @@ Ultimately, though, the pure stock-picking strategy had its limitations. Roberts
 
 But even if the big three hedge funds failed to predict the next crash, not everyone found themselves underwater. One fund that profited was Tudor Investment Corporation, started by Paul Tudor Jones II in 1983. (Note that this is a different Jones than the Alfred Winslow Jones who started the first hedge fund, which is possibly the reason Mallaby keeps referring to hedge fund managers by including their middle names the same way the media does for serial killers.) P.T. Jones had started in finance working as a floor trader on the New York Cotton Exchange, which had given him a feel for the way markets went up and down. His trading strategy reflected this, and was based on guessing what the markets were going to do and “riding market waves”. This was different than Commodities Corporation’s strategy in that he didn’t use computer models, just research and intuition.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/97ebbb065215cc3d.jpg)
 
-> **The New York Cotton Exchange before computers, back when prices were determined the way God intended: by people yelling at each other.**
+<figcaption>
+
+**The New York Cotton Exchange before computers, back when prices were determined the way God intended: by people yelling at each other.**
+
+</figcaption>
+
+</figure>
 
 His hedging strategy was also different than the original A.W. Jones style traders, who hedged longs with shorts. P.T. Jones’s strategy was based instead on market asymmetry. Specifically, he recognized that shorting the market when a crash was expected was a low-risk, high-reward strategy. If the market did crash, then he was in a position to rake in massive profits. But even if the market didn’t crash, it certainly wouldn’t go _up_, which meant he wouldn’t lose very much when he went to buy back his shorted stocks either. (Part of the reason this worked so well for Tudor Investment but not later funds was that his fund was small in the scheme of things – when hedge funds started borrowing against their assets to hold billion-dollar or bigger positions, it became impossible for them to get out of the market without influencing the market against themselves.)
 
@@ -182,19 +214,35 @@ Mallaby notes that if they had shorted more, or if they had borrowed to short a 
 
 Apparently this reasoning did not appeal to the Thai government, who instead doubled down on defending the baht. In an effort to stop the speculators, they forbid their banks to lend baht outside Thailand. Unfortunately for the Thai, this did not manage to stop speculators; instead, it just raised the interest rates the speculators had to pay to borrow baht to short. (At one point the interest rates were so high Tiger Management was paying $10 million dollars a day to hold their multi-billion dollar short position.) In the end, despite Soros’s magnanimous forbearance, Thailand drained their foreign currency reserves to defend the baht, only giving up when they ran out of money after Tiger went on a final shorting spree. After devaluation, the baht fell 32% against the dollar. Soros made $750 million from the trade, while Tiger made around $300 million. Joining the George-Soros-Crashed-My-Currency Country Club did not do wonders for Thailand’s economy, though Mallaby argues that “speculators had merely forced an adjustment that was ultimately inevitable.”
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/112e0889f96ec1f5.jpg)
 
-> **Thai baht notes. The guy on them is King Bhumibol Adulyadej (Rama IX). If I were a king, I also wouldn’t want to let a currency with my face on it devalue.**
+<figcaption>
+
+**Thai baht notes. The guy on them is King Bhumibol Adulyadej (Rama IX). If I were a king, I also wouldn’t want to let a currency with my face on it devalue.**
+
+</figcaption>
+
+</figure>
 
 This sort of currency shorting, especially in developing economies, was very unpopular among the western political class (not to mention the political class in developing countries) and made hedge funds reviled. Soros, meanwhile, wanted to be seen as a statesman and a philanthropist, and eventually this desire won out over the desire to actually make money from trades. As the Asian financial crisis continued, Soros stopped trying to short currencies. In Indonesia, he bought rupiah instead of shorting, and lost $800 million while holding rupiah even as it collapsed – though after a certain point it was impossible for him to get out of the position anyways, since no one was buying.
 
 This collapse in Indonesia had knock-on effects in South Korea, since they had lent a lot of money to firms in Indonesia. Their central bank was also using some creative accounting to total up their foreign reserves, counting reserves that had already been promised elsewhere, and thus making their position even worse than it at first appeared. Soros’s firm knew about this from their investigations, but Soros still did not try to short their currency – not even a _little_ bit of shorting, not even just a measly _$2 billion_ worth of shorting – zip, nada, nothing. In his journals, Soros attributes his decisions here to his “messiah complex”. Ah yes, just like how in the bible Jesus gave up his opportunity to make thirty pieces of silver to…wait…
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/5eea89f77df8bdec.jpg)
 
-![](https://acximages.ennals.org/images/2026-book-reviews/6b4d48ffe2da2058.jpg)
+<figcaption>
 
-> **1992 printing of the Indonesian rupiah. There should be a rule that pretty currencies can’t be devalued.**
+**1992 printing of the Indonesian rupiah. There should be a rule that pretty currencies can’t be devalued.**
+
+</figcaption>
+
+</figure>
+
+![](https://acximages.ennals.org/images/2026-book-reviews/6b4d48ffe2da2058.jpg)
 
 Really though, Soros was taking big losses in some of these countries as well. For example, in Russia, Soros bought a billion-dollar share of Svyazinvest, a partially-privatized Russian telephone company. This trade was a poor one for a hedge fund, since it wasn’t something he would be able to get out of quickly, but his bidding on the company helped Russia raise much-needed capital. He also secretly lent hundreds of millions of dollars to Yeltsin as a bridge loan. When this first loan was not enough, Yeltsin went to Soros again in 1997, trying to get another bridge loan of $7 billion. That was a bit much even for Soros, who tried instead to help Yeltsin raise it from US and European banks and officials, though his efforts met with no success. Ultimately, he wrote an open letter attempting to help Yeltsin get the loan, but investors interpreted the letter to mean instead that Soros had shorted the ruble. This caused others to copy Soros’s non-existent trade, and forced the ruble to devalue; though in fact, Soros had not shorted the ruble and lost another few billion dollars in his Russia portfolio from the devaluation.
 
@@ -220,9 +268,17 @@ When Greenspan raised interest rates expecting that he could do so without overl
 
 Unfortunately for the hedge funds, when they went to sell their bonds, they found that everyone else already had the same idea. The trade had become “crowded” – that is, the individual hedge funds had all converged on the same investment strategy without realizing they were doing so. And when everyone is selling and no one is buying, price drops fast; thus completing the tale of how poor Alan Greenspan inadvertently caused a crash in the bond market by raising interest rates.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/2d4862842dd06f81.png)
 
-> **“Well, well, well, if it isn’t the consequences of my own monetary policy.”**
+<figcaption>
+
+**“Well, well, well, if it isn’t the consequences of my own monetary policy.”**
+
+</figcaption>
+
+</figure>
 
 But the “unpredictable connections” did not stop there – European bonds dropped as well, even though European interest rates were unaffected by the US Fed’s decision-making, merely because the hedge funds that had bought US bonds had also bought European bonds and were now rapidly selling both.
 
@@ -288,9 +344,17 @@ Medallion did not look at fundamentals, either of companies or the economy, but 
 
 One of the people working for Simons, Elwyn Berlekamp, cashed out of the fund merely a year after it first made returns – massive 56% returns – to go back to doing research at Berkeley. In one way, this is surprising, considering Medallion’s future earnings. But I think the bigger surprise isn’t that some people cash out of funds that are on track to make billions, but rather that anyone persists through this millions-to-billions transition at all. After all, anyone whose fund is making millions could cash out and retire comfortably at any time. When they already have that much money, it’s not as if they’re improving their material quality of life by making more. But still, they choose to stay in the game. I think hedge fund people have to have a specific type of personality, one that doesn’t just tolerate risk but actively seeks and enjoys it: people with nerves of steel – people like George Soros, who even after losing $840 million in the 1987 crash, went right on trading for the rest of the year. Like Walter White, they’re not in it for the money. Neither do they trade in order to provide value to society or liquidity to markets, any more than Walter White was dealing drugs to provide a good life for Skylar. They’re in it for the love of the game itself.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/9aaf12b7d1af2a76.jpg)
 
-> **Finance and drug dealing: both hobbies that can land you in prison, as Sam Bankman-Fried found out.**
+<figcaption>
+
+**Finance and drug dealing: both hobbies that can land you in prison, as Sam Bankman-Fried found out.**
+
+</figcaption>
+
+</figure>
 
 In 1993, Simons recruited Peter Brown and Robert Mercer who had also done work on statistical machine translation, which bore strong resemblances to Medallion’s method of quantitative trading. However, trading on trends that no one understands and that don’t make intuitive sense is dangerous, because there is potential to “recognize” a pattern that doesn’t actually exist. Also, there’s no way of knowing when the pattern might stop, making it impossible to get out ahead of the market. Nevertheless, the strategy was apparently very profitable for Medallion.
 
@@ -300,9 +364,17 @@ Though Medallion was open on the inside, it was very secretive on the outside. T
 
 A final factor in Medallion’s success was that it stayed small. By the 2000s, almost all the money in the fund was that of its own employees (though Simons started a bigger fund open to outside investors as well).
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/43ec6a5fba99663b.png)
 
-> **James Simons’s mansion in East Sestauket, NY. Also, where every millennial tells you they would be living if they had just been old enough and had capital to speculate with during the 2007 housing bubble.**
+<figcaption>
+
+**James Simons’s mansion in East Sestauket, NY. Also, where every millennial tells you they would be living if they had just been old enough and had capital to speculate with during the 2007 housing bubble.**
+
+</figcaption>
+
+</figure>
 
 ## Amaranth and Citadel
 
@@ -351,9 +423,17 @@ Though most hedge funds hadn’t managed to profit like Paulson when the mortgag
 
 One other effect of this market shock was that for a few days in August, the “quant trading” based on market formulas that many funds had been doing abruptly stopped working. Apparently, some hedge fund somewhere had lost big and needed to raise capital fast to meet margin calls, so they began dumping all their positions in everything. But since everyone was doing the same trades, this meant it messed up exactly the markets where everyone else was trading too. This had the additional effect of causing the other funds trying to do these trades to lose money, which meant some of them now needed to raise capital to meet their margin calls – now _they_ started liquidating their positions, which made the markets even worse for everyone else and caused even more people to start selling, and so on in a vicious cycle to the bottom. This went on for several days until a big hedge fund that was a Goldman subsidiary got recapitalized by Goldman to the tune of $3 billion and started buying again, which stopped the cycle. At this point, everyone took this as the signal to start buying their own positions back to catch the rise, which brought everything back to normal. Thus did the “unpredictable connections” rear their ugly heads again.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/a52282ec96958e38.png)
 
-> **At the beginning of this review I promised you invisible velociraptors – if this depth of complex market connectivity doesn’t make you afraid, I don’t know what will.**
+<figcaption>
+
+**At the beginning of this review I promised you invisible velociraptors – if this depth of complex market connectivity doesn’t make you afraid, I don’t know what will.**
+
+</figcaption>
+
+</figure>
 
 Mallaby consoles us by pointing out that this vicious cycle only becomes a problem during panics, but I feel this is cold comfort – it’s like saying the fire extinguisher is empty, but this only becomes a problem during fires. Mallaby also points out more reasonably that all this liquidating of positions did not cause a market crash since the hedge funds’ investment strategies were “market neutral” to begin with. He ends with the dubious conclusion: “This was how capitalism was meant to discipline its children. No regulator could have done better.”
 
@@ -381,9 +461,17 @@ Also, if people took Mallaby’s suggestion and made a bunch more hedge funds, I
 
 Of course, Mallaby did not know about these events back in 2010 when his book was published. He doesn’t even cover the US banking legislation in response to the 2007 crisis (the Dodd-Frank bill) or the European version (Basel III), which were still in the process of being passed. Certainly, the regulations don’t seem to have hurt hedge funds too much, since the big hedge funds of the 2000s are still doing well. James Simons died in 2024 with a net worth of over $30 billion. Ken Griffin has a net worth of over $50 billion. The number of hedge funds has continued to grow, with estimates putting the total over 10,000 today.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/dc84cc83b9f2d468.jpg)
 
-> **Stegosaurus fossil Griffin bought in 2024 for $44.6 million. Now I’m just waiting on the live-dinosaur theme park.**
+<figcaption>
+
+**Stegosaurus fossil Griffin bought in 2024 for $44.6 million. Now I’m just waiting on the live-dinosaur theme park.**
+
+</figcaption>
+
+</figure>
 
 I agree that finance and investment are very necessary. The efficient allocation of capital is what makes capitalism capitalism, and no one wants to bring back the Soviet Union (except possibly the Marxist inventor of hedge funds). But at what point does finance pass over the inflection point from increasing efficiency to itself becoming an inefficiency? Do the “efficiency gains” made by high frequency trading on stock dips due to rainstorms in New York or whatever really sum up to more than whatever hundreds of thousands of dollars the hedge fundies make off of them? There must be some point where it starts becoming a farce – a point that certainly falls after normal insurance or commodities futures, but probably before where Sebastian Mallaby would put it, and definitely before forward inverse IOs. Not everything investors are allowed to do is a net positive for the world. Just because a currency is misvalued doesn’t necessarily mean it must or should be made to devalue. Just because you can doesn’t mean you should.
 
@@ -391,6 +479,14 @@ That being said, you can’t just say “stop doing finance” and close down th
 
 Personally, I don’t share Mallaby’s negative stance on regulation – certainly not when it comes to financial markets, which are already very artificial to begin with. Trading is a natural outgrowth of human nature. High frequency trading is not. Markets are already very regulated, but much of that regulation has to do with historical circumstance and political compromise rather than rational optimization processes. People, including Mallaby, act as if “market cycles” and periodic market crashes are inevitable. Certainly, they happen frequently! But stock markets are not the upper atmosphere or the deep ocean or the solar system. These are not processes utterly outside human control, that existed before humans evolved and will exist after SkynetAI kills us all. These are a human creation. I agree there are raw “human nature” and “market nature” aspects to markets – there _is_ an invisible hand – but markets are also very subject to human control. God put the apple tree in the garden, and told Eve not to eat. But if there had only been a fence, it would have been a lot less likely for her to get the wrong munchies. In financial markets on Earth, the regulators, governments, and people who control the markets serve as god. It is their job to fence off the apple trees, before Eve’s teeth start making “unpredictable connections” with fruit. Markets can and should be regulated through intelligent design in such a way that prevents traders from making trades past the point where those trades provide any societal value, and that prevents negative externalities like ruining the world economy every five years because of an “inevitable” boom-bust cycle. Markets were made for man, not man for the markets.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/4aa887f9a88e1b3b.jpg)
 
-> **New paradox: Can an omniscient and omnipotent God create more money than hedge funds can make trading?**
+<figcaption>
+
+**New paradox: Can an omniscient and omnipotent God create more money than hedge funds can make trading?**
+
+</figcaption>
+
+</figure>

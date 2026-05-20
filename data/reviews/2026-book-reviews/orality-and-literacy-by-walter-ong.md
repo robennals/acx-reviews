@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T06:11:53.000Z'
 slug: orality-and-literacy-by-walter-ong
-wordCount: 7051
+wordCount: 7115
 readingTimeMinutes: 32
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1128UWp3DuAg2lyO9koR_XxopSZmcLBBFZk1VREshH6s
@@ -62,9 +62,17 @@ Literacy, which for our purposes means the ability to write things down, offers 
 * * *
 The transformation from speaking to writing changed a lot about language. At the smallest level, it changed our words. Oral languages typically have thousands of words, but English now has more than a million. Written languages can have more words because it is quite easy to store a million words in a dictionary, but it is hard to keep them alive by speaking them in conversation all the time.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f037d5f20fc4d61c.png)
 
+<figcaption>
+
 _This is a list of words from last year’s spelling bee finale. No one is saying these words out loud outside a spelling bee; they would not exist in an oral language._
+
+</figcaption>
+
+</figure>
 
 An advantage of a written language is that we can find a word for every mood; instead of always walking, we can schlepp, or go on a jaunt or a hike. But a small disadvantage is that, to us, words typically seem inert or dead. The names of all objects are like tags stapled to them; imagine, for example, a tree with a “TREE” stapled to it, or a cloud with a “CLOUD” stapled to it. In contrast, for oral cultures, words are magical and have real power. For them, the world is not full of tagged objects. The act of speaking the name makes it real; the words don’t exist without people to speak them.
 
@@ -76,9 +84,17 @@ But maybe the most important reason is that oral cultures rarely indulge in abst
 > Next those from Aspledon and Minyan Orchomenos, led by Ascalaphus and Ialmenus, sons of Ares whom the fair maiden Astyoche bore to the mighty god, for he lay with her in secret, in her room in the house of Actor, son of Azeus. They brought thirty hollow ships.
 The natural modern way to present this information would be as a list or a table, but an abstracted list of items undistinguished from each other is hard to memorize.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/c877ead36a93b745.png)
 
+<figcaption>
+
 _This_ _[Wikipedia](https://en.wikipedia.org/wiki/Catalogue_of_Ships)_ _table is both hard to memorize and impossible to say out loud._
+
+</figcaption>
+
+</figure>
 
 Similarly, the Bible has genealogies in the format
 
@@ -132,13 +148,29 @@ A lot of these come from Soviet neuropsychologist Alexander Luria, who worked wi
 
 Modern schooling has also been shaped by orality fading away. It used to be that schooling was all about rhetoric, the art of speaking well; this has now been replaced by three distinctly literate R’s: reading, ‘riting, ‘rithmetic. It also used to be that intelligence was thought of as some combination of being good at memorizing and being good at thinking quickly on your feet. The modern SAT tests neither of these things; instead, it is designed to render almost all background knowledge irrelevant, and instead focus solely on test-takers’ ability to reason. Recall that the Sphinx famously used to ask travelers riddles, a popular way for oral societies to test intelligence. Solving a riddle requires ‘canniness’ and broad knowledge about the world. But it is unthinkable to imagine the SAT ever asking test-takers to solve a riddle. That is not the kind of intelligence a literate society prizes.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f2c00348f63b45a8.png)
+
+<figcaption>
 
 _The analogies section of the_ _SAT, which used to contain questions like this, was removed for requiring too much background knowledge._
 
+</figcaption>
+
+</figure>
+
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/9e6bd76a5fe8d0b4.png)
 
+<figcaption>
+
 _In contrast, this_ _[popular modern intelligence test](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)_ _requires no background knowledge, or even words._
+
+</figcaption>
+
+</figure>
 
 * * *
 There is a cheesy quote that goes "Knowledge comes by taking things apart: analysis. But wisdom comes by putting things together." Well, oral cultures had a lot of wisdom.
@@ -179,9 +211,17 @@ Just look at that. How would someone from an oral culture even begin to say that
 
 Code is writing on crack. Unlike regular writing, it basically can’t be spoken or listened to. It is extremely analytical and precise, in a way that writing rarely achieves. It enables oodles of memory.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f425b7c06c31698f.png)
 
+<figcaption>
+
 _Too much, sometimes._
+
+</figcaption>
+
+</figure>
 
 And just like writing, code has been transformative. Everything from dishwashers to spaceships runs code. On the other hand, code has also given us TikFaceInstaTubeSpotX (hereafter, “scrolling”).
 
@@ -197,9 +237,17 @@ Instead of striving for the originality that literate culture prizes, digital or
 
 Instead of connecting to previous work using reasoning words like so/then/thus, people just chain thoughts together with the digital equivalent of and/and/and.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/71af3ac99484d21f.png)
 
+<figcaption>
+
 _People don’t literally thread with N/ on Twitter anymore, but the vibe remains._
+
+</figcaption>
+
+</figure>
 
 Instead of discussing abstractions, like affordability, people build their arguments on narratives about specific people.
 
@@ -207,9 +255,17 @@ Instead of discussing abstractions, like affordability, people build their argum
 
 Arguments aren’t considered on their merits, separately from who is speaking them. Discussions are contests between people, not ideas.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f4876247eaf9ea83.png)
 
+<figcaption>
+
 _I picked a_ _non-ACX-y_ _example so it would feel less toxic._
+
+</figcaption>
+
+</figure>
 
 Scroll-content creators receive immediate feedback on their work, much like oral poets used to. This feedback lets them give their audience exactly what they want.
 
@@ -224,9 +280,17 @@ Ong, and a lot of people who talk about his work, see orality and literacy as a 
 
 I think this is not quite right. Digital orality is not a semi-retvrn, because it differs from purely oral cultures in one crucial aspect: it is not ephemeral. This is no small thing. Purely oral cultures spent huge amounts of manpower repeating and improvising and memorizing trying to make up for the fact that all their words were ephemeral.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f38f4e2c61ca9e4c.png)
 
+<figcaption>
+
 _As many unfortunately learn, digital words are decidedly NOT ephemeral._
+
+</figcaption>
+
+</figure>
 
 I think what is going on here is more subtle than an orality-literacy continuum. We’re not dealing with a single axis, we’re dealing with two: a solitary-communal axis and an orthogonal ephemeral-persistent axis.
 
@@ -258,9 +322,17 @@ Which is alarming because literacy advocates are fighting a harder battle than o
 
 People are reading less than ever. That’s not likely to change. I would love it if print became _the_ foremost mass communication medium again, but realistically, no paragraph can match up to a scroll-video. If I could be so bold as to propose a strategy for this war, it is this: retreat and regroup. The battlelines of “make reading and writing popular” are basically lost to us. What we need to do is fortify the fallback lines of “keep reading and writing the primary tools for reasoning.” And here we must fight to the literal (pun intended) death. Because if we lose here, you won’t like what comes next.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/9e03deb1a2d9490d.png)
 
+<figcaption>
+
 _Think of the kind of policy this_ _platform_ _would create._
+
+</figcaption>
+
+</figure>
 
 * * *
 Imagine that you blink and are instantly transported to a modern-day video conference for work. It’s another boring day. No one is particularly surprised to see your face pop up on the screen. People start speaking.
@@ -283,9 +355,17 @@ The future of writing will look more like those unspeakable forms. What all thos
 
 Edward Tufte has, over and over, made this argument for quantitative information. Tufte’s primary commandment is to maximize the data-to-ink ratio. Words have a low data-to-ink ratio. Graphs do much better. Powerpoints suck. Tables are good. And Tufte has succeeded in spreading his gospel to almost everyone who works with quantitative information.  
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f09513c9172387e6.png)
 
+<figcaption>
+
 _The sparkline for “temperature” takes up about as much room and ink as the word itself, but contains at least ten times as much information._
+
+</figcaption>
+
+</figure>
 
 But there is no reason we can’t extend his prescriptions to qualitative information as well. They still work, even when there are no numbers around. For an extremely obvious example, take Gwern’s [website](https://gwern.net/):
 
@@ -299,15 +379,31 @@ Or to take another example, consider one of my favorite sci-fi stories: [17776](
 
 Sure, Jon Bois could have written like a regular author: “That first Friday of April, I said \_\_\_. I waited eleven tense days. The stars spun. I had trouble sleeping. Once my batteries recharged, I sent another desperate plea. I said \_\_\_. Still nothing.” It would be very poetic. But the calendar feels like a punch to the gut. Seeing those desperate messages between the empty days is a dizzying experience. _Writing can_ _be like this?_ Yes, it can.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/d28c98b23088c449.png)
+
+<figcaption>
 
 _Twilight: New Moon tried to pull off something similar, but it needed to commit harder instead of resorting to “each tick of the second hand aches like the pulse of blood behind a bruise.”_
 
+</figcaption>
+
+</figure>
+
 The NYT’s 10-Minute Challenge series is another example of delightful literary pieces. The page actually times you for ten minutes as you stare at a painting, say [Bruegel’s ‘Hunters in the Snow’](https://www.nytimes.com/interactive/2025/02/02/upshot/ten-minute-challenge-hunters.html), zooming in and out, left and right. It’s about as far from scrolling as you can get. When the timer runs out, the article walks you through all the painting’s details.
+
+<figure>
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/64c43dd8c1b1d305.png)
 
+<figcaption>
+
 _All art museums should be doing some version of this._
+
+</figcaption>
+
+</figure>
 
 Writing should be doing much more of what the Gwern/17776/NYT cluster is experimenting with. For example, here are some things I would be delighted to see:
 
@@ -327,17 +423,41 @@ That is, the letters weren’t just written backwards for Bloom. They were mirro
 
 These are all pretty basic tweaks to how people write. If we can’t even implement small tweaks like this, how will we ever get to the wilder ideas? And the wilder stuff could be so fun. Take, for example, the idiom “honesty is the best policy.” As Havelock says, in oral cultures, this idiom would be more like “an honest man always prospers.” The oral version is less abstract, more likely to be tied to a story about an honest man becoming rich. The mere act of putting the words to paper allowed us to make the idiom more abstract and more universal. What additional meaning could we add to the idiom if we wrote down more than phonetic sounds?
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/583e1fc12c23f04e.png)
+
+<figcaption>
 
 _We could show how hard we thought about the phrasing._
 
+</figcaption>
+
+</figure>
+
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/e09e3c2909bf7a6b.png)
+
+<figcaption>
 
 _We could indicate our level of certainty in the statement._
 
+</figcaption>
+
+</figure>
+
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f28721fda6b6f525.png)
 
+<figcaption>
+
 _We could explain why honesty sometimes doesn’t feel like the best policy._
+
+</figcaption>
+
+</figure>
 
 The reason we don't do this is that it seems _weird_. It feels weird to make up a whole new punctuation mark. But we don’t feel that way when we see a hardcover book turned into a smaller paperback. Or if we pick up an edition of a book that is typeset in a different font. The _weird_ feeling is reserved mostly for changes that diverge from how Gutenberg would have done things. Gutenberg could have changed the page size or font style, so that’s allowed. Gutenberg couldn’t have changed the font size midline, so we can’t do that. But if literacy is to survive, it must move beyond doing things the way Gutenberg would have done them.
 
@@ -355,9 +475,17 @@ Why bother writing on the internet? You might as well write on a Ouija board and
 
 Substack, in particular, pisses me off because it forces authors to write in the most strict plaintext I’ve ever seen. IT DOESN’T EVEN ALLOW UNDERLINES! (Pretend that was written in 72px font.) The idea is supposed to be something like ‘the words must shine without any formatting chaos’ but this is undermined by the fact that every five seconds, the website glows, pops up, twirls, and dances a jig to get me to subscribe. Minimalism for me but interactivity for thee.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/b85d43f895e3a239.png)
 
+<figcaption>
+
 _Even Helen DeWitt,_ _[the Internet’s Favorite Author of 2026](https://www.theargumentmag.com/p/helen-dewitt-is-the-psycho-we-need)__,_ _[can’t indent how she wants on Substack and thinks she will need $175k (!) to “incorporate Tuftean infoviz into fiction”](https://paperpools.blogspot.com/2026/04/we-lose-again-windham-campbell-prize.html#more)__. It’s 2026 and we’ve been writing on the internet for fifty years._
+
+</figcaption>
+
+</figure>
 
 I don’t know if the most popular publishing platforms will ever allow enough flexibility to, say, let you upload your own punctuation marks. But now that LLMs can code fairly well, you don’t need the platforms to allow you anything. As long as you have a strong vision, an LLM can guide you through the process of publishing a typographically complex essay on your own website.  
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-23T02:28:32.000Z'
 slug: how-to-prevent-coups-dtat
-wordCount: 3260
+wordCount: 3264
 readingTimeMinutes: 15
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1_g6StolGeqoj3RlIGR3bILSuLNGTQKPF5w8j2qD_sKk
@@ -36,9 +36,17 @@ Indeed, we learn that the most obvious and frequently utilized method to prevent
 
 For any self-respecting dictator that has a copy of _How to Prevent Coups d’État_ on their nightstand, surely the most dog-eared section of the book—other than the sentence, “Coups are the most common way dictatorships begin and end”—is where De Bruin argues that the inclusion of counterbalances does reduce the probability of a coup’s success, but _increases_ the probability of a coup attempt!1
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/bb3b1c350f5cd5a5.jpg)
 
+<figcaption>
+
 _Note: “Success” is narrowly defined by the new authority lasting at least one month—apparently operating on the same timeline as a gym membership: if you make it past the first billing cycle, you're committed! \*FLEXES GUNS\*_
+
+</figcaption>
+
+</figure>
 
 Why might this be? Well, typically, if you are a dictator who has seized power illegitimately, or perhaps legally obtained it but decided retirement is for suckers, the people you are going to most likely want to appoint in positions of authority within your counterweights—which is to say, when putsch comes to shove, the people who may be risking their lives to defend yours—are going to be hardcore loyalists.2 You definitely don’t want them getting squeamish trigger fingers when the shit hits the fan. They are mostly going to be kin, or if you’ve somehow not yet established a well stocked pool of blood relatives from which you can bequeath your throne to someday, a good back up choice might include cherry picking for ethnic or sectarian homogeneity from which you can rely on for tribal allegiance. In the absence of these (or better yet, in addition to), a generous splash of cash to buy loyalty doesn’t hurt, either!
 

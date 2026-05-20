@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:03:49.000Z'
 slug: works-by-isaac-bickerstaff
-wordCount: 7396
+wordCount: 7404
 readingTimeMinutes: 33
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1MIWNivVHUDQqqqcsqE4-lCwB9bfGqJS-6RmNk0WPCyE
@@ -44,13 +44,29 @@ The first Bickerstaff belonged to Swift: a man interested in a precise predictio
 
 The first Bickerstaff text was Swift’s ‘_Predictions for the Year 1708_‘. Later, after the hoax became famous, Sir Richard Steele adopted the name in 1709 for his periodical, The Tatler. This review considers both Swift’s _Bickerstaff Papers_ and Steele’s later _Bickerstaff Essays_.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f2c3ca97811d4f86.png)
+
+<figcaption>
 
 _Bickerstaff I: Jonathan Swift, detail of an oil painting by Charles Jervas, c. 1718; in the National Portrait Gallery, London, from Encyclopedia Britannica_
 
+</figcaption>
+
+</figure>
+
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/46bb42b2f6314d90.png)
 
+<figcaption>
+
 _Bickerstaff II: Richard Steele, detail of an oil painting by Sir Godfrey Kneller, 1711; in the National Portrait Gallery, London, from Encyclopedia Britannica_
+
+</figcaption>
+
+</figure>
 
 ## Part 1. The Hoax
 

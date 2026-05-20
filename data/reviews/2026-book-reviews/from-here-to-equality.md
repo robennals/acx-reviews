@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:42:25.000Z'
 slug: from-here-to-equality
-wordCount: 10322
+wordCount: 10338
 readingTimeMinutes: 46
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1KYjaAZ3Q7CDx32LUYFuj5V0LeaTHVE2u5ef8QGtryDE
@@ -85,9 +85,17 @@ D&M argue that there are three main eras of slavery, each of which has locked bl
 
 I think they have in mind a model a bit like the below, where white people earn a fixed real income each year (which they invest and compounds) but black people only reach that stage in 1965. Therefore, even if there was exact equality between black and white people today, the legacy of slavery would be the gap between the red and black lines.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/fea497a9c95ff02c.png)
 
+<figcaption>
+
 _Conceptual diagram of D&M’s argument for how a wealth gap arises over the three eras of slavery_
+
+</figcaption>
+
+</figure>
 
 As an important pre-emptive counter-objection – this gap _already_ includes the payment you’re thinking of which offsets the harm of slavery. For example, perhaps you believe that the Northern States contributed a very great amount of money in the Civil War, such that this counts as a partial offset against slavery reparations. But this is already captured in the red line, which would be steeper if the US hadn’t fought a civil war and had grown faster. Perhaps you believe so much money is spent on DEI each year that black people are better off than white people today – but again, this is already captured in the gap between the two lines, which will eventually converge on this theory but have not converged yet meaning there is still a wealth gap. Similarly, insofar as African countries that participated in the slave trade owe any reparation to black Americans for enslaving them in the first place, that’s not something America can compensate for on D&M’s framework; white Americans owe black Americans exactly the difference between these two lines and no more, because exactly that gap is the net amount stolen from enslaved people from the moment they touched down on American soil to today.
 
@@ -152,9 +160,17 @@ Methodologically, this story is complicated because household composition (size 
 | A | Adjust for both household size and age using regression approach | Use each ten year boundary in Fed database to fit a polynomial regression, then calculate difference between 31 and 44 years old using this regression (exact, but methodologically less defensible) | 0.59 |
 | O | Attempt to fully match population pyramid | Calculated exact proportion of population which is in each age decile, and then weight Fed database by this proportion (less exact, but captures full population effect so methodologically more defensible) | 0.82 |
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/9f53f5bdcf58c38a.png)
 
+<figcaption>
+
 _Output of a simple polynomial regression model run on Fed wealth database_
+
+</figcaption>
+
+</figure>
 
 ## 2.3 – Different measures of wealth
 
@@ -246,9 +262,17 @@ It is notable that this is an argument which proves too much; by this logic, no 
 
 An imperfect proxy for the risk of undertaking the deal would be the length of time a military treaty holds; in general, this will look structurally similar to an ‘agreement now in exchange for ongoing obligations’, especially in the form of e.g. defensive alliances like NATO (which has held) or security guarantees like the Budapest Memorandum (which has not). The Alliance Treaty Obligations and Provisions ([ATOP](http://www.atopdata.org/)) is a database of such agreements from 1815 to the present day, and my analysis suggests that the probability of a treaty collapsing each year is about 1.15%. This slightly undersells the mechanics though; treaties are quite likely to collapse in the first decade, but if they survive a decade they are extremely likely to persist indefinitely. Therefore, a best case for conservatives might be something a bit like the Voting Rights Act of 1965 – a political compromise which is contested and relitigated for a generation, but after which becomes part of the fabric of American society so totally that even private businesses who are not bound by it would never dream of undermining it.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/646ae18645b2092c.png)
 
+<figcaption>
+
 _Visualisation of a Kaplan-Meier curve derived from the ATOP database_
+
+</figcaption>
+
+</figure>
 
 Just in case military alliances were less structurally similar to reparations than I expected, I sanity checked this approach by asking Claude to generate a list of historic reparation payment treaties. From this n=12 database I calculated a decay rate on these kind of agreements as 0.72%. Although this implies D&M’s deal would be slightly more stable than a typical military alliance, Claude cautioned that its training data will over-represent successful / long-lasting agreements and so the real value could be a little higher. This is disappointing to me, because it is exactly the sort of methodological caveat I would have liked to have made.
 
@@ -267,9 +291,17 @@ Throughout the review, I have asked you to keep a running tally of the arguments
 
 I have arranged some strings of five letters on the diagram below. The x-axis shows how much you personally would owe under your preferred methodology. The y-axis shows a completely arbitrary scale of ‘methodological purity’ I invented for myself so I could space the points out and fit more on the chart. The rough interpretation is points higher on the y-axis would be more likely to be accepted as the default by a statistician (ie prior to reading _FHtE_ and considering their specific arguments). I have also colour coded the graph into three sections. In the green section, reparations are definitely a net positive on pure financial terms (with a bit of uncertainty about the exact net present value of ending DEI). In the orange section, reparations are not net positive on pure financial terms, but could potentially be worth it once you consider the social / cultural value of ending DEI. Eventually the orange section will give way into the red section, where no specific economic argument can justify paying reparations; you’re either convinced by the morality or you’re not. Note that the graph doesn’t show the full range of outcomes which include strings like PINOT which increase the payment from D&M’s base case.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/20bbf542dfe0e7cc.png)
 
+<figcaption>
+
 _Possible reparation payments depending on methodological decisions taken during this review_
+
+</figcaption>
+
+</figure>
 
 If you can’t find your specific string, you can either pick one which sort of looks the same or work out where you are exactly by multiplying the total $14tn bill under D&M by the ‘multiplier’ at each stage. For example, take the string TALOS, which is my best guess for what a ‘methodologically neutral’ approach would be in a vacuum. That is to say, for each choice, TALOS gives you a sort of default textbook approach. This creates the following chain of logic:
 

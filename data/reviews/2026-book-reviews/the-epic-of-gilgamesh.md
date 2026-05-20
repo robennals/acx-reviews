@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-15T23:10:39.000Z'
 slug: the-epic-of-gilgamesh
-wordCount: 12078
+wordCount: 12090
 readingTimeMinutes: 54
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1W-19VfqaCjDgXpSC4SX9KDJnAeWQ_xp6ggx_J7Vha4U
@@ -117,9 +117,17 @@ But then, the next moment, we cut to Gilgamesh introducing Enkidu to his mother,
 
 To say that gaps (‘lacunae’) are everywhere in Gilgamesh is to have it backwards: lacunae are the rule, and any text we do have is a precious, hard-won exception. Gilgamesh comes to us in the form of tablets - blocks of clay, densely indented with cuneiform symbols. Dried or baked clay is durable enough to survive three millennia buried in the desert, but also vulnerable to being smashed. So, so vulnerable. Realistically, Gilgamesh comes to us in the form of _fragments_ of tablets.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/3ccfc4310e0ff5d8.png)
 
+<figcaption>
+
 _A part of Tablet 11, from_ _[the British Museum](https://www.britishmuseum.org/collection/image/107404001)__. This is one of the better-preserved fragments we have - most are much smaller than this and in worse condition._
+
+</figcaption>
+
+</figure>
 
 While lacunae sometimes make for a frustrating reading experience, they are also part of the aesthetic of this work. They feel like what they are: partial transmission, a reminder that this is something half lost, something that could easily have slid away from us into the inky nothingness of pre-history. The path from the 21st century BC to the 21st century AD was epic and dangerous, and every word has beaten the odds to find its way. I am grateful for each syllable.
 
@@ -291,9 +299,17 @@ English speakers are spoiled by the alphabet, which makes the principle seem tri
   
 When writing was first invented in Uruk [16], between 3500 and 2500 BC, it was for _spreadsheets_, with word-transcription tacked on later as an afterthought. City-state bureaucrats needed to track which villages sent how many bushels of wheat in tax, how many oxen were owed, or the yield of the harvest in each region. To aid their fallible human memories, they used what Uruk's floodplain offered in abundance: clay. With a reed stylus, they pressed their data into lumps of clay, then baked them into tablets (sometimes intentionally, sometimes accidentally if the city was burnt to the ground). This is cuneiform.  
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/b5ad940c8910dda0.jpg)
 
+<figcaption>
+
 _A proto-cuneiform tablet, c. 3100–2900 BC (__[source](https://en.wikipedia.org/wiki/Cuneiform#/media/File:Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure,_hunting_dogs,_and_boars_MET_DT847.jpg)__)_
+
+</figcaption>
+
+</figure>
 
 Early systems were simple: signs for amounts, dates, places, and goods. One famous fragment reads “28,086 measures barley 37 months Kushim”, which might make [Kushim](https://en.wikipedia.org/wiki/Kushim_(Uruk_period)) - probably an accountant or official - the first named person in history.  
   
@@ -371,9 +387,17 @@ In the mid-nineteenth century, European archaeologists developed an increasing f
 
 Meanwhile, tablets in their hundreds of thousands were arriving in the universities and museums of the world. Most sat unread for decades, and a large portion remain unexamined today (only rare experts can read raw cuneiform).
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/d42de2b8174ca1c7.png)
 
+<figcaption>
+
 _Some of the tablets found at the Library of Ashurbanipal, now in the_ _[British Museum](https://www.britishmuseum.org/blog/library-fit-king)_.
+
+</figcaption>
+
+</figure>
 
 A large number of tablet fragments come from [Ashurbanipal’s library at Nineveh](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal), which was put together around 700 BC, burned to the ground in 612 BC, and excavated in 1849 AD. Many more come from the houses of teachers at scribal schools: literal stacks of homework, from abandoned or destroyed cities. These are a particularly good source for the Gilgamesh Epic, because it was a popular teaching text - trainee scribes would copy out parts of it (or the older Sumerian poems it was based on) line for line. We can only guess what these students would think if they knew that three millennia later, academics would still be poring over their spelling mistakes.
 

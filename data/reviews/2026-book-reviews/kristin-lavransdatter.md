@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T05:06:25.000Z'
 slug: kristin-lavransdatter
-wordCount: 9797
+wordCount: 9805
 readingTimeMinutes: 44
 source: gdoc
 originalUrl: https://docs.google.com/document/d/18fCq3tZRSSYN7t1Xothwh4VXxTCdTBM9wX3Ln6Pvmwg
@@ -62,9 +62,17 @@ _Source:_ _https://www.margueritereads.com/home/kristin-lavransdatter-by-sigrid-
 
 as well as a set of family trees.
 
+<figure>
+
 ![image3.png](https://acximages.ennals.org/images/2026-book-reviews/5b0c4d34301a7a12.png)
 
+<figcaption>
+
 _Source: https://www.thenewatlantis.com/text-patterns/characters-of-kristin-lavransdatter_
+
+</figcaption>
+
+</figure>
 
 Don’t worry about reading them at first, but they’ll be helpful as you read, much like the list of names/nicknames found at the beginning of a Russian novel.
 
@@ -204,9 +212,17 @@ Over time, Erlend’s reputation improves, due partially to his skill in arms, b
 
 One of the most interesting parts of this novel is that we actually meet some historical figures, notably Erling Vidkunsson and a young king of Norway and Sweden. While Erlend himself is fictional, he participates in a plot to… well… let’s just say:
 
+<figure>
+
 ![image1.png](https://acximages.ennals.org/images/2026-book-reviews/79009fbdb24e51bc.png)
 
+<figcaption>
+
 _Source: 20th Century Fox Television_
+
+</figcaption>
+
+</figure>
 
 Most of the Norwegian nobles secretly think this is a good idea, and the plot dovetails with historical events. The density of the prose does this part of the story a disservice; it’s quite interesting but takes extra-attentive reading to tease out what is going on with the political situation. (I expect the Nunnally version makes this more legible!) Regardless, the plot might succeed, but Erlend’s carelessness strikes again.
 

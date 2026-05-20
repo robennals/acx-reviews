@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:06:49.000Z'
 slug: the-son-also-rises
-wordCount: 7646
-readingTimeMinutes: 34
+wordCount: 7662
+readingTimeMinutes: 35
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1sgIHLV8FEMP_eIObK_AA35EFUHvy6zCVX1p2OkQjf1Y
 tags:
@@ -148,9 +148,17 @@ Not only this, but at the forty thousand foot view Clark is taking, essentially 
 
 #### Consider education.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/129872910ceaf541.jpg)
 
+<figcaption>
+
 _Various cuts of "school spending” (exponential) vs “test scores” (completely flat)_
+
+</figcaption>
+
+</figure>
 
 In multiple countries, Clark tracks persistence rates (the rate at which elite or lower class families “persist” or fail to regress to the mean) both before and after universal education rollouts. There is no change in persistence rates from education.
 
@@ -190,9 +198,17 @@ What is happening here? If everything is innate and driven by genetics, why does
 
 This is handily characterized by the Simpsons episode (S6E19) where Lisa almost marries Hugh, who she meets at Oxbridge. He, a scion from a noble line, with a family estate and a deep lineage. Lisa, a Simpson.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/85187edd10fdbcef.jpg)
 
+<figcaption>
+
 _Elite regression to the mean in action_
+
+</figcaption>
+
+</figure>
 
 In other words, assortative mating is LITERALLY the most important thing to your descendants’ success. And not at the individual level, at the _lineage_ level. That gap between “.15” and “.75?” That gap **is** the importance of getting assortative mating right, and optimizing on familial quality vs individual quality.
 
@@ -222,9 +238,17 @@ If we model this simply as 4 vs 2 descendants respectively, the "rich descendant
 
 But this is too simplistic - if 80-90% of the population was at replacement, only the top 10-20% have a genuinely higher carrying capacity, and we need to model wealth dilution at inheritance and the fact that only the top 10% each generation will have the genuinely 2x carrying capacity. If you add these factors, you hit "rich descendants" crowding out the poor to a 4x extent over the 300 years, ultimately making up ~75% of the entire population.  
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/66aff3ad589d56cc.png)
 
+<figcaption>
+
 _Generational composition over 300 years, author’s model_
+
+</figcaption>
+
+</figure>
 
 Do YOU think that having the time preference, conscientiousness, ambition, and skills to become top 10%, being spread this widely throughout society, might have had a measurable effect on the ferment and explosion of innovation, productivity, and growth that we witnessed during the Industrial Revolution?  I sure do!  
 
@@ -238,9 +262,17 @@ So if it’s all genetics and “assortative mating leakage” is the true sourc
 
 And indeed, you would be right! Not only is persistence rate higher in India when looking at castes, there are multiple groups who are not regressing to the mean at all, but are further differentiating from the general population. In other words, their persistence rate is actually greater than 1!
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/ec55d286cc3c976b.jpg)
 
+<figcaption>
+
 _Notable - Kulin Brahmin and Mixed Hindu with >1 persistence rates - ie further differentiation rather than regression to the mean_
+
+</figcaption>
+
+</figure>
 
 If you go back and look at “relative representation” by caste in elite jobs, you see extraordinarily flat trends going back ~150 years.
 

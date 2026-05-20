@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:58:09.000Z'
 slug: the-tale-of-genji
-wordCount: 9947
+wordCount: 9959
 readingTimeMinutes: 45
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1_XX4RJeUH-QKloV7iK5T01OY3u47PNa_KZNd0y-Mdsk
@@ -103,9 +103,17 @@ Another unusual feature of the world of the Heian Imperial Court was their nearl
 
 And it wasn’t just her face that she had to guard. If a man paid a woman a visit, for example to pay his respects to her after the death of her family member, he would be seated well away from her, outside or in a different room, and one of the lady’s female companions would act as an intermediary in the conversation, passing their messages back and forth. If the lady came so close that they would be able to discuss directly, with only a screen separating them, that showed very high familiarity, and might be risky for the lady’s reputation. There is even an example in _Genji_ where a woman is given the responsibility to raise a 12-year-old boy she is unrelated to, and she apparently does this from behind screens; it’s mentioned that the boy is surprised when he "happens to see a glimpse of his guardian” and discovers she’s not very beautiful, unlike the other women he’s seen before. But, the boy thinks, it would be wonderful to find a woman as kind and gentle as she is. So apparently she was able to play a significant role in his upbringing, even as she had to hide from his view.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/751bac003fae55e3.jpg)
 
+<figcaption>
+
 _Heian women playing music on the veranda while a man peeps through the fence (__[Tosa Mitsusada, 1738-1806](https://www.metmuseum.org/art/collection/search/45427)__)_
+
+</figcaption>
+
+</figure>
 
 In the case that a man and a woman are having a secret relationship, he naturally has to sneak in at night, and he should take care to leave before sunrise. Such meetings would have been in complete or near-complete darkness, and it might take several meetings until the lovers would be able to see each other’s faces properly. Genji himself gets into a pickle by pursuing and spending nights with a lady who is quiet and bland, and when he finally sees her in daylight, she turns out to also be unattractive. Her nose, especially, is a disaster: unbelievably long, its tip drooping towards the floor, limp and red, like the trunk of an elephant. Our heart breaks for poor Genji for what he must endure.
 
@@ -163,9 +171,17 @@ This is, of course, not what happens when Genji falls in love with and subsequen
 
 In case you were wondering how the hell he managed to get away with all this, the short answer is that it simply doesn’t seem to be a big deal to anyone else, and it tells us a lot that the author didn’t feel the need to explain or justify Genji’s behaviour to her audience. One interesting clue comes decades later from Genji’s half-brother, who is contemplating becoming a monk but also worried about who will take care of his then-13-year-old daughter. He wonders where he might find a trustworthy man who would cherish the girl and bring her up “like Genji brought up the daughter of the culture minister prince.” It seems what Genji did was broadly considered completely fine, even virtuous. In fact, the girl is seen as the main heroine rather than a tragic victim, and her nickname in the story, Murasaki, later became the pen name of the author herself (who, unlike the character, married only in her mid-to-late twenties).
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/34224ef3a720b3b6.jpg)
 
+<figcaption>
+
 _Genji and Murasaki together, selecting clothing to be sent as New Year’s gifts to all the ladies in Genji’s household, which the servant women are packing up for delivery. Murasaki is in charge of maintaining the household’s clothing storage, and she is uncommonly skilled at dyeing fabrics in vibrant colours. Genji thinks he couldn’t have found a better wife. (__[Tosa Mitsuyoshi, 1539-1613](https://www.metmuseum.org/art/collection/search/53245)__)_
+
+</figcaption>
+
+</figure>
 
 In a world with this level of relationship complexity, faithfulness was understood in its own special way. The impression I got is that for a man to be faithful to a woman, he should provide for her, put effort into writing her beautiful letters, and visit her often, and it’s less about whether he also does that with other women. Naturally there is jealousy, but it seems more motivated by her fear that he might start neglecting her if he has other partners he prefers. In that sense, Genji was always faithful to Murasaki, because he always loved her and took great care of her needs, even as he seduced or married other women during their time together. It wasn’t as acceptable for a woman to have multiple lovers, but it wasn’t always the end of the world if she did, and she might well be forgiven, if she is otherwise elegant and attractive.
 
@@ -226,9 +242,17 @@ He: “Wassup girl, long time no see”
 She: “You remember me?”  
 He: “Oh snap. Wyd tonight”
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f9c379ed9faca855.jpg)
 
+<figcaption>
+
 _[A Heian-era poem by Fujiwara no Sadanobu (1088–1156)](https://commons.wikimedia.org/wiki/File:Fujiwara-no-Sadanobu_-_FRAMGENT_ISHIYAMA-GIRE_-_Google_Art_Project.jpg)__, showing calligraphy in the kana style similar to what would have been used in love letters and personal correspondence in The Tale of Genji._
+
+</figcaption>
+
+</figure>
 
 # Everything stands between the lines
 

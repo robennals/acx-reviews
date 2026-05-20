@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-15T03:53:14.000Z'
 slug: we-present-television
-wordCount: 9260
+wordCount: 9276
 readingTimeMinutes: 42
 source: gdoc
 originalUrl: https://docs.google.com/document/d/10qMR2EY8eGmrjboKtlRBqV4MqlTbp_B8X-kecncp46M
@@ -116,9 +116,17 @@ I was tickled to find that the ancestor of the modern game show was simply a reg
 
 The crown jewel of the TV studio, though, was its scripted live presentations. These get a huge amount of attention in the book. In Chapter 3 “The Men Behind the Camera”, O. B. Hanson delineates how a Program Director mounts and rehearses a dramatic presentation as if it is to be performed in a black box theater, while the Technical Director determines the most compelling way to capture it with the three camera setup. Actor Earle Larimore in Chapter 6 waxes rhapsodic about the potential of television to enrich the acting profession, both monetarily and in terms of “_intimacy_ with his audience. Intimacy is, of course, the one quality that every actor strives for above all others.”
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/3d152b3a1296b003.png)
 
+<figcaption>
+
 Seen here: Earle Larimore achieving intimacy
+
+</figcaption>
+
+</figure>
 
 Most scripted studio shows were one-off productions telling a single story, but the idea of the recurring TV show was also starting to percolate. In Chapter 8, we are told in detail about the first television serial, _Vine Street_, broadcast in fifteen minute chunks to an L.A. audience starting in 1938 and featuring what we now recognize as soap opera drama about rising stars and starlets seeking their big breaks in Hollywood. It is impossible to watch any of _Vine Street_ today; it went out live and, like almost all of the programs mentioned in the book, simply vanished into the ether.[5]
 
@@ -156,9 +164,17 @@ This economic limitation explains why TV did not immediately degenerate into not
 
 The most surprising element of the early studio to me, and ultimately the most consequential, was the mobile unit. Despite the bulk, fragility, and immense power requirements of the equipment, by 1937 RCA had figured out how to send a complete television studio out into the world, on two beautifully boxy buses.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/1e4048150871d373.png)
 
+<figcaption>
+
 Imagine these guys rocking up to a 7-11 that got robbed.
+
+</figcaption>
+
+</figure>
 
 In Chapter 7, “The New Newsreel”, noted radio writer Charles E. Butterfield breathlessly runs through a litany of outdoor and indoor events captured by the remote studio before telling us a little about how it works.
 
@@ -253,9 +269,17 @@ Maybe those technical extrapolations were easy shots to call, though. After all,
 
 This, of course, immediately became the conventional wisdom about the first televised Presidential [debate between Nixon and JFK](https://npg.si.edu/blog/50th-anniversary-john-f-kennedy-and-richard-m-nixon-debates-part-2) in 1960, two decades after Butterfield imagined it. And even if the impact of that debate is sometimes overly mythologized, it’s impossible to overstate how politically consequential a poor TV debate performance could be by [2024](https://en.wikipedia.org/wiki/2024_Joe_Biden%E2%80%93Donald_Trump_presidential_debate).
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/6632e607fb3d7431.png)
 
+<figcaption>
+
 “After the program ended, callers, including my mother, wanted to know if anything was wrong, because I did not look well.” - Nixon
+
+</figcaption>
+
+</figure>
 
 How about some business model specifics? Throughout the book, remarks about forming television networks and syndicating shows are constant and hardly deserve credit, since they are simply evidence of radio men applying their knowledge of radio practice and were fulfilled imminently. But in discussing TV advertising, Benn Hall predicts the eventual creation of premium subscription television (and its discontents):
 
@@ -313,9 +337,17 @@ And in the final, dreamy chapter by Robert Edmond Jones, the eeriest passage of 
 
 This passage is as close as you could possibly come to writing explicitly about the internet in 1940, but it also reads like something out of Lovecraft. To a first approximation, every human being _can_ now be immediately present to every other human being in the world, and privacy _has_ been abolished. That Unseen Force runs rampant across the globe. And like another deific entity first summoned by adding arcane metallic equipment to a New York skyscraper, it does not seem to have our best interests at heart.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/8b8b6212b8048859.png)
 
+<figcaption>
+
 Donald G. Fink does not address whether the W2XBS broadcast antenna had a core of pure selenium.
+
+</figcaption>
+
+</figure>
 
 For the Unseen Force is also stripping away the comforting artifice that used to mediate our impressions of the rest of our species. Jones:
 

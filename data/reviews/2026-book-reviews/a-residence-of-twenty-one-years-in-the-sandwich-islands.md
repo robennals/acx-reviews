@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T02:27:26.000Z'
 slug: a-residence-of-twenty-one-years-in-the-sandwich-islands
-wordCount: 8505
+wordCount: 8529
 readingTimeMinutes: 38
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1lYidSeOqgGWp7b7hHY3bFh3eFxqU6xOJVElDfw7VXM0
@@ -47,9 +47,17 @@ A young boy, [Opukaha’ia](https://en.wikipedia.org/wiki/Henry_Opukahaia), was 
 
 Hiram Bingham, a student at Andover Seminary, heard Opukaha’ia’s call to aid the Hawaiians. Born October 30, 1789, Hiram was one of the thirteen children of a Congregational deacon, Calvin Bingham. Although his parents had wanted Hiram to take over the family farm and care for them in old age, Hiram felt his duty to God was greater, and convinced his parents to allow him to study for the ministry. In Hiram’s own words, “Christ undoubtedly requires all his followers to bear their cross, and to forego or forsake whatever comes in competition with rendering him the highest service”. But service to God was not a gloomy undertaking; instead, it was accomplished “with joyful hearts and grateful praise.”
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/e1206f17b2ea00d6.jpg)
 
+<figcaption>
+
 An old family portrait of Hiram and his six brothers taken sometime 1854-1860. Bottom row: Asa, Amos, Calvin, Luther. Top row: Hiram, Stephen, David. Not pictured were his six sisters.
+
+</figcaption>
+
+</figure>
 
 Hiram truly felt the commandment to “love thy neighbor”, and for him, the 130,000 native Hawaiians on the other side of the globe were neighbors just as much as the inhabitants of his hometown in Vermont. Thus, Hiram was eager to become a missionary as soon as he had finished his studies.
 
@@ -57,9 +65,17 @@ Unfortunately, during preparations for the mission, Opukaha’ia fell ill and di
 
 There was just one problem: Hiram needed a wife. Sending a young single man to a land of licentious heathens was asking for trouble, and therefore only married couples were allowed to be missionaries. Thus, after being ordained as a Congregational minister, Hiram proposed marriage to Sybil Moseley, a woman he had met at the ordination ceremony just twelve days earlier. Fortunately, she accepted, and later that month, the couple was on a ship bound for Hawaii — not as a two-week honeymoon, but as a mission that would last twenty-one years.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/3a08dcfb7b736ac7.jpg)
 
+<figcaption>
+
 Hiram and Sybil in 1819, [as painted by Samuel Morse](https://artgallery.yale.edu/collections/objects/44970) (yes, [that Morse](https://en.wikipedia.org/wiki/Morse_code)).
+
+</figcaption>
+
+</figure>
 
 3.  ## A Fortuitous Arrival
     
@@ -87,9 +103,17 @@ From then on, Hiram and his fellow missionaries worked tirelessly to establish �
 
 The native Hawaiians were fascinated by the missionaries’ technology, even for seemingly simple things. Several high-ranking Hawaiian women requested that the missionary wives make American-style dresses for them. In traditional Polynesian culture, obesity is considered a mark of high status, and the missionaries had never seen women that big. Hiram describes one as a “rude giantess”.[9] Some initial attempts at dresses were “too tight” but after alterations, the dresses were well received.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/eebea0d3dd9e8006.png)
 
+<figcaption>
+
 The missionary women taught the native Hawaiians to embroider, and also used this as a means of teaching writing. The textile shown here is preserved at the Hawaiian Mission Houses Historic Site. Although somewhat faded, the text corresponds to [the “First Exercise in Reading” from the first Hawaiian spelling book printed by the missionaries](https://hmha.missionhouses.org/items/show/3924).
+
+</figcaption>
+
+</figure>
 
 Besides dress-making and other fabric production, the Hawaiians were intrigued by American-style houses. The missionaries brought pre-cut lumber to build a house, which was much more comfortable than the native grass huts: among other advantages, a chimney let smoke escape instead of filling the entire room. Music, and musical instruments, also delighted the Hawaiians, and Hiram adapted several hymns to the native language.
 
@@ -115,9 +139,17 @@ To standardize the spelling in a way intended to be easy for native speakers, Hi
 
 January 7, 1822 marked a milestone: the first printing press became operational, and began printing books in Hawaiian for the missionary school. The royalty quickly learned the advantage of sending written communication to administer the kingdom, and native Hawaiian newspapers became popular. In a few years, one third of the population attained a basic level of literacy – a higher proportion than many European countries of the time. Most of these were not taught by the missionaries themselves, but by other Hawaiians who showed great enthusiasm for learning (called _palapala)_. Hawaiians wrote poems in their own language “of no inferior order compared with the ancient Greek and Latin odes”. The missionaries would go on to print nearly 150 million pages (over 1000 for each Hawaiian) over the next 23 years.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/64c6f1d0d74fb8b8.jpg)
 
+<figcaption>
+
 The printing press, as preserved in the Hawaiian Mission Houses Historic Site.
+
+</figcaption>
+
+</figure>
 
 The next year, King Liholiho had become sufficiently curious about Europeans to travel to Europe and see what all the fuss was about. With his favorite wife Kamamalu[11] and his courtiers, including the powerful Chief Boki, governor of O’ahu, he boarded a ship to England to meet King George IV. A few days before their audience, they all fell ill with measles, and Liholiho and Kamamalu both died. [Lord George Anson Byron](https://en.wikipedia.org/wiki/George_Byron,_7th_Baron_Byron), cousin of the poet [Lord George Gordon Byron](https://en.wikipedia.org/wiki/Lord_Byron), was dispatched to bring back the survivors (including Boki) and the royal coffins, reaching Hawaii in 1824. With Liholiho dead, his younger brother Kamehameha III inherited the throne. However, at the time, he was even less experienced in politics than Liholiho, and as a result, Queen Ka’ahumanu’s influence increased to new heights. Only after the queen’s death in 1832 would Kamehameha III truly take power. Like Ka’ahumanu, the new king was also Christian, though less of a reliable ally to Hiram.[12]
 
@@ -129,9 +161,17 @@ Hiram also had the chance to explore some of the unique environments of Hawaii. 
 
 In 1824, Hiram demonstrated his astronomical knowledge to the natives by predicting a solar eclipse, perhaps foreshadowing the plot of “[The Adventures of Tintin: Prisoners of the Sun](https://tvtropes.org/pmwiki/pmwiki.php/Main/ConvenientEclipse)”.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/90736ee44e9abec6.png)
 
+<figcaption>
+
 The eclipse path. Viewed from Hawaii, this would have been a partial eclipse (I calculate that 43% of the sun was obscured in Honolulu).
+
+</figcaption>
+
+</figure>
 
 However, instead of claiming supernatural powers, Hiram simply explained that it was the moon passing in front of the sun:
 
@@ -267,9 +307,17 @@ Six years later, Queen [Liliʻuokalani](https://en.wikipedia.org/wiki/Lili%CA%BB
 
 The overthrow of the monarchy marked a low point in the history of Hawaii, but fortunately, the situation has greatly improved since then. Today, Hawaii is one of the fifty United States, and its residents enjoy a standard of living comparable to other developed countries, with a GDP per capita [above the median for US states](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP), and far above other Polynesian islands.[21] The native Hawaiian population has recovered and increased beyond pre-contact levels.[22] Though much cultural heritage has been lost, the state of Hawaii makes an effort to preserve its native language and traditions, instead of suppressing them as heathenry. There are still issues with things like land ownership inequality,[23] homelessness, and environmental degradation, but the Hawaiian Islands have undoubtedly done better than their peers in the Pacific.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/c7b5bcc437b07ac3.jpg)
 
+<figcaption>
+
 [Bingham Hall](https://www.punahou.edu/archives-facilities-detail?pk=158224) at Punahou School, which was founded by the missionaries of Hawaii on land granted by Ka’ahumanu to Hiram, and still exists today. President Obama learned math in this building.
+
+</figcaption>
+
+</figure>
 
 ## What have we learned?
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T04:25:57.000Z'
 slug: the-short-swift-time-of-gods-on-earth
-wordCount: 10076
+wordCount: 10080
 readingTimeMinutes: 45
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1Ihxo7JJCHuwJf4LUOOVBcSB-z5STarJmW1llMGhoK5Q
@@ -265,9 +265,17 @@ The narrative then switches to the perspective of these underground people, who 
 
 And so on and so on. The Wooshkam don’t lose a single man, while every great Hohokam house is destroyed and every Hohokam chief is killed. Poor Buzzard, who helped to kill Siuuhu, gets it worst of all. The Wooshkam capture him as he’s trying to fly away. Siuuhu takes away all his magic. The Wooshkam torture him for four days, then vote that instead of killing him they should scalp him in such a way that the skin of his head hangs around his neck. The knife splits open his scalp, and they pull all the skin down. They make him dance for them, head covered in blood. Then they let him go, cursed to only eat carrion.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/f32a9c434c85bcca.jpg)
 
+<figcaption>
+
 That’s why they look like that.
+
+</figcaption>
+
+</figure>
 
 The Wooshkam leave the Hohokam civilization in ruins and continue their march west. Accompanying them are all the remaining Hohokam, less their chiefs and gods and magic. Siuuhu tells them to work together from now on, especially now that the Apaches are getting more violent, and it is this combined Wooshkam-Hohokam civilization that now takes on the name O’odham. Siuuhu leaves the O’odham, goes back to his cave[16], and that is the last anyone has heard from him. The time of gods on earth is ended. It was indeed short and swift.
 

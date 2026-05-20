@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T18:04:08.000Z'
 slug: undertook-learn-russian-about-ten-years
-wordCount: 4892
+wordCount: 4904
 readingTimeMinutes: 22
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1pZhBkKPKYKDBpfzO4OvqfCnD3XywJQnozwW4QZ_lw3U
@@ -41,17 +41,33 @@ I propose that this is merely a modern articulation of the ancient prohibition a
 
 Pop quiz: Without thinking, what do you see in the following (non-graven) image:
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/ef538d4c9698664f.png)
 
+<figcaption>
+
 _Figure 1: An Artist’s Rendition of a Black Hole_
+
+</figcaption>
+
+</figure>
 
 If you said “it’s a black hole,” you’re wrong. Rather, what you are looking at is an _artist’s rendition_ of a black hole.
 
 Hopefully, after this short exercise, you’ve been completely disabused of any tendency to confuse representation for reality. But, just in case, we’ll do one more—what do you see in the following picture:
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/49766ab1db14a13b.png)
 
+<figcaption>
+
 _Figure 2: The Output of a Very Complex Function That Takes as Inputs the Data Received From the Event Horizon Telescope Pointed toward the Center of Messier 87_
+
+</figcaption>
+
+</figure>
 
 If you said “it’s a black hole”—again, you’re wrong, and for the exact same reasons. (Rather, this is what a certain computer program displays on a monitor after receiving data from the Event Horizon Telescope.)
 
@@ -63,9 +79,17 @@ Flippancy aside, I am not to be taken as suggesting that black holes do not actu
 
 Demons, like black holes, can be difficult to perceive with the naked eye. Their existence—if they do exist—would have to be inferred by their influence on other bodies.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/c3f1a38f503b1112.png)
 
+<figcaption>
+
 _Figure 3: A Medieval Artist’s Rendition of Two Demons_
+
+</figcaption>
+
+</figure>
 
 2.  **Defining and Translating Demons**
 
