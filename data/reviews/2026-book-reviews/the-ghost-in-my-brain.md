@@ -140,7 +140,8 @@ Elliott is writing the book fifteen years after the accident, and the recovery h
 A skeptical explanation might be that Elliott was desperate and ripe for placebo effect. Receiving intense attention from clinicians who believed they could help him after years of failed encounters with doctors might have been sufficient to shift his symptoms. Elliott's recovery was staged over five years with iterative adjustments, which is exactly the protocol that would maintain a placebo effect, and the base rate of spontaneous recovery in chronic PCS is non-zero. So can we be sure that any of these treatments did anything other than give him a pat on the back as the concussion worked itself out?
 
 I think a case can be made for at least some real intervention. While the evidence for Zelinsky’s closed-eye method in particular is thin, the general “prescribe new lenses” approach looks much more promising. And there’s a reasonable causal mechanism on offer.  
-  
+
+
 If you hold up your thumb in front of your face, and then easily switch between looking at something on the wall and your thumb, congrats - your accommodation triad is working. The accommodation triad is the trio of ocular functions that enable close-up vision. In many PCS patients, this system goes awry, resulting in a suite of vision complications. In a study of adolescent patients (n=116), Wiecek et al (2021) found that ~60% of patients had deficits in near point of convergence after concussion. Prism lenses can reduce eye strain by shifting the image on the retina so the eyes don’t have to work as hard to converge, and magnifying lenses reduce accommodation demand.
 
 A year into my concussion, and partially inspired by Elliott, I asked my neuro-opthalmologist for prism lenses. They didn’t help at all. But the magnifying lenses I tried next _totally did_, almost entirely eliminating my symptoms immediately (unfortunately, they later returned).

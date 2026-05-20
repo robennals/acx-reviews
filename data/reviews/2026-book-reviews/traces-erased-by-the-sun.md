@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T14:13:23.000Z'
 slug: traces-erased-by-the-sun
-wordCount: 3625
+wordCount: 3626
 readingTimeMinutes: 17
 source: gdoc
 tags:
@@ -86,7 +86,7 @@ In his translator's preface, Irwin states the two reasons that he decided to tra
 
 _**Traces Erased by the Sun**_
 
-**by Robert Irwin**
+## by Robert Irwin
 
 Robert Graham Irwin was born in Guildford in the year 1946 C.E. His education brought him to the city of Oxford, and he later established himself as a lecturer, literary fantasy author, and medieval Islamic scholar.
 

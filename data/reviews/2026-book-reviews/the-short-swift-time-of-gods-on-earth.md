@@ -233,8 +233,10 @@ From Juan Dolores:
 
 These are…different. Depending on who you ask, Siuuhu’s offense is either:
 
-a) being annoying at parties,  
-b) seducing women and destroying crops, or  
+a) being annoying at parties,
+
+b) seducing women and destroying crops, or
+
 c) having an unsatisfactory answer to the problem of evil
 
 Whether you think any or all of these are deserving of murder, all the narrators agree on what happens next. The people kill Siuuhu three times, but each time he comes back to life the next day and is just as annoying, seductive, or philosophically inconsistent as he was the day before. They consult with Buzzard, who has some ideas about how to kill Siuuhu and make it stick. They kill Siuuhu a fourth time, and he stays dead.

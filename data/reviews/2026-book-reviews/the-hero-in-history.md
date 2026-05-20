@@ -215,9 +215,11 @@ Napoleon is the hardest case for Keyhole Theory and the strongest case for Hook�
 But look more carefully at the keyhole he fit into. By 1799, revolutionary France had spent a decade cycling through governments that could not consolidate legitimacy. The republic needed military prestige to survive against coalitions of monarchies, but it also needed to not look like a monarchy itself. This created a very specific keyhole moment: someone who could wield authority with monarchical confidence while claiming revolutionary legitimacy, someone whose power derived from battlefield merit rather than bloodline. That is an oddly-shaped keyhole that excluded almost everyone.
 
 * A royalist general would not be trusted by the republic.  
-    
+
+
 * A committed republican ideologue would lack the ruthlessness to seize power.  
-    
+
+
 * An aristocratic commander like Lafayette had already been chewed up by revolutionary politics.
 
 Napoleon’s particular combination—Corsican outsider status, genuine military brilliance, ideological flexibility bordering on total indifference to principle, and an ego so vast it could fill the vacuum left by the Bourbons—was not a collection of universally great qualities. It was a key shaped for that lock.
@@ -245,5 +247,6 @@ Keyhole Theory liberates us from the need to think the Trumps of the world are �
 ## Footnotes
 
 [^1]: Theodora was famous for her tenacious rags-to-riches story. Her single most important contribution to history was convincing her husband, Justinian I, not to flee during the Nika Riots in 532. We know from history that she was the only one who argued that he should stay, and she won out. One historian (Procopius) even has her giving a baller speech (“royal purple is the noblest shroud”) that stiffened her husband’s resolve. He stayed, held on to power, and went on to write a foundational legal text, build the Hagia Sophia, and reconquer enough of the empire to last almost another thousand years. If you replaced her with some senator’s daughter, it seems completely implausible that Justinian (and Byzantium) would survive.  
-  
+
+
 On an even more basic level, the differentiation between an “event-making” and “eventful” person is supposed to be a unique contribution to history, not how long the beneficial effects lasted. If she had been a frugal housewife or applied frugal housewifery to Byzantine finances, it would have had no impact on Justinian I’s survival. To speak of her having a greater effect with housewife frugality is like saying George Washington would have been more influential if he’d taken better care of his teeth—it is tendentious to the point of silliness.

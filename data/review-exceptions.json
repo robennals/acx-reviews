@@ -27,5 +27,8 @@
   },
   "the-merry-wives-of-windsor": {
     "removeBlanksBeforeMatching": "^>\\s*\\(Act "
+  },
+  "capitalist-realism": {
+    "disableItalicAsBlockquote": true
   }
 }

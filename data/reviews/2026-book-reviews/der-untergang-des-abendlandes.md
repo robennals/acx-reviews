@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T09:10:12.000Z'
 slug: der-untergang-des-abendlandes
-wordCount: 6540
+wordCount: 6546
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -27,7 +27,7 @@ _A Christmas Carol_ by Charles Dickens
 
 _The Man in the High Castle_ by Philip K. Dick
 
-**0\. Prelude**
+## 0. Prelude
 
 In a time of growing political polarization, it’s comforting to know that left and right, rich and poor, men and women can all agree on one thing: doom is at hand. The harbinger of said doom can be anything from climate change to right-wing populism to the second coming of Christ, but either way _it’s over, bro._ To quote that late great head of state Denethor, steward of Gondor — the West has failed.
 
@@ -41,7 +41,7 @@ Secondly, I read Untergang des Abendlandes in the original German despite German
 
 a tough read even for a native speaker. Spengler is no Schopenhauer, whose German prose shines clear and bright like a well-lit room, but writes rather in a suggestive, poetic and at times semi-Nietzschean style (Spengler indeed cites Nietzsche, next after Goethe, as an inspiration). English in turn is my _second_ language, making this review the end result of a tortured linguistic process wherein the original content has been digested through three different languages in my brain before finally being delivered to you. Take it for what it is: an essay trying to summarize and engage with the most interesting parts of Spengler’s thinking rather than a precise scholarly overview.
 
-**I. Der Untergang des Abendlandes**
+## I. Der Untergang des Abendlandes
 
 Before getting into the nitty-gritty of Spengler’s late-civilization-eschatology, a brief outline of his general paradigm is necessary. In short, Spengler proposes a grand theory wherein civilizations are born, age and die in semi-predictable 800- to 1,000-year cycles. Every “stage” of civilizational life is characterized by recurring trends, and identifying these trends in the past enables us to glimpse our own future. The groundwork of Spenglerist thought consists of the most anti-materialist views of history I’ve ever seen, with Spengler brazenly alleging that _real_ history is the history of _Geist_, i.e., our conception of ourselves, our society, our ideals and our situation, and that material conditions, beyond just being uninteresting in a Spenglerist view of history, are mostly a reflection of the civilizational _Weltanschauung_ molding reality around it through meeple-like workers. Spengler’s own summary is colourful and worth quoting (with the added benefit of an early quote also giving you an idea of his umami-rich writing style):
 
@@ -59,7 +59,7 @@ Spengler’s model thus admits a high degree of uncertainty. His grand cyclical 
 
 Consulting the table, you can see that you’re currently experiencing the death throes of Western civilization taking place from around 2,000 to 2,200. If you’re like me that makes you eager to know: what does Spengler think will happen? What’s his model of decline? This is the best part of _Untergang des Abendlandes_, and it remains a treat to read even to this day.
 
-**II. Decline**
+## II. Decline
 
 ## The Rise of The World Cities
 
@@ -95,7 +95,7 @@ In the Carboniferous Epoch we were promised abundance for all,
 
 By robbing selected Peter to pay for collective Paul;
 
-_But, though we had plenty of money, there was nothing our money could buy_,
+> _But, though we had plenty of money, there was nothing our money could buy_,
 
 And the Gods of the Copybook Headings said: "If you don't work you die."
 
@@ -127,7 +127,7 @@ Am I reading too much into this? I admit we are talking about some far-fetched I
 
 These are questions I haven’t seen asked and which stand without clear answers, but dishearteningly every choice of path seems unpleasant. It is especially concerning that the paradigm of Western-driven universal progress – which was indeed at times arrogant, egocentric and xenophobic, but also hopeful, self-confident and inspiring – really does appear to have crumbled into a more relativistic worldview. We are increasingly living in a reality wherein the West is just one pole in a decidedly multipolar world. I chose my opening quotes with care, and I end this section by repeating one of them. _Are these the shadows of the things that Will be, or are they shadows of things that May be, only?_
 
-**III. Fall**
+## III. Fall
 
 Above is a simplified-but-workable summary of Spengler’s model in all its grandeur, ambition and absurdity. Before moving on to a final critique it’s worth putting everything together into one quick cohesive analysis. What follows is a rough sketch of how a dedicated Spenglerian might predict the coming years.
 
@@ -141,7 +141,7 @@ Coinciding with the loss of civilizational rhythm, the birth rates fall disastro
 
 Does this sound familiar?
 
-**IV. I bid you stand, Men of the West**
+## IV. I bid you stand, Men of the West
 
 Spenglerism is an absurd position whose every conclusion hinges on accepting a very, for want of a better word, _particular_ worldview. Nevertheless, the most convincing argument against Spenglerism isn’t even that, but instead that many of Spengler’s predictions – some of which now appear hauntingly prophetic – is mere extrapolation of trends Spengler witnessed in his own lifetime (i.e. the falling birth rates of the early 20th century, the rapidly increasing urbanization, the turn towards fascist strongmen, et cetera). Yet many of these trends were later reversed during the 50’s and 60’s! Fertility suddenly climbed, Caesars fell and the West regained its rhythm. This remarkable turnaround is enough to convince me that Spengler’s claim of inevitability truly is untenable. And while Spengler might only have deemed great civilizations worthwhile objects of historical interest, that obviously isn’t the sole available perspective, or even an especially good one. History can also be the story of the lives of ordinary folk; and it is no bad thing to celebrate a simple life.
 

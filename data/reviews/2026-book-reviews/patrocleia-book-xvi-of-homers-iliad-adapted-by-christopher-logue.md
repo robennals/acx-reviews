@@ -7,18 +7,21 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T12:23:17.000Z'
 slug: patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue
-wordCount: 2289
+wordCount: 2291
 readingTimeMinutes: 11
 source: gdoc
 tags:
   - Fiction
 ---
 
-**Book design and typography by Germano Facetti**  
-**Scorpion Press, London 1962**
+## Book design and typography by Germano Facetti
 
-  
- _As flies to wanton boys are we to the gods; They kill us for their sport._  
+## Scorpion Press, London 1962
+
+
+
+ _As flies to wanton boys are we to the gods; They kill us for their sport._
+
 (King Lear I,V:I:37–38)
 
 Arguably, few people in history have been as widely and as long revered as the poet Homer. And yet we know nothing certain of him, save that he was credited with the composition, if indeed composition is the right term (perhaps _the singing_ is more accurate) of Western Europe’s two great epics, the Iliad and the Odyssey. Or was it really he? There are many unresolved questions about the poet - above all, whether ‘Omiros’ was a single individual or a succession of many individuals, each adding to and editing the epic over the vast span of time which passed before it was finally transcribed, most probably in Athens sometime during the 6th century BC.
@@ -85,7 +88,8 @@ Patroclus succeeds in defeating the Trojan attack on the Greek ships, but succum
 > **Mindless of everything Achilles said**  
 > **Patroclus went for Troy.**
 
-  
+
+
 And then, before Patroclus meets his fate, Homer sings of the death of Sarpedon, Prince of Lydia, first and most faithful of Troy’s allies, in this most extended of his battle scenes.
 
 > _**Under the white sun, back and forth**_  
@@ -134,7 +138,8 @@ Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-co
 > **And him inside it lying**  
 > **Like a waxen god asleep on his outstretched hand.**
 
-  
+
+
 The sequence of events in Logue’s rendition has followed the Homeric original closely, but he interpolates two entirely original texts: the fallen tree simile, and the wonderful details of Apollo’s Joshua-like halting of the sun: _“Sun, stand thou still over Ilium”_. In addition, his is the inspired image of blades moving across Sarpedon’s body “_like grasses over stone_.”
 
 And still the battle rages:  
@@ -168,7 +173,8 @@ Eventually, after hours of grim fighting and many deaths, the Greeks overcome Gl
 > **Ordered your borrowed Myrmidons to drag him off**  
 > **And went for Troy alone.**
 
-  
+
+
 It is now too late for the hero, as the hammer blows of Achilles’ admonitory warnings echo again like an ominous Wagnerian theme:  
 
 > **Three times Patroclus climbed Troy’s wall.**  
@@ -197,7 +203,8 @@ It is now too late for the hero, as the hammer blows of Achilles’ admonitory w
 > **To hide (to blind that voice) to hide**  
 > **Behind the moving blades.**
 
-  
+
+
 Till at the end, in a hysterical frenzy to escape Apollo’s anger, head ringing with his roar, reduced to pure killing machine, Patroclus senses the presence of the god at his back...
 
 >   

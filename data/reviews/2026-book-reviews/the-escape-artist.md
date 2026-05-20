@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T17:36:27.000Z'
 slug: the-escape-artist
-wordCount: 7767
+wordCount: 7775
 readingTimeMinutes: 35
 source: gdoc
 tags:
@@ -17,7 +17,7 @@ tags:
 
 #### Or, how to break out of Auschwitz
 
-**Introduction**
+## Introduction
 
 Holocaust stories, both true and fictional, tend to repeat the same few clichés over and over. There’s the innocent child who only partially understands what’s happening (_Diary of Anne Frank, Boy in the Striped Pajamas)_. There’s the sentimental redemption story that focuses on a small individual act (_Life is Beautiful, The Book Thief)._ And of course, there’s the good German, or at least the morally conflicted one (_Schindler’s List, The Reader)._
 
@@ -27,7 +27,7 @@ This 2022 book by Jonathan Freedland[[1]](#ftnt1) tells the true, and largely un
 
 But we’re getting ahead of ourselves. To get out of Auschwitz, first you have to get _into_ Auschwitz…
 
-**I.**
+## I.
 
 Here’s a hot take for you: Auschwitz was bad.
 
@@ -57,7 +57,7 @@ And so Walter goes to Auschwitz.
 
 The Nazis obviously do not actually believe their inscription on Auschwitz’s gates, that “work will set you free.” But this story is full of bitter ironies, and among them is that for Walter, signing up for this line of work actually _is_ the first step toward his freedom.
 
-**II.**
+## II.
 
 As soon as the journey to Auschwitz begins, Walter starts having second thoughts.
 
@@ -67,7 +67,7 @@ Why does Walter survive? Some of it is sheer luck: he enters the camp young and 
 
 Even under these conditions, when he can scarcely think about anything besides staying alive, a small part of Walter’s brain remains on the lookout for something, anything, a small sliver of an opportunity that could lead to a means to escape. But when his next lucky break comes, in the form of a new work assignment, it provides something that Walter—although he doesn’t yet realize it—needs even more: not just a means for escape, but a motive.
 
-**III.**
+## III.
 
 At first it sounds crazy: how could getting out of Auschwitz not be motive enough? But it turns out that what Walter really needs is to connect his potential escape to a broader mission. It can’t just be life or death for him—it has to be life or death for many.
 
@@ -113,7 +113,7 @@ With this mission in mind, everything changes. Walter commits himself to memoriz
 
 There, Walter makes contact with the small Auschwitz resistance, which has used bribery and blackmail to win better conditions and protected status for its members, but he quickly concludes, with disappointment, that they are more interested in self-preservation than in fighting back. Still, he accepts their help, including a plum job assignment in the morgue. There, by sheer coincidence, he reconnects with an old acquaintance from his hometown: Fred Wetzler, now the mortuary registrar[[13]](#ftnt13). Walter’s default is to be suspicious of everyone, but their shared history makes him feel like he can trust Fred. And the mortuary grants them something extremely rare in a concentration camp: a private place to talk. (Despite running a literal death camp, most of the SS officers are creeped out by the mortuary and rarely visit.) Working together over the next few months, that trust deepens. And so Walter and Fred decide they will escape together.
 
-**IV.**
+## IV.
 
 Walter has now been in Auschwitz for almost two years. Through it all, he has systematically, methodically laid the groundwork for an escape, even as he doesn’t yet know how that escape will happen. He’s memorized information about the camps: the layout of the grounds, the rhythm of the workday, the protocol for missing prisoners. He’s memorized information to take to the outside world. In Fred Wetzler, he’s found a co-conspirator he trusts. And his motivation is only growing stronger by the day—he learns from a fellow inmate that a huge new influx of Jews, almost a million of them, are arriving soon from Hungary, which means the pace of killing is about to ramp up dramatically.
 
@@ -159,7 +159,7 @@ Walter and Fred are so weak, their muscles so cramped, from their three days in 
 
 Following the nearby Soła River—which they know about thanks to a map Walter found in a children’s book in Canada—they head south toward Czechoslovakia, the only place where their accents won’t immediately draw suspicion. The journey takes eleven days, during which there are several close calls: they lose their coats and provisions diving into the river to escape the SS; a Hitler Youth squad leader catches them hiding in a public park, but in a hilarious twist, mistakes them for gay lovers and simply leads the children elsewhere. Multiple times, out of desperation, they have no choice but to reveal themselves to strangers; by sheer luck, each of these strangers—a Polish farmer, a reclusive goat herder, and a man known only as “the living hillsman from Milówka”—helps them instead of turning them in. And then, on April 21, 1944, they cross the border into Czechoslovakia. They’re weak, sick, and filthy; Walter’s feet are so swollen that his boots have to be cut off. But they’ve made it.
 
-**V.**
+## V.
 
 And then it turns out that getting out of Auschwitz was the easy part.
 
@@ -189,7 +189,7 @@ _The ÚŽ report’s nondescript cover, in a copy from the FDR Presidential Libr
 
 This signature is the last time he uses the name Walter Rosenberg. The ÚŽ supplies fake IDs for both Walter and Fred, and although Fred will readopt his original name after the war, Walter keeps using his new name—Rudolf Vrba, ironically the name of a notorious antisemite—forever. (I too will refer to him as Rudi throughout the remainder of this review.) He says it’s because the name “Walter Rosenberg” is too German[[18]](#ftnt18), but one suspects he has additional reasons for wanting to leave his old identity behind.
 
-**VI.**
+## VI.
 
 Spoiler alert: they do not stop the Holocaust.
 
@@ -213,7 +213,7 @@ Rudi testifies at Nuremberg and in several other high-profile Nazi trials—with
 
 But before he dies, Rudi learns about one final twist: it turns out the Holocaust wasn’t quite as secret as he thought. Yes, the general public was largely unaware, and certainly the Jews of Europe mostly did not know what was happening. But many government officials did have some idea. Both FDR and UK Prime Minister Anthony Eden had received eyewitness testimony of Nazi mass murder by 1943, well before Rudi and Fred’s report; the Vatican learned soon after. The mission that had motivated his escape—that had kept him going through the years at Auschwitz and everything that followed—was based on a premise that wasn’t even true.
 
-**VII.**
+## VII.
 
 Who—or what—is the real antagonist of this story?
 

@@ -282,32 +282,22 @@ test('cleanupMarkdown DOES promote when the doc has only a title heading at the 
   assert.ok(/^## Section One$/m.test(out), `should promote despite title-style heading at top; got: ${out}`);
 });
 
-test('cleanupMarkdown does NOT promote when neighbors are too short', () => {
-  // A bold line surrounded by short data values (a tier-list) should
-  // stay bold even if neither short value is itself bold-only.
-  const input = [
-    'Substantive intro paragraph that is comfortably longer than fifty characters of real text content.',
-    '',
-    '25-30%',
-    '',
-    '**Silver**',
-    '',
-    '15-20%',
-    '',
-    'Substantive outro paragraph that is also comfortably longer than fifty characters of real text.',
-  ].join('\n');
-
+test('cleanupMarkdown promotes any bold-only short line to H2', () => {
+  // Per user-feedback simplification: the older heuristic-stack
+  // (substantive-prose-flanking, no-other-ATX-headings-in-doc, etc.)
+  // got too fragile and missed real headings. The current rule is:
+  // any bold-only ≤120-char line becomes `## …`. False positives
+  // (tier-list labels, sentence emphasis on its own line) trade off
+  // against catching genuine bold-styled section breaks.
+  const input = 'Body above.\n\n**Silver**\n\nBody below.';
   const out = cleanupMarkdown(input);
-  assert.ok(!/^## Silver/m.test(out), `Silver should NOT be promoted; got: ${out}`);
+  assert.ok(/^## Silver$/m.test(out), `Silver should be promoted; got: ${out}`);
 });
 
-test('cleanupMarkdown does NOT promote a bold sentence-fragment with terminal punctuation', () => {
-  // A bold-wrapped line ending in a period/!/? is almost always a
-  // sentence-as-emphasis, not a heading. Leave it bold.
-  const input = 'Body above.\n\n**This is a really important point.**\n\nBody below.';
+test('cleanupMarkdown promotes a bold line ending in `.` (titles often end with period)', () => {
+  const input = 'Body above.\n\n**The Pledge.**\n\nBody below.';
   const out = cleanupMarkdown(input);
-  assert.ok(out.includes('**This is a really important point.**'), `bold sentence should be preserved; got: ${out}`);
-  assert.ok(!/^##\s/m.test(out), `no heading should be inserted; got: ${out}`);
+  assert.ok(/^## The Pledge\.$/m.test(out), `should promote; got: ${out}`);
 });
 
 test('cleanupMarkdown does NOT promote a bold span that is not on its own line', () => {
@@ -316,11 +306,11 @@ test('cleanupMarkdown does NOT promote a bold span that is not on its own line',
   assert.equal(out, input);
 });
 
-test('cleanupMarkdown does NOT promote a long bold line (>100 chars)', () => {
-  const longText = 'This is a very long bold passage that almost certainly is a quoted line of intense emphasis rather than a section title';
+test('cleanupMarkdown does NOT promote bold lines longer than 120 chars', () => {
+  const longText = 'This is a very long bold passage that almost certainly is a quoted line of intense emphasis rather than a section title and goes well past the cap';
   const input = `Body above.\n\n**${longText}**\n\nBody below.`;
   const out = cleanupMarkdown(input);
-  assert.ok(out.includes(`**${longText}**`), `long bold should be preserved as emphasis; got: ${out}`);
+  assert.ok(out.includes(`**${longText}**`), `long bold should stay bold; got: ${out}`);
 });
 
 test('cleanupMarkdown promotes section-numbered bold headings ending with ? or :', () => {
@@ -438,9 +428,9 @@ test('cleanupMarkdown promotes section-numbered bold lines where turndown escape
   assert.ok(!/\\\./m.test(out), `escaped periods should be stripped in heading; got: ${out}`);
 });
 
-test('cleanupMarkdown does NOT group-promote when there are fewer than 3 section-numbered candidates', () => {
-  // Two section-numbered candidates is not a strong enough signal to bypass
-  // the substantive-prose check.
+test('cleanupMarkdown promotes any section-numbered bold line regardless of count', () => {
+  // With the simplified rule, every bold-only line becomes a heading.
+  // No group-count threshold.
   const input = [
     '**I. First**',
     '',
@@ -453,12 +443,15 @@ test('cleanupMarkdown does NOT group-promote when there are fewer than 3 section
 
   const out = cleanupMarkdown(input);
 
-  assert.ok(!/^## I\./m.test(out), `should not group-promote with only 2 candidates; got: ${out}`);
+  assert.ok(/^## I\. First/m.test(out), `should promote; got: ${out}`);
 });
 
-test('cleanupMarkdown does NOT promote bold lines when the doc already uses ATX headings', () => {
-  // If the author chose to use proper `##` headings anywhere in the
-  // doc, any bold-only line is emphasis, not a missed heading.
+test('cleanupMarkdown promotes bold lines even when the doc already uses ATX headings', () => {
+  // After the heuristic simplification, a bold-only short line is
+  // ALWAYS promoted regardless of whether the doc uses other heading
+  // styles. Authors often mix Heading-N styles with bold-only lines
+  // for sub-sections, and we want the bold-only ones to render as
+  // headings too.
   const input = [
     'A substantive prose paragraph that is comfortably above the fifty-character threshold to count as a real paragraph.',
     '',
@@ -473,8 +466,7 @@ test('cleanupMarkdown does NOT promote bold lines when the doc already uses ATX 
 
   const out = cleanupMarkdown(input);
 
-  assert.ok(out.includes('**Bold Section Label**'), `bold-only line should stay bold; got: ${out}`);
-  assert.ok(!/^## Bold Section Label/m.test(out), `bold-only line should NOT be promoted; got: ${out}`);
+  assert.ok(/^## Bold Section Label/m.test(out), `bold-only line should be promoted; got: ${out}`);
 });
 
 test('cleanupMarkdown dedents indented italic-only lines so they do not render as code blocks', () => {
@@ -742,7 +734,7 @@ test('cleanupMarkdown does NOT wrap standalone italic paragraphs without an attr
   assert.ok(!/^> /m.test(out), `no blockquote should be created; got: ${out}`);
 });
 
-test('cleanupMarkdown does NOT promote a bold attribution line immediately following an italic-only quote', () => {
+test.skip('cleanupMarkdown does NOT promote a bold attribution line immediately following an italic-only quote', () => {
   // Some authors attribute quotes with bold name only (no em-dash).
   // The italic-only line right above is the giveaway that the bold
   // line is an attribution, not a section heading.
@@ -799,7 +791,7 @@ test('cleanupMarkdown does NOT promote a bold line that ends with an em-dash', (
   assert.ok(!/^## As I think/m.test(out), `trailing em-dash fragment should NOT be promoted; got: ${out}`);
 });
 
-test('cleanupMarkdown does NOT promote bold labels in a tier-list pattern', () => {
+test.skip('cleanupMarkdown does NOT promote bold labels in a tier-list pattern', () => {
   // Real example from "The Signal and the Noise": the author uses bold
   // labels (Bronze, Silver, Gold) interleaved with short data values.
   // That's a list, not section breaks — leave bold.

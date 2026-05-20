@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T10:03:56.000Z'
 slug: religion-for-atheists
-wordCount: 5687
+wordCount: 5690
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -15,7 +15,7 @@ tags:
   - Philosophy
 ---
 
-**Note: I read the Romanian edition of the book, so the quotes from the book are translated into English by my own brain**
+## Note: I read the Romanian edition of the book, so the quotes from the book are translated into English by my own brain
 
 An important step in overcoming an addiction is to identify the needs the addiction satisfies and then find healthier ways of satisfying those needs. In the case of of the opiate of the masses, religion, Alain de Botton recognizes two broad categories of benefits
 
@@ -242,7 +242,7 @@ For Christianity, the purpose of art is to remind us of the things that matter. 
 
 Another example is _The Fourteen Stations of the Cross_ by Eric Gill at Westminster Abbey, which displays what Jesus suffered on his way to being crucified. De Boton hopes to see the creation of a secular equivalent titled _The Twelve Stations of Old Age_.
 
-**“It is up to artists to orchestrate moments of compassion.”**
+## “It is up to artists to orchestrate moments of compassion.”
 
 To de Botton, the true difficulty of communicating ideas through art is that the ideas being communicated appear obvious. That’s why it’s necessary to find new ways to attract attention to “ideas that are tiringly familiar but essential”.
 
@@ -264,7 +264,7 @@ A lone peasant girl pauses her work to listen to a lark singing in the distance
 
 Like in the case of humanities, De Botton argues that we should organize paintings and sculptures according to useful categories.
 
-**“Works of art are not devalued if they are accompanied by instruction manuals.”**
+## “Works of art are not devalued if they are accompanied by instruction manuals.”
 
 De Botton illustrates this with the Buddhism mantra that is to be repeated when looking at mandalas: _Om mani padme hum_ - generosity, morality, patience, diligence, renunciation, wisdom.
 

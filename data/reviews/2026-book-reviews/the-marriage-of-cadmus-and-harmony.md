@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T06:32:54.000Z'
 slug: the-marriage-of-cadmus-and-harmony
-wordCount: 8803
+wordCount: 8807
 readingTimeMinutes: 40
 source: gdoc
 tags:
@@ -55,7 +55,7 @@ The variant is the origin. Whether Theseus and Ischys are the same is irrelevant
 
 In _TMOCAH_, preceding and following paragraphs are not necessarily connected by theme, idea, or even time. Often the writing feels like the offhanded theory crafting of an old mythographer, as in the above two paragraphs. One page will be discussing Dionysus, and the next suddenly shifts to expounding the fledgling Greek identity nascent in their myths. In the middle of talking about Jason and the Argonauts, Calasso brings up Nietzsche. The text weaves through Greek myth and modernity wherever it feels like, and Calasso is never in short supply for obscure, relevant, and oftentimes perplexing anecdotes from all sources. In the same article from the Paris Review he explains his writing method:
 
-_“I have never written a book, except maybe L’impuro folle, from beginning to end. It is always a mosaic, if you will, in which I write page 80, 30, 315 in any given order. And I never know where the final place of what I am writing in the book will be. It’s the same with every book. I also have thousands of Bristol cards. I use them for detailed notes on the books I read, and more general notes as well. I call this “the material.” It’s whatever may be useful one day. Sometimes these cards contain fragments of my future books.”_ [1]
+> _“I have never written a book, except maybe L’impuro folle, from beginning to end. It is always a mosaic, if you will, in which I write page 80, 30, 315 in any given order. And I never know where the final place of what I am writing in the book will be. It’s the same with every book. I also have thousands of Bristol cards. I use them for detailed notes on the books I read, and more general notes as well. I call this “the material.” It’s whatever may be useful one day. Sometimes these cards contain fragments of my future books.”_ [1]
 
 This system is undoubtedly the basis for _TMOCAH_. Many times throughout this book I was confused. Impressed, entertained, intrigued, but confused. Within the haze of confusion was a sort of _mystical_ feeling whenever I would encounter this multiformity. This also may have been confusion, but I think that’s Calasso’s point. He is not creating a novel and the characters within are not simply characters, because they are inherently multiform. It is only when we consider the multiformity, the true nature of myth, and our brows get a bit furrowed, do we glimpse its true nature. The body that produces the shadow.
 
@@ -133,13 +133,13 @@ This isn’t a quotation of Giovan, it is Calasso’s impression of Giovan’s r
 
 and,
 
-“_The Dionysiaca are the most sumptuous celebration imaginable of the redundant variant and the rampantly superfluous.”_ Ch 10, pg 331.
+> “_The Dionysiaca are the most sumptuous celebration imaginable of the redundant variant and the rampantly superfluous.”_ Ch 10, pg 331.
 
 I think this is admiration, he does say _‘this great writer’_, and voluptuous idylls sound nice. It is most definitely a compliment if you consider the quality of rampant superfluity in a redundantly various poem to be a good thing. Besides such compliments, there is other evidence that Calasso greatly admired Nonnus, such as that _TMOCAH_ and the _Dionysiaca_ take the abduction of Europa as their starting point. Interestingly, _Nonnus_ invokes _Proteus_ the shapeshifting sea god in his proem, which anticipates the ever changing shape of his narrative, and Calasso seems to have taken note, except Calasso’s ‘_Proteus’_ seems to be his fluid system of note taking.
 
 Calasso also includes this quote from a German author on Nonnus,
 
-“_Nonnus alone pays for the sins of his age; for centuries his poem has been condemned to being a lumber room invaded by dust and corrosion where only the most zealous mythographer might penetrate.”_ Ch 10, pg 333.
+> “_Nonnus alone pays for the sins of his age; for centuries his poem has been condemned to being a lumber room invaded by dust and corrosion where only the most zealous mythographer might penetrate.”_ Ch 10, pg 333.
 
 It is strange that Calasso has included this comment on Nonnus. Seeing as he takes the same myth as Nonnus to begin his book, and that he regularly cites Nonnus, if we take a step back and look at this differently, this statement would seem to imply that Calasso himself is the ever-zealous mythographer…
 
@@ -203,7 +203,7 @@ The ‘sources’ also don’t function like regular sources. There is no in-lin
 
 This is the first way that Calasso becomes a modern mythographer/poet/bard. He has used a veneer of academic writing to imbue his stories with an air of authority that it otherwise would not have. But this is not all he does. Calasso the modern bard dazzles the reader throughout with his encyclopedic knowledge of mythology. Remember the quote in the first section?
 
-“_No sooner have you grabbed hold of it_ _than myth_ _opens out into a fan of a thousand segments.”_ Ch 5, pg 147.
+> “_No sooner have you grabbed hold of it_ _than myth_ _opens out into a fan of a thousand segments.”_ Ch 5, pg 147.
 
 Calasso knows those thousand segments, and presents many of them to us, too many to scrutinize. Like I mentioned before, he has access to Greek myths so obscure that you can only read them in Greek or Latin. He has read and mined all the historical texts for their myths. He has synthesized and cross pollinated the available material and grown this lush, impenetrable garden of myth full of redundant, rampantly superfluous variants. This is the second way that Calasso covers his tracks: the breadth of his knowledge. In the face of so much esoteric material, who are we to question the finer points of translation of obscure poems no one has read? Calasso _is_ the zealous mythographer who has penetrated the dusty lumber room of Nonnus.
 

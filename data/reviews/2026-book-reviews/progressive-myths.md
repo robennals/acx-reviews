@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T04:33:29.000Z'
 slug: progressive-myths
-wordCount: 8073
+wordCount: 8072
 readingTimeMinutes: 36
 source: gdoc
 tags:
@@ -41,7 +41,7 @@ Now, if you happen to be progressive or sympathize with the viewpoint, you might
 
 > I will not give a neutral presentation in the following chapters, but I _do_ aim to give an _objective_ presentation. (p.3)
 
-> _(I get the feeling that my progressive friends would say that there is no such thing as an ‘objective’ presentation._ _[Huemer](https://en.wikipedia.org/wiki/Michael_Huemer)__, they would say, is an old white man occupying a position of power and authority, so his experience and viewpoint will inevitably color his judgement. We’ll come back to this later.)_
+_(I get the feeling that my progressive friends would say that there is no such thing as an ‘objective’ presentation._ _[Huemer](https://en.wikipedia.org/wiki/Michael_Huemer)__, they would say, is an old white man occupying a position of power and authority, so his experience and viewpoint will inevitably color his judgement. We’ll come back to this later.)_
 
 Huemer, like any good philosopher, defines the terms before laying out his arguments, but not before spitting a little bit of fire:
 
@@ -347,8 +347,10 @@ Huemer does something strange here, addressing four specific claims made by peop
     1. Huemer first points out that 55 companies is not a large number; there are [millions](https://www.naics.com/business-lists/counts-by-company-size/) of businesses in the US. He then explains that the tax code is lousy with ways to avoid paying taxes; these aren’t loopholes or cheats but intentional design. Companies can invest in green energy, write off their losses, and otherwise make their federal tax liability zero without doing anything unsavory.
 
 4. Do the wealthy pay lower taxes than the middle class?
-    1. Here Huemer finally seems to address the wider myth with a chart using data from the [Congressional Budget Office](https://www.cbo.gov/topics/taxes) (I think Huemer made the chart). Net Tax = Federal Tax - Government Transfer, or how much money you actually paid the government accounting for welfare.  
-        ![](https://acximages.ennals.org/images/2026-book-reviews/d8ff38387ebe9de8.jpg)Oddly enough, his chart says 2019 but the citation is from 2022, although that might just be the most recent time the CBO published the data. Also, can you tell how bad I am at taking photos?  
+    1. Here Huemer finally seems to address the wider myth with a chart using data from the [Congressional Budget Office](https://www.cbo.gov/topics/taxes) (I think Huemer made the chart). Net Tax = Federal Tax - Government Transfer, or how much money you actually paid the government accounting for welfare.
+
+        ![](https://acximages.ennals.org/images/2026-book-reviews/d8ff38387ebe9de8.jpg)Oddly enough, his chart says 2019 but the citation is from 2022, although that might just be the most recent time the CBO published the data. Also, can you tell how bad I am at taking photos?
+
         Broadly speaking, the highest fifth of income earners are paying the vast majority of the taxes. If that’s not their fair share, I’m not sure what is.
 
 #### My Verdict
@@ -462,8 +464,10 @@ They:
 3. **Polarize society.** Many seem to function quite well as [scissors statements](https://slatestarcodex.com/2018/10/30/sort-by-controversial/). A polarized society is one that finds it harder to do anything well.
 4. **Harm minorities.** If black Americans don’t go to police because they believe themselves in danger from them, criminals will find it easier to prey on them. If they believe white doctors are racist, they may refuse sound medical advice.
 5. **Keep racism alive.** Progressive myths keep race salient in the public view, encouraging people to identify with their race and as an enemy of other races. They also “promote anti-white racism” (p.227), a minor theme in the book that I’ve omitted for brevity.
-6. **Undermine social loyalty and trust in America.** Society functions because people believe in its laws and institutions. By claiming that these are racist (read: evil), people lose trust in them, leading to a breakdown of society:  
-    The progressive myths we have discussed are not random errors. They are parts of an overall narrative designed to convince us that our society is fundamentally evil and unworthy of preservation. (p.231)  
+6. **Undermine social loyalty and trust in America.** Society functions because people believe in its laws and institutions. By claiming that these are racist (read: evil), people lose trust in them, leading to a breakdown of society:
+
+    The progressive myths we have discussed are not random errors. They are parts of an overall narrative designed to convince us that our society is fundamentally evil and unworthy of preservation. (p.231)
+
     This is Huemer’s strongest point of advocacy. He explains that those who want to destroy American institutions, that believe it would be _good_ to do so, are either ignorant of what life was like for most of human history (horrible) and how exceptional life in America is by that standard, or of what happened when Marxists tried it elsewhere (starvation and mass murder).
 
 ## Strengths and Weaknesses

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-13T09:29:03.000Z'
 slug: aesopian-language-in-russian-literature
-wordCount: 6630
+wordCount: 6634
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -90,7 +90,7 @@ The term “Aesopian language,” as we use it in this essay, is often attribute
 
 What began as a literary technique for smuggling meaning past tsarist censors changed during World War I, when coded writing and speech became practical tools of everyday survival. It was also, of course, routinely used by the revolutionaries. But even then, many saw it not as a crucial tool but as cowardly, servile, alien to “true” literature. Even Lenin attacked it as an example of political unfreedom:
 
-“_Cursed be the era of Aesopian rhetoric, literary sycophancy, slave’s language, and ideological serfdom! The proletariat put an end to this abomination, which was suffocating everything that was alive and fresh in Russia._”
+> “_Cursed be the era of Aesopian rhetoric, literary sycophancy, slave’s language, and ideological serfdom! The proletariat put an end to this abomination, which was suffocating everything that was alive and fresh in Russia._”
 
 Ironically, after the Revolution, the Soviet state’s control over speech became even more total. Aesopian evolved into a new phase. Ideological policing, surveillance, and denunciations by neighbors or colleagues created a climate in which even everyday conversation could be dangerous. In these conditions, Aesopian speech became a crucial part of daily life in telephone calls, private apartments, and dissident circles, where silence, hints, euphemisms, and coded warnings could help people avoid arrest or searches.
 
@@ -100,7 +100,7 @@ Old Believers, Arkhipova explains, were a religious group that practiced suicide
 
 Another example comes from the letter sent by “Ostarbeiters” [Eastern workers]—people who were deported to Germany for forced labor during World War II. Most were between fourteen and twenty-five years old and came from Russian, Ukrainian, and Belarusian towns and villages. Beginning in 1942, Ostarbeiter were allowed limited correspondence with relatives who remained in German-occupied territories. One such letter from the town of Kremenets says:
 
-“_I attended a joyful wedding with Ganya, my mother, and my father; but my house was painted red and the roof black, and the same thing happened to my mother’s house; and Nastya wasn’t at the wedding—she was at her own place in the house with Petro—while Ganyiska was at the wedding, but she wasn’t married."_
+> “_I attended a joyful wedding with Ganya, my mother, and my father; but my house was painted red and the roof black, and the same thing happened to my mother’s house; and Nastya wasn’t at the wedding—she was at her own place in the house with Petro—while Ganyiska was at the wedding, but she wasn’t married."_
 
 Those, perhaps simple, codes were omnipresent. Another letter says that “_the neighboring villages are blooming._” In both cases, the true message is that the villages are on fire. Fire, flowers, and the color red are metaphorically close. Understanding this, we can easily see that the “house painted red” from the letter about Ganya is a house that has been through a fire. “The roof was painted black” means the house burned to the ground. The “joyful wedding” is, of course, a bombing. The full message can be decoded: “Kremenets was heavily bombed; our house burned down; Nastya escaped the bombing, while Ganya was caught in it but survived.”
 
@@ -121,7 +121,7 @@ The second evolutionary step occurred in the late Soviet period. Aesopian langua
 
 An unexpected result from this everyday doublespeak was that Aesopian seeped into literature. Indirect speech may become more suggestive, emotionally charged, and persuasive than straightforward statements because the reader is forced to take part in extracting meaning. Loseff quotes Joseph Brodsky:
 
-“_…the apparatus of pressure, censorship, and suppression turns out—paradoxically—to be beneficial to literature. The fact is that the linguistic norms established by the state transform the entire population into a reading public. [...] A person who, under normal circumstances, would speak in normal Aesopian language speaks in Aesopian language to the third degree. This is remarkable, and for this we must thank censorship._”
+> “_…the apparatus of pressure, censorship, and suppression turns out—paradoxically—to be beneficial to literature. The fact is that the linguistic norms established by the state transform the entire population into a reading public. [...] A person who, under normal circumstances, would speak in normal Aesopian language speaks in Aesopian language to the third degree. This is remarkable, and for this we must thank censorship._”
 
 Like many other secret languages, Aesopian became an effective “weapon of the weak”: not direct protest but indirect, ironic, nonviolent resistance that built solidarity among people who could not openly confront power. Covert jokes, nicknames, or subtle signs of recognition, all helped speakers to step outside official culture, make oppressive institutions seem less frightening, and recognize others who shared their stance. In that sense, its deepest function was not merely concealment but self-preservation and self-therapy through shared hidden meaning.
 
@@ -363,7 +363,7 @@ All of these may just be far-fetched conclusions drawn by a scholar deeply impre
 
 This creates another problem: the reader's hubris. As Loseff puts it, “The _Aesopian quality of a text manifests itself only in the reader’s mind.”_ Arkhipova addresses the same problem in her foreword:
 
-“_Thus, the placement of screens and markers within the triangle of the author–censor–reader relationship forms the basis for the Aesopian language. But an unexpected obstacle may arise along this path. A reader, especially one who is vigilant and attentive, can easily fall into a state where they see markers where the author did not place them. I call this search for and discovery of non-existent signs “_hypersemiotization_” (from “seme,” meaning “sign”). And the reader can easily fall into hypersemiotization, especially when they know that everything around them is merely a screen!_”
+> “_Thus, the placement of screens and markers within the triangle of the author–censor–reader relationship forms the basis for the Aesopian language. But an unexpected obstacle may arise along this path. A reader, especially one who is vigilant and attentive, can easily fall into a state where they see markers where the author did not place them. I call this search for and discovery of non-existent signs “_hypersemiotization_” (from “seme,” meaning “sign”). And the reader can easily fall into hypersemiotization, especially when they know that everything around them is merely a screen!_”
 
 After all, Aesopian depends on an implicit assumption: that the censor is, on some level, inferior to the reader. That a rational person relying on a “clean” reading and structural analysis may still miss an entire hidden layer. That intelligence may not be enough: one has to belong to a special circle to read between the lines.
 

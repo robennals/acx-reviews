@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T15:17:25.000Z'
 slug: richard-c-schwartzs-no-bad-parts
-wordCount: 4784
+wordCount: 4785
 readingTimeMinutes: 22
 source: gdoc
 tags:
@@ -16,12 +16,15 @@ tags:
 
 ## Cast of Characters:
 
-Manager (MN): an intellectual, age 36  
-Firefighter (FF): a skeptic, age 36  
-Self: a Self, age unspecified  
+Manager (MN): an intellectual, age 36
+
+Firefighter (FF): a skeptic, age 36
+
+Self: a Self, age unspecified
+
 Exile (EX): a boy, age 12
 
-**Setting:**
+## Setting:
 
 A cozy, book-strewn office inside Frank's head
 

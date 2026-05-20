@@ -1397,6 +1397,38 @@ export function cleanupMarkdown(markdown: string): string {
     md = lines.filter(l => l !== POETRY_DEL).join("\n");
   }
 
+  // Convert hard-break joins between prose paragraphs (outside any
+  // blockquote) into proper paragraph breaks. Some gdocs use `<br>`
+  // between sibling paragraphs inside one `<p>` instead of separate
+  // `<p>` elements; turndown emits `  \n` (trailing two-space hard
+  // break) between them, and the renderer shows them as a single
+  // paragraph with line-breaks instead of multiple paragraphs.
+  // Outside blockquotes (where `  ` is usually a verse-line marker),
+  // hard-break-joined prose is almost always a paragraph-break
+  // formatting error in the source.
+  {
+    const lines = md.split('\n');
+    const out: string[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      const l = lines[i];
+      if (l.endsWith('  ') && !l.startsWith('>')) {
+        const next = lines[i + 1];
+        if (
+          next !== undefined &&
+          next.trim() !== '' &&
+          !next.startsWith('>') &&
+          !next.startsWith('![')
+        ) {
+          out.push(l.replace(/\s+$/, ''));
+          out.push('');
+          continue;
+        }
+      }
+      out.push(l);
+    }
+    md = out.join('\n');
+  }
+
   // Collapse consecutive blank-`>` lines in a blockquote into a single
   // `>` blank. The stanza-marker insertion earlier in the pipeline may
   // leave the markdown with patterns like `> \n> \n>  \n>` between
@@ -1423,165 +1455,27 @@ export function cleanupMarkdown(markdown: string): string {
     }
   );
 
-  // Promote bold-only short standalone lines to H2 subheadings. Some
-  // authors style their subheadings as bold (sometimes also underlined
-  // or larger font) instead of using a proper Heading-2 style in
-  // Google Docs. Turndown drops the visual styling, leaving "**Title**"
-  // on a line by itself — which renders as a quiet inline bold span
-  // rather than the prominent section break the author intended.
-  //
-  // Heuristics (all must hold to promote):
-  //   1. The document doesn't already use any `#`-style ATX headings.
-  //      If the author used proper Heading-N styles anywhere, they
-  //      would have used them everywhere — so a bold-only line in such
-  //      a doc is emphasis, not a section title.
-  //   2. The entire line is wrapped in `**...**` and the inner text is
-  //      short (≤100 chars).
-  //   3. The text doesn't end with sentence punctuation
-  //      (`.`, `!`, `?`, `:`, `,`, `;`) — those cases are almost always
-  //      a bold sentence-fragment for emphasis, not a section title.
-  //   4. The line is flanked on BOTH sides (after skipping blank lines)
-  //      by a substantive non-bold-only paragraph (>=50 chars of plain
-  //      text). This rules out tier-list patterns like Bronze/Silver/Gold
-  //      where bold labels are stacked with short data values between
-  //      them — that's a list, not a section break.
-  //
-  // A leading ATX heading at the very start of the doc is almost always
-  // the doc's title (the gdoc author used a Heading-1 / Heading-2 style
-  // for the title even though the rest of their structure is bold-only).
-  // It doesn't count as evidence that the doc uses proper headings
-  // throughout, so we look past it.
-  const atxHeadingLines = ((md.split('\n').map((l, i) => ({l, i}))
-    .filter(({l}) => /^#{1,6}\s+\S/.test(l))) || []);
-  const titleAtTop = atxHeadingLines.length > 0 && (() => {
-    const firstIdx = atxHeadingLines[0].i;
-    const linesArr = md.split('\n');
-    for (let i = 0; i < firstIdx; i++) {
-      if (linesArr[i].trim()) return false; // some content precedes — not a title
-    }
-    return true;
-  })();
-  const nonTitleHeadingCount = atxHeadingLines.length - (titleAtTop ? 1 : 0);
-  if (nonTitleHeadingCount === 0) {
+  // Promote bold-only short standalone lines to H2. Simplest possible
+  // rule (per user feedback after the older heuristic-stack got too
+  // fragile): a line that is ENTIRELY `**…**` and short (≤120 chars
+  // inside the delimiters) becomes a heading. Skip lines that are
+  // clearly NOT headings:
+  //   • Sentence-fragment punctuation at the end (`,` / `;`) — those
+  //     are bold emphasis runs inside a paragraph.
+  //   • A leading em/en-dash — almost always a bold attribution after
+  //     a quote (`**— Author**`), not a section title.
+  // A trailing `.`/`?`/`:` is FINE — titles like `The Pledge.` and
+  // `What about X?` are common.
+  {
     const lines = md.split('\n');
-    const isBoldOnly = (s: string) => /^\*\*[^*\n]{1,100}\*\*[ \t]*$/.test(s);
-    const SUBSTANTIVE_CHARS = 50;
-    // "Transparent" lines that we walk past while looking for the
-    // substantive prose flanking a candidate heading: blanks, italic-only
-    // quote lines, and blockquote lines. These commonly sit between a
-    // section heading and the prose that follows (e.g. an italic-quoted
-    // epigraph), so they shouldn't block the substantive-context check.
-    const isTransparent = (s: string) => {
-      const t = s.trim();
-      if (!t) return true;
-      if (/^_[^_\n]{1,200}_[ \t]*$/.test(t)) return true; // italic-only line
-      if (/^>/.test(t)) return true; // blockquote (incl. blockquote-list items)
-      return false;
-    };
-    const walkAbove = (i: number) => {
-      let j = i - 1;
-      while (j >= 0 && isTransparent(lines[j])) j--;
-      return j;
-    };
-    const walkBelow = (i: number) => {
-      let j = i + 1;
-      while (j < lines.length && isTransparent(lines[j])) j++;
-      return j < lines.length ? j : -1;
-    };
-    const isSubstantivePara = (idx: number) => {
-      if (idx < 0) return false;
-      const l = lines[idx];
-      if (isBoldOnly(l)) return false;
-      const text = l
-        .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
-        .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
-        .replace(/[*_~`>#]/g, '')
-        .trim();
-      return text.length >= SUBSTANTIVE_CHARS;
-    };
-    const nearestNonBlankAbove = (i: number) => {
-      let j = i - 1;
-      while (j >= 0 && lines[j].trim() === '') j--;
-      return j;
-    };
-    const isItalicOnly = (s: string) => /^_[^_\n]{1,200}_[ \t]*$/.test(s.trim());
-
-    // Section-numbered prefix: optional word ("Part", "Chapter", "Section",
-    // "Step", "Volume", "Book"), then a Roman numeral / digit / single capital
-    // letter, optionally a period (possibly turndown-escaped as `\.`), then
-    // whitespace, end-of-line, or a `?`/`:` (which the author often uses to
-    // lead into the section title or body). Covers:
-    //   `**I.**`, `**II. Why so secular?**`, `**0.5. Subtopic**`,
-    //   `**IV. Archimedes Chronophone, revisited:**`, `**Part 2: …**`,
-    //   `**Chapter 3**`, `**A. Background**`, `**1\. Systems of …**`
-    //   (turndown escapes `N.` at line start as `N\.` to prevent CommonMark
-    //   from reading it as a numbered-list marker).
-    const SECTION_NUMBERED_RE =
-      /^(?:(?:Part|Chapter|Section|Step|Volume|Book)\s+)?(?:[IVXLCDM]+|\d+(?:\.\d+)?|[A-Z])\\?\.?(?:\s|$|[?:])/i;
-
-    // First pass: collect indices of bold-only lines whose text matches the
-    // section-numbered pattern. If 3+ such lines exist in the doc, we treat
-    // them as a "group" and promote them all — even if individual ones fail
-    // the substantive-prose-flanking check (e.g. one of N sections happens
-    // to be sandwiched between very short paragraphs).
-    const sectionNumberedIdx: number[] = [];
     for (let i = 0; i < lines.length; i++) {
-      const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
-      if (!m) continue;
-      const t = m[1].trim();
-      if (SECTION_NUMBERED_RE.test(t)) sectionNumberedIdx.push(i);
-    }
-    const sectionGroupActive = sectionNumberedIdx.length >= 3;
-    const sectionGroupSet = new Set(sectionNumberedIdx);
-
-    for (let i = 0; i < lines.length; i++) {
-      const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
+      const m = /^\*\*([^*\n]{1,120})\*\*[ \t]*$/.exec(lines[i]);
       if (!m) continue;
       const text = m[1].trim();
       if (!text) continue;
-      const isSectionNumbered = sectionGroupSet.has(i);
-      // End-punctuation: a section title is rarely a sentence fragment ending
-      // in `.`, `!`, `,`, or `;`. For section-numbered headings (Roman numerals,
-      // `Part N:`, `0.5.`, etc.), the trailing `.`, `?`, or `:` is part of the
-      // title pattern, so we allow those.
-      // Headings rarely end with sentence-fragment punctuation like
-      // `,`, `;`, `!`. A trailing `.` is common in heading-style titles
-      // (e.g. "The Pledge." or "Conclusion."), so we allow it now —
-      // earlier rejection was too strict.
-      if (isSectionNumbered) {
-        if (/[!;,]$/.test(text)) continue;
-      } else {
-        if (/[!;,]$/.test(text)) continue;
-      }
-      // A line that starts or ends with an em/en-dash (or stray hyphen)
-      // is almost always either a quote attribution (`– Author Name`)
-      // or a trailing sentence fragment, not a section title.
+      if (/[,;]$/.test(text)) continue;
       if (/^[-–—]|[-–—]$/.test(text)) continue;
-      // If the line immediately above (no walking) is an italic-only
-      // quote line, the bold line is almost always an attribution to
-      // that quote, even when the dash convention isn't used.
-      const immAbove = nearestNonBlankAbove(i);
-      if (immAbove >= 0 && isItalicOnly(lines[immAbove])) continue;
-      // EITHER side must have substantive prose nearby (after walking past
-      // transparent quote/blockquote lines). Both-sides-substantive was too
-      // strict: section headings often introduce a quote block before any
-      // prose. Either-side is permissive enough to catch those without
-      // letting tier-list patterns through — tier labels are flanked by
-      // short non-italic non-blockquote data values, which the walk stops
-      // on (and which fail the substantiveness check).
-      //
-      // Override: when the doc has 3+ section-numbered bold-only lines, we
-      // treat them as a confirmed group and promote them all, regardless of
-      // per-line context. This handles inconsistent surrounding paragraph
-      // lengths within an otherwise-clearly-structured doc.
-      if (!(sectionGroupActive && isSectionNumbered)) {
-        const aboveSub = isSubstantivePara(walkAbove(i));
-        const belowSub = isSubstantivePara(walkBelow(i));
-        if (!aboveSub && !belowSub) continue;
-      }
-      // Strip turndown's `\.` escape when emitting the heading: inside `## …`
-      // the period is no longer at line start so the escape would just render
-      // as a literal backslash in some markdown renderers.
+      // Strip turndown's `\.` escape; inside `## …` it's not needed.
       const headingText = text.replace(/(\d)\\\./g, '$1.');
       lines[i] = `## ${headingText}`;
     }

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T12:30:22.000Z'
 slug: storm-of-steel
-wordCount: 8594
+wordCount: 8593
 readingTimeMinutes: 39
 source: gdoc
 tags:
@@ -37,9 +37,10 @@ _Storm of Steel_ was first published in 1920, while _All Quiet_ came in 1929. Re
 
 _All Quiet_ intersperses brief periods of combat with long scenes of Paul returning home, of soldiers discussing how it’s really the leaders who should fight [3], of how training is miserable [4] and the food is lousy [5] and so on. It pontificates about the causes and horrors of war, about the damage it does to one’s psyche and soul, about how it makes men who should be brothers into sincere enemies, how it alienates the soldier from the civilian; it crafts a story for you to do all that. But it is a craft, and I think that detracts from its power.
 
-> _Storm of Steel_ is **true**. It really happened, and it reports those happenings with minimal commentary. Many books start with an idea and write a world around them; _Atlas Shrugged_ is a vehicle for getting the reader to an 80-page monologue about Objectivism. _All Quiet_ is in that vein; it _wants_ you to be anti-war, to feel the horrors of it, to know the unfairness, the blundering and chaos and death. It starts with the conclusion and works its way backwards. _Storm of Steel_ works the other way around, describing it as it happened and drawing conclusions from that, but it barely draws anything itself and instead lets you do it, with barely a suggestive nudge. If you want to be pro-war, _Storm of Steel_ will satisfy you with heroism and duty and camaraderie in the face of noble adversity. If you want to be anti-war, it will satisfy you with horror and futility and bloodiness in the face of a cruel industrial war machine. If you want to know what World War I was like for an infantryman, banally, you will hear about tasteless food and unceasing work and moments of absurdity and silly training. If you want to know what World War I was like for an infantryman, notably, you will hear about impossible situations and near-misses then grievous wounds and feats of daring and moments of sheer, unadulterated terror tempered by steely courage. If you want a few jokes, it even has some of those [6]. But above all, _Storm of Steel_ offers one man’s true and unflinching account of The Great War, and _what an account it is!_
+_Storm of Steel_ is **true**. It really happened, and it reports those happenings with minimal commentary. Many books start with an idea and write a world around them; _Atlas Shrugged_ is a vehicle for getting the reader to an 80-page monologue about Objectivism. _All Quiet_ is in that vein; it _wants_ you to be anti-war, to feel the horrors of it, to know the unfairness, the blundering and chaos and death. It starts with the conclusion and works its way backwards. _Storm of Steel_ works the other way around, describing it as it happened and drawing conclusions from that, but it barely draws anything itself and instead lets you do it, with barely a suggestive nudge. If you want to be pro-war, _Storm of Steel_ will satisfy you with heroism and duty and camaraderie in the face of noble adversity. If you want to be anti-war, it will satisfy you with horror and futility and bloodiness in the face of a cruel industrial war machine. If you want to know what World War I was like for an infantryman, banally, you will hear about tasteless food and unceasing work and moments of absurdity and silly training. If you want to know what World War I was like for an infantryman, notably, you will hear about impossible situations and near-misses then grievous wounds and feats of daring and moments of sheer, unadulterated terror tempered by steely courage. If you want a few jokes, it even has some of those [6]. But above all, _Storm of Steel_ offers one man’s true and unflinching account of The Great War, and _what an account it is!_
 
-  
+
+
 ## Versions
 
 One last, brief aside before diving into the novel. Although it was originally published in 1920, Jünger revised the book throughout his lifetime, with the last edition coming in 1961. Translations vary too; Creighton’s translation from 1929 of the 1924 version is certainly a worse job than Hofmann’s of 2003 (of the last 1961 version), but Creighton was an English World War I veteran writing much closer to Jünger while Hofmann is a German native writing with 80 years of history built up. The early version I think is more raw, but also contains more commentary by Jünger, more nationalism and militarism, than the later version after World War II that is more refined and reflective and muted. I recommend the 2003 Hofmann translation that is more generalist and polished but less assertive, but the 1929 one is certainly still good, just unpolished and unapologetic. I quote from Hofmann’s translation unless noted otherwise.
@@ -198,16 +199,25 @@ For Jünger, who so loved his country, his duty called him to service; it was so
 
 [5] For all its talk about lousy food, _All Quiet on the Western Front_ really has a lot of moments of plenty. The book opens with one when their half-strength company gets enough rations to cover the full company, hence double, then they get a goose, some suckling pigs with a supply dump, Paul brings food home, Kat conjures up a horse-flesh meal, Paul even shares some of his mother’s homemade cooking with POWs. On my reread it was one of those things that weirdly stuck out: it _tells_ you that they’re all starving and then _shows_ you plentiful food. That’s a problem with construction.
 
-[6] A young man of Cambrai goes up to a farmer’s wife at the market and asks to buy a soft white cheese:  
-        “How much do you want for that cheese?”  
-        “Twenty sous, monsieur!”  
-        He gives her the twenty sous.  
-        “So the cheese belongs to me now, is that right?”  
-        “Of course, monsieur!”  
-        “So I can do whatever I want with it?”  
-        “But of course!”  
+[6] A young man of Cambrai goes up to a farmer’s wife at the market and asks to buy a soft white cheese:
+
+        “How much do you want for that cheese?”
+
+        “Twenty sous, monsieur!”
+
+        He gives her the twenty sous.
+
+        “So the cheese belongs to me now, is that right?”
+
+        “Of course, monsieur!”
+
+        “So I can do whatever I want with it?”
+
+        “But of course!”
+
         Splat! he throws the cheese in her face, and leaves her standing there.  
-  
+
+
 [7] I break war anecdotes down into three categories. First, the regimented, oftentimes bureaucratic idiocy, like being forced to mop the rain up as punishment. Second, the silly, dumb and funny stories, like that time a guy was chasing a goat all around the FOB in 120° heat. Third, the horrifying; my uncle, unprompted, started describing a scene from his time in Vietnam once as we were sitting at the dining room table, where his Captain had his chest blown out charging up a hill on the attack. Stories in this third category seem to pop up suddenly, randomly and vanish just as swiftly. I add a fourth category for modern wars: technology has made it possible to visit death on people personally without any reciprocity; think videos of Apaches gunning down vaguely human-shaped figures on a screen.
 
 [8] I personally consider it impossible to make an anti-war _movie_ that shows anything about war. It necessarily degenerates into spectacle, more akin to a gladiator game than a testament of the horrors of war. For comparison, _All Quiet on the Western Front_ has 14 total on-page deaths. For the 2022 movie, I counted **114**.

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T20:04:59.000Z'
 slug: collected-poems-by-cs-lewis
-wordCount: 3899
+wordCount: 3900
 readingTimeMinutes: 18
 source: gdoc
 tags:
@@ -166,7 +166,7 @@ It’s not that we are to copy his grief, but that we share it with him, and as 
 
 It’s not enough to know this in our heads. For it to do us any good it needs to be felt.  He is passing on what he has learned to feel, his Stock Response.  Of course this isn’t unique to Lewis – every piece of art does this in some way, intentionally or unintentionally, for better or for worse.  Even the main idea of the poem, that past joys now sting, isn’t new.  Lewis took it from an old Greek poet. [6] He was rarely original.  His worth comes in his distilling all the things he had read, and passing on the values that he thought were worth passing on.  In _Poems_, he passes on good Stock Responses, and tries his best to inoculate us against Deathworks. 
 
-**Joys That Sting**
+## Joys That Sting
 
 > _Oh doe not die_, says Donne, _for I shall hate_  
 >  _All women so_.  How false the sentence rings.  

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T17:50:38.000Z'
 slug: catullus-16
-wordCount: 4263
+wordCount: 4266
 readingTimeMinutes: 19
 source: gdoc
 tags:
@@ -20,7 +20,7 @@ First, a warning.  There are interpretations of this poem in which it is obscene
 
 With the disclaimer out of the way, below is the poem in three forms.  One is the original Latin, one is a relatively literal translation from Wikipedia (surprisingly one of the few to faithfully represent the infamous _irrumabo_ of the first line), and one is a more inventive translation by Zukofsky.  The Zukofsky is what’s known as a _homophonic_ translation, which intends to maintain the sound of the original Latin.  I recommend you read it out loud (unless you are in a public place, in which case _please do not read it out loud_).
 
-**Latin**
+## Latin
 
 > Pēdīcābō ego vōs et irrumābō  
 > Aurēlī pathice et cinaede Fūrī,  
@@ -37,7 +37,7 @@ With the disclaimer out of the way, below is the poem in three forms.  One is th
 > lēgistis male mē marem putātis?  
 > Pēdīcābō ego vōs et irrumābō
 
-**Wikipedia**
+## Wikipedia
 
 > I will sodomize you and face-fuck you,  
 > cocksucker Aurelius and butt-boy Furius,  
@@ -54,7 +54,7 @@ With the disclaimer out of the way, below is the poem in three forms.  One is th
 > You've read, you think me less of a man?  
 > I will sodomize you and face-fuck you.[1]
 
-**Zukofsky**
+## Zukofsky
 
 > Piping, beaus, I’ll go whoosh and I’ll rumble you  
 > pathic Aurelius and catamount Furius,  

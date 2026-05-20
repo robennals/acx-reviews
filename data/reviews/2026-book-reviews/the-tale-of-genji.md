@@ -45,24 +45,34 @@ _The Tale of Genji_ tells the fictional tale of Genji, the son of the Emperor an
 I will gladly admit I fail to relate to Genji and his struggles. The narrator and the other characters try to convince the reader of Genji’s absolute magnificence, while Genji himself is busy doing the opposite. Please enjoy the following reconstruction of my early days of reading _Genji_, as I kept interrupting whatever my partner was doing to tell them what Genji is up to:
 
 > “God, this book. Okay, so… the Emperor had a favourite… concubine, I guess? And he had a child with the concubine, and that child is Genji, but his mother died because… all the other women in the Emperor’s court were jealous and mean to her? Anyway, the Emperor took a new wife because she looks like Genji’s mother, and she is SIXTEEN. Genji is, what, twelve? And the Emperor wants the two of them to spend a lot of time together so that she can become a new mother to Genji. At sixteen. A mother to a twelve-year-old.”  
-.  
-.  
+.
+
+.
+
 .  
 > “Welp, now Genji has fallen in love with his stepmother. His dad is just happy that he managed to find a new mother for him.”  
-.  
-.  
+.
+
+.
+
 .  
 > “What!! You won’t believe this. Genji is hanging out on a mountain and comes across a house, and sneaks around peeping through holes in the walls and sees a lovely 10-year-old girl who reminds him of his stepmother. Then he finds out the girl actually is the niece of his stepmother, so of course now he wants to have her. He is 18. And he is imagining how great it would be to raise the child himself, so he could be sure to shape her into ‘the perfect woman’.”  
-.  
-.  
+.
+
+.
+
 .  
 > “Oh good, the girl’s guardians think she’s a bit too young to go live with Genji, so he has to go back to Kyoto alone.”  
-.  
-.  
+.
+
+.
+
 .  
 > “Aaand he just got his stepmother pregnant.”  
-.  
-.  
+.
+
+.
+
 .  
 > “Aaand he went back and kidnapped the girl.”
 
@@ -236,9 +246,12 @@ The Kamo festival was held on the second day of the bird in the fourth month of 
 
 In her reply, she mentions a laurel, another plant worn at the Kamo festival, but also “plucking the laurel” referred to passing the exam to become a court official, which the man had done. Her poem is saying: “You’re an educated man, you should know what the damn leaf is called.” But it’s also clear to her that he was making a pun and had not forgotten the name of the leaf, so her reply is perhaps better understood as a poignant acknowledgement of his message after a long time of not being in touch. He reads the reply and appreciates her wit in putting him in his place, and resolves to continue the relationship with her.
 
-This is the Heian-era equivalent of:  
-He: “Wassup girl, long time no see”  
-She: “You remember me?”  
+This is the Heian-era equivalent of:
+
+He: “Wassup girl, long time no see”
+
+She: “You remember me?”
+
 He: “Oh snap. Wyd tonight”
 
 <figure>

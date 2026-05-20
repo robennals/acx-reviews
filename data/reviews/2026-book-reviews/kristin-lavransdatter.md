@@ -56,7 +56,8 @@ One of the triumphs of the work is its ability to transport a modern reader to a
 
 Before digging in, I also recommend locating one of the rare maps online:
 
-![image2.jpg](https://acximages.ennals.org/images/2026-book-reviews/da59dd2a950a1756.jpg)  
+![image2.jpg](https://acximages.ennals.org/images/2026-book-reviews/da59dd2a950a1756.jpg)
+
 > _Source:_ _https://www.margueritereads.com/home/kristin-lavransdatter-by-sigrid-undset_
 
 as well as a set of family trees.

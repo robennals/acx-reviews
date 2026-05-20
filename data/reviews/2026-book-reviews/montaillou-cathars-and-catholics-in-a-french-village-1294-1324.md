@@ -28,17 +28,21 @@ So altogether I’m not sure I recommend reading the full book, but I will colle
 ## Nationality
 
 * The English title of the book is a mistranslation. Montaillou was an Occitan, and not a French, village. The Occitan language is closer to Catalan than to French, and Occitania was only fairly recently absorbed into the Kingdom of France at the time the book is set. The villagers usually think of France as something far away.  
-    
+
+
 * On the other hand, Catalonia is next door, people constantly migrate between Catalonia and Occitania. Sometimes this is to flee from the Inquisition, sometimes for other reasons. In particular, shepherds with their flocks travel pretty long distances.  
-    
+
+
 * This goes the other way around too, there are also shepherds from the south travelling to Occitania. I was surprised to see two Muslim shepherds and a Muslim fortune-teller appear in Occitania in the book. (They seem to get along fine with the local Christian shepherds.) Granada, at the southern tip of Spain, was still under Muslim rule, but I thought that mostly only the elites were Muslim. This made me surprised to see Muslim shepherds showing up.
 
 ## Economy and social structure
 
 * Most people live and work on their family’s land. Household size varies from two to maybe fifteen, but my understanding is that the average household is not much bigger than a modern household.  
-    
+
+
 * No one is bound to the lord’s land, there is free migration and a fair amount of wage-based economy. (More on this later.) The farmers own their own land, but pay some taxes to the lord for being able to use the forest which belongs to him. The lord lives far away, but there is a minor nobleman representing him who lives in the small local castle. These taxes are not large and are considered fair. Interestingly, it looks like no one is really complaining about the lord.  
-    
+
+
 * There is another person, the _bayle_, representing the lord; he is the one who is supposed to serve justice. He is a rich local peasant, and is the priest’s brother. Given that the priest is a pretty terrible and corrupt person, and based on some other evidence, I suspect the _bayle_ is also corrupt. But I learned almost nothing about his activity, which I found disappointing. I would have been interested in learning about how the secular justice system worked, but there wasn’t anything in the book about secular crimes and punishment.
     * There was one murder in the village of 250 people in the twenty years covered by the book.  The more common way of dealing with enemies was turning them in to the Inquisition with real or fabricated accusations.
     * I know very little about other crimes. Men sometimes brawl, and men often beat their wives and children (not a crime), but the general atmosphere feels less violent than in the autobiographies of [Gorkij](https://en.wikipedia.org/wiki/Autobiographies_of_Maxim_Gorky) or [Gyula Illyes](https://www.britannica.com/topic/People-of-the-Puszta). But it’s possible that the Inquisition records just focus less on these inter-personal conflicts and that’s why we don’t see them.  
@@ -49,7 +53,8 @@ So altogether I’m not sure I recommend reading the full book, but I will colle
         
 
 * Poorer men and second sons often become shepherds for wages. This wage is partially paid in money, partially by getting a share of new-born lambs. Contracts are only for a year, and shepherds often change employers. In time, a shepherd can build up a larger and larger flock of his own from his share of lambs, and herd them together with the employer’s flock. However, it’s very hard to collect enough money and sheep as a shepherd to be able to buy your own house and land. The best you can hope for is that you build a respectable enough flock that a son-less land-owner marries his daughter to you. But even this seems to be rare, and my impression is that the large majority of shepherds never manage to start their own household and family.  
-    
+
+
 * It’s not clear to me what counter-balances the fact that many men remain unmarried. Most women seem to marry between 18 and 20, but many poorer girls also work as domestic servants for a while. This also seems to be a fairly free and wage-based employment. The girls have yearly contracts they often negotiate for themselves, and they change employers when someone offers better pay or conditions. It was still not an easy life, and the servant girls aimed to get married eventually, and my impression is that most of them succeeded. So I’m still confused about where the unmarried women were, to counter-balance the large number of unmarried shepherds. If I remember correctly, the book never mentions a woman dying in child-birth, but possibly that decreased the number of women? Or more of the servant girls failed to get married, or widows to get remarried?  
     
 
@@ -62,15 +67,18 @@ So altogether I’m not sure I recommend reading the full book, but I will colle
     * For the women in the book, it looks like having had sexual relationships during widowhood or as a young servant doesn’t seem to really hurt the prospect of marrying or remarrying. Women can often get married even if they have an illegitimate child. But I suspect this might not always be true, and maybe this is what counter-balances the unmarried shepherds.
 
 * The book mentions homosexuality, but only in the clergy and in the cities. I’m a little surprised it’s not mentioned among the shepherds. My impression from other sources was that when men live closely together without women (prisons, ships, homeless encampments, British boarding schools), homosexuality often becomes pretty common. So I’m surprised it’s never mentioned among the shepherds who also often spend a long time together in small cabins, far from women.  
-    
+
+
 * Montaillou doesn’t have its own prostitute, but when men go to the town to the market, they often use the prostitutes there. My impression is that at least half the men have had relations with prostitutes.  
-    
+
+
 * Most people genuinely seem to not know that religion opposes these irregular sexual relations. They sometimes talk about what God considers a sin, someone even asks a wandering friar, but the conclusion they come to is close to modern secular morality: as long as both sides enjoy it or the prostitute gets a fair payment, it’s not a sin.
     * Again, it’s possible that other villages were better informed about the Church’s position; Montaillou had an unusually bad priest. But cohabitation was normal even before this priest, and it looks like men from other villages also visit the prostitutes. I think most of the effect is not specific to Montaillou.  
         
 
 * There is some violent rape, but it seems rare and frowned upon. There are unequal relationships with servant girls where it’s hard to know how properly consensual it is. Some men have affairs with widows, and those seem mostly consensual, the widows are pretty independent and we see them ending relationships when they have had enough.  
-    
+
+
 * The village priest, Pierre Clergue, comes from a wealthy local peasant family. He is secretly a Cathar heretic, but after he gains the trust of the other Cathars (little more than half the village), he denounces the faith, and blackmails all the other Cathars with the threat of reporting them to the Inquisition. He drives many of his enemies into exile, and he gets one of his enemies to have her tongue torn out by the Inquisition. It helps in his operations that his brother is the _bayle_, the local representative of secular justice. He uses his power to blackmail families into letting him sleep with their women. I think he had about ten mistresses throughout his career. Altogether, not a great guy. To his credit, the women he slept with usually had surprisingly positive memories of him as a gentle person. Still, he is probably the worst person who appears in the book.
     * I think Pierre Clergue is a very unusually bad priest, but priests having at least one mistress seems normal in neighboring villages too. I would guess that about half the priests have a lover.  
         
@@ -81,26 +89,32 @@ So altogether I’m not sure I recommend reading the full book, but I will colle
 ## Death and illness
 
 * Infant and child mortality is high, though we don’t have good numbers, because there is no record of most babies who died early. People are sad when their babies die.  
-    
+
+
 * It seems like people really don’t know that illnesses are often contagious and are not afraid to spend time around sick people. The big exception is lepers. People are very afraid of them, even though my understanding is that leprosy is actually barely contagious.
     * I think it should count as a strong mark against theories valorizing cultural evolution that cultures didn’t learn such an important thing that many diseases are contagious.
 
-##   
+##
+
 Emotions
 
 * People laugh a normal amount. I once heard a theory that laughing is a modern custom that only became widespread after improvement in dental hygiene. I never believed this theory, and this book is additional counter-evidence.  
-    
+
+
 * On the other hand, people seem to cry somewhat more often than in modern society. It’s pretty normal in the book for grown men to start crying when receiving sad or happy news.  
-    
+
+
 * Romantic love, including passionate romantic love, exists and people sometimes manage to marry for love. I think this is not surprising, but I heard theories that romantic love is a surprisingly late invention that spread from the elite circles. I never believed those theories, but this is additional counter-evidence.  
-    
+
+
 * People love their children. Again, very unsurprising, but I have heard theories stating the contrary.
     * In Cathar mythology, when Satan tempted the souls in Heaven to descend into the material world and become humans, a main part of his pitch was that as humans they can have children, which is the greatest joy of all. I find this very endearing.
 
 ## Other observations
 
 * People rarely refer to weeks, and instead talk in terms of eight days and fifteen days (quarter month and half month). This is true even though the majority of people go to Mass on Sunday and they more or less rest on Sundays (though people who have animals can never fully rest). I find this very surprising, and makes me update that cultural patterns I consider obvious can be less universal than I would think.  
-    
+
+
 * Not in Montaillou itself, but in a neighboring village, some people play chess in their spare time. Pretty cool.
 
 ## Religion
@@ -121,9 +135,11 @@ Emotions
 * People almost never talk about loving Jesus, or having a personal relationship with Jesus or God. My understanding is that most of their prayers are repeating the Lord’s Prayer, the Credo and Ave Maria in Latin, and they rarely pray in their own way.
 
 * People sometimes need to do some outwardly penance for sins (though as far as I know, only for heresy and for not paying tithes), like going on pilgrimage, wearing a yellow cross on their clothes, or buying a really big candle for the church. But I don’t remember inward repentance ever really being mentioned, or people feeling strong guilt for past crimes and looking to Jesus for forgiveness.  
-    
+
+
 * I also don’t remember anyone mentioning forgiving your enemies. There is some mention of alms-giving, but there is much stronger emphasis on giving to the Church or to the parfaits than on giving to the poor.  
-    
+
+
 * All of this seems true of Cathars as well as Catholics. The Cathars reject many of the teachings and practices of the Church, but as far as I can tell, don’t offer their own positive vision. At least based on the Montaillou records, I think it’s misguided to think of Cathars as proto-Protestants.
 
 * The Bible is very rarely mentioned. I first found this very surprising. There was this big religious upheaval where the whole village was divided between Cathars and Catholics. I would have expected, based on the events of the Reformation, that people would constantly argue about which Bible passages support which sect. But no, when people are asked why they believe something, it’s almost always because they heard it from someone, who heard it from someone, who is sometimes said to have read it in a book, which is not specified to be the Bible.
@@ -141,7 +157,8 @@ Emotions
             
 
 * Based on all of this, I would have expected their religion to largely resemble my picture of paganism, people being mostly praying and showing sacrifices in return of good harvest, health, and other worldly concerns. Interestingly, this doesn’t seem to be the case, the book says that praying for material benefits exists but is not very important.  
-    
+
+
 * People care a lot about getting to Heaven though. Cathars and Catholics agree that Heaven is a very big house (presumably this idea is based on Revelation 21), where all people live as a big family. The presence of God and the beatific vision is not mentioned, but people are still very interested in getting into the nice big house of Heaven.
     * According to Catholics, the alternative is Hell, though people often seem to think more of a temporal Purgatory, and in general fear of Hell seems almost never mentioned. I’m a little surprised by this.
     * According to Cathars, the alternative to Heaven is reincarnation, often in animal bodies, until eventually one breaks the cycle and goes to Heaven. Reincarnation is viewed as worse than Heaven, but sometimes they still refer to it positively - for example a mother losing her young child is consoled that if she has a new child, the dead kid’s soul will enter the new baby.  
@@ -168,19 +185,24 @@ Emotions
         
 
 * There are a lot of (maybe 10%) people who are more or less atheists, and believe that there is no afterlife, the material body is all there is, and the world has existed since forever and will exist forever.  
-    
+
+
 * Overall, I wonder how a well-meaning 1300s Catholic bishop would feel, how the state of Christianity today compares to that of his own century. The printing press caused a big upheaval, half of Europe converted to Protestantism, later much of the world entirely lost their faith. But at least the remaining Catholics today seem to be better informed and in many ways better followers of their religion than the average peasant in 1300. I think it’s plausible that the end result is still better from the perspective of a well-meaning bishop.
 
 ## The Inquisition
 
 * The Inquisition in the book is less terrible than what you’d expect from pop culture portrayals. But I think that “the Inquisition usually had pretty high standards of evidence and was more reasonable than pop culture suggests” is already a well-known take at this point. So I think the more important take-away for me was that yes, religious persecution was still very bad in an absolute sense and I’m glad we stopped doing it.  
-    
+
+
 * The book writes surprisingly little about how the Inquisition worked, but I will write what I pieced together from the book and from reading some of the original records (translated to English) [online](https://www.sjsu.edu/people/nancy.stork/jacquesfournier/).  
-    
+
+
 * First, people get questioned about their religious beliefs, and about whether they have helped to hide the Cathar parfaits or if they have ever assisted to a dying person being hereticated. People are also asked to testify against each other, and then people get confronted with the accusations that their neighbors brought against them.  
-    
+
+
 * Some people don’t really have accusations against them and their questioning reveals them to be a mostly orthodox Catholic. Sometimes they are genuinely confused about the Church’s teaching about something (for example they say that wolves were created by Satan instead of God). In this case, the inquisitor corrects them, and if they apologize, the Inquisition is very forgiving of this type of mistake. In this case, they get released without punishment.  
-    
+
+
 * If they had a little too much involvement with the Cathars, but they confess it and promise to change their ways, they are often released but are required to wear a shameful yellow cross on their clothes for a few years to show that they were heretics.
     * There is at least one instance of someone not wearing his yellow cross regularly and being put in prison for six years for it.  
         
@@ -192,9 +214,11 @@ Emotions
         
 
 * Heretics also often have their land confiscated and their house torn down. People mention being afraid of their house being torn down surprisingly often compared to being afraid of imprisonment.  
-    
+
+
 * As far as I can tell, the Inquisition barely uses torture and corporal punishment in the book. There is one gruesome story though: at some point, some years prior to the whole village getting arrested, Pierre Clergue got his friends in the Inquisition to arrest a woman who was speaking out against him, and the woman got her tongue torn out. I couldn’t learn much about this incident other than that it increased Clergue’s hold over the villagers, until finally the Inquisition arrested him too.  
-    
+
+
 * As far as I can tell, there were maybe two or three people from Montaillou who got executed by the Inquisition. I found the records on one of them. I’m not even sure he was actually a Cathar, but when the Inquisition asked him to swear an oath about something, he refused. He explained that he heard that God didn’t approve of people swearing oaths. He clarified that he didn’t believe that it was a very serious sin, and he thought God wouldn’t send people to Hell for it, but he still didn’t want to do something that God didn’t approve of. The Inquisition practically begged him to recant this belief and swear the oath; they tried to convince him through many days, but he persisted. Eventually, he was handed over to the secular authorities to be burnt at the stake.
     * Presumably, he indirectly got the idea that oaths were forbidden from Matthew 5:33-37. But he never referred to the Bible, he always just said that he heard from someone that God was against oaths. I can’t help but admire this man’s bravery, but I also find it kind of shocking that he was willing to die for this belief without even knowing its source.
 

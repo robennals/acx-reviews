@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T16:02:14.000Z'
 slug: the-carnation-revolution
-wordCount: 10453
+wordCount: 10454
 readingTimeMinutes: 47
 source: gdoc
 tags:
@@ -175,7 +175,7 @@ Otelo’s role in the Captains’ HQ does not require his sidearm and he had dec
 
 Every involved Captain has their story of their role that day. An element all stories share is waiting by the radio at their various assigned locations the evening of April 24th, desperately wanting the signal to come yet afraid it would not.
 
-**"It's five to eleven. With you, Paulo de Carvalho and the '74 Eurovision Song Contest: E Depois do Adeus"**
+## "It's five to eleven. With you, Paulo de Carvalho and the '74 Eurovision Song Contest: E Depois do Adeus"
 
 > at 22:55 on April 24, 1974 Rádio Clube Português radio host João Paulo Dinis announces the next song
 

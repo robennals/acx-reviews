@@ -7,14 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:40:53.000Z'
 slug: the-history-and-adventures-of-an-atom-by-tobias-smollett
-wordCount: 5997
+wordCount: 5990
 readingTimeMinutes: 27
 source: gdoc
 tags:
   - Fiction
 ---
 
-I find, Gentlemen, when you read with me in private, that nine out of ten of you dislike the 18th century and all its literary works. As for the Women students, they one and all abominate it.  
+I find, Gentlemen, when you read with me in private, that nine out of ten of you dislike the 18th century and all its literary works. As for the Women students, they one and all abominate it.
+
 •Arthur Quiller-Couch, “Of Selection” (1918).
 
 All eighteenth-century novels are weird in one way or another, if only because the novelists of the time didn’t yet know a standard by which to make them not-weird. _Robinson Crusoe_ (1719) famously has no chapter breaks. _Tristram Shandy_ (1767) famously contains a blank page, with instructions for readers to “call for pen and ink” and hack out a portrait of one of the characters on their own. _The Man of Feeling_ (1771) is hardly a novel at all: An anonymous “editor” explains how a fat curate of his acquaintance had used torn pages from a small memorandum book as wadding paper while hunting; the few surviving pages of that memorandum, representing the scattered observations of an eccentric parishioner, make up the slim novel _The Man of Feeling_. It’s pretty weird.
@@ -25,7 +26,8 @@ In the course of this review I’d like to step back and see how novels in gener
 
 ## Part 1: A Brief History of the Novel
 
-Proof that the novel is a minor art form: The Romans were better at it than the Greeks.  
+Proof that the novel is a minor art form: The Romans were better at it than the Greeks.
+
 •Francis Viets, _Thoughts Timely and Un_ (1972).
 
 _Don Quixote_ (1605–1615) is often called (e.g.g. [here](https://sites.uw.edu/baw24/), [here](https://www.mhra.org.uk/publications/stable/10.59860/cl.c47c5cc), and [here](https://theconversation.com/guide-to-the-classics-don-quixote-the-worlds-first-modern-novel-and-one-of-the-best-94097)) the first modern novel…which is weird because of course _Don Quixote_ is about a man who is obsessed with reading fiction. _DQ_ is, in fact, a parody or fusion of two kinds of fiction, the _romance_ and the _picaresque_. A romance is (broadly speaking) a book about a knight wandering around fighting dragons etc. and having martial adventures. [1] A picaresque (broadly speaking) is about a lowlife wandering around having comical misadventures; _Huckleberry Finn_ (1884) would be a notable American example. The main joke of _Don Quixote_ is that the Don thinks he’s in one kind of book and he’s actually in the other.
@@ -40,34 +42,46 @@ The real problem is that, word count aside, no one can authoritatively define th
 
 Some of the things (I’ll call them _points of alienation_) that make sixteenth-century protonovels strange to modern eyes survive two hundred years or so past _Don Quixote_’s publication. They survive, in fact, up to and into (remember Smollett?) the writings of Tobias Smollett. They’re part of what makes eighteenth-century novels weird. Maybe you can come up a dozen points of alienation, but I’ll quickly name three:
 
-_1 Misemphasis_  
+_1 Misemphasis_
+
 Early narratives—protonovel or novel—tend to place emphasis on the wrong (or “wrong”) things, or at least in the wrong proportions. In Thomas Nashe’s picaresque _The Unfortunate Traveller_ (1594), for example, we find [_CW for everything, because Nashe_] the following four entirely conventional and novelistic incidents:
 
-_1_ A murderer named Esdras rapes Heraclide (“a noble & chaste matrone”).  
-> _2_ Heraclide, in shame, commits suicide.  
-_3_ Jack Wilton (the narrator and eponymous unfortunate traveler) is falsely accused of rape and murder. He is tried, found guilty, and sentenced to death. He is marching up to the gibbet to be hanged, when…  
+_1_ A murderer named Esdras rapes Heraclide (“a noble & chaste matrone”).
+
+_2_ Heraclide, in shame, commits suicide.
+
+_3_ Jack Wilton (the narrator and eponymous unfortunate traveler) is falsely accused of rape and murder. He is tried, found guilty, and sentenced to death. He is marching up to the gibbet to be hanged, when…
+
 _4_ …the testimony of a passing Englishman frees him.
 
 Nothing unusual here. But how long does it take the book to narrate these four incidents?
 
-> _1a_ Heraclide begs Esdras for mercy: _4 ½ pages_  
-> _1b_ The rape: _The first half of a sentence_  
-> _2a_ Heraclide ponders suicide: _2 ½ pages_  
-_2b_ The suicide: _Two parenthetical words_ (“(throughlie stabd)”)  
-> _3_ Jack Wilton accused, tried, sentenced, brought to the gibbet: _½ page_  
-> _4a_ The Englishman’s testimony, which saves Jack’s neck: _1 page_  
-> _4b_ The Englishman then spontaneously monologues on the folly of travel because all countries, save England, are trash: _6 pages_
+_1a_ Heraclide begs Esdras for mercy: _4 ½ pages_
+
+_1b_ The rape: _The first half of a sentence_
+
+_2a_ Heraclide ponders suicide: _2 ½ pages_
+
+_2b_ The suicide: _Two parenthetical words_ (“(throughlie stabd)”)
+
+_3_ Jack Wilton accused, tried, sentenced, brought to the gibbet: _½ page_
+
+_4a_ The Englishman’s testimony, which saves Jack’s neck: _1 page_
+
+_4b_ The Englishman then spontaneously monologues on the folly of travel because all countries, save England, are trash: _6 pages_
 
 Then the Englishman slips away, never to appear again, leaving Jack Wilton a free man. One page later, Jack has fallen into the clutches of Jews (!) who appear to be planning to dissect him alive for the elucidation of medical students. It goes on like this. It’s all a recognizable picaresque except the pacing, which seems so strange and arbitrary that the result rarely reads like a novel.
 
-_2 Discontinuity_  
+_2 Discontinuity_
+
 Something romances and picaresques have in common is that they are made up of a character doing _one damn thing after another_. Lazarillo de Tormes is going to bounce from one crime to the next and Amadis is going to ride from one chivalrous adventure to the next without much regard for sequence. The incidents, like the lines of a ghazal, are pearls on a string. Of course, such a description applies equally well to _Don Quixote_—or to _Huckleberry Finn_ again—or to any number of novels (_Moll Flanders_, _Candide_, Jack Kerouac). It’s also often a good description of, you know, real life. Look at the way someone from the old pre-_DQ_ days describes his life; look at (selected mostly at random, based on what shelves I can reach from the couch) the writings of fourteenth-century Florentine merchant Buonaccorso Pitti.
 
 Now, partway through his memoir, Pitti begins a short paragraph with the sentence:“On reaching Florence I resolved to get married,” and the paragraph thereafter moves rapidly into his betrothal to an (unnamed here) woman and finally ends that he “married her on 12 November of the same year” (viz. 1391).—This is followed by a paragraph on how Pitti was struck by lightning “one day before my marriage” (he recovers quickly).—After that comes a paragraph about how “before my marriage” some ships of English wool he’d purchased came to various Italian ports. I’m not criticizing either the writing or the life of Buonaccorso Pitti; I’m just saying that this is a natural way to live and to view one’s life. It’s not the only way, of course; certainly Augustine’s autobiography features a conventional redemption plot. But a modern novelist given this material would inevitably try to tie if not the wool than at least the lightning strike into the wedding. It’s a great complication! But it is also the most canonically random of events. This randomness would become anathema to the novelist.
 
 But not yet.
 
-_3 Digression_  
+_3 Digression_
+
 Man did old novels have a lot of digressions. Readers of _Frankenstein_ (1818) will remember the chapters spent by the monster eavesdropping on a family with a melodramatic and baroque history—but 1818 is a little late for a digression of this length, which is much more common in the centuries before. [2]
 
 In _Don Quixote_, a character one night picks up a book in an inn—and Cervantes pauses to print the _entirety of the book_ (forty-one pages, in my edition of _DQ_). In Apuleius’ _Golden Ass_ (ca. 170?)—not the earliest novel, as the earliest novel is, you will recall, unrecoverable from the quicksands of time, but the earliest _complete surviving novel that is actually good_ (as opposed to fun)—the middle fifth or so is devoted to the story (narrated by an old woman in a den of thieves) of Cupid and Psyche…essentially the Beauty and the Beast story, only with Roman gods.
@@ -80,7 +94,8 @@ Smollett committed one of the most audacious or flagrant digressions in English 
 
 In my edition of _Peregrine Pickle_, chapter LXXXI takes up _a full 108 pages._
 
-_And so…_  
+_And so…_
+
 I guess _Don Quixote_ makes a convenient Schelling point for the imprimatur of _first modern novel_…in part because it is self-aware and self-reflexive in a way earlier novels or protonovels are not, in part because all later novelists, at least into the nineteenth century, would see it as a forebear. But _DQ_ does not represent a real rupture with the books that came before it. In fact there is no real rupture. There’s only a superabundance or lack of the three abovelisted points of alienation.
 
 Most fiction of the seventeenth century, and arguably all earlier fiction, has these points in sufficient quantities that the books end up feeling un-novelistic. In English: _Euphues_ (1571) or _The Blazing World_ (1666) (and all between) I would call protonovels.
@@ -91,18 +106,24 @@ But as time progresses, the ratio of non-novelistic elements to novelistic eleme
 
 ## Part 2: A Brief History of Smollett
 
-I think the world would be better off if I could tell a strange woman, met at a church social, that I have diarrhoea.  
+I think the world would be better off if I could tell a strange woman, met at a church social, that I have diarrhoea.
+
 •H.L. Mencken, letter to Theodore Dreiser (1918). 
 
 Tobias Smollett trained as and intermittently tried to make a living as a doctor. Several of his characters are doctors or at least con artists masquerading as doctors, and his books never hesitate to break into complicated medical jargon when the opportunity presents itself. But one foot was always in the world of letters, and despite some ups and downs, this was the world that would bring him what is conventionally called immortality.
 
 He worked for it! Smollett wrote incessantly: plays, pamphlets, translations of _Don Quixote_, _Gil Blas_, and Voltaire’s “Micromegas,” and (his great success, at least from a pecuniary standpoint) the multivolume _Complete_ [!] _History of England_—in addition to his editorial work—but of course we are here to talk about his novels. _The History and Adventures of an Atom_ was his fifth, of six…
 
-> _•The Adventures of Roderick Random_ (1748)  
-•_The Adventures of Peregrine Pickle_ (1751)  
-•_The Adventures of Ferdinand Count Fathom_ (1753)  
-•_The Life and Adventures of Sir Launcelot Greaves_ (1761)  
-•_The History and Adventures of an Atom_ (1769)—that’s what we’re talking about!  
+> _•The Adventures of Roderick Random_ (1748)
+
+•_The Adventures of Peregrine Pickle_ (1751)
+
+•_The Adventures of Ferdinand Count Fathom_ (1753)
+
+•_The Life and Adventures of Sir Launcelot Greaves_ (1761)
+
+•_The History and Adventures of an Atom_ (1769)—that’s what we’re talking about!
+
 •_The Expedition of Humphry Clinker_ (1771)
 
 …and by far his most obscure as well as being his strangest.
@@ -143,7 +164,8 @@ This, I assume, is why Smollett wrote _The History and Adventures of an Atom_. S
 
 ## Part 3: The Atom at Last
 
-And yet, if a body of pioneers were set at work upon your skull, they would find rubbish enough to choke up all the common sewers in town.  
+And yet, if a body of pioneers were set at work upon your skull, they would find rubbish enough to choke up all the common sewers in town.
+
 •Smollett, _Peregrine Pickle_ (1751).
 
 So what is _The History and Adventures of an Atom_ that makes it so different? Any self-respecting book review should feature a plot summary, so I’ll try a plot summary.

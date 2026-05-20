@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:52:56.000Z'
 slug: dont-bang-denmark
-wordCount: 3350
+wordCount: 3352
 readingTimeMinutes: 15
 source: gdoc
 tags:
@@ -25,7 +25,7 @@ The pick up artistry movement has been criticized for being sexist, tolerant of 
 
 **2.** Danish women are ugly and manly anyway
 
-**What is pick up artistry?**
+## What is pick up artistry?
 
 The book is not for the new pick up artist. There’s no rundown of terms, techniques etc in it, so I had to do additional research.
 
@@ -47,7 +47,7 @@ Probably, there is a lot of redeeming qualities to be found within pick up artis
 
 Whatever is going on in this book is none of that.
 
-**Danish society makes it taboo to be an alpha male**
+## Danish society makes it taboo to be an alpha male
 
 By far the most interesting of Roosh’s assertions is this one. He writes:
 

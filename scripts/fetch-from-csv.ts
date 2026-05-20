@@ -204,6 +204,10 @@ interface ReviewException {
   // re-insert separators between cycle terminators (e.g. blank after
   // **Changes**: in Orality).
   insertBlankAfter?: string;
+  // Opt out of the contest-wide italic-as-blockquote rule. Use for
+  // reviews where the author uses italics for emphasis or other
+  // non-quote purposes that would be wrongly wrapped.
+  disableItalicAsBlockquote?: boolean;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -234,36 +238,70 @@ const stripFormattingForMatch = (line: string) =>
  * Used for the 2026 contest where authors consistently mark embedded
  * quotations with whole-paragraph italics rather than block indents.
  */
+/**
+ * Wrap a paragraph as a blockquote when it's "mostly italic" — i.e.
+ * almost the entire line sits inside `_…_` runs, with at most a short
+ * non-italic suffix (typical author convention: a citation like
+ * `Ch 5, pg 147.`, a parenthesized note, or a footnote ref).
+ *
+ * Rules (all must hold):
+ *   - Line starts with `_` OR an optional opening quote glyph then `_`.
+ *   - Line ends with `_` (with trailing whitespace/`*` allowed) OR a
+ *     short trailing non-italic suffix after a closing `_`.
+ *   - The italic content dominates: out of every non-whitespace,
+ *     non-`_`/`*` character on the line, those INSIDE an italic span
+ *     are at least 2× those outside.
+ *   - At least 30 italic characters of substantive content (filters
+ *     out short emphasized phrases that aren't really pull quotes).
+ *   - Not already a blockquote/heading/list/image line, and not
+ *     inside a `<figure>`/`<figcaption>` block.
+ */
 function wrapItalicParagraphsAsBlockquotes(markdown: string): string {
   const lines = markdown.split('\n');
-  // Match a line that's mostly italic. Three accepted shapes:
-  //   1. Plain italic line:  `_…_` with optional trailing
-  //      whitespace/asterisks.
-  //   2. Italic + parenthesized citation:
-  //        `_"…quoted text…"_ (Ch 10, pg 330.)`
-  //   3. Italic + chapter/page-style citation starting with an
-  //      uppercase letter and ending in a period:
-  //        `_"…quote…"_ Ch 5, pg 147.`
-  // The citation suffix is bounded so we don't sweep in long prose
-  // paragraphs that begin with a brief italic fragment.
-  const italicOnlyRe =
-    /^_[^_\n].*_[*\s]*$|^_[^_\n].*_\s*\([^)\n]{1,60}\)\s*$|^_[^_\n].*_\s+[A-Z][^_\n]{1,50}\.\s*$/;
+  // Accepted leading characters: optional curly/straight quote, then
+  // the opening `_`. Authors sometimes put the quote glyph outside the
+  // italic run (`"_quote…"_`) instead of inside.
+  const OPEN_RE = /^["“”‘’']?_[^_\n]/;
   let figureDepth = 0;
   for (let i = 0; i < lines.length; i++) {
     const l = lines[i];
-    // Track <figure>/<figcaption> nesting so caption text doesn't get
-    // wrapped in `> ` (image captions are NOT blockquotes).
     const openTags = (l.match(/<(figure|figcaption)\b/g) || []).length;
     const closeTags = (l.match(/<\/(figure|figcaption)>/g) || []).length;
     figureDepth += openTags - closeTags;
     if (figureDepth > 0) continue;
-    if (!italicOnlyRe.test(l)) continue;
     if (l.startsWith('>') || l.startsWith('#') || l.startsWith('![') ||
         l.startsWith('*') || l.startsWith('-') || l.startsWith('  ')) {
       continue;
     }
-    const stripped = l.replace(/[*_\s]/g, '').trim();
-    if (stripped.length < 30) continue;
+    if (!OPEN_RE.test(l)) continue;
+
+    // Walk the line counting italic vs non-italic substantive chars.
+    // Bold delimiters (`*`/`**`) and whitespace don't count either way.
+    // The `_` toggles italic state; toggles outside word boundaries
+    // (which would be parsed as literal underscores) are uncommon
+    // enough in markdown to ignore.
+    let italicChars = 0;
+    let nonItalicChars = 0;
+    let inItalic = false;
+    let underscores = 0;
+    for (const c of l) {
+      if (c === '_') {
+        inItalic = !inItalic;
+        underscores++;
+        continue;
+      }
+      if (c === '*' || /\s/.test(c)) continue;
+      if (inItalic) italicChars++;
+      else nonItalicChars++;
+    }
+    if (underscores < 2 || underscores % 2 !== 0) continue;
+    if (italicChars < 30) continue;
+    if (italicChars < nonItalicChars * 2) continue;
+    // Cap absolute non-italic content: even at a 2:1 ratio a long
+    // line could carry a lot of out-of-italic prose. The user
+    // convention for citation-suffixes tops out near ~50 chars.
+    if (nonItalicChars > 60) continue;
+
     lines[i] = `> ${l}`;
   }
   return lines.join('\n');
@@ -531,7 +569,7 @@ async function createMarkdownFile(
   // italic-only paragraph with substantive content as a blockquote so
   // the rendering matches authorial intent. Gated to 2026 only; older
   // contests have already-stable content we don't want to re-flow.
-  if (contestId === '2026-book-reviews') {
+  if (contestId === '2026-book-reviews' && !slugExceptions[slug]?.disableItalicAsBlockquote) {
     truncatedContent = wrapItalicParagraphsAsBlockquotes(truncatedContent);
   }
 

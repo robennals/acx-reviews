@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T04:53:42.000Z'
 slug: the-sovereign-child
-wordCount: 9094
+wordCount: 9096
 readingTimeMinutes: 41
 source: gdoc
 tags:
@@ -383,7 +383,7 @@ Deutsch's worldview is intoxicating because it says that in principle there is n
 
 Here's how the pattern plays out:
 
-**IQ is bullshit science, cos we can close any gap in cognitive capabilities.**
+## IQ is bullshit science, cos we can close any gap in cognitive capabilities.
 
 OK, cool, except...we not only can't do that with our current knowledge, we don't have the _slightest clue_ how to do so! In the real world, the wide range in capabilities forces us to make all kinds of trade-offs and policy choices that affect real people's lives, not only right now, but probably if we're honest for some extremely long time, and maybe even forever if we don't eventually find a way to, you know, augment a guy with Down Syndrome's brain until he can swap theorems with John von Neumann.
 
@@ -391,7 +391,7 @@ OK, cool, except...we not only can't do that with our current knowledge, we don'
 
 OK, cool, except...we not only can't do that with our current knowledge, we don't have the _slightest clue_ how to do so! In the real world, path dependence matters: either we're confident we'll unlock this knowledge before we get AGI—why?—or hoping that our universal explainer-ship means we'll all hold hands and sing kumbayah, despite having a less than stellar track record on this front ourselves, including a possible existence proof for one species of universal explainer wiping their 'less advanced' cousins out of existence (RIP neanderthal bros).[7]
 
-**Coercion is never justified, cos there's always a win-win solution.**
+## Coercion is never justified, cos there's always a win-win solution.
 
 OK, cool, except...we not only can't do that with our current knowledge, we don't have the _slightest clue_ how to do so! In the real world, we still very much need laws, prisons, schools, ostracism, shaming, and apps that lock me out of twitter so I can finish writing this book review. How do we dispense with all this barbaric coercion? Maybe we need new social technologies. Maybe we need brain implants. Maybe we need new moral philosophy. Whatever it is: we don't have it right now, and in some situations, coercion will still be the best solution available to us.
 

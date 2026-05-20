@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T06:52:29.000Z'
 slug: more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby
-wordCount: 16850
+wordCount: 16866
 readingTimeMinutes: 75
 source: gdoc
 tags:
@@ -21,13 +21,13 @@ tags:
 
 <figcaption>
 
-**They’re just trying to hedge their bets.**
+## They’re just trying to hedge their bets.
 
 </figcaption>
 
 </figure>
 
-**I. Whence All This Money?**
+## I. Whence All This Money?
 
 Some people are rich for reasons that are very obvious. Taylor Swift made her money from concert tickets and Spotify downloads. Jeff Bezos got rich delivering octopus head scratchers with two-day shipping. Nancy Pelosi made her money by insider trading, and Jeffrey Epstein by blackmailing pedophiles. Some of these things provide more value to society than others.
 
@@ -37,7 +37,7 @@ In some cases, it is really that simple – hedge funds used specialized researc
 
 In _More Money Than God_, Sebastian Mallaby investigates the history of hedge funds, and the invisible velociraptors their success depends on outrunning – and also the question of whether hedge funds provide net value to society, or whether we should just let them trip and get eaten. After all, when the economic externalities to society can be so high, it seems worth asking: _should_ hedge funds be allowed to do all this often historically unprecedented trading?
 
-**II. The OG Hedge Fund**
+## II. The OG Hedge Fund
 
 Only 347 years after the first stock exchange was started by the Dutch East India Company in Amsterdam, the first hedge fund was started by Alfred Winslow Jones. Jones was a Marxist who worked for the US State Department in the 1930s but got kicked out for his association with the German Leninist Organization. In 1949, he needed money and turned to investing, starting what he called a “hedged fund” in reference to his strategy for mitigating investment risk.
 
@@ -77,7 +77,7 @@ The second way hedging can go wrong is much simpler. Note that if the markets ar
 
 <figcaption>
 
-**What’s going to be cleaned out is your bank account when the market turns.**
+## What’s going to be cleaned out is your bank account when the market turns.
 
 </figcaption>
 
@@ -85,7 +85,7 @@ The second way hedging can go wrong is much simpler. Note that if the markets ar
 
 If you look at Jones’s toy example, you notice that if a third investor borrows the extra $100k and then just buys, and the market goes up, he makes 30% on $200k for a $60k profit, beating the original two investors handily. But if the market goes down, he loses big time – down $20k, more than double the losses of the traditional investor. And in 1969, when the bull market finally shifted, this failure mode is exactly what happened to the not-very-well supervised traders in Jones’s firm, as well as many of the copycat firms. The individual managers had realized that just buying stocks was more profitable, so they had stopped shorting and were no longer “market neutral”. Thus, when the market went down, so did they. The number of hedge funds in the next few years almost halved as all who had forgotten the hedging part took severe losses. The SEC had been considering regulating the growing hedge fund industry, but after the crash wiped out so many of them, they decided the sector was too small to bother. (Regulators finding reasons not to bother with hedge fund regulation is a recurring theme.)
 
-**III. Second Generation Hedge Funds**
+## III. Second Generation Hedge Funds
 
 ## Steinhardt, Fine, Berkowitz & Company
 
@@ -99,7 +99,7 @@ It was only a few years later when the market crashed again. This time, though, 
 
 <figcaption>
 
-**Considering how short she is, you’d think she’d be more afraid of a bull.**
+## Considering how short she is, you’d think she’d be more afraid of a bull.
 
 </figcaption>
 
@@ -167,7 +167,7 @@ Sometimes just predicting trends was not enough for him – when the conditions 
 
 But is it good for markets to have someone out there starting market trends just for his own profit? Mallaby says this was not a problem: after all, the strategy had its limits, and Jones himself admitted he couldn’t shock the market into trends that weren’t already primed to start. And Jones’s other strategy of trading against people who needed to meet certain institutional requirements, like the Japanese investors, was also net positive in Mallaby’s view: he was “[providing] liquidity when it was needed”.
 
-**IV. Why Currencies Fear George Soros**
+## IV. Why Currencies Fear George Soros
 
 Born in Hungary, George Soros survived World War II on the continent, before moving to London and then New York, where he founded his own hedge fund, Soros Investment Management, in the 1970’s. Soros traded based on his theory of “reflexivity”, which held that market trends were mainly determined by investors’ beliefs and actions, rather than fundamentals.
 
@@ -235,7 +235,7 @@ This collapse in Indonesia had knock-on effects in South Korea, since they had l
 
 <figcaption>
 
-**1992 printing of the Indonesian rupiah. There should be a rule that pretty currencies can’t be devalued.**
+## 1992 printing of the Indonesian rupiah. There should be a rule that pretty currencies can’t be devalued.
 
 </figcaption>
 
@@ -245,7 +245,7 @@ This collapse in Indonesia had knock-on effects in South Korea, since they had l
 
 Really though, Soros was taking big losses in some of these countries as well. For example, in Russia, Soros bought a billion-dollar share of Svyazinvest, a partially-privatized Russian telephone company. This trade was a poor one for a hedge fund, since it wasn’t something he would be able to get out of quickly, but his bidding on the company helped Russia raise much-needed capital. He also secretly lent hundreds of millions of dollars to Yeltsin as a bridge loan. When this first loan was not enough, Yeltsin went to Soros again in 1997, trying to get another bridge loan of $7 billion. That was a bit much even for Soros, who tried instead to help Yeltsin raise it from US and European banks and officials, though his efforts met with no success. Ultimately, he wrote an open letter attempting to help Yeltsin get the loan, but investors interpreted the letter to mean instead that Soros had shorted the ruble. This caused others to copy Soros’s non-existent trade, and forced the ruble to devalue; though in fact, Soros had not shorted the ruble and lost another few billion dollars in his Russia portfolio from the devaluation.
 
-**V. Recessions, Recessions**
+## V. Recessions, Recessions
 
 ## The 1994 Bond Bubble and Askin Capital Management
 
@@ -273,7 +273,7 @@ Unfortunately for the hedge funds, when they went to sell their bonds, they foun
 
 <figcaption>
 
-**“Well, well, well, if it isn’t the consequences of my own monetary policy.”**
+## “Well, well, well, if it isn’t the consequences of my own monetary policy.”
 
 </figcaption>
 
@@ -319,7 +319,7 @@ Druckenmiller at Quantum first tried to short the tech stocks, but when he lost 
 
 One of Mallaby’s main arguments for the utility of hedge funds is their tendency to push against market trends and toward market equilibrium, by shorting bubbles and buying in downturns. Neither of the big funds in 1999 seems to have taken that course. Perhaps their divine mandate turned against them when they forgot their true purpose.
 
-**VI. Third Generation Hedge Funds**
+## VI. Third Generation Hedge Funds
 
 ## Farallon
 
@@ -349,7 +349,7 @@ One of the people working for Simons, Elwyn Berlekamp, cashed out of the fund me
 
 <figcaption>
 
-**Finance and drug dealing: both hobbies that can land you in prison, as Sam Bankman-Fried found out.**
+## Finance and drug dealing: both hobbies that can land you in prison, as Sam Bankman-Fried found out.
 
 </figcaption>
 
@@ -389,7 +389,7 @@ Ultimately, they found a buyer in the second biggest hedge fund of the era: Cita
 
 This near-disaster sparked suggestions that hedge funds should have to register with the SEC, since poor innocent pension plans were investing in them and they could wind up losing all their money. Mallaby thinks Citadel’s buying of Amaranth disproves this, and hedge funds can shoot their own rabid dogs. After all, according to Mallaby, hedge funds don’t get bailed out, or need help from the Fed – except for LTCM, which did need the Fed to come help them broker a deal, but apparently they don’t count.
 
-**VII. Mortgage-Backed Securities and Their Consequences**
+## VII. Mortgage-Backed Securities and Their Consequences
 
 ## The 2007 Housing Bubble
 
@@ -446,7 +446,7 @@ Though the Fed let Bear Stearns and Lehman fail, Mallaby believes this was a mis
 
 One such struggling hedge fund that received no help was Citadel. It had leveraged itself ten times and was having problems (though this was not as bad as the thirty times the banks had leveraged themselves). Ultimately, though, while Citadel was down a staggering 55%, or $9 billion, at the end of the year, it did not go bankrupt, nor have to sell to another company, nor get any kind of bail out or assistance from the government. Despite all its losses, it never even faced margin calls, because it had very cleverly and cautiously matched its long-term assets with long-term borrowing, and short-term assets with short-term borrowing. Mallaby attributes the fact it was able to do this to its very competent back office.
 
-**VIII. Are Hedge Funds Net-Positive?**
+## VIII. Are Hedge Funds Net-Positive?
 
 Do hedge funds need more regulation? By this point, it will be obvious to any reader that Mallaby thinks the answer is a resounding “No.” Perhaps, he allows, hedge funds would need more regulation if they were acting worse than the other players in the market – if they were committing more fraud, taking greater risks, or costing the taxpayer more money in bailouts. But hedge funds are not doing any of this (true, they commit the occasional fraud or collusion, but banks are just as bad so that hardly counts). Hedge funds have more incentive to manage their risk than investment banks, and never need or get bailouts, unlike the careless investment banks that are always opening their little baby bird beaks up for more taxpayer-funded capital infusions and Fed backstops.
 
@@ -466,7 +466,7 @@ Of course, Mallaby did not know about these events back in 2010 when his book wa
 
 <figcaption>
 
-**Stegosaurus fossil Griffin bought in 2024 for $44.6 million. Now I’m just waiting on the live-dinosaur theme park.**
+## Stegosaurus fossil Griffin bought in 2024 for $44.6 million. Now I’m just waiting on the live-dinosaur theme park.
 
 </figcaption>
 
@@ -484,7 +484,7 @@ Personally, I don’t share Mallaby’s negative stance on regulation – certai
 
 <figcaption>
 
-**New paradox: Can an omniscient and omnipotent God create more money than hedge funds can make trading?**
+## New paradox: Can an omniscient and omnipotent God create more money than hedge funds can make trading?
 
 </figcaption>
 

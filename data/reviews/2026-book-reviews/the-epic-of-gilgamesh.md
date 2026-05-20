@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-15T23:10:39.000Z'
 slug: the-epic-of-gilgamesh
-wordCount: 12090
+wordCount: 12091
 readingTimeMinutes: 54
 source: gdoc
 tags:
@@ -18,17 +18,21 @@ tags:
 ### Introduction: He Who Saw the Deep
 
 I've been thinking, lately, about the first epic story ever written. If you know anything about the Epic of Gilgamesh, you know that it's old. This is part of why I find it so interesting, but not the only part.  
-  
+
+
 The best comparison I can think of is the pyramids, which are just a little older. The Great Pyramid of Giza was built in the 2500s BC, around the same time as Stonehenge [1], twenty-five centuries before Cleopatra lived. It predates candles, concrete, and coins; it was centuries old when the first empire rose and when the woolly mammoth went extinct.  
-  
+
+
 Around 100 BC, [Antipater of Sidon](https://en.wikipedia.org/wiki/Antipater_of_Sidon) wrote a list of the seven most impressive sights (‘Seven wonders’) of the world - the pyramids were by far the oldest of the group at the time, and now, two thousand years later, all the others on the list have long since been destroyed. This should remind us that the pyramids don't just stretch far back in time - they stretch _forward_ as well. They are piles of stone. They may be the product of the greatest minds of their age striving to put more stone in a more orderly pile than anyone had before, but still, they _are_ piles of stone, basically artificial rock formations. They will still be there in a hundred thousand years, probably a million. They are so old they brush up against the beginning of civilisation, and yet, we are seeing them today in their youth.  
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/5996fce8d3ad3e40.jpg)
 
 The Epic of Gilgamesh was written down (in its earliest form) around 2100 BC in Mesopotamia - another cradle of civilisation, less well-known than ancient Egypt but every bit as extraordinary. Like the pyramids, Gilgamesh wasn't exactly the first of anything; we have writing, and even written literature, that predates it. But also like the pyramids, in its time, it was completely unmatched in scale. Nothing else had the same length, the same literary gravity, the same reach. For centuries it stood alone in its class while empires rose and fell around it.  
-  
+
+
 Its longevity isn’t because it was made of durable rock, and it’s not because a stray copy happens to have been found in modernity. This piece of writing lasted because it was considered of such cultural importance, and copied and imitated so extensively, that we _can’t help_ but find parts of it, wherever we find writing from this period. The Egyptians built the pyramids to last, and the Mesopotamians put the same care into immortalising this story. It’s their gift to us, crafted not from atoms, but from bits.  
-  
+
+
 That's what I am in awe of whenever I read this book: the age, the scale, the importance. Like a rock formation, it was here long before I was, and will be here long after I'm dead.
 
 ### Prologue: Uruk
@@ -295,7 +299,8 @@ In case you missed it, large language models are quite the thing at the moment. 
 The invention of writing was a process, not a moment. One of the hardest parts was just coming up with the idea.
 
 English speakers are spoiled by the alphabet, which makes the principle seem trivial: identify your language's sounds, assign each one a symbol, and in a single step you’ve got 20-50 symbols that make a complete writing system [15]. Emperor Sejong of Korea did exactly this in 1443, creating one of the world’s most elegant scripts. But for some reason, when inventing writing _from scratch_ (which has happened [four-ish](https://en.wikipedia.org/wiki/History_of_writing#Emergence) times), this simple recipe seems unavailable.  
-  
+
+
 When writing was first invented in Uruk [16], between 3500 and 2500 BC, it was for _spreadsheets_, with word-transcription tacked on later as an afterthought. City-state bureaucrats needed to track which villages sent how many bushels of wheat in tax, how many oxen were owed, or the yield of the harvest in each region. To aid their fallible human memories, they used what Uruk's floodplain offered in abundance: clay. With a reed stylus, they pressed their data into lumps of clay, then baked them into tablets (sometimes intentionally, sometimes accidentally if the city was burnt to the ground). This is cuneiform.  
 
 <figure>
@@ -311,13 +316,17 @@ _A proto-cuneiform tablet, c. 3100–2900 BC (__[source](https://en.wikipedia.or
 </figure>
 
 Early systems were simple: signs for amounts, dates, places, and goods. One famous fragment reads “28,086 measures barley 37 months Kushim”, which might make [Kushim](https://en.wikipedia.org/wiki/Kushim_(Uruk_period)) - probably an accountant or official - the first named person in history.  
-  
+
+
 But as soon as you can write simple things, there’s pressure to ratchet up the complexity. If you’ve ever tried to debug code using a logging system, you know that as soon as you make a record of something, five minutes later you’ll be staring at an ambiguous output wishing you’d added more context to it. Early cuneiform is a story of a rapidly expanding vocabulary of symbols and ways to use them: more places, more names, more qualifiers, qualities instead of just quantities, actions instead of just things, the past and the future instead of just the present.  
-  
+
+
 To handle this, scribes deployed a phonetic hack: using symbols to write the _sound_ of a word rather than its meaning [17]. A drawing of an arrow (𒋾), pronounced _ti_ in Sumerian, began to stand for the syllable _ti_ in any context, including unrelated words like ‘life’ (also pronounced _ti_), or ‘[Enamtila](https://en.wikipedia.org/wiki/Enamtila)’ (‘house of creation’). Cuneiform became a horrendous hodgepodge, with some signs representing whole words, others syllables, and others changing with context or altering the meaning of other signs. Scribes had to be trained from childhood to master it. By 2500 BC, cuneiform could finally express the same meaning as spoken language. Even after this, the vast majority of documents we have are receipts and contracts; it took a while for nuanced texts like religious rituals or literature to catch on.  
-  
+
+
 Unfortunately, just as its writing system matured, Sumerian as a spoken language was going out of style. When Sargon of Akkad conquered Mesopotamia in the 2330s BC, he made Akkadian - a predecessor of modern Arabic and Hebrew - the prestige language and lingua franca, and cuneiform became even more byzantine to accommodate the new tongue. But Sumerian was so integrated into the writing system itself that even after 1700 BC, when the last native Sumerian speakers died [18], scribes still had to learn Sumerian to be considered qualified to write Akkadian cuneiform.  
-  
+
+
 This deep entanglement is what allowed modern assyriologists (with [a century of careful work](https://en.wikipedia.org/wiki/Sumerian_language#Historiography)) to reconstruct Sumerian. This is especially impressive given that Sumerian is a language isolate - unrelated to any other known language, ancient or modern [19]. Its ancestors, siblings and cousins are lost to us forever now. Yet, by being present at the dawn of writing, Sumerian hitched a ride into modernity and saved itself from oblivion. Two thousand years after it was last spoken, we have pulled Sumerian out of the sands of Iraq and brought it back to life.
 
 ### Tablets 9-10: Gilgamesh at the edge of the world
@@ -620,7 +629,7 @@ In the twenty-first century, where we are more connected than ever, our mark on 
 > _and your face resemble one [come from afar?]_  
 > _[Why are] your features burnt [by frost and by sunshine,]_  
 
-_[and why do] you wander the wild [in lion’s garb?]’_ ”
+> _[and why do] you wander the wild [in lion’s garb?]’_ ”
 
 [21] Appropriately, the [first known bar joke](https://en.wikipedia.org/wiki/Bar_joke#First_recorded_example) was written (in Sumerian) around the same time as the Old Babylonian version. “A dog entered a tavern and said, 'I can’t see anything. I’ll open this one.'” We don’t know what it means.
 
