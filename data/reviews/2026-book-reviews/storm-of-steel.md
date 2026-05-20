@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T12:30:22.000Z'
 slug: storm-of-steel
-wordCount: 8593
+wordCount: 8585
 readingTimeMinutes: 39
 source: gdoc
 tags:
@@ -81,8 +81,7 @@ Jünger saw war beyond our wildest nightmares. The experience occupied a central
 
 It is bursting at the seams with killing and destruction, with constant shelling and fighter attacks and enemy fire and grenades; death comes swiftly, suddenly and unexpectedly over and over. When I say that it makes a good anti-war book, I mean it; I counted 45 explicit deaths that he witnessed and mentions over the course of the book, times where “this man here dies,” and there are many times that number again in listed deaths as a general event (we lost X men this day, Y many men died from a shell here) [8]. The worst example is when his company takes cover in a shell crater moving up to the front:
 
-> “There was another whistle high up in the air. Everyone had the choking feeling: this one’s headed our way! Then there was a huge, stunning explosion – the shell had hit in our midst.
->
+> “There was another whistle high up in the air. Everyone had the choking feeling: this one’s headed our way! Then there was a huge, stunning explosion – the shell had hit in our midst.  
 > Half stunned I stood up from the big crater, burning machine-gun belts spilled a coarse pinkish light. It lit the smoldering smoke of the explosion, where a pile of charred bodies were writhing, and the shadows of those still living were fleeing in all directions. Simultaneously, a grisly chorus of pain and cries for help went up. The rolling motion of the dark mass in the bottom of the smoking and glowing cauldron, like a hellish vision, for an instant tore open the extreme abysm of terror.”
 
 Jünger started with 150 men in his company, and in an instant is left with 64. How does this cool, courageous man respond?
@@ -139,24 +138,17 @@ It was my _duty_.
 
 That’s what duty is, what we owe to others. Duty compelled me every step of the way, to hold her while the low-oxygen alarms did their pinging blare, to try to comprehend while the doctor showed us the images of her brain with colors streaked through for bleeds, to carefully consider the doctor’s request to give her corticosteroids and risk disability [16]. One time, they were taking a blood sample, and I stuck my hands into the incubator to hold and comfort her as she wailed while they poked her foot to get enough blood, and they called me a “brave father.” Flattering, but unnecessary: how could I abandon my daughter?
 
-> Hours such as these were without doubt the most awful of the whole war.
->
-> You cower in a heap alone in a hole and feel yourself the victim of a pitiless thirst for destruction. With horror you feel that all your intelligence, your capacities, your bodily and spiritual characteristics, have become utterly meaningless and absurd. While you think it, the lump of metal that will crush you to a shapeless nothing may have started on its course. Your discomfort is concentrated in your ear, that tries to distinguish amid the uproar the swirl of your own death rushing near.
->
-> It is dark, too; and you must find in yourself alone all the strength for holding out. You can’t get up and with a blasé laugh light a cigarette in the wondering sight of your companions. Nor can you be encouraged by the sight of your friend clipping a monocle into his eye to observe a hit on the traverse close beside you. You know that not even a cock will crow when you are hit.
->
-> Well, why don’t you jump up and rush into the night till you collapse in safety behind a bush like an exhausted animal? Why do you hang on there all the time, you and your braves? There are no superior officers to see you.
->
+> Hours such as these were without doubt the most awful of the whole war.  
+> You cower in a heap alone in a hole and feel yourself the victim of a pitiless thirst for destruction. With horror you feel that all your intelligence, your capacities, your bodily and spiritual characteristics, have become utterly meaningless and absurd. While you think it, the lump of metal that will crush you to a shapeless nothing may have started on its course. Your discomfort is concentrated in your ear, that tries to distinguish amid the uproar the swirl of your own death rushing near.  
+> It is dark, too; and you must find in yourself alone all the strength for holding out. You can’t get up and with a blasé laugh light a cigarette in the wondering sight of your companions. Nor can you be encouraged by the sight of your friend clipping a monocle into his eye to observe a hit on the traverse close beside you. You know that not even a cock will crow when you are hit.  
+> Well, why don’t you jump up and rush into the night till you collapse in safety behind a bush like an exhausted animal? Why do you hang on there all the time, you and your braves? There are no superior officers to see you.  
 > Yet someone watches you. Unknown perhaps to yourself, there is some one within you who keeps you to your post by the power of two mighty spells: Duty and Honour. You know that this is your place in the battle, and that a whole people relies on you to do your job. You feel, ‘If I leave my post, I am a coward in my own eyes, a wretch who will ever after blush at every word of praise.’ You clench your teeth and stay.
 
 Jünger writes this in Creighton’s 1924 version, and leaves it out in Hofmann’s 1961 version, but I don’t think he recants his conception of duty; he was stripping down the book to the core experience, as by this time he had been writing his thoughts for decades; he wrote in _On Pain_ in 1934:
 
-> There is only one world-view that is worthy of us, and which has already been discussed as the Choice of Achilles—better a short life, full of deeds and glory, than a long life without substance.
->
-> The danger is so great, for every individual, every class, every people, that to cherish any illusion whatsoever is deplorable. Time cannot be stopped; there is no possibility for prudent retreat or wise renunciation. Only dreamers believe there is a way out. Optimism is cowardice.
->
-> We are born into this time and must courageously follow the path to the end as destiny demands. There is no other way. Our duty is to hold on to the lost post, without hope, without rescue, like the Roman soldier whose bones were found in front of a door in Pompeii, who, during the eruption of Vesuvius, died at his post because they forgot to relieve him.
->
+> There is only one world-view that is worthy of us, and which has already been discussed as the Choice of Achilles—better a short life, full of deeds and glory, than a long life without substance.  
+> The danger is so great, for every individual, every class, every people, that to cherish any illusion whatsoever is deplorable. Time cannot be stopped; there is no possibility for prudent retreat or wise renunciation. Only dreamers believe there is a way out. Optimism is cowardice.  
+> We are born into this time and must courageously follow the path to the end as destiny demands. There is no other way. Our duty is to hold on to the lost post, without hope, without rescue, like the Roman soldier whose bones were found in front of a door in Pompeii, who, during the eruption of Vesuvius, died at his post because they forgot to relieve him.  
 > That is greatness… The honorable end is the one thing that can not be taken from a man.
 
 This was one year after Hitler had taken power; he would write _On the Marble Cliffs_ in 1939 against fascism. In _On Pain_ he mentions the Japanese developments of manned suicide torpedoes:

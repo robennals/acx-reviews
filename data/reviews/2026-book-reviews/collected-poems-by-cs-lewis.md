@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T20:04:59.000Z'
 slug: collected-poems-by-cs-lewis
-wordCount: 3900
+wordCount: 3909
 readingTimeMinutes: 18
 source: gdoc
 tags:
   - Fiction
   - Religion
 ---
+
+## Stock Responses – Collected Poems of C.S. Lewis
 
 # 1.  The Poet
 
@@ -140,13 +142,12 @@ Lewis has read the modernist poets, and he thinks their imagery is bad.  He is p
 > Silver weirs, new-cut grass, wave on the beach, hard gem,  
 > The shapes of horse and woman, Athens, Troy, Jerusalem.
 >
-
-# 3.  Joys that Sting
-
 > _Thus, what old poets told me about love_  
 > _(Tristram’s obedience, Isoud’s sovereignty…)_  
 > _Turns true in a dread mode I dreamed not of,_  
 > _– What once I studied, now I learn to be;”_
+
+# 3.  Joys that Sting
 
 _Old Poets Remembered, C.S. Lewis_
 

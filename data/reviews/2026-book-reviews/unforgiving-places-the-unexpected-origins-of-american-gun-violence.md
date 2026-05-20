@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T18:14:08.000Z'
 slug: unforgiving-places-the-unexpected-origins-of-american-gun-violence
-wordCount: 2372
+wordCount: 2390
 readingTimeMinutes: 11
 source: gdoc
 tags:
   - Society
   - Politics
 ---
+
+A Review of _Unforgiving Places: The Unexpected Origins of American Gun Violence_. Jens Ludwig. Chicago University Press. 2025.
 
 In 2024, over 15,000 Americans were murdered by a person wielding a gun.[[1]](#ftnt1) The US murder rate is more than twice the average of other wealthy countries, with the bulk of US murders being committed with a gun.[[2]](#ftnt2)
 

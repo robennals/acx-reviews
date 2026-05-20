@@ -433,76 +433,99 @@ function applyContentException(markdown: string, slug: string): string {
 }
 
 /**
- * Strip the leading title (and related citation/byline lines) from markdown
- * content when they duplicate the CSV title.
+ * Strip the leading title from markdown content when (and only when) it
+ * exactly repeats the book title — no fuzzy matching, since that loses
+ * essay content that happens to share words with the title.
  *
- * Google Docs often start with one or more title-block lines — a heading,
- * a quoted citation like "Title". Author Year, or a "by Author" byline —
- * that repeat information already shown in the page header from frontmatter.
- * We strip up to 3 such lines so they don't render twice.
+ * Lines we DO drop (formatting/markdown stripped, case-insensitive):
+ *   - The book title verbatim.
+ *   - `Review of <title>` / `A review of <title>` / `Book Review: <title>`
+ *     (possibly followed by ` by <Author>`).
+ *   - A standalone byline: `By <Author>`.
  *
- * A line is stripped only if it's short (<150 chars) AND either:
- *   - shares >50% word overlap (either direction) with the CSV title, or
- *   - is an author byline starting with "by "
- *
- * Formatting alone (heading/bold/italic) is NOT enough — otherwise legitimate
- * first section headings like "# Intro" or "## Background" would be stripped.
+ * Anything else stays. Ambiguous cases (lines the old fuzzy-overlap rule
+ * would have dropped, but the new strict pattern leaves) get logged to
+ * `data/stripped-leading-title.log` so a human/AI can review whether the
+ * essay's first line is being treated correctly.
  */
-function stripLeadingTitle(markdown: string, csvTitle: string): string {
+function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): string {
   const lines = markdown.split('\n');
 
   const normalize = (s: string) => s.toLowerCase()
-    .replace(/^(book\s+)?review[:\s]*/i, '')
-    .replace(/^(a\s+review\s+of\s+)/i, '')
-    .replace(/^your\s+(book\s+)?review[:\s]*/i, '')
-    .replace(/[^\w\s]/g, '')
+    .replace(/[^\w\s]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 
-  const normCsv = normalize(csvTitle);
-  const csvWords = normCsv.split(' ').filter(w => w.length > 2);
+  const normTitle = normalize(csvTitle);
+
+  const stripMarkdown = (line: string) => line.trim()
+    .replace(/^#{1,6}\s+/, '')
+    .replace(/\*\*/g, '')
+    .replace(/_/g, '')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .trim();
+
+  // Match: optional review-of prefix + the title + optional " by Author".
+  const matchesTitleLine = (plain: string): boolean => {
+    const norm = normalize(plain);
+    if (!norm) return false;
+    // Strip a leading "review of" / "a review of" / "book review:" /
+    // "review:" prefix before the equality test.
+    const withoutPrefix = norm
+      .replace(/^(a\s+)?(book\s+)?review(\s+of)?\s+/, '')
+      .replace(/^(book\s+)?review\s+/, '');
+    // Strip a trailing " by <author>" suffix (any author).
+    const withoutBy = withoutPrefix.replace(/\s+by\s+.+$/, '');
+    return withoutBy === normTitle || withoutPrefix === normTitle;
+  };
+
+  const matchesByline = (plain: string): boolean =>
+    /^by\s+\S/i.test(plain) && plain.length < 100;
+
+  // Loosely fuzzy match (the OLD rule) — used purely for the ambiguity log.
+  const csvWords = normTitle.split(' ').filter(w => w.length > 2);
   const csvWordSet = new Set(csvWords);
-
-  const isTitleBlockLine = (line: string): boolean => {
-    const trimmed = line.trim();
-    if (!trimmed) return false;
-    const plain = trimmed
-      .replace(/^#{1,6}\s+/, '')
-      .replace(/\*\*/g, '')
-      .replace(/_/g, '')
-      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
-      .trim();
-    if (plain.length === 0 || plain.length > 150) return false;
-
-    const isByline = /^by\s/i.test(plain) && plain.length < 100;
-
+  const looksLikeTitleish = (plain: string): boolean => {
+    if (!plain || plain.length > 150) return false;
+    if (matchesByline(plain)) return false;
     const firstLineWords = normalize(plain).split(' ').filter(w => w.length > 2);
     const firstWordSet = new Set(firstLineWords);
     const forwardOverlap = csvWords.length > 0
       ? csvWords.filter(w => firstWordSet.has(w)).length / csvWords.length : 0;
     const reverseOverlap = firstLineWords.length > 0
       ? firstLineWords.filter(w => csvWordSet.has(w)).length / firstLineWords.length : 0;
-    const overlapRatio = Math.max(forwardOverlap, reverseOverlap);
-
-    return isByline || overlapRatio > 0.5;
+    return Math.max(forwardOverlap, reverseOverlap) > 0.5;
   };
 
-  // Find first non-empty line
   let firstIdx = 0;
   while (firstIdx < lines.length && !lines[firstIdx].trim()) firstIdx++;
   if (firstIdx >= lines.length) return markdown;
 
-  // Strip up to 3 consecutive title-block lines (each followed by blank lines).
-  // Covers: heading → quoted citation → "by Author" byline patterns.
   let stripped = false;
   for (let pass = 0; pass < 3; pass++) {
     if (firstIdx >= lines.length) break;
-    if (!isTitleBlockLine(lines[firstIdx])) break;
-    lines.splice(firstIdx, 1);
-    while (firstIdx < lines.length && !lines[firstIdx].trim()) {
+    const plain = stripMarkdown(lines[firstIdx]);
+    if (!plain) break;
+    if (matchesTitleLine(plain) || matchesByline(plain)) {
       lines.splice(firstIdx, 1);
+      while (firstIdx < lines.length && !lines[firstIdx].trim()) {
+        lines.splice(firstIdx, 1);
+      }
+      stripped = true;
+      continue;
     }
-    stripped = true;
+    // First line doesn't match the strict patterns. If the old fuzzy
+    // rule WOULD have stripped it, log for review and leave it alone.
+    if (looksLikeTitleish(plain) && slug) {
+      try {
+        const logPath = path.join(REVIEWS_DIR, '..', 'stripped-leading-title.log');
+        const entry = `${new Date().toISOString()}\t${slug}\t${plain}\n`;
+        fs.appendFileSync(logPath, entry);
+      } catch {
+        // best-effort — don't fail ingest on a log write
+      }
+    }
+    break;
   }
 
   return stripped ? lines.join('\n') : markdown;
@@ -556,7 +579,7 @@ async function createMarkdownFile(
     slugExceptions[slug]?.preserveLeadingHeading === true;
   const contentWithoutTitle = preserveLeadingHeading
     ? data.content
-    : stripLeadingTitle(data.content, data.title);
+    : stripLeadingTitle(data.content, data.title, slug);
 
   // Apply per-slug content exceptions (e.g. truncating an author's note
   // section that's marked "not for publication"). Loaded from

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T01:06:16.000Z'
 slug: plutarchs-parallel-lives-tiberius-and-gaius-gracchi
-wordCount: 4903
+wordCount: 4900
 readingTimeMinutes: 22
 source: gdoc
 tags:
@@ -29,7 +29,7 @@ When John Quincy Adams was appointed ambassador to Russia in 1809 he carried Plu
 
 Earlier, Shakespeare took the plots for _Julius Caesar_, _Antony and Cleopatra,_ _Coriolanus_ and _Timon of Athens_ from his reading of Plutarch. In some cases he lifted passages wholesale from Thomas North's translations. When you are a good enough storyteller to be plagiarised by Shakespeare, you are a very good story teller indeed.
 
-## Who was Plutarch.
+**Who was Plutarch.**
 
 Plutarch was a Greek, born in the 1st century AD, after they had been eclipsed by the Romans. He was born to a good family in an obscure town, and though his admiration for the great statesmen of the past was boundless, he did not have a chance to be one. Instead he wrote about them - a lot. He wrote 48 biographies, referred to as “Lives,” of the exemplary statesmen of Greece and Republican Rome. A handful of these lives are lost, but considering the attrition rates of ancient literature an unusually high number survived the dark ages, a testament to their brilliance.
 
@@ -123,7 +123,7 @@ Gaius stood for election to the tribunate.
 
 Ominously, his temper was not like his brothers. While his brother had been “Calm and unassuming,” Gaius was “lively and intense” and subject to rage. Upon taking office he began bringing forward proposals for reform that were much more radical than his brothers. There would be no compensation for illegal holders of land, the people were to get a grain dole, the power of the senate in the courts was reduced, there was to be better pay for soldiers, and a large road building programme to create jobs. These programmes all inflamed the reactionaries but the move which drew the most ire from his opponents was that when he addressed combined meetings of the senate and the people he turned his back on the senate and addressed the people, something no one had ever done. “By means of this slight change of angle and posture he… shifted the whole constitution from an aristocratic to a democratic basis.” Naturally, the masses loved him. “Even though Gaius did not announce his candidature or express an interest in the position, he was elected tribune for the second time, at the people's insistence.” Such was his popularity that the tactics which had hampered his brother - namely the veto of a co-tribune - could not stop him. His opponents were going to need a different strategy.
 
-## S vs PQR.
+**S vs PQR.**
 
 A novel plan was hatched. Rather than using a fellow tribune to veto Gaius, the senate would use a fellow tribune to out do him in populism. To undermine him, they would give the plebs everything they asked for and more. They set up as tribune a certain Livius, who, under their instruction, was to “Use his position to gratify them [the plebs] and to let them have their way even when the best course would have been to risk incurring their hatred… to propose laws without taking into considerations factors such as right and wrong, or the public good… the only thing he was concerned about was doing more than Gaius to gratify the whims of the masses.”
 
@@ -149,7 +149,7 @@ The Gracchi had been dispatched, but their memory would live long, both with the
 
 > _“The Roman people… cowed and oppressed at the time of the actual events… shortly after showed how much they missed and longed for the Gracchi. They began to erect statues of them and to display them in prominent places: they consecrated the places where they were murdered and used to offer there the first fruits of all the seasonal sacrifices; and many people even sacrificed to the Gracchi on a daily basis, and bowed before their statues as if they were visiting sanctuaries dedicated to the gods.”_
 
-## The Significance of the Gracchi.
+**The Significance of the Gracchi.**
 
 The Republic would never recover from the violence exercised against the Gracchi, or from the missed opportunity for economic reform. In the next century there would be a series of civil wars: Sulla vs Marius, the Bellum Catilinae, Caesar vs Pompey, the Liberators vs The Triumvirate, and finally Marc Antony vs Augustus. Augustus, the first emperor, would end the republic and set out a new system of dictatorship. You can read about all of these lives, except for Augustus, which was politically dangerous to write, in Plutarch.
 

@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T02:41:21.000Z'
 slug: this-is-going-to-hurt
-wordCount: 12500
+wordCount: 12513
 readingTimeMinutes: 56
 source: gdoc
 tags:
   - Memoir
   - Science
 ---
+
+Adversarial Book Review: This is Going To Hurt, by Adam Kay
 
 I
 
@@ -227,10 +229,12 @@ Why could Kay take no more of it? We've considered several reasons, but like any
 
 Here is Kay's entire entry for his first day at a new hospital, August 2006:
 
+>   
 > “_It's Black Wednesday and I have started at St Agatha's. It is an established fact that death rates go up on Black Wednesday. Knowing this really takes the pressure off, so I'm not trying very hard.”_
 
 The footnote underneath explains what he didn't need to say out loud, at least not while writing his diary:
 
+>   
 > _“All junior doctors change hospitals on exactly the same day every six or twelve months, which is known as Black Wednesday. You might think it would be a terrible idea to exchange all your Scrabble tiles in one go and expect the hospital to run exactly as it did the day before, and you'd be quite right.”_
 
 I find this baffling, accustomed as I was to a very different system. Every single trainee in the country changes hospital on the same day. The institutional memory of a ward, on the morning of Black Wednesday, is reset to roughly zero below the consultant level. The death rates do measurably rise. The system has known this for decades and has done essentially nothing about it. The reason it has done essentially nothing is that fixing it would require giving some thought to where doctors live, and would increase the logistical burden. The system has decided, as a matter of structural principle, that this is not its problem.

@@ -7,12 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:40:53.000Z'
 slug: the-history-and-adventures-of-an-atom-by-tobias-smollett
-wordCount: 5990
+wordCount: 6002
 readingTimeMinutes: 27
 source: gdoc
 tags:
   - Fiction
 ---
+
+## The History and Adventures of an Atom (1769) by Tobias Smollett
 
 I find, Gentlemen, when you read with me in private, that nine out of ten of you dislike the 18th century and all its literary works. As for the Women students, they one and all abominate it.
 

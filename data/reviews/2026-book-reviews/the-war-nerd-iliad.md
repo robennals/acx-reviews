@@ -7,14 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T03:03:45.000Z'
 slug: the-war-nerd-iliad
-wordCount: 4500
+wordCount: 4499
 readingTimeMinutes: 20
 source: gdoc
 tags:
   - Fiction
 ---
 
-## Lineages Longer and Purer Than Their Masters’:
+**Lineages Longer and Purer Than Their Masters’:**
 
 **A Review of** _**The War Nerd Iliad**_ **by John Dolan**
 

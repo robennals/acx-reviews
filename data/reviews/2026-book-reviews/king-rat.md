@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T00:09:53.000Z'
 slug: king-rat
-wordCount: 922
+wordCount: 918
 readingTimeMinutes: 5
 source: gdoc
 tags:
@@ -60,7 +60,7 @@ King Rat starts out with a lie:
 
 (insert image Changi)
 
-## On Clavell’s prose:
+**On Clavell’s prose:**
 
  “The sea was angry that day, my friends - like an old man trying to send back soup in a deli. I got about fifty feet out and suddenly, the great beast appeared before me. I tell you, he was ten stories high if he was a foot. As if sensing my presence, he let out a great bellow. I said, "Easy, big fella!" And then, as I watched him struggling, I realized that something was obstructing its breathing. From where I was standing, I could see directly into the eye of the great fish.”
 
@@ -82,7 +82,7 @@ _King Rat_ is a **Crapsack World** story featuring an **Übermensch** protagonis
   
 
 
-## The Setting:
+**The Setting:**  
   
 
 
@@ -120,9 +120,9 @@ When I first started writing this review (20 minutes ago) I thought I would say 
 
 Marlowe
 
-## The Rats:
+**The Rats:**
 
-## Coda:
+**Coda:**  
 
 It is 1980.
 

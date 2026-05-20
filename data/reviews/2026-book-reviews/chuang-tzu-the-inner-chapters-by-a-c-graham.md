@@ -174,8 +174,8 @@ A second, briefer passage in this chapter makes the point in a different registe
 The chapter ends with a passage about the death Old Tan, the only character in the book who has the seniority to talk down to Confucius, and who is later identified with ‘Laozi’, the supposed author of that famous Daoist text.
 
 > ‘When Old Tan died, Ch’in Yi went in to mourn him, wailed three times and came out. “Were you not the Master's friend?”, said a disciple.  
-> “I was”.  
-> “Then is it decent to mourn him like this?”  
+> “I was”.    
+> “Then is it decent to mourn him like this?”    
 > “It is. I used to think of him as the man, but now he is not.”’  
 
 Ch’in Yi scandalises the disciple by failing to mourn the Master fulsomely according to the rites, but in doing so shows he understands the inevitable transformation of life and death, proving an apt student of Old Tan. This foreshadows similar passages in later chapters, including an account of Zhuangzhi mourning his own wife by banging on a pot and singing.

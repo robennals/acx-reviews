@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T02:27:26.000Z'
 slug: a-residence-of-twenty-one-years-in-the-sandwich-islands
-wordCount: 8528
+wordCount: 8526
 readingTimeMinutes: 38
 source: gdoc
 tags:
@@ -236,8 +236,7 @@ Meanwhile, Hiram’s flock of native Hawaiians “diminished at a fearful and la
 
 In 1833-1836, there was a particularly bad epidemic of consumption (tuberculosis):
 
-> “The angel of death stands over the land with a drawn sword. The anger of the Lord has kindled a fire upon the nation which will burn to its entire destruction, unless it be speedily extinguished. With us the present is truly a time of hope and fear. It is also emphatically a time of effort. If the work of destruction is ever arrested here, it must be done soon. According to the present ratio of decrease, it will be but a few years before the pall of death will be spread over the whole land, and these valleys, once full of people, will be solitary. These shores, once teeming with myriads, will either become silent as the house of death, or be peopled with a new race of men.
->
+> “The angel of death stands over the land with a drawn sword. The anger of the Lord has kindled a fire upon the nation which will burn to its entire destruction, unless it be speedily extinguished. With us the present is truly a time of hope and fear. It is also emphatically a time of effort. If the work of destruction is ever arrested here, it must be done soon. According to the present ratio of decrease, it will be but a few years before the pall of death will be spread over the whole land, and these valleys, once full of people, will be solitary. These shores, once teeming with myriads, will either become silent as the house of death, or be peopled with a new race of men.  
 > But we hope better things are in reserve for this people; that these fearful clouds will, ere long, pass away, and the work of destruction cease. But should the consumption determined go through the land in indignation, a remnant will be saved; and we feel more and more that we are to labor for this people as ‘pulling them out of the fire.’”
 
 Against this, the missionaries offered “the only sovereign antidote to this dreadful contagion”. Or in other words, thoughts and prayers. Through his writing, it is clear that Hiram deeply felt the suffering of the Hawaiians, but unfortunately, he could do little to stop it.
@@ -254,8 +253,7 @@ On July 9, 1839, a large ship sailed into Honolulu harbor. It was the French fri
 
 Word had reached France of the persecution of the French priests at the hands of the Hawaiians, and Capt. Laplace was dispatched to set things straight. Upon arriving, he presented a manifesto:
 
-> “I shall make the principal chiefs of these islands understand how fatal the conduct which they pursue towards [France] will be to their interests, and perhaps cause disasters to them and to their country, should they be obstinate in their perseverance.
->
+> “I shall make the principal chiefs of these islands understand how fatal the conduct which they pursue towards [France] will be to their interests, and perhaps cause disasters to them and to their country, should they be obstinate in their perseverance.  
 > Misled by perfidious counsellors; deceived by the excessive indulgence which the French government has extended towards them for several years, they are, undoubtedly, ignorant how potent it is, and that in the world there is not a power which is capable of preventing it from punishing its enemies; otherwise they would have endeavored to merit its favor, or not to incur its displeasure, as they have done in ill-treating the French … to persecute the Catholic religion, to tarnish it with the name of idolatry, and to expel, under this absurd pretext, the French from this archipelago, was to offer an insult to France and to its sovereign.”
 
 Laplace made several demands:

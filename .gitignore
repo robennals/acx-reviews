@@ -63,3 +63,4 @@ next-env.d.ts
 # Cached raw Google Docs HTML exports. Repopulated on demand by fetchGDocAsHTML;
 # also contains author identity (sharing settings, comments, etc).
 .gdoc-cache/
+data/stripped-leading-title.log

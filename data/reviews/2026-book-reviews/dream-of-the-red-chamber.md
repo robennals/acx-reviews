@@ -7,12 +7,18 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:39:13.000Z'
 slug: dream-of-the-red-chamber
-wordCount: 4600
+wordCount: 4636
 readingTimeMinutes: 21
 source: gdoc
 tags:
   - Fiction
 ---
+
+## Dream of the Red Chamber Review
+
+Dream of the Red Chamber: The Woman Who Was Not Allowed to Collapse
+
+My relationship with \*Dream of the Red Chamber\* didn’t begin with the original text.
 
 I first encountered it through the 1987 television adaptation, the long Chinese serialization that many readers of my generation grew up with. Later, in high school, I worked through fragments of the original to satisfy a course requirement, but never read it deeply. Years after that I began listening, on and off, to a long lecture series on the novel by the Taiwanese essayist Chiang Hsun. That was when I first began to enter the book from the inside, rather than circle around it.
 
@@ -94,7 +100,8 @@ The evidence is not in the dramatic set pieces. It’s in the way Cao Xueqin wri
 
 In Chapter Eight, Cao Xueqin gives Baochai her first formal entrance description. The opening lines run through the conventional beauty tropes of a classical Chinese set piece — the kind of stock phrases used for any well-born young woman, individuating nothing. Then the brush turns, and he gives her sixteen characters that do something else entirely:
 
-> _“Sparing of words — others say she conceals her cleverness;_  
+> _“Sparing of words — others say she conceals her cleverness;_
+>
 > _yielding to circumstance — she herself calls it keeping her plainness.”_
 
 Inside these sixteen characters is the book’s verdict on the entire character.
@@ -237,7 +244,8 @@ Early in the novel, in Chapter Five, Baoyu has a dream in which he wanders into 
 
 The shared verse, in David Hawkes’s translation:
 
-> _\*Buried in snow the broken golden hairpin,\*_  
+> _\*Buried in snow the broken golden hairpin,\*_
+>
 > _\*And hanging in the wood the belt of jade.\*_
 
 Both names are encoded inside the prophecy. “Wood” (林, \*lin\*) is Daiyu’s surname — Lin Daiyu, “forest” Daiyu. “Snow” (雪, \*xue\*) is a homophone for Baochai’s surname Xue (薛); “golden hairpin” (钗, \*chai\*) is the character in her given name, Baochai. From the moment they first appear, their endings are already written into their own names.

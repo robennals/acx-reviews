@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T06:52:29.000Z'
 slug: more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby
-wordCount: 16866
+wordCount: 16860
 readingTimeMinutes: 75
 source: gdoc
 tags:
@@ -21,13 +21,13 @@ tags:
 
 <figcaption>
 
-## They’re just trying to hedge their bets.
+**They’re just trying to hedge their bets.**
 
 </figcaption>
 
 </figure>
 
-## I. Whence All This Money?
+**I. Whence All This Money?**
 
 Some people are rich for reasons that are very obvious. Taylor Swift made her money from concert tickets and Spotify downloads. Jeff Bezos got rich delivering octopus head scratchers with two-day shipping. Nancy Pelosi made her money by insider trading, and Jeffrey Epstein by blackmailing pedophiles. Some of these things provide more value to society than others.
 
@@ -77,7 +77,7 @@ The second way hedging can go wrong is much simpler. Note that if the markets ar
 
 <figcaption>
 
-## What’s going to be cleaned out is your bank account when the market turns.
+**What’s going to be cleaned out is your bank account when the market turns.**
 
 </figcaption>
 
@@ -99,7 +99,7 @@ It was only a few years later when the market crashed again. This time, though, 
 
 <figcaption>
 
-## Considering how short she is, you’d think she’d be more afraid of a bull.
+**Considering how short she is, you’d think she’d be more afraid of a bull.**
 
 </figcaption>
 
@@ -235,7 +235,7 @@ This collapse in Indonesia had knock-on effects in South Korea, since they had l
 
 <figcaption>
 
-## 1992 printing of the Indonesian rupiah. There should be a rule that pretty currencies can’t be devalued.
+**1992 printing of the Indonesian rupiah. There should be a rule that pretty currencies can’t be devalued.**
 
 </figcaption>
 
@@ -349,7 +349,7 @@ One of the people working for Simons, Elwyn Berlekamp, cashed out of the fund me
 
 <figcaption>
 
-## Finance and drug dealing: both hobbies that can land you in prison, as Sam Bankman-Fried found out.
+**Finance and drug dealing: both hobbies that can land you in prison, as Sam Bankman-Fried found out.**
 
 </figcaption>
 
@@ -409,9 +409,12 @@ Of course, someone only makes profit on these sorts of trades when someone is lo
 
 I think it’s kind of funny how when these banks start running out of money, they get to hit up the government like I would hit up my cousin:
 
-> _“Hey, could you spot me a hundred?”_  
-> _“A hundred bucks? Sure, I guess.”_  
-> _“No, a hundred million.”_  
+> _“Hey, could you spot me a hundred?”_
+>
+> _“A hundred bucks? Sure, I guess.”_
+>
+> _“No, a hundred million.”_
+>
 > _“Uh…”_
 
 At least it makes a certain kind of sense for the US government to look after US banks. For Russia, George Soros was the cousin…
@@ -446,7 +449,7 @@ Though the Fed let Bear Stearns and Lehman fail, Mallaby believes this was a mis
 
 One such struggling hedge fund that received no help was Citadel. It had leveraged itself ten times and was having problems (though this was not as bad as the thirty times the banks had leveraged themselves). Ultimately, though, while Citadel was down a staggering 55%, or $9 billion, at the end of the year, it did not go bankrupt, nor have to sell to another company, nor get any kind of bail out or assistance from the government. Despite all its losses, it never even faced margin calls, because it had very cleverly and cautiously matched its long-term assets with long-term borrowing, and short-term assets with short-term borrowing. Mallaby attributes the fact it was able to do this to its very competent back office.
 
-## VIII. Are Hedge Funds Net-Positive?
+**VIII. Are Hedge Funds Net-Positive?**
 
 Do hedge funds need more regulation? By this point, it will be obvious to any reader that Mallaby thinks the answer is a resounding “No.” Perhaps, he allows, hedge funds would need more regulation if they were acting worse than the other players in the market – if they were committing more fraud, taking greater risks, or costing the taxpayer more money in bailouts. But hedge funds are not doing any of this (true, they commit the occasional fraud or collusion, but banks are just as bad so that hardly counts). Hedge funds have more incentive to manage their risk than investment banks, and never need or get bailouts, unlike the careless investment banks that are always opening their little baby bird beaks up for more taxpayer-funded capital infusions and Fed backstops.
 
@@ -466,7 +469,7 @@ Of course, Mallaby did not know about these events back in 2010 when his book wa
 
 <figcaption>
 
-## Stegosaurus fossil Griffin bought in 2024 for $44.6 million. Now I’m just waiting on the live-dinosaur theme park.
+**Stegosaurus fossil Griffin bought in 2024 for $44.6 million. Now I’m just waiting on the live-dinosaur theme park.**
 
 </figcaption>
 
@@ -484,7 +487,7 @@ Personally, I don’t share Mallaby’s negative stance on regulation – certai
 
 <figcaption>
 
-## New paradox: Can an omniscient and omnipotent God create more money than hedge funds can make trading?
+**New paradox: Can an omniscient and omnipotent God create more money than hedge funds can make trading?**
 
 </figcaption>
 

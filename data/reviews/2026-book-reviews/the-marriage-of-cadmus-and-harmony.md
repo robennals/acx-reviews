@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T06:32:54.000Z'
 slug: the-marriage-of-cadmus-and-harmony
-wordCount: 8807
+wordCount: 8816
 readingTimeMinutes: 40
 source: gdoc
 tags:
   - History
   - Religion
 ---
+
+The Magic of ‘The Marriage of Cadmus and Harmony’
 
 # Introduction
 

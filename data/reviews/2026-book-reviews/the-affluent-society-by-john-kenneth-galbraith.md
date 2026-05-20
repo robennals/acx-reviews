@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-14T18:39:27.000Z'
 slug: the-affluent-society-by-john-kenneth-galbraith
-wordCount: 5821
+wordCount: 5840
 readingTimeMinutes: 26
 source: gdoc
 tags:
   - Economics
   - Society
 ---
+
+In the introduction to the 40th anniversary edition of _The Affluent Society_, John Kenneth Galbraith offers a mea culpa.
 
 “On two matters this book was right, and before its time. On one, time and economic changes have shown it to be wrong. I begin with the error.
 

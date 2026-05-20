@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T15:24:20.000Z'
 slug: ghosts
-wordCount: 5241
+wordCount: 5240
 readingTimeMinutes: 24
 source: gdoc
 tags:
@@ -64,7 +64,7 @@ The third hint is in the subtitle to the play as such: “A Family Drama In Thre
 
 How about Regine’s mother? Was she also smitten? Consulting the timeline in the play, Helen ran away to pastor Manders after one year of marriage. Oswald was born the next year. Even though Helen returned, she probably stopped having sex with her husband (explaining why she is healthy.) Regine’s mother became the household maid when Oswald was four years old. She served for three years, and was pregnant with Regine (and made to leave) when Oswald was seven years old.  Since Helen states that Oswald was so young when he was forced to smoke his father’s ”pipe” that he was unlikely to remember anything from it, this must have happened before he was seven years old. Implying that Captain Alving was highly likely syphilitic when he seduced Regine’s mother.  We do not know if she caught the disease, but like Captain Alving she is already dead when the play begins, perhaps suggesting her life has been cut short by a serious disease.
 
-## Why did Captain Alving rape Oswald, perhaps deliberately infecting him with syphilis?
+**Why did Captain Alving rape Oswald, perhaps deliberately infecting him with syphilis?**
 
 Why would anyone rape their own child? The answer lies in the final hint Ibsen has put into the play: That Captain Alving is not Oswald’s biological father. Oswald is instead the lovechild of a short affair between his mother and Reverend (pastor) Manders, the highly moral pillar of community in the play. This happened when Helen Alving escaped to Manders in the past, during a crisis in her marriage (referred above in setting-the-stage).
 

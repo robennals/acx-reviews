@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T05:06:25.000Z'
 slug: kristin-lavransdatter
-wordCount: 9807
+wordCount: 9788
 readingTimeMinutes: 44
 source: gdoc
 tags:
@@ -100,8 +100,7 @@ Too many secondary and tertiary characters to name here, so let’s get to the p
 
 The daughter of a well-loved and respected landholding couple, Kristin’s childhood is rustic but well-off, marked by great affection from Lavrans, praise by all in the countryside, and a cool relationship with her hardworking and dutiful mother. An early adventure in her childhood consists of riding on her father’s great stallion into the high mountains that surround their valley community, where she is doted on by farmers’ wives, and sees how noble her father is in their eyes. While in the mountains, she sees what is described as a dwarf or elf maiden:
 
-> _But all at once she was aware of a face amid the leaves - there stood a lady, pale, with waving, flaxen hair - the great, light-grey eyes and wide, pink nostrils were like Guldveinen’s. She was clad in something light, leaf-green, and branches and twigs hid her up to the broad breasts, which were covered over with brooches and sparkling chains._
->
+> _But all at once she was aware of a face amid the leaves - there stood a lady, pale, with waving, flaxen hair - the great, light-grey eyes and wide, pink nostrils were like Guldveinen’s. She was clad in something light, leaf-green, and branches and twigs hid her up to the broad breasts, which were covered over with brooches and sparkling chains._  
 > _The little girl gazed upon the figure, and as she gazed the lady raised a hand and showed her a wreath of golden flowers - she beckoned with it._
 
 Kristin’s Norway is Christianized, but constant tension persists between pagan practices and Christian ones, and the border between the two is not always clear. Elves, dwarves, and trolls are held to play a role in their world, especially in rural communities. Plenty of characters view the stories as mere superstition, still others view pagan observances as witchcraft or worse, but the legends and practices persist through a mix of tradition and earnest belief. This is a culture in transition.
@@ -144,8 +143,7 @@ In spite of learning these things herself, Kristin is fully committed, and is ov
 
 Kristin engages in an emotional scorched earth campaign at home because her father will not consent. This leads to one of my all-time favorite ‘dad’ scenes in fiction:
 
-> _“Father,” said Kristin, “have you been so free from sin all your life, that you can judge Erlend so hardly - ?”_
->
+> _“Father,” said Kristin, “have you been so free from sin all your life, that you can judge Erlend so hardly - ?”_  
 > _“God knows,” said Lavrans sternly, “I judge no man to be a greater sinner before Him than I am myself. But ‘tis not just reckoning that I should give away my daughter to any man that pleases to ask for her, only because we all need God’s forgiveness.”_
 
 Absolute peak dad line. I need to store this one up for some later use. Lavrans’ deep understanding of Christian forgiveness is married to a practical recognition of the costs of misdeeds – not just to an individual, but to the whole community.
@@ -254,12 +252,9 @@ The second volume also ends quietly, and it is clear as ever that the three volu
 
 Book three highlights the challenges of raising a brood of growing boys with fewer material comforts, and Ragnfrid’s tendencies begin to reveal themselves in Kristin’s parenting:
 
-> _The two little lads had come to her side; they made haste to do as their mother did, kicking the pine root with all their might, and then asking eagerly:_
->
-> _“Why did you so, mother?”_
->
-> _Kristin sat down, laid the Aaron’s-rods in her lap, and began to strip off the full-blown blossoms into her basket._
->
+> _The two little lads had come to her side; they made haste to do as their mother did, kicking the pine root with all their might, and then asking eagerly:_  
+> _“Why did you so, mother?”_  
+> _Kristin sat down, laid the Aaron’s-rods in her lap, and began to strip off the full-blown blossoms into her basket._  
 > _“ ‘Twas that my shoe pinched me on the toes,” she answered, so long after that the boys minded not that they had asked. But they gave little heed to this - they were so used to have their mother seem not to hear when they spoke to her, or wake up and answer when they had forgot what ‘twas they had asked._
 
 She spends more time with the boys, and away from her husband, of her own volition, busying herself with the endless tasks of a medieval farm. She retreats to a mountain saeter for a season, unable to bear seeing her husband so feckless in this context. While at Husaby, his martial prowess supported a lavish life, in spite of his general carelessness for stewardship. But he is proud and set in his ways, and will not adapt himself to their new station.
@@ -276,36 +271,25 @@ Early in book three, Simon and Ramborg’s young and only son falls ill. Kristin
 
 As the boy worsens, She proposes a pagan practice (presumably learned from Aashild) to spare the child’s life. Simon does not stop her, and Undset’s powerful prose roars to life:
 
-> _She knew - had it been for one of her own children’s lives, she had never dared to try this last shift of all. Turn God’s hand aside, when He had stretched it forth to take a living soul! As she sat over her own sick little ones, when she was young and her heart bled with tenderness, she had tried to say, when ready to sink with dread and anguish: Lord, Thou lovest them better than I - thy will be done -_
->
-> _Yet now went she here this night defying her own terror - This child which was not hers - this child she would save, whatsoever she might save it for -_
->
-> _For you, too, Simon Darre, when the dearest thing you owned on earth was the stake, took at my hands more than a man may take with honour unabated…_
->
-> _But she had swooped down upon that single hour when she found him at the breaking point - had seized the chance that moment gave her and gone her way. This secret now she would share with him - that he knew she too had seen him in an hour when he stood not firm on his feet -_
->
-> _For he had come to know her too nearly. At the hands of the man she had thrown off she had taken help each time there was need, to save the man of her choice. The lover she had cast aside was the man she had turned to, each time she stood in need of a shield for her love. And she had never besought Simon in vain - time after time had he stepped forth to screen her with his kindness and his strength…_
->
+> _She knew - had it been for one of her own children’s lives, she had never dared to try this last shift of all. Turn God’s hand aside, when He had stretched it forth to take a living soul! As she sat over her own sick little ones, when she was young and her heart bled with tenderness, she had tried to say, when ready to sink with dread and anguish: Lord, Thou lovest them better than I - thy will be done -_  
+> _Yet now went she here this night defying her own terror - This child which was not hers - this child she would save, whatsoever she might save it for -_  
+> _For you, too, Simon Darre, when the dearest thing you owned on earth was the stake, took at my hands more than a man may take with honour unabated…_  
+> _But she had swooped down upon that single hour when she found him at the breaking point - had seized the chance that moment gave her and gone her way. This secret now she would share with him - that he knew she too had seen him in an hour when he stood not firm on his feet -_  
+> _For he had come to know her too nearly. At the hands of the man she had thrown off she had taken help each time there was need, to save the man of her choice. The lover she had cast aside was the man she had turned to, each time she stood in need of a shield for her love. And she had never besought Simon in vain - time after time had he stepped forth to screen her with his kindness and his strength…_  
 > _… she knew not what - was it revenge? - revenge for that she had been forced to see he was worthier than they two -?”_
 
 She completes the ritual, and the boy survives, but the events come one after the other, like clouds in the wind. After Simon kills a man in a flurry of passion (largely due to the deceased Lavrans’ honor being called into question), Erlend rescues him from a mob. Emotions run high, and get the best of Simon yet again:
 
-> _“ - I am not so high-minded as you deem, Erlend - I am not so high-minded as you - I - I bear a grudge to the man whom I have wronged -”_
->
-> _His cheeks palely flecked with passion, he stared into the other’s eyes. Erlend had listened to him with mouth half open._
->
-> _“This I had never dreamed on till this hour! Do you hate me, Simon?” he whispered, astounded…_
->
-> _“I cannot bear to meet you any more!”_
->
-> _“Man - ‘Tis twenty years agone,” Erlend burst out, in amaze._
->
+> _“ - I am not so high-minded as you deem, Erlend - I am not so high-minded as you - I - I bear a grudge to the man whom I have wronged -”_  
+> _His cheeks palely flecked with passion, he stared into the other’s eyes. Erlend had listened to him with mouth half open._  
+> _“This I had never dreamed on till this hour! Do you hate me, Simon?” he whispered, astounded…_  
+> _“I cannot bear to meet you any more!”_  
+> _“Man - ‘Tis twenty years agone,” Erlend burst out, in amaze._  
 > _“Ay. Deem you not that she is worth remembering for twenty years?”_
 
 Kristin and Erlend’s relationship continues to deteriorate, even as she takes up again the labor of providing and maintaining her family’s estate. Undset’s description of aging comes to the fore with Kristin:
 
-> _Now each day’s toil took away something of what was left of the comeliness that had marked her out as a daughter and wife and mother of men of noble blood - the narrow white hands; the soft fair-skinned arms; the clear and tender hue of face that she had shielded from the sun so heedfully with a kerchief, and tended with cunningly brewed washes. Long ere now she had grown careless whether the sun beat straight upon her sweat-stained face and burnt it brown as any poor peasant wife’s._
->
+> _Now each day’s toil took away something of what was left of the comeliness that had marked her out as a daughter and wife and mother of men of noble blood - the narrow white hands; the soft fair-skinned arms; the clear and tender hue of face that she had shielded from the sun so heedfully with a kerchief, and tended with cunningly brewed washes. Long ere now she had grown careless whether the sun beat straight upon her sweat-stained face and burnt it brown as any poor peasant wife’s._  
 > _Her hair was all that was left to her of her maiden beauty. ‘Twas thick and brown as ever, seldom though she found time to wash and tend it. The heavy, tangled plait that hung down her back had not been undone these three days._
 
 The sons begin to thrive or struggle in their own way on her parent’s estate. None but one take readily to a farming lifestyle (the one who ultimately will inherit the estate) but the various stages of their parents’ relationship are reflected in the traits of the sons.
@@ -348,10 +332,8 @@ Riding in on his great black charger, a now-silver-haired mirror of his youthful
 
 After Erlend’s death, Kristin lives with her children and young men on the farm, watching them die or leave one by one, until only a single son is left who will inherit the land. He marries a beautiful, willful young woman named Jofrid. While Jofrid is proud to call Kristin mother-in-law, and she has a place of honor in the home, it soon becomes clear Kristin and Jofrid cannot both rule, and as long as Kristin resides there will be opportunity for strife. Retracing the pilgrimage steps she took as a young bride and mother, Kristin departs her childhood home to begin life in a convent - a path she considered as a youth.
 
-> _The country-side seemed to lay itself to rest under the flooding white sunshine. Since dewy dawn the song of the scythes in the flowery meadows, the ring of whestones on iron, and voices calling, had sounded from the farms far and near. Now all sounds of toil were hushed; the midday rest sank of all. Kristin sat on the stone heap, listening. Only the rush of the river could be heard now, and the faint rustling of the leaves in the grove; the thin buzz and muted hum of flies and gnats above the meadow; the clink of a lonely cow-bell somewhere far away. A bird winged its way, swift and silent, along the edge of the alder thicket; a bird rose from the meadow tussocks and flew with a shrill twitter to light on a thistle-stalk._
->
-> _But the drifting blue shadows along the hills-die, the fair weather clouds that piled up over the edge of the fells and melted in the blue summer sky, the glitter of the Laagen’s water between the tree-trunks, the white gleam of the sunlight on all the leaf-trees - these things she was ware of as the voice of the stillness heard by an inner ear, rather than as seen by the eye. With her coif drawn over her brow to ward off the sun, Kristin sat listening to the play of light and of shadows over the Dale._
->
+> _The country-side seemed to lay itself to rest under the flooding white sunshine. Since dewy dawn the song of the scythes in the flowery meadows, the ring of whestones on iron, and voices calling, had sounded from the farms far and near. Now all sounds of toil were hushed; the midday rest sank of all. Kristin sat on the stone heap, listening. Only the rush of the river could be heard now, and the faint rustling of the leaves in the grove; the thin buzz and muted hum of flies and gnats above the meadow; the clink of a lonely cow-bell somewhere far away. A bird winged its way, swift and silent, along the edge of the alder thicket; a bird rose from the meadow tussocks and flew with a shrill twitter to light on a thistle-stalk._  
+> _But the drifting blue shadows along the hills-die, the fair weather clouds that piled up over the edge of the fells and melted in the blue summer sky, the glitter of the Laagen’s water between the tree-trunks, the white gleam of the sunlight on all the leaf-trees - these things she was ware of as the voice of the stillness heard by an inner ear, rather than as seen by the eye. With her coif drawn over her brow to ward off the sun, Kristin sat listening to the play of light and of shadows over the Dale._  
 > _All fires burn out at last -_
 
 While at the convent, the plague comes to Norway. Without knowing which sons are spared, Kristin makes a great act of sacrificial love at the end of her life.
@@ -362,7 +344,7 @@ It is not a spoiler to say the main character dies at the end of a story about t
 
 - - - - -
 
-## Why read Kristin Lavransdatter?
+**Why read Kristin Lavransdatter?**
 
 This is a (semi-brief) surface description of a very long story, and it risks undercutting how moving Undset’s work is, by sounding melodramatic-via-reduction. A lesser author would hit these same plot beats with flat characters for a salacious, page-turning, period soap opera. Though Undset is steeped in Norse saga and medieval chivalric romances, and knows exactly how to deploy what we might call a ‘trope,’ she treats the real historical setting as a world to be taken seriously - neither idealized nor set up to fail. She describes real, earnest people in a challenging, beautiful, sophisticated environment.
 

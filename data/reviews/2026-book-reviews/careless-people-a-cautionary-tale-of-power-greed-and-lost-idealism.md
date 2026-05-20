@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-19T05:50:01.000Z'
 slug: careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism
-wordCount: 6269
+wordCount: 6271
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -40,8 +40,7 @@ But I think Wynn-Williams subtly misdiagnoses the moral of her own life’s stor
 
 This is a review of not only _Careless People_, but also “Careless People”, a noun phrase that uses a less-than-perfect choice of adjective, despite the powerful connotations it evokes with its reference.
 
-> They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness, or whatever it was that kept them together, and let other people clean up the mess they had made.
->
+> They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness, or whatever it was that kept them together, and let other people clean up the mess they had made.  
 > — _[The Great Gatsby](https://www.gutenberg.org/ebooks/64317)_
 
 The comparison between Meta’s CEO and Fitzgerald’s characters is apt, yet falls short in a way that should cause concern.
@@ -94,6 +93,7 @@ Like when describes an incident she experienced when she was 13, notable enough 
 
 The next morning, after her parents finally recognize the danger and take her back to the doctor, things take a turn for even darker:
 
+>   
 > Next thing I know, the doctor comes back. Gets out a very large blade like a mini ax and starts thwacking it down, carving into my left arm. Then my right arm. It’s like I’m a piece of meat being hacked open. No anesthesia. No warning. And I’m beyond the point where I have any control over my own body. I can’t move or speak. I can’t raise any alarm.
 >
 > I’d thought the shark attack was more pain than a person can bear, the worst that could happen. I was wrong.
@@ -114,6 +114,7 @@ But on the other hand, Wynn-Williams never seems to fully reckon with it—at le
 
 This is true, as Wynn-Williams writes:
 
+>   
 > My mother leans over me, looks into my eyes, and says, “Aren’t you lucky the doctors saved you?”
 >
 > I can’t talk because I’m on life support and a ventilator is helping me breathe. So I gesture for a pen and paper. I make eye contact with her to be sure she’s watching, and write slowly and deliberately, drawing a thick black line under each word for emphasis:
@@ -198,6 +199,7 @@ Or rather to always prioritize _her_.
 
 Which again, might be expected of the rich and powerful. But what I’d never expected was the following account:
 
+>   
 > We’re an hour out of Zurich when Sheryl emerges back into the cabin in her pajamas.
 >
 > “What are you doing? I’m going to bed.” As if it isn’t obvious that we’re preparing all the emails that’ll go out under her name.

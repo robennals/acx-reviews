@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T04:25:57.000Z'
 slug: the-short-swift-time-of-gods-on-earth
-wordCount: 10080
+wordCount: 10057
 readingTimeMinutes: 45
 source: gdoc
 tags:
@@ -41,8 +41,7 @@ The Sierra Club’s cover story in 2022 [described](https://www.sierraclub.org/s
 
 There are [many](https://www.researchgate.net/publication/309656118_Bird_on_Fire_Lessons_from_the_World's_Least_Sustainable_City) [more](https://www.hcn.org/issues/issue-344/phoenix-falling/) [invocations](https://archive.org/details/deadpoollakepowe00powe/page/32/mode/2up) of the Hohokam; I’ll quote just one more here to drive home the point. The ur-text of writing on the water crisis in the west, the book that all others cite as their inspiration, is the 1985 book _Cadillac Desert._ The chapter that discusses the Central Arizona Project begins this way:
 
-> The original 400,000 Arizonans were, for the most part, members of the Hohokam culture, a civilization that thrived uninterrupted near the confluence of the Gila, Salt, and Verde rivers for at least a thousand years, until about 1400, when it disappeared. The Hohokam, by A.D. 800, had already established a civilization that rivaled the Aztec, Inca, and Maya further south. They lived in small cities; the ruins of one of them, Pueblo Grande, occupied a large piece of land just about where downtown Phoenix is today. Superb flint and stone masons and excellent potters, they also worked beautifully with shells; they may have traded with people living on the Mexican coasts. For sport, they built enclosed ball courts very much like those of the Maya, who probably gave them the idea. When it came to irrigation, however, the Hohokam were in a league by themselves.
->
+> The original 400,000 Arizonans were, for the most part, members of the Hohokam culture, a civilization that thrived uninterrupted near the confluence of the Gila, Salt, and Verde rivers for at least a thousand years, until about 1400, when it disappeared. The Hohokam, by A.D. 800, had already established a civilization that rivaled the Aztec, Inca, and Maya further south. They lived in small cities; the ruins of one of them, Pueblo Grande, occupied a large piece of land just about where downtown Phoenix is today. Superb flint and stone masons and excellent potters, they also worked beautifully with shells; they may have traded with people living on the Mexican coasts. For sport, they built enclosed ball courts very much like those of the Maya, who probably gave them the idea. When it came to irrigation, however, the Hohokam were in a league by themselves.  
 > They were more populous than any culture around. Why then should they disappear? Drought remains a possibility — perhaps a twenty-year drought the likes of which they had never seen — but an equally plausible explanation is that they irrigated too much and waterlogged the land, leading to intractable problems with salt buildup in the soil, which would have poisoned the crops. In either case, the mysterious disappearance of Hohokam civilization seems linked to water: they either had too little or used too much. And that is the exactly the problem that Arizona faces today.
 
 It’s easy to see why the Hohokam story is used as a hook. It’s too good not to use. A people settle by the confluence of the Salt and Gila rivers and build a great civilization until the changing climate or their overuse of water forces them to leave. The writers of all these pieces start by saying the disappearance of the Hohokam is a mystery, but then make it clear that the answer to this mystery is the same as whatever they believe to be the biggest problem with modern-day Phoenix: climate change, irrigation overuse, poisoned crops, social conflict, etc.
@@ -73,10 +72,8 @@ So let’s meet our storytellers.
 
 By far the largest source in the book is a narrative told to the archaeologist Julian Hayden in 1935 by two O’odham: Juan Smith and William Allison. Bahr refers to this source as “Smith-Allison” and I’ll do the same. Bahr includes in his introduction a letter he received from Hayden, explaining how the story was told:
 
-> As part of a planned extensive study of the Hohokam remains of Southern Arizona, Gila Pueblo had commenced study and excavation of a very large prehistoric Hohokam site on the north terrace of the Gila River roughly south of Chandler, Arizona. There were a number of large rubbish mounds at the site, evidences of canals, and ball courts — and many rattlesnakes. In fact, the site, and the Pima village near it, was known as Snaketown. So, in the fall of 1934, a tent camp was set up at the site, and a crew of archaeologists was employed, with a number of Pima Indians from the neighborhood as laborers. My father and I, both experienced Hohokam fieldworkers, were part of the crew.
->
-> There was, of course, much interest among us all in the Pima stories about the prehistoric folk…Later we heard of Juan Smith who was reputed to be the last Pima with extensive knowledge of the Pima version of the Creation story…Hoping to preserve the myth from loss upon Juan’s death, I initiated an effort to record it. I suggested to my Pima friends, who were as interested as I, that Juan be persuaded to tell the tale through an interpreter while I transcribed it verbatim through as many nights as it might take to tell. William Allison Smith, foreman of the digging crew, volunteered to serve as interpreter, being also interested. He was literate, spoke good English, and was a deacon in the Presbyterian church of the Snaketown area. This latter has an effect on his translation, of course, since he turned to familiar biblical language, King James Version, when faced with problems of interpretation, such as obsolete or foreign words.
->
+> As part of a planned extensive study of the Hohokam remains of Southern Arizona, Gila Pueblo had commenced study and excavation of a very large prehistoric Hohokam site on the north terrace of the Gila River roughly south of Chandler, Arizona. There were a number of large rubbish mounds at the site, evidences of canals, and ball courts — and many rattlesnakes. In fact, the site, and the Pima village near it, was known as Snaketown. So, in the fall of 1934, a tent camp was set up at the site, and a crew of archaeologists was employed, with a number of Pima Indians from the neighborhood as laborers. My father and I, both experienced Hohokam fieldworkers, were part of the crew.  
+> There was, of course, much interest among us all in the Pima stories about the prehistoric folk…Later we heard of Juan Smith who was reputed to be the last Pima with extensive knowledge of the Pima version of the Creation story…Hoping to preserve the myth from loss upon Juan’s death, I initiated an effort to record it. I suggested to my Pima friends, who were as interested as I, that Juan be persuaded to tell the tale through an interpreter while I transcribed it verbatim through as many nights as it might take to tell. William Allison Smith, foreman of the digging crew, volunteered to serve as interpreter, being also interested. He was literate, spoke good English, and was a deacon in the Presbyterian church of the Snaketown area. This latter has an effect on his translation, of course, since he turned to familiar biblical language, King James Version, when faced with problems of interpretation, such as obsolete or foreign words.  
 > Juan agreed to save time by singing the songs once instead of the traditional four times; he hesitated on this count because diverging from the tradition might bring harm to us or him, but he relented.
 
 Allison, the translator, was well known and well respected among the Gila River community; the archaeologists kept in touch with him until he died in 1948. Nobody knew what happened to Smith, the last man alive who knew the Hohokam story. All Bahr could find out about Juan Smith is captured in three sentences:
@@ -105,35 +102,27 @@ The prose is in third-person. It is more fluid, more prone to drift over the cen
 
 As an example of how this works in practice, here’s how Smith tells the story of the first irrigation canals. The picture we should have here is of Smith speaking the prose that only he knows, then having others join in for the songs that they all know. After each sentence or song, William Allison would translate into English and occasionally add his own comments, and the archaeologists would transcribe Allison’s translation.
 
-> The people saw that the rain wasn’t coming down often as it used to, so they gathered to plan how they would make canals to irrigate their crops. They finally decided they would make a canal right below “Suik”[13]. They dug with pointed sticks and used their hands to throw out the dirt. Being of one mind, they thought they would complete this work, but when they completed it and tried to make water run in it, the water wouldn’t run. Seeing this, they got one of the medicine men and asked him to draw water in the canal. He went down and walked there, singing:
->
+> The people saw that the rain wasn’t coming down often as it used to, so they gathered to plan how they would make canals to irrigate their crops. They finally decided they would make a canal right below “Suik”[13]. They dug with pointed sticks and used their hands to throw out the dirt. Being of one mind, they thought they would complete this work, but when they completed it and tried to make water run in it, the water wouldn’t run. Seeing this, they got one of the medicine men and asked him to draw water in the canal. He went down and walked there, singing:  
 > _There lie the ditches_  
 > _And among them_  
 > _I am walking._  
 > _And among them I am breathing,_  
-> _Leading the water._
->
-> The water acted like it was going but didn’t go. This medicine man couldn’t do it. So they got another medicine man, and he went down and stood in the canal and sang:
->
+> _Leading the water._  
+> The water acted like it was going but didn’t go. This medicine man couldn’t do it. So they got another medicine man, and he went down and stood in the canal and sang:  
 > _There lie the ditches_  
 > _And I stood in the midst,_  
 > _I’m making the winds blow (dust devils)_  
-> _I’m making the water go._
->
-> The water acted like it was going, but it stopped and turned back to where it started from. This man couldn’t do it. So they got another medicine man and told him to try. He sang:
->
+> _I’m making the water go._  
+> The water acted like it was going, but it stopped and turned back to where it started from. This man couldn’t do it. So they got another medicine man and told him to try. He sang:  
 > _By the side of a river_  
 > _There lies a canal_  
 > _In that canal_  
-> _The water is making signs of pretty decoration._
->
-> This man made the water go, but not enough. They got another medicine man and told him to put some more water in the canal. He went down and stood in the canal and sang:
->
+> _The water is making signs of pretty decoration._  
+> This man made the water go, but not enough. They got another medicine man and told him to put some more water in the canal. He went down and stood in the canal and sang:  
 > _There lie the canals_  
 > _And in the midst of those_  
 > _I stand_  
-> _Making water-hair snakes._
->
+> _Making water-hair snakes._  
 > The water flowed some more, and they had plenty of water in the canal. From there on, the people learned to build canals in order to irrigate their farms.
 
 Most of the other six sources include the songs as well. The Densmore accounts are heavier on song (which makes sense, given that they are recorded by a musicologist). The Thin Leather accounts are heavier on prose, and omit most of the songs entirely.
@@ -189,8 +178,7 @@ Anyway. While the earth rages and floods, Siuuhu hides underground, taking some 
 
 The flood now retreated, Siuuhu re-emerges. The only two creatures alive on the earth are Siuuhu and Coyote. They start over. Coyote creates the animals, and Siuuhu creates the people. First he makes the Apaches, the great enemies of the O’odham. He makes a few other people groups and gives them each their language and their culture. Then he makes the Hohokam and gives them the two essentials for life: corn and tobacco. Shenanigans ensue when Corn and Tobacco get mad at each other and leave the Hohokam. While in his exile, Corn falls in love with a girl, and he eventually comes back with his new girlfriend. But then we have another sin:
 
-> The girl stayed with the corn man four days. When the fourth day was up, the baby was born. It was the child of corn man and was a girl. When Siuuhu saw this, he didn’t like it. The baby was taken care of for four days. Then the girl picked it up in her arms, to take it someplace. On the way, somehow she dropped it and the baby died. It was Siuuhu’s scheme that this should happen. This was the first time the people saw death…
->
+> The girl stayed with the corn man four days. When the fourth day was up, the baby was born. It was the child of corn man and was a girl. When Siuuhu saw this, he didn’t like it. The baby was taken care of for four days. Then the girl picked it up in her arms, to take it someplace. On the way, somehow she dropped it and the baby died. It was Siuuhu’s scheme that this should happen. This was the first time the people saw death…  
 > Then Siuuhu made four commandments by which people should unite in marriage — not like corn did. The four commandments are that the father of the girl and mother of the girl should agree, and the mother of the boy and father of the boy should agree, which makes four commandments by which they should be married.
 
 And thus we have the origins of agriculture, death, and marriage.
@@ -209,26 +197,20 @@ The final section is the collapse. Unsurprisingly, it stars Siuuhu. Siuuhu commi
 
 From Juan Smith aka Skunk:
 
-> The medicine men thought that they understood more than Siuuhu, and the people were mad at him. They asked Siuuhu questions, “What is God?” and “Who were God’s father and mother?” Siuuhu answered, “When you put the corn seed in the ground, nobody knows where it gets its life and how it comes out from the ground. Only God, and nobody else, knows this. That’s why there is a rule that nobody can find out where God came from.”
->
-> Siuuhu told the people that God was the father of the heavens and earth. Then the people said, “Why did you kill the corn baby?” Siuuhu answered that it is God’s duty to do his own will, whatever is right. Then the people asked, “Why do you make all of the weeds among the good things in our fields, weeds that are not good to eat?” Siuuhu answered that one reason why these weeds were made is because people had done a great wrong.
->
-> Then the people asked, “Why did you make the good fruit on the saguaro and make it into a strong drink which makes the people drunk and they make pleasure of it?” Siuuhu said, “The reason these things happen is because, when a man has a little son, who doesn’t have any sense, who is about to fall into the fire, it is the father’s duty to grab the son and drag him from the fire so he won’t get hurt.”
->
+> The medicine men thought that they understood more than Siuuhu, and the people were mad at him. They asked Siuuhu questions, “What is God?” and “Who were God’s father and mother?” Siuuhu answered, “When you put the corn seed in the ground, nobody knows where it gets its life and how it comes out from the ground. Only God, and nobody else, knows this. That’s why there is a rule that nobody can find out where God came from.”  
+> Siuuhu told the people that God was the father of the heavens and earth. Then the people said, “Why did you kill the corn baby?” Siuuhu answered that it is God’s duty to do his own will, whatever is right. Then the people asked, “Why do you make all of the weeds among the good things in our fields, weeds that are not good to eat?” Siuuhu answered that one reason why these weeds were made is because people had done a great wrong.  
+> Then the people asked, “Why did you make the good fruit on the saguaro and make it into a strong drink which makes the people drunk and they make pleasure of it?” Siuuhu said, “The reason these things happen is because, when a man has a little son, who doesn’t have any sense, who is about to fall into the fire, it is the father’s duty to grab the son and drag him from the fire so he won’t get hurt.”  
 > The people argued with Siuuhu for four days, asking him all these questions. Then they left him. They held meetings by themselves to plan how they would kill him.
 
 From Thin Leather:
 
-> Siuuhu lived in the Salt River Mountain, and whenever the girls had ceremonial dances because of their arrival at womanhood, he would come and sing the appropriate songs. And it often happened that he would tempt these young girls away to his mountain, to be his wives, but after keeping them a while he would grow tired of them and send them back.
->
+> Siuuhu lived in the Salt River Mountain, and whenever the girls had ceremonial dances because of their arrival at womanhood, he would come and sing the appropriate songs. And it often happened that he would tempt these young girls away to his mountain, to be his wives, but after keeping them a while he would grow tired of them and send them back.  
 > The people disliked Siuuhu because of this. And when they had crops, too, Siuuhu would often shoot hot arrows through the fields and wither up the growing things; and though the people did not see him do this, they knew he was guilty, and they wanted to kill him.
 
 From Juan Dolores:
 
-> Siwani was a very important person, and people would always listen to him and believe him. He had many friends, and they were always doing different things with him. When Siwani wanted something, he would tell his friends, “Let’s do this,” and they would have to do what Siwani wanted.
->
-> Siwani had a daughter, and when she reached puberty, Siuuhu found out and was going to come and sing. But Siwani got angry and told his friends, “Wait for me until I am ready, and we will go have a puberty celebration.” But they started the celebration without him, over by a big pond. People came from every direction and were there with Siuuhu.
->
+> Siwani was a very important person, and people would always listen to him and believe him. He had many friends, and they were always doing different things with him. When Siwani wanted something, he would tell his friends, “Let’s do this,” and they would have to do what Siwani wanted.  
+> Siwani had a daughter, and when she reached puberty, Siuuhu found out and was going to come and sing. But Siwani got angry and told his friends, “Wait for me until I am ready, and we will go have a puberty celebration.” But they started the celebration without him, over by a big pond. People came from every direction and were there with Siuuhu.  
 > In the middle of the night, Siwani came with his friends. Before long, Siwani argued with Siuuhu, saying “You aren’t good for anything. You always go about peoples’ homes looking for food, but from now on people will not be troubled by you.” Siuuhu said, “I go everywhere singing because now I am going to die and I will not be here any more. And when people remember me they will sing as I sing now.” Siwani said, “You have already covered the earth with your songs. Now it’s good if we stop being troubled with you.” When he had said this he took out his club and struck Siuuhu and knocked him down.
 
 These are…different. Depending on who you ask, Siuuhu’s offense is either:
@@ -245,23 +227,18 @@ But a few years later, Siuuhu comes back to life. Understandably angry at the Ho
 
 The narrative then switches to the perspective of these underground people, who are called Wooshkam (which means “those who emerge”). Siuuhu leads the Wooshkam into the surface world and against the Hohokam. The bulk of this section, covering 60 pages of _The Short, Swift Time of Gods on Earth_, describes battles where Siuuhu and the Wooshkam destroy the Hohokam, killing their various chiefs and minor deities. In these battles, the Hohokam generally (but not exclusively) use fog and rain to defend themselves, while the Wooshkam generally (but not exclusively) use sun, thunder, and lightning to fight. There are fourteen battles recorded, and all of them are one-sided. I’ll quote one to give a sense of how they go; here’s the destruction of [Pueblo Grande](https://en.wikipedia.org/wiki/Pueblo_Grande_Ruin_and_Irrigation_Sites):
 
-> [The chief of Pueblo Grande] had made his house from solid rock, so it seemed impossible for the Wooshkam to hurt it. He had done this because he didn’t want any of his people to run off and leave him. They must all stay in this house with the medicine man.
->
-> It wasn’t really a stone house, but the leader made it look like solid rock. The [Wooshkam medicine man] fooled himself by saying that the house was made of rock, and he couldn’t do anything with it, so they asked another man who had the power of thunder to see what he could do. He sang:
->
+> [The chief of Pueblo Grande] had made his house from solid rock, so it seemed impossible for the Wooshkam to hurt it. He had done this because he didn’t want any of his people to run off and leave him. They must all stay in this house with the medicine man.  
+> It wasn’t really a stone house, but the leader made it look like solid rock. The [Wooshkam medicine man] fooled himself by saying that the house was made of rock, and he couldn’t do anything with it, so they asked another man who had the power of thunder to see what he could do. He sang:  
 > _It is a hard house_  
 > _It is a hard house_  
 > _It is a hard house_  
 > _Do you see the foundation?_  
-> _It is made out of rock._
->
-> Then he told the people that it would be easy for him, and he sang:
->
+> _It is made out of rock._  
+> Then he told the people that it would be easy for him, and he sang:  
 > _I saw that he is_  
 > _Too light for me_  
 > _It is like a windbreak_  
-> _Made out of these ocotillos_
->
+> _Made out of these ocotillos_  
 > It was true. The thunder man came down over the house and smashed it to pieces.
 
 And so on and so on. The Wooshkam don’t lose a single man, while every great Hohokam house is destroyed and every Hohokam chief is killed. Poor Buzzard, who helped to kill Siuuhu, gets it worst of all. The Wooshkam capture him as he’s trying to fly away. Siuuhu takes away all his magic. The Wooshkam torture him for four days, then vote that instead of killing him they should scalp him in such a way that the skin of his head hangs around his neck. The knife splits open his scalp, and they pull all the skin down. They make him dance for them, head covered in blood. Then they let him go, cursed to only eat carrion.

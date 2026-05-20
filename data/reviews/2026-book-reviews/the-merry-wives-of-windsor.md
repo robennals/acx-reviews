@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T21:00:19.000Z'
 slug: the-merry-wives-of-windsor
-wordCount: 7949
+wordCount: 7938
 readingTimeMinutes: 36
 source: gdoc
 tags:
@@ -261,16 +261,14 @@ At the beginning of Act II, Mistress Page and Mistress Ford meet up in the stree
 > _MISTRESS FORD_  
 > _Did you ever hear the like?_
 >
-> _MISTRESS PAGE_
->
+> _MISTRESS PAGE_  
 > _Letter for letter, but that the name of Page and Ford differs! To thy great comfort in this mystery of ill opinions, here's the twin-brother of thy letter. I warrant he hath a thousand of these letters, writ with blank space for different names—sure, more,—and these are of the second edition: he will print them, out of doubt; for he cares not what he puts into the press, when he would put us two._
 
 They resolve to let Sir John think the affections are mutual and let him make a bigger fool of himself. Their little catfishing scheme would be enough plot for most plays – or sit-coms – but Shakespeare, ever the fan of dramatic doubles, adds a wrinkle.
 
 Both husbands get wind of their wives’ plan to meet up with Falstaff. Master Page, confident in his marital bond, dismisses the rumor. But Mistress Ford’s husband is the jealous type. He hatches a subterfuge of his own.
 
-> _MASTER FORD_
->
+> _MASTER FORD_  
 > _Though Page be a secure fool and stands so firmly on his wife’s frailty, yet I cannot put off my opinion so easily. She was in his company at Page’s house, and what they made there I know not. Well, I will look further into it, and I have a disguise to sound Falstaff._
 
 His disguise is usually a silly wig, and even a bad actor wrings many laughs from the next scene where Master Ford, disguised as one Master “Brook” (get it?), pretends to be a gentleman who wishes to have Falstaff’s help in seducing Mistress Ford. Falstaff brags to “Brook” he already has a hot date planned with Mistress Ford while her “jealous, rascally” husband is away from home. "Brook" asks Falstaff if he knows Master Ford. Falstaff says he knows him only by his reputation, and begins a laundry list of insults. What a reader of the play must imagine is Ford’s reaction to Falstaff shouting “Hang him, poor cuckoldly knave!” and such abuses on Ford, with Ford fighting to stay in character as “Brook”.
@@ -293,8 +291,7 @@ With the basket prepared, Mistress Page hides and Falstaff enters, spouting absu
 > _MISTRESS FORD_  
 > _Do not betray me, sir. I fear you love Mistress Page._
 >
-> _FALSTAFF_
->
+> _FALSTAFF_  
 > _Thou mightst as well say I love to walk by the Counter gate, which is as hateful to me as the reek of a lime-kiln._
 
 Counter or Compter was a debtor’s prison in Southwark, London, and notoriously stinky. The production of quicklime sometimes released eggy, sulfurous gasses. Falstaff’s sensitivity to smell will soon be put to the test. His boy servant Robin and Mistress Page contrive to be heard entering and Sir John, like Polonius in _Hamlet_, hides behind an arras (a tapestry or curtain).
@@ -309,18 +306,15 @@ They find no Falstaff, of course, and rather think Master Ford has let his jealo
 
 We find Falstaff back at the Inn, in quite a state from being dumped in the river. I strongly urge the reader to understand _Merry Wives_’ soliloquies not like traditional Shakespearean monologues but like modern day stand-up routines, written with room for laughter and knowing looks to the audience.
 
-> _FALSTAFF_
->
+> _FALSTAFF_  
 > _Have I lived to be carried in a basket like a barrow of butcher’s offal, and to be thrown into the Thames? [...] And you may know by my size that I have a kind of alacrity in sinking. If the bottom were as deep as hell, I should down. I had been drowned but that the shore was shelvy and shallow—a death that I abhor, for the water swells a man, and what a thing should I have been when I had been swelled!_
 
 Ford as “Brook” enters and questions what happened with Falstaff’s hot date.
 
-> _FALSTAFF_
->
+> _FALSTAFF_  
 > _As good luck would have it, in comes one Mistress Page, gives intelligence of Ford’s approach, and, in her invention and Ford’s wife’s distraction, they conveyed me into a buck-basket._
 >
-> _FORD_
->
+> _FORD_  
 > _A buck-basket!_
 >
 > _FALSTAFF_  
@@ -352,19 +346,14 @@ The idea of the comedy K is well-known amongst today’s comedy writers. In the 
 
 If Shakespeare was not aware of the Snunkoople Effect or the ‘Comedy K’ he certainly intuited them. Again and again in _Merry Wives of Windsor_ the characters gabble with phonetic cacophony.
 
-> _FORD_
->
-> _Buck? I would I could wash myself of the buck! Buck, buck, buck! Ay, buck!_
-> (Act III, Sc 3)
->
-> _FALSTAFF_
->
-> _Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semicircled farthingale._
-> (Act III, Sc 5)
->
-> _FALSTAFF_
->
-> _My doe with the black scut! Let the sky rain potatoes, let it thunder to the tune of ‘Greensleeves’, hail kissing-comfits, and snow eryngoes; let there come a tempest of provocation, I will shelter me here._
+> _FORD_  
+> _Buck? I would I could wash myself of the buck! Buck, buck, buck! Ay, buck!_  
+> (Act III, Sc 3)  
+> _FALSTAFF_  
+> _Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semicircled farthingale._  
+> (Act III, Sc 5)  
+> _FALSTAFF_  
+> _My doe with the black scut! Let the sky rain potatoes, let it thunder to the tune of ‘Greensleeves’, hail kissing-comfits, and snow eryngoes; let there come a tempest of provocation, I will shelter me here._  
 > (Act V, Scene 5)
 
 You need not understand Elizabethan English to know these are funny lines; you merely need to hear them aloud. Shakespeare is probably the most-appreciated poet in the English language, yet his use of language in the service of comedy remains rankly underacknowledged.

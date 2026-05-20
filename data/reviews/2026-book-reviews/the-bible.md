@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-20T14:21:53.000Z'
 slug: the-bible
-wordCount: 322
+wordCount: 337
 readingTimeMinutes: 2
 source: gdoc
 tags:
@@ -15,6 +15,8 @@ tags:
   - Philosophy
   - History
 ---
+
+The Bible is the most influential book in Western history and the most confidently misread.
 
 It is not one book. It is a long, chaotic group project written over centuries by people who did not agree with each other. It contains law codes, poetry, revenge fantasies, love songs, political propaganda, mystical visions, and the occasional moment of real moral brilliance.
 

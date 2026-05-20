@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:06:49.000Z'
 slug: the-son-also-rises
-wordCount: 7662
+wordCount: 7673
 readingTimeMinutes: 35
 source: gdoc
 tags:
   - Science
   - Society
 ---
+
+### The Son Also Rises is the most worldview-overturning book I’ve read in the last 10 years.
 
 I almost never see it being talked about, critically or otherwise, so I thought I’d talk about it.
 
@@ -99,10 +101,8 @@ Consider the Pepyses, of Samuel Pepys[⁶](#id.le7djxxaqk8o) fame. It’s a rare
 
 And the Pepyses aren’t exceptions - they’re part of a recurring trend.
 
-> “Sir Timothy Berners-Lee, OM, KBE, FRS, FREng, FRSA, the creator of the World Wide Web, is a descendant of a family that was rich and prominent in early-nineteenth-century England. But, further, the name Berners is descended from a Norman grandee whose holdings are listed in the Domesday Book of 1086.
->
-> Sir Peter Lytton Bazalgette, the producer of the TV show Big Brother and chair of the Arts Council England, is a descendant of Louis Bazalgette, an “eighteenth-century immigrant and tailor to the prince regent—the Ralph Lauren of his age—who died, leaving considerable wealth, in 1830.
->
+> “Sir Timothy Berners-Lee, OM, KBE, FRS, FREng, FRSA, the creator of the World Wide Web, is a descendant of a family that was rich and prominent in early-nineteenth-century England. But, further, the name Berners is descended from a Norman grandee whose holdings are listed in the Domesday Book of 1086.  
+> Sir Peter Lytton Bazalgette, the producer of the TV show Big Brother and chair of the Arts Council England, is a descendant of Louis Bazalgette, an “eighteenth-century immigrant and tailor to the prince regent—the Ralph Lauren of his age—who died, leaving considerable wealth, in 1830.  
 > Alan Rusbridger, editor of the Guardian newspaper, that scourge of class privilege and inherited advantage, is himself the descendant of a family that achieved significant wealth and social position in Queen Victoria’s time. Rusbridger’s great-great-grandfather was land steward to His Grace the Duke of Richmond. The value of his personal estate at his death in 1850 was £12,000, a considerable sum at a time when four of every five people died with an estate worth less than £5.”
 
 Or, my absolute favorite example - the persistence of Norman eliteness in England.
@@ -437,14 +437,10 @@ Ultimately, if you buy the overall picture Clark is painting, I think it has a f
 
 To points 3 and 4, I’ll close on one of the passages from the book. Clark seemingly has a bee in his bonnet about upper class Manhattanites spending hundreds of thousands on exclusive preschools and private schools and tutors. In one of several passages where he talks about it, he points out that his inexorable logic shows them to be wrong, too:
 
-> “There is strong persistence of status, but those at the top of the social hierarchy in societies such as the United Kingdom, the United States, and Sweden will inevitably see their children, on average, move down.
->
-> Further, the rate of regression downward to the mean is the same for the upper echelons of society, despite their considerable investments in their children, as is the rate of upward mobility for the lower echelons, even the ones who don’t bother to turn up for the PTA meetings.
->
-> The forces of regression to the mean may seem glacially slow from the point of view of those at the bottom of the social ladder. But for the elites of Manhattan, Greenwich, or Silicon Valley, these forces exercise a death grip on dynastic ambitions. These are people used to getting what they want. Why should they be frustrated in this one primal ambition, for their children to enjoy the same rewards in life as their parents?”
->
-> “This is all consistent with the idea that once parental inputs to children reach a certain basic level, which does not include Baby Einstein toys, playing Mozart to babies in the womb, or sending them to the Dalton School, parents can do nothing to improve outcomes for children.”
->
+> “There is strong persistence of status, but those at the top of the social hierarchy in societies such as the United Kingdom, the United States, and Sweden will inevitably see their children, on average, move down.  
+> Further, the rate of regression downward to the mean is the same for the upper echelons of society, despite their considerable investments in their children, as is the rate of upward mobility for the lower echelons, even the ones who don’t bother to turn up for the PTA meetings.  
+> The forces of regression to the mean may seem glacially slow from the point of view of those at the bottom of the social ladder. But for the elites of Manhattan, Greenwich, or Silicon Valley, these forces exercise a death grip on dynastic ambitions. These are people used to getting what they want. Why should they be frustrated in this one primal ambition, for their children to enjoy the same rewards in life as their parents?”  
+> “This is all consistent with the idea that once parental inputs to children reach a certain basic level, which does not include Baby Einstein toys, playing Mozart to babies in the womb, or sending them to the Dalton School, parents can do nothing to improve outcomes for children.”  
 > “Is there anything that this book can say to people who want the best possible income, wealth, education, and health “outcomes for their children? The one scientific contribution we can make is to point out that with the appropriate choice of mates, a family can avoid downward mobility forever.”
 
 And what are the stakes? What can you get if you do it right? I mean, in the limits Kulin Brahmins in India have been doing it successfully for something like 3,000+ years!

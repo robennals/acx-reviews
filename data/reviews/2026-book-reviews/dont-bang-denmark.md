@@ -7,15 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:52:56.000Z'
 slug: dont-bang-denmark
-wordCount: 3352
+wordCount: 3297
 readingTimeMinutes: 15
 source: gdoc
 tags:
   - Memoir
   - Society
 ---
-
-”Don’t bang Denmark” by “Roosh V” (Daryoush Valizadeih) is a book about a Canadian pick up artist trying out his techniques on Danish women and failing, because Denmark is too feminist and based. Given that I am a Danish woman, I feel I might be able to provide an interesting take on Roosh’s experience.
 
 The pick up artistry movement has been criticized for being sexist, tolerant of abuse and rape, cringe and obnoxious. This book is all of those things; however, I feel it necessary to mention that Roosh has since shut his blog down, unpublished all his books, and converted to Armenian Orthodox Christianity. This is the seeming fate of these types of men, because the original author of “The Game”, the foundational text of pick up artistry, has since written “The Truth” where he apologizes for his earlier work and says the lifestyle it advocated made him miserable.
 
@@ -25,7 +23,7 @@ The pick up artistry movement has been criticized for being sexist, tolerant of 
 
 **2.** Danish women are ugly and manly anyway
 
-## What is pick up artistry?
+**What is pick up artistry?**
 
 The book is not for the new pick up artist. There’s no rundown of terms, techniques etc in it, so I had to do additional research.
 

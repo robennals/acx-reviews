@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-01T16:50:32.000Z'
 slug: trip-sitting-the-art-and-science-of-holding-psychedelic-space
-wordCount: 1097
+wordCount: 1115
 readingTimeMinutes: 5
 source: gdoc
 tags:
@@ -15,6 +15,10 @@ tags:
   - Science
   - Religion
 ---
+
+## Book Review: Trip Sitting
+
+“Trip Sitting: The Art and Science of Holding Psychedelic Space”. Julian Vayne 2025
 
 This is not my own story, but I’m certain it is true. A dear friend of mine once was, the entire statute of limitations ago, invited to a freaky festival-styled wedding where all guests were expected to ingest a ceremonial dose of MDMA. She had never taken illegal drugs before. Very severe PTSD[1] had been torturing her with depression and panic attacks for many months and she had already decided to end it all and kill herself soon after this one last party, so she figured she might as well try. She was introduced to a fellow wedding guest who was revered as an expert in handling the “sacrament” and was not himself taking it that night but going to “hold space”, i.e. provide safety and expert guidance. So for the first and only time in her life she tripped, and that very night she left her PTSD behind forever.
 

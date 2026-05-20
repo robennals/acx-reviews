@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T13:55:43.000Z'
 slug: a-history-of-the-jews
-wordCount: 2497
+wordCount: 2517
 readingTimeMinutes: 12
 source: gdoc
 tags:
   - History
   - Religion
 ---
+
+_A History of the Jews_ is a classic. Paul Johnson wrote it in 1987. It is a widely praised book.
 
 ## The Strange Familiarity
 

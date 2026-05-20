@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T17:50:38.000Z'
 slug: catullus-16
-wordCount: 4266
+wordCount: 4268
 readingTimeMinutes: 19
 source: gdoc
 tags:
@@ -107,6 +107,7 @@ The parallels are obvious.  Compare to, say, Nas’s “Ether,” the legendary 
 
 Or Ice Cube on “No Vaseline,” hitting back after leaving NWA:
 
+>   
 > Ay yo Dre, stick to producin'  
 > Callin' me Arnold, but you been-a-dick  
 > Eazy-E saw your ass and went in it quick
@@ -131,8 +132,10 @@ All other mentions of Furius and Aurelius in the _carmina_ point to a close frie
 
 Now, I do not think anybody alive today would publicly threaten sexual assault on a friend as a joke, nor do I think that sort of behavior is indicative of any sort of normal friendship, male or otherwise. Roman culture, though, had different norms about such things; sexual humor was commonplace, as was playful deprecation of even those above your station.  As Williams relates, _“_Caesar’s own soldiers chanted ribald jokes concerning his adulteries” at his triumph, and even his co-consul was wont to call him “‘the Queen of Bithynia’” over an alleged affair with the king of that country.  In fact, even Catullus got some digs in at Caesar, and then wrote,
 
+>   
 > irascere iterum meis iambis  
-> immerentibus, unice imperator  
+> immerentibus, unice imperator
+>
 > you are going to be angry at my iambics once again,  
 > sole Imperator (Caesar), though they don’t deserve it.[2]
 
@@ -184,8 +187,7 @@ Diss track, friendly banter, or perfectly constructed basketball team -- whateve
 
 So I’d recommend you scroll up to the top of the review and give one of the three versions of the poem (or all of them) another read, and hopefully something new, something I haven’t even mentioned in this rambling review fifty times the length of the poem, will jump out at you.  That’ll be Catullus’s talent shining across language and millennia.  One of his most famous quotes, other than the one about face-fucking, is from the same Catullus 5 that started his beef with Aurelius and Furius:
 
-> Let us live and love, nor give a damn what sour old men say.
->
+> Let us live and love, nor give a damn what sour old men say.  
 > The sun that sets may rise again, but when our light has sunk into the earth it is gone forever[3]
 
 And at least in this case, he’s wrong.  His obscene, outrageous, shameless light is still here.

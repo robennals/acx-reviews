@@ -600,7 +600,11 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     if (parts.length < 2) return;
     if (parts.some(p => textLen(p) < 60)) return;
     const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
-    const wrappers = parts.map(p => `<p${classAttr}>${p}</p>`).join('');
+    // Mark split-created `<p>`s so the downstream
+    // adjacent-indented-paragraph merge doesn't glue them back into
+    // one with `<br>` between. The split was made specifically to
+    // expose paragraph breaks the source faked via `<br>+nbsp` runs.
+    const wrappers = parts.map(p => `<p${classAttr} data-split-paragraph="1">${p}</p>`).join('');
     el.replaceWith(wrappers);
   });
 
@@ -945,6 +949,60 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       // which the markdown-phase detector handles).
     };
 
+    // Preserve source paragraph spacing inside blockquotes: when two
+    // indented `<p>`s sit directly adjacent in the source (no empty
+    // `<p>` between them), merge them into one `<p>` with `<br>` so
+    // turndown emits them as a single multi-line blockquote paragraph
+    // (no blank `>` between). When the source DID have an empty `<p>`
+    // between, leave them separate — turndown drops the empty `<p>`
+    // and the downstream merge inserts a blank `>` separator.
+    //
+    // This makes Merry Wives' MISTRESS FORD/MISTRESS PAGE blocks
+    // render consistently (the previous behavior fired poetry-
+    // compaction on short runs but not long ones, producing alternately
+    // tight and loose stacks for blocks that were structurally
+    // identical in the source).
+    {
+      const candidates = $('body > p, body > div > p').toArray();
+      let i = 0;
+      while (i < candidates.length) {
+        const head = $(candidates[i]);
+        if (!isElementIndented(head)) { i++; continue; }
+        // Don't merge into paragraphs that the upstream `<br>+nbsp`
+        // splitter created — those are deliberate prose-paragraph
+        // breaks that we just unfolded out of one big `<p>`.
+        if (head.attr('data-split-paragraph')) { i++; continue; }
+        // Collect a run of directly-adjacent indented siblings.
+        const runMembers: ReturnType<typeof $>[] = [head];
+        let j = i + 1;
+        while (j < candidates.length) {
+          const next = $(candidates[j]);
+          // An empty `<p>` between two indented `<p>`s is a source
+          // separator; break the run so it survives as a blank `>`.
+          if (!next.text().trim() && !next.find('img').length) break;
+          if (!isElementIndented(next)) break;
+          // Same split-paragraph guard for follow-on members.
+          if (next.attr('data-split-paragraph')) break;
+          // Don't merge across siblings that aren't immediate DOM
+          // neighbors (some `body > div > p` block between them would
+          // mean we'd be picking up a non-adjacent paragraph).
+          if ((head[0] as any).parent !== (next[0] as any).parent) break;
+          runMembers.push(next);
+          j++;
+        }
+        if (runMembers.length >= 2) {
+          // Append each subsequent paragraph's contents to the first
+          // with a `<br>` between, then remove the now-empty originals.
+          for (let k = 1; k < runMembers.length; k++) {
+            head.append('<br>');
+            head.append(runMembers[k].contents());
+            runMembers[k].remove();
+          }
+        }
+        i = j;
+      }
+    }
+
     const allBlocks = $('body > p, body > ul, body > ol, body > div > p, body > div > ul, body > div > ol').toArray();
     for (let bi = 0; bi < allBlocks.length; bi++) {
       const block = allBlocks[bi];
@@ -1276,126 +1334,16 @@ export function cleanupMarkdown(markdown: string): string {
   // global match is non-overlapping, so a single pass merges chains.
   md = md.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
 
-  // Poetry-compaction pass for blockquotes. A multi-paragraph
-  // blockquote whose every text paragraph is a single short line
-  // (≤80 plain-text chars) is almost always poetry / song lyrics /
-  // short verse-like content. Render those compactly:
-  //   - Each non-last short text paragraph gets a trailing two-space
-  //     hard line break instead of a blank-`>` separator.
-  //   - The result is one multi-line paragraph inside the blockquote
-  //     (rendered with `<br>` between lines) — the visual rhythm of
-  //     verse is preserved without huge per-line vertical gaps.
-  //
-  // List items, nested blockquotes, and headings inside the
-  // blockquote (e.g. a `> *   _Source_` attribution) are passed
-  // through unchanged. If the blockquote contains ANY long text
-  // paragraph or any multi-line text paragraph, we leave the whole
-  // thing alone — prose blockquotes should keep their paragraph
-  // structure.
-  {
-    const POETRY_THRESHOLD = 80;
-    const isQuotePrefix = (s: string) => /^>/.test(s);
-    const isQuoteBlank = (s: string) => /^>\s*$/.test(s);
-    // A "stanza marker" is a `>` line with 2+ trailing whitespace chars.
-    // It's produced upstream from an empty `<p><br></p>` between two
-    // indent-classed paragraphs (a stanza break that the author wrote
-    // as a fully-blank paragraph between verse stanzas). Distinguished
-    // from the bare `>` paragraph-break that the markdown-merge inserts
-    // between adjacent blockquoted paragraphs — those should NOT count
-    // as stanza breaks.
-    const isStanzaMarker = (s: string) => /^>\s{2,}$/.test(s);
-    const isQuoteListItem = (s: string) => /^>\s*([-*]\s|\d+\.\s)/.test(s);
-    const isQuoteNested = (s: string) => /^>\s*>/.test(s);
-    const isQuoteHeading = (s: string) => /^>\s*#/.test(s);
-    const isQuoteText = (s: string) =>
-      isQuotePrefix(s) &&
-      !isQuoteBlank(s) &&
-      !isQuoteListItem(s) &&
-      !isQuoteNested(s) &&
-      !isQuoteHeading(s);
-    const plainTextLen = (s: string) =>
-      s.replace(/^>\s*/, '').replace(/[*_~`]/g, '').trim().length;
-    // Sentinel value used to mark blank-`>` paragraph-break lines that
-    // poetry compaction wants to delete. Filtered out after the
-    // outer-loop pass completes.
-    const POETRY_DEL = "__POETRY_LINE_DEL__";
-
-    const lines = md.split('\n');
-    let i = 0;
-    while (i < lines.length) {
-      if (!isQuotePrefix(lines[i])) { i++; continue; }
-      // Find the extent of this blockquote group (maximal run of `>` lines).
-      const groupStart = i;
-      while (i < lines.length && isQuotePrefix(lines[i])) i++;
-      const groupEnd = i - 1;
-
-      // Within the group, find contiguous spans of text-paragraphs
-      // (each span = consecutive text-paragraphs separated by single
-      // blank-`>` lines). Each text paragraph must be a SINGLE line —
-      // a multi-line paragraph (consecutive non-blank-`>` lines) is
-      // left untouched.
-      let g = groupStart;
-      while (g <= groupEnd) {
-        if (!isQuoteText(lines[g])) { g++; continue; }
-        // Try to extend a run starting at g.
-        const runIdxs: number[] = [];
-        let h = g;
-        while (h <= groupEnd) {
-          if (!isQuoteText(lines[h])) break;
-          // Require this text line to be followed (within the group)
-          // by either a blank-`>` line, the end of the group, or a
-          // non-text quote line (list/nested/heading). If followed by
-          // another text line, it's a multi-line paragraph — abort.
-          const nextIsBlank = h + 1 > groupEnd || isQuoteBlank(lines[h + 1]);
-          const nextIsBoundary = h + 1 > groupEnd ||
-            isQuoteListItem(lines[h + 1]) ||
-            isQuoteNested(lines[h + 1]) ||
-            isQuoteHeading(lines[h + 1]);
-          if (!nextIsBlank && !nextIsBoundary) {
-            // Multi-line paragraph — skip the whole paragraph and
-            // abandon this run.
-            runIdxs.length = 0;
-            while (h <= groupEnd && isQuoteText(lines[h])) h++;
-            break;
-          }
-          runIdxs.push(h);
-          h++;
-          // Walk past bare `>` paragraph-break separators (still the
-          // same stanza), but STOP at a stanza marker (a `>` line with
-          // trailing whitespace, produced upstream from a fully-blank
-          // `<p>` between indented paragraphs). The outer loop will
-          // pick up a fresh run after the marker.
-          while (h <= groupEnd && isQuoteBlank(lines[h]) && !isStanzaMarker(lines[h])) h++;
-          if (h <= groupEnd && isStanzaMarker(lines[h])) break;
-        }
-
-        // Compact runs of 2+ short text paragraphs.
-        if (
-          runIdxs.length >= 2 &&
-          runIdxs.every(idx => {
-            const L = plainTextLen(lines[idx]);
-            return L > 0 && L <= POETRY_THRESHOLD;
-          })
-        ) {
-          // For every non-last entry: add trailing two spaces (hard
-          // line break) and blank out any bare-`>` paragraph-break
-          // lines between this and the next entry (so the lines are
-          // contiguous in the rendered blockquote). The last entry
-          // stays as-is. Stanza markers were excluded from the run
-          // already, so we never delete those.
-          for (let k = 0; k < runIdxs.length - 1; k++) {
-            if (!/  $/.test(lines[runIdxs[k]])) lines[runIdxs[k]] = `${lines[runIdxs[k]]}  `;
-            for (let b = runIdxs[k] + 1; b < runIdxs[k + 1]; b++) {
-              lines[b] = POETRY_DEL;
-            }
-          }
-        }
-        g = h;
-      }
-      // Continue scanning past this group.
-    }
-    md = lines.filter(l => l !== POETRY_DEL).join("\n");
-  }
+  // (Poetry-compaction pass removed.) Source-paragraph spacing is now
+  // preserved by the HTML-stage adjacent-`<p>` merge: paragraphs the
+  // author wrote as adjacent siblings (no empty `<p>` between) are
+  // glued into one `<p>` with `<br>` so they emit as a single multi-
+  // line blockquote paragraph; paragraphs separated by an empty `<p>`
+  // stay separate and the markdown-stage blockquote-merge inserts the
+  // blank `>` between them. The old poetry-compaction had to guess
+  // from line length and produced inconsistent output (e.g. Merry
+  // Wives' short FORD/Did pair tightened while the long PAGE/Letter
+  // pair stayed loose, despite identical source structure).
 
   // Convert hard-break joins between prose paragraphs (outside any
   // blockquote) into proper paragraph breaks. Some gdocs use `<br>`
@@ -1473,7 +1421,13 @@ export function cleanupMarkdown(markdown: string): string {
       if (!m) continue;
       const text = m[1].trim();
       if (!text) continue;
-      if (/[,;]$/.test(text)) continue;
+      // Reject bold lines that end with any sentence punctuation. Real
+      // titles usually don't end in `.!?:;,` — and reviews like The Son
+      // Also Rises use bold-sentence emphasis whose every instance ends
+      // in `.`, which we don't want sweeping into the heading tree.
+      // Headings styled with a TRUE Heading-N style or with large-font
+      // styling are handled separately in the HTML-stage pass.
+      if (/[.!?:;,]$/.test(text)) continue;
       if (/^[-–—]|[-–—]$/.test(text)) continue;
       // Strip turndown's `\.` escape; inside `## …` it's not needed.
       const headingText = text.replace(/(\d)\\\./g, '$1.');

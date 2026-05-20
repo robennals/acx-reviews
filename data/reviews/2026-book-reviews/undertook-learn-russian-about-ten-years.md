@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T18:04:08.000Z'
 slug: undertook-learn-russian-about-ten-years
-wordCount: 4908
+wordCount: 4868
 readingTimeMinutes: 22
 source: gdoc
 tags:
@@ -170,70 +170,38 @@ Both these positions would miss the point, nor would this argument in any way he
 
 In fact, it strikes me as almost an affront to attempt to summarize this book for a short-form blog post. If it were possible to communicate with a blog post what Dostoyevsky was trying to communicate, then he would have simply written an essay (after all, he was a prolific essayist) and not a 600+ page novel.
 
-> “What, then, keeps people, in your opinion, from suicide?” asked I.
->
-> He absent-mindedly looked [at me], as if [suddenly] remembering about what we were talking.
->
-> “I . . . I very little know . . . two lines of reasoning keep [them back], two things; only two; one is very big, the other very small. But the small [one] is also very big.”
->
-> “What, then, is the small one?”
->
-> “Pain.”
->
-> “Pain? Really it’s that important . . . in this case?”
->
-> “The most. There are two kinds: those who kill themselves either out of a great woe, or out of spite, or are mad, or where it’s all one and the same; those, suddenly. They think little about pain—but suddenly. But those with premeditation—they think a lot.”
->
-> “So really there are those with premeditation?”
->
-> “Very much. If there were no premeditation, there would be more; a lot more; everyone.”
->
-> “Well, really everyone?”
->
-> He paused.
->
-> “So are there really no ways to die without pain?”
->
-> “Picture,” he stopped before me, “picture a rock of such greatness, like unto a great house; it hangs [above], and you under it; if it were to fall on you, on [your] head—would it be for you painful?”
->
-> “A rock like unto a house? Of course, scary.”
->
-> “I’m not [talking] about fear; will it be painful?”
->
-> “A rock from a mountain, a million pounds? Of course, nothing would be painful.”
->
-> “But stand [under it] in real life, and while [it] hangs, you will very much fear that it’ll be painful. Every utmost learned [man], the best doctor, everyone, everyone would very much fear. Everyone would know that it’s not painful, and everyone will very much fear that it’ll be painful.”
->
-> “Well, the second cause, is it big?”
->
-> “That light.”
->
-> “That is—punishment?”
->
-> “It’s all the same. That light; only that light.”
->
-> “Really are there no atheists that totally don’t believe in that light?”
->
-> Again he paused.
->
-> “You, maybe, are judging by your own [standard]?”
->
-> “No one can judge on his own,” said he having turned red. “Complete freedom will be when it’s all the same, life or no life. That’s the goal for everyone [or, for everything].”
->
-> “The goal? Really then there will be nobody who wants to live?”
->
-> “Nobody,” pronounced he decisively.
->
-> “Man fears death, because [he] loves life, that how I understand [it],” remarked I, “and thus has nature commanded.”
->
-> “That’s despicable and here is the entire deception!” His eyes flashed. “Life is pain, life is fear, and man is unhappy. Now is only pain and fear. Now man loves life, because pain and fear [he] loves. And thus [he, or it]’s been made. Life gives itself now unto pain and fear, and here is the whole deception. Now man is not even that former man. There will be a new man, happy and proud. He to whom it’s all the same [whether he] lives or dies, the same will be a new man. Who vanquishes pain and fear, he will become God Himself. But the former God will not exist.”
->
-> “Consequently, that God does exist, in your opinion?”
->
-> “He’s not, but he is. In the rock there is no pain, but in fear of the rock there is pain. God is the pain of the fear of death. Whoever vanquishes pain and fear, he will become God Himself. Then a new life, then a new man, everything new . . . Then all of history will be divided into two parts: from the gorilla to the destruction of God, and from the destruction of God to . . .”
->
-> “To the gorilla?”
->
+> “What, then, keeps people, in your opinion, from suicide?” asked I.  
+> He absent-mindedly looked [at me], as if [suddenly] remembering about what we were talking.  
+> “I . . . I very little know . . . two lines of reasoning keep [them back], two things; only two; one is very big, the other very small. But the small [one] is also very big.”  
+> “What, then, is the small one?”  
+> “Pain.”  
+> “Pain? Really it’s that important . . . in this case?”  
+> “The most. There are two kinds: those who kill themselves either out of a great woe, or out of spite, or are mad, or where it’s all one and the same; those, suddenly. They think little about pain—but suddenly. But those with premeditation—they think a lot.”  
+> “So really there are those with premeditation?”  
+> “Very much. If there were no premeditation, there would be more; a lot more; everyone.”  
+> “Well, really everyone?”  
+> He paused.  
+> “So are there really no ways to die without pain?”  
+> “Picture,” he stopped before me, “picture a rock of such greatness, like unto a great house; it hangs [above], and you under it; if it were to fall on you, on [your] head—would it be for you painful?”  
+> “A rock like unto a house? Of course, scary.”  
+> “I’m not [talking] about fear; will it be painful?”  
+> “A rock from a mountain, a million pounds? Of course, nothing would be painful.”  
+> “But stand [under it] in real life, and while [it] hangs, you will very much fear that it’ll be painful. Every utmost learned [man], the best doctor, everyone, everyone would very much fear. Everyone would know that it’s not painful, and everyone will very much fear that it’ll be painful.”  
+> “Well, the second cause, is it big?”  
+> “That light.”  
+> “That is—punishment?”  
+> “It’s all the same. That light; only that light.”  
+> “Really are there no atheists that totally don’t believe in that light?”  
+> Again he paused.  
+> “You, maybe, are judging by your own [standard]?”  
+> “No one can judge on his own,” said he having turned red. “Complete freedom will be when it’s all the same, life or no life. That’s the goal for everyone [or, for everything].”  
+> “The goal? Really then there will be nobody who wants to live?”  
+> “Nobody,” pronounced he decisively.  
+> “Man fears death, because [he] loves life, that how I understand [it],” remarked I, “and thus has nature commanded.”  
+> “That’s despicable and here is the entire deception!” His eyes flashed. “Life is pain, life is fear, and man is unhappy. Now is only pain and fear. Now man loves life, because pain and fear [he] loves. And thus [he, or it]’s been made. Life gives itself now unto pain and fear, and here is the whole deception. Now man is not even that former man. There will be a new man, happy and proud. He to whom it’s all the same [whether he] lives or dies, the same will be a new man. Who vanquishes pain and fear, he will become God Himself. But the former God will not exist.”  
+> “Consequently, that God does exist, in your opinion?”  
+> “He’s not, but he is. In the rock there is no pain, but in fear of the rock there is pain. God is the pain of the fear of death. Whoever vanquishes pain and fear, he will become God Himself. Then a new life, then a new man, everything new . . . Then all of history will be divided into two parts: from the gorilla to the destruction of God, and from the destruction of God to . . .”  
+> “To the gorilla?”  
 > “To a transfiguration of the earth and of man physically. There will be a man-turned-god and [he] will change physically. And the world will change, and things will change, and thoughts, and all feelings. What do you think, will man then change physically?”
 
 I am put to further difficulties in that not only are the characters so numerous, the plot so unbelievably complex—but, crucially, there are certain plot points that are so revolutionary that my even mentioning them here would only dilute and pervert your experience should you ever read this book.
@@ -254,20 +222,12 @@ I will leave you with this: if you want to read _Demons_ properly, first learn R
 
 All in all, reading and appreciating the existence of _Demons_ was an exercise in humility. If _Dostoyevsky_ of all people could consent to cutting out an essential scene—just for the sake of getting published—then there is literally no other author who can ever claim that he’s in any way above Dostoyevsky, should he refuse the dictates of an officious editor.
 
-> "Y'know, Kirillov, you can't not sleep at night anymore."
->
-> Kirillov came to and—strangely—started speaking much more smoothly than he had ever spoken; it was clear he had already long ago formulated all this and maybe even written:
->
-> "There are seconds, of which only five or six come at once, where you suddenly feel the presence of an eternal harmony, completely obtained. It's not of this earth; I don't mean that it's heavenly, but something that a man in an earthly form cannot bear. Need to change yourself physically or die. This feeling is clear and indisputable. As if suddenly you feel all nature and suddenly say: yes, it's true. God, when he created the world, at the end of every day said: "Yes, this is true, this is good." It's . . . it's not tenderness, but just like, joy. You don't forgive anything, because there's already nothing to forgive. You don't love, oh—here's something beyond love! Stranger than all that, this joy is so horribly clear. If there were more than five seconds, then the soul wouldn't be able to stand it and would have to disappear. In these five seconds I live through life and for them would give my whole life, because it's worth it. In order to withstand ten seconds, it would be necessary to transform physically. I think man has to stop giving birth. For what are children, for what is childrearing [or, development, or growing up], if the goal is achieved? In the Gospels it's said that in the Resurrection we won't give birth, but will be like the angels of God. A hint. Your wife is giving birth?"
->
-> "Kirillov, does this happen often?"
->
-> "In three days, once; in a week, once."
->
-> "You don't have epilepsy?"
->
-> "No."
->
-> "That means it'll happen. Take heed, Kirillov, I heard that this is exactly how epilepsy starts. An epileptic once described to me this preliminary sensation before an attack, point-by-point just as you've [described it]; five seconds and he declared and said that more would be impossible to bear. Remember Mohammed's jug which did not manage to pour out while he was flying around paradise on his horse. The jug is exactly those five seconds; it's too similar to your harmony, but Mohammed was an epileptic. Take heed, Kirillov, epilepsy!"
->
+> "Y'know, Kirillov, you can't not sleep at night anymore."  
+> Kirillov came to and—strangely—started speaking much more smoothly than he had ever spoken; it was clear he had already long ago formulated all this and maybe even written:  
+> "There are seconds, of which only five or six come at once, where you suddenly feel the presence of an eternal harmony, completely obtained. It's not of this earth; I don't mean that it's heavenly, but something that a man in an earthly form cannot bear. Need to change yourself physically or die. This feeling is clear and indisputable. As if suddenly you feel all nature and suddenly say: yes, it's true. God, when he created the world, at the end of every day said: "Yes, this is true, this is good." It's . . . it's not tenderness, but just like, joy. You don't forgive anything, because there's already nothing to forgive. You don't love, oh—here's something beyond love! Stranger than all that, this joy is so horribly clear. If there were more than five seconds, then the soul wouldn't be able to stand it and would have to disappear. In these five seconds I live through life and for them would give my whole life, because it's worth it. In order to withstand ten seconds, it would be necessary to transform physically. I think man has to stop giving birth. For what are children, for what is childrearing [or, development, or growing up], if the goal is achieved? In the Gospels it's said that in the Resurrection we won't give birth, but will be like the angels of God. A hint. Your wife is giving birth?"  
+> "Kirillov, does this happen often?"  
+> "In three days, once; in a week, once."  
+> "You don't have epilepsy?"  
+> "No."  
+> "That means it'll happen. Take heed, Kirillov, I heard that this is exactly how epilepsy starts. An epileptic once described to me this preliminary sensation before an attack, point-by-point just as you've [described it]; five seconds and he declared and said that more would be impossible to bear. Remember Mohammed's jug which did not manage to pour out while he was flying around paradise on his horse. The jug is exactly those five seconds; it's too similar to your harmony, but Mohammed was an epileptic. Take heed, Kirillov, epilepsy!"  
 > "Won't work," quietly smirked Kirillov.

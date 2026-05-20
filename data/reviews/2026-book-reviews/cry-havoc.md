@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T15:12:16.000Z'
 slug: cry-havoc
-wordCount: 7303
+wordCount: 7289
 readingTimeMinutes: 33
 source: gdoc
 tags:
@@ -140,18 +140,12 @@ Money obviously plays a part in this coup. Money as the payoff can explain why s
 
 Strangely omitted from the DSM 5, this is the condition of desperately wanting adventure and the sense of being one of the boys, wanting to have a ripping yarn that can impress everyone at your next cocktail party. Comorbidities: having extremely high achieving parents and a completely undistinguished youth. Consider Mann's portrait of Mark Thatcher, already having been described telling of "his love of boys' own adventure" while getting him to commit to their escape and evasion ("E&E") plan:
 
-> But the E&E plan is also a warning to Thatcher. This isn’t a game. I’m telling him: if you want to step back, then now’s the time to do so.
->
-> It’s a chance for him to say: ‘Stop! I’m an investor … but that’s all I am.’
->
-> I need Thatcher to decide. Thatcher has the money, and the political connections – in Zimbabwe, South Africa and the UK – to help me, if collared. I need Thatcher to look me in the eye. Tell me what he’ll do if it all goes tits up for my team and me.
->
-> Will he do all he can for us? Or will he deny us?
->
-> The E&E plan is the test.
->
-> Thatcher picks up his pencil. He dutifully notes down all of the information as I have in my notebook. He promises he’ll help his great friend Simon Mann any way he can, if things go awry. We even shake hands on it. If nothing else, Mark loves to play the officer and gentleman. ‘My word is my bond…’, etc.
->
+> But the E&E plan is also a warning to Thatcher. This isn’t a game. I’m telling him: if you want to step back, then now’s the time to do so.  
+> It’s a chance for him to say: ‘Stop! I’m an investor … but that’s all I am.’  
+> I need Thatcher to decide. Thatcher has the money, and the political connections – in Zimbabwe, South Africa and the UK – to help me, if collared. I need Thatcher to look me in the eye. Tell me what he’ll do if it all goes tits up for my team and me.  
+> Will he do all he can for us? Or will he deny us?  
+> The E&E plan is the test.  
+> Thatcher picks up his pencil. He dutifully notes down all of the information as I have in my notebook. He promises he’ll help his great friend Simon Mann any way he can, if things go awry. We even shake hands on it. If nothing else, Mark loves to play the officer and gentleman. ‘My word is my bond…’, etc.  
 > Big time.
 
 Loves to play the officer and the gentleman, eh? That couldn't be said about, say, someone who compares his striding about on the deck of a boat off the coast of Soyo to Horatio Hornblower _and_ Jack Aubrey in the exact same sentence? Or someone who incongruously mentions that, while waiting for the next step in his coup plot to come together, he distracts himself by reading Jane Austen, and when arrested, reads the complete works of Shakespeare? And what about someone who, on his way into battle, prays to Athene and Ares, and on his return from prison compares himself to Odysseus returning to his Penelope?
@@ -160,20 +154,13 @@ An officer and a gentleman is a true patriot, which Mann certainly is. In Moscow
 
 And what better way to portray yourself as a hero than to write a book about your various exploits? In this particular book, every aspect of his existence is stylised to the point of complete unreadability. Consider the start of Chapter 2. I quote it at length because if I only quote a sentence or two his writing might seem somewhat amusing, and a paragraph or two merely bizarre. But only when you face a full page of Mann's prose do you get close to the experience of reading this entire book, which I can only imagine to be what it feels like to be electrocuted, over and over again:
 
-> OK. So just how does this whole fucking shambles kick off anyway? Sometime in late 2002, I’m introduced to Wayne Adams, a spivvy property something-or-other. A wannabe adventurer. He’s short, heavy, fat. Tod slipper shoes, his ankles buckle. Greasy, pitch-black hair, too long. Greasy skin. Rich car. Rich clothes. Centre of the Universe.
->
-> Early 2003, he asks me (Africa Hand) to visit Gabon: he had become big mates with the President of that country – the late and unlamented Bongo. The President, it turns out, had taken a shine to Wayne when they had met on holiday.
->
-> My seven-day trip to Libreville is as much a waste of time as I had feared. A pain in the arse. The city is a dump, a slum, despite years of oil boom. The palace of Monsieur Le President Bongo, on the other hand, is a thing of beauty.
->
-> When I meet Bongo, I feel like laughing and not because of his name or because he is such a short arse (even in high Cuban heels). What is revoltingly hilarious is that nothing matters to Bongo except the flat dollar-a-barrel tariff deals that he has with Big Oil.
->
-> The Barrel Boyz.
->
-> Deals like this are what an oil company calls a Sweetheart Deal – but only behind their slammed closed doors. They aren’t so ‘sweetheart’ to the Joe Bloggses of Gabon. Bongo’s dollar-a-barrel Sweetheart Deal costs his country ten dollars a barrel, if a cent. The stupid fucker Bongo may not even know that. He wouldn’t care anyway.
->
-> Bongonomics.
->
+> OK. So just how does this whole fucking shambles kick off anyway? Sometime in late 2002, I’m introduced to Wayne Adams, a spivvy property something-or-other. A wannabe adventurer. He’s short, heavy, fat. Tod slipper shoes, his ankles buckle. Greasy, pitch-black hair, too long. Greasy skin. Rich car. Rich clothes. Centre of the Universe.  
+> Early 2003, he asks me (Africa Hand) to visit Gabon: he had become big mates with the President of that country – the late and unlamented Bongo. The President, it turns out, had taken a shine to Wayne when they had met on holiday.  
+> My seven-day trip to Libreville is as much a waste of time as I had feared. A pain in the arse. The city is a dump, a slum, despite years of oil boom. The palace of Monsieur Le President Bongo, on the other hand, is a thing of beauty.  
+> When I meet Bongo, I feel like laughing and not because of his name or because he is such a short arse (even in high Cuban heels). What is revoltingly hilarious is that nothing matters to Bongo except the flat dollar-a-barrel tariff deals that he has with Big Oil.  
+> The Barrel Boyz.  
+> Deals like this are what an oil company calls a Sweetheart Deal – but only behind their slammed closed doors. They aren’t so ‘sweetheart’ to the Joe Bloggses of Gabon. Bongo’s dollar-a-barrel Sweetheart Deal costs his country ten dollars a barrel, if a cent. The stupid fucker Bongo may not even know that. He wouldn’t care anyway.  
+> Bongonomics.  
 > By the end, the outcome of this business trip farce looks to be the waste of time that I had feared from the start.
 
 As a side-note, beyond Mann’s pretensions at literature, it is worth noting just how strangely “literary” this coup attempt is:
@@ -194,8 +181,7 @@ The Russians are as one would expect from a cheap thriller: the men are vodka-so
 
 Once you look for this protagonist mindset you see it everywhere. In an interview with "Bronze Age Pervert" (an effete and hyper-online Romanian fascist with no evident talent for interviewing) he describes a conversation with Tony Buckingham before they got into the mercenary business:
 
-> I remember a conversation with Tony Buckingham, my partner and who was one of the founders of Executive Outcomes with me. And I remember before it all happened, before it kicked off, we were sitting having a drink in London. Tony said "God, you know Simon, it's so boring. You know, […] I wish it was the Elizabethan age, and we could […] have a ship and just sort of sail off around the world and, you know, have adventures, and capture Spanish treasure ships… and stuff."
->
+> I remember a conversation with Tony Buckingham, my partner and who was one of the founders of Executive Outcomes with me. And I remember before it all happened, before it kicked off, we were sitting having a drink in London. Tony said "God, you know Simon, it's so boring. You know, […] I wish it was the Elizabethan age, and we could […] have a ship and just sort of sail off around the world and, you know, have adventures, and capture Spanish treasure ships… and stuff."  
 > And I looked at him, I said, "No, no, Tony, you don't understand. The adventure is always out there."
 
 (When recruiting a pilot to fly Moto from the Canary Islands, Mann analogises the mission to a galleon full of Spanish gold that one of Francis Drake’s ships might stumble upon.) He uses that term, "adventure", nine times in the book to describe his mercenary exploits. Executive Outcomes was shut down by the South African government because, in his words in a now-deleted interview with London Real, they were "having too much fun", a "lads on tour" vibe which is certainly not helped by the troops' first meal on the 727 being Nando's. Mann does not conceal how he came to have Mark Thatcher Syndrome either: he writes of his whole childhood living in the shadow of his father and grandfather, thinking of the things they had done and the battles they had fought in. (He never mentions his other grandfather, who was a director at De Beers and a chairman of a railway company.) His insecurity was never about money. It was about their having done great things while he had not.

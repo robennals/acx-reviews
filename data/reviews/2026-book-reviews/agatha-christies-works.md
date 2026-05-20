@@ -7,12 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-26T09:03:59.000Z'
 slug: agatha-christies-works
-wordCount: 3127
+wordCount: 3131
 readingTimeMinutes: 14
 source: gdoc
 tags:
   - Fiction
 ---
+
+## Book(s) Review: Agatha Christie’s Works
 
 Agatha Christie is [history’s best-selling novelist](https://en.wikipedia.org/wiki/List_of_best-selling_fiction_authors), on a par only with Shakespeare. Her works have been adapted over a hundred times, and her play _The Mousetrap_ has been running continuously since it was first performed in 1952 (well, nearly continuously – it was interrupted only by COVID). But despite her commercial success and popular appeal, Christie is underrated. [She rarely appears in must read / canon lists](https://www.commonreader.co.uk/p/how-to-get-started-reading-english). Her work is dismissed as light reading, her style too simplistic, her characters too flat. My view is that these criticisms, accurate though they are, miss the point: Christie’s unadorned style, and the lack of complexity in her characters, are evidence of mastery, not carelessness, and as such, they are worth taking seriously: there is aesthetic merit in Christie’s work. This is the first reason I’m writing this review.
 
@@ -76,8 +78,7 @@ Black-and-white morality is very common in pop culture fiction, so this isn’t 
 
 Her characters do not think that taking a life is inherently wrong – they have no qualms executing murderers. What they believe in is due process and the law, a law that is to be respected unthinkingly and without utilitarian calculation. In _One, Two, Buckle my Shoe,_ Poirot unmasks the killer even though he knows that killer is indispensable to England’s prosperity:
 
-> “Don’t you realise, Poirot, that the safety and happiness of the whole nation depends on me?”
->
+> “Don’t you realise, Poirot, that the safety and happiness of the whole nation depends on me?”  
 > “I am not concerned with nations, Monsieur. I am concerned with the lives of private individuals who have the right not to have their lives taken from them.”
 
 In other words, there are no layers to explore here, no justification for why some things are good and some things bad. There are rules, and they need to be followed, because that’s the right thing to do, and that’s all there is to say about it.
@@ -88,8 +89,7 @@ This adherence to rules extends to things like whether one is allowed to eavesdr
 
 Or,
 
-> “Quite calmly he untied the ribbon and began to open out the letters.
->
+> “Quite calmly he untied the ribbon and began to open out the letters.  
 > ‘Poirot,’ I cried, scandalised. ‘You really can’t do that. It isn’t playing the game.’”
 
 This respect for decorum and protocol was comforting to Christie’s contemporaries: Christie wrote in a rapidly changing era, when technological progress and the world wars led to massive socio-economic upheaval. Her basically Victorian outlook[4] gave readers a sense of stability. This is even more true for us modern fans: the collapse of strictly enforced norms is liberating but also bewildering and anxiety-inducing. There are few or no guidelines for anything – what clothes we should wear, how we should address each other (even more challenging in languages like French or German that have formal modes of address!), how much or whether to tip, how to give a compliment… no wonder the world where there are prescriptions for these things is appealing (if only because the readers are spared the dark and oppressive side of these norms).

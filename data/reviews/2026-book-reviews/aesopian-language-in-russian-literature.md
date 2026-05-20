@@ -15,8 +15,7 @@ tags:
   - Society
 ---
 
-> _Tyranny is always and everywhere the same, while freedom is always various. The well and truly enslaved are dependable; we know what they will say and think and do. The free are quirky._
-
+> _Tyranny is always and everywhere the same, while freedom is always various. The well and truly enslaved are dependable; we know what they will say and think and do. The free are quirky._  
 _Richard Mitchell_
 
 ## 0\. Introduction
@@ -45,23 +44,40 @@ Readers and critics alike praised Clifford’s brave ballads about war and autho
 
 Here are a few excerpts from “Squares”:
 
-> _And yet the order of things is surreal._  
-_All of you—those baking loaves,_  
-> _Spinning threads, smelting steel,—_  
-> _someone shamelessly ripped you off._  
-_[...]_  
-> _You riot and shout: "They’re robbers!"_  
-_Feeling fooled and betrayed._  
-_And then they send to you talkers_  
-_People who know how to persuade._  
-_[...]_  
-_But if you choose to persist:_  
-_- No, you can't take my will!_  
-> _They'll quietly emerge from the mist,_  
-_People who know how to kill._  
-> _Tasting the acrid, you'll swallow your woe,_  
-> _While in your window, like in a dream,_  
-> _crossing the sky, black squares will show_  
+> _And yet the order of things is surreal._
+
+_All of you—those baking loaves,_
+
+> _Spinning threads, smelting steel,—_
+
+> _someone shamelessly ripped you off._
+
+_[...]_
+
+> _You riot and shout: "They’re robbers!"_
+
+_Feeling fooled and betrayed._
+
+_And then they send to you talkers_
+
+_People who know how to persuade._
+
+_[...]_
+
+_But if you choose to persist:_
+
+_- No, you can't take my will!_
+
+> _They'll quietly emerge from the mist,_
+
+_People who know how to kill._
+
+> _Tasting the acrid, you'll swallow your woe,_
+
+> _While in your window, like in a dream,_
+
+> _crossing the sky, black squares will show_
+
 _you the sun's disconsolate gleam._
 
 (Translation by Vanya Bagayev and Oleg.)
@@ -110,7 +126,8 @@ _He was the slave of a tenacious,_
 
 a restless urge for change of place
 
-> _(an attribute that's quite vexatious,_  
+> _(an attribute that's quite vexatious,_
+
 > _though some support it with good grace)._
 
 (from the translation by Charles H. Johnston)
@@ -127,16 +144,26 @@ Like many other secret languages, Aesopian became an effective “weapon of the 
 
 A popular Soviet joke illustrates this perfectly.
 
-_A phone call:_  
-_— Could you please get Abramovich?_  
-_— He’s not here._  
-_— Is he at work?_  
-_— No._  
-_— Is he on a business trip?_  
-_— No._  
-_— Is he on vacation?_  
-_— No._  
-_— Did I understand you correctly?_  
+_A phone call:_
+
+_— Could you please get Abramovich?_
+
+_— He’s not here._
+
+_— Is he at work?_
+
+_— No._
+
+_— Is he on a business trip?_
+
+_— No._
+
+_— Is he on vacation?_
+
+_— No._
+
+_— Did I understand you correctly?_
+
 _— Yes._
 
 The joke never specifies what happened to Abramovich. That omission _is_ the joke. If the joke were told in the 1950s, Abramovich might have been arrested in connection with the “Doctors’ Plot,” the antisemitic campaign against Jewish doctors falsely accused of conspiring to murder Soviet leaders. In the 1970s, Abramovich might have applied to OVIR, the Soviet emigration office, for permission to leave for Israel; after that, any contact with him could become dangerous. But it doesn’t really matter. The joke is not “Abramovich is actually somewhere else.” The joke is, “The phone is being tapped, and we both know it.”
@@ -161,30 +188,54 @@ The best way to demonstrate it is through an example. Arkhipova discusses “The
 
 Read it “as is” first, and then I will add context.
 
-_“The Northern Spring”_  
-_Can ever children of the tropics,_  
-_Where in December roses bloom,_  
-_Where in thesauruses the topic_  
-_Of blizzard isn't granted room,_  
-> _Can, in the lands, where skies are azure_  
-_And forecasts cannot go awry,_  
-> _Where summer never stops to pleasure_  
-_The body and amuse the eye,_  
-_Can ever they, let for an instant,_  
-_In dreams, if even indistinct,_  
-_Let inadvertently, by instinct,_  
-> _Grasp what it means to think of spring,_  
-> _What means, in March, when almost freezes_  
-_The air, and terror holds its grip,_  
-_To hope, for almost no reason,_  
-_For river ice to start its trip._  
-> _And we've such vintage winters known,_  
-_Such sorts of cold had to abide,_  
-> _That there remained nor grief nor groan,_  
-_But only poverty and pride._  
-_And bitter little human beings_  
-_Blindfolded by the snow sting,_  
-> _We could foresee, while hardly seeing,_  
+_“The Northern Spring”_
+
+_Can ever children of the tropics,_
+
+_Where in December roses bloom,_
+
+_Where in thesauruses the topic_
+
+_Of blizzard isn't granted room,_
+
+> _Can, in the lands, where skies are azure_
+
+_And forecasts cannot go awry,_
+
+> _Where summer never stops to pleasure_
+
+_The body and amuse the eye,_
+
+_Can ever they, let for an instant,_
+
+_In dreams, if even indistinct,_
+
+_Let inadvertently, by instinct,_
+
+> _Grasp what it means to think of spring,_
+
+> _What means, in March, when almost freezes_
+
+_The air, and terror holds its grip,_
+
+_To hope, for almost no reason,_
+
+_For river ice to start its trip._
+
+> _And we've such vintage winters known,_
+
+_Such sorts of cold had to abide,_
+
+> _That there remained nor grief nor groan,_
+
+_But only poverty and pride._
+
+_And bitter little human beings_
+
+_Blindfolded by the snow sting,_
+
+> _We could foresee, while hardly seeing,_
+
 > _That overwhelming green of spring._
 
 (Translation by Alexander Givental and Elysee Wilson-Egolf.)
@@ -231,33 +282,48 @@ It goes something like this.
 
 The animals are all enjoying themselves in a cheerful absurdist parade: “_Wolves were mounted on a horse / Lions drove in cars, of course. / Hares in pairs / Crammed in a tram…_” Then, the trouble starts:
 
-_Suddenly a Titan_  
-_Crawls beneath the gate—_  
-_Whiskers meant to frighten,_  
-_Very stiff and straight._  
-_Cock-the-Roach_  
-_Cock-the-Roach,_  
+_Suddenly a Titan_
+
+_Crawls beneath the gate—_
+
+_Whiskers meant to frighten,_
+
+_Very stiff and straight._
+
+_Cock-the-Roach_
+
+_Cock-the-Roach,_
+
 _Cock-the-Roach the Great!!_
 
 The Cockroach terrifies the animals and brings them completely under his rule:
 
-_Creatures rock and sway,_  
-_Fainting right away._  
-_Such a dreadful flight!_  
+_Creatures rock and sway,_
+
+_Fainting right away._
+
+_Such a dreadful flight!_
+
 _Wolves eat wolves on sight._
 
 [...]
 
-> _But when they see those whiskers wave,_  
-_Oh, dear me!_  
-_Not a single beast is brave._  
+> _But when they see those whiskers wave,_
+
+_Oh, dear me!_
+
+_Not a single beast is brave._
+
 _Oh, dear me!_
 
 [...]
 
-> _Cock-the-Roach was named the Victor Great and Grand,_  
-> _King of Field and Forest, Lord of All the Land._  
-> _Ginger-Whiskers ruled—life was at its worst,_  
+> _Cock-the-Roach was named the Victor Great and Grand,_
+
+> _King of Field and Forest, Lord of All the Land._
+
+> _Ginger-Whiskers ruled—life was at its worst,_
+
 > _Birds and beasts were fooled. (May his name be cursed!)_
 
 (All the lines above are taken from the translation by Tom Botting.)
@@ -272,30 +338,54 @@ His mustache was one of his defining features and a common shorthand for him. Co
 
 Another example is “Hide and Seek in the Dusk” (1973), a little poem by the lesser-known Soviet poet Andrey Georgievich Ivanov. It was written during the so-called Era of Stagnation, which followed the Thaw. The poem is a little creepy until you parse its Aesopian meaning, and then it’s plenty creepy.
 
-_Hide and Seek in the Dusk_  
-> _When evening poured its honey light_  
-> _Across the garden, warm and bright,_  
-> _The children cried, “Now count to ten!”_  
-_And vanished in the dusk again._  
-> _Blue-eyed kids slipped behind the sky,_  
-> _Where sleepy clouds went drifting by._  
-> _Green-eyed ones nestled under trees,_  
-_As soft as secrets held by bees;_  
-> _Brown-eyed ones crouched by bark and loam,_  
-_Like acorns finding autumn home;_  
-> _They curled beside the garden stones,_  
-> _As still as earth, as hushed as bones._  
-> _Then came the seekers, bright and gay,_  
-_With lantern looks and eyes of hay;_  
-> _They searched the hedge, they swept the ground,_  
-> _They chased each whisper, leaf, and sound._  
-> _They peered beneath the lilac petals,_  
-> _They shook the shadows from the nettles;_  
-> _They asked the moon, they tapped the tree,_  
-> _“Now tell us where those hiders be!”_  
-_They found some deep in the night,_  
-_Behind a leaf, beneath a light;_  
-_But even hay-eyed seekers clever_  
+_Hide and Seek in the Dusk_
+
+> _When evening poured its honey light_
+
+> _Across the garden, warm and bright,_
+
+> _The children cried, “Now count to ten!”_
+
+_And vanished in the dusk again._
+
+> _Blue-eyed kids slipped behind the sky,_
+
+> _Where sleepy clouds went drifting by._
+
+> _Green-eyed ones nestled under trees,_
+
+_As soft as secrets held by bees;_
+
+> _Brown-eyed ones crouched by bark and loam,_
+
+_Like acorns finding autumn home;_
+
+> _They curled beside the garden stones,_
+
+> _As still as earth, as hushed as bones._
+
+> _Then came the seekers, bright and gay,_
+
+_With lantern looks and eyes of hay;_
+
+> _They searched the hedge, they swept the ground,_
+
+> _They chased each whisper, leaf, and sound._
+
+> _They peered beneath the lilac petals,_
+
+> _They shook the shadows from the nettles;_
+
+> _They asked the moon, they tapped the tree,_
+
+> _“Now tell us where those hiders be!”_
+
+_They found some deep in the night,_
+
+_Behind a leaf, beneath a light;_
+
+_But even hay-eyed seekers clever_
+
 _Could not find everyone, however._
 
 (Translation by Igor Condratievich Efimov and Nina Semenovna Aleksandrova.)
@@ -306,15 +396,24 @@ Yet another notable example is Boris Pasternak’s translation of _Macbeth_. Los
 
 _Macbeth_ is especially suitable for this. For instance, in Act IV, Scene 3, lines 164–73, Ross says:
 
-_Alas, poor country!_  
-> _Almost afraid to know itself. It cannot_  
-> _Be call’d our mother, but our grave; where nothing,_  
-> _But who knows nothing, is once seen to smile;_  
-> _Where sighs, and groans, and shrieks that rent the air_  
-> _Are made, not mark’d; where violent sorrow seems_  
-> _A modern ecstasy: the dead man’s knell_  
-> _Is there scarce ask’d for who; and good men’s lives_  
-> _Expire before the flowers in their caps._  
+_Alas, poor country!_
+
+> _Almost afraid to know itself. It cannot_
+
+> _Be call’d our mother, but our grave; where nothing,_
+
+> _But who knows nothing, is once seen to smile;_
+
+> _Where sighs, and groans, and shrieks that rent the air_
+
+> _Are made, not mark’d; where violent sorrow seems_
+
+> _A modern ecstasy: the dead man’s knell_
+
+> _Is there scarce ask’d for who; and good men’s lives_
+
+> _Expire before the flowers in their caps._
+
 _Dying or ere they sicken._
 
 This was already close enough to Pasternak’s reality. To strengthen this effect, he renders the passage subdued and less flowery, in contrast with the surrounding text. Where Shakespeare’s Ross says that Scotland is a place “_where sighs, and groans, and shrieks that rent the air / Are made, not mark’d,_” Pasternak’s Ross says simply, “_We've gotten used to tears; we don't even notice them anymore._” Where Shakespeare continues, “_where violent sorrow seems / A modern ecstasy,_” Pasternak plainly states: “_They regard the frequent storms / As mere everyday occurrences._”

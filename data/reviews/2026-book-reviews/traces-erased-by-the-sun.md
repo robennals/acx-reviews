@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T14:13:23.000Z'
 slug: traces-erased-by-the-sun
-wordCount: 3626
+wordCount: 3620
 readingTimeMinutes: 17
 source: gdoc
 tags:
@@ -19,7 +19,7 @@ tags:
 
 How might a ninth century proto-rationalist have understood the world? Although it's difficult to say with certainty, or at least with both certainty and honesty, one could do worse than to examine the life, the times, and the writings of one Abu al-Bayda al-Rabahi.
 
-## I.
+**I.**
 
 Al-Rabahi was born in a tribal settlement near Basra around the year 830 C.E. His education brought him to the city proper, where he established himself as a schoolteacher, poet, and minor grammarian. Basra was sacked by Zanj rebels in 871. Al-Rabahi escaped, possibly during the attack or possibly during the siege that preceded it. Reconstruction efforts in Basra began after the rebellion was crushed in 883. Al-Rabahi returned to the city at this time and resumed teaching as Basra rebuilt. He likely died before 923, when the city was sacked yet again in yet another conflict.
 
@@ -82,7 +82,7 @@ Al-Rabahi's manuscript is in some ways surprisingly modern. His ideas about the 
 * * *
 In his translator's preface, Irwin states the two reasons that he decided to translate al-Rabahi's work. The first is that it gives us an unusual glimpse into Abbasid society, unusual both because of al-Rabahi's status as (merely) a minor provincial scholar and because of its uncommon subject matter. The second reason is that it teaches the lesson that the preservation of culture depends on the innumerable minor figures who work toward that end. As to why Irwin would offer those reasons to a modern English-speaking general audience, we first need to learn something about Robert Irwin.
 
-## II.
+**II.**
 
 _**Traces Erased by the Sun**_
 
@@ -112,7 +112,7 @@ The whole damn book is like this. It's ostensibly about the chivalry of ruin, bu
 
 If you pretend that Irwin was playing it straight with his "translation", you walk away with the feeling that al-Rabahi made a convincing case that one must insist on culture, manners, and intellectual rigor, even in the face of inevitable ruin. If you read it as the literary fiction that it is, you walk away with the feeling that Irwin made a convincing case that, although al-Rabahi's attitude is necessary, it's still absurd.
 
-## III.
+**III.**
 
 At this point in the ACX book review it is customary to make an explicit normative argument about a pressing issue of the day, exposit the theories of the book under review in light of that pressing issue, and win over ACX reader hearts and minds, not just with respect to the contest, but with respect to the cause of one side or the other of the issue.
 
@@ -120,7 +120,7 @@ Alas, that simply is not Irwin's style.[1] He refuses to moralize (al-Rabahi is 
 
 I suspect that Irwin had an answer, although for the foregoing reasons it's difficult to say with certainty (or, again, at least with both certainty and honesty). So, the best that I can do is (1) summarize the book's argument that the tension really exists, and (2) provide explicitly what I suspect was Irwin's answer. If you don't consider "the tension between the necessity of and the absurdity of the preservation of culture in the face of destruction" to be a pressing issue of the day, then that's on you.
 
-## IV.
+**IV.**
 
 Successfully navigating across the two readings the labyrinth of adab that Irwin writing as al-Rabahi wrote, we arrive at roughly the following argument:
 
@@ -139,7 +139,7 @@ To be clear, Irwin _the historian_ would have rejected this argument. As a rule,
 
 Even though Irwin would have rejected the argument, he would not have rejected the claim that there really is a necessity to preserve culture, but he would have seen that necessity as more of a professional or scholarly ethic rather than a moral necessity. That is, even though the argument is flawed, there really is still a tension between necessity and absurdity, but the necessity is a property of scholarship rather than a general human necessity. As a result, my conjecture about how Irwin would answer the question of how to resolve this tension, is that he would say that the tension comes with the territory; when you sign up to be a scholar, you take upon yourself the professional obligation to preserve the culture that is the subject of your scholarship, along with the ensuing absurdity of that obligation.
 
-## V.
+**V.**
 
 I'll end this review with my own answer,[2] which is different from my conjecture about Irwin's answer.
 
@@ -153,7 +153,7 @@ Viewed this way, the real absurdity appears to be that a person would hand over 
 
 So the short answer is, reciprocity. A highly cultivated person reaps greater social benefits than an uncultured person, but the cost of those benefits is the concession of his mind to his culture's ideas.
 
-## Footnotes.
+**Footnotes.**
 
 [1] As an author of fiction. As a historian, Irwin _did_ take and argue positions, but they tended to be historical or historiographical positions rather than political or philosophical positions. For example, in _Ibn Khaldun: An Intellectual Biography_, Irwin argued that that historical personage is best understood as a medieval Arab scholar, rather than as the secretly modern rationalist or secular scientist that other modern-era Orientalist scholars and historians had portrayed him to be. (_Ibn Khaldun_ was published in 2018; one wonders whether _Traces Erased by the Sun_ was, at least in part, an earlier, literary exploration of the tendency of modern readers to project contemporary intellectual concerns onto medieval figures.)
 

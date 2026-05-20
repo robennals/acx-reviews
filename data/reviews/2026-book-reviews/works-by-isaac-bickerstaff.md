@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:03:49.000Z'
 slug: works-by-isaac-bickerstaff
-wordCount: 7432
+wordCount: 7429
 readingTimeMinutes: 34
 source: gdoc
 tags:
@@ -85,8 +85,10 @@ Partridge’s next mistake was attempting to argue with his own death. By then, 
 
 Just to be administratively consistent, Swift followed this up with an epitaph. His humorous and contemptuous tone could have only made Partridge more angry.
 
-> _Here, five Foot deep, lies on his Back,_  
-> _A Cobbler, Star monger, and Quack;_  
+> _Here, five Foot deep, lies on his Back,_
+>
+> _A Cobbler, Star monger, and Quack;_
+>
 > _Who to the Stars in pure Good-will,_
 
 _Does to his best look upward still_.
@@ -99,20 +101,15 @@ Not knowing that history would vindicate him, Partridge wrote an enraged respons
 
 Partridge describes himself as spending much of his time ejecting undertakers, embalmers, coffin-joiners, sextons, and elegy hawkers from his home. Intended to provoke sympathy, these only made things worse.
 
-> _I open the window, and ask who’s there, and what he wants?_
->
-> _**I am Ned the sexton, replies he, and come to know whether the Doctor left any orders for a funeral sermon, and where he is to be laid, and whether his grave is to be plain or bricked?**_
->
-> _**Why, sirrah**__,_ _**says I, you know me well enough; you know I am not dead, and how dare you affront me in this manner**__?_
->
+> _I open the window, and ask who’s there, and what he wants?_  
+> _**I am Ned the sexton, replies he, and come to know whether the Doctor left any orders for a funeral sermon, and where he is to be laid, and whether his grave is to be plain or bricked?**_  
+> _**Why, sirrah**__,_ _**says I, you know me well enough; you know I am not dead, and how dare you affront me in this manner**__?_  
 > _**Alack-a-day**__, replies the fellow,_ _**why ‘tis in print, and the whole town knows you are dead; why, there’s Mr. White the joiner is but fitting screws to your coffin, he’ll be here with it in an instant: he was afraid you would have wanted it before this time.**_
 
 As Partridge tells it, his public life became a parade of people treating his death as an amusing administrative fact.
 
-> _Nay,_ _**the very reader, of our parish, a good sober, discreet person, has sent two or three times for me to come and be buried decently, or send him sufficient reasons to the contrary,**_ _if I have been interred in any other parish, to produce my certificate, as the act requires._
->
-> …
->
+> _Nay,_ _**the very reader, of our parish, a good sober, discreet person, has sent two or three times for me to come and be buried decently, or send him sufficient reasons to the contrary,**_ _if I have been interred in any other parish, to produce my certificate, as the act requires._  
+> …  
 > _But the greatest grievance is, a poultry quack, that takes up my calling just under my nose, and_ _**in his printed directions with N.B. says, He lives in the house of the late ingenious Mr. John Partridge, an eminent practitioner in leather, physick and astrology**__._
 
 Partridge blamed a Catholic conspiracy: _France and Rome are at the bottom of this horrid conspiracy against me; … through my sides there is a wound given to all the Protestant almanack-makers in the universe._

@@ -116,10 +116,9 @@ The Ghost of Christmas Past takes Scrooge to visit his old fiancée, Belle, now 
 
 ## “Guess!”
 
->   
-
 ## “How can I? Tut, don’t I know?” she added in the same breath, laughing as he laughed. “Mr. Scrooge.”
 
+>   
 > “Mr. Scrooge it was. I passed his office window; and as it was not shut up, and he had a candle inside, I could scarcely help seeing him. His partner lies upon the point of death, I hear; and there he sat alone. Quite alone in the world, I do believe.”
 
 ## “Spirit!” said Scrooge in a broken voice, “remove me from this place.”
