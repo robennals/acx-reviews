@@ -1,15 +1,16 @@
 ---
 title: Bellum Catilinae -- The Catiline Conspiracy
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Dylan Black
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T22:44:46.000Z'
 slug: bellum-catilinae-the-catiline-conspiracy
-wordCount: 7321
+wordCount: 7322
 readingTimeMinutes: 33
 source: gdoc
+originalUrl: https://docs.google.com/document/d/14crxbVzgORGo6U-xCInVt8dBqmnxDfVfwtgBStqA6TQ
 tags:
   - History
 ---
@@ -68,7 +69,7 @@ Catiline’s conspiracy is famous, not so much for its impact on history, but fo
 
 * * *
 
-"Sallust, according to the judgment of the learned, will rank as the prince of Roman historiographers."
+> "Sallust, according to the judgment of the learned, will rank as the prince of Roman historiographers."
 
 —Martial
 

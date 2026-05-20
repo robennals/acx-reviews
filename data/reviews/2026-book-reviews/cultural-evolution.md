@@ -1,7 +1,7 @@
 ---
 title: Cultural Evolution
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Joshua Ingle
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: cultural-evolution
 wordCount: 6567
 readingTimeMinutes: 30
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1ov0rrdStf4jMxqIXkMq_LN-KtFeQ6KtZ9fn8LTBQhrg
 tags:
   - Politics
   - Economics

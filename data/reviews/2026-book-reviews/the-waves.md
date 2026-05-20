@@ -1,7 +1,7 @@
 ---
 title: The Waves
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Rowan Anderson
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: the-waves
 wordCount: 4648
 readingTimeMinutes: 21
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1nbhmMRWjwsKwXAXcxwrnL1VbsS4oeircIpHH81k8XNA
 tags:
   - Fiction
 ---

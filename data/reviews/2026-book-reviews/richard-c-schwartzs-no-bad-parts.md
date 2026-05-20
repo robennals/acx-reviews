@@ -1,7 +1,7 @@
 ---
 title: Richard C. Schwartz's "No Bad Parts"
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Frank Said
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: richard-c-schwartzs-no-bad-parts
 wordCount: 4777
 readingTimeMinutes: 22
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1HuvNtqUt9WGihGw3-cTQbcbrLkIrK_gFIK9om2aT4io
 tags:
   - Psychology
 ---

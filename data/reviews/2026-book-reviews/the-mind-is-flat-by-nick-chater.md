@@ -1,7 +1,7 @@
 ---
 title: The Mind is Flat by Nick Chater
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Jakob Schwichtenberg
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: the-mind-is-flat-by-nick-chater
 wordCount: 7059
 readingTimeMinutes: 32
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1DPKWhFlSyrwtq32C4y8E8hhSZQkAeTVg6dgOmYUJDZE
 tags:
   - Psychology
 ---

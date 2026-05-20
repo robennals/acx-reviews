@@ -87,11 +87,30 @@ export function resetCache(): void {
  */
 export function applyH2Overrides(markdown: string, allowedH2Lines: string[]): string {
   const allowed = new Set(allowedH2Lines.map(l => l.trim()));
+  // Unescape turndown's markdown escapes so the allowed-list can be
+  // written with natural text (e.g. "1. Foo" matches `1\. Foo`).
+  const unescape = (s: string) => s.replace(/\\([.])/g, '$1').trim();
   const lines = markdown.split('\n');
   for (let i = 0; i < lines.length; i++) {
     const boldMatch = /^\*\*([^*\n]+)\*\*[ \t]*$/.exec(lines[i]);
     if (boldMatch && allowed.has(boldMatch[1].trim())) {
       lines[i] = `## ${boldMatch[1].trim()}`;
+      continue;
+    }
+    // Plain (non-bold) lines: a single short paragraph whose unescaped
+    // text appears in the allowed list. Used for documents like Fear and
+    // Trembling where section headings are plain `1. Title` paragraphs
+    // (no bold or heading style in the source gdoc).
+    const plainText = unescape(lines[i]);
+    if (
+      plainText &&
+      allowed.has(plainText) &&
+      !lines[i].startsWith('#') &&
+      !lines[i].startsWith('>') &&
+      !lines[i].startsWith('*') &&
+      !lines[i].startsWith('-')
+    ) {
+      lines[i] = `## ${plainText}`;
       continue;
     }
     const h2Match = /^## (.+?)\s*$/.exec(lines[i]);

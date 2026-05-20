@@ -1,7 +1,7 @@
 ---
 title: Бесы
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Arcus Impetus
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: undertook-learn-russian-about-ten-years
 wordCount: 4892
 readingTimeMinutes: 22
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1pZhBkKPKYKDBpfzO4OvqfCnD3XywJQnozwW4QZ_lw3U
 tags:
   - Fiction
 ---

@@ -1,7 +1,7 @@
 ---
 title: Theodicy
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Johann Wolfgang
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: theodicy
 wordCount: 5109
 readingTimeMinutes: 23
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1etJr0rYpWbdyJ1lVWcJ70lmRjcIjmpz3zxTo27nBF8U
 tags:
   - Fiction
   - Religion

@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Desire by David Buss
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Wes Fenza
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: the-evolution-of-desire-by-david-buss
 wordCount: 3753
 readingTimeMinutes: 17
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1Q5AQW07IbILIy6iU2EEQUGgHDvethsxzsLdJh1fvUTA
 tags:
   - Psychology
   - Science

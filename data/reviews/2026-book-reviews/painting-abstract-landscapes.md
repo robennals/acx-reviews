@@ -1,7 +1,7 @@
 ---
 title: Painting Abstract Landscapes
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Molly Zurek
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: painting-abstract-landscapes
 wordCount: 7206
 readingTimeMinutes: 33
 source: gdoc
+originalUrl: https://docs.google.com/document/d/18QZyTWVPOaj_ULIUeen9ZA6SBzTA5q8mUtzFpk2WnBw
 tags:
   - Philosophy
 ---

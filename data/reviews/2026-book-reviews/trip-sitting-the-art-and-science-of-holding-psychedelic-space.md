@@ -1,7 +1,7 @@
 ---
 title: 'Trip Sitting: The Art and Science of Holding Psychedelic Space'
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Daniel Böttger
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: trip-sitting-the-art-and-science-of-holding-psychedelic-space
 wordCount: 1097
 readingTimeMinutes: 5
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1mlHCzGTFWXURTPruL0YXjvw1I9f773818Q3kudZV7eM
 tags:
   - Psychology
   - Science
@@ -50,7 +51,7 @@ This gist appears to accord with mainstream opinion among people who publicly co
 
 I have not personally verified the value of these particulars, because I don’t do drugs, not even legal pot, anymore. For me this book is not so much a manual as it is a fascinating top view of experiences very different from my own, of psychonauts venturing through outlying reaches of the barely imaginable. But should I ever go there myself, or should another friend tell me they want to seek healing in psychedelics, I am going to confidently bet that this book is Right.
 
-### Footnotes
+## Footnotes
 
 [1] Professionally assessed by a licensed psychotherapist, not just self-diagnosis.
 

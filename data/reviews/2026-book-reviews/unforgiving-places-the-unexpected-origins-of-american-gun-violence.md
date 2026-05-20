@@ -1,7 +1,7 @@
 ---
 title: 'Unforgiving Places: The Unexpected Origins of American Gun Violence'
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Eric Ralph
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: unforgiving-places-the-unexpected-origins-of-american-gun-violence
 wordCount: 2372
 readingTimeMinutes: 11
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1USV5XsEiGEtsSLgezl8EsvTknwzyQquhGA-N_jOC8mU
 tags:
   - Society
   - Politics

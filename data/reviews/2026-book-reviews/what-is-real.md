@@ -1,7 +1,7 @@
 ---
 title: What is Real?
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Charles Carroll
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: what-is-real
 wordCount: 10150
 readingTimeMinutes: 46
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1jUH-JgxX2N1Ks_b-DLr080XEL8sX0sVXEeu79OMmAa4
 tags:
   - Science
   - Philosophy

@@ -1,15 +1,16 @@
 ---
 title: '"A World Appears" by Michael Pollan.'
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Demarquis
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T18:27:55.000Z'
 slug: a-world-appears-by-michael-pollan
-wordCount: 3571
+wordCount: 3577
 readingTimeMinutes: 16
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1jR9Nu2hIB-tTkIgmgnNSefIa5We0ZllU0VfqSRxAMW8
 tags:
   - Science
   - Philosophy
@@ -125,13 +126,13 @@ Homeostasis is Feeling Good (but why does it feel like anything?)
 
 Mark Solms and AI
 
-“Consciousness is Felt Uncertainty”
+> “Consciousness is Felt Uncertainty”
 
 We can model this
 
 POMPD
 
-“Any system that has the same functionality will have feelings”
+> “Any system that has the same functionality will have feelings”
 
 Kingston Mann
 
@@ -159,7 +160,7 @@ Findings
 
 Kalina Christoff Hadjiilieva and Spontaneous Thought
 
-“Neurophenomenology”
+> “Neurophenomenology”
 
 Mind as its own input
 
@@ -197,7 +198,7 @@ Emotions are how the brain's predictions about the body feel
 
 The point is homeostasis
 
-“You don’t need an inferrer to make inferences or a perceiver to make perceptions.”
+> “You don’t need an inferrer to make inferences or a perceiver to make perceptions.”
 
 The phenomenology of the self
 
@@ -207,7 +208,7 @@ Michael Levin and Caterpillar learning
 
 Reconstructive Memory
 
-“Could consciousness be what it feels like to be in charge of constant self construction?”
+> “Could consciousness be what it feels like to be in charge of constant self construction?”
 
 Telling ourselves stories
 
@@ -229,7 +230,7 @@ Christof Koch and the shortcomings of physicalism
 
 When scientists can’t explain something, they call it an illusion, or emergent phenomena.
 
-“Matter is an inference, and mind is a given.”
+> “Matter is an inference, and mind is a given.”
 
 Last word to Chalmers: “No position on the mind-body problem is plausible… but one of them must be true.”
 

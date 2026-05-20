@@ -8,7 +8,7 @@ export interface ExtractedFootnotes {
   footnotes: ExtractedFootnote[];
 }
 
-type Format = 'sdfootnote' | 'ftnt' | 'fn' | 'plain' | 'none';
+type Format = 'sdfootnote' | 'ftnt' | 'fn' | 'pandoc' | 'plain' | 'none';
 
 const REF_MARKER = (id: string, first: boolean) =>
   first
@@ -40,6 +40,12 @@ function detectFormat(md: string): Format {
     return 'ftnt';
   }
   if (/\[\d+\]\(https?:\/\/[^)]*#fn:[^)]+\)/.test(md)) return 'fn';
+  // Pandoc / extended-markdown footnotes: `[^id]` for refs in body and
+  // `[^id]: text` definitions at line start. Require BOTH to confirm —
+  // a stray `[^id]` in code or prose isn't enough to claim the doc.
+  if (/\[\^[^\]\s]+\]/.test(md) && /^\[\^[^\]\s]+\]:[ \t]/m.test(md)) {
+    return 'pandoc';
+  }
   // Plain: there's a trailing footnotes section ending at EOF. A
   // def-start is either `[N] content` (bracketed inline form) OR — if
   // the doc has NO bracketed defs at all — a bare `N` on its own line
@@ -350,6 +356,90 @@ function extractFn(md: string): ExtractedFootnotes {
   return { body, footnotes };
 }
 
+function extractPandoc(md: string): ExtractedFootnotes {
+  // Pandoc-style footnotes:
+  //   body:   `prose...[^1] more prose...`
+  //   defs:   `[^1]: text continuing on subsequent indented lines`
+  // Definitions live at the bottom of the doc, each starting at column 0
+  // with `[^id]:`; continuation lines are indented by one or more spaces.
+  // The id is any run of non-`]`, non-whitespace characters (typically
+  // a number, but pandoc also allows named refs like `[^note-foo]`).
+  const lines = md.split('\n');
+  const defStart = /^\[\^([^\]\s]+)\]:[ \t]?(.*)$/;
+  const items: Array<{ id: string; raw: string[] }> = [];
+  let firstDefLine = -1;
+  let current: { id: string; raw: string[] } | null = null;
+  for (let i = 0; i < lines.length; i++) {
+    const m = defStart.exec(lines[i]);
+    if (m) {
+      if (firstDefLine < 0) firstDefLine = i;
+      if (current) items.push(current);
+      current = { id: m[1], raw: [m[2]] };
+    } else if (current) {
+      // Continuation: indented line, or blank between paragraphs of the
+      // same def. A line with content at column 0 ends the current def
+      // (and the run of defs, since defs must be contiguous at the
+      // bottom of the doc).
+      if (lines[i].trim() === '') {
+        current.raw.push('');
+      } else if (/^[ \t]/.test(lines[i])) {
+        current.raw.push(lines[i].replace(/^[ \t]+/, ''));
+      } else {
+        // Column-0 non-blank, non-def: definitions block ended above.
+        // Push the current def and stop scanning.
+        items.push(current);
+        current = null;
+        break;
+      }
+    }
+  }
+  if (current) items.push(current);
+
+  // De-dupe by id (keep first occurrence) and collect.
+  const seen = new Set<string>();
+  const footnotes: ExtractedFootnote[] = [];
+  for (const it of items) {
+    if (seen.has(it.id)) continue;
+    seen.add(it.id);
+    // Trim trailing blank lines from the raw block.
+    const raw = it.raw.join('\n').replace(/\s+$/g, '').trim();
+    footnotes.push({ id: it.id, raw });
+  }
+
+  // Body: everything before the first def line, with `[^id]` refs in body
+  // rewritten to numbered sup markers. If the id isn't purely numeric,
+  // assign a sequential number in order of first appearance.
+  const idToNumber = new Map<string, string>();
+  let nextNum = 1;
+  for (const fn of footnotes) {
+    if (/^\d+$/.test(fn.id)) idToNumber.set(fn.id, fn.id);
+    else idToNumber.set(fn.id, String(nextNum));
+    nextNum++;
+  }
+
+  let body = firstDefLine >= 0
+    ? lines.slice(0, firstDefLine).join('\n')
+    : md;
+  const seenInBody = new Set<string>();
+  body = body.replace(/\[\^([^\]\s]+)\]/g, (full, id: string) => {
+    const num = idToNumber.get(id);
+    if (!num) return full;
+    const first = !seenInBody.has(num);
+    seenInBody.add(num);
+    return REF_MARKER(num, first);
+  });
+
+  // Renumber footnote ids in the output so renderers can use sequential
+  // anchors that match the in-body refs.
+  const renumbered: ExtractedFootnote[] = footnotes.map(fn => ({
+    id: idToNumber.get(fn.id) ?? fn.id,
+    raw: fn.raw,
+  }));
+
+  body = body.replace(/\n{3,}$/g, '\n\n').replace(/\s+$/g, '') + '\n';
+  return { body, footnotes: renumbered };
+}
+
 function extractPlain(md: string): ExtractedFootnotes {
   const lines = md.split('\n');
   // A def-start is either `[N] content` (bracketed inline) or — if the
@@ -583,6 +673,9 @@ export function extractFootnotes(markdown: string): ExtractedFootnotes {
       break;
     case 'fn':
       extracted = extractFn(withPlaceholders);
+      break;
+    case 'pandoc':
+      extracted = extractPandoc(withPlaceholders);
       break;
     case 'plain':
       extracted = extractPlain(withPlaceholders);

@@ -1,21 +1,22 @@
 ---
 title: Stabilizing an Unstable Economy
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Richard Demsyn-Jones
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-26T03:39:04.000Z'
 slug: stabilizing-an-unstable-economy
-wordCount: 8215
+wordCount: 8216
 readingTimeMinutes: 37
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1FM9jX7gBQXbPyxHtVF8OqoGlIxq4R6K91zLs9n5q7wY
 tags:
   - Economics
   - Politics
 ---
 
-“Economic theory is the product of creative imagination; its concepts and constructs are the result of human thought”
+> “Economic theory is the product of creative imagination; its concepts and constructs are the result of human thought”
 
 That quote is from the first page of Hyman Minsky’s _Stabilizing_ _an Unstable Economy_. Picture Jeffrey Lebowski looking at the entirety of mainstream economics and saying “Yeah, well, that's just like, your opinion, man”, except if Jeffrey Lebowski was a veteran economist. Minsky made it clear from the start that he would show no deference to consensus views. Economists had not, and still have not, solved all the questions of economics.
 

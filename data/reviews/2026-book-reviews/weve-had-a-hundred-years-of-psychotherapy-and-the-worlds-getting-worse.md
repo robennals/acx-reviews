@@ -1,7 +1,7 @@
 ---
 title: We've Had a Hundred Years of Psychotherapy and the World's Getting Worse
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Keith R Wilson
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse
 wordCount: 2025
 readingTimeMinutes: 9
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1ZT5l4FodAzEqMv2eTDyY6PuAkRlzjbGX
 tags:
   - Psychology
   - Philosophy
@@ -22,7 +23,7 @@ It happens every day in my psychotherapy office. A client comes in and complains
 
 What I found changed how I understand both.
 
-### Symptoms are Messages
+## Symptoms are Messages
 
 Whenever my clients bring up politics, I say we're not here to solve the problems of the world, we're here to solve their problems. Why can't you stop worrying? My clients know it, Hillmann and Ventura knew it, and I would know it if I had read their book, but my clients can't stop worrying **because** of the problems of the world. The symptoms we've been trying to address are not my client's symptoms, they're the world's.
 
@@ -30,7 +31,7 @@ My clients are not supposed to stop worrying while the climate is heating up, po
 
 The message is pay attention, and not just to your inner world. But that's not what therapy does. Instead, therapy takes your legitimate concerns about a crazy world and makes them about you. Therapy has become a massive machine for converting political problems into personal ones. It's been so successful that people now know more about their attachment styles than they do about how their city council works.
 
-### The Acorn Theory
+## The Acorn Theory
 
 James Hillman was one of the most influential and provocative psychologists of the 20th century. Michael Ventura is a cultural critic, novelist, and journalist. Their central insight came from Hillman's "acorn theory," which turns traditional psychology on its head.
 
@@ -42,7 +43,7 @@ Your struggles, quirks, and even what we call symptoms isn't damage to be healed
 
 The perfectionist who can't finish projects might actually be a visionary who refuses to settle for mediocrity. The people pleaser who gets walked over could be a natural healer channeling deep empathy. The anxious overthinker might be a strategic planner whose soul is wired to see patterns others miss. The rebellious troublemaker could be an innovator who refuses to accept systems that don't serve humanity. The sensitive person who gets overwhelmed might be picking up on subtleties others can't perceive. Instead of asking "What's wrong with me?" Hillman would have you ask "What is this trying to teach me about who I really am?"
 
-### Therapy Language
+## Therapy Language
 
 As bad as things were when they wrote their book in 1992, the world seems to have gotten even worse. It certainly hasn't gotten better. Meanwhile, the therapy world is even more ubiquitous. Everything is put in therapy language now. Dating apps are full of people listing their attachment styles like credentials. TikTok overflows with people diagnosing themselves with everything from ADHD to bipolar disorder. Disagreements are "triggering," bad bosses are "toxic," conversations need "safe spaces," exes are "narcissists," and parents are "emotionally unavailable." You're not tired, you're "burned out," you're not sad, you're "depressed," and you're not different, you're "neurodivergent."
 
@@ -50,7 +51,7 @@ Hillman and Ventura warned us about that. They would not have been happy. When w
 
 What's worse, therapy language has become a way to divide people into the enlightened versus unenlightened, healthy versus unhealthy, evolved versus toxic. If you're not fluent in therapy-speak, you're dismissed as someone uneducated or who "hasn't done the work." If you question whether every human interaction needs to be analyzed through a psychological lens, you're "in denial" or "emotionally unavailable." The language that was supposed to bring understanding has become a weapon for moral superiority. People use their therapy vocabulary to shut down conversations rather than open them up.
 
-### The Psyche is Not in You
+## The Psyche is Not in You
 
 Perhaps most insidiously, therapy culture promotes a radical individualism that horrified Hillman and Ventura. Everything is about your personal journey, your healing, your growth, your boundaries, your trauma. Everyone else becomes either a supporting character or an antagonist in your story. Community becomes impossible when everyone is too busy working on themselves to actually show up for each other. This hyperindividualism has left us more isolated than ever, which brings us to one of Hillman and Ventura's most profound insights. We've forgotten we're part of something bigger than ourselves.
 
@@ -58,7 +59,7 @@ Hillman puts it succinctly, "The psyche is not in you, you are in the psyche." T
 
 Hillman argues the opposite. Your psychological state isn't just determined by what's happening inside your skull, but by a whole web of connections. You can't help but be affected by the environment, the relationships, and the cultural moment you're living in. They're all part of your psychological reality. If you're living in a sick society, you're going to feel sick too, and no amount of personal therapy will fix that. The psyche that needs healing is the world.
 
-### My Critique of the Book
+## My Critique of the Book
 
 I feel convicted while reading Hillman and Ventura's book. They would've counted me as part of the problem for the forty years I've been shrinking heads. I should have read it when it came out. But that's not to say that they're entirely right.
 
@@ -72,7 +73,7 @@ I feel convicted while reading Hillman and Ventura's book. They would've counted
 
 **Finally, my main critique of Hillman and Ventura**: They do not take their analysis far enough and apply their own principles. If we conceive of the world as a psyche, and if the problems the authors identified (regression to the inner child, therapy talk, and individualism) are symptomatic, then what is the message those symptoms are trying to deliver? If the world as we know it is an acorn struggling to grow into an oak tree, what is this oak tree and how do the symptoms they identify contribute to its formation?
 
-### What the Symptoms Are Trying to Tell Us
+## What the Symptoms Are Trying to Tell Us
 
 The symptoms of cultural sickness that Hillman and Ventura saw might actually be healthy immune responses to genuinely toxic conditions and a necessary stage of development.
 

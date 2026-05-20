@@ -1,7 +1,7 @@
 ---
 title: Bleeding Edge by Thomas Pynchon
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Lucas Thomas
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: bleeding-edge-by-thomas-pynchon
 wordCount: 6144
 readingTimeMinutes: 28
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1C01VKVlKl5QqGU_MRFYmLHMFH0pnkwhNLAxgcEyhp94
 tags:
   - Fiction
   - History

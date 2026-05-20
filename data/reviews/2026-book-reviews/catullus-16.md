@@ -1,7 +1,7 @@
 ---
 title: Catullus 16
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Arrow
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: catullus-16
 wordCount: 4263
 readingTimeMinutes: 19
 source: gdoc
+originalUrl: https://docs.google.com/document/d/10CwmbBLSkQc98sMkCo8IZ5BvJQ8KhROnIN8aUOE-ErI
 tags:
   - Fiction
 ---

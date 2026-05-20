@@ -1,7 +1,7 @@
 ---
 title: The Sins of GK Chesterton
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Zanzibar Buck-buck McFate
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: the-sins-of-gk-chesterton
 wordCount: 7796
 readingTimeMinutes: 35
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1KuMJ1T9_foLrhOUBE9n6BOn_OqUmLYdN7UHuA9zNL-0
 tags:
   - Religion
   - Politics

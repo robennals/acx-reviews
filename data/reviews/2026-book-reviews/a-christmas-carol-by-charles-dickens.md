@@ -1,7 +1,7 @@
 ---
 title: A Christmas Carol by Charles Dickens
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Locke
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: a-christmas-carol-by-charles-dickens
 wordCount: 5671
 readingTimeMinutes: 26
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1bW9YYE8ckxPV1ezTYlLq1kJ9cqlTYi-qnY4Op9eVlHA
 tags:
   - Fiction
 ---

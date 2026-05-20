@@ -1,15 +1,16 @@
 ---
 title: Wild Wise Weird
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Manh-Toan Ho
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-16T09:21:08.000Z'
 slug: wild-wise-weird
-wordCount: 1527
+wordCount: 1531
 readingTimeMinutes: 7
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1M85789pe8pRALLczQn4KR0yUNwgOhXt8
 tags:
   - Fiction
   - Philosophy
@@ -71,11 +72,11 @@ Before tonight’s discussion, he tasked Minimus with an additional responsibili
 
 The animals could no longer remain silent.
 
-“Feng Shui! Feng Shui! Feng Shui!”
+> “Feng Shui! Feng Shui! Feng Shui!”
 
 After all the hardship, the layoffs, and the aid packages, they had found a way forward.
 
-“Feng Shui!”
+> “Feng Shui!”
 
 * * *
 
@@ -83,13 +84,13 @@ After all the hardship, the layoffs, and the aid packages, they had found a way 
 
 A small sheep yells:
 
-"Why!!! Why!!! Please bless us with your insights!"
+> "Why!!! Why!!! Please bless us with your insights!"
 
 The farmhouse is dead silent. All animals lift their heads and look at Napoleon.
 
 "You know the last commandments of the Farm. I just know!" -- Napoleon replies.
 
-"Now, get back to work. Some of you have the night shift. Next week, we will read Laugh or Lament."
+> "Now, get back to work. Some of you have the night shift. Next week, we will read Laugh or Lament."
 
 The animals break into different groups and leave the farmhouse. They quietly whisper and discuss the wisdom of Kingfisher the Wise. They are also in awe of the mysterious and sudden direction of Napoleon.
 

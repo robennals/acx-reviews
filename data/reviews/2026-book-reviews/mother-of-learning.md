@@ -1,7 +1,7 @@
 ---
 title: Mother of Learning
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Jonathan Lafrenaye
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: mother-of-learning
 wordCount: 5869
 readingTimeMinutes: 27
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1wB4WEgMF8ESCD6q2jemvrWgbCewFfoocR6XQJzX8908
 tags:
   - Fiction
 ---

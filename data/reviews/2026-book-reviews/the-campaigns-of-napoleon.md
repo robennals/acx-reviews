@@ -1,7 +1,7 @@
 ---
 title: The Campaigns of Napoleon
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Nathan
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: the-campaigns-of-napoleon
 wordCount: 2391
 readingTimeMinutes: 11
 source: gdoc
+originalUrl: https://docs.google.com/document/d/10IVJt9FvNNpCfai_kw0NeztDlaMYBDPP4wBJkQ8xtZI
 tags:
   - History
 ---

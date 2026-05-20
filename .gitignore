@@ -57,6 +57,7 @@ next-env.d.ts
 
 # Private contest submission data (contains email addresses, author names)
 *-submissions.csv
+*Submission*.zip
 .claude/
 
 # Cached raw Google Docs HTML exports. Repopulated on demand by fetchGDocAsHTML;

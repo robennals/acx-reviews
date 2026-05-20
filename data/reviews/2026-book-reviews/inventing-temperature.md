@@ -1,7 +1,7 @@
 ---
 title: Inventing Temperature
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Sean Trott
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: inventing-temperature
 wordCount: 5171
 readingTimeMinutes: 23
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1Z8j-AbxzuVlGzl0K1-q7rjjoB12xdE8jlA_IfcXmZPU
 tags:
   - Science
   - Philosophy

@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Coups d’État
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Maxwell Wilson
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: how-to-prevent-coups-dtat
 wordCount: 3260
 readingTimeMinutes: 15
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1_g6StolGeqoj3RlIGR3bILSuLNGTQKPF5w8j2qD_sKk
 tags:
   - Politics
   - History

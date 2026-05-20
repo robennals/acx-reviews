@@ -1,7 +1,7 @@
 ---
 title: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Steffee
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism
 wordCount: 6269
 readingTimeMinutes: 28
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1Yf6qbjAjcT101UnswkHaTdETXPU1HAi948stLQYTqn0
 tags:
   - Technology
   - Memoir

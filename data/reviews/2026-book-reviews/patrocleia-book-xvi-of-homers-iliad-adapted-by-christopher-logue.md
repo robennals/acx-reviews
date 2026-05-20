@@ -1,15 +1,16 @@
 ---
 title: Patrocleia. Book XVI of Homer’s Iliad, adapted by Christopher Logue
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Silentiarius
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T12:23:17.000Z'
 slug: patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue
-wordCount: 2287
+wordCount: 2289
 readingTimeMinutes: 11
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1FwhMhBexjyMd_Kb3w5smyATVpkDDDtDFB6rbSAXmdPM
 tags:
   - Fiction
 ---
@@ -17,6 +18,7 @@ tags:
 **Book design and typography by Germano Facetti**  
 **Scorpion Press, London 1962**
 
+  
  _As flies to wanton boys are we to the gods; They kill us for their sport._  
 (King Lear I,V:I:37–38)
 
@@ -73,6 +75,7 @@ Logue also breaks up the action with short, apparently irrelevant interpolations
 
 Patroclus succeeds in defeating the Trojan attack on the Greek ships, but succumbs to the hubris Achilles warned him of.
 
+>   
 > **Nothing was left of Hector’s raid except**  
 > **Loose smoke-swathes drifting over the Aegean like dark hair,**  
 > **And the ditch stained perfect crimson where**  
@@ -83,6 +86,7 @@ Patroclus succeeds in defeating the Trojan attack on the Greek ships, but succum
 > **Mindless of everything Achilles said**  
 > **Patroclus went for Troy.**
 
+  
 And then, before Patroclus meets his fate, Homer sings of the death of Sarpedon, Prince of Lydia, first and most faithful of Troy’s allies, in this most extended of his battle scenes.
 
 > _**Under the white sun, back and forth**_  
@@ -131,6 +135,7 @@ Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-co
 > **And him inside it lying**  
 > **Like a waxen god asleep on his outstretched hand.**
 
+  
 The sequence of events in Logue’s rendition has followed the Homeric original closely, but he interpolates two entirely original texts: the fallen tree simile, and the wonderful details of Apollo’s Joshua-like halting of the sun: _“Sun, stand thou still over Ilium”_. In addition, his is the inspired image of blades moving across Sarpedon’s body “_like grasses over stone_.”
 
 And still the battle rages:  
@@ -164,6 +169,7 @@ Eventually, after hours of grim fighting and many deaths, the Greeks overcome Gl
 > **Ordered your borrowed Myrmidons to drag him off**  
 > **And went for Troy alone.**
 
+  
 It is now too late for the hero, as the hammer blows of Achilles’ admonitory warnings echo again like an ominous Wagnerian theme:  
 
 > **Three times Patroclus climbed Troy’s wall.**  
@@ -192,30 +198,31 @@ It is now too late for the hero, as the hammer blows of Achilles’ admonitory w
 > **To hide (to blind that voice) to hide**  
 > **Behind the moving blades.**
 
+  
 Till at the end, in a hysterical frenzy to escape Apollo’s anger, head ringing with his roar, reduced to pure killing machine, Patroclus senses the presence of the god at his back...
 
+>   
 > **Patroclus broke among the Trojans.**  
 > **A set of jealous bones covered with flesh**  
 > **Finished with bronze, dipped in blood,**  
 > **And the whole being inspired by ferocity**.
 >
-> **- Kill them!**            
-> **My sweet Patroclus**
+> **- Kill them!**          **My sweet Patroclus**
 >
 > **- Kill them!**  
->            
 > **As many as you can**  
 > **For**  
 > **Coming behind you in the dusk you felt**  
 > **-- What was it? – felt the darkness part and then**
 
-**Apollo!**
+## Apollo!
 
 > **Who had been patient with you,**  
 > **Struck.**
 
 But that inexorable “struck” is not quite the end, for the very last word is bleaker still, spoken by a doomed Hector as he finishes off the dying Greek:
 
+>   
 > “**Big mouth,**  
 > **Remember it took three of you to kill me.**  
 > **A god, a boy, and last of all, a hero!**  

@@ -155,10 +155,51 @@ export async function processImages(
     rewritten = rewritten.split(full).join(replacement);
   }
 
+  // Second pass: Google Drawings images. Some gdoc authors embed a
+  // Google Drawing (`docs.google.com/drawings/d/.../image?...`) instead
+  // of a regular inline image. The HTML export emits an `<img src="…">`
+  // pointing to Google's server, not a base64 data URI; without this
+  // step the markdown points at a URL that 404s or requires auth when
+  // viewed cross-origin from the public site. Fetch each one, upload
+  // to R2 (content-addressed, same as inline images), and rewrite.
+  const DRAWING_RE =
+    /!\[([^\]]*)\]\((https:\/\/docs\.google\.com\/drawings\/[^)]+)\)/g;
+  const drawingMatches: Array<{ full: string; alt: string; url: string }> = [];
+  for (const m of rewritten.matchAll(DRAWING_RE)) {
+    drawingMatches.push({ full: m[0], alt: m[1], url: m[2] });
+  }
+  const drawingReplacements = new Map<string, string>();
+  for (const match of drawingMatches) {
+    if (drawingReplacements.has(match.full)) continue;
+    try {
+      const res = await fetch(match.url);
+      if (!res.ok) {
+        console.warn(`  ⚠️  Skipping unreachable drawing ${res.status}: ${match.url}`);
+        continue;
+      }
+      const mime = (res.headers.get('content-type') || 'image/png').split(';')[0].trim();
+      const ext = MIME_TO_EXT[mime] ?? mime.replace('image/', '');
+      const arrayBuffer = await res.arrayBuffer();
+      const rawBuffer = Buffer.from(arrayBuffer);
+      const buffer = await trimImageWhitespace(rawBuffer, mime);
+      const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
+      const key = `images/${contestId}/${hash}.${ext}`;
+      const { url, uploaded } = await uploadIfMissing(key, buffer, mime);
+      if (uploaded) uploadedCount++;
+      else reusedCount++;
+      drawingReplacements.set(match.full, `![${match.alt}](${url})`);
+    } catch (err) {
+      console.warn(`  ⚠️  Failed to fetch drawing: ${match.url} - ${err}`);
+    }
+  }
+  for (const [full, replacement] of drawingReplacements) {
+    rewritten = rewritten.split(full).join(replacement);
+  }
+
   return {
     markdown: rewritten,
     uploadedCount,
     reusedCount,
-    totalImages: matches.length,
+    totalImages: matches.length + drawingMatches.length,
   };
 }

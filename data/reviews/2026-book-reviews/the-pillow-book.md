@@ -1,0 +1,186 @@
+---
+title: The Pillow Book
+author: Unknown
+reviewAuthor: Sphere
+contestId: 2026-book-reviews
+contestName: 2026 Book Reviews
+year: 2026
+publishedDate: '2026-05-16T08:36:08.000Z'
+slug: the-pillow-book
+wordCount: 5532
+readingTimeMinutes: 25
+source: gdoc
+originalUrl: https://docs.google.com/document/d/1sQQnm17uSRtxlOdBz8Eq-LYt4h3nux8IQIVvUpVdQFI
+tags:
+  - History
+  - Memoir
+---
+
+## What is The Pillow Book?
+
+_The Pillow Book_ is probably the second most well-known piece of writing from Heian period Japan (the most well-known being Murasaki Shikibu’s roughly contemporaneous _Tale of Genji_). Unlike _Genji_, though, _The Pillow Book_ is not a work of fiction. It’s a collection of fragments (lists, anecdotes with various degrees of editorialization or outright fiction, opinions and judgments, sections that start off as lists and then trail off into one of the other categories…) written by a lady of the Heian court. Generally it gets classified as a [“poetic diary”](https://en.wikipedia.org/wiki/Poetic_diary) (_Nikki bungaku_), which I find somewhat obtuse; usually in diaries you expect the entries to be about particular events that happened in the author’s life, but by my count _The Pillow Book_ is 80% Not That. I’d call it more of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) — or maybe a blog?
+
+> _Awkward and embarrassing things_ — Going confidently out to greet a visitor on the assumption that it’s for you, when he’s in fact called to see a different person. It’s even worse when he’s brought along a gift as well.
+>
+> _Alarming-looking things_ — Thorny acorn husks. A hairy yam that’s been baked. The prickly water lily. Water chestnuts. The sight of a man with a lot of hair, drying it after washing.
+>
+> _Cats_ — Cats should be completely black except for the belly, which should be very white.
+
+Yeah, I think it’s a blog. RIP Sei Shōnagon (966?–1017?); you would’ve loved listicles.
+
+(Note: I’m specifically reviewing the Penguin Classics edition, translated by Meredith McKinney, pub. 2006. It’s fairly thoroughly annotated, which is a must if you want to catch Sei’s many puns and poetic references. I’ve also read parts of Ivan Morris’s older translation, but I haven’t yet made a detailed comparison.)
+
+## Digression: the Heian period
+
+In order to tell you about _The Pillow Book_ I have to first explain the Heian period, for all the sensible people who didn’t go so hard writing Naruto fanfiction they accidentally became obsessed with Japanese history. Heian is considered to have started in 794, when the Emperor moved the capital to Heian-kyō (now Kyōto), and lasted until 1185. If you’re familiar with the [history of japan video](https://www.youtube.com/watch?v=Mh5LY4Mz15o) you may know this as the bit where the Emperor’s palace became such a dream-world of art and literature that they didn’t really give a shit about running the country anymore. (Or, at least, the Emperor didn’t. The [Fujiwara clan](https://en.wikipedia.org/wiki/Fujiwara_clan#Fujiwara_regime_in_the_Heian_period), who made a whole cottage industry out of ensuring a Fujiwara was always the Emperor’s father-in-law, cared a whole lot. Specifically, they cared about which branch of the Fujiwara clan was in charge of everything.) Eventually [someone](https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo) was like “hey, if the Emperor isn’t actually running the country… what if _I_ ran the country?” and became the first shōgun of the Kamakura period. So much for Heian.
+
+_The Pillow Book_ was written in approximately the middle of the Heian period: it was started in 994 during Sei’s time as a lady-in-waiting of Empress Teishi (and also during [Peak Fujiwara](https://en.wikipedia.org/wiki/Fujiwara_no_Michinaga)), and completed at some point after the year 1000, when Empress Teishi died and Sei left court service. This was a fertile period for Japanese literature and especially poetry, and a startling fraction of what survives today was written by (upper-class) women. (You can be sure that peasants weren’t doing any of this shit; they were focused on the rice harvest.) Upper-class women were more or less required to have a very solid literary education (if you can’t participate in poetry exchanges you’re _never_ going to land a boyfriend and, worse, all the other ladies will make fun of you). However, it was considered unseemly for women to write in Chinese, so women’s works like _The Pillow Book_ and _The Tale of Genji_ were written almost entirely in hiragana (“women’s writing”, the older of the two Japanese syllabaries). Meanwhile, all the men occupied themselves with masculine pursuits like [competitive poetry](https://en.wikipedia.org/wiki/Uta-awase) and copying out [Records of the Grand Historian](https://en.wikipedia.org/wiki/Shiji). (Sei Shōnagon tells us she wrote _The Pillow Book_ on extra paper from the latter effort.)
+
+_Records of the Grand Historian_ is, of course, Sima Qian’s seminal history of China, which was over a thousand years old at this point, and so one may well wonder why it was so important in Japan. The thing is, Heian-period nobles were incredible Sinaboos; Heian-kyō itself was more or less designed as a ripoff of Chang’an. (In general Japanese artistic culture seems to have swung every few centuries between “wow, Chinese culture is super cool, let’s copy a bunch of stuff from China” to “no, actually China is lame, we should figure out how to be Authentically Japanese”.) Japan was sending envoys to Sui/Tang China from 607 to 839 and, we must imagine, salivating over everything they got back. Unfortunately at that point China [fell apart a little bit](https://en.wikipedia.org/wiki/Five_Dynasties_and_Ten_Kingdoms_period) and so by 1000, while everyone was still _really into_ Tang poetry, they hadn’t actually gotten any new stuff for a couple hundred years.
+
+That’s what was keeping the men busy. The court ladies, on the other hand, had a ton of spare time; they weren’t really allowed to do anything and, for the most part, didn’t leave the house much (as modesty required that women not allow unrelated men to see their faces unless they were lovers). The ladies could go out into a garden if no unrelated men were present, and occasionally take a carriage (carefully be-curtained against prying eyes) to go visit a temple or perhaps a pleasing vista, but could only speak to men (again, excluding lovers) from behind a modesty screen. In the latter context the primary modes of self-expression were 1) poetry and 2) the exact color and order of one’s twelve layers of silk robes. (Not an exaggeration: _shinden_-style houses weren’t much for insulation.) This could make it difficult for a nobleman who wished to have some sort of tryst with a lady to correctly identify her when the evening rolled around, a circumstance which Murasaki exploits for both comedy and drama in _Genji_.
+
+Despite (or perhaps because of?) these modesty requirements, there was a remarkable amount of casual sex happening _all the time_. Heian society was not overly concerned about premarital and extramarital sex; the important thing was not to be _gauche_ about it:
+
+> One does want a lover’s dawn departure to be tasteful. There he lies, reluctant to move, so that she has to press him to rise. ‘Come on, it’s past dawn,’ she urges. ‘How shocking you are!’ and his sighs reassure her that he really hasn’t yet had his fill of love, and is sunk in gloom at the thought that he must leave. He sits up, but rather than proceeding to put on his gathered trousers he instead snuggles up to her and whispers a few more words from the night’s intimacies; then there’s a bit more vague activity, and somehow in the process his belt turns out to have been tied. Now he raises the lattice shutter and draws her out with him to the double doors, where he finally slips away, leaving her with assurances that he’ll spend the day longing for their next meeting. She sits there watching as his figure disappears, filled with delightful memories.
+
+Sound isolation was functionally nonexistent, so if a lady was having a tryst with someone all the other ladies in the household would know about it in short order. All the same, you didn’t want the man to be stomping about the place, advertising his presence. If interested in continuing the affair, the first thing the man would do upon reaching his own home was to send the lady a morning-after letter (careful selection of stationery and accompanying sprig of flowers, and of course poetic skill, being paramount here):
+
+> It’s delightful to see someone who’s a great ladies’ man, and is pursuing numerous love affairs, arriving home at dawn from who knows what late-night tryst. Sleepy though you can see he feels, he nevertheless sits down and draws the inkstone up to write his next-morning letter to her. See how carefully he grinds the ink to a fine consistency, and how tenderly he bends to the task of writing, not merely dashing off whatever springs to mind but putting himself heart and soul into whatever he writes.
+
+For more on Heian court culture, I recommend Ivan Morris’s book _The World of the Shining Prince: Court Life in Ancient Japan_. It’s on the older side (originally published 1964), and I hear that later scholarship has supplanted some of its assertions about _Genji_ specifically, but I haven’t yet encountered a better general introduction to Heian culture (and Morris’s dry humor is hard to beat). At the very least it’s a good antidote for the common error of projecting the culture of the Edo period (1603–1868) backwards onto earlier centuries of Japanese history.[1]
+
+## Who was Sei Shōnagon, anyway?
+
+Short answer: we kind of don’t know anymore. Sei Shōnagon isn’t even her given name. Her father was a well-known poet named Kiyohara no Motosuke; _Sei_ is an abbreviation of _Kiyohara_ (this makes slightly more sense in kanji). _Shōnagon_ is a bureaucratic position: it was conventional to refer to court ladies by a male relative’s title, but importantly it wasn’t actually her father’s title so nobody is entirely sure where it came from. Possibly her birth name was Kiyohara no Nagiko.
+
+(This is one of the super fun things about Japanese history: everyone has _too many freaking names_.)
+
+You wouldn’t know it from reading _The Pillow Book_, where the Empress is always a figure of utmost nobility and good taste, greatly to be admired yet difficult to live up to, but Sei was actually around a decade older than Empress Teishi, and had been married (and subsequently, we must assume, divorced?) before entering court. Then she wrote _The Pillow Book_: this much is fairly certain; as far as I’m aware there are no anti-Stratfordian theories. Everything else is frustratingly vague.
+
+## Why is The Pillow Book?
+
+Short answer: we kind of don’t know anymore.
+
+The way Sei tells it:
+
+> Palace Minister Korechika one day presented to the Empress a bundle of paper. ‘What do you think we could write on this?’ Her Majesty inquired. ‘They are copying _Records of the Historian_ over at His Majesty’s court.’
+>
+> ‘This should be a “pillow”, then,’ I suggested.
+>
+> ‘Very well, it’s yours,’ declared Her Majesty, and she handed it over to me.
+
+This is obviously meant to be _some_ sort of wordplay, but _what does it all mean?_ Personally, my terribly underinformed theory is that it has something to do with Sei’s lists of _utamakura_ (lit. “poem pillow”) words (particularly place names), which are probably the part of _The Pillow Book_ most opaque to a modern Anglophone audience. For example:
+
+> _Mountains_ — Ogura Mountain. Mount Kase. Mount Mikasa. Mount Konokure. Mount Iritachi. Mount Wasurezu. Sue no Matsu Mountain. Mount Katasari — I wonder how it stands aside? Mount Itsuhata. Mount Kaeru. Mount Nochise. Asakura Mountain — I like the line ‘now looks askance at me’. Mount Ōhire is special too. It must be because it reminds me of the dancers at the Kamo and Yahata Provisional Festivals.
+>
+> Mount Miwa has great appeal. So do Tamuke Mountain, Mount Machikane, Tamasaka Mountain and Mount Miminashi.
+
+These mountains are not relevant _qua_ physical mountain; it’s not necessary for them to, you know, exist as locations in the world that one could potentially visit. The point is that their names are useful for wordplay in _waka_ poetry. And since every syllable in a poem counts against a very limited budget, a catalog of interesting _utamakura_ is a valuable thing to have in your back pocket: reference books of _utamakura_ were not unpopular. There is some value, too, in reusing _utamakura_ that can invoke other well-known poems, giving your avant-garde _waka_ memes another layer of reference, but if you’re _only_ using the same _utamakura_ out of a handbook that everyone else also uses, then you start to seem uncreative. Perhaps you might like to start writing them down, when you hear a good one come up in conversation.
+
+Sei certainly seems to have taken great enjoyment in collecting them, because _The Pillow Book_ contains something like eighty lists of this type (_wa-dan_, or _wa_ sections, so named because in the Japanese they begin _[category] wa…_).[2] Sometimes, as with the mountains, she briefly explains the joke for one or two of the list entries (and then McKinney explains further in the footnotes, e.g. that _Katasari_ is a homophone for “stand aside”), but more often the names are just left there.
+
+Occasionally she’ll start a list, then stop after listing one thing:
+
+> _Large buildings_ — Tamatsukuri.
+
+I’m terribly fond of the one-element list (as well as its close cousin, the nearly as charming two-element list). I don’t read classical Japanese or, indeed, more than about twenty words of modern Japanese; I’m never going to be put on the spot to write a _waka_! (I hope.) But if it does ever come up, and I find myself in dire need of a poetically appropriate large building, at least I know about Tamatsukuri. And _only_ Tamatsukuri.
+
+The other major category of list is the “list of things”, or _mono-dan_ (_[category] mono…_), of which there are also about eighty.[3] Think listicles. _Top 20 Frustrating Experiences All Ladies In The Emperor’s Court Know. Rating The Five Least Tasteful Interactions._ Sometimes Sei gets distracted in the middle of these and jumps into an extended anecdote:
+
+> _Infuriating things_ — Thinking of one or two changes in the wording after you’ve sent a message to someone, or written and sent off a reply to someone’s message.
+>
+> Having hurriedly sewn something, you’re rather pleased with how nicely you’ve done it — but then when you come to pull out the needle, you find that you forgot to knot the thread when you began. It’s also infuriating to discover you’ve sewn something inside out.
+>
+> I remember an occasion while Her Majesty was staying in the Southern Residence, when she announced that some clothes were urgently needed, and ordered us all to set to and sew them then and there. She handed out the pieces of robe, and we all gathered at the front of the building and started work, each on her separate piece. We looked quite crazed, everyone sewing away furiously to see who could do the most, each of us seated on her own and all facing in different directions. Nurse Myōbu raced through her sewing and put down the finished work. However, just as she was in the act of tying off the thread she realized that she’d stitched one of the sleeve pieces together the wrong way round. She flung it down in a panic and rose to her feet, but when her piece was put together with the back section the mistake was discovered. We made great fun of her for this, and told her she had to hurry and re-do it, but she wouldn’t hear of it. ‘Why should I re-sew it just because I find I’ve sewed it up wrongly?’ she demanded. ‘If it’s figured cloth or something then you can tell what’s back and front, and it would be fair to make anyone who hadn’t looked re-sew it in that case, but this is unpatterned cloth, so there was no way of telling. Why should I re-sew this! Get someone who hasn’t done any of the sewing to fix it.’
+>
+> ‘Well, we can’t just leave things at that, can we,’ said Gen Shōnagon and Chūnagon, and they drew up the pieces and grimly set about doing the necessary re-sewing. It was most entertaining to observe how Nurse Myōbu sat there staring balefully at them as they worked.
+>
+> You’ve just had some lovely bush clover or plume grass planted and are admiring it when some fellows arrive carrying a long box and a couple of spades, set about brazenly digging away at it, and carry it off. This is both depressing and infuriating. They wouldn’t dream of doing this if someone of standing were present, but though you do your utmost to stop them, they simply ignore your orders. ‘We’re just taking a little,’ they assure you, and off they go, which infuriates beyond words.
+>
+> It’s also most infuriating for those concerned when a servant from some grand establishment arrives at the residence of someone such as a Provincial Governor and addresses everyone with an offhand rudeness, obviously feeling he can get away with it where such lowly folk are concerned.
+>
+> You’ve received a letter you’re anxious to read, and someone snatches it from you and retreats to the garden, where he stands reading it. Infuriated and miserable, you pursue him as far as the blinds, but there you have to stop. As you stand there watching while he reads, you’re almost overwhelmed by the frustrated urge to dash out and retrieve it.
+
+This is the sort of thing you can get away with on a personal blog, but if you tried to post it on Buzzfeed they’d probably make you edit it out (which would be a shame, I think). It only becomes legal again when your post happens to become Great Literature.
+
+These two types of lists make up about half the total section count (and a third of the wordcount). The other sections are generally classified as either “essay-type” or “diary-type” and are usually rather longer.[4] It’s amazing how much time and effort _Pillow Book_ scholars have put into this whole categorization scheme; Sei Shōnagon is remarkably hostile to the concept of staying on-topic. _She_ certainly doesn’t seem to have drawn any great distinction between “essay” sections and “diary” sections, given how often the diary-type anecdotes crop up part-way through the essays (and the lists too, for that matter). I also can’t firmly distinguish between the very shortest essay sections and single-element _mono-dan_ lists. It’s useful, though, to distinguish the “diary” sections (which describe actual events Sei experienced, the sort of thing you might expect to find in other Heian diary literature like the _Kagerō nikki_ or _Murasaki Shikibu nikki_) from the others, the ones that aren’t lists and aren’t anecdotes.
+
+The remaining catchall “essay” category is itself a heterogenous bag. If I were invested in the categorization project I might advocate for sub-labels like “opinion” and “typical or hypothetical situation” and “rumor”, but it seems unwise what with how frequently several of the above are combined in the same section. Length is also wildly variable; I’ve been calling these “essay-type” because it’s what The Literature calls them, but I don’t know if “essay” is a good description for a piece of text that reads, in its entirety:
+
+> Setting off to climb the slope up to Kiyomizu and suchlike temples, it’s delightful to find oneself deeply moved by the scent of burning firewood.
+
+I can think of a better one, and I’m sure by now you can guess what it is.
+
+## In what order should one read The Pillow Book?
+
+This is a surprisingly fraught question. As with many books that are a thousand years old, the archetypal text is not available; instead there are four major textual lineages: the Sankanbon and Nōinbon families, which are in a similar and apparently arbitrary order, and the Sakaibon family and singular Maedakebon manuscript, which reorganize the material by topic. Most modern scholars believe the Sankanbon/Nōinbon ordering is closest to the original, especially since the arrangement does have its own internal logic if you squint hard enough.
+
+If your thing is textual criticism, this shit is catnip:
+
+*   The sole extant Maedakebon manuscript is the oldest, dated to mid-Kamakura (1250–1300ish), but it includes elements from all three other variants and was probably compiled using the others as a reference.
+*   However, the Maedakebon is also the _longest_ version at 377 sections, including material not to be found in any of the other extant texts.
+*   The Sakaibon family is the shortest (omitting all the “diary” sections) and contains the most errata; the oldest surviving text of this line dates to 1570.
+*   The Nōinbon text is the second-longest, and its colophon alleges that it was copied from a manuscript owned by the poet Nōin, who was related to Sei’s husband, so it is “probably not disappointing”. There are three extant copies from the Muromachi period (1333–1568).
+*   There are _suspicious similarities_ between the lists in the Nōinbon and the lists in Nōin’s own book of _utamakura_; the extent to which Nōin revised the Nōinbon text to his personal taste is unknown.
+*   For unclear reasons, the Nōinbon also includes two different versions of Sei’s epilogue containing the “pillow” anecdote.
+*   The Sankanbon is currently the most popular version; it’s the “standard” one that Japanese high schoolers (attempt to) read. Its colophon states that it was originally written in 1229 (although the oldest extant copy dates to 1475). It omits some sections found in the Nōinbon but follows generally the same order, and the text itself is written in a more “concise” and “masculine” style than the Nōinbon.
+*   Is the Sankanbon closer to Sei’s original manuscript and the Nōinbon a later revision with extraneous additions, or the Nōinbon closer to the original and the Sankanbon a simplification for broader consumption? Great question! Fantastic question!
+
+From the Muromachi period onwards, editions of _The Pillow Book_ have imposed organizational conveniences on the text such as section titles and numbers, although given that there are four different versions and _all of them have a different number of sections_ the section numbers are perhaps not as useful as one might desire. The sections themselves may also have been a later addition — it’s possible that the most authentic _Pillow Book_ reading experience would be one long, uninterrupted stream of text. Sounds overwhelming!
+
+All that being said, this is a review of McKinney’s translation, and McKinney’s translation follows the Sankanbon version, which isn’t an unreasonable decision. It’s clear (at least, if you’re used to the superstructure of Posts) that the Sankanbon ordering isn’t completely arbitrary; often you’ll run into a cluster of sections that are variations on a theme, or an anecdote that seems to have reminded Sei of another story upon which she elaborates in the next section, as if she left the room and then came bursting back in, “And _another_ thing—!”
+
+However, there is one other potential reading order worth considering: _total anarchy_. I usually prefer print books over ebooks for literature because I’m easily distracted, but in this case I recommend picking up the ebook because the ebook lets you search the full text for every mention of, e.g., sixth-rank Chamberlains:
+
+> There’s a brightly-coloured standing curtain, with the ladies’ hems layered there on show beneath it, and there are young noblemen, cloaks gaping at the back, and Chamberlains of the sixth rank in their special green.
+>
+> _Splendid things_ — […] A Chamberlain of the sixth rank. He’s a quite splendid sight in those special green robes he’s allowed to wear, and he can wear damask, which even a high-ranking young nobleman is forbidden. Subordinate officials in the Chamberlain’s office, or children from some lower-ranking family who are serving in the house of someone of the fourth or fifth rank, look quite inconsequential at the time, but if they become Chamberlains they undergo an astonishing transformation. [Sei proceeds to discuss situations in which Chamberlains look exceptionally magnificent for three paragraphs.]
+>
+> The reason the sight of a sixth-rank Chamberlain on night watch is so delightful is because of the violet in his clothes.
+>
+> _Sixth-rank Chamberlains_ — The post of Sixth-rank Chamberlain is not one that anyone should aspire to.
+>
+> Once he’s promoted to Acting Provincial Governor or some other fifth-ranking title, he gets himself a cramped wooden-roofed house; adds a nice little, new, board fence; puts a carriage in the carriage house; plants a few foot-high bushes near the front of the house; and ties his ox there to feed on the grass. It’s all thoroughly contemptible.
+>
+> _Elegantly intriguing things_ — […] Some gentleman of intimidating rank has come visiting the rooms one evening. Your own lamp is extinguished, but light from nearby penetrates from above the intervening screen, faintly illuminating the objects in the room. Since he’s someone she would never sit so close to in daylight hours, she bashfully draws over a low standing curtain and lies close beside it, head bent over, though even so he would surely be able to judge her hair. His cloak and gathered trousers are draped over the standing curtain — something of suitably high rank, of course, although the special olive-green of a Chamberlain of the sixth rank would be just about acceptable. However, if it’s one of those deep green cloaks of a normal sixth-ranker, you’d feel inclined to take it and roll it into a ball and consign it to the far reaches of the room, so that when it comes time for him to leave at dawn he’ll be dismayed to discover he can’t lay hands on it.
+>
+> [I]t’s a delightful and reassuring thing for a man to come calling on a wild, windy night. And a snowy night visit is most splendid of all. He arrives humming to himself the line ‘How could I forget her?’ or something of the sort, and of course the scene is particularly charming if he’s a secret lover, but even if there’s nothing secret about it, there would be something utterly delightful in the sight of his cloak, say the special green formal cloak of a Chamberlain, all chilled and damp with snow. Even if it’s just the sixth-ranker’s normal cloak, I wouldn’t mind as long as it was snow that had wet it. I gather that in the old days a Chamberlain would always come along in his special green cloak when visiting a lover at night, and simply wring it out if it had got soaked in the rain. Nowadays they seem not to bother to wear it even during the day, but turn up with just the sixth-rank cloak draped over them. And it used to make an even more delightful impression if a Chamberlain wore his Palace Guard costume instead.
+
+These mentions are sprinkled throughout the text, sometimes dozens of sections apart, so if you’re not reading the whole book in one sitting you may not notice just _how many times_ Sei Shōnagon mentions the very special olive-green cloak of the sixth-rank Chamberlain. But it’s a lot! You sort of want to give her a vial of testosterone cypionate and an olive-green cloak just to see what she _does_ with it.
+
+## Why should one read The Pillow Book?
+
+This whole review has been a thinly-veiled attempt to convince you to read _The Pillow Book_, and at this point hopefully you have a decent idea of what its deal is (especially since I’ve been conspicuously padding my wordcount with extended quotes). I could name a number of reasons _why_ you should read it: because it’s a literary classic, because it’s a window on a place and time very far removed from any of our lives, because even through the scrim of translation and cultural shift and a thousand years of textual corruption Sei Shōnagon is _wickedly_ funny. But I am trying to convince _you_, specifically, to read _The Pillow Book_ because you are demonstrably the sort of person who likes blogs.
+
+Reading _The Pillow Book_ reminds me of nothing so much as stumbling across and backreading the archive of an old, dead blog — say, a Wordpress site last updated in 2011, comments section filling up with spam. (Anyone else do this? You get linked to one post, and then you just keep paging through the rest of them in reverse-chrono order, and you get super invested and start wondering if the author died or just moved to Twitter?) History doesn’t really know what happened to Sei Shōnagon after she stopped posting left court (although I guess we can be pretty sure she didn’t move to Twitter).  We don’t know for sure when she was born, when she died, or even her real name. All we have is this curated feed of things she found amusing, irritating, pleasing, or worth remembering.
+
+> _Things that fall_ — Snow. Hail. Sleet is unpleasant, but it’s lovely when it falls mingled with white snowflakes.
+>
+> Snow is splendid on a cypress bark roof, particularly when it’s just on the point of melting. It’s also delightful when just a little has fallen, and it lies nestled in all the joins between the roof tiles, emphasizing their lovely black curves.
+>
+> For autumn showers and hail, a shingle roof is best. Frost is also good on shingles, and in gardens.
+
+## References
+
+1.  Sei Shōnagon, _The Pillow Book_, trans. Meredith McKinney (Penguin Books, 2006)
+2.  Naomi Fukumori, “Sei Shōnagon’s Makura no sōshi: A Re-visionary History,” _The Journal of the Association of Teachers of Japanese_ 31, no. 1 (1997): 1–44, [doi.org/10.2307/489680](https://doi.org/10.2307/489680)
+3.  Naomi Fukumori, “Sei Shōnagon the Essay / _Ese_-ist: Delineating Differences in _Makura no sōshi_,” _Proceedings of the Midwest Association for Japanese Literary Studies_ 3 (1997): 66–88, [journals.library.brandeis.edu/index.php/PMAJLS/article/view/2384](https://journals.library.brandeis.edu/index.php/PMAJLS/article/view/2384)
+4.  Tzvetana Kristeva, “the pillow hook (”the pillow book” as an “open work”),” _Japan Review_ 1994, no. 5 (1994): 15–54, [jstor.org/stable/25790937](https://www.jstor.org/stable/25790937)
+5.  Gergana Ivanova, “Knowing Women: Sei Shōnagon’s _Makura no Sōshi_ in Early-Modern Japan” (PhD diss., University of British Columbia, 2012), [doi.org/10.14288/1.0072910](https://doi.org/10.14288/1.0072910)
+6.  Mark Morris, “Sei Shōnagon’s Poetic Catalogues,” _Harvard Journal of Asiatic Studies_ 40, no. 1 (1980): 5–54, [doi.org/10.2307/2718916](https://doi.org/10.2307/2718916)
+7.  Ivan Morris, _The World of the Shining Prince: Court Life in Ancient Japan_ (Alfred A. Knopf, 1964)
+8.  William Wayne Farris, _Japan to 1600: A Social and Economic History_ (University of Hawai’i Press, 2009)
+9.  Shūichi Katō, _A History of Japanese Literature: The First Thousand Years_, trans. David Chibbett (Kodansha International Ltd., 1979)
+
+## Footnotes
+
+[1] This is already irksome when it happens to the preceding Sengoku period (popular samurai media L, although one I’ll tolerate because the Edo period _is_ #vibes), but downright silly as far back as Heian. You see, during the Edo period the middle class was rapidly growing and becoming richer (it’s a lot easier to be a merchant if your country is no longer engaged in an eternal war of all against all), and they wanted to spend that money on art; simultaneously the samurai class was going kind of broke now that they were no longer fighting an eternal war of all against all, and kept making sumptuary laws about what sorts of durable goods like clothes merchants were allowed to buy. Imagine if _merchants_ looked fancier than _samurai_! Total chaos, cats and dogs living together, et cetera. So (to vastly oversimplify things) in response the merchant class 1) developed the aesthetic of _[iki](https://en.wikipedia.org/wiki/Iki_(aesthetics))_ (a sort of “if you know you know” subtle, refined fanciness) and 2) went hard on experiences (e.g. kabuki theater). (The famous woodblock prints are also a feature of this explosion of mass culture. One of my favorite Edo fun facts: you could get low-priced woodblock prints of popular kabuki actors perfectly sized to fit on the inside of a hand fan. The original “photocard of K-pop boy tucked into your phone case”!)
+
+By contrast, Heian period aesthetics were much less minimalist and _firmly_ driven by the elite. (Sei Shōnagon seems to have never in her life given a moment’s thought to anyone of a lower class than herself, except to briefly observe the aesthetic appropriateness or inappropriateness of their presence in a scene.) I hesitate to call the Heian period _maximalist_ — there was still a big emphasis on tasteful coordination, it’s by no means Victorian or anything — but see above re: twelve layers of silk robes.
+
+[2] The exact count depends on what version of the text you’re looking at, much more on which later. Sugiyama Shigeyuki, as cited by Mark Morris in _Sei Shōnagon’s Poetic Catalogues_, counts 77 in the Sankanbon version. Because I am a fundamentally deranged person I made a spreadsheet categorizing all the sections in McKinney’s translation, including the “supplemental” ones, and got 85 — although in some cases I’m not very confident in my labeling, especially since I’m working from the English text.
+
+[3] 78 according to Sugiyama Shigeyuki via _Sei Shōnagon’s Poetic Catalogues_, 85 according to my dubious spreadsheet.
+
+[4] If you trust my categorization, there’s 64 of the diary-type sections and 92 of the essay-type sections; unfortunately I have no idea how many of each Sugiyama counts because his paper is in Japanese and Morris transliterates the title into romaji, which makes it functionally unfindable if your level of academic Japanese is “can copy-paste characters into Google Scholar and yeet the results into an LLM translator”. (English-language East Asian studies _looooves_ transliterating works cited and it drives me _insane_. Perhaps the humble hyperlink has spoiled me…)

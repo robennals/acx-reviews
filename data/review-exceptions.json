@@ -7,5 +7,25 @@
       "from": "Contents",
       "to": "V - A defense of"
     }
+  },
+  "aesopian-language-in-russian-literature": {
+    "dropLeadingContentLines": 2,
+    "disableBlockquotes": true
+  },
+  "the-pillow-book": {
+    "preserveLeadingHeading": true
+  },
+  "the-epic-of-gilgamesh": {
+    "forcePoetryQuotes": true
+  },
+  "orality-and-literacy-by-walter-ong": {
+    "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
+    "insertBlankAfter": "^\\*\\*Changes\\*\\*:"
+  },
+  "chuang-tzu-the-inner-chapters-by-a-c-graham": {
+    "forcePoetryQuotes": true
+  },
+  "the-merry-wives-of-windsor": {
+    "removeBlanksBeforeMatching": "^>\\s*\\(Act "
   }
 }

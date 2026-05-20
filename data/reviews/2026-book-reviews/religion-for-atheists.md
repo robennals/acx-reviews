@@ -1,15 +1,16 @@
 ---
 title: Religion for Atheists
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Marius Nicoară
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T10:03:56.000Z'
 slug: religion-for-atheists
-wordCount: 5665
+wordCount: 5671
 readingTimeMinutes: 26
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1mXuX7zB-_a1ES7hp-JuTL-W_2Mt4hR5cho94e6hUwl8
 tags:
   - Religion
   - Philosophy
@@ -70,7 +71,7 @@ Tangentially related: I’m reminded of how Yann LeCun used the Black Forest cak
 
 Religions are applauded not only for helping with the creation of groups, but also managing issues that appear afterwards. He looks to the Jewish tradition Yom Kippur(Day of Atonement) as something that could be imported as a secular holiday when wrongs are confessed and apologies are accepted:
 
-“The supreme authority said from the beginning we are all crazy, in childish but forgivable ways.”
+> “The supreme authority said from the beginning we are all crazy, in childish but forgivable ways.”
 
 De Botton invokes the two more Jewish customs as examples of mediating between the needs of the group and those of the individual. The first is about the specific periods of mourning the death of a loved one:
 
@@ -102,12 +103,12 @@ De Botton grants that libertarian theoreticians would agree that the recommendat
 
 But de Botton notices that libertarian parents, noticing the effect of their interventions in their children’s lives, would be tempted to suggest that even they might benefit from having their own behavior monitored. In de Botton’s view, true wisdom is to accept that most of the time we are simple creatures in need of the delicate, firm, basic guidance usually offered to children and pets:
 
-“Our most burning desire might be that someone come and save us from ourselves.”
+> “Our most burning desire might be that someone come and save us from ourselves.”
 
 The benefit of the doctrine of original sin is seen by de Botton to be the realization that we are all inherently flawed and in need of guidance:
 
-“Who are you to tell me what to do?”  
-“A sinner just like you.”
+> “Who are you to tell me what to do?”  
+> “A sinner just like you.”
 
 De Botton sees the modern state getting involved too late, after the damage was done and ignoring the contribution of subtle offenses to the serious crimes.
 
@@ -144,7 +145,7 @@ He encourages not just reorganizing the curriculum with courses about loneliness
 
 One university course that would live up to de Botton’s standards would be Death with Shelly Kagan from Yale [[14]](https://oyc.yale.edu/death/phil-176), which is summarized as follows:
 
-“There is one thing I can be sure of: I am going to die. But what am I to make of that fact? This course will examine a number of issues that arise once we begin to reflect on our mortality. The possibility that death may not actually be the end is considered. Are we, in some sense, immortal? Would immortality be desirable? Also a clearer notion of what it is to die is examined. What does it mean to say that a person has died? What kind of fact is that? And, finally, different attitudes to death are evaluated. Is death an evil? How? Why? Is suicide morally permissible? Is it rational? How should the knowledge that I am going to die affect the way I live my life?”
+> “There is one thing I can be sure of: I am going to die. But what am I to make of that fact? This course will examine a number of issues that arise once we begin to reflect on our mortality. The possibility that death may not actually be the end is considered. Are we, in some sense, immortal? Would immortality be desirable? Also a clearer notion of what it is to die is examined. What does it mean to say that a person has died? What kind of fact is that? And, finally, different attitudes to death are evaluated. Is death an evil? How? Why? Is suicide morally permissible? Is it rational? How should the knowledge that I am going to die affect the way I live my life?”
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/f5019f5cfe626524.jpg)
 
@@ -212,7 +213,7 @@ According to de Botton, the domain of marriage could benefit from a philosophy p
 
 ## Count your blessings
 
-“The secular world does not master the art of being grateful: it does not bring thanks for the harvest, food, bees or good weather.”
+> “The secular world does not master the art of being grateful: it does not bring thanks for the harvest, food, bees or good weather.”
 
 De Botton supports his statement with excerpts from the Authorised Daily Prayer book of Jewish congregations in the United Kingdom, which contains a specific prayer for each of the following:
 
@@ -234,7 +235,7 @@ For Christianity, the purpose of art is to remind us of the things that matter. 
 
 Another example is _The Fourteen Stations of the Cross_ by Eric Gill at Westminster Abbey, which displays what Jesus suffered on his way to being crucified. De Boton hopes to see the creation of a secular equivalent titled _The Twelve Stations of Old Age_.
 
-## “It is up to artists to orchestrate moments of compassion.”
+**“It is up to artists to orchestrate moments of compassion.”**
 
 To de Botton, the true difficulty of communicating ideas through art is that the ideas being communicated appear obvious. That’s why it’s necessary to find new ways to attract attention to “ideas that are tiringly familiar but essential”.
 
@@ -248,7 +249,7 @@ A lone peasant girl pauses her work to listen to a lark singing in the distance
 
 Like in the case of humanities, De Botton argues that we should organize paintings and sculptures according to useful categories.
 
-## “Works of art are not devalued if they are accompanied by instruction manuals.”
+**“Works of art are not devalued if they are accompanied by instruction manuals.”**
 
 De Botton illustrates this with the Buddhism mantra that is to be repeated when looking at mandalas: _Om mani padme hum_ - generosity, morality, patience, diligence, renunciation, wisdom.
 
@@ -299,13 +300,13 @@ As per Plato’s advice that philosophers should become kings or kings should be
 
 James Patterson is considered the most well paid individual author in the world.
 
-“The other 99% of authors would not even register on the graph.”
+> “The other 99% of authors would not even register on the graph.”
 
 Institutions with deep pockets can attract those in search of both a comfortable life and an opportunity to positively impact the world. Consider, de Botton says, the differences between Thomas Aquinas and Friederich Nietzsche. Aquinas benefited from the perks offered by the University of Paris and then the theological college he established in Naples. Whereas Nietzsche felt that he was living “like an animal chased out from all dens”. Although seen as an example of heroic individualism, Nietzsche would have wanted nothing more than to trade isolation for a university that would grant his ideas a greater impact on the world.
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/e7c825678d4c9d81.png)
 
-“The fact that a job is merely ‘interesting’ will never be enough to attract a large number of the most energetic and ambitious candidates”
+> “The fact that a job is merely ‘interesting’ will never be enough to attract a large number of the most energetic and ambitious candidates”
 
 The lower rungs of Maslow’s pyramid are tended to by extremely well run companies. The needs of the psyche are left to disorganized and unpredictable local actors.
 

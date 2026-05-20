@@ -1,15 +1,16 @@
 ---
 title: 'Dictator Book Club: Yoweri Museveni’s Sowing The Mustard Seed'
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Ivan Inks
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-20T17:13:52.000Z'
 slug: dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed
-wordCount: 6669
+wordCount: 6680
 readingTimeMinutes: 30
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1jw6bNvgZF2ZnbDWBo0GvYKvmeiiIdB1FQAu8Oki8RQo
 tags:
   - Politics
   - History
@@ -93,7 +94,7 @@ This is not a well-written book. But it _is_ a page-turner. Museveni starts by e
 
 I could go on! But I’ll spare you. The man is also a serial acronym abuser. Here’s just one example sentence that took me a few attempts to parse:
 
-“The UPC quickly organized the return of Obote on the 27th of May, 1980 and the dismantling of the UNLF so as to resurrect the sectarian parties of UPC, DP and even KY in the guise of CP. The NCC had passed a resolution maintaining the UNLF, which was the correct step at that time.”
+> “The UPC quickly organized the return of Obote on the 27th of May, 1980 and the dismantling of the UNLF so as to resurrect the sectarian parties of UPC, DP and even KY in the guise of CP. The NCC had passed a resolution maintaining the UNLF, which was the correct step at that time.”
 
 He complains that the first edition wasn’t African enough, so he stuffs this one full of folksy Runyankole sayings. He’ll stop for long digressions on how best to translate them, interspersed with snide comments like “You can see how incomparably the Runyankore is superior to the English language,” or “African languages have no comparison with the deficient, incompetent European languages.”
 
@@ -101,7 +102,7 @@ Incompetent, by the way, is his favorite and most devastating insult. Idi Amin i
 
 European powers? Incompetent. Other African dictators? Incompetent:
 
-“This is the misfortune of Africa—wrong actors from within and wrong actors from without. The confluence of these bad actors is the curse of Africa. The internal wrong actors always look for external backers, sponsors, ‘godfathers’—call it what you want. The external wrong actors are only too ready to come in and back those incompetent leaders.”
+> “This is the misfortune of Africa—wrong actors from within and wrong actors from without. The confluence of these bad actors is the curse of Africa. The internal wrong actors always look for external backers, sponsors, ‘godfathers’—call it what you want. The external wrong actors are only too ready to come in and back those incompetent leaders.”
 
 In a way, it’s a gamer mindset. Get good! Skill issue! Dictator diff! And like gamers, he’s also surprisingly earthy: he talks about eating too many mangoes and getting constipated after a battle. He talks about his hygiene (“Unbrushed teeth have a most unpleasant feeling for me”). Of his great love for corned beef cooked with onions. Or how attractive another revolutionary’s “mulatto wife” is. In fact he notes probably seven or eight particularly beautiful women that he ran across in his campaigns.
 
@@ -133,7 +134,7 @@ Finally, he decides to put his money where his mouth is, and starts looking for 
 
 At some point in here, he marries Janet and they start having kids. But he’s very explicit with her, them and the reader, that the family is secondary. This is what he writes about returning to the fight the day after his daughter was born:
 
-“This captures my core belief - the country comes before the family. I have a very poor opinion of people who put their families above country. Without a country, families cannot thrive.”
+> “This captures my core belief - the country comes before the family. I have a very poor opinion of people who put their families above country. Without a country, families cannot thrive.”
 
 Even so, they’re a constant source of worry for him. He’s always trying to find an untapped phone to call them, or an excuse to visit them in Kenya. Eventually they’re able to relocate to Gothenberg, Sweden. They make ends meet with a combination of Swedish welfare money, CIA slush fund, and the occasional cash infusion from Libya.
 
@@ -145,19 +146,19 @@ This era of the book (the noble guerrilla leader fighting against all odds) take
 
 Eventually, he liberates Kampala. He’s careful to not repeat the mistakes of his predecessors. He tamps down sectarian violence, maintains the discipline of the army, avoids any major massacres, and preserves important economic assets. He even makes the dubious claim that he had a totally rape- and pillage-free conquest:
 
-“Kampala was so quiet that night. Unlike 1979, there was no looting whatsoever; neither by civilians nor by soldiers. Uganda had never seen such a disciplined army. It was a marvel. As a consequence, the soldiers were ‘over-appreciated’ and, as a consequence, many of them, unfortunately, got HIV and AIDS and many, eventually, died. There was no raping—not even a single one was reported.”
+> “Kampala was so quiet that night. Unlike 1979, there was no looting whatsoever; neither by civilians nor by soldiers. Uganda had never seen such a disciplined army. It was a marvel. As a consequence, the soldiers were ‘over-appreciated’ and, as a consequence, many of them, unfortunately, got HIV and AIDS and many, eventually, died. There was no raping—not even a single one was reported.”
 
 He craftily sends some high level POWs back to the enemy unhurt, with the express intention of showing that the NRA “did not kill people.” This is an important piece of game theoretic information, which starts a cascade of major defections.
 
 To help consolidate the country, Museveni makes a credible effort to end the old colonial North vs. South distinction by promoting a blanket amnesty on past atrocities, while simultaneously threatening to shoot people on sight if they engage in any new tribal violence:
 
-“Mistake-makers must be separated from the people. The people cannot be blamed for the mistakes of leaders simply because they come from certain parts of the country. Mistake-makers are individuals, responsible for their mistakes. Moreover, even within the mistake-makers, we must make a distinction between the misleaders and the misled. While we should be harsh with the misleaders, we should be lenient with the misled.”
+> “Mistake-makers must be separated from the people. The people cannot be blamed for the mistakes of leaders simply because they come from certain parts of the country. Mistake-makers are individuals, responsible for their mistakes. Moreover, even within the mistake-makers, we must make a distinction between the misleaders and the misled. While we should be harsh with the misleaders, we should be lenient with the misled.”
 
 Eventually this culminates in total victory. After complaining profusely about how the election of 1980 was a sham, he decides not to hold one himself after taking power. At least not yet: “The conditions for election were not propitious,” he says, vaguely.
 
 This is how he sums up his victory:
 
-“It is this NRM/NRA that had scored a great victory unparalleled on the African continent of winning a revolutionary war without a rear base and, for a long time, no external aid… Only Cuba and possibly China (if Stalin was not assisting them) had done something comparable.”
+> “It is this NRM/NRA that had scored a great victory unparalleled on the African continent of winning a revolutionary war without a rear base and, for a long time, no external aid… Only Cuba and possibly China (if Stalin was not assisting them) had done something comparable.”
 
 Recall that he had met Deng Xiaoping, and Kim Il Sung and Fidel Castro. You have to imagine that watching them gave him a bit of a playbook on how you hang on to power after a leftist insurrection.
 
@@ -170,7 +171,7 @@ OK, so he’s in charge. What does he do? At first he rolls out a pretty good fo
 
 I mean… is this the most reasonable plan ever instituted by a first-generation leftist dictator? It’s not perfect, but he clearly has some common sense. For example, he recognizes that nationalizing companies is counterproductive:
 
-“Our leaders thought they were putting the economy in the hands of the people. Why couldn’t the people start their own companies instead of grabbing other people’s companies? No clear answer!”
+> “Our leaders thought they were putting the economy in the hands of the people. Why couldn’t the people start their own companies instead of grabbing other people’s companies? No clear answer!”
 
 But he’s not above a little centralized planning either. He tries to establish a dairy industry by building a network of milk coolers (once a cowherd always a cowherd, I guess), and he kickstarts the fishing industry by building some canneries.
 
@@ -196,19 +197,19 @@ He rates _himself_ very highly, and isn’t afraid to name and attack his detrac
 6.  Obstruction of projects of public interest
 7.  Nepotism
 
-“Of these seven types of crime and corruption, only two are surviving. These are N0.5 and N0.6—i.e. embezzlement of public funds, taking of bribes and abuse of office and blocking of projects of public interest such as investments.”
+> “Of these seven types of crime and corruption, only two are surviving. These are N0.5 and N0.6—i.e. embezzlement of public funds, taking of bribes and abuse of office and blocking of projects of public interest such as investments.”
 
 Is five out of seven supposed to be a good score? 71%? His primary source of legitimacy is stability and the lack of political violence:
 
-“It is no accident that Uganda is today enjoying peace—from corner to corner—for the first time in 500 years. Before colonialism, there were the tribal wars. During colonialism, Karamoja was never pacified. After colonialism, the situation became worse with terrorists, cattle rustlers, extra-judicial killings and other ills. It is only now that the whole of Uganda is at peace… Even security alone is a big contribution. What do the youth in Somalia say about security? Life is unbearable without security.”
+> “It is no accident that Uganda is today enjoying peace—from corner to corner—for the first time in 500 years. Before colonialism, there were the tribal wars. During colonialism, Karamoja was never pacified. After colonialism, the situation became worse with terrorists, cattle rustlers, extra-judicial killings and other ills. It is only now that the whole of Uganda is at peace… Even security alone is a big contribution. What do the youth in Somalia say about security? Life is unbearable without security.”
 
 It’s a strong point, but it does make you wonder what kind of credibility hit he took during the eight-year war with the LRA. And sure, there’s the whole democracy thing, but he has some responses to that too, don’t worry:
 
-“Democracy. This is a principle that does not need too much elaboration. However, the democracy of populism is not profitable. We should go for the democracy of enlightening people so that they develop and get out of poverty.”
+> “Democracy. This is a principle that does not need too much elaboration. However, the democracy of populism is not profitable. We should go for the democracy of enlightening people so that they develop and get out of poverty.”
 
 Later he lists the outstanding issues facing Uganda in the form of “10 Bottlenecks.” The first nine are straightforward state capacity or economic issues, but he wraps up with:
 
-“The tenth bottleneck used to be democracy. However, that bottleneck was addressed long ago, even when we were still in the bush.”
+> “The tenth bottleneck used to be democracy. However, that bottleneck was addressed long ago, even when we were still in the bush.”
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/95dc976a307ef902.gif)
 

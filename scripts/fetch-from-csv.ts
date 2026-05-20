@@ -168,6 +168,8 @@ function sanitizeTitle(raw: string): string {
  *   { "<slug>": {
  *       "truncateAtLineContaining": "<substring>",  // drop from match to end
  *       "dropBlock": { "from": "<substring>", "to": "<substring>" },
+ *       "dropLeadingContentLines": <N>,             // drop first N non-empty content lines
+ *       "disableBlockquotes": true,                  // unwrap all `> ` lines
  *     },
  *     ... }
  * Substrings are matched case-insensitively against the plain text of each
@@ -179,6 +181,29 @@ function sanitizeTitle(raw: string): string {
 interface ReviewException {
   truncateAtLineContaining?: string;
   dropBlock?: { from: string; to: string };
+  dropLeadingContentLines?: number;
+  disableBlockquotes?: boolean;
+  preserveLeadingHeading?: boolean;
+  // Compact every blockquote in the file by removing intra-quote blank
+  // `>` separators. Used when a doc styles every quote as poetry with
+  // stanza breaks the default compaction is too cautious to merge.
+  forcePoetryQuotes?: boolean;
+  // Remove blank lines between two consecutive non-blank lines that
+  // BOTH match this regex (string, JS-flavor, anchored with `^`/`$` as
+  // needed). Useful for cycling-label clusters like Orality's
+  // **Oral**/**Written**/**Changes** triplets.
+  removeBlanksBetweenMatching?: string;
+  // Remove blank line(s) immediately preceding lines matching this
+  // regex. Matches both plain blank lines and `>`-blank lines (so it
+  // works inside blockquote groups). Used e.g. for Merry Wives'
+  // right-justified `(Act III, Sc 3)` citations that should cluster
+  // with the speaker block above instead of floating apart.
+  removeBlanksBeforeMatching?: string;
+  // After any line matching this regex, ensure exactly one blank line
+  // follows. Applied AFTER removeBlanksBetweenMatching, so it can
+  // re-insert separators between cycle terminators (e.g. blank after
+  // **Changes**: in Orality).
+  insertBlankAfter?: string;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -220,11 +245,103 @@ function applyContentException(markdown: string, slug: string): string {
     const needle = ex.truncateAtLineContaining.toLowerCase();
     for (let i = 0; i < lines.length; i++) {
       if (stripFormattingForMatch(lines[i]).includes(needle)) {
-        return lines.slice(0, i).join('\n').trimEnd() + '\n';
+        lines = lines.slice(0, i);
+        break;
       }
     }
   }
-  return lines.join('\n');
+  if (ex.dropLeadingContentLines && ex.dropLeadingContentLines > 0) {
+    let dropped = 0;
+    let i = 0;
+    while (i < lines.length && dropped < ex.dropLeadingContentLines) {
+      if (lines[i].trim() !== '') {
+        lines.splice(i, 1);
+        dropped++;
+      } else {
+        i++;
+      }
+    }
+    // Collapse leading blank lines left behind.
+    while (lines.length > 0 && lines[0].trim() === '') lines.shift();
+  }
+  if (ex.disableBlockquotes) {
+    // Unwrap `> ` prefixes. A line like `> _text_` becomes `_text_`.
+    // Adjacent unwrapped lines stay as separate paragraphs (or as a
+    // single paragraph with hard line breaks if turndown left trailing
+    // double-spaces). Blank `>` separators become blank lines.
+    lines = lines.map(l => l.replace(/^>\s?/, ''));
+  }
+  if (ex.removeBlanksBetweenMatching) {
+    const re = new RegExp(ex.removeBlanksBetweenMatching);
+    const out: string[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      // Detect: lines[i] is a blank between two matching non-blank lines.
+      if (
+        lines[i].trim() === '' &&
+        i > 0 &&
+        i < lines.length - 1 &&
+        re.test(lines[i - 1]) &&
+        re.test(lines[i + 1])
+      ) {
+        continue; // drop the blank
+      }
+      out.push(lines[i]);
+    }
+    lines = out;
+  }
+  if (ex.removeBlanksBeforeMatching) {
+    const re = new RegExp(ex.removeBlanksBeforeMatching);
+    const out: string[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      if (re.test(lines[i])) {
+        // Pop preceding blank lines (plain blank or `>`-blank).
+        while (out.length > 0 && /^>?\s*$/.test(out[out.length - 1])) {
+          out.pop();
+        }
+      }
+      out.push(lines[i]);
+    }
+    lines = out;
+  }
+  if (ex.insertBlankAfter) {
+    const re = new RegExp(ex.insertBlankAfter);
+    const out: string[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      out.push(lines[i]);
+      if (re.test(lines[i])) {
+        const next = lines[i + 1];
+        if (next !== undefined && next.trim() !== '') {
+          out.push('');
+        }
+      }
+    }
+    lines = out;
+  }
+  if (ex.forcePoetryQuotes) {
+    // Within each blockquote group, drop blank `>` separator lines and
+    // ensure every text line ends with a hard-break (trailing two
+    // spaces) so the renderer keeps the verse-line layout. A "group"
+    // is a maximal run of `>`-prefixed lines.
+    const out: string[] = [];
+    let i = 0;
+    while (i < lines.length) {
+      if (!/^>/.test(lines[i])) { out.push(lines[i]); i++; continue; }
+      // Collect the group.
+      const group: string[] = [];
+      while (i < lines.length && /^>/.test(lines[i])) {
+        group.push(lines[i]);
+        i++;
+      }
+      const compacted = group
+        .filter(l => l.trim() !== '>' && l.trim() !== '')
+        .map(l =>
+          l.endsWith('  ') ? l : l.replace(/\s*$/, '  ')
+        );
+      out.push(...compacted);
+    }
+    lines = out;
+  }
+  return lines.join('\n').trimEnd() + '\n';
 }
 
 /**
@@ -342,8 +459,16 @@ async function createMarkdownFile(
   const contestDir = path.join(REVIEWS_DIR, contestId);
   const filePath = path.join(contestDir, `${slug}.md`);
 
-  // Strip leading title line if it duplicates the CSV title
-  const contentWithoutTitle = stripLeadingTitle(data.content, data.title);
+  // Strip leading title line if it duplicates the CSV title — unless
+  // the per-slug exception opts out (e.g. The Pillow Book opens with
+  // "What is The Pillow Book?" which IS a real section heading even
+  // though it overlaps heavily with the title text).
+  const slugExceptions = loadReviewExceptions();
+  const preserveLeadingHeading =
+    slugExceptions[slug]?.preserveLeadingHeading === true;
+  const contentWithoutTitle = preserveLeadingHeading
+    ? data.content
+    : stripLeadingTitle(data.content, data.title);
 
   // Apply per-slug content exceptions (e.g. truncating an author's note
   // section that's marked "not for publication"). Loaded from

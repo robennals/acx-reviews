@@ -1,15 +1,16 @@
 ---
 title: Tortilla Flat by John Steinbeck
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Random Reader
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T20:23:00.000Z'
 slug: tortilla-flat-by-john-steinbeck
-wordCount: 5958
+wordCount: 5959
 readingTimeMinutes: 27
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1MHg_9R32iHYX9Jc1572pmzuCDd352Cpy9i73EnpPMeg
 tags:
   - Fiction
   - History
@@ -161,7 +162,7 @@ Does this one hyper-fertile female-headed household outweigh all the other child
 
 Exogamy and infertility are the two main options. There is one other poignant quote about the difference between male and female outcomes. Jesus Maria is telling a story about a family they grew up with:
 
-“‘All that family is gone now. One brother is in San Quentin, the other was killed by a Japanese gardener for stealing a wagonload of watermelons. And the girls, well, you know how girls are; they went away. Susy is in Old Jenny’s house in Salinas right now.’”
+> “‘All that family is gone now. One brother is in San Quentin, the other was killed by a Japanese gardener for stealing a wagonload of watermelons. And the girls, well, you know how girls are; they went away. Susy is in Old Jenny’s house in Salinas right now.’”
 
 –
 

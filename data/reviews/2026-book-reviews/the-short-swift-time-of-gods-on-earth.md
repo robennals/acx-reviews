@@ -1,7 +1,7 @@
 ---
 title: The Short, Swift Time of Gods on Earth
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: David Speiser
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: the-short-swift-time-of-gods-on-earth
 wordCount: 10076
 readingTimeMinutes: 45
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1Ihxo7JJCHuwJf4LUOOVBcSB-z5STarJmW1llMGhoK5Q
 tags:
   - History
   - Society

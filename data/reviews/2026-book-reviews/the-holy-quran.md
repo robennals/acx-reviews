@@ -1,15 +1,16 @@
 ---
 title: The Holy Quran
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: David Roman
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-16T12:17:27.000Z'
 slug: the-holy-quran
-wordCount: 5741
+wordCount: 5742
 readingTimeMinutes: 26
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1K-qsmkpr26Ge4UDENZi4lGtDlx_j5-ha-F7g086RXLM
 tags:
   - Religion
   - History
@@ -103,7 +104,7 @@ Under Caliph Abd al-Malik, the Quran rapidly gained a central position in Islami
 
 Indeed, the twenty-four Quranic verses – in quasi-standard version – inscribed on the Dome of the Rock appear to have been selected to aggravate both Jews and Christians. They start by stating what might be described the Nestorian view of Islam (“There is no god by God. He is one. He has no associate.”), they go on to praise Muhammad, Allah’s messenger; and add a clear warning for other monotheists:
 
-“O People of the Scripture! Do not exaggerate in your religion nor utter aught concerning God save the truth. The Messiah, Jesus son of Mary, was only a Messenger of God, and His Word which He conveyed unto Mary, along with His Spirit. So believe in God and His messengers and say not 'Three.' Cease! It is better for you! God is only One God. He’s too exalted to have a son. His is all that is in the heavens and all that is in the earth. And God is sufficient as Defender.”[31]
+> “O People of the Scripture! Do not exaggerate in your religion nor utter aught concerning God save the truth. The Messiah, Jesus son of Mary, was only a Messenger of God, and His Word which He conveyed unto Mary, along with His Spirit. So believe in God and His messengers and say not 'Three.' Cease! It is better for you! God is only One God. He’s too exalted to have a son. His is all that is in the heavens and all that is in the earth. And God is sufficient as Defender.”[31]
 
 The fact that over half of the message written in the Dome of the Rock is devoted to excoriating Jews (by describing Jesus as a “Messiah” and “only a Messenger of God,” rather than a half-Roman whoreson, the Talmud’s preferred description) and Christians (later in the inscription reminded that Jesus was not raised from the dead, but one day he will be, courtesy of Allah) clearly indicates that Islam has been precipitated as a separate religion.
 

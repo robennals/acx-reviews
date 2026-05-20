@@ -1,7 +1,7 @@
 ---
 title: 'Imagined Communities: Relfections on the Origin and Spread of Nationalism'
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Will de la Guardia
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,6 +10,7 @@ slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
 wordCount: 4540
 readingTimeMinutes: 21
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1ObJx_7T8gxsMdhGjJw29L7UKkdk4GaFDsCfb7msNcxo
 tags:
   - History
   - Politics

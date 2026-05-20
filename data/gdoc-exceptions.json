@@ -38,6 +38,21 @@
         "4.13 The Mayhem Remains"
       ],
       "comment": "Author uses numbered-section conventions (1., 2., 4.1, 4.10, etc.) for the actual section structure but also bolds occasional rhetorical asides — `**Did I lose you? Where? Was it the 'slow clap'? Too dramatic?**` — which the generic bold-to-H2 promoter mistakes for section headings. Only the numbered lines are real headings; the asides revert to bold."
+    },
+    "fear-and-trembling": {
+      "h2Lines": [
+        "1. Many father Abrahams",
+        "2. It still seems wrong to be willing to kill your child based on faith",
+        "3. Faith and silence"
+      ],
+      "comment": "Section headings are styled as plain paragraphs (no bold or Heading-N) like `1. Many father Abrahams`. The generic bold-to-H2 promoter only handles `**...**` lines; the extended applyH2Overrides matches the unescaped plain-text form here."
+    },
+    "works-by-isaac-bickerstaff": {
+      "h2Lines": [
+        "Part 1. The Hoax",
+        "Part 2: Almanacs And Prediction Markets"
+      ],
+      "comment": "Both Part 1 and Part 2 are bold-only paragraphs with the same wrap structure in the source. The generic promoter caught Part 2 (different neighboring context) but not Part 1 (preceded by an empty paragraph that fails the substantive-prose-above check). List both explicitly so they're H2 consistently."
     }
   }
 }
