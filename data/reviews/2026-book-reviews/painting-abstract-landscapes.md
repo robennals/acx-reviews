@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-26T04:33:50.000Z'
 slug: painting-abstract-landscapes
-wordCount: 7226
+wordCount: 7227
 readingTimeMinutes: 33
 source: gdoc
 originalUrl: https://docs.google.com/document/d/18QZyTWVPOaj_ULIUeen9ZA6SBzTA5q8mUtzFpk2WnBw
@@ -169,7 +169,7 @@ The final chapter has examples of other artists' work, their views of how to fin
 
 ## The Subtext
 
-_We’ve attended too many classes, read too many books, seen too many Monets._
+> _We’ve attended too many classes, read too many books, seen too many Monets._
 
 It's a bit hard to read all the text, rather than just looking at the pictures, they have clearly put a lot of effort into it, and it rewards reading with unexpected, interesting thoughts. It benefits from Kate’s work in adding literary and historical references and fleshing out some of the ideas, even in the face of Gareth’s insistence that we appreciate what is there, as object and window, and not look for Meaning outside our own impressions, feelings, and memories.
 

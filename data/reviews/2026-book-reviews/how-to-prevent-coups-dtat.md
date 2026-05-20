@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-23T02:28:32.000Z'
 slug: how-to-prevent-coups-dtat
-wordCount: 3264
+wordCount: 3265
 readingTimeMinutes: 15
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1_g6StolGeqoj3RlIGR3bILSuLNGTQKPF5w8j2qD_sKk
@@ -42,7 +42,7 @@ For any self-respecting dictator that has a copy of _How to Prevent Coups d’É
 
 <figcaption>
 
-_Note: “Success” is narrowly defined by the new authority lasting at least one month—apparently operating on the same timeline as a gym membership: if you make it past the first billing cycle, you're committed! \*FLEXES GUNS\*_
+> _Note: “Success” is narrowly defined by the new authority lasting at least one month—apparently operating on the same timeline as a gym membership: if you make it past the first billing cycle, you're committed! \*FLEXES GUNS\*_
 
 </figcaption>
 

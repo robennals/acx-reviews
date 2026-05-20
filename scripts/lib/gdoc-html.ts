@@ -158,6 +158,13 @@ interface GDocStyleMap {
 //     visual blockquote shape regardless of depth, distinct from a
 //     plain-left first-line-indent body style).
 function marginsAreIndented(m: ClassMargins): boolean {
+  // Negative text-indent is the hanging-indent that Google Docs gives
+  // to list items (the bullet/number is pulled out into the indent
+  // space). Treating that as a blockquote turns numbered/bulleted
+  // lists into stray `>` lines — real-world example: Don't Bang
+  // Denmark's `1.`, `2.` enumeration uses margin-left:54pt + text-
+  // indent:-18pt and is a numbered list, not a quote.
+  if (m.textIndent <= -10) return false;
   if (m.marginLeft >= 36) return true;
   if (m.textIndent >= 36) return true;
   if (m.marginLeft > 0 && m.marginRight > 0) return true;
@@ -201,9 +208,9 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/text-align\s*:\s*center/.test(props)) {
       centeredClasses.add(cls);
     }
-    const marginLeftMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
-    const marginRightMatch = props.match(/margin-right\s*:\s*(\d+(?:\.\d+)?)pt/);
-    const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
+    const marginLeftMatch = props.match(/margin-left\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const marginRightMatch = props.match(/margin-right\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const textIndentMatch = props.match(/text-indent\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const ml = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
     const mr = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
     const ti = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
@@ -283,6 +290,14 @@ function isParagraphIndented(
     anyKnown = true;
   }
   if (!anyKnown) return false;
+
+  // Significantly negative text-indent is the hanging-indent that
+  // Google Docs gives to list items (the bullet/number is pulled out
+  // into the indent space). Treating that as a blockquote turns
+  // numbered/bulleted lists into stray `>` lines — same logic as
+  // `marginsAreIndented` itself. Don't Bang Denmark uses `c7`
+  // (margin-left:54pt; text-indent:-18pt) for every list item.
+  if (ti <= -10) return false;
 
   // Combined-margins checks: margin-left meets threshold, OR both-sides.
   if (ml >= 36) return true;
@@ -803,7 +818,66 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
   // docs — 2025's biggest chunk has thousands of <p> elements and caused
   // multi-minute stalls under the previous grouping approach).
   if (styles.indentClasses.size > 0 || styles.classMargins.size > 0) {
+    // Poem-run detection: a sequence of 5+ consecutive `<p>` siblings
+    // (separated only by empty `<p>` stanza-breaks) that all carry a
+    // class with margin-left in the 10pt–36pt range — i.e. a small
+    // visual indent that's below the standard blockquote threshold —
+    // is almost always a verse passage the author indented as a poetry
+    // block. CS Lewis's "A Confession" + "Joys that Sting" use 14.2pt
+    // for every line of each poem; below the default 36pt threshold,
+    // so without this detection the lines render as plain body
+    // paragraphs. Mark every <p> in such a run with a sentinel
+    // attribute so the downstream blockquote-grouper treats them as
+    // indented regardless of the per-class margin.
+    const POEM_INDENT_MIN = 10;
+    const POEM_INDENT_MAX = 36;
+    const POEM_RUN_MIN = 5;
+    const hasSmallIndent = (p: ReturnType<typeof $>) => {
+      const classes = (p.attr('class') || '').split(/\s+/);
+      let ml = 0;
+      let ti = 0;
+      for (const c of classes) {
+        const m = styles.classMargins.get(c);
+        if (!m) continue;
+        ml += m.marginLeft;
+        ti += m.textIndent;
+      }
+      // Hanging indent (negative text-indent) signals a list item —
+      // skip those, same logic as `marginsAreIndented` itself.
+      if (ti <= -10) return false;
+      return ml >= POEM_INDENT_MIN && ml < POEM_INDENT_MAX;
+    };
+    const siblings = $('body > p, body > div > p').toArray();
+    let runStart = -1;
+    let runLen = 0;
+    const flushRun = (endIdx: number) => {
+      if (runLen >= POEM_RUN_MIN) {
+        for (let k = runStart; k < endIdx; k++) {
+          $(siblings[k]).attr('data-poem-run', '1');
+        }
+      }
+      runStart = -1;
+      runLen = 0;
+    };
+    for (let i = 0; i < siblings.length; i++) {
+      const p = $(siblings[i]);
+      const isSmall = hasSmallIndent(p);
+      const isEmptyP = !p.text().trim() && !p.find('img').length;
+      if (isSmall) {
+        if (runStart < 0) runStart = i;
+        runLen++;
+      } else if (isEmptyP && runStart >= 0) {
+        // Empty paragraph inside a candidate run is a stanza break —
+        // don't reset the run.
+        continue;
+      } else {
+        flushRun(i);
+      }
+    }
+    flushRun(siblings.length);
+
     const isElementIndented = (el: ReturnType<typeof $>) => {
+      if (el.attr('data-poem-run')) return true;
       return isParagraphIndented($, el, styles);
       // Note: we do NOT fall back to checking `<li>` margin on a
       // `<ul>`/`<ol>` element. Google Docs gives every `<li>` a
@@ -1501,26 +1575,35 @@ export function cleanupMarkdown(markdown: string): string {
   // or plain `Footnote:` paragraph) is a strong enough signal that we
   // allow 1+ matching def lines — Hero in History has just one footnote.
   {
-    // Match either `## Footnotes` (heading), `Footnote:` /
-    // `Footnotes:` as a plain paragraph, or a bare `Footnote` /
-    // `Footnotes` line (no heading hash, no colon — used when the
-    // author writes the label as just a plain paragraph).
+    // Match the Footnotes section marker. Variants we accept:
+    //   `## Footnotes`       — heading
+    //   `## Footnotes:`      — heading with colon (when the upstream
+    //                         underline-to-H2 rule promoted
+    //                         `Footnotes:` directly without stripping)
+    //   `Footnotes:`         — plain paragraph + colon
+    //   `Footnote:`          — singular variant
+    //   `Footnotes`          — bare plain paragraph
+    //   `**Footnotes:**`     — bold + colon (Bickerstaff)
+    //   `**Footnotes**`      — bold
     const markerRe =
-      /^(?:##[ \t]+Footnotes?[ \t]*|Footnotes?[ \t]*:?[ \t]*)$/m;
+      /^(?:##[ \t]+Footnotes?:?[ \t]*|\*\*Footnotes?:?\*\*[ \t]*|Footnotes?[ \t]*:?[ \t]*)$/m;
     const markerMatch = markerRe.exec(md);
     if (markerMatch) {
       const before = md.slice(0, markerMatch.index);
       const markerLine = markerMatch[0];
       const after = md.slice(markerMatch.index + markerLine.length);
       const afterLines = after.split('\n');
-      // Identify numbered-def lines and their ids in order.
-      const defLineRe = /^(\d+)\\?\.[ \t]+(.*)$/;
+      // Identify numbered-def lines and their ids in order. Accept
+      // any of `N.`, `N\.`, `N:`, or `(N)` as the leading marker
+      // (period, escaped period, colon, or parens).
+      const defLineRe = /^(?:\((\d+)\)|(\d+)\\?[.:])[ \t]+(.*)$/;
       const ids: string[] = [];
       const rewrittenAfter = afterLines.map(line => {
         const m = defLineRe.exec(line);
         if (m) {
-          ids.push(m[1]);
-          return `[^${m[1]}]: ${m[2]}`;
+          const id = m[1] ?? m[2];
+          ids.push(id);
+          return `[^${id}]: ${m[3]}`;
         }
         return line;
       });
@@ -1530,18 +1613,26 @@ export function cleanupMarkdown(markdown: string): string {
         // section divider.
         const isHeading = /^##/.test(markerLine);
         const normalizedMarker = isHeading ? markerLine : '## Footnotes';
-        // Rewrite body refs `[N]` → `[^N]` for the ids we found,
-        // but ONLY when not already inside a link / image reference.
-        // Pattern guard: a `[N]` not immediately followed by `(` (link)
-        // or `:` (link-reference def). Match optional leading space so
-        // we collapse "text [1]" → "text[^1]" (pandoc convention,
-        // matches how the rendered ref reads inline).
+        // Rewrite body refs to `[^N]` for the ids we found. Accept
+        // either `[N]` (bracketed) or `(N)` (parenthesized — used by
+        // docs like Bickerstaff that use parens consistently). Only
+        // when not already a link / image reference (so a `[N]` glued
+        // to `(http…)` or `:url` stays untouched).
         const idSet = new Set(ids);
         const reBody = /(\s?)\[(\d+)\](?![(:])/g;
-        const newBefore = before.replace(reBody, (full, sp, n: string) => {
-          if (!idSet.has(n)) return full;
-          return `[^${n}]`;
-        });
+        const reBodyParen = /(\s)\((\d+)\)/g;
+        const newBefore = before
+          .replace(reBody, (full, sp, n: string) => {
+            if (!idSet.has(n)) return full;
+            return `[^${n}]`;
+          })
+          .replace(reBodyParen, (full, sp, n: string) => {
+            if (!idSet.has(n)) return full;
+            // Preserve the leading space (it sat between a sentence
+            // and the parenthesized ref); pandoc renderers join `[^N]`
+            // tightly to surrounding text.
+            return `${sp}[^${n}]`;
+          });
         md = newBefore + normalizedMarker + rewrittenAfter.join('\n');
       }
     }
@@ -1584,6 +1675,63 @@ export function cleanupMarkdown(markdown: string): string {
         }
       }
       md = lines.join('\n');
+    }
+  }
+
+  // `FOOTNOTE N` keyword-style footnotes (Der Untergang format). Body
+  // refs appear as `[FOOTNOTE N]` or `(FOOTNOTE N)`; definitions at
+  // the tail are `FOOTNOTE N` (with optional trailing colon) headers
+  // followed by body paragraph(s). Rewrite to pandoc.
+  //
+  // Multi-paragraph footnote bodies are joined into a single
+  // `[^N]: …` def line by indenting continuation paragraphs (pandoc's
+  // syntax). Only fires when 2+ such headers exist, so we don't
+  // mis-fire on a stray "FOOTNOTE 1" line in some other context.
+  {
+    const headerRe = /^FOOTNOTE\s+#?(\d+):?\s*$/m;
+    const lines = md.split('\n');
+    const headerIdxs: number[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      if (headerRe.test(lines[i])) headerIdxs.push(i);
+    }
+    if (headerIdxs.length >= 2) {
+      // Process from last to first so indices stay valid.
+      const ids: string[] = [];
+      for (let h = headerIdxs.length - 1; h >= 0; h--) {
+        const startIdx = headerIdxs[h];
+        const endIdx = h + 1 < headerIdxs.length
+          ? headerIdxs[h + 1]
+          : lines.length;
+        const m = headerRe.exec(lines[startIdx])!;
+        const id = m[1];
+        ids.push(id);
+        // Skip blanks immediately after header.
+        let bodyStart = startIdx + 1;
+        while (bodyStart < endIdx && lines[bodyStart].trim() === '') bodyStart++;
+        if (bodyStart >= endIdx) {
+          // No body — replace header alone.
+          lines.splice(startIdx, endIdx - startIdx, `[^${id}]: `);
+          continue;
+        }
+        // First body line gets the `[^N]:` prefix. Remaining non-blank
+        // lines get a 4-space indent so the pandoc extractor reads
+        // them as continuation lines of the same def.
+        const replacement: string[] = [`[^${id}]: ${lines[bodyStart]}`];
+        for (let k = bodyStart + 1; k < endIdx; k++) {
+          if (lines[k].trim() === '') {
+            replacement.push('');
+          } else {
+            replacement.push(`    ${lines[k]}`);
+          }
+        }
+        lines.splice(startIdx, endIdx - startIdx, ...replacement);
+      }
+      const idSet = new Set(ids);
+      md = lines.join('\n')
+        .replace(/\[FOOTNOTE\s+#?(\d+)\]/g, (full, n: string) =>
+          idSet.has(n) ? `[^${n}]` : full)
+        .replace(/(\s)\(FOOTNOTE\s+#?(\d+)\)/g, (full, sp, n: string) =>
+          idSet.has(n) ? `${sp}[^${n}]` : full);
     }
   }
 

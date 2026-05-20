@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T01:25:04.000Z'
 slug: bronze-age-mindset-an-exhortation
-wordCount: 9304
+wordCount: 9305
 readingTimeMinutes: 42
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1v93bkDdU_1VD0WgHXCnnTjcS-aRHCp39KLDGg9zYSRw
@@ -18,7 +18,7 @@ tags:
 
 ## Diamond Age Mindset: A Primer for Sensitive Young Cyborgs
 
-_An intro to Bronze Age Pervert’s mindset based on a diet of neopagan philosophy, Frogtwitter, lifting, and raw food—and a critique of his Nietzscheanism to the letter via my Nietzscheanism in spirit_
+> _An intro to Bronze Age Pervert’s mindset based on a diet of neopagan philosophy, Frogtwitter, lifting, and raw food—and a critique of his Nietzscheanism to the letter via my Nietzscheanism in spirit_
 
 In the summer of 2018, a book appeared on Amazon called _Bronze Age Mindset: An Exhortation_.[1] It quickly rose to the top 150 books sold sitewide, attracting the attention of many prominent political, tech, and cultural figures: from JD Vance and Peter Thiel, to Anna Khachiyan and the art collective [KIRAC](https://kirac.substack.com/). The book was self-published by a philosopher and “humourist” going by the pseudonym—or rather _nom de guerre_—of [Bronze Age Pervert](https://www.bronzeagepervert.yoga/) (or BAP), who had already developed quite the following on “Frogtwitter” for trolling the usual progressive and woke suspects and conservative and far right figures alike. BAP’s other viral antics include “Handsome Thursdays,” a recurring photo dump of young, athletic men sunbathing on beaches and tanning in the tropics—a practice that has fuelled speculation about his sexual orientation.
 

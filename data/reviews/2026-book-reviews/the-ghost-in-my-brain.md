@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T01:44:24.000Z'
 slug: the-ghost-in-my-brain
-wordCount: 4216
+wordCount: 4218
 readingTimeMinutes: 19
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1dPcbVPoP892288Fj_-aVQR4siomTxkpFZxMRjL7UF7c
@@ -40,7 +40,7 @@ A disclosure is in order before we continue. I am pretty personally invested in 
 
 What’s it like to be a human with severe brain damage? Elliott offers a metaphor:  
 
-_To simulate concussion damage to a human brain then, we’ll need to gather together […] 50 million desktop computers, a 500,000-mile-high stack of paper, and the almost inconceivable amount of information it takes to construct a human mind, then loose a hurricane on the system, ripping out network lines, laying waste to vast sections of memory, and sending landslides to smash hundreds of thousands of computers._  
+> _To simulate concussion damage to a human brain then, we’ll need to gather together […] 50 million desktop computers, a 500,000-mile-high stack of paper, and the almost inconceivable amount of information it takes to construct a human mind, then loose a hurricane on the system, ripping out network lines, laying waste to vast sections of memory, and sending landslides to smash hundreds of thousands of computers._  
 
 A bit sensational, but you get the picture. One classic model of what’s happening during severe concussions is “diffuse axonal injury”: rapid acceleration and deceleration stretch axons, the neuron projections that send electrical signals, causing micro-tears and disrupting cellular metabolism.
 
@@ -74,7 +74,7 @@ Ten years after the crash, Elliott is approaching a complete breakdown. Or rathe
 
 Unfortunately, there are no parenting sabbaticals. In a last-ditch effort, Elliott pulls out his emergency savings and reaches out to a “cognitive restructuring specialist” named Donalee Markus.
 
-_Wait a minute_, you might be thinking. _Elliott hasn’t seen a specialist before??_  
+> _Wait a minute_, you might be thinking. _Elliott hasn’t seen a specialist before??_  
 
 He has, sort of. It didn’t help. A brief detour through medical history: Elliott hit his head in 1999. The CDC didn’t publish its first major report on mild traumatic brain injury (TBI) until 2003. The NFL concussion crisis broke into public awareness in 2005. Until 2013, the only mention of persistent post-concussive symptoms in the DSM-IV was in the appendix under “proposed criteria set”. After the crash, an ER doctor checks his pupils and sends him home; a neurologist runs a 30-minute test and declares him fine, and shouts at him when he pushes back.  
 

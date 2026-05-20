@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T20:04:59.000Z'
 slug: collected-poems-by-cs-lewis
-wordCount: 3848
+wordCount: 3883
 readingTimeMinutes: 18
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1SHnc7xn_JQjr3dWC_LTq37T2703wJq-7IZWquMZPdis
@@ -107,67 +107,40 @@ Perhaps this seems trivial.  One bad image won’t bring about the collapse of c
 
 Lewis has read the modernist poets, and he thinks their imagery is bad.  He is prepared to give better ones, because he thinks the survival of civilisation depends on it.
 
-**A Confession**
-
-I am so coarse, the things the poets see
-
-Are obstinately invisible to me.
-
-For twenty years I’ve stared my level best
-
-To see if evening -- any evening -- would suggest
-
-A patient etherized upon a table;
-
-In vain. I simply wasn’t able.
-
-To me each evening looked far more
-
-Like the departure from a silent, yet a crowded, shore
-
-Of a ship whose freight was everything, leaving behind
-
-Gracefully, finally, without farewells, marooned mankind.
-
-Red dawn behind a hedgerow in the east
-
-Never, for me, resembled in the least
-
-A chilblain on a cocktail-shaker’s nose;
-
-Waterfalls don’t remind me of torn underclothes,
-
-Nor glaciers of tin-cans. I’ve never known
-
-The moon look like a hump-backed crone–
-
-Rather, a prodigy, even now
-
-Not naturalized, a riddle glaring from the Cyclops’ brow
-
-Of the cold world, reminding me on what a place
-
-I crawl and cling, a planet with no bulwarks, out in space.
-
-Never the white sun of the wintriest day
-
-Struck me as _un crachat d’estaminet_.
-
-I’m like that odd man Wordsworth knew, to whom
-
-A primrose was a yellow primrose, one whose doom
-
-Keeps him forever in the list of dunces,
-
-Compelled to live on stock responses,
-
-Making the poor best that I can
-
-Of dull things… peacocks, honey, the Great Wall, Aldebaran
-
-Silver weirs, new-cut grass, wave on the beach, hard gem,
-
-The shapes of horse and woman, Athens, Troy, Jerusalem.
+> **A Confession**  
+> I am so coarse, the things the poets see  
+> Are obstinately invisible to me.  
+> For twenty years I’ve stared my level best  
+> To see if evening -- any evening -- would suggest  
+> A patient etherized upon a table;  
+> In vain. I simply wasn’t able.  
+> To me each evening looked far more  
+> Like the departure from a silent, yet a crowded, shore  
+> Of a ship whose freight was everything, leaving behind  
+> Gracefully, finally, without farewells, marooned mankind.
+>
+> Red dawn behind a hedgerow in the east  
+> Never, for me, resembled in the least  
+> A chilblain on a cocktail-shaker’s nose;  
+> Waterfalls don’t remind me of torn underclothes,  
+> Nor glaciers of tin-cans. I’ve never known  
+> The moon look like a hump-backed crone–  
+> Rather, a prodigy, even now  
+> Not naturalized, a riddle glaring from the Cyclops’ brow  
+> Of the cold world, reminding me on what a place  
+> I crawl and cling, a planet with no bulwarks, out in space.
+>
+> Never the white sun of the wintriest day  
+> Struck me as _un crachat d’estaminet_.  
+> I’m like that odd man Wordsworth knew, to whom  
+> A primrose was a yellow primrose, one whose doom  
+> Keeps him forever in the list of dunces,  
+> Compelled to live on stock responses,  
+> Making the poor best that I can  
+> Of dull things… peacocks, honey, the Great Wall, Aldebaran  
+> Silver weirs, new-cut grass, wave on the beach, hard gem,  
+> The shapes of horse and woman, Athens, Troy, Jerusalem.
+>
 
 # 3.  Joys that Sting
 
@@ -196,7 +169,7 @@ It’s not enough to know this in our heads. For it to do us any good it needs t
 
 **Joys That Sting**
 
-_Oh doe not die_, says Donne, _for I shall hate_  
+> _Oh doe not die_, says Donne, _for I shall hate_  
  _All women so_.  How false the sentence rings.  
 Women?  But in a life made desolate  
 It is the joys once shared that have the stings.  

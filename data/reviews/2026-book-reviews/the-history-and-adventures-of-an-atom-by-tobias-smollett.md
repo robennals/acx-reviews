@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:40:53.000Z'
 slug: the-history-and-adventures-of-an-atom-by-tobias-smollett
-wordCount: 5989
+wordCount: 5995
 readingTimeMinutes: 27
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1s1we-4j-UxPtTKmrtKAzJXRa-3WwaHDj-VRMVZGdxOo
@@ -51,13 +51,13 @@ _4_ …the testimony of a passing Englishman frees him.
 
 Nothing unusual here. But how long does it take the book to narrate these four incidents?
 
-_1a_ Heraclide begs Esdras for mercy: _4 ½ pages_  
-_1b_ The rape: _The first half of a sentence_  
-_2a_ Heraclide ponders suicide: _2 ½ pages_  
+> _1a_ Heraclide begs Esdras for mercy: _4 ½ pages_  
+> _1b_ The rape: _The first half of a sentence_  
+> _2a_ Heraclide ponders suicide: _2 ½ pages_  
 _2b_ The suicide: _Two parenthetical words_ (“(throughlie stabd)”)  
-_3_ Jack Wilton accused, tried, sentenced, brought to the gibbet: _½ page_  
-_4a_ The Englishman’s testimony, which saves Jack’s neck: _1 page_  
-_4b_ The Englishman then spontaneously monologues on the folly of travel because all countries, save England, are trash: _6 pages_
+> _3_ Jack Wilton accused, tried, sentenced, brought to the gibbet: _½ page_  
+> _4a_ The Englishman’s testimony, which saves Jack’s neck: _1 page_  
+> _4b_ The Englishman then spontaneously monologues on the folly of travel because all countries, save England, are trash: _6 pages_
 
 Then the Englishman slips away, never to appear again, leaving Jack Wilton a free man. One page later, Jack has fallen into the clutches of Jews (!) who appear to be planning to dissect him alive for the elucidation of medical students. It goes on like this. It’s all a recognizable picaresque except the pacing, which seems so strange and arbitrary that the result rarely reads like a novel.
 

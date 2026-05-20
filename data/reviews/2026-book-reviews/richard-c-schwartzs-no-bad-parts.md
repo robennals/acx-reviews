@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T15:17:25.000Z'
 slug: richard-c-schwartzs-no-bad-parts
-wordCount: 4777
+wordCount: 4783
 readingTimeMinutes: 22
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1HuvNtqUt9WGihGw3-cTQbcbrLkIrK_gFIK9om2aT4io
@@ -28,7 +28,7 @@ A cozy, book-strewn office inside Frank's head
 
 **Manager (MN)**: Ah, another beautiful summer morning! The sun is rising, the birds are chirping, and we're at our desk with a strong cup of black coffee. Best of all, Frank is finally done with graduate school, so we can get back to work reading whatever we want instead of churning out papers week after week. Now we can really dig into some of those ideas that caught our attention in the whirlwind of psychotherapy training. Next up, we've got Richard C. Schwartz's _No Bad Parts._ This book was published in 2021 and explains Schwartz's Internal Family Systems (IFS) model. He's been developing IFS since the 1980s, but over the last decade or so the modality has exploded in popularity. We just read one of his previous books and enjoyed it, so I'm feeling confident that we're going to like this one too. Okay, well, let's get started......
 
-_MN picks up book and starts reading._
+> _MN picks up book and starts reading._
 
 Hmm, yes, some good points to review here at the beginning:
 
@@ -69,7 +69,7 @@ _FF enters, furious._
 
 **MN**: Yes, I promise. Just give me some time to check in with my breath...
 
-_MN closes eyes and begins to meditate while FF paces around the office. After a few moments of silence, Self enters the office with a loud popping sound._
+> _MN closes eyes and begins to meditate while FF paces around the office. After a few moments of silence, Self enters the office with a loud popping sound._
 
 **MN and FF**: (In unison) Who are you???
 
@@ -83,7 +83,7 @@ _MN closes eyes and begins to meditate while FF paces around the office. After a
 
 **Self**: Ah, you must be Frank's inner Skeptic, a firefighter part. I've been blended with you a lot over the years as well. I'm happy you're here to make sure that we keep things evidence-based and don't fall prey to any logical fallacies! To answer your question, "blended" means that I've been mixed up with Frank's other parts––mostly the two of you––in a way that prevented me from separating and talking with you directly, like we're doing now.
 
-_FF crosses arms and glares at Self, saying nothing._
+> _FF crosses arms and glares at Self, saying nothing._
 
 **MN**: Okay...so what's going on here?
 
@@ -177,7 +177,7 @@ Self: Thanks, I really appreciate you both being willing to trust me here. (Sits
 
 **Self**: (Smiles warmly and stands up, looking offstage toward EX's voice) Hey there. I thought that was you. Would you be willing to come out of there and talk with me?
 
-_Exile enters, looking terrified. MN and FF both gasp, look astounded. Self gestures to them to stay calm._
+> _Exile enters, looking terrified. MN and FF both gasp, look astounded. Self gestures to them to stay calm._
 
 **EX**: (Timidly) Is...is this real? I don't, I can't, uh...no one has tried to talk with me in...well, I don't know how long it's been.
 
@@ -291,7 +291,7 @@ _EX nods._
 
 **Self**: Yes, it could be. If you decide to stay here with the rest of us, we'll be able to find out––together. (Turns to MN and FF) Would you two mind coming over here? I'd like you to get a chance to speak with our new friend if you want to.
 
-_MN and FF approach. EX opens his eyes._
+> _MN and FF approach. EX opens his eyes._
 
 **MN**: Hey kid, you okay?
 
@@ -325,7 +325,7 @@ _MN and FF approach. EX opens his eyes._
 
 **FF**: Group hug! We skeptics never get hugs!
 
-_Everyone brings it in for a group hug._
+> _Everyone brings it in for a group hug._
 
 **EX**: Thanks everyone.
 

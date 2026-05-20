@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T02:41:21.000Z'
 slug: this-is-going-to-hurt
-wordCount: 12499
+wordCount: 12500
 readingTimeMinutes: 56
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1M9jgeSXID4W2BH93vq1lxwRHTj37WFSh_e3ytwPQxXk
@@ -208,7 +208,7 @@ I want to change the subject now, if it’s okay with you. Should Kay have been 
 
 IV
 
-_“The decision to work in medicine is basically a version of the email you get in early October asking you to choose your menu options for the work Christmas party. No doubt you’ll choose the chicken, to be on the safe side, and more than likely everything will be all right. But what if someone shares a ghastly factory farming video on Facebook the day before and you inadvertently witness a mass debeaking? What if Morrissey dies in November and, out of respect for him, you turn your back on a lifestyle thus far devoted almost exclusively to consuming meat? What if you develop a life-threatening allergy to escalopes? Ultimately, no one knows what they’ll fancy for dinner in sixty dinners’ time.”_
+> _“The decision to work in medicine is basically a version of the email you get in early October asking you to choose your menu options for the work Christmas party. No doubt you’ll choose the chicken, to be on the safe side, and more than likely everything will be all right. But what if someone shares a ghastly factory farming video on Facebook the day before and you inadvertently witness a mass debeaking? What if Morrissey dies in November and, out of respect for him, you turn your back on a lifestyle thus far devoted almost exclusively to consuming meat? What if you develop a life-threatening allergy to escalopes? Ultimately, no one knows what they’ll fancy for dinner in sixty dinners’ time.”_
 
 **B:** When you apply to an undergraduate medical school, you might still be 17 years old. Nobody thinks this is an age when you know what you want, but medical schools have to discriminate somehow. Exam results are the obvious metric, but there are interview processes and perusal of CVs. Like admissions to competitive colleges in the US, extra-curricular activities are taken as evidence of a ‘well-rounded’ person who may score somewhere above the basal levels of extraversion (as Kay notes, this isn’t always the sign of a good outcome: [Dr Harold Shipman](https://en.wikipedia.org/wiki/Harold_Shipman) had excellent extra-curriculars). Some medical schools run a ‘rat-race’ of scenarios where prospective students are shuffled between up to a dozen mock ethical dilemmas, one every ten minutes, and asked to say how they would manage. Then they take all of these metrics and intangibles, run sophisticated weightings and statistical tests, and select whichever candidate has a doctor for a parent.
 

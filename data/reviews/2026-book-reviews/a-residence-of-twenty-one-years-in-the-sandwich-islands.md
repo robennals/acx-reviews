@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T02:27:26.000Z'
 slug: a-residence-of-twenty-one-years-in-the-sandwich-islands
-wordCount: 8529
+wordCount: 8528
 readingTimeMinutes: 38
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1lYidSeOqgGWp7b7hHY3bFh3eFxqU6xOJVElDfw7VXM0
@@ -36,12 +36,12 @@ In other words, if the EA Forum existed in the early 19th century, I could easil
 
 So, with the benefit of 200 years of hindsight, what can Effective Altruists and other aspiring do-gooders today learn from the previous wave of people who wanted to save the world?
 
-To find out, I read Hiram’s memoir, _A Residence of Twenty-One Years in the Sandwich Islands._ Published in 1847, it’s not a particularly engaging book,[2] but as a historical document, it’s a fascinating account of the effort of seven young missionary couples and their Hawaiian friends to do the most good possible by bringing Christianity, literacy, Western civilization, and Puritan social mores to a nation of 130,000 souls.
+To find out, I read Hiram’s memoir, _A Residence of Twenty-One Years in the Sandwich Islands._ Published in 1847, it’s not a particularly engaging book,[^2] but as a historical document, it’s a fascinating account of the effort of seven young missionary couples and their Hawaiian friends to do the most good possible by bringing Christianity, literacy, Western civilization, and Puritan social mores to a nation of 130,000 souls.
 
 2.  ## The Twenty-One Year Honeymoon
     
 
-In many ways, the islands of Hawaii are a paradise on Earth, but to the missionaries who knew them as the Sandwich Islands, they were a savage place. These islanders, after all, had killed [Captain Cook](https://www.britannica.com/biography/James-Cook) just 40 years ago.[3] From 1782 to 1810, the nation was ravaged by war. [King Kamehameha I](https://www.nps.gov/puhe/learn/historyculture/kamehameha.htm), adopting Western military technology such as gunpowder, forcefully unified the islands into a single kingdom and suppressed potential rivals.
+In many ways, the islands of Hawaii are a paradise on Earth, but to the missionaries who knew them as the Sandwich Islands, they were a savage place. These islanders, after all, had killed [Captain Cook](https://www.britannica.com/biography/James-Cook) just 40 years ago.[^3] From 1782 to 1810, the nation was ravaged by war. [King Kamehameha I](https://www.nps.gov/puhe/learn/historyculture/kamehameha.htm), adopting Western military technology such as gunpowder, forcefully unified the islands into a single kingdom and suppressed potential rivals.
 
 A young boy, [Opukaha’ia](https://en.wikipedia.org/wiki/Henry_Opukahaia), was left an orphan by Kamehameha’s warriors, who killed his father, mother, and infant brother. With nothing left for him in Hawaii, he joined the crew of a passing ship, and eventually made his way to New England, where he converted to Christianity and befriended theology students at Yale and Andover. Opukaha’ia described his native Hawaii as a land in need of salvation, and the local ministers decided to send a mission to spread the Gospel and the light of civilization. Opukaha’ia would return to Hawaii with the missionaries and serve as a translator.
 
@@ -61,7 +61,7 @@ An old family portrait of Hiram and his six brothers taken sometime 1854-1860. B
 
 Hiram truly felt the commandment to “love thy neighbor”, and for him, the 130,000 native Hawaiians on the other side of the globe were neighbors just as much as the inhabitants of his hometown in Vermont. Thus, Hiram was eager to become a missionary as soon as he had finished his studies.
 
-Unfortunately, during preparations for the mission, Opukaha’ia fell ill and died.[4] Still, the plan went ahead. As Hiram writes, a good Christian must “extend the influence of the Gospel, because Christ _requires_ it, rather than because of his own _engagement_. To know, to be qualified, to have opportunity, constitute the special call to do good.” Parents and relatives urged the missionaries not to go, but Hiram saw things differently: somebody had to and no one else would.
+Unfortunately, during preparations for the mission, Opukaha’ia fell ill and died.[^4] Still, the plan went ahead. As Hiram writes, a good Christian must “extend the influence of the Gospel, because Christ _requires_ it, rather than because of his own _engagement_. To know, to be qualified, to have opportunity, constitute the special call to do good.” Parents and relatives urged the missionaries not to go, but Hiram saw things differently: somebody had to and no one else would.
 
 There was just one problem: Hiram needed a wife. Sending a young single man to a land of licentious heathens was asking for trouble, and therefore only married couples were allowed to be missionaries. Thus, after being ordained as a Congregational minister, Hiram proposed marriage to Sybil Moseley, a woman he had met at the ordination ceremony just twelve days earlier. Fortunately, she accepted, and later that month, the couple was on a ship bound for Hawaii — not as a two-week honeymoon, but as a mission that would last twenty-one years.
 
@@ -82,11 +82,11 @@ Hiram and Sybil in 1819, [as painted by Samuel Morse](https://artgallery.yale.ed
 
 After a sea voyage of 18,000 miles, during which Hiram and Sybil’s first child was conceived, the missionaries spotted the peak of Mauna Kea on the morning of March 30, 1820. Five months after departure, the sight was exhilarating: the work of spreading Christianity, literacy, and civilization was finally at hand.
 
-There was just one important restriction, put in place by the American missionary board: **absolutely no meddling in the politics of the natives.**[5]
+There was just one important restriction, put in place by the American missionary board: **absolutely no meddling in the politics of the natives.**[^5]
 
-Upon arriving, the missionaries’ first request was for an audience with King Kamehameha, the fearsome conqueror of the islands. Kamehameha’s authority upheld the kapu (taboo) system,[6] the foundation of the native Hawaiian religion. Converting him to Christianity would be difficult, but crucial for the success of the mission. Kamehameha’s authority was absolute, and anyone who went against it would be exiled or killed. Unless he converted, the mission was doomed to fail.
+Upon arriving, the missionaries’ first request was for an audience with King Kamehameha, the fearsome conqueror of the islands. Kamehameha’s authority upheld the kapu (taboo) system,[^6] the foundation of the native Hawaiian religion. Converting him to Christianity would be difficult, but crucial for the success of the mission. Kamehameha’s authority was absolute, and anyone who went against it would be exiled or killed. Unless he converted, the mission was doomed to fail.
 
-However, the missionaries were shocked to find Hawaii in a state of political and religious turmoil. Several months before their arrival, Kamehameha had fallen ill and died. His son and heir, [Liholiho](https://www.nps.gov/puhe/learn/historyculture/kamehameha2.htm), was just 21 years old and inexperienced in politics. [Queen Ka’ahumanu](https://www.nps.gov/articles/000/queen-ka-ahumanu.htm), who had been Kamehameha’s favorite among his many wives,[7] took control. Officially, she was regent in the king’s name, but in practice she ruled Hawaii.
+However, the missionaries were shocked to find Hawaii in a state of political and religious turmoil. Several months before their arrival, Kamehameha had fallen ill and died. His son and heir, [Liholiho](https://www.nps.gov/puhe/learn/historyculture/kamehameha2.htm), was just 21 years old and inexperienced in politics. [Queen Ka’ahumanu](https://www.nps.gov/articles/000/queen-ka-ahumanu.htm), who had been Kamehameha’s favorite among his many wives,[^7] took control. Officially, she was regent in the king’s name, but in practice she ruled Hawaii.
 
 As a woman, Ka’ahumanu was burdened by the many restrictions of the kapu system. Among other things, many foods (such as coconut) were forbidden to women, and women were not allowed to eat together with men. Soon after becoming regent, Ka’ahumanu allied with Kamehameha’s other widows, including Liholiho’s mother, [Queen Keopuolani](https://en.wikipedia.org/wiki/Ke%C5%8Dp%C5%ABolani), to abolish the kapu, which she “felt to be degrading and oppressive” to herself and the other women of Hawaii.
 
@@ -99,9 +99,9 @@ Thus, the missionaries arrived to find their work half done for them. The Hawaii
 
 The intended audience with Kamehameha was impossible, but the missionaries soon met with the Hawaiian royal family, including King Liholiho and Queen Ka’ahumanu. After twelve days of negotiations, during which the missionaries assured the Hawaiians that they were purely benevolent and definitely not looking to meddle in politics or “interfere with the government or trade of the islands”, Ka’ahumanu and Liholiho granted them permission to settle. Half the missionaries, including the expedition co-leader Asa Thurston, would remain on the big island, and the other half (including Hiram) would continue to Honolulu.
 
-From then on, Hiram and his fellow missionaries worked tirelessly to establish “the school, the pulpit, and the press”. The royal family was impressed by their “kindness and demonstration of their ability and readiness to make themselves useful”, and their gifts of a telescope and ornate Bibles.[8] The missionaries were granted a plot of land on which to build a house and a church, and a school was soon added. Although Opukaha’ia had died before the mission departed, the missionaries brought four other native Hawaiians who were able to translate, including Prince George Humehume (the son of Kaumuali’i, chief of Kaua’i), and Hiram quickly learned the language himself.
+From then on, Hiram and his fellow missionaries worked tirelessly to establish “the school, the pulpit, and the press”. The royal family was impressed by their “kindness and demonstration of their ability and readiness to make themselves useful”, and their gifts of a telescope and ornate Bibles.[^8] The missionaries were granted a plot of land on which to build a house and a church, and a school was soon added. Although Opukaha’ia had died before the mission departed, the missionaries brought four other native Hawaiians who were able to translate, including Prince George Humehume (the son of Kaumuali’i, chief of Kaua’i), and Hiram quickly learned the language himself.
 
-The native Hawaiians were fascinated by the missionaries’ technology, even for seemingly simple things. Several high-ranking Hawaiian women requested that the missionary wives make American-style dresses for them. In traditional Polynesian culture, obesity is considered a mark of high status, and the missionaries had never seen women that big. Hiram describes one as a “rude giantess”.[9] Some initial attempts at dresses were “too tight” but after alterations, the dresses were well received.
+The native Hawaiians were fascinated by the missionaries’ technology, even for seemingly simple things. Several high-ranking Hawaiian women requested that the missionary wives make American-style dresses for them. In traditional Polynesian culture, obesity is considered a mark of high status, and the missionaries had never seen women that big. Hiram describes one as a “rude giantess”.[^9] Some initial attempts at dresses were “too tight” but after alterations, the dresses were well received.
 
 <figure>
 
@@ -129,7 +129,7 @@ Faced with these difficulties, Hiram almost gave up and moved to Kamchatka in th
 
 However, the missionaries would soon make an important breakthrough. In December 1821, Queen Ka’ahumanu fell ill with some unnamed disease. The missionaries prayed and cared for her as best they could, and Mrs. Sybil Bingham “sat down by the side of the sick queen, and with unfeigned sympathy for her sufferings and danger, bathed her aching temples, she bound a silken cord around her heart, from which I think she never broke loose while she lived.” Sybil’s compassion won the Queen over to Christianity, and she proved to be an invaluable ally for the missionaries. But King Liholiho, being polygamous, was reluctant to convert, since that would have required him to give up his wives.
 
-Caring for Ka’ahumanu was far from Sybil’s only contribution to the mission. She also ran the school, which “having commenced with ten or a dozen children and adults, now numbered forty regular scholars, attending five or six hours daily”, made garments for the missionaries and any Hawaiians who requested them, led weekly prayer meetings, and managed all aspects of running a respectable household in an unfamiliar climate. Not to mention giving birth to seven children! [10]
+Caring for Ka’ahumanu was far from Sybil’s only contribution to the mission. She also ran the school, which “having commenced with ten or a dozen children and adults, now numbered forty regular scholars, attending five or six hours daily”, made garments for the missionaries and any Hawaiians who requested them, led weekly prayer meetings, and managed all aspects of running a respectable household in an unfamiliar climate. Not to mention giving birth to seven children![^10]
 
 Meanwhile, Hiram had been hard at work devising a writing system for the Hawaiian language. Others before him had tried, but failed because they didn’t know the language well enough, and wrote things like “Owhyhee” for Hawaii or “Hanaroorah” for Honolulu. If the native Hawaiians remained illiterate, Hiram foresaw a grave danger: Catholicism.
 
@@ -151,7 +151,7 @@ The printing press, as preserved in the Hawaiian Mission Houses Historic Site.
 
 </figure>
 
-The next year, King Liholiho had become sufficiently curious about Europeans to travel to Europe and see what all the fuss was about. With his favorite wife Kamamalu[11] and his courtiers, including the powerful Chief Boki, governor of O’ahu, he boarded a ship to England to meet King George IV. A few days before their audience, they all fell ill with measles, and Liholiho and Kamamalu both died. [Lord George Anson Byron](https://en.wikipedia.org/wiki/George_Byron,_7th_Baron_Byron), cousin of the poet [Lord George Gordon Byron](https://en.wikipedia.org/wiki/Lord_Byron), was dispatched to bring back the survivors (including Boki) and the royal coffins, reaching Hawaii in 1824. With Liholiho dead, his younger brother Kamehameha III inherited the throne. However, at the time, he was even less experienced in politics than Liholiho, and as a result, Queen Ka’ahumanu’s influence increased to new heights. Only after the queen’s death in 1832 would Kamehameha III truly take power. Like Ka’ahumanu, the new king was also Christian, though less of a reliable ally to Hiram.[12]
+The next year, King Liholiho had become sufficiently curious about Europeans to travel to Europe and see what all the fuss was about. With his favorite wife Kamamalu[^11] and his courtiers, including the powerful Chief Boki, governor of O’ahu, he boarded a ship to England to meet King George IV. A few days before their audience, they all fell ill with measles, and Liholiho and Kamamalu both died. [Lord George Anson Byron](https://en.wikipedia.org/wiki/George_Byron,_7th_Baron_Byron), cousin of the poet [Lord George Gordon Byron](https://en.wikipedia.org/wiki/Lord_Byron), was dispatched to bring back the survivors (including Boki) and the royal coffins, reaching Hawaii in 1824. With Liholiho dead, his younger brother Kamehameha III inherited the throne. However, at the time, he was even less experienced in politics than Liholiho, and as a result, Queen Ka’ahumanu’s influence increased to new heights. Only after the queen’s death in 1832 would Kamehameha III truly take power. Like Ka’ahumanu, the new king was also Christian, though less of a reliable ally to Hiram.[^12]
 
 Around this time, George Humehume further disgraced himself in the eyes of the missionaries and Hawaiians. In 1824, while Liholiho was absent in England, George’s father, the chief of Kaua’i, died. However, his will excluded George from inheriting the chiefdom. Dissatisfied, George launched a revolt. As Hiram saw it, “to affect superiority over his countrymen, seemed far more to be his object, than to improve and elevate them.” Hiram, sensing trouble, visited George before his rebellion in an attempt to talk him out of it, but “was grieved to observe the incoherency and untrustworthy character of his statements as well as his reckless determination to resist the ruling powers”. Queen Ka’ahumanu and her allies soon put down the revolt. George fled into the mountains, but was captured. In a gesture of mercy, his life was spared, but he was placed under house arrest until his death from influenza a year later at age 28.
 
@@ -182,7 +182,7 @@ Hiram saw himself as a teacher, not a prophet. In explaining the eclipse as a na
 5.  ## Things Hiram Didn’t Like:
     
 
-Hiram wouldn’t have called himself a Puritan, but rather one of “the sons of the Puritans”. Still, he was a Puritan in all but name,[13] and as such, could make “no compromise with the vile pleasures and criminal indulgences of those who love darkness rather than light.” For example:
+Hiram wouldn’t have called himself a Puritan, but rather one of “the sons of the Puritans”. Still, he was a Puritan in all but name,[^13] and as such, could make “no compromise with the vile pleasures and criminal indulgences of those who love darkness rather than light.” For example:
 
 *   Alcohol, especially rum
 *   Catholicism
@@ -347,33 +347,33 @@ And most importantly, don’t piss off the French.
 
 ## Footnotes
 
-1: The Hawaii mission took only a small fraction of the budget of the American Board of Commissioners for Foreign Missions: approximately 5% according to Hiram. Most of the Board’s funds in its first ten years were spent on “Missions to the East, Bombay, and Ceylon” (50%) and “Missions to the American Aborigines” (25%), although the Board’s funding for the Hawaiian mission increased over time as it became clear the investment was paying off. By the end of 1845, the Board had spent $650,000 in total ([equivalent to $28 million in 2026](https://www.in2013dollars.com/us/inflation/1845?amount=650000)), providing for 1100 person-years of missionary labor. Later in this story, we’ll see an instance where the King of Hawaii had trouble coming up with the cash to make a $20,000 payment: in other words, the Missionary Board was far richer than the Hawaiian government.
+[^1]: The Hawaii mission took only a small fraction of the budget of the American Board of Commissioners for Foreign Missions: approximately 5% according to Hiram. Most of the Board’s funds in its first ten years were spent on “Missions to the East, Bombay, and Ceylon” (50%) and “Missions to the American Aborigines” (25%), although the Board’s funding for the Hawaiian mission increased over time as it became clear the investment was paying off. By the end of 1845, the Board had spent $650,000 in total ([equivalent to $28 million in 2026](https://www.in2013dollars.com/us/inflation/1845?amount=650000)), providing for 1100 person-years of missionary labor. Later in this story, we’ll see an instance where the King of Hawaii had trouble coming up with the cash to make a $20,000 payment: in other words, the Missionary Board was far richer than the Hawaiian government.
 
-2: I was amused to see [an obituary for Hiram in 1870](https://books.google.com/books?vid=UOM:39015011958629) describe his book similarly: “Though diffuse and somewhat cumbrous, it has great historic value, being generally accurate in its statements.”
+[^2]: I was amused to see [an obituary for Hiram in 1870](https://books.google.com/books?vid=UOM:39015011958629) describe his book similarly: “Though diffuse and somewhat cumbrous, it has great historic value, being generally accurate in its statements.”
 
-3: Before his death, Capt. Cook named the islands after his patron, the Earl of Sandwich.
+[^3]: Before his death, Capt. Cook named the islands after his patron, the Earl of Sandwich.
 
-4: This could be the first drink in a morbid drinking game –  just make sure the drink is non-alcoholic, because otherwise Hiram would disapprove!
+[^4]: This could be the first drink in a morbid drinking game –  just make sure the drink is non-alcoholic, because otherwise Hiram would disapprove!
 
-5: The Board was wise. Political meddling had previously backfired for other missionaries, most notably the Jesuits, who ended up getting Christianity banned in Japan.
+[^5]: The Board was wise. Political meddling had previously backfired for other missionaries, most notably the Jesuits, who ended up getting Christianity banned in Japan.
 
-6: Hiram spells this tabu in his book, and in some dialects of Hawaiian it was pronounced closer to tabu than kapu. For consistency with other sources, I’ll use kapu in this review except when directly quoting Hiram.
+[^6]: Hiram spells this tabu in his book, and in some dialects of Hawaiian it was pronounced closer to tabu than kapu. For consistency with other sources, I’ll use kapu in this review except when directly quoting Hiram.
 
-7: Favorite does not mean well-treated. Kamehameha often beat his wives for even minor perceived infractions. Hiram, after speaking with Ka’ahumanu and her sister Kalakua (who was also one of Kamehameha’s wives), wrote:
+[^7]: Favorite does not mean well-treated. Kamehameha often beat his wives for even minor perceived infractions. Hiram, after speaking with Ka’ahumanu and her sister Kalakua (who was also one of Kamehameha’s wives), wrote:
 
 > “Kalakua, the late governess of Maui, who gave me much of Kamehameha's domestic history, says of him, "He kanaka pepehi no ia; aole mea e ana ai kona inaina. He was a man of violence, nothing would pacify his wrath." She said she was once beaten by him, with a stone, upon her head, till she bled profusely, when in circumstances demanding his kindest indulgence and care, as a husband. An English resident, who enjoyed his confidence as fully and long as any foreigner, says, he has seen him beat Kaahumanu with a swivel, for the simple offence of speaking of a young man as "handsome.”
 
-8: At the time, the Hawaiians were unable to read, but they liked the decorations on the books.
+[^8]: At the time, the Hawaiians were unable to read, but they liked the decorations on the books.
 
-9: Hiram uses “rude” in its archaic meaning of “unpolished”, not its modern meaning of “offensive”.
+[^9]: Hiram uses “rude” in its archaic meaning of “unpolished”, not its modern meaning of “offensive”.
 
-10: Hiram and Sybil gave the middle name Ka’ahumanu to one of their daughters, Elizabeth, showing their honor and appreciation for the queen. [Several other missionary couples also gave their children Hawaiian names](https://imagesofoldhawaii.com/missionary-children-named-after-alii/).
+[^10]: Hiram and Sybil gave the middle name Ka’ahumanu to one of their daughters, Elizabeth, showing their honor and appreciation for the queen. [Several other missionary couples also gave their children Hawaiian names](https://imagesofoldhawaii.com/missionary-children-named-after-alii/).
 
-11: She also happened to be his half-sister. The native Hawaiians, like the ancient Egyptians, Persians, and Incans, [practiced royal incest](https://journals.openedition.org/transatlantica/525).
+[^11]: She also happened to be his half-sister. The native Hawaiians, like the ancient Egyptians, Persians, and Incans, [practiced royal incest](https://journals.openedition.org/transatlantica/525).
 
-12: Among other things, Kamehameha III reversed Ka’ahumanu’s ban on hula dancing.
+[^12]: Among other things, Kamehameha III reversed Ka’ahumanu’s ban on hula dancing.
 
-13: When introducing the [Puritan Spotting](https://slatestarcodex.com/2019/03/12/puritan-spotting/) checklist, Scott mentions “Hiram Bingham (his son, also named Hiram Bingham, was also a famous traveler)” as an example. Does Hiram the First get any extra credit for starting [four generations of Hirams](https://en.wikipedia.org/wiki/Hiram_Bingham_IV)?
+[^13]: When introducing the [Puritan Spotting](https://slatestarcodex.com/2019/03/12/puritan-spotting/) checklist, Scott mentions “Hiram Bingham (his son, also named Hiram Bingham, was also a famous traveler)” as an example. Does Hiram the First get any extra credit for starting [four generations of Hirams](https://en.wikipedia.org/wiki/Hiram_Bingham_IV)?
 
 In any case, I think his score works out to 28: +1 for being born in New England (Vermont), although probably deserves +2 for spending much of his early life in Massachusetts. +3 for 12 siblings. +3 for father being a deacon. +3 for weird Biblical name and +3 for relatives’ names. +3 for a famous child with the same name. +1 for inventing the Hawaiian writing system. +1 for being anti-Catholic. +3 for founding his own school. +3 for being a social reformer (I think missionary work counts here). +1 for fighting for African-American rights (after returning to the USA), and +3 for prohibiting alcohol.
 

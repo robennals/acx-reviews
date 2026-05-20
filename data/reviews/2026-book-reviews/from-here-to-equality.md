@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:42:25.000Z'
 slug: from-here-to-equality
-wordCount: 10338
+wordCount: 10327
 readingTimeMinutes: 46
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1KYjaAZ3Q7CDx32LUYFuj5V0LeaTHVE2u5ef8QGtryDE
@@ -17,7 +17,7 @@ tags:
   - Politics
 ---
 
-_Reparations for Black Americans in the Twenty-First Century_
+> _Reparations for Black Americans in the Twenty-First Century_
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/32dcdb9106484972.png)
 
@@ -77,11 +77,11 @@ This leaves us with restitution, and D&M propose that restoring black people to 
 
 D&M argue that there are three main eras of slavery, each of which has locked black people out of wealth formation to different degrees.
 
-> 1.      Slavery itself, which lasts from the early American colonial period to the Civil War. In this period the labour of enslaved people was being actively stolen, meaning they accrued next to no wealth, and were completely locked out of capital markets
->
-> 2.      Jim Crow era, which lasts from the Civil War to the 1960s. In this period black people were systematically discriminated against meaning that whatever wealth they were able to accumulate was not able to be leveraged as hard as white contemporaries
->
-> 3.      Modern era, which lasts from the 1960s until reparations are paid at some point in the future. There are no legal barriers to black wealth compounding (though the legacy of the previous two eras means that social and cultural barriers still exist). However, black people will never catch up to white people because they start from such an unequal initial endowment.
+1.      Slavery itself, which lasts from the early American colonial period to the Civil War. In this period the labour of enslaved people was being actively stolen, meaning they accrued next to no wealth, and were completely locked out of capital markets
+
+2.      Jim Crow era, which lasts from the Civil War to the 1960s. In this period black people were systematically discriminated against meaning that whatever wealth they were able to accumulate was not able to be leveraged as hard as white contemporaries
+
+3.      Modern era, which lasts from the 1960s until reparations are paid at some point in the future. There are no legal barriers to black wealth compounding (though the legacy of the previous two eras means that social and cultural barriers still exist). However, black people will never catch up to white people because they start from such an unequal initial endowment.
 
 I think they have in mind a model a bit like the below, where white people earn a fixed real income each year (which they invest and compounds) but black people only reach that stage in 1965. Therefore, even if there was exact equality between black and white people today, the legacy of slavery would be the gap between the red and black lines.
 
@@ -91,7 +91,7 @@ I think they have in mind a model a bit like the below, where white people earn 
 
 <figcaption>
 
-_Conceptual diagram of D&M’s argument for how a wealth gap arises over the three eras of slavery_
+> _Conceptual diagram of D&M’s argument for how a wealth gap arises over the three eras of slavery_
 
 </figcaption>
 
@@ -128,9 +128,9 @@ Almost every serious academic study of wealth uses **median** household wealth a
 
 D&M argue for bucking this trend and using the **mean** household wealth in calculating the wealth gap. This is for two reasons:
 
-> 1.      “The intense degree of concentration of wealth in the United States.” (_FHtE_, pp15). The USA has a very skewed wealth distribution. D&M inform us that households with above median wealth own 97% of all wealth (because below the median there is a lot of debt, i.e. ‘negative wealth’). They point out that “targeting the median gap excludes from consideration an overwhelming share of white wealth” (_FHtE_, pp15) and it is inconsistent with trying to return stolen wealth if you ignore a massive proportion of that wealth just because some crusty methodologists prefer median to mean.
->
-> 2.      They also point out that focussing purely on billionaires like Elon Musk is a red herring (Elon Musk walks into a crowded bar; everyone is now a billionaire by mean wealth); one quarter of white households have a net worth >$1m, and “significant relative differences in wealth exist at all points along the income distribution” (_FHtE_, pp16).
+1.      “The intense degree of concentration of wealth in the United States.” (_FHtE_, pp15). The USA has a very skewed wealth distribution. D&M inform us that households with above median wealth own 97% of all wealth (because below the median there is a lot of debt, i.e. ‘negative wealth’). They point out that “targeting the median gap excludes from consideration an overwhelming share of white wealth” (_FHtE_, pp15) and it is inconsistent with trying to return stolen wealth if you ignore a massive proportion of that wealth just because some crusty methodologists prefer median to mean.
+
+2.      They also point out that focussing purely on billionaires like Elon Musk is a red herring (Elon Musk walks into a crowded bar; everyone is now a billionaire by mean wealth); one quarter of white households have a net worth >$1m, and “significant relative differences in wealth exist at all points along the income distribution” (_FHtE_, pp16).
 
 The upshot of this, however, is that the choice of mean or median makes a big difference to the total repayment. Median wealth produces a systematically lower estimate of the wealth gap because it ignores outliers, and outliers skew mean wealth upwards. By D&M’s own numbers, the black-white wealth gap is $350,000 using the mean figure and only $164,100 using the median figure.
 
@@ -166,7 +166,7 @@ Methodologically, this story is complicated because household composition (size 
 
 <figcaption>
 
-_Output of a simple polynomial regression model run on Fed wealth database_
+> _Output of a simple polynomial regression model run on Fed wealth database_
 
 </figcaption>
 
@@ -195,7 +195,7 @@ D&M could counter that there are measures of wealth which _increase_ the bill to
 D&M have thought extensively about who receives reparations, and have come to the following proposal (_FHtE_, pp14):
 
 > _**1.**_          _**The first criterion is a lineage standard: individuals must demonstrate that they have at least one ancestor who was enslaved in the United States.**_
->
+
 > _**2.**_          _**The second criterion is an identity standard: individuals must demonstrate on a legal document that they have self-identified as black… at least twelve years before the enactment of an African American reparations plan**_
 
 An absolutely incredible amount of space is then dedicated to how the first criterion might produce “lucrative opportunities for private genealogists” (_FHtE_, pp397) and alternatives to private genealogists like the internet, Census data, slave ship manifests or “the establishment of a congressional or presidential commission to study and develop reparations for African Americans” (_FHtE_, pp398). I am mostly impressed with D&M’s scholarship in _FHtE_, but this is a bit of a whiff for me – surely this is just bikeshedding?
@@ -268,7 +268,7 @@ An imperfect proxy for the risk of undertaking the deal would be the length of t
 
 <figcaption>
 
-_Visualisation of a Kaplan-Meier curve derived from the ATOP database_
+> _Visualisation of a Kaplan-Meier curve derived from the ATOP database_
 
 </figcaption>
 
@@ -297,7 +297,7 @@ I have arranged some strings of five letters on the diagram below. The x-axis sh
 
 <figcaption>
 
-_Possible reparation payments depending on methodological decisions taken during this review_
+> _Possible reparation payments depending on methodological decisions taken during this review_
 
 </figcaption>
 
@@ -329,13 +329,13 @@ I have highlighted some specific strings below which I think are of high interes
 
 There are a few interesting points about this table:
 
-> 1.      First, you will be disappointed that none of these strings spell out something funny or apposite for their place in the table. Sadly, after multiple rounds of review and correction they are now essentially random, and none of my planned jokes survived. You can pretend to some kabbalistic significance with what remains if you wish.
->
-> 2.      Second, you can see that D&M are much closer to a ‘reparations maximalist’ position of PINOT than they are to the majority of possible configurations of methodology. This isn’t perhaps all that surprising since D&M are very explicitly committed to reparations being a good thing, but it is worth noting.
->
-> 3.      Third, you can see that previous conservative suggestions for payments match up with approximately PALAS. For example, Ross Douthat proposed $10,000 to each black American to end Affirmative Action ($15,000 today), and Charles Krauthammer proposed $50,000 to each family of four (approximately $23,500 per person today). It is notable that these are **well** short of where D&M expect the final bill to be – D&M say “these are extremely low amounts to meet the debt owed to black America” (_FHtE,_ pp384). They are approximately as extreme compared to the ‘conservative maximalist’ approach of TARAD as D&M are to the ‘reparations maximalist’ approach of PINOT. This emphasises the point to me that liberals and conservatives have barely even begun to explore the space in between where a genuinely welfare-enhancing deal could live.
->
-> 4.      Finally, you can see a TALOD and SILAS approximately bracket the range where the cost of paying the reparations bill is exactly offset by the economy-wide benefits of ending DEI. Of very high interest to me is that the ‘methodologically pure’ approach of TALOS I describe above lies only just above this crossover point – that is to say, there’s a sort of plausible default position which needs only a tiny amount of actual negotiation (rather than methodological review) to make conservatives net better off. Switching the payment structure to two decades rather than one, for example, would be enough to do it.
+1.      First, you will be disappointed that none of these strings spell out something funny or apposite for their place in the table. Sadly, after multiple rounds of review and correction they are now essentially random, and none of my planned jokes survived. You can pretend to some kabbalistic significance with what remains if you wish.
+
+2.      Second, you can see that D&M are much closer to a ‘reparations maximalist’ position of PINOT than they are to the majority of possible configurations of methodology. This isn’t perhaps all that surprising since D&M are very explicitly committed to reparations being a good thing, but it is worth noting.
+
+3.      Third, you can see that previous conservative suggestions for payments match up with approximately PALAS. For example, Ross Douthat proposed $10,000 to each black American to end Affirmative Action ($15,000 today), and Charles Krauthammer proposed $50,000 to each family of four (approximately $23,500 per person today). It is notable that these are **well** short of where D&M expect the final bill to be – D&M say “these are extremely low amounts to meet the debt owed to black America” (_FHtE,_ pp384). They are approximately as extreme compared to the ‘conservative maximalist’ approach of TARAD as D&M are to the ‘reparations maximalist’ approach of PINOT. This emphasises the point to me that liberals and conservatives have barely even begun to explore the space in between where a genuinely welfare-enhancing deal could live.
+
+4.      Finally, you can see a TALOD and SILAS approximately bracket the range where the cost of paying the reparations bill is exactly offset by the economy-wide benefits of ending DEI. Of very high interest to me is that the ‘methodologically pure’ approach of TALOS I describe above lies only just above this crossover point – that is to say, there’s a sort of plausible default position which needs only a tiny amount of actual negotiation (rather than methodological review) to make conservatives net better off. Switching the payment structure to two decades rather than one, for example, would be enough to do it.
 
 Although there are some strings like TARAD which are nearly certain to be offset by the cost of DEI, the majority of results lie in the orange zone like TALOS; they are close to being offset by the DEI rebate, but not quite there. We must consider here the non-monetary benefits of ending DEI from the conservative perspective. After all, when most conservatives argue for an end to DEI they are not thinking about whether the UK or US social time preference value best represents the capitalisation costs of economic drag, they are expressing a moral belief that – for example – hiring decisions should not weight race as a factor. We might think of this as the ‘option value’ of ending DEI. This will be different for each different conservative, but my personal opinion is that it could easily raise to encompass at least the orange zone for a typical conservative. Consider:
 

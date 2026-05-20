@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T14:44:56.000Z'
 slug: what-is-real
-wordCount: 10150
+wordCount: 10151
 readingTimeMinutes: 46
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1jUH-JgxX2N1Ks_b-DLr080XEL8sX0sVXEeu79OMmAa4
@@ -451,7 +451,7 @@ Becker talks about Hilary Putnam as an example. Putnam knew of von Neumann’s p
 
 Then, Becker makes an important point. He explains that philosophers had rid the world of positivism and some of them clearly understood the ontological vacuum in QP, but physicists of that new generation were not schooled in philosophy as much as say Albert had been because the post-war specialisation had affected this aspect of physicists’ education. They were, happily, or perhaps unhappily – I don’t know – busy with large grants due to the boom in post-war funding for Physics, and their work comprised “hard-nosed calculations”, not philosophising about what is real.
 
-_“shut up and calculate” “…epistemology-soaked orgy…”_
+> _“shut up and calculate” “…epistemology-soaked orgy…”_
 
 And thus ends chapter 8.
 

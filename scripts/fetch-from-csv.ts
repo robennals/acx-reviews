@@ -219,6 +219,38 @@ function loadReviewExceptions(): Record<string, ReviewException> {
 const stripFormattingForMatch = (line: string) =>
   line.replace(/[*_`#>[\]()]/g, '').toLowerCase();
 
+/**
+ * Wrap italic-only paragraphs with `> ` so they render as blockquotes.
+ * A paragraph qualifies when:
+ *   - The trimmed line starts with `_` and ends with `_` (optionally
+ *     followed by `*` or whitespace markers).
+ *   - The stripped content (with `*_` removed) is at least 30 chars —
+ *     this filters out short emphasized phrases (e.g. one-word italic
+ *     book titles on their own line) and stray thematic-break shapes
+ *     like `_ _ _`.
+ *   - The line is not already in a blockquote, list item, image, or
+ *     heading.
+ *
+ * Used for the 2026 contest where authors consistently mark embedded
+ * quotations with whole-paragraph italics rather than block indents.
+ */
+function wrapItalicParagraphsAsBlockquotes(markdown: string): string {
+  const lines = markdown.split('\n');
+  const italicOnlyRe = /^_[^_\n].*_[*\s]*$/;
+  for (let i = 0; i < lines.length; i++) {
+    const l = lines[i];
+    if (!italicOnlyRe.test(l)) continue;
+    if (l.startsWith('>') || l.startsWith('#') || l.startsWith('![') ||
+        l.startsWith('*') || l.startsWith('-') || l.startsWith('  ')) {
+      continue;
+    }
+    const stripped = l.replace(/[*_\s]/g, '').trim();
+    if (stripped.length < 30) continue;
+    lines[i] = `> ${l}`;
+  }
+  return lines.join('\n');
+}
+
 function applyContentException(markdown: string, slug: string): string {
   const exceptions = loadReviewExceptions();
   const ex = exceptions[slug];
@@ -474,6 +506,16 @@ async function createMarkdownFile(
   // section that's marked "not for publication"). Loaded from
   // data/review-exceptions.json — keyed by slug.
   let truncatedContent = applyContentException(contentWithoutTitle, slug);
+
+  // Contest-wide rule: 2026 book reviews consistently use italic
+  // paragraphs to mark embedded quotations (Bickerstaff, Fairness and
+  // Freedom, Don't Bang Denmark, Den Untergang, etc). Wrap every
+  // italic-only paragraph with substantive content as a blockquote so
+  // the rendering matches authorial intent. Gated to 2026 only; older
+  // contests have already-stable content we don't want to re-flow.
+  if (contestId === '2026-book-reviews') {
+    truncatedContent = wrapItalicParagraphsAsBlockquotes(truncatedContent);
+  }
 
   // Apply per-file H2 overrides — for docs where the generic bold-to-H2
   // promoter picks the wrong lines (e.g. what-is-real treats numbered

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T06:32:54.000Z'
 slug: the-marriage-of-cadmus-and-harmony
-wordCount: 8779
+wordCount: 8784
 readingTimeMinutes: 40
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1N_fWzH5fE8xuyszGILofOOrBf3i9HoEUPFhCwDiEGRI
@@ -80,7 +80,7 @@ But what about endings? Well that brings me to the alternate thesis I originally
 
 Between the myths, Calasso enjoys tangents on whatever topic strikes his fancy. Remember his book writing strategy of recording random thoughts on notecards? With this in mind, observe this paragraph from chapter 11, which up until this point had been about events around Troy, until he suddenly switches gears and begins discussing Oedipous and the Sphinx.
 
-_“The Greeks were drawn to enigmas. But what is an enigma? A mysterious formulation, you could say. Yet that wouldn’t be enough to define an enigma. The other thing you have to say is that the answer to an enigma is likewise mysterious. This is what distinguishes the enigma from the problem, although at the beginning of Greek civilization the two categories were confused. When a problem is resolved, both question and answer dissolve, are absorbed into a mechanical formula. Climbing a wall is a problem, until you lean a ladder against it. Afterward, you have neither problem nor solution, just a wall and a ladder. This is not so for the enigma. Take the most famous one of all, the Sphinx’s: “What is the being that has but one voice and yet sometimes has two feet, sometimes three, sometimes four, and is progressively weaker the more feet it has?” Oedipus answers: “Man.” But if we think about that answer, we realize that precisely the fact that “man” is the solution to such an enigma suggests the enigmatic nature of man. What is this incongruous being that goes from the animal condition of the quadruped through to the prosthesis (the old man’s stick), all the time preserving a single voice? The solution to the enigma is thus itself an enigma, and a more difficult one._
+> _“The Greeks were drawn to enigmas. But what is an enigma? A mysterious formulation, you could say. Yet that wouldn’t be enough to define an enigma. The other thing you have to say is that the answer to an enigma is likewise mysterious. This is what distinguishes the enigma from the problem, although at the beginning of Greek civilization the two categories were confused. When a problem is resolved, both question and answer dissolve, are absorbed into a mechanical formula. Climbing a wall is a problem, until you lean a ladder against it. Afterward, you have neither problem nor solution, just a wall and a ladder. This is not so for the enigma. Take the most famous one of all, the Sphinx’s: “What is the being that has but one voice and yet sometimes has two feet, sometimes three, sometimes four, and is progressively weaker the more feet it has?” Oedipus answers: “Man.” But if we think about that answer, we realize that precisely the fact that “man” is the solution to such an enigma suggests the enigmatic nature of man. What is this incongruous being that goes from the animal condition of the quadruped through to the prosthesis (the old man’s stick), all the time preserving a single voice? The solution to the enigma is thus itself an enigma, and a more difficult one._
 
 _Resolving an enigma means shifting it to a higher level, as the first drops away. The Sphinx hints at the indecipherable nature of man, this elusive, multiform being whose definition cannot be otherwise than elusive and multiform. Oedipus was drawn to the Sphinx, and he resolved the Sphinx’s enigma, but only to become an enigma himself. Thus anthropologists were drawn to Oedipus, and are still there measuring themselves against him, wondering about him.”_ Ch 10, pg 343-344.
 
@@ -108,11 +108,11 @@ This paragraph stands as its own on the page, which is about as much of a hint a
 
 But let me test your knowledge some more. Do you know the story where Typhon stole Zeus’s thunderbolts, and then subdued him and cut out his sinews? I thought not. It’s not a story Rick Riordan would tell you.
 
-_“Olympus was uninhabited now, a museum in the night. And in a cave a few yards from Cadmus, although he hadn’t found the palace yet, lay Zeus, helpless. Wrapping himself around the gods body, Typhon had managed to wrench his adamantine sickle from him and had cut through the sinews of his hands and feet. Now, drawn out from his body, Zeus’s sinews formed a bundle of dark, shiny stalks, not unlike the bundle of lightning bolts that lay beside them, although these were bright and smoking.” Ch 12, pg 378._
+> _“Olympus was uninhabited now, a museum in the night. And in a cave a few yards from Cadmus, although he hadn’t found the palace yet, lay Zeus, helpless. Wrapping himself around the gods body, Typhon had managed to wrench his adamantine sickle from him and had cut through the sinews of his hands and feet. Now, drawn out from his body, Zeus’s sinews formed a bundle of dark, shiny stalks, not unlike the bundle of lightning bolts that lay beside them, although these were bright and smoking.” Ch 12, pg 378._
 
 Cadmus, the Phoenician prince sent to wander the world in search of his sister Europa happens to be near this cave where the world was about to end. Calasso, never afraid to speak for a character in a scene, describes Cadmus in that moment.
 
-_“Cadmus felt a loneliness no one had ever felt before. Nature’s soul was fading, order gasped its death rattle, destiny shrank to a single point, in that wood, before the mouth of that cave, where a Phoenician prince was about to take on a primordial and evil creature, Typhon.” Ch 12, pg 379._
+> _“Cadmus felt a loneliness no one had ever felt before. Nature’s soul was fading, order gasped its death rattle, destiny shrank to a single point, in that wood, before the mouth of that cave, where a Phoenician prince was about to take on a primordial and evil creature, Typhon.” Ch 12, pg 379._
 
 Very cool I must admit. Cadmus then plays his panpipe, and Typhon challenges him to a contest. Cadmus admits that his pipe cannot compete, but if he had a Lyre then that might be good enough. But not just any lyre, one strung with real tough sinews. Because Cadmus is the clever Protagonist and Typhon the hubristic Antagonist, he gives Cadmus the sinews. Cadmus promptly reunites Zeus with his sinews, he takes back the lightning, and saves the day, huzzah!
 
@@ -156,7 +156,7 @@ Lastly, a large fraction of the myths contained in _TMOCAH_ are actually Nonnus�
 
 Rereading what has been said by Calasso about Nonnus already, if we slightly alter the wording we arrive at an interesting realization.
 
-_“__The Dionysiaca_ _The Marriage of Cadmus and Harmony is an overflowing summa of the pagan world, a world that should have been on the brink of extinction but that here opens up before our eyes like a meadow of narcissi.”_
+> _“__The Dionysiaca_ _The Marriage of Cadmus and Harmony is an overflowing summa of the pagan world, a world that should have been on the brink of extinction but that here opens up before our eyes like a meadow of narcissi.”_
 
 and,
 
@@ -234,7 +234,7 @@ _“The solution to the enigma is thus itself an enigma, and a more difficult on
 
 We may know how Calasso has captivated his audience with this book, in the same way that we know how mythopoetic bards asserted their stories through time, but by resolving this enigma we only encounter another, more difficult one: the enigmatic nature of myth.
 
-_“The Sphinx [Calasso] hints at the indecipherable nature of man [myth], this elusive, multiform being [medium] whose definition cannot be otherwise than elusive and multiform.”_
+> _“The Sphinx [Calasso] hints at the indecipherable nature of man [myth], this elusive, multiform being [medium] whose definition cannot be otherwise than elusive and multiform.”_
 
 Just as the Sphinx reveals the indecipherable nature of man when Oedipous solves its riddle, so too do we reveal the indecipherable nature of myth when we engage with _The Marriage of Cadmus and Harmony_.
 

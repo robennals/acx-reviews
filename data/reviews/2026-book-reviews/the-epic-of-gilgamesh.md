@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-15T23:10:39.000Z'
 slug: the-epic-of-gilgamesh
-wordCount: 12090
+wordCount: 12092
 readingTimeMinutes: 54
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1W-19VfqaCjDgXpSC4SX9KDJnAeWQ_xp6ggx_J7Vha4U
@@ -123,7 +123,7 @@ To say that gaps (‘lacunae’) are everywhere in Gilgamesh is to have it backw
 
 <figcaption>
 
-_A part of Tablet 11, from_ _[the British Museum](https://www.britishmuseum.org/collection/image/107404001)__. This is one of the better-preserved fragments we have - most are much smaller than this and in worse condition._
+> _A part of Tablet 11, from_ _[the British Museum](https://www.britishmuseum.org/collection/image/107404001)__. This is one of the better-preserved fragments we have - most are much smaller than this and in worse condition._
 
 </figcaption>
 
@@ -305,7 +305,7 @@ When writing was first invented in Uruk [16], between 3500 and 2500 BC, it was f
 
 <figcaption>
 
-_A proto-cuneiform tablet, c. 3100–2900 BC (__[source](https://en.wikipedia.org/wiki/Cuneiform#/media/File:Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure,_hunting_dogs,_and_boars_MET_DT847.jpg)__)_
+> _A proto-cuneiform tablet, c. 3100–2900 BC (__[source](https://en.wikipedia.org/wiki/Cuneiform#/media/File:Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure,_hunting_dogs,_and_boars_MET_DT847.jpg)__)_
 
 </figcaption>
 

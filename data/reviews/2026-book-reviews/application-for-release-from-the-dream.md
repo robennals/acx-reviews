@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:58:24.000Z'
 slug: application-for-release-from-the-dream
-wordCount: 3437
+wordCount: 3438
 readingTimeMinutes: 16
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1RyRwJQLU8nOP5MWBeP271HKjXFgzebpmKAHL_i-ov3g
@@ -15,7 +15,7 @@ tags:
   - Fiction
 ---
 
-_… [In any case: thank you, Scott, for nudging me (us) into this]…_
+> _… [In any case: thank you, Scott, for nudging me (us) into this]…_
 
 # Tony Hoagland’s Application for Release from the Dream
 

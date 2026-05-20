@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:03:49.000Z'
 slug: works-by-isaac-bickerstaff
-wordCount: 7404
-readingTimeMinutes: 33
+wordCount: 7434
+readingTimeMinutes: 34
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1MIWNivVHUDQqqqcsqE4-lCwB9bfGqJS-6RmNk0WPCyE
 tags:
@@ -50,7 +50,7 @@ The first Bickerstaff text was Swift’s ‘_Predictions for the Year 1708_‘. 
 
 <figcaption>
 
-_Bickerstaff I: Jonathan Swift, detail of an oil painting by Charles Jervas, c. 1718; in the National Portrait Gallery, London, from Encyclopedia Britannica_
+> _Bickerstaff I: Jonathan Swift, detail of an oil painting by Charles Jervas, c. 1718; in the National Portrait Gallery, London, from Encyclopedia Britannica_
 
 </figcaption>
 
@@ -62,7 +62,7 @@ _Bickerstaff I: Jonathan Swift, detail of an oil painting by Charles Jervas, c. 
 
 <figcaption>
 
-_Bickerstaff II: Richard Steele, detail of an oil painting by Sir Godfrey Kneller, 1711; in the National Portrait Gallery, London, from Encyclopedia Britannica_
+> _Bickerstaff II: Richard Steele, detail of an oil painting by Sir Godfrey Kneller, 1711; in the National Portrait Gallery, London, from Encyclopedia Britannica_
 
 </figcaption>
 
@@ -128,7 +128,7 @@ Firstly, thousands of readers have encountered Partridge’s latest almanac and 
 
 Secondly, Partridge claims to tell fortunes and recover stolen goods, which everyone knows requires communication with spirits. Only a spirit can communicate with another spirit. Is John Partridge a spirit, or a man?
 
-Thirdly, his own almanac, when read carefully, admits that a man may be alive now, who was not alive a year ago, which Swift generously grants. (3)
+Thirdly, his own almanac, when read carefully, admits that a man may be alive now, who was not alive a year ago, which Swift generously grants. [^3]
 
 The rumor detached from the underlying reality of Partridge’s still - beating heart, and began trading on its own. At this point, the original prediction was barely relevant to the discussion.
 
@@ -140,7 +140,7 @@ Bickerstaff complains: _I wonder, when I observe gentlemen in the country, rich 
 
 Almanacsfunctioned more as a popular prediction interface, providing planting dates, horoscopes, weather, politics, medicine, and timekeeping in an entertaining and portable package. Accuracy was an afterthought, as a good almanac did not need to be right in every detail. It needed to be credible, repeatable, and socially authoritative. One way of looking at this is to imagine that enough people believed that the coming year would be difficult, they behaved accordingly, and the prediction could acquire a kind of retrospective truth.
 
-So, when he targeted Partridge, Swift’s Bickerstaff did not argue that astrology was generally unreliable. This would not surprise anyone. (4) Instead, he took the almanac at its strongest point: its authority to make specific predictions. He made one just a bit more specific than usual. Crucially, he arranged for society to update on the _report_ rather than the underlying _reality_.
+So, when he targeted Partridge, Swift’s Bickerstaff did not argue that astrology was generally unreliable. This would not surprise anyone. [^4] Instead, he took the almanac at its strongest point: its authority to make specific predictions. He made one just a bit more specific than usual. Crucially, he arranged for society to update on the _report_ rather than the underlying _reality_.
 
 Now, by the early eighteenth century, the epistemic status of almanacs had become ambiguous. People relied on them, mocked them, and competed with them, often simultaneously. Over the next few centuries, they were replaced by more and more sophisticated tools, all of which led to not less prediction, but more. Most intelligent people have long discarded astrology, but they never stopped believing in predictions, which appears to be a requirement of mankind. They moved them from the sky, to the almanac, to statistics, and finally to computers.
 
@@ -216,11 +216,11 @@ When a prediction market is shallow, a single trader can move the price a lot. O
 
 Swift asks:
 
-_Can a prediction technically kill a man? Yes. Here is a prediction so precise that people will believe it._
+> _Can a prediction technically kill a man? Yes. Here is a prediction so precise that people will believe it._
 
 Steele asks:
 
-_What kind of public would rely on the report? Shouldn’t a truth seeking public be checking whether he is dead? Now let us observe the people who believed it, repeated it, argued about it, dressed it up, profited from it, and turned it into polite conversation._
+> _What kind of public would rely on the report? Shouldn’t a truth seeking public be checking whether he is dead? Now let us observe the people who believed it, repeated it, argued about it, dressed it up, profited from it, and turned it into polite conversation._
 
 Steele might agree that the interesting part of prediction markets is not the contract, but the world around the contract. This includes traders, journalists, regulators, spectators, people using market odds as arguments on their Substack posts. Most of all, it includes the people pretending that because money is involved, they are less easily influenced, rather than more. There’s an ancient Mesopotamian proverb that says, “_do not recognize people’s status, nor accept a bribe, for a bribe blinds the eyes of the wise, and perverts the words of the righteous”._
 
@@ -228,35 +228,35 @@ Bickerstaff’s Essays (Steele) begin with an ambitious attempt to demolish soci
 
 _"DEAR COUSIN,_
 
-_"Since you have been pleased to make yourself so famous of late by your ingenious writings, and some time ago by your learned predictions; since Partridge, of immortal memory, is dead and gone, who, poetical as he was, could not understand his own poetry; and, philomathical as he was, could not read his own destiny;_
+> _"Since you have been pleased to make yourself so famous of late by your ingenious writings, and some time ago by your learned predictions; since Partridge, of immortal memory, is dead and gone, who, poetical as he was, could not understand his own poetry; and, philomathical as he was, could not read his own destiny;_
 
  _… it is with no small concern I see the original of the Staffian race so little known in the world as it is at this time_
 
-_…The Staffs are originally of Staffordshire, which took its name from them; the first that I find of the Staffs was one Jacobstaff, a famous and renowned astronomer, who, by Dorothy his wife, had issue seven sons—viz., Bickerstaff, Longstaff, Wagstaff, Quarterstaff, Whitestaff, Falstaff, and Tipstaff. He also had a younger brother, who was twice married, and had five sons—viz., Distaff, Pikestaff, Mopstaff, Broomstaff, and Raggedstaff._
+> _…The Staffs are originally of Staffordshire, which took its name from them; the first that I find of the Staffs was one Jacobstaff, a famous and renowned astronomer, who, by Dorothy his wife, had issue seven sons—viz., Bickerstaff, Longstaff, Wagstaff, Quarterstaff, Whitestaff, Falstaff, and Tipstaff. He also had a younger brother, who was twice married, and had five sons—viz., Distaff, Pikestaff, Mopstaff, Broomstaff, and Raggedstaff._
 
-_As for the branch from whence you spring, I shall say very little of it, only that it is the chief of the Staffs, and called Bickerstaff, quasi Biggerstaff; as much as to say, the Great Staff, or Staff of Staffs; and that it has applied itself to Astronomy with great success, after the example of our aforesaid forefather._
+> _As for the branch from whence you spring, I shall say very little of it, only that it is the chief of the Staffs, and called Bickerstaff, quasi Biggerstaff; as much as to say, the Great Staff, or Staff of Staffs; and that it has applied itself to Astronomy with great success, after the example of our aforesaid forefather._
 
-_…The Wagstaffs are a merry, thoughtless sort of people, who have always been opinionated of their own wit; they have turned themselves mostly to poetry. This is the most numerous branch of our family, and the poorest._
+> _…The Wagstaffs are a merry, thoughtless sort of people, who have always been opinionated of their own wit; they have turned themselves mostly to poetry. This is the most numerous branch of our family, and the poorest._
 
-_…The Quarterstaffs are most of them prize-fighters or deer-stealers; there have been so many of them hanged lately that there are very few of that branch of our family left. The Whitestaffs are all courtiers, and have had very considerable places. There have been some of them of that strength and dexterity that five hundred of the ablest men in the kingdom have often tugged in vain to pull a staff out of their hands._
+> _…The Quarterstaffs are most of them prize-fighters or deer-stealers; there have been so many of them hanged lately that there are very few of that branch of our family left. The Whitestaffs are all courtiers, and have had very considerable places. There have been some of them of that strength and dexterity that five hundred of the ablest men in the kingdom have often tugged in vain to pull a staff out of their hands._
 
-_…The Falstaffs are strangely given to drinking: there are abundance of them in and about London. And one thing is very remarkable of this branch, and that is, there are just as many women as men in it. There was a wicked stick of wood of this name in Harry the Fourth's time, one Sir John Falstaff._
+> _…The Falstaffs are strangely given to drinking: there are abundance of them in and about London. And one thing is very remarkable of this branch, and that is, there are just as many women as men in it. There was a wicked stick of wood of this name in Harry the Fourth's time, one Sir John Falstaff._
 
-_…As for Tipstaff, the youngest son, he was an honest fellow; but his sons, and his sons' sons, have all of them been the veriest rogues living; it is this unlucky branch has stocked the nation with that swarm of lawyers, attorneys, serjeants, and bailiffs, with which the nation is overrun._
+> _…As for Tipstaff, the youngest son, he was an honest fellow; but his sons, and his sons' sons, have all of them been the veriest rogues living; it is this unlucky branch has stocked the nation with that swarm of lawyers, attorneys, serjeants, and bailiffs, with which the nation is overrun._
 
-_… his younger brother, Isaacstaff, as I told you before, had five sons, and was married twice; his first wife was a Staff, for they did not stand upon false heraldry in those days, by whom he had one son, who, in process of time, being a schoolmaster and well read in the Greek, called himself Distaff or Twicestaff. He was not very rich, so he put his children out to trades, and the Distaffs have ever since been employed in the woollen and linen manufactures, except myself, who am a genealogist._
+> _… his younger brother, Isaacstaff, as I told you before, had five sons, and was married twice; his first wife was a Staff, for they did not stand upon false heraldry in those days, by whom he had one son, who, in process of time, being a schoolmaster and well read in the Greek, called himself Distaff or Twicestaff. He was not very rich, so he put his children out to trades, and the Distaffs have ever since been employed in the woollen and linen manufactures, except myself, who am a genealogist._
 
-_Pikestaff, the eldest son by the second venter, was a man of business, a downright plodding fellow, and withal so plain, that he became a proverb. Most of this family are at present in the army._
+> _Pikestaff, the eldest son by the second venter, was a man of business, a downright plodding fellow, and withal so plain, that he became a proverb. Most of this family are at present in the army._
 
-_Raggedstaff was an unlucky boy, and used to tear his clothes in getting birds' nests, and was always playing with a tame bear his father kept._
+> _Raggedstaff was an unlucky boy, and used to tear his clothes in getting birds' nests, and was always playing with a tame bear his father kept._
 
-_Mopstaff fell in love with one of his father's maids, and used to help her to clean the house._
+> _Mopstaff fell in love with one of his father's maids, and used to help her to clean the house._
 
-_Broomstaff was a chimney-sweeper. The Mopstaffs and Broomstaffs are naturally as civil people as ever went out of doors; but, alas! if they once get into ill hands, they knock down all before them._
+> _Broomstaff was a chimney-sweeper. The Mopstaffs and Broomstaffs are naturally as civil people as ever went out of doors; but, alas! if they once get into ill hands, they knock down all before them._
 
  _Pilgrimstaff ran away from his friends, and went strolling about the country; and Pipestaff was a wine-cooper. These two were the unlawful issue of Longstaff._
 
-_"N.B.—The Canes, the Clubs, the Cudgels, the Wands, the Devil upon two Sticks, and one Bread, that goes by the name of Staff of Life, are none of our relations. I am, dear Cousin,_
+> _"N.B.—The Canes, the Clubs, the Cudgels, the Wands, the Devil upon two Sticks, and one Bread, that goes by the name of Staff of Life, are none of our relations. I am, dear Cousin,_
 
 _"Your humble servant,_
 
@@ -268,7 +268,7 @@ _"May 1, 1709."_
 
 Like the Partridge hoax, the genealogy is confidently false, and in a socially legible way. It uses truth telling tools like documentation, classification, etymology, and heraldic seriousness... resulting in nonsense. As Swift shows that a man can be declared dead whether he knows it or not, Steele shows that a family can be declared noble whether it exists or not. He amusingly describes using proto-polygenic screening to perfect his own family when marrying off his siste:
 
-_For this reason I have disposed of her to a man of business, who will soon let her see that to be well dressed, in good humour, and cheerful in the command of her family, are the arts and sciences of female life. I could have bestowed her upon a fine gentleman, who extremely admired her wit, and would have given her a coach and six, but I found it absolutely necessary to cross the strain; for had they met, they had entirely been rivals in discourse, and in continual contention for the superiority of understanding, and brought forth critics, pedants, or pretty good poets. As it is, I expect an offspring fit for the habitation of the city, town or country; creatures that are docile and tractable in whatever we put them to._
+> _For this reason I have disposed of her to a man of business, who will soon let her see that to be well dressed, in good humour, and cheerful in the command of her family, are the arts and sciences of female life. I could have bestowed her upon a fine gentleman, who extremely admired her wit, and would have given her a coach and six, but I found it absolutely necessary to cross the strain; for had they met, they had entirely been rivals in discourse, and in continual contention for the superiority of understanding, and brought forth critics, pedants, or pretty good poets. As it is, I expect an offspring fit for the habitation of the city, town or country; creatures that are docile and tractable in whatever we put them to._
 
 It is ironic that now polygenic screening is hoped to produce _critics, pedants, or pretty good poets,_ rather than _an offspring fit for the habitation of the city, town or country._
 
@@ -276,19 +276,19 @@ In _The Dream of Fame,_ Steele describes something recognizable to modern day in
 
 Historians stand at the entrance deciding who belongs in the mythological section or the real section of heaven. Alexander nearly gets misfiled among mythological heroes because of how he is written about. Hannibal complains that Roman historians buried him. Caesar has to introduce himself. Most egregiously, Isaac Bickerstaff himself fails to qualify.
 
-_At the upper end sat Hercules, leaning an arm upon his club; on his right hand were Achilles and Ulysses, and between them AEneas; on his left were Hector, Theseus, and Jason: the lower end had Orpheus, AEsop, Phalaris, and Musaeus. The ushers seemed at a loss for a twelfth man, when, methought, to my great joy and surprise, I heard some at the lower end of the table mention Isaac Bickerstaff; but those of the upper end received it with disdain, and said, "if they must have a British worthy, they would have Robin Hood!"_
+> _At the upper end sat Hercules, leaning an arm upon his club; on his right hand were Achilles and Ulysses, and between them AEneas; on his left were Hector, Theseus, and Jason: the lower end had Orpheus, AEsop, Phalaris, and Musaeus. The ushers seemed at a loss for a twelfth man, when, methought, to my great joy and surprise, I heard some at the lower end of the table mention Isaac Bickerstaff; but those of the upper end received it with disdain, and said, "if they must have a British worthy, they would have Robin Hood!"_
 
 It is common online for people to associate  more with a personality than is warranted by the circumstances. Isaac Bickerstaff once again brings us back to reality.
 
  _"DEAR MADAM,_
 
-_"__**You have already seen the best of me, and**_ _**I so passionately love you that I desire we may never meet.**_ _If you will examine your heart, you will find that you join the man with the philosopher; and if you have that kind opinion of my sense as you pretend, I question not but you add to it complexion, air, and shape; but, dear Molly, a man in his grand climacteric is of no sex. Be a good girl, and conduct yourself with honour and virtue, when you love one younger than myself. I am, with the greatest tenderness, your innocent lover,_
+> _"__**You have already seen the best of me, and**_ _**I so passionately love you that I desire we may never meet.**_ _If you will examine your heart, you will find that you join the man with the philosopher; and if you have that kind opinion of my sense as you pretend, I question not but you add to it complexion, air, and shape; but, dear Molly, a man in his grand climacteric is of no sex. Be a good girl, and conduct yourself with honour and virtue, when you love one younger than myself. I am, with the greatest tenderness, your innocent lover,_
 
 _"I. B."_
 
 His essay _A Business Meeting_ describes a group of well-intentioned men trying to sit down and begin a discussion. No one is confused about the goal. No one is malicious. Everyone is exquisitely sensitive to rank and etiquette. It turns into a ridiculous coordination problem.
 
-_I looked out from my window, and saw the good company all with their hats off and arms spread, offering the door to each other. After many offers, they entered with much solemnity…_
+> _I looked out from my window, and saw the good company all with their hats off and arms spread, offering the door to each other. After many offers, they entered with much solemnity…_
 
 A false alarm of fire briefly breaks the coordination problem, and then the hierarchy immediately reasserts itself. The meeting produces nothing except the plan for another meeting with more people – humorously creating an even larger coordination problem!
 
@@ -302,27 +302,27 @@ For example, in his essay titled “_Happy Marriage_”, you see what looks like
 
  _I perceived a tear fall down his cheek as he spoke, which moved me not a little. But, to turn the discourse, said I, "She is not indeed quite that creature she was, when she returned me the letter I carried from you: and told me 'she hoped, as I was a gentleman, I would be employed no more to trouble her, who had never offended me; but would be so much the gentleman's friend as to dissuade him from a pursuit which he could never succeed in.' You may remember I thought her in earnest, and you were forced to employ your cousin Will, who made his sister get acquainted with her for you. You cannot expect her to be for ever fifteen."_
 
-_"Fifteen!" replied my good friend; "ah! you little understand, you that have lived a bachelor, how great, how exquisite a pleasure there is, in being really beloved! It is impossible, that the most beauteous face in nature should raise in me such pleasing ideas, as when I look upon that excellent woman. That fading in her countenance is chiefly caused by her watching with me, in my fever. This was followed by a fit of sickness, which had like to have carried her off last winter. I tell you sincerely, I have so many obligations to her, that I cannot, with any sort of moderation, think of her present state of health._
+> _"Fifteen!" replied my good friend; "ah! you little understand, you that have lived a bachelor, how great, how exquisite a pleasure there is, in being really beloved! It is impossible, that the most beauteous face in nature should raise in me such pleasing ideas, as when I look upon that excellent woman. That fading in her countenance is chiefly caused by her watching with me, in my fever. This was followed by a fit of sickness, which had like to have carried her off last winter. I tell you sincerely, I have so many obligations to her, that I cannot, with any sort of moderation, think of her present state of health._
 
-_But as to what you say of fifteen, she gives me every day pleasures beyond what I ever knew in the possession of her beauty, when I was in the vigour of youth. Every moment of her life brings me fresh instances of her complacency to my inclinations, and her prudence in regard to my fortune. Her face is to me much more beautiful than when I first saw it; there is no decay in any feature, which I cannot trace from the very instant it was occasioned by some anxious concern for my welfare and interests. Thus, at the same time, methinks, the love I conceived towards her for what she was, is heightened by my gratitude for what she is. The love of a wife is as much above the idle passion commonly called by that name, as the loud laughter of buffoons is inferior to the elegant mirth of gentlemen. Oh! she is an inestimable jewel._
+> _But as to what you say of fifteen, she gives me every day pleasures beyond what I ever knew in the possession of her beauty, when I was in the vigour of youth. Every moment of her life brings me fresh instances of her complacency to my inclinations, and her prudence in regard to my fortune. Her face is to me much more beautiful than when I first saw it; there is no decay in any feature, which I cannot trace from the very instant it was occasioned by some anxious concern for my welfare and interests. Thus, at the same time, methinks, the love I conceived towards her for what she was, is heightened by my gratitude for what she is. The love of a wife is as much above the idle passion commonly called by that name, as the loud laughter of buffoons is inferior to the elegant mirth of gentlemen. Oh! she is an inestimable jewel._
 
-_In her examination of her household affairs she shows a certain fearfulness to find a fault, which makes her servants obey her like children: and the meanest we have has an ingenuous shame for an offence, not always to be seen in children in other families. I speak freely to you, my old friend: ever since her sickness, things that gave me the quickest joy before turn now to a certain anxiety. As the children play in the next room, I know the poor things by their steps, and am considering what they must do, should they lose their mother in their tender years. The pleasure I used to take in telling my boy stories of the battles, and asking my girl questions about the disposal of her baby, and the gossiping of it, is turned into inward reflection and melancholy."_
+> _In her examination of her household affairs she shows a certain fearfulness to find a fault, which makes her servants obey her like children: and the meanest we have has an ingenuous shame for an offence, not always to be seen in children in other families. I speak freely to you, my old friend: ever since her sickness, things that gave me the quickest joy before turn now to a certain anxiety. As the children play in the next room, I know the poor things by their steps, and am considering what they must do, should they lose their mother in their tender years. The pleasure I used to take in telling my boy stories of the battles, and asking my girl questions about the disposal of her baby, and the gossiping of it, is turned into inward reflection and melancholy."_
 
-_…_ _on a sudden we were alarmed with the noise of a drum, and immediately entered my little godson to give me a point of war. His mother, between laughing and chiding, would have put him out of the room; but I would not part with him so. I found upon conversation with him, though he was a little noisy in his mirth, that the child had excellent parts, and was a great master of all the learning on the other side eight years old. I perceived him a very great historian in AEsop's Fables: but he frankly declared to me his mind, that he did not delight in that learning, because he did not believe they were true; for which reason I found he had very much turned his studies for about a twelve-month past, into the lives and adventures of Don Bellianis of Greece, Guy of Warwick, the Seven Champions, and other historians of that age. I could not but observe the satisfaction the father took in the forwardness of his son; and that these diversions might turn to some profit, I found the boy had made remarks which might be of service to him during the course of his whole life. He would tell you the mis-managements of John Hickathrift, find fault with the passionate temper in Bevis of Southampton, and loved Saint George for being the champion of England; and by this means had his thoughts insensibly moulded into the notions of discretion, virtue, and honour. I was extolling his accomplishments, when the mother told me that the little girl who led me in this morning was in her way a better scholar than he. "Betty," says she, "deals chiefly in fairies and sprites, and sometimes in a winter-night will terrify the maids with her accounts, till they are afraid to go up to bed."_
+> _…_ _on a sudden we were alarmed with the noise of a drum, and immediately entered my little godson to give me a point of war. His mother, between laughing and chiding, would have put him out of the room; but I would not part with him so. I found upon conversation with him, though he was a little noisy in his mirth, that the child had excellent parts, and was a great master of all the learning on the other side eight years old. I perceived him a very great historian in AEsop's Fables: but he frankly declared to me his mind, that he did not delight in that learning, because he did not believe they were true; for which reason I found he had very much turned his studies for about a twelve-month past, into the lives and adventures of Don Bellianis of Greece, Guy of Warwick, the Seven Champions, and other historians of that age. I could not but observe the satisfaction the father took in the forwardness of his son; and that these diversions might turn to some profit, I found the boy had made remarks which might be of service to him during the course of his whole life. He would tell you the mis-managements of John Hickathrift, find fault with the passionate temper in Bevis of Southampton, and loved Saint George for being the champion of England; and by this means had his thoughts insensibly moulded into the notions of discretion, virtue, and honour. I was extolling his accomplishments, when the mother told me that the little girl who led me in this morning was in her way a better scholar than he. "Betty," says she, "deals chiefly in fairies and sprites, and sometimes in a winter-night will terrify the maids with her accounts, till they are afraid to go up to bed."_
 
-_I sat with them till it was very late, sometimes in merry, sometimes in serious, discourse, with this particular pleasure, which gives the only true relish to all conversation, a sense that every one of us liked each other. I went home, considering the different conditions of a married life and that of a bachelor; and I must confess it struck me with a secret concern, to reflect, that whenever I go off I shall leave no traces behind me. In this pensive mood I return to my family; that is to say, to my maid, my dog, and my cat, who only can be the better or worse for what happens to me._
+> _I sat with them till it was very late, sometimes in merry, sometimes in serious, discourse, with this particular pleasure, which gives the only true relish to all conversation, a sense that every one of us liked each other. I went home, considering the different conditions of a married life and that of a bachelor; and I must confess it struck me with a secret concern, to reflect, that whenever I go off I shall leave no traces behind me. In this pensive mood I return to my family; that is to say, to my maid, my dog, and my cat, who only can be the better or worse for what happens to me._
 
 He reinforces this with the story of the buried letters.
 
-_There were several of us making merry at a friend's house in a country village, when the sexton of the parish church entered the room in a sort of surprise, and told us "that, as he was digging a grave in the chancel, a little blow of his pick-axe opened a decayed coffin, in which there were several written papers." Our curiosity was immediately raised, so that we went to the place where the sexton had been at work, and found a great concourse of people about the grave. Among the rest there was an old woman, who told us the person buried there was a lady whose name I did not think fit to mention, though there is nothing in the story but what tends very much to her honour. This lady lived several years an exemplary pattern of conjugal love, and, dying soon after her husband, who every way answered her character in virtue and affection, made it her death-bed request, "that all the letters which she had received from him both before and after her marriage should be buried in the coffin with her." These I found, upon examination, were the papers before us. Several of them had suffered so much by time that I could only pick out a few words; as my soul! lilies! roses! dearest angel! and the like. One of them, which was legible throughout, ran thus:_
+> _There were several of us making merry at a friend's house in a country village, when the sexton of the parish church entered the room in a sort of surprise, and told us "that, as he was digging a grave in the chancel, a little blow of his pick-axe opened a decayed coffin, in which there were several written papers." Our curiosity was immediately raised, so that we went to the place where the sexton had been at work, and found a great concourse of people about the grave. Among the rest there was an old woman, who told us the person buried there was a lady whose name I did not think fit to mention, though there is nothing in the story but what tends very much to her honour. This lady lived several years an exemplary pattern of conjugal love, and, dying soon after her husband, who every way answered her character in virtue and affection, made it her death-bed request, "that all the letters which she had received from him both before and after her marriage should be buried in the coffin with her." These I found, upon examination, were the papers before us. Several of them had suffered so much by time that I could only pick out a few words; as my soul! lilies! roses! dearest angel! and the like. One of them, which was legible throughout, ran thus:_
 
 _"MADAM,_
 
-_"If you would know the greatness of my love, consider that of your own beauty. That blooming countenance, that snowy bosom, that graceful person return every moment to my imagination; the brightness of your eyes hath hindered me from closing mine since I last saw you. You may still add to your beauties by a smile. A frown will make me the most wretched of men, as I am the most passionate of lovers."_
+> _"If you would know the greatness of my love, consider that of your own beauty. That blooming countenance, that snowy bosom, that graceful person return every moment to my imagination; the brightness of your eyes hath hindered me from closing mine since I last saw you. You may still add to your beauties by a smile. A frown will make me the most wretched of men, as I am the most passionate of lovers."_
 
-_It filled the whole company with a deep melancholy to compare the description of the letter with the person that occasioned it, who was now reduced to a few crumbling bones and a little mouldering heap of earth. With much ado I deciphered another letter, which began with, "My dear, dear wife." This gave me a curiosity to see how the style of one written in marriage differed from one written in courtship. To my surprise, I found the fondness rather augmented than lessened, though the panegyric turned upon a different accomplishment. The words were as follows:_
+> _It filled the whole company with a deep melancholy to compare the description of the letter with the person that occasioned it, who was now reduced to a few crumbling bones and a little mouldering heap of earth. With much ado I deciphered another letter, which began with, "My dear, dear wife." This gave me a curiosity to see how the style of one written in marriage differed from one written in courtship. To my surprise, I found the fondness rather augmented than lessened, though the panegyric turned upon a different accomplishment. The words were as follows:_
 
-_"Before this short absence from you, I did not know that I loved you so much as I really do; though, at the same time, I thought I loved you as much as possible. I am under great apprehensions lest you should have any uneasiness whilst I am defrauded of my share in it, and cannot think of tasting any pleasures that you do not partake with me. Pray, my dear, be careful of your health, if for no other reason but because you know I could not outlive you. It is natural in absence to make professions of an inviolable constancy; but towards so much merit it is scarce a virtue, especially when it is but a bare return to that of which you have given me such continued proofs ever since our first acquaintance. I am," etc._
+> _"Before this short absence from you, I did not know that I loved you so much as I really do; though, at the same time, I thought I loved you as much as possible. I am under great apprehensions lest you should have any uneasiness whilst I am defrauded of my share in it, and cannot think of tasting any pleasures that you do not partake with me. Pray, my dear, be careful of your health, if for no other reason but because you know I could not outlive you. It is natural in absence to make professions of an inviolable constancy; but towards so much merit it is scarce a virtue, especially when it is but a bare return to that of which you have given me such continued proofs ever since our first acquaintance. I am," etc._
 
 Courtship letters full of praise for beauty. Marriage letters full of concern, constancy, shared experience. The second set is stronger. The physical body decays, but the attachment does not, ideally. It is one of the few places in the essays where something improves over time without irony.
 
@@ -354,13 +354,13 @@ Prediction can be correct and still not matter, because a price is just a senten
 
 **Footnotes:**
 
-(1)   The name is doing obvious work. Isaac in the Bible means laughter or crying, and that is certainly what Swift’s Isaac Bickerstaff caused in London’s coffeehouses and for Partridge, whose response is included in the papers. Partridge, like the bird whose name he bore, was hunted and trapped, but not actually dead. I like to imagine the two Isaacs bickering about the human condition, each holding a staff.
+[^1]: The name is doing obvious work. Isaac in the Bible means laughter or crying, and that is certainly what Swift’s Isaac Bickerstaff caused in London’s coffeehouses and for Partridge, whose response is included in the papers. Partridge, like the bird whose name he bore, was hunted and trapped, but not actually dead. I like to imagine the two Isaacs bickering about the human condition, each holding a staff.
 
-(2)   This probably refers to a maid using a warming pan to remove the chill and dampness from bed linens.
+[^2]: This probably refers to a maid using a warming pan to remove the chill and dampness from bed linens.
 
-(3)   The question of whether Partridge has since revived is left open. In retrospect, Partridge could have used this loophole to play along and explain he had now been revived, returning the burden of proof to Isaac Bickerstaff. But Partridge could not stop continuing his proto–fatal mistake of trying to work within the system that had made him successful.
+[^3]: The question of whether Partridge has since revived is left open. In retrospect, Partridge could have used this loophole to play along and explain he had now been revived, returning the burden of proof to Isaac Bickerstaff. But Partridge could not stop continuing his proto–fatal mistake of trying to work within the system that had made him successful.
 
-(4)   There are examples dating from ancient times; the biblical Pharoah trying to kill an infant Moses and instead raising him in his palace, with the perfect background to redeem the Hebrews, is a classic example of failure of predicting the future. In The Iliad, a seer and omen-reader named Calchas was legendary for predicting the future during the Trojan War. Even so, another prophet proved more accurate than he was in predicting his death.
+[^4]: There are examples dating from ancient times; the biblical Pharoah trying to kill an infant Moses and instead raising him in his palace, with the perfect background to redeem the Hebrews, is a classic example of failure of predicting the future. In The Iliad, a seer and omen-reader named Calchas was legendary for predicting the future during the Trojan War. Even so, another prophet proved more accurate than he was in predicting his death.
 
 **Reference texts:**
 

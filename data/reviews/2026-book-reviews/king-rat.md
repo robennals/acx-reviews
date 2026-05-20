@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T00:09:53.000Z'
 slug: king-rat
-wordCount: 915
+wordCount: 918
 readingTimeMinutes: 5
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1S45aqwpzr6R7LxTNNR_irONmNTP3gjFNJAV_k5pZrPk
@@ -15,12 +15,12 @@ tags:
   - Fiction
 ---
 
-_Back up Astral Codex Ten Book Review Contest 2026_
+> _Back up Astral Codex Ten Book Review Contest 2026_
 
   
  If you have read renowned author Dan Brown’s _The DaVinci Code_ or _Angles and Demons_ or (God save you) _Digital Fortress,_ you may have found yourself asking:  
   
-_“What would happen if I tortured Dan Brown?”_
+> _“What would happen if I tortured Dan Brown?”_
 
   
  I know I did.  
@@ -84,7 +84,7 @@ Sean
 
 You may notice that Sean is not mentioned in my Trope Plot summery.
 
-_no similarity to anyone living or dead exists or is intended_  
+> _no similarity to anyone living or dead exists or is intended_  
   
 I am not sure if there was a real King. I am not sure there was a Grey.  
 I believe there was a Sean. I think her invention is beyond Clavell’s power.

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T22:44:46.000Z'
 slug: bellum-catilinae-the-catiline-conspiracy
-wordCount: 7322
+wordCount: 7323
 readingTimeMinutes: 33
 source: gdoc
 originalUrl: https://docs.google.com/document/d/14crxbVzgORGo6U-xCInVt8dBqmnxDfVfwtgBStqA6TQ
@@ -43,7 +43,7 @@ This recurs constantly in the Latin sources. Julius Caesar lets his German oppos
 
 Recently, while translating the Catiline Conspiracy, and reading the suspiciously compelling speeches of Sallust's monstrous villain Catiline, I think I came to understand.
 
-_Disclaimer: the translations of_ Bellum Catilinae _are mine, and I am an amateur Latinist at best. There may be some errors._
+> _Disclaimer: the translations of_ Bellum Catilinae _are mine, and I am an amateur Latinist at best. There may be some errors._
 
 ## The Rotting Republican Edifice and the Catiline Conspiracy
 

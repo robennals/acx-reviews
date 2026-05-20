@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T11:51:13.000Z'
 slug: fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states
-wordCount: 9650
-readingTimeMinutes: 43
+wordCount: 9701
+readingTimeMinutes: 44
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1Tis4EzY62O-j6XYgWGNpY-YFTf51AmIbz1sZmenYRtE
 tags:
@@ -17,39 +17,39 @@ tags:
   - Society
 ---
 
-_'Tis not too late to seek a newer world._
+> _'Tis not too late to seek a newer world._
 
-_Push off, and sitting well in order smite_
+> _Push off, and sitting well in order smite_
 
-_The sounding furrows; for my purpose holds_
+> _The sounding furrows; for my purpose holds_
 
-_To sail beyond the sunset, and the baths_
+> _To sail beyond the sunset, and the baths_
 
-_Of all the western stars, until I die._
+> _Of all the western stars, until I die._
 
-_It may be that the gulfs will wash us down;_
+> _It may be that the gulfs will wash us down;_
 
-_It may be we shall touch the Happy Isles,_
+> _It may be we shall touch the Happy Isles,_
 
-_And see the great Achilles, whom we knew._
+> _And see the great Achilles, whom we knew._
 
-_Though much is taken, much abides; and though_
+> _Though much is taken, much abides; and though_
 
-_We are not now that strength which in old days_
+> _We are not now that strength which in old days_
 
-_Moved earth and heaven, that which we are, we are,_
+> _Moved earth and heaven, that which we are, we are,_
 
 _One equal temper of heroic hearts,_
 
-_Made weak by time and fate, but strong in will_
+> _Made weak by time and fate, but strong in will_
 
-_To strive, to seek, to find, and not to yield._
+> _To strive, to seek, to find, and not to yield._
 
 _— Ulysses by Alfred, Lord Tennyson_
 
-_“If I showed my true feelings I would cry; it’s the best country I have been in.”_
+> _“If I showed my true feelings I would cry; it’s the best country I have been in.”_
 
-_— George Bernard Shaw, on New Zealand_
+> _— George Bernard Shaw, on New Zealand_
 
 Suppose you are the British Empire and you have already made one America.
 
@@ -87,7 +87,7 @@ The book’s greatest weakness is in its subtitle premise: the framing of Americ
 
 Fischer also spends some time upfront on the etymology and history of the ideas of freedom and fairness. The Puritans’ idea of freedom is gorgeous:
 
-_“Other Puritans shared John Cotton's idea of "well-ordered liberty," which John Winthrop defined as the liberty to do "that only which is good." Nathaniel Ward, author of the Laws and Liberties of Massachusetts, wrote that "all Familists, Antinomians, Anabaptists, and other Enthusiasts shall have free liberty to keep away from us." Dissenters were banished on pain of death if they returned. Three Quakers who came back were hanged on Boston Common.”_
+> _“Other Puritans shared John Cotton's idea of "well-ordered liberty," which John Winthrop defined as the liberty to do "that only which is good." Nathaniel Ward, author of the Laws and Liberties of Massachusetts, wrote that "all Familists, Antinomians, Anabaptists, and other Enthusiasts shall have free liberty to keep away from us." Dissenters were banished on pain of death if they returned. Three Quakers who came back were hanged on Boston Common.”_
 
 Did you know the name “maverick” comes from a family of American nonconformists? One Samuel Maverick irritated the Puritans in Massachusetts; a later Samuel Maverick in Texas refused to brand his cattle, giving his name to any animal that bore no man’s mark.
 
@@ -127,13 +127,13 @@ But the question of who New Zealanders are cannot be answered without reference 
 
 ## The Māori
 
-_“In some instances by the late 1820s, Maori used the smoked heads of slain enemies to trade for further muskets… [M]uch of the agricultural labour was undertaken by slaves. By the early 1830s, too, some slaves were being tattooed and killed specifically for the trade in smoked heads…”_
+> _“In some instances by the late 1820s, Maori used the smoked heads of slain enemies to trade for further muskets… [M]uch of the agricultural labour was undertaken by slaves. By the early 1830s, too, some slaves were being tattooed and killed specifically for the trade in smoked heads…”_
 
-_— Fairness and Freedom by David Hackett Fischer_
+> _— Fairness and Freedom by David Hackett Fischer_
 
-_“[T]his here harpooneer I have been tellin’ you of has just arrived from the South Seas, where he bought up a lot of ‘balmed New Zealand heads (great curios, you know), and he’s sold all on ‘em but one…”_
+> _“[T]his here harpooneer I have been tellin’ you of has just arrived from the South Seas, where he bought up a lot of ‘balmed New Zealand heads (great curios, you know), and he’s sold all on ‘em but one…”_
 
-_“For all his tattooings he was on the whole a clean, comely looking cannibal.”_
+> _“For all his tattooings he was on the whole a clean, comely looking cannibal.”_
 
 _— Moby Dick_
 
@@ -159,9 +159,9 @@ Māori began the long tradition of work travel in the 1790s as they joined the w
 
 The greatest immediate impact on the Māori by British settlement was the introduction of the musket. Just like the introduction of the horse in the Americas gave rise to the Comanche empire and others that annihilated neighbouring peoples, so the muskets created a brief if overwhelming advantage to certain Māori tribes, resulting in the Musket Wars (1806 - 1845). The Māori Musket Wars devastated local populations, reducing the Māori from around 100,000 at European arrival at the turn of the 19th century to around 60,000 by mid-century. Fischer writes:
 
-_“Many hundreds of men, women and children were killed, and many more enslaved. Some small tribes were all but wiped out, with only one or two families surviving the fighting and its aftermath of executions.”_
+> _“Many hundreds of men, women and children were killed, and many more enslaved. Some small tribes were all but wiped out, with only one or two families surviving the fighting and its aftermath of executions.”_
 
-_“Some of these actions involved considerable cruelty. In the wake of battles, for example, the captured killers of warriors might be turned over to the widows of the men they had slain… The resulting deaths were prolonged and painful. At Waitangi Beach on Chatham Island, the Ngāti Wai hapu of Ngāti Mutunga laid Moriori women staked to the ground alongside one another and left them to die slowly.”_
+> _“Some of these actions involved considerable cruelty. In the wake of battles, for example, the captured killers of warriors might be turned over to the widows of the men they had slain… The resulting deaths were prolonged and painful. At Waitangi Beach on Chatham Island, the Ngāti Wai hapu of Ngāti Mutunga laid Moriori women staked to the ground alongside one another and left them to die slowly.”_
 
 Second in devastation to the Musket Wars came disease. The arrival of Europeans was far less calamitous to the Māori than it was to American natives or to the Australian Aborigines. Disease was the great harbinger of death in both places. Millions of native Americans — 70 to 90% — were killed by new diseases like smallpox. Around 80% of Australian Aborigines are estimated to have died soon after white settlement. Pestilence is estimated to have killed 20,000 of around 60,000 Māori by mid-19th century — decades after European arrival. Why the delay? It was only after the Māori asked the British Crown to extend its protection over them to end the Musket Wars that they united, and disease more easily spread. Why were European diseases so much less devastating to the Māori? Several reasons. First, timing. Vaccinations were invented in 1796, and missionaries and administrators did their best to inoculate Māori. Second, the Māori were isolated from global populations for far less time than native Americans and native Australians. The former arrived over the Eurasian land bridge some 10,000 years ago, while the native Australians had tens of thousands of years in isolation. The Māori were isolated for a few hundred years, and so were probably less vulnerable to a range of the diseases brought by the Europeans.
 
@@ -191,11 +191,11 @@ It was Sir James Stephen who actually made the decision to settle New Zealand. A
 
 But then he changed his mind, writing in 1839:
 
-_“The colonisation of New Zealand is if not an expedient, at least an inevitable measure. It is, in fact, colonised already by British subjects of the worst possible character, who are doing the greatest possible amount of evil with the least possible amount of good.”_
+> _“The colonisation of New Zealand is if not an expedient, at least an inevitable measure. It is, in fact, colonised already by British subjects of the worst possible character, who are doing the greatest possible amount of evil with the least possible amount of good.”_
 
 He had a clear purpose:
 
-_“The two Cardinal points to be kept in view in establishing a regular colony in New Zealand are, first, the protection of the aborigines, and secondly the introduction among the colonists of the principle of self-government, to the utmost extent in which that principle can be reconciled with allegiance to the crown.”_
+> _“The two Cardinal points to be kept in view in establishing a regular colony in New Zealand are, first, the protection of the aborigines, and secondly the introduction among the colonists of the principle of self-government, to the utmost extent in which that principle can be reconciled with allegiance to the crown.”_
 
 The timing of this was critical. After America’s rebellion, Britain would never again tax its colonies primarily for revenue to London. And the sweep of Enlightenment led to the abolition of slavery across its empire in 1833, and the establishment of all sorts of societies for the protection of aborigines. New Zealand would be one of the few colonies in any empire established with no slavery, no penal colony, no serfdom of any kind. New Zealand “was a deliberate act of moral choice by British statesmen”, writes Fischer.
 
@@ -203,25 +203,25 @@ The seeds of Australia were established just prior to this wave of noblesse acro
 
 ## Settlement: Christian utopias, pirates, and speculators
 
-_“In many ways the adventurers of Kororareka and the Pilgrims of Plymouth could not have been more different, but in one way they were the same. Both were heirs to English traditions of self-government, individual rights, mutual responsibilities, and the rule of law. These small bands of British settlers introduced that heritage to North America and the South Pacific, and the world is much the better for it.”_
+> _“In many ways the adventurers of Kororareka and the Pilgrims of Plymouth could not have been more different, but in one way they were the same. Both were heirs to English traditions of self-government, individual rights, mutual responsibilities, and the rule of law. These small bands of British settlers introduced that heritage to North America and the South Pacific, and the world is much the better for it.”_
 
-_— Fairness and Freedom by David Hackett Fischer_
+> _— Fairness and Freedom by David Hackett Fischer_
 
-_“If Dunedin is a stolid, wholesome Scots lassie, Christchurch a hockey captain-type of English girl, Wellington a slightly dowdy secretary, modern Auckland is a perky gold-digger, over-talkative but full of ideas, mildly interested in the arts and much in love with life.”_
+> _“If Dunedin is a stolid, wholesome Scots lassie, Christchurch a hockey captain-type of English girl, Wellington a slightly dowdy secretary, modern Auckland is a perky gold-digger, over-talkative but full of ideas, mildly interested in the arts and much in love with life.”_
 
 _— John Cowie Reid, 1964_
 
-_“My efforts are aimed at establishing the Kingdom of God upon Earth.”_
+> _“My efforts are aimed at establishing the Kingdom of God upon Earth.”_
 
-_— New Zealand Prime Minister Michael Savage_
+> _— New Zealand Prime Minister Michael Savage_
 
 In 1838, just prior to sanctioned settlement, there were some two thousand English-speaking peoples on the islands. They were mainly dregs — escaped convicts, sealers, whalers, and other ne’er-do-wells, including traders benefitting from the Māori Musket Wars raging since 1806. A French adventurer arrived with colonists in 1837 claiming to be the Feudal Proprietor of New Zealand.
 
 The largest English-speaking settlement before 1830 was Kororareka, now Russell in the Bay of Islands. Fischer writes:
 
-_“Mariners throughout the South Seas knew it as “the Beach.” Missionaries called it the “hellhole of the Pacific” and the “cesspool of the islands.” Kororareka was crowded with grog shops, brothels, ship chandlers, and as many as five hundred European and Polynesian inhabitants, all chasing the main chance. In 1836, a traveller reckoned that it had “a greater number of rogues than any other spot of equal size in the universe.”_
+> _“Mariners throughout the South Seas knew it as “the Beach.” Missionaries called it the “hellhole of the Pacific” and the “cesspool of the islands.” Kororareka was crowded with grog shops, brothels, ship chandlers, and as many as five hundred European and Polynesian inhabitants, all chasing the main chance. In 1836, a traveller reckoned that it had “a greater number of rogues than any other spot of equal size in the universe.”_
 
-_“Kororareka was a rough town, but not without order. Its English-speaking inhabitants drew up a covenant called the Kororareka Association of 1838, which was remarkably similar to the Mayflower Compact of 1620. They agreed to elect a president and council, to live under “equal laws” enacted by their own consent, and to be judged by their peers in courts of their own creation. They also bound themselves to a web of mutual obligations. Every member of the association was required to arm himself with a musket, a bayonet, a brace of pistols, a cutlass, and sixty rounds of ball cartridge. The bearing of arms was a right and a responsibility.”_
+> _“Kororareka was a rough town, but not without order. Its English-speaking inhabitants drew up a covenant called the Kororareka Association of 1838, which was remarkably similar to the Mayflower Compact of 1620. They agreed to elect a president and council, to live under “equal laws” enacted by their own consent, and to be judged by their peers in courts of their own creation. They also bound themselves to a web of mutual obligations. Every member of the association was required to arm himself with a musket, a bayonet, a brace of pistols, a cutlass, and sixty rounds of ball cartridge. The bearing of arms was a right and a responsibility.”_
 
 The new settlements that would replace this were less a single colonial project than a sequence of intense, self-conscious migrations — each one a cultural experiment with its own utopian logic. Wakefield provided the blueprint. Discovering in prison the “gross injustice” of English institutions, he imagined New Zealand as a remedy: a society built on “social order and natural justice,” in which talent — not birth — would rise.
 
@@ -231,27 +231,27 @@ Wellington was the first proving ground. 1,500 settlers arrived by mid-1840 and 
 
 New Plymouth, by contrast, grew from the “Taranaki Mob,” a network of kin from Devon, Yorkshire, and Cheshire — mostly middling farmers, many Unitarians — who transplanted their tight rural world whole. They prized fairness and justice learned from their own exclusion at home, and they recreated in Taranaki a hard-working, cohesive agricultural colony. But land hunger quickly drove conflict with Māori, and by the 1850s the same families were deeply entangled in the transactions and antagonisms that would ignite the Taranaki Wars.
 
-_“Of absolutely idle people we have none, and the settlement has the appearance of a thriving and industrious community. It will be a beautiful villagy sort of country, wherein the population will be principally farmers and well-doing peasants, with a sprinkling of large landowners, professional men, and shopkeepers.”_
+> _“Of absolutely idle people we have none, and the settlement has the appearance of a thriving and industrious community. It will be a beautiful villagy sort of country, wherein the population will be principally farmers and well-doing peasants, with a sprinkling of large landowners, professional men, and shopkeepers.”_
 
-_— Letter to Britain from a resident of New Plymouth in 1843_
+> _— Letter to Britain from a resident of New Plymouth in 1843_
 
 Canterbury was something else again: an Anglican utopia conceived by John and Charlotte Godley. It may have been inspired by a sermon delivered on 14 July 1833, when churchman John Keble delivered at Oxford a message called National Apostasy: “He was unhappy about Catholic emancipation in Ireland, deeply distressed by liberalism, troubled by modernity, and sorely vexed by secular reform.” The Anglican utopia they sought to build would be founded on emigrants of the utmost character. The gender ratio was roughly even. Applicants in their twenties and married couples were preferred.
 
-_“Each emigrant was required to submit a letter of recommendation from his vicar, testifying that “the applicant is sober, industrious and honest, and that he and all his family are amongst the most respectable of their class in the parish.””_
+> _“Each emigrant was required to submit a letter of recommendation from his vicar, testifying that “the applicant is sober, industrious and honest, and that he and all his family are amongst the most respectable of their class in the parish.””_
 
 Godley himself despised the “derivation of power from below” and argued that a colony must be founded on duty, good conduct, and fair social order. Canterbury’s settlers thus arrived as a hand-picked God-fearing community seeking to build the Kingdom of God in their new home. Accordingly, these Canterbury Pilgrims named their capital Christchurch.
 
-_“I would rather be governed by a Nero on the spot than by a board of angels in London, because we could if worst came to worst, cut off Nero’s head, but we could not get at the board in London at all.”_
+> _“I would rather be governed by a Nero on the spot than by a board of angels in London, because we could if worst came to worst, cut off Nero’s head, but we could not get at the board in London at all.”_
 
 _— John Godley, 1851_
 
 Then came Otago, a Scottish Presbyterian project under the Burns and Cargill families. In its first decades, more than 80% of its settlers were Scots; Dunedin was, in effect, a transplanted Lowlands town, along with its clan structures. Half were women or girls, and they were more educated and religious than those they left behind. The Kirk — stern, egalitarian, and disciplined — anchored everything. Settlers who did not fit in had a miserable time. Wives were the moral arbiters. This “new Scotland” long kept its distinctly Scottish flavour, from church life to education to politics. This settlement too was to be a “godly experiment”.
 
-_“It was severe in its moral code, but serious in its intellectual purposes… They were tough, hard, difficult people, but also upright and strong-willed, with a high sense of justice and moral purpose.”_
+> _“It was severe in its moral code, but serious in its intellectual purposes… They were tough, hard, difficult people, but also upright and strong-willed, with a high sense of justice and moral purpose.”_
 
 Finally, Auckland stood apart: pluralistic, improvised, and commercially driven. Its settlers were mixed — English, Irish, American whalers, Australians, traders — and its growth was haphazard but energetic. Logan Campbell, the city’s patriarch, embodied this openness. He wrote about his city:
 
-_“The whole and entire object of everyone here is making money, the big fishes eating the little ones.”_
+> _“The whole and entire object of everyone here is making money, the big fishes eating the little ones.”_
 
 Perhaps like Sydney today.
 
@@ -261,9 +261,9 @@ Together, these settlements formed a mosaic of intentions and contradictions —
 
 ## Fairness is not softness: a deep military ethos
 
-_“Where she goes, we go, where she stands, we stand. We are only a small and a young nation, but we are one and all a band of brothers, and we march forward with a union of hearts and wills.”_
+> _“Where she goes, we go, where she stands, we stand. We are only a small and a young nation, but we are one and all a band of brothers, and we march forward with a union of hearts and wills.”_
 
-_— New Zealand Prime Minister Michael Savage announcing war in 1939_
+> _— New Zealand Prime Minister Michael Savage announcing war in 1939_
 
 If the settlers of New Zealand were chosen for character, the men who governed them were chosen for nerve. For the first quarter or so of both New Zealand and Australia’s settled histories they were ruled by military juntas. The first twelve governors of New South Wales (1788–1855) were all military men. Similar in New Zealand. These men fought in the Napoleonic Wars and the Americas; they served in India and the Caribbean. They rode the sense of victory at the peak of British Empire during the Victorian age. These men were also fired by a keenly-felt Christian zeal.
 
@@ -275,11 +275,11 @@ It was not just New Zealand’s military men that impressed with their fine char
 
 From the start, British missionaries liked the Māori. In his appreciation of the natives he ordered all his clergy to learn Māori. His vision of Christianity embraced everyone — even Americans, “a severe test of Selwyn’s ecumenical spirit”. This is Samuel Marsden, a leading Anglican priest in Australia during the early period:
 
-_“The more I see of these people, the more I am pleased with and astonished at their moral ideas, and characters. They appear like a superior race.”_
+> _“The more I see of these people, the more I am pleased with and astonished at their moral ideas, and characters. They appear like a superior race.”_
 
 Sir George Grey, perhaps the strongest of New Zealand’s early leaders, was also a soldier and an adventurer. Early in his military duties in Ireland he was repulsed by the grubby and “un-Christian” work of extracting taxes from poor Irish peasants. Twice shipwrecked, he was appointed governor of South Australia at 29. Unlike New South Wales’ first Governor Arthur Phillip, who refused to retaliate when he was struck in the shoulder by a spear from an Aborigine, Grey shot the Aborigine who transfixed him with three quick spears. He was struck with grief by the encounter. As governor of New Zealand he learned Māori, and wrote a book in Māori of their legends and traditions (it goes without saying there is no such equivalent ruler in Australia). He wanted to govern them wisely and thought the hoopla over alleged native wisdom overdone:
 
-_“I believe that the ignorance which has prevailed regarding the mythological systems of barbarous or semi-barbarous races has too generally led to their being considered far grander and more reasonable than they really were.”_
+> _“I believe that the ignorance which has prevailed regarding the mythological systems of barbarous or semi-barbarous races has too generally led to their being considered far grander and more reasonable than they really were.”_
 
 Grey avoided facing the formidable Māori directly in battle. Instead he cut off their supply of muskets, isolated the tribes, and acquired more land from them than anyone in New Zealand’s history.
 
@@ -303,13 +303,13 @@ A greater proportion of New Zealanders fought in South Africa’s Boer War than 
 
 German General Rommel took note of his skirmishes with the Kiwis in North Africa:
 
-_“They were such a thorn in Rommel’s side that the German commander ordered a special effort to destroy them… Rommel wrote, “The fighting between my forces and the New Zealanders grew to an extraordinary pitch of violence, and my headquarters was soon ringed by burning vehicles.” The New Zealanders lost 1,600 men to Rommel, and many more to the Royal Air Force, which kept bombing them by mistake. That night, Freyberg found a weak point in the German lines and ordered a wild bayonet charge in the moonlight. In the fierce fighting that followed, Freyberg himself was severely wounded, but the New Zealanders broke out and escaped to fight again. Three of Rommel’s best divisions were “so worn down that they also were forced to retreat to the west.” It was a brilliant feat of combat leadership and infantry fighting.”_
+> _“They were such a thorn in Rommel’s side that the German commander ordered a special effort to destroy them… Rommel wrote, “The fighting between my forces and the New Zealanders grew to an extraordinary pitch of violence, and my headquarters was soon ringed by burning vehicles.” The New Zealanders lost 1,600 men to Rommel, and many more to the Royal Air Force, which kept bombing them by mistake. That night, Freyberg found a weak point in the German lines and ordered a wild bayonet charge in the moonlight. In the fierce fighting that followed, Freyberg himself was severely wounded, but the New Zealanders broke out and escaped to fight again. Three of Rommel’s best divisions were “so worn down that they also were forced to retreat to the west.” It was a brilliant feat of combat leadership and infantry fighting.”_
 
-_“After the war… Rommel and Mellenthin wrote of Freyberg with respect and even affection as an “indomitable commander,” and regarded his New Zealand Division as “among the elite of the British army.” Rommel added, “I should have been very much happier if it had been safely tucked away in our prison camps instead of still facing us.”_
+> _“After the war… Rommel and Mellenthin wrote of Freyberg with respect and even affection as an “indomitable commander,” and regarded his New Zealand Division as “among the elite of the British army.” Rommel added, “I should have been very much happier if it had been safely tucked away in our prison camps instead of still facing us.”_
 
-_“Why are you New Zealanders fighting?” Rommel asked. “This is a European war, not yours. Are you here for the sport?” Clifton was astonished by the question… ‘The British Commonwealth fights together. If you attack England, you attack Australia and New Zealand too.’” Rommel was as baffled by that answer as Clifton had been by the question. He made no comment, except to wish his prisoner the best of luck.”_
+> _“Why are you New Zealanders fighting?” Rommel asked. “This is a European war, not yours. Are you here for the sport?” Clifton was astonished by the question… ‘The British Commonwealth fights together. If you attack England, you attack Australia and New Zealand too.’” Rommel was as baffled by that answer as Clifton had been by the question. He made no comment, except to wish his prisoner the best of luck.”_
 
-_“Immediately after the interview, Brigadier Clifton politely excused himself, climbed out through a lavatory window (to Rommel’s amused resignation), made his way back to his unit, and went on to other adventures in the war.”_
+> _“Immediately after the interview, Brigadier Clifton politely excused himself, climbed out through a lavatory window (to Rommel’s amused resignation), made his way back to his unit, and went on to other adventures in the war.”_
 
 A classic Kiwi move – fiercely patriotic left hook followed by a cheeky right. Kiwi soldiers, like their Australian counterparts, riled the British in their indifference to military protocol. When one senior British officer complained to General Freyberg that New Zealand troops failed to salute him, Freyberg replied, “Ah yes, but if you wave to them, they’ll wave back.”
 
@@ -323,7 +323,7 @@ For most of their histories, both Australians and New Zealanders vied to be the 
 
 In 1909, at the Committee of Imperial Defence, the British Admiralty — in a sop to Australian agitation around its vulnerability to the Japanese in the Pacific — proposed independent units to Canada and Australia and New Zealand. Their respective reactions are instructive. Canada could hardly care less; it was protected by the American Monroe Doctrine. The Australians were delighted that after years of agitation they would have increased independent means of defence. But New Zealand was reluctant. In the words of Neville Meaney in _The Search for Security in the Pacific, 1901–14_:
 
-_“Sir Joseph Ward, the Dominion’s premier, regretted the concession to national independence. He had not shifted one iota from the ‘One Empire, One Flag, One Fleet’ position. He considered that contributions to the Royal Navy was still the preferable course.”_
+> _“Sir Joseph Ward, the Dominion’s premier, regretted the concession to national independence. He had not shifted one iota from the ‘One Empire, One Flag, One Fleet’ position. He considered that contributions to the Royal Navy was still the preferable course.”_
 
 Any deviation from being an indistinguishable part of the British Empire was anathema to the Kiwi.
 
@@ -331,7 +331,7 @@ In 1931, Britain’s Parliament granted full legal independence to New Zealand, 
 
 New Zealand’s moment of national awakening came when Britain abandoned her. 1 January 1973, a day historian James Belich calls “a black-letter day in New Zealand history.” Fischer writes:
 
-_“It was the date when Britain entered the European Economic Community and unilaterally ended long-standing economic relations with her colonies. As late as 1950, Britain had bought nearly 70 percent of New Zealand’s exports. After Britain joined the European Community in 1973, that number fell to 7 percent. New Zealand farmers found themselves competing at a disadvantage for markets in the “mother country” as Britain and other European economies aggressively subsidized their own farmers.”_
+> _“It was the date when Britain entered the European Economic Community and unilaterally ended long-standing economic relations with her colonies. As late as 1950, Britain had bought nearly 70 percent of New Zealand’s exports. After Britain joined the European Community in 1973, that number fell to 7 percent. New Zealand farmers found themselves competing at a disadvantage for markets in the “mother country” as Britain and other European economies aggressively subsidized their own farmers.”_
 
 Worse than the material injury was the moral one. Twice New Zealand had marched to Britain’s defence — in 1914 and 1939 — at terrible cost. And whilst neither Australia nor New Zealand hesitated in answering the call of Britain in war, New Zealand left her troops in the European theatre when Australia recalled hers ahead of the Japanese threat — a difference that caused some tension between the two allies in the years that followed. Now they were cast off without ceremony. The sense of betrayal was sharpest among those who had been most loyal: the more-British-than-the-British. As one New Zealand leader put it to Fischer, “We envy your Declaration of Independence from the mother country. As for us, our mother left home.”
 
@@ -339,9 +339,9 @@ Only in 1986 did the Constitution Act formally end any remaining UK parliamentar
 
 ## Immigration
 
-_“The Te Āti Awa chief Te Wharepouri told William Wakefield, brother of Edward Gibbon, that he had participated in the sale of land to the New Zealand Company expecting about ten Pākehā to settle around Port Nicholson, one for each pa. When he saw the more than 1,000 settlers who stepped off the company’s first fleet of immigrant ships, he had panicked. The spectacle would have seemed like an invasion of extraterrestrials. It was beyond anything that Wharepouri had imagined.”_
+> _“The Te Āti Awa chief Te Wharepouri told William Wakefield, brother of Edward Gibbon, that he had participated in the sale of land to the New Zealand Company expecting about ten Pākehā to settle around Port Nicholson, one for each pa. When he saw the more than 1,000 settlers who stepped off the company’s first fleet of immigrant ships, he had panicked. The spectacle would have seemed like an invasion of extraterrestrials. It was beyond anything that Wharepouri had imagined.”_
 
-_— Michael King, The Penguin History of New Zealand_
+> _— Michael King, The Penguin History of New Zealand_
 
 In 2023 over 250,000 migrants arrived in New Zealand.
 
@@ -363,9 +363,9 @@ American immigrants paid their own way, or were supported by friends and family.
 
 New Zealand’s subsidised and screened immigration policy selected for safety-ists while America’s self-driven immigration process selected for more risk tolerant types:
 
-_“Immigration as a process of social filtration had other important consequences for both New Zealand and the United States. In some ways its effects were diametrically opposed. In New Zealand, Megan Hutching did a survey of assisted immigrants and found that “in the end, people often chose New Zealand because it seemed non-threatening.” One woman explained that she selected New Zealand because it was “small and comfortable.””_
+> _“Immigration as a process of social filtration had other important consequences for both New Zealand and the United States. In some ways its effects were diametrically opposed. In New Zealand, Megan Hutching did a survey of assisted immigrants and found that “in the end, people often chose New Zealand because it seemed non-threatening.” One woman explained that she selected New Zealand because it was “small and comfortable.””_
 
-_“All of this was very different from American immigration. In the United States, a voluntary and largely self-driven process selected immigrants who were restless, autonomous, ambitious, aggressive, entrepreneurial, and highly individuated. They tended to be more tolerant of risk, in the hope of greater profit. America’s open and voluntary system of immigration selected a population that lived for liberty and freedom.”_
+> _“All of this was very different from American immigration. In the United States, a voluntary and largely self-driven process selected immigrants who were restless, autonomous, ambitious, aggressive, entrepreneurial, and highly individuated. They tended to be more tolerant of risk, in the hope of greater profit. America’s open and voluntary system of immigration selected a population that lived for liberty and freedom.”_
 
 New Zealand officials advertised their country to new immigrants as a fair society. America put the emphasis on economic opportunity via land grants. Australia was somewhere in between, subsidising migrants for a century but also with the judicious use of land grants and a steady stream of gold and other mineral rushes that attracted risk-takers.
 

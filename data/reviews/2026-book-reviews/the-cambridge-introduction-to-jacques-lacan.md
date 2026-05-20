@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-12T11:16:16.000Z'
 slug: the-cambridge-introduction-to-jacques-lacan
-wordCount: 3511
+wordCount: 3513
 readingTimeMinutes: 16
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1KvJqh_czLZ8CZpcXHgyaewT1uA5wui6s8kNBMuz9nfQ
@@ -44,7 +44,7 @@ Lacan's words and actions each carry the same important message about the decept
 
 <figcaption>
 
-_You want to know what's on the easel because all the normal people are standing in front of the easel where they can look at it. You're the only one behind the easel where you can't see the painting. What kind of person stands there? They're all looking at you, trying to figure what's wrong. (So says Lacan.)_
+> _You want to know what's on the easel because all the normal people are standing in front of the easel where they can look at it. You're the only one behind the easel where you can't see the painting. What kind of person stands there? They're all looking at you, trying to figure what's wrong. (So says Lacan.)_
 
 </figcaption>
 
@@ -96,7 +96,7 @@ Self-schema violations are the root of evolved responses to exclusion. Excluded 
 
 <figcaption>
 
-_Halsey’s “Gasoline” captures the self-schema violation Lacan exploited._
+> _Halsey’s “Gasoline” captures the self-schema violation Lacan exploited._
 
 </figcaption>
 

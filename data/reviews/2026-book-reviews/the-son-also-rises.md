@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:06:49.000Z'
 slug: the-son-also-rises
-wordCount: 7662
+wordCount: 7666
 readingTimeMinutes: 35
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1sgIHLV8FEMP_eIObK_AA35EFUHvy6zCVX1p2OkQjf1Y
@@ -154,7 +154,7 @@ Not only this, but at the forty thousand foot view Clark is taking, essentially 
 
 <figcaption>
 
-_Various cuts of "school spending” (exponential) vs “test scores” (completely flat)_
+> _Various cuts of "school spending” (exponential) vs “test scores” (completely flat)_
 
 </figcaption>
 
@@ -204,7 +204,7 @@ This is handily characterized by the Simpsons episode (S6E19) where Lisa almost 
 
 <figcaption>
 
-_Elite regression to the mean in action_
+> _Elite regression to the mean in action_
 
 </figcaption>
 
@@ -244,7 +244,7 @@ But this is too simplistic - if 80-90% of the population was at replacement, onl
 
 <figcaption>
 
-_Generational composition over 300 years, author’s model_
+> _Generational composition over 300 years, author’s model_
 
 </figcaption>
 
@@ -268,7 +268,7 @@ And indeed, you would be right! Not only is persistence rate higher in India whe
 
 <figcaption>
 
-_Notable - Kulin Brahmin and Mixed Hindu with >1 persistence rates - ie further differentiation rather than regression to the mean_
+> _Notable - Kulin Brahmin and Mixed Hindu with >1 persistence rates - ie further differentiation rather than regression to the mean_
 
 </figcaption>
 

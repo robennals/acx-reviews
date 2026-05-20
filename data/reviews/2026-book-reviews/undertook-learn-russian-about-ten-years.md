@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T18:04:08.000Z'
 slug: undertook-learn-russian-about-ten-years
-wordCount: 4904
+wordCount: 4911
 readingTimeMinutes: 22
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1pZhBkKPKYKDBpfzO4OvqfCnD3XywJQnozwW4QZ_lw3U
@@ -47,7 +47,7 @@ Pop quiz: Without thinking, what do you see in the following (non-graven) image:
 
 <figcaption>
 
-_Figure 1: An Artist’s Rendition of a Black Hole_
+> _Figure 1: An Artist’s Rendition of a Black Hole_
 
 </figcaption>
 
@@ -63,7 +63,7 @@ Hopefully, after this short exercise, you’ve been completely disabused of any 
 
 <figcaption>
 
-_Figure 2: The Output of a Very Complex Function That Takes as Inputs the Data Received From the Event Horizon Telescope Pointed toward the Center of Messier 87_
+> _Figure 2: The Output of a Very Complex Function That Takes as Inputs the Data Received From the Event Horizon Telescope Pointed toward the Center of Messier 87_
 
 </figcaption>
 
@@ -71,7 +71,7 @@ _Figure 2: The Output of a Very Complex Function That Takes as Inputs the Data R
 
 If you said “it’s a black hole”—again, you’re wrong, and for the exact same reasons. (Rather, this is what a certain computer program displays on a monitor after receiving data from the Event Horizon Telescope.)
 
-_“What? Of course black holes exist!”_
+> _“What? Of course black holes exist!”_
 
 How do you know? Have you actually seen one with your own eyes? Have you ever been under the influence of one? Or are you just parroting what the Reverend Father Neil deGrasse Tyson taught you as dogma?
 
@@ -85,7 +85,7 @@ Demons, like black holes, can be difficult to perceive with the naked eye. Their
 
 <figcaption>
 
-_Figure 3: A Medieval Artist’s Rendition of Two Demons_
+> _Figure 3: A Medieval Artist’s Rendition of Two Demons_
 
 </figcaption>
 
@@ -121,7 +121,7 @@ _“Well, that’s just hockey.”_
 
 If this were a regular, domestic, regulation game, I’d be inclined to agree with you. But, even then, three fights in the first ten seconds would be highly unusual. Any fights whatsoever on an international level is unheard of. [(“We’ve never had anything like that, best-on-best.”)](https://www.cbc.ca/player/play/video/9.7074145)
 
-_“He says that we’re going off the draw.”_
+> _“He says that we’re going off the draw.”_
 
 The ferocity of the participants is not what’s remarkable; nor is it even the fact that the participants _had absolutely no personal beef with one another._ What’s remarkable is the contagion—truly the “uncleanness”—of demons: somebody, or something, told these grown men (including, as shown in the interview, a headscarf-wearing woman) that they had to fight, and they not only believed it, they _embodied_ it, _needed_ it.
 
@@ -139,7 +139,7 @@ It has long been recognized, among both the clergy and the laity, that a man can
 
 In his _Incerto_ series, Nassim Nicholas Taleb argued that many religious rituals (e.g., exorcisms) served, unbeknownst to the practitioners thereof, a real and useful salutary function: they satisfied the human urge to “do something” about an apparent problem, while also decreasing iatrogenic harm (that is, after performing an exorcism, people felt “they did all they could,” so they wouldn’t take the “patient” to a medieval doctor who would likely harm him way more than simply doing nothing would).
 
-_“Well, they were just ignorant peasants of the dark age; they had no valid, coherent nosology, and they didn’t have the methods to understand the real etiology of things.”_
+> _“Well, they were just ignorant peasants of the dark age; they had no valid, coherent nosology, and they didn’t have the methods to understand the real etiology of things.”_
 
 And do we? Most definitions of “mental disorder” are completely circular: they _appear_ to hold explanatory power, but in actuality explain nothing. (E.g., “Your son has autism.”—”How do you know he has autism?”—”Because he flaps his hands, really likes trains, and has few friends.”—”But _why_ is he flapping his hands, is really into trains, and has few friends?”—”Because he has autism.”)
 
@@ -161,7 +161,7 @@ Their belief is strengthened by the fact that even though, objectively speaking,
 
 Of course, if you read carefully, it’s obvious that Maria has a depth of thought that is unparalleled among her contemporaries. It’s just easy to dismiss that which you find difficult to understand as “madness” (just as Herod dismissed Jesus as a “madman”).
 
-_“Captain Lebyadkin? Sure, he has some problems, as we all do, but he’s not possessed by a demon, nor does he have any mental illness, much less alcoholism: he’s just a retired Russian army officer! It’s completely normal and understandable for someone with his cultural and professional background to behave and drink like that!”_
+> _“Captain Lebyadkin? Sure, he has some problems, as we all do, but he’s not possessed by a demon, nor does he have any mental illness, much less alcoholism: he’s just a retired Russian army officer! It’s completely normal and understandable for someone with his cultural and professional background to behave and drink like that!”_
 
 4.  **A Review of a Book, but Not a Book Review**
 

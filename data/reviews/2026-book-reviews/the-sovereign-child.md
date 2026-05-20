@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T04:53:42.000Z'
 slug: the-sovereign-child
-wordCount: 9092
+wordCount: 9094
 readingTimeMinutes: 41
 source: gdoc
 originalUrl: https://docs.google.com/document/d/17LOQ2Oxdv1MRZhXbqAVWOFfoI6f5zExiEHLSeZguVt8
@@ -296,7 +296,7 @@ I wasn't surprised, having lurked in critical rationalist circles for several ye
 
 ## In defence of lousy correlational evidence
 
-_(This section can be safely skipped if you are not a big honking epistemology nerd.)_
+> _(This section can be safely skipped if you are not a big honking epistemology nerd.)_
 
 Many critical rationalists, and in particular the followers of David Deutsch, have a hate-boner for empirical observations that lack deep explanations. They are just not interested in correlational studies about e.g. social media use and mental health, because those studies only tell you _that_ something is happening, not _why_.
 
@@ -358,7 +358,7 @@ TCS is a wonderful provocation. It identifies a major failure mode in parenting,
 
 ## Contra the Universal Explainer theory (If my grandmother had wheels, she'd be a bicycle)
 
-_(This section can also be skipped if you're not interested in following my criticism all the way to its foundations.)_
+> _(This section can also be skipped if you're not interested in following my criticism all the way to its foundations.)_
 
 What is it that makes humans categorically different from other animals? Deutsch's account starts with our having ‘computational universality’: with the help of a pencil and a piece of paper, we can run any program that a general-purpose computer can, i.e. we are Turing-complete.
 

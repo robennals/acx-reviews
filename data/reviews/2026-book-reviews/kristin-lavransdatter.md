@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T05:06:25.000Z'
 slug: kristin-lavransdatter
-wordCount: 9805
+wordCount: 9808
 readingTimeMinutes: 44
 source: gdoc
 originalUrl: https://docs.google.com/document/d/18fCq3tZRSSYN7t1Xothwh4VXxTCdTBM9wX3Ln6Pvmwg
@@ -58,7 +58,7 @@ One of the triumphs of the work is its ability to transport a modern reader to a
 Before digging in, I also recommend locating one of the rare maps online:
 
 ![image2.jpg](https://acximages.ennals.org/images/2026-book-reviews/da59dd2a950a1756.jpg)  
-_Source:_ _https://www.margueritereads.com/home/kristin-lavransdatter-by-sigrid-undset_
+> _Source:_ _https://www.margueritereads.com/home/kristin-lavransdatter-by-sigrid-undset_
 
 as well as a set of family trees.
 
@@ -68,7 +68,7 @@ as well as a set of family trees.
 
 <figcaption>
 
-_Source: https://www.thenewatlantis.com/text-patterns/characters-of-kristin-lavransdatter_
+> _Source: https://www.thenewatlantis.com/text-patterns/characters-of-kristin-lavransdatter_
 
 </figcaption>
 
@@ -218,7 +218,7 @@ One of the most interesting parts of this novel is that we actually meet some hi
 
 <figcaption>
 
-_Source: 20th Century Fox Television_
+> _Source: 20th Century Fox Television_
 
 </figcaption>
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T02:33:31.000Z'
 slug: timefulness
-wordCount: 2751
+wordCount: 2752
 readingTimeMinutes: 13
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1e7qzId8uiNmXjRNy1TedlycvKXVOAwsQKlEspX5lUMs
@@ -18,7 +18,7 @@ tags:
 
 The Slide Rule for Time
 
-_Can you think in deep time and still be an asshole?_
+> _Can you think in deep time and still be an asshole?_
 
 As the plane landed in Arctic Svalbard, Marcia Bjornerud scanned the landscape from altitude. All was white, a flat sheet of snow, ice, and permafrost stretching in all directions, broken only by knife-steep ridges in the distance. There was only one feature down there, something brown and small. She stared at it, trying to resolve it; a tiny brown cube in the snow. As they got a little closer she recognized it as an ancient, beat-up wooden fruit crate. It must have been there for ages, abandoned by unknown travelers or explorers, and left to rot, but the process would take decades in this cold wilderness.
 

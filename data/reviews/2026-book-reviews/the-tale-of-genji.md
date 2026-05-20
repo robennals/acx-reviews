@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:58:09.000Z'
 slug: the-tale-of-genji
-wordCount: 9959
+wordCount: 9964
 readingTimeMinutes: 45
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1_XX4RJeUH-QKloV7iK5T01OY3u47PNa_KZNd0y-Mdsk
@@ -109,7 +109,7 @@ And it wasn’t just her face that she had to guard. If a man paid a woman a vis
 
 <figcaption>
 
-_Heian women playing music on the veranda while a man peeps through the fence (__[Tosa Mitsusada, 1738-1806](https://www.metmuseum.org/art/collection/search/45427)__)_
+> _Heian women playing music on the veranda while a man peeps through the fence (__[Tosa Mitsusada, 1738-1806](https://www.metmuseum.org/art/collection/search/45427)__)_
 
 </figcaption>
 
@@ -177,7 +177,7 @@ In case you were wondering how the hell he managed to get away with all this, th
 
 <figcaption>
 
-_Genji and Murasaki together, selecting clothing to be sent as New Year’s gifts to all the ladies in Genji’s household, which the servant women are packing up for delivery. Murasaki is in charge of maintaining the household’s clothing storage, and she is uncommonly skilled at dyeing fabrics in vibrant colours. Genji thinks he couldn’t have found a better wife. (__[Tosa Mitsuyoshi, 1539-1613](https://www.metmuseum.org/art/collection/search/53245)__)_
+> _Genji and Murasaki together, selecting clothing to be sent as New Year’s gifts to all the ladies in Genji’s household, which the servant women are packing up for delivery. Murasaki is in charge of maintaining the household’s clothing storage, and she is uncommonly skilled at dyeing fabrics in vibrant colours. Genji thinks he couldn’t have found a better wife. (__[Tosa Mitsuyoshi, 1539-1613](https://www.metmuseum.org/art/collection/search/53245)__)_
 
 </figcaption>
 
@@ -195,7 +195,7 @@ Here’s an example of an exchange between a high-ranking man and a woman he has
 
 > _Yes, ruin has come to the mountain’s rustic hedge, but now and again_
 
-_O let your compassion touch this little pink with fresh dew!_
+> _O let your compassion touch this little pink with fresh dew!_
 
 The “mountain’s rustic hedge” means her difficult living circumstances and “little pink,” a wildflower, refers to their shared young daughter. Basically she’s saying: “I’m living in poverty, please help, don’t forget you have a child here.” He recognises this as a cry for help and goes to her immediately. Sitting in the untended garden with her, he consoles her by coming up with the following poem:
 
@@ -205,7 +205,7 @@ The “mountain’s rustic hedge” means her difficult living circumstances and
 
 > _To a gillyflower brushing a deserted bed with her dewy sleeves,_
 
-_autumn has come all too soon, and the sorrows of its storms._
+> _autumn has come all too soon, and the sorrows of its storms._
 
 Dewy, damp and wet sleeves are a very common motif in _Genji_, and it means weeping, since sleeves were used to wipe away one’s tears. A deserted bed means exactly what you would expect: her lover doesn’t visit often. Even though the woman is crying, the man thinks she doesn’t seem particularly angry, so he does what anyone would do in his situation: goes his merry way and doesn’t visit the woman and their daughter for a long time. In the meantime, she vanishes with the child without a trace. He thinks she should have acted more lovingly towards him when he showed up, so that he might have treated her better.
 
@@ -248,7 +248,7 @@ He: “Oh snap. Wyd tonight”
 
 <figcaption>
 
-_[A Heian-era poem by Fujiwara no Sadanobu (1088–1156)](https://commons.wikimedia.org/wiki/File:Fujiwara-no-Sadanobu_-_FRAMGENT_ISHIYAMA-GIRE_-_Google_Art_Project.jpg)__, showing calligraphy in the kana style similar to what would have been used in love letters and personal correspondence in The Tale of Genji._
+> _[A Heian-era poem by Fujiwara no Sadanobu (1088–1156)](https://commons.wikimedia.org/wiki/File:Fujiwara-no-Sadanobu_-_FRAMGENT_ISHIYAMA-GIRE_-_Google_Art_Project.jpg)__, showing calligraphy in the kana style similar to what would have been used in love letters and personal correspondence in The Tale of Genji._
 
 </figcaption>
 

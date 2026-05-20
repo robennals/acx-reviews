@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-21T01:21:13.000Z'
 slug: house-of-leaves
-wordCount: 1526
+wordCount: 1527
 readingTimeMinutes: 7
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1b7vNx_vJqIB_qoHKuhM2ASmLd0niMsV6vrIa3WdA_Yw
@@ -16,7 +16,7 @@ tags:
   - Philosophy
 ---
 
-_This review is entirely human-written and contains no spoilers beyond the first few pages of the book._
+> _This review is entirely human-written and contains no spoilers beyond the first few pages of the book._
 
 [House](https://en.wikipedia.org/wiki/House_of_Leaves) of Leaves is a famously weird fiction book from 2000 that, like other weird classics, many people want to have read. What's keeping them is 700 pages of confusing formatting, unclear narratives, and tedious subjects. What's drawing them in is that these are deliberate choices in pursuit of a very particular experience.
 

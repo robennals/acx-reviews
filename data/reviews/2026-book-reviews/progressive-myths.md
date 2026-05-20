@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T04:33:29.000Z'
 slug: progressive-myths
-wordCount: 8070
+wordCount: 8073
 readingTimeMinutes: 36
 source: gdoc
 originalUrl: https://docs.google.com/document/d/14lP7bBnTXDxgnntlopIZjuQ7fdqVDRhEJLJ14i2tPpM
@@ -42,7 +42,7 @@ Now, if you happen to be progressive or sympathize with the viewpoint, you might
 
 > I will not give a neutral presentation in the following chapters, but I _do_ aim to give an _objective_ presentation. (p.3)
 
-_(I get the feeling that my progressive friends would say that there is no such thing as an ‘objective’ presentation._ _[Huemer](https://en.wikipedia.org/wiki/Michael_Huemer)__, they would say, is an old white man occupying a position of power and authority, so his experience and viewpoint will inevitably color his judgement. We’ll come back to this later.)_
+> _(I get the feeling that my progressive friends would say that there is no such thing as an ‘objective’ presentation._ _[Huemer](https://en.wikipedia.org/wiki/Michael_Huemer)__, they would say, is an old white man occupying a position of power and authority, so his experience and viewpoint will inevitably color his judgement. We’ll come back to this later.)_
 
 Huemer, like any good philosopher, defines the terms before laying out his arguments, but not before spitting a little bit of fire:
 
@@ -172,7 +172,7 @@ Think of it like this: if police are racist against black people, maybe they’r
 
 What we really care about, for the steelman, is what explains the racial disparity between unarmed black victims and unarmed white victims compared to population. The key question: in a similar situation with an unarmed person, would police be _systematically_ more likely to shoot them if they’re black than if they’re white? Alternatively, do police simply end up in a disproportionate number of such situations with black persons than population statistics would suggest, because of a higher rate of criminality among the black community? The first being true would show racial bias; the second being true would at least show that the _police_ aren’t necessarily being racist.
 
-_(One can argue about whether or not the black community’s disproportionate rates of crime are themselves caused by racism, but a new police officer today isn’t responsible for all of American history, only their own behavior.)_
+> _(One can argue about whether or not the black community’s disproportionate rates of crime are themselves caused by racism, but a new police officer today isn’t responsible for all of American history, only their own behavior.)_
 
 Looking at Huemer’s arguments specifically:
 
@@ -306,7 +306,7 @@ Is Gender purely a social construct? Is it exactly equivalent to biological sex?
 
 This is a weird one. There aren’t statistics to look at or compile; it’s largely about definitions and semantics. Huemer isn’t ‘mythbusting’ so much as making a cogent argument about what he believes gender to be, based on the available evidence.
 
-_(For those who think this is a straw man of the progressive position, the_ _[APA](https://dictionary.apa.org/gender)_ _defines gender as ‘the socially constructed roles, behaviors, activities, and attributes that a given society considers appropriate for different genders’, which Huemer quotes, but to be fair to the APA, this is followed by ‘…whereas gender implies the psychological, behavioral, social, and cultural aspects of gender’.)_
+> _(For those who think this is a straw man of the progressive position, the_ _[APA](https://dictionary.apa.org/gender)_ _defines gender as ‘the socially constructed roles, behaviors, activities, and attributes that a given society considers appropriate for different genders’, which Huemer quotes, but to be fair to the APA, this is followed by ‘…whereas gender implies the psychological, behavioral, social, and cultural aspects of gender’.)_
 
 Huemer rejects ‘gender == social construct’ with a somewhat dismissive example. If gender were purely about social role, then different societies with different social roles would have different genders, so a ‘woman’ in Japan and a ‘woman’ in Sweden would have a different gender. He simply says this is implausible and rejects it, along with the idea that gender is entirely a social construct.
 

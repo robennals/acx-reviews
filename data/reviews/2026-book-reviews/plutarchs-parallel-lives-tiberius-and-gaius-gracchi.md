@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T01:06:16.000Z'
 slug: plutarchs-parallel-lives-tiberius-and-gaius-gracchi
-wordCount: 4897
+wordCount: 4901
 readingTimeMinutes: 22
 source: gdoc
 originalUrl: https://docs.google.com/document/d/12Wdiq8sYSxVu6ujggNhTCcAgLA8dZhPUfnoK0oNGN9w
@@ -80,7 +80,7 @@ His brother later said that, while in military service Tiberius “saw how the l
 
 ## Opposition to TIberius
 
-_“Despite the remarkable leniency of these reforms the wealthy landowners were too greedy to tolerate the law, and too angry and aggressive to tolerate the person who introduced them”_
+> _“Despite the remarkable leniency of these reforms the wealthy landowners were too greedy to tolerate the law, and too angry and aggressive to tolerate the person who introduced them”_
 
 Tribunes traditionally served one year in office, so Tiberius had little time to waste. The tribunate of the plebs was an office unlike anything in any modern system. Almost always held by members of the elite, it was supposed to be a bulwark for the ordinary people against the senate. In practice it had become a sleepy office, a brief stepping stone to greater things. But the tribunes had substantial powers. A tribune could introduce legislation and call on the people to vote upon it, a tribune could veto any and all legislation, and a tribune was _sacrosanct_; it was both a capital offence and a crime against the gods to cause him physical harm.
 
@@ -136,7 +136,7 @@ Ultimately, it was a much more straightforward type of politics which did Gaius 
 
 Immediately his opponents set about repealing his reforms. They would need to win a vote of the people, and to prevent the work his brother had died for and he had dedicated himself to being undone, Gaius corralled his supporters to vote against the repeals. Two mobs stood opposed. An insult from a reactionary “make way, scum, for good Romans” provoked a fight. The man who made the comment was stabbed to death with long writing styluses. Gaius fell immediately into a deep despair. He knew his supporters had just given his enemies the excuse they needed to wipe them out.
 
-_**War, Horrible War, and the Tiber foaming with Rivers of blood.**_
+> _**War, Horrible War, and the Tiber foaming with Rivers of blood.**_
 
 For the first, and tragically not the last, time in Roman history, the Senate formally passed a decree _“ordering the consul, Opimus, to use all the means at his disposal to preserve the city and put down the tyrants. He warned his fellow senators that they should arm themselves, and he gave notice that every one of the knights was to assemble the next morning and bring two armed slaves with him. Fulvius_ [Gaius’ no.1 ally] _responded by mustering and organising a mob, but Gaius stopped on his way out of the forum by his father’s statue and looked at it for a long time in silence, weeping and sighing.”_
 
@@ -148,7 +148,7 @@ There was a general slaughter, some three thousand of Gaius’ supporters were m
 
 The Gracchi had been dispatched, but their memory would live long, both with the people and with power hungry young men who had their eyes opened to the power of the mob:
 
-_“The Roman people… cowed and oppressed at the time of the actual events… shortly after showed how much they missed and longed for the Gracchi. They began to erect statues of them and to display them in prominent places: they consecrated the places where they were murdered and used to offer there the first fruits of all the seasonal sacrifices; and many people even sacrificed to the Gracchi on a daily basis, and bowed before their statues as if they were visiting sanctuaries dedicated to the gods.”_
+> _“The Roman people… cowed and oppressed at the time of the actual events… shortly after showed how much they missed and longed for the Gracchi. They began to erect statues of them and to display them in prominent places: they consecrated the places where they were murdered and used to offer there the first fruits of all the seasonal sacrifices; and many people even sacrificed to the Gracchi on a daily basis, and bowed before their statues as if they were visiting sanctuaries dedicated to the gods.”_
 
 **The Significance of the Gracchi.**
 
@@ -168,7 +168,7 @@ You can find all the surviving lives here, starting with my favourite:
 
 [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Themistocles\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Themistocles*.html)
 
-_Background on Plutarchs influence on american and french revolutions:_
+> _Background on Plutarchs influence on american and french revolutions:_
 
 Citizens by simon shama,
 

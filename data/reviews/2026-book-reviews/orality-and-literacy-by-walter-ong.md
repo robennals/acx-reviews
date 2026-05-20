@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T06:11:53.000Z'
 slug: orality-and-literacy-by-walter-ong
-wordCount: 7115
+wordCount: 7130
 readingTimeMinutes: 32
 source: gdoc
 originalUrl: https://docs.google.com/document/d/1128UWp3DuAg2lyO9koR_XxopSZmcLBBFZk1VREshH6s
@@ -68,7 +68,7 @@ The transformation from speaking to writing changed a lot about language. At the
 
 <figcaption>
 
-_This is a list of words from last year’s spelling bee finale. No one is saying these words out loud outside a spelling bee; they would not exist in an oral language._
+> _This is a list of words from last year’s spelling bee finale. No one is saying these words out loud outside a spelling bee; they would not exist in an oral language._
 
 </figcaption>
 
@@ -90,7 +90,7 @@ The natural modern way to present this information would be as a list or a table
 
 <figcaption>
 
-_This_ _[Wikipedia](https://en.wikipedia.org/wiki/Catalogue_of_Ships)_ _table is both hard to memorize and impossible to say out loud._
+> _This_ _[Wikipedia](https://en.wikipedia.org/wiki/Catalogue_of_Ships)_ _table is both hard to memorize and impossible to say out loud._
 
 </figcaption>
 
@@ -154,7 +154,7 @@ Modern schooling has also been shaped by orality fading away. It used to be that
 
 <figcaption>
 
-_The analogies section of the_ _SAT, which used to contain questions like this, was removed for requiring too much background knowledge._
+> _The analogies section of the_ _SAT, which used to contain questions like this, was removed for requiring too much background knowledge._
 
 </figcaption>
 
@@ -166,7 +166,7 @@ _The analogies section of the_ _SAT, which used to contain questions like this, 
 
 <figcaption>
 
-_In contrast, this_ _[popular modern intelligence test](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)_ _requires no background knowledge, or even words._
+> _In contrast, this_ _[popular modern intelligence test](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)_ _requires no background knowledge, or even words._
 
 </figcaption>
 
@@ -243,7 +243,7 @@ Instead of connecting to previous work using reasoning words like so/then/thus, 
 
 <figcaption>
 
-_People don’t literally thread with N/ on Twitter anymore, but the vibe remains._
+> _People don’t literally thread with N/ on Twitter anymore, but the vibe remains._
 
 </figcaption>
 
@@ -261,7 +261,7 @@ Arguments aren’t considered on their merits, separately from who is speaking t
 
 <figcaption>
 
-_I picked a_ _non-ACX-y_ _example so it would feel less toxic._
+> _I picked a_ _non-ACX-y_ _example so it would feel less toxic._
 
 </figcaption>
 
@@ -286,7 +286,7 @@ I think this is not quite right. Digital orality is not a semi-retvrn, because i
 
 <figcaption>
 
-_As many unfortunately learn, digital words are decidedly NOT ephemeral._
+> _As many unfortunately learn, digital words are decidedly NOT ephemeral._
 
 </figcaption>
 
@@ -328,7 +328,7 @@ People are reading less than ever. That’s not likely to change. I would love i
 
 <figcaption>
 
-_Think of the kind of policy this_ _platform_ _would create._
+> _Think of the kind of policy this_ _platform_ _would create._
 
 </figcaption>
 
@@ -361,7 +361,7 @@ Edward Tufte has, over and over, made this argument for quantitative information
 
 <figcaption>
 
-_The sparkline for “temperature” takes up about as much room and ink as the word itself, but contains at least ten times as much information._
+> _The sparkline for “temperature” takes up about as much room and ink as the word itself, but contains at least ten times as much information._
 
 </figcaption>
 
@@ -385,7 +385,7 @@ Sure, Jon Bois could have written like a regular author: “That first Friday of
 
 <figcaption>
 
-_Twilight: New Moon tried to pull off something similar, but it needed to commit harder instead of resorting to “each tick of the second hand aches like the pulse of blood behind a bruise.”_
+> _Twilight: New Moon tried to pull off something similar, but it needed to commit harder instead of resorting to “each tick of the second hand aches like the pulse of blood behind a bruise.”_
 
 </figcaption>
 
@@ -399,7 +399,7 @@ The NYT’s 10-Minute Challenge series is another example of delightful literary
 
 <figcaption>
 
-_All art museums should be doing some version of this._
+> _All art museums should be doing some version of this._
 
 </figcaption>
 
@@ -429,7 +429,7 @@ These are all pretty basic tweaks to how people write. If we can’t even implem
 
 <figcaption>
 
-_We could show how hard we thought about the phrasing._
+> _We could show how hard we thought about the phrasing._
 
 </figcaption>
 
@@ -441,7 +441,7 @@ _We could show how hard we thought about the phrasing._
 
 <figcaption>
 
-_We could indicate our level of certainty in the statement._
+> _We could indicate our level of certainty in the statement._
 
 </figcaption>
 
@@ -453,7 +453,7 @@ _We could indicate our level of certainty in the statement._
 
 <figcaption>
 
-_We could explain why honesty sometimes doesn’t feel like the best policy._
+> _We could explain why honesty sometimes doesn’t feel like the best policy._
 
 </figcaption>
 
@@ -481,7 +481,7 @@ Substack, in particular, pisses me off because it forces authors to write in the
 
 <figcaption>
 
-_Even Helen DeWitt,_ _[the Internet’s Favorite Author of 2026](https://www.theargumentmag.com/p/helen-dewitt-is-the-psycho-we-need)__,_ _[can’t indent how she wants on Substack and thinks she will need $175k (!) to “incorporate Tuftean infoviz into fiction”](https://paperpools.blogspot.com/2026/04/we-lose-again-windham-campbell-prize.html#more)__. It’s 2026 and we’ve been writing on the internet for fifty years._
+> _Even Helen DeWitt,_ _[the Internet’s Favorite Author of 2026](https://www.theargumentmag.com/p/helen-dewitt-is-the-psycho-we-need)__,_ _[can’t indent how she wants on Substack and thinks she will need $175k (!) to “incorporate Tuftean infoviz into fiction”](https://paperpools.blogspot.com/2026/04/we-lose-again-windham-campbell-prize.html#more)__. It’s 2026 and we’ve been writing on the internet for fifty years._
 
 </figcaption>
 
