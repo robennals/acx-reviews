@@ -1,7 +1,7 @@
 ---
 title: The Hero in History
 author: Unknown
-reviewAuthor: Jack Thorlin
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-hero-in-history
 wordCount: 5846
 readingTimeMinutes: 26
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1pNs1nyprY3M4h_XM2OullnP1PJt3xtF9xRDMKj98lvU
 tags:
   - History
   - Philosophy
@@ -43,11 +42,11 @@ What made Lenin so special? Hook notes an “organizational genius” and talent
 
 Hook also categorized various historical figures as eventful or event-making, and he offers some bold and thought-provoking takes.
 
-*   Constantine, the Roman emperor who converted to Christianity, is merely eventful—anyone would have converted to Christianity faced with the political incentives of Constantine.
+* Constantine, the Roman emperor who converted to Christianity, is merely eventful—anyone would have converted to Christianity faced with the political incentives of Constantine.
 
-*   Justinian, the emperor who codified Roman law, is eventful—he was a “mediocrity” whose acts had great effects, but who did not contribute to them in any unique way.
+* Justinian, the emperor who codified Roman law, is eventful—he was a “mediocrity” whose acts had great effects, but who did not contribute to them in any unique way.
 
-*   All of the women he discusses he labels as eventful—Cleopatra, Catherine the Great, Madame de Pompadour, and the Byzantine Empress Theodora. (He actually contradicts himself on Catherine the Great, describing her as both eventful and event-making over the span of three pages.) Of Theodora, he argues that “had she applied the habits of a thrifty housewife to the royal economy her influence would have been more lasting.” Sexism aside, this is probably the single worst take of the entire book, and I’ll explain why in a footnote for people not looking for a lecture on this specific subject.[^1]
+* All of the women he discusses he labels as eventful—Cleopatra, Catherine the Great, Madame de Pompadour, and the Byzantine Empress Theodora. (He actually contradicts himself on Catherine the Great, describing her as both eventful and event-making over the span of three pages.) Of Theodora, he argues that “had she applied the habits of a thrifty housewife to the royal economy her influence would have been more lasting.” Sexism aside, this is probably the single worst take of the entire book, and I’ll explain why in a footnote for people not looking for a lecture on this specific subject.[^1]
 
 He mentions Thomas Jefferson and Abraham Lincoln, but says they resist easy categorization. Both had “enormous” influence, but Hook contends neither made a unique contribution. Jefferson’s phrasing was memorable, but his ideas were common in his circles. He didn’t really explain Lincoln, but we can fill in the blank. Perhaps whoever led the Union in the Civil War would have accomplished the same outcome and overseen a similar program of emancipation once the South’s political power was neutralized.
 
@@ -101,9 +100,9 @@ Consider a 3D fitness landscape where the Z-axis is popularity of Republican can
 
 Obviously, in the real world, you could have any number of axes to define fitness with greater precision, but once we go beyond three dimensions, we lose the physical legibility of the evolutionary landscape. A word on definitions here:
 
-*   Virtue means a lot of different things, but for electoral purposes, it represents a non-policy vibe of “goodness.” “Respectability” or “attractiveness to elites” are in the same ballpark, and you can feel free to think in those terms if your ideology prefers them. Being “good” would superficially seem preferable in a candidate, but consider all the times people of every political party wish for a “fighter” or someone willing to “fight dirty.” High virtue can also seem dull, and low virtue can seem more authentic and charismatic—consider how much cooler Han Solo is than Luke Skywalker.
+* Virtue means a lot of different things, but for electoral purposes, it represents a non-policy vibe of “goodness.” “Respectability” or “attractiveness to elites” are in the same ballpark, and you can feel free to think in those terms if your ideology prefers them. Being “good” would superficially seem preferable in a candidate, but consider all the times people of every political party wish for a “fighter” or someone willing to “fight dirty.” High virtue can also seem dull, and low virtue can seem more authentic and charismatic—consider how much cooler Han Solo is than Luke Skywalker.
 
-*   “Reaction” is not Republican orthodoxy circa 2014 (e.g., free trade, anti-regulation), but a representation of yearning for the past manifested as reactionary personal and policy preferences. This would include, among other things, social conservatism (distaste for homosexuality and transgenderism), religiosity, opposition to immigration, opposition to free trade, etc.
+* “Reaction” is not Republican orthodoxy circa 2014 (e.g., free trade, anti-regulation), but a representation of yearning for the past manifested as reactionary personal and policy preferences. This would include, among other things, social conservatism (distaste for homosexuality and transgenderism), religiosity, opposition to immigration, opposition to free trade, etc.
 
 Here’s what that 3D fitness landscape might look like:
 
@@ -145,21 +144,21 @@ I don’t want this to be a “Trump sucks and here’s why” review. But I thi
 
 Here is the steelman case for extraordinary Trump qualities:
 
-*   His media instinct is remarkable. He dominated the 2016 news cycle so thoroughly that one study [estimated](https://www.nytimes.com/2016/03/16/upshot/measuring-donald-trumps-mammoth-advantage-in-free-media.html) he received roughly $2 billion in free media coverage.
+* His media instinct is remarkable. He dominated the 2016 news cycle so thoroughly that one study [estimated](https://www.nytimes.com/2016/03/16/upshot/measuring-donald-trumps-mammoth-advantage-in-free-media.html) he received roughly $2 billion in free media coverage.
 
-*   He has an uncanny ability to find and exploit an opponent’s vulnerability, branding them with nicknames that stick precisely because they crystallize a pre-existing doubt: "Low Energy Jeb," "Lyin’ Ted," "Crooked Hillary."
+* He has an uncanny ability to find and exploit an opponent’s vulnerability, branding them with nicknames that stick precisely because they crystallize a pre-existing doubt: "Low Energy Jeb," "Lyin’ Ted," "Crooked Hillary."
 
-*   His rallies generate a fervor that no Republican candidate in living memory has matched.
+* His rallies generate a fervor that no Republican candidate in living memory has matched.
 
-*   His willfulness is extraordinary. After January 6th, virtually every political observer assumed his career was over, yet he clawed his way back to the presidency. These are not nothing.
+* His willfulness is extraordinary. After January 6th, virtually every political observer assumed his career was over, yet he clawed his way back to the presidency. These are not nothing.
 
 But notice what happens when you examine these qualities closely. Each one is narrow, local, and context-dependent in a way that Hook’s framework cannot accommodate.
 
-*   Trump’s media dominance works because he is willing to say outrageous things without shame. But that is not a transferable skill like Churchill’s oratory or Lincoln’s moral reasoning. It is a specific deformity that happens to fit the contemporary media environment, where algorithms reward provocation and cable news was desperate to fill airtime.
+* Trump’s media dominance works because he is willing to say outrageous things without shame. But that is not a transferable skill like Churchill’s oratory or Lincoln’s moral reasoning. It is a specific deformity that happens to fit the contemporary media environment, where algorithms reward provocation and cable news was desperate to fill airtime.
 
-*   His talent for branding opponents is really a talent for cruelty wielded without inhibition. In an era with less appetite for public cruelty, such branding would backfire.
+* His talent for branding opponents is really a talent for cruelty wielded without inhibition. In an era with less appetite for public cruelty, such branding would backfire.
 
-*   His rally energy derives less from inspiration than from the pleasures of collective transgression, the thrill of a leader who will say the thing you are not supposed to say. This is particularly effective in an era where many feel political correctness prevents frank discussion. While there is [always a market for such transgression](https://www.npr.org/2016/04/22/475172438/donald-trump-and-george-wallace-riding-the-rage), it is not always equally lucrative.
+* His rally energy derives less from inspiration than from the pleasures of collective transgression, the thrill of a leader who will say the thing you are not supposed to say. This is particularly effective in an era where many feel political correctness prevents frank discussion. While there is [always a market for such transgression](https://www.npr.org/2016/04/22/475172438/donald-trump-and-george-wallace-riding-the-rage), it is not always equally lucrative.
 
 Strip away the context and none of these qualities would make him effective in any other domain or era. It is hard to imagine him, say, challenging a Churchill for leadership of the United Kingdom. He is not a person of extraordinary ability who entered politics; he is a person whose particular set of fixations and deficiencies fit a historical moment.
 
@@ -187,11 +186,11 @@ My own proposed solution: abandon the eventful/event-making framework entirely a
 
 Here’s how it works:
 
-*   The complexity of broader forces and historical circumstance inevitably creates an opportunity for a specific kind of person to ascend to a position of prominence. This is consistent with Hook’s theory. I will call this kind of opportunity a “keyhole” moment.
+* The complexity of broader forces and historical circumstance inevitably creates an opportunity for a specific kind of person to ascend to a position of prominence. This is consistent with Hook’s theory. I will call this kind of opportunity a “keyhole” moment.
 
-*   A person who actually does ascend to prominence in a keyhole moment—the “key” person, to continue the metaphor—does not need to have individually exceptional qualities. They only need to be warped by experience and circumstance to fit the keyhole.
+* A person who actually does ascend to prominence in a keyhole moment—the “key” person, to continue the metaphor—does not need to have individually exceptional qualities. They only need to be warped by experience and circumstance to fit the keyhole.
 
-*   A person who successfully rises to prominence in a keyhole moment can affect the trajectory of world history in ways that are not dependent on macro trends.
+* A person who successfully rises to prominence in a keyhole moment can affect the trajectory of world history in ways that are not dependent on macro trends.
 
 This also comports with statistical reality regarding “great” men or women of history. There are currently about 8.3 billion people on Earth and 350 million Americans. Is it plausible that Trump can exert his personal influence because he has some set of qualities that score significantly higher than the other 340 million Americans? Is he more charming than the best actor, more knowledgeable than the best policy analyst, richer than the richest mogul? Of course not. But as we saw in the fitness landscape context, he had the right combination of qualities to be the key for the keyhole moment of 2016.
 
@@ -215,11 +214,11 @@ Napoleon is the hardest case for Keyhole Theory and the strongest case for Hook�
 
 But look more carefully at the keyhole he fit into. By 1799, revolutionary France had spent a decade cycling through governments that could not consolidate legitimacy. The republic needed military prestige to survive against coalitions of monarchies, but it also needed to not look like a monarchy itself. This created a very specific keyhole moment: someone who could wield authority with monarchical confidence while claiming revolutionary legitimacy, someone whose power derived from battlefield merit rather than bloodline. That is an oddly-shaped keyhole that excluded almost everyone.
 
-*   A royalist general would not be trusted by the republic.  
+* A royalist general would not be trusted by the republic.  
     
-*   A committed republican ideologue would lack the ruthlessness to seize power.  
+* A committed republican ideologue would lack the ruthlessness to seize power.  
     
-*   An aristocratic commander like Lafayette had already been chewed up by revolutionary politics.
+* An aristocratic commander like Lafayette had already been chewed up by revolutionary politics.
 
 Napoleon’s particular combination—Corsican outsider status, genuine military brilliance, ideological flexibility bordering on total indifference to principle, and an ego so vast it could fill the vacuum left by the Bourbons—was not a collection of universally great qualities. It was a key shaped for that lock.
 

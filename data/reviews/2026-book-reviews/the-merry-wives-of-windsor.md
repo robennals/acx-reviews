@@ -1,16 +1,15 @@
 ---
 title: The Merry Wives of Windsor
 author: Unknown
-reviewAuthor: John Ott
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T21:00:19.000Z'
 slug: the-merry-wives-of-windsor
-wordCount: 7948
+wordCount: 7949
 readingTimeMinutes: 36
 source: gdoc
-originalUrl: https://docs.google.com/document/d/19Cow6y-2eqpPq4cCgR3WNdaAXKD0AwjS_yUbe4CY4mU
 tags:
   - Fiction
 ---
@@ -47,14 +46,14 @@ Actors know what is hard and Shakespeare, we must not forget, was not only a pla
 
 Of course not. Any buffoon can recognize those are works of great genius, and also damn funny. But here is what they are not:
 
-*   Written in two weeks
-*   At the request of the Queen of England
-*   Who could make or break a playwright’s career
-*   Or also have them executed
-*   A sequel to an existing trilogy
-*   (That was history not comedy)
-*   They had to star a character Shakespeare had already made powerful enemies writing about
-*   And by the way the Queen demanded a slashfic version with the character in love
+* Written in two weeks
+* At the request of the Queen of England
+* Who could make or break a playwright’s career
+* Or also have them executed
+* A sequel to an existing trilogy
+* (That was history not comedy)
+* They had to star a character Shakespeare had already made powerful enemies writing about
+* And by the way the Queen demanded a slashfic version with the character in love
 
 Comedy is hard; comedy under duress is the hardest. Reader, William Shakespeare’s solution to this impossible mission is truly the greatest evidence of his genius I can fathom. I will explain how he got into this pickle, how he got out of it and how every TV sit-com you have ever enjoyed, from _I Love Lucy_ to _Fawlty Towers_ to _Seinfeld,_ traces back to a horny guy in a fat suit hiding in a basket filled with greasy laundry.
 
@@ -370,7 +369,7 @@ If Shakespeare was not aware of the Snunkoople Effect or the ‘Comedy K’ he c
 
 You need not understand Elizabethan English to know these are funny lines; you merely need to hear them aloud. Shakespeare is probably the most-appreciated poet in the English language, yet his use of language in the service of comedy remains rankly underacknowledged.
 
-Back to the Buckbasket
+## Back to the Buckbasket
 
 Falstaff is only one humiliation down; there are two more to go before the play is done. After Act I's set-up, Act II's complications and Act III's buckbasket prank, Acts IV and V escalate with further pranks on Falstaff done by the merry wives. (The act breaks are from an editorial tradition and scholars continue to debate Shakespearean play structure. Still, if you imagine a classic sitcom structure of one part set-up, three parts complications arising from the setup and one part climax, then _Merry Wives_ fits neatly by using the first “Brook” and Falstaff scene as the A-story's initial complication. I won’t belabor the structural parallels further; I sense this essay is already straining the wordcount of goodwill.)
 

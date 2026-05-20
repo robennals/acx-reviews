@@ -1,7 +1,7 @@
 ---
 title: Agatha Christie's Works
 author: Unknown
-reviewAuthor: Aris Catsambas
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: agatha-christies-works
 wordCount: 3127
 readingTimeMinutes: 14
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1buqlJqYKd092DIdL8a6xfsKV7FESTjD-luQ92jeqxWg
 tags:
   - Fiction
 ---

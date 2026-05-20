@@ -1,7 +1,7 @@
 ---
 title: The End of History and the Last Man
 author: Unknown
-reviewAuthor: Griffin Knight
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-end-of-history-and-the-last-man
 wordCount: 4030
 readingTimeMinutes: 18
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1Z7RRes_NilgrehDPmgldy0NHzG1xds2-zuXHlsnT4-A
 tags:
   - Philosophy
   - Politics

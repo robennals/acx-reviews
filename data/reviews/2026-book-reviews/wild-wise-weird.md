@@ -1,23 +1,22 @@
 ---
 title: Wild Wise Weird
 author: Unknown
-reviewAuthor: Manh-Toan Ho
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-16T09:21:08.000Z'
 slug: wild-wise-weird
-wordCount: 1531
+wordCount: 1532
 readingTimeMinutes: 7
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1M85789pe8pRALLczQn4KR0yUNwgOhXt8
 tags:
   - Fiction
   - Philosophy
   - Society
 ---
 
-A story of a review of a book
+## A story of a review of a book
 
 * * *
 It is a normal Saturday night at the farm. The weather has been kind lately, with sunny days and breezy nights. Tonight is especially chilly, so all animals are packed inside the farmhouse, eagerly waiting for Napoleon.

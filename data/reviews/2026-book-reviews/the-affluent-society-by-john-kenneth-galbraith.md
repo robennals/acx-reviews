@@ -1,7 +1,7 @@
 ---
 title: The Affluent Society by John Kenneth Galbraith
 author: Unknown
-reviewAuthor: Wesley Stone
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-affluent-society-by-john-kenneth-galbraith
 wordCount: 5821
 readingTimeMinutes: 26
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1JepG-nBFscA_-_-aywBRA7tZ99qXxGmtqcTRwLzeDhQ
 tags:
   - Economics
   - Society

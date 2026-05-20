@@ -1,7 +1,7 @@
 ---
 title: Don't Bang Denmark
 author: Unknown
-reviewAuthor: S. Lambert
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: dont-bang-denmark
 wordCount: 3350
 readingTimeMinutes: 15
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1Jx6jeZi_CW-uHN_my6libvpkIniSIzYnu24OIlUC28s
 tags:
   - Memoir
   - Society
@@ -22,9 +21,9 @@ The pick up artistry movement has been criticized for being sexist, tolerant of 
 
 “Don’t bang Denmark” is one of many travel/sex guides Roosh has published. There is also Bang Ukraine, Bang Poland, Don’t Bang Latvia, and so on. In Denmark’s version, Roosh’s main thesis as to why pick up artistry doesn’t work here are these two and a half points:
 
-**1.**     Danish society makes it taboo to be an alpha male, and Danish women are thus not interested in them
+**1.** Danish society makes it taboo to be an alpha male, and Danish women are thus not interested in them
 
-**2.**     Danish women are ugly and manly anyway
+**2.** Danish women are ugly and manly anyway
 
 **What is pick up artistry?**
 
@@ -34,15 +33,15 @@ Pick up artistry is not to be confused with incels or “the blackpill”. Incel
 
 Pick up artistry, however, has its roots in the LA nightlife in the 90’s and 2000’s. Men wrote guides on how to pick up chicks, the one you have probably heard of being “The Game”. A couple of techniques include:
 
-1.     “Peacocking” – wear weird outstanding clothes to get attention
+1. “Peacocking” – wear weird outstanding clothes to get attention
 
-2.     Negging – tease girls about their looks or voice or something else
+2. Negging – tease girls about their looks or voice or something else
 
-3.     Kino escalation – going from lighter non-sexual touch to more and more sexual
+3. Kino escalation – going from lighter non-sexual touch to more and more sexual
 
-4.     Push-pull – playing it hot and cold
+4. Push-pull – playing it hot and cold
 
-5.     “Inner game” – being confident and liking yourself
+5. “Inner game” – being confident and liking yourself
 
 Probably, there is a lot of redeeming qualities to be found within pick up artistry. I’m in no way against charm school for boys. I’m not against men getting better at wooing women for casual sex. Those would be fine. I think measured overconfidence, working out and being slightly teasing is something many women appreciate.
 
@@ -58,16 +57,16 @@ By far the most interesting of Roosh’s assertions is this one. He writes:
 
 So “Law of Jante” is a selection of satirical laws in the book _En flygtning krydser sit spor_ by Aksel Sandemose, written in 1933. The book is satirizing the insular small town mentality of the Danish island Mors. In the book it is teasingly called The Ten Commandments:
 
-1.  You are not to think you are anything special.
-2.  You are not to think you are as good as we are.
-3.  You are not to think you are smarter than we are.
-4.  You are not to imagine yourself better than us.
-5.  You are not to think you know more than we do.
-6.  You are not to think you are more important than we are.
-7.  You are not to think you are good at anything.
-8.  You are not to laugh at us.
-9.  You are not to think anyone cares about you.
-10.  You are not to think you can teach us anything.
+1. You are not to think you are anything special.
+2. You are not to think you are as good as we are.
+3. You are not to think you are smarter than we are.
+4. You are not to imagine yourself better than us.
+5. You are not to think you know more than we do.
+6. You are not to think you are more important than we are.
+7. You are not to think you are good at anything.
+8. You are not to laugh at us.
+9. You are not to think anyone cares about you.
+10. You are not to think you can teach us anything.
 
 I doubt most Danes are aware of the satirical origin of the term, though. In my experience, it is almost exclusively used negatively: ie, “I just hate the jantelov in this place”. Other countries have similar terms, like the Australian “Tall Poppy Syndrome”. Roosh explains:
 
@@ -171,15 +170,15 @@ And asks some hard questions:
 
 > _“What?” you might say. “Obviously I care a lot about having sex. Who doesn’t?” But:_
 
-*   _Are you willing to go out four times a week to meet women?_
-*   _Are you willing to spend hours on Tinder?_
-*   _Are you willing to strike up conversations with strangers you run into in your daily life?_
-*   _Are you willing to risk being accused of sexual harassment?_
-*   _Are you willing to learn about fashion and spend a bunch of money on nice clothes?_
-*   _If you found out the women you’re attracted to really like men in dresses and makeup, are you willing to wear a dress and makeup?_
-*   _Are you willing to dance in public?_
-*   _Are you willing to do sex acts you don’t particularly like but that get your partner off?_
-*   _Can you imagine yourself saying, “I’m not attracted to dicks, but this trans girl is dysphoric about her dick and doesn’t want me to touch it, so it was all good and I fucked her in the ass”?_
+* _Are you willing to go out four times a week to meet women?_
+* _Are you willing to spend hours on Tinder?_
+* _Are you willing to strike up conversations with strangers you run into in your daily life?_
+* _Are you willing to risk being accused of sexual harassment?_
+* _Are you willing to learn about fashion and spend a bunch of money on nice clothes?_
+* _If you found out the women you’re attracted to really like men in dresses and makeup, are you willing to wear a dress and makeup?_
+* _Are you willing to dance in public?_
+* _Are you willing to do sex acts you don’t particularly like but that get your partner off?_
+* _Can you imagine yourself saying, “I’m not attracted to dicks, but this trans girl is dysphoric about her dick and doesn’t want me to touch it, so it was all good and I fucked her in the ass”?_
 
 Are you?
 

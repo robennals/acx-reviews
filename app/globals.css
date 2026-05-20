@@ -141,3 +141,24 @@
     inset: -6px -2px;
   }
 }
+
+/* Center every image inside review content, with or without a wrapping
+ * <figure>. Tailwind's prose plugin leaves images as default block
+ * elements aligned to the left margin; narrow images need explicit
+ * centering. Captions inherit the centered layout from <figure>. */
+.prose img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.prose figure {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.prose figcaption {
+  text-align: center;
+  font-size: 0.9em;
+  color: hsl(var(--muted-foreground));
+  margin-top: 0.5em;
+}

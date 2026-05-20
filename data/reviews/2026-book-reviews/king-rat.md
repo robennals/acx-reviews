@@ -1,16 +1,15 @@
 ---
 title: King Rat
 author: Unknown
-reviewAuthor: David J Keown
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T00:09:53.000Z'
 slug: king-rat
-wordCount: 918
+wordCount: 919
 readingTimeMinutes: 5
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1S45aqwpzr6R7LxTNNR_irONmNTP3gjFNJAV_k5pZrPk
 tags:
   - Fiction
 ---
@@ -31,7 +30,7 @@ If you did ask yourself this specific question, then I have some good news.
 
 ——
 
-> “Renowned author Dan Brown _James Clavell_ woke up in his luxurious four-poster bed _on a ragged straw mat_ in his expensive $10 million house _a Japanese POW camp_– and immediately he felt angry _undefinable existential ennui_. Most people would have thought that the 48-year-old _17 year old_ man had no _every_ reason to be angry. After all, the famous writer had a new book coming out _teenager had been sent halfway around the world and shot in the face with a machine gun, immediately captured in the sweltering jungles of Java, and sent to starve in an open air prison._”
+> “Renowned author ~~Dan Brown~~ _James Clavell_ woke up ~~in his luxurious four-poster bed~~ _on a ragged straw mat_ in ~~his expensive $10 million house~~ _a Japanese POW camp_– and immediately he felt ~~angry~~ _undefinable existential ennui_. Most people would have thought that the ~~48-year-old~~ _17 year old_ ~~man~~ had ~~no~~ _every_ reason to be angry. After all, the ~~famous writer had a new book coming out~~ _teenager had been sent halfway around the world and shot in the face with a machine gun, immediately captured in the sweltering jungles of Java, and sent to starve in an open air prison._”
 
 [Stolen from Michael Deacon’s _**Don’t make fun of renowned Dan Brown**_, which is the book review you should actually be reading]  
 _ _ _
@@ -53,7 +52,7 @@ King Rat starts out with a lie:
 
 (insert image Changi)
 
-**On Clavell’s prose:**  
+## On Clavell’s prose:
  “The sea was angry that day, my friends - like an old man trying to send back soup in a deli. I got about fifty feet out and suddenly, the great beast appeared before me. I tell you, he was ten stories high if he was a foot. As if sensing my presence, he let out a great bellow. I said, "Easy, big fella!" And then, as I watched him struggling, I realized that something was obstructing its breathing. From where I was standing, I could see directly into the eye of the great fish.”
 
 ~Seinfeld, The Marine Biologist.

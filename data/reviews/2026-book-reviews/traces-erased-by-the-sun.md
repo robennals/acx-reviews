@@ -1,16 +1,15 @@
 ---
 title: Traces Erased by the Sun
 author: Unknown
-reviewAuthor: David
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T14:13:23.000Z'
 slug: traces-erased-by-the-sun
-wordCount: 3624
+wordCount: 3625
 readingTimeMinutes: 17
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1bRyV1kvzIo2Y5Yo9hY6wZUhoCAzVUh1-YJ5lvXkpMho
 tags:
   - Fiction
   - History
@@ -125,16 +124,16 @@ I suspect that Irwin had an answer, although for the foregoing reasons it's diff
 
 Successfully navigating across the two readings the labyrinth of adab that Irwin writing as al-Rabahi wrote, we arrive at roughly the following argument:
 
-1.  Civilizational ruin is cyclical and (therefore) inevitable.
-2.  During periods of ruin, the institutions of a civilization become unable to preserve their culture. Regardless of the cause of ruin, the effect is that institutions lose the ability to transmit norms, maintain continuity, or protect the conditions under which their culture can flourish.
-3.  If a culture is to be preserved, then during those periods in which institutions are unable to preserve the culture, it falls to individuals to preserve the culture.
-4.  Acting with culture, manners, and intellectual rigor is therefore a moral stance in the face of ruin. It acknowledges the individual's role in preserving culture during periods of ruin, and takes the position that preserving culture is a moral good.
-5.  This moral stance is an element of every culture that is able to preserve itself across cycles of ruin. If a culture fails to inculcate this moral stance, then the culture dies out when its institutions fail.
+1. Civilizational ruin is cyclical and (therefore) inevitable.
+2. During periods of ruin, the institutions of a civilization become unable to preserve their culture. Regardless of the cause of ruin, the effect is that institutions lose the ability to transmit norms, maintain continuity, or protect the conditions under which their culture can flourish.
+3. If a culture is to be preserved, then during those periods in which institutions are unable to preserve the culture, it falls to individuals to preserve the culture.
+4. Acting with culture, manners, and intellectual rigor is therefore a moral stance in the face of ruin. It acknowledges the individual's role in preserving culture during periods of ruin, and takes the position that preserving culture is a moral good.
+5. This moral stance is an element of every culture that is able to preserve itself across cycles of ruin. If a culture fails to inculcate this moral stance, then the culture dies out when its institutions fail.
 
 However,
 
-6.  The insistence of a single individual acting to preserve culture and manners during a catastrophe that marks a period of civilizational ruin is an absurd mismatch of scale.
-7.  Culture is unable to prevent the failure of the institutions of its civilization, and yet demands its own preservation when those institutions fail. During those periods of ruin, there is no reward for preserving the culture other than that preservation in and of itself, and therefore the demand is absurd.
+6. The insistence of a single individual acting to preserve culture and manners during a catastrophe that marks a period of civilizational ruin is an absurd mismatch of scale.
+7. Culture is unable to prevent the failure of the institutions of its civilization, and yet demands its own preservation when those institutions fail. During those periods of ruin, there is no reward for preserving the culture other than that preservation in and of itself, and therefore the demand is absurd.
 
 To be clear, Irwin _the historian_ would have rejected this argument. As a rule, he was skeptical of grand, sweeping narratives that treat disparate events as instances of a single explanatory cause, and the particular trope of "ruin is cyclical" is a common one in medieval writing. The way to understand this argument is that Irwin, as al-Rabahi, is making a more or less standard medieval argument, but also that Irwin, as a literary fiction author, is writing the argument in a way that demonstrates the absurdity of its conclusions.
 
@@ -154,7 +153,7 @@ Viewed this way, the real absurdity appears to be that a person would hand over 
 
 So the short answer is, reciprocity. A highly cultivated person reaps greater social benefits than an uncultured person, but the cost of those benefits is the concession of his mind to his culture's ideas.
 
-**Footnotes.**
+## Footnotes.
 
 [1] As an author of fiction. As a historian, Irwin _did_ take and argue positions, but they tended to be historical or historiographical positions rather than political or philosophical positions. For example, in _Ibn Khaldun: An Intellectual Biography_, Irwin argued that that historical personage is best understood as a medieval Arab scholar, rather than as the secretly modern rationalist or secular scientist that other modern-era Orientalist scholars and historians had portrayed him to be. (_Ibn Khaldun_ was published in 2018; one wonders whether _Traces Erased by the Sun_ was, at least in part, an earlier, literary exploration of the tendency of modern readers to project contemporary intellectual concerns onto medieval figures.)
 

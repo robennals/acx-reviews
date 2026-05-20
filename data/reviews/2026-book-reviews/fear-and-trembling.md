@@ -1,7 +1,7 @@
 ---
 title: Fear and Trembling
 author: Unknown
-reviewAuthor: Micah Dettweiler
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: fear-and-trembling
 wordCount: 3581
 readingTimeMinutes: 16
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1N_gsJC2qqAUMOt5ZM1SpuPZLrSWZrTpARBFf5tA7xbo
 tags:
   - Philosophy
   - Religion

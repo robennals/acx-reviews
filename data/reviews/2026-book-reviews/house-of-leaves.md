@@ -1,7 +1,7 @@
 ---
 title: House Of Leaves
 author: Unknown
-reviewAuthor: BoppreH
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: house-of-leaves
 wordCount: 1527
 readingTimeMinutes: 7
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1b7vNx_vJqIB_qoHKuhM2ASmLd0niMsV6vrIa3WdA_Yw
 tags:
   - Fiction
   - Philosophy

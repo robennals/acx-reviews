@@ -1,16 +1,15 @@
 ---
 title: The Escape Artist
 author: Unknown
-reviewAuthor: Max Nussenbaum
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T17:36:27.000Z'
 slug: the-escape-artist
-wordCount: 7772
+wordCount: 7767
 readingTimeMinutes: 35
 source: gdoc
-originalUrl: https://docs.google.com/document/d/142yRA1GdVLtlIt3DoqP2UzcZrCzlMOnGbsFai-BQLEg
 tags:
   - History
   - Memoir
@@ -46,7 +45,7 @@ The camp administrators seek volunteers for “farm work” elsewhere, and Walte
 
 <figcaption>
 
-> _Walter in a photo taken after the war, looking like a dead ringer for Joaquin Phoenix._
+_Walter in a photo taken after the war, looking like a dead ringer for Joaquin Phoenix._
 
 </figcaption>
 
@@ -84,7 +83,7 @@ Not the real Canada, of course. This “Canada” is an enormous lot full of pos
 
 <figcaption>
 
-> _“Canada,” Auschwitz’s land of plenty_
+_“Canada,” Auschwitz’s land of plenty_
 
 </figcaption>
 
@@ -150,7 +149,7 @@ Fred and Walter spend three days and three nights cramped inside the tiny, dark 
 
 <figcaption>
 
-> _That’s right: Auschwitz had its own band, the_ _[Women’s Orchestra of Auschwitz](https://en.wikipedia.org/wiki/Women%27s_Orchestra_of_Auschwitz)__. The conductor was Gustav Mahler’s niece._
+_That’s right: Auschwitz had its own band, the_ _[Women’s Orchestra of Auschwitz](https://en.wikipedia.org/wiki/Women%27s_Orchestra_of_Auschwitz)__. The conductor was Gustav Mahler’s niece._
 
 </figcaption>
 
@@ -182,7 +181,7 @@ The shocking estimate that the Nazis have already killed _1.7 million_ Jews, mea
 
 <figcaption>
 
-> _The ÚŽ report’s nondescript cover, in a copy from the FDR Presidential Library._
+_The ÚŽ report’s nondescript cover, in a copy from the FDR Presidential Library._
 
 </figcaption>
 
@@ -226,7 +225,7 @@ We can strike one obvious candidate from the list right away: it’s not the Naz
 
 <figcaption>
 
-> _Are we the baddies? Narratively speaking, actually not this time._
+_Are we the baddies? Narratively speaking, actually not this time._
 
 </figcaption>
 

@@ -1,7 +1,7 @@
 ---
 title: A Residence of Twenty-One Years in the Sandwich Islands
 author: Unknown
-reviewAuthor: Metacelsus
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,14 +10,13 @@ slug: a-residence-of-twenty-one-years-in-the-sandwich-islands
 wordCount: 8528
 readingTimeMinutes: 38
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1lYidSeOqgGWp7b7hHY3bFh3eFxqU6xOJVElDfw7VXM0
 tags:
   - History
   - Memoir
   - Religion
 ---
 
-1.  ## A New Cause Area
+1. ## A New Cause Area
     
 
 In October 1819, my grandmother’s grandfather’s grandfather, Hiram Bingham I, stood with his wife, Sybil, and his friends outside Park Street Church in Boston and bade farewell to family before venturing into the unknown. They would spend the next five months on a cramped ship sailing to a foreign land of strange people, full of “destitution, degradation, and barbarism.” They did not know if they would ever return to America.
@@ -38,7 +37,7 @@ So, with the benefit of 200 years of hindsight, what can Effective Altruists and
 
 To find out, I read Hiram’s memoir, _A Residence of Twenty-One Years in the Sandwich Islands._ Published in 1847, it’s not a particularly engaging book,[^2] but as a historical document, it’s a fascinating account of the effort of seven young missionary couples and their Hawaiian friends to do the most good possible by bringing Christianity, literacy, Western civilization, and Puritan social mores to a nation of 130,000 souls.
 
-2.  ## The Twenty-One Year Honeymoon
+2. ## The Twenty-One Year Honeymoon
     
 
 In many ways, the islands of Hawaii are a paradise on Earth, but to the missionaries who knew them as the Sandwich Islands, they were a savage place. These islanders, after all, had killed [Captain Cook](https://www.britannica.com/biography/James-Cook) just 40 years ago.[^3] From 1782 to 1810, the nation was ravaged by war. [King Kamehameha I](https://www.nps.gov/puhe/learn/historyculture/kamehameha.htm), adopting Western military technology such as gunpowder, forcefully unified the islands into a single kingdom and suppressed potential rivals.
@@ -77,7 +76,7 @@ Hiram and Sybil in 1819, [as painted by Samuel Morse](https://artgallery.yale.ed
 
 </figure>
 
-3.  ## A Fortuitous Arrival
+3. ## A Fortuitous Arrival
     
 
 After a sea voyage of 18,000 miles, during which Hiram and Sybil’s first child was conceived, the missionaries spotted the peak of Mauna Kea on the morning of March 30, 1820. Five months after departure, the sight was exhilarating: the work of spreading Christianity, literacy, and civilization was finally at hand.
@@ -94,7 +93,7 @@ Conveniently, this also removed some of the customary limits on her power as a q
 
 Thus, the missionaries arrived to find their work half done for them. The Hawaiians themselves had discredited and discarded their former religion. But what was to take its place? A missionary’s nightmare of rum and atheism, or “an elevated state of Christian civilization”?
 
-4.  ## Speedrunning Civilization
+4. ## Speedrunning Civilization
     
 
 The intended audience with Kamehameha was impossible, but the missionaries soon met with the Hawaiian royal family, including King Liholiho and Queen Ka’ahumanu. After twelve days of negotiations, during which the missionaries assured the Hawaiians that they were purely benevolent and definitely not looking to meddle in politics or “interfere with the government or trade of the islands”, Ka’ahumanu and Liholiho granted them permission to settle. Half the missionaries, including the expedition co-leader Asa Thurston, would remain on the big island, and the other half (including Hiram) would continue to Honolulu.
@@ -179,41 +178,41 @@ However, instead of claiming supernatural powers, Hiram simply explained that it
 
 Hiram saw himself as a teacher, not a prophet. In explaining the eclipse as a natural phenomenon, he sought to promote truth over superstition. Civilization itself was his means of evangelism.
 
-5.  ## Things Hiram Didn’t Like:
+5. ## Things Hiram Didn’t Like:
     
 
 Hiram wouldn’t have called himself a Puritan, but rather one of “the sons of the Puritans”. Still, he was a Puritan in all but name,[^13] and as such, could make “no compromise with the vile pleasures and criminal indulgences of those who love darkness rather than light.” For example:
 
-*   Alcohol, especially rum
-*   Catholicism
-*   Fornication
-*   Prostitution
-*   Hula dancing. It’s too sexy, and Hiram convinced Ka’ahumanu to have it banned.
-*   Human sacrifices
-*   Idolatry
-*   Worship of Catholic saints
-*   Polygamy
-*   Royal incest
-*   Homosexuality [14]
-*   Infanticide [15]
-*   Drunkenness
-*   Idleness
-*   Gambling
-*   “Heathen sports.” Except for surfing, which is great, so long as nobody places bets.[16]
-*   Illiteracy
-*   “Popery”
-*   Indulgences
-*   Covetousness
-*   “Papists”
-*   Slavery
-*   The French
-*   Sugar cane: people make rum from it
-*   Tobacco
-*   Poi: a paste of kalo (taro) root often eaten by Hawaiians, and which “would do well for bookbinder’s work”
-*   Jesuits
-*   Swearing
-*   Lord Byron’s poems: “weapons of rebellion against the Sovereign of the world”
-*   “Romish Priests”
+* Alcohol, especially rum
+* Catholicism
+* Fornication
+* Prostitution
+* Hula dancing. It’s too sexy, and Hiram convinced Ka’ahumanu to have it banned.
+* Human sacrifices
+* Idolatry
+* Worship of Catholic saints
+* Polygamy
+* Royal incest
+* Homosexuality [14]
+* Infanticide [15]
+* Drunkenness
+* Idleness
+* Gambling
+* “Heathen sports.” Except for surfing, which is great, so long as nobody places bets.[16]
+* Illiteracy
+* “Popery”
+* Indulgences
+* Covetousness
+* “Papists”
+* Slavery
+* The French
+* Sugar cane: people make rum from it
+* Tobacco
+* Poi: a paste of kalo (taro) root often eaten by Hawaiians, and which “would do well for bookbinder’s work”
+* Jesuits
+* Swearing
+* Lord Byron’s poems: “weapons of rebellion against the Sovereign of the world”
+* “Romish Priests”
 
 Oh, and did I mention he didn’t like Catholics?
 
@@ -261,11 +260,11 @@ Word had reached France of the persecution of the French priests at the hands of
 
 Laplace made several demands:
 
-1.  Freedom of worship for Catholics, and right of Catholic missionaries to proselytize.
-2.  A grant of land in Honolulu to build a Catholic church.
-3.  Release of all Catholics imprisoned on account of religion.
-4.  A payment of $20,000 (roughly $710,000 in 2026 dollars).
-5.  A treaty of free trade, and a 21-gun salute to the French flag.
+1. Freedom of worship for Catholics, and right of Catholic missionaries to proselytize.
+2. A grant of land in Honolulu to build a Catholic church.
+3. Release of all Catholics imprisoned on account of religion.
+4. A payment of $20,000 (roughly $710,000 in 2026 dollars).
+5. A treaty of free trade, and a 21-gun salute to the French flag.
 
 But if “the king and principal chiefs of the Sandwich Islands, led on by bad counsellors, refuse to sign the treaty which I present, war will immediately commence”. Clearly, the “bad counsellors” referred to Hiram and his friends.
 

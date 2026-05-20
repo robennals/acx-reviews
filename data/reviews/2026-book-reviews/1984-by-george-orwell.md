@@ -1,7 +1,7 @@
 ---
 title: 1984 by George Orwell
 author: Unknown
-reviewAuthor: Aurelien
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: 1984-by-george-orwell
 wordCount: 5943
 readingTimeMinutes: 27
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1D8wk6cDkzzQZn9CP4aJqlyLMF6C4JD6nYQMRqF25ACM
 tags:
   - Fiction
   - Politics

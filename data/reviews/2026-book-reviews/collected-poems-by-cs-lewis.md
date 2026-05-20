@@ -1,16 +1,15 @@
 ---
 title: Collected Poems by C.S. Lewis
 author: Unknown
-reviewAuthor: Sam Rose
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T20:04:59.000Z'
 slug: collected-poems-by-cs-lewis
-wordCount: 3883
+wordCount: 3899
 readingTimeMinutes: 18
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1SHnc7xn_JQjr3dWC_LTq37T2703wJq-7IZWquMZPdis
 tags:
   - Fiction
   - Religion
@@ -170,22 +169,22 @@ It’s not enough to know this in our heads. For it to do us any good it needs t
 **Joys That Sting**
 
 > _Oh doe not die_, says Donne, _for I shall hate_  
- _All women so_.  How false the sentence rings.  
-Women?  But in a life made desolate  
-It is the joys once shared that have the stings.  
-  
-To take the old walks alone, or not at all,  
-To order one pint where I ordered two,  
-To think of, and then not to make, the small  
-Time-honoured joke (senseless to all but you);  
-  
-To laugh (oh, one'll laugh), to talk upon  
-Themes that we talked upon when you were there,  
-To make some poor pretence of going on,  
-Be kind to one's old friends, and seem to care,  
-  
-While no one (O God) through the years will say  
-The simplest, common word in just your way.
+>  _All women so_.  How false the sentence rings.  
+> Women?  But in a life made desolate  
+> It is the joys once shared that have the stings.  
+>   
+> To take the old walks alone, or not at all,  
+> To order one pint where I ordered two,  
+> To think of, and then not to make, the small  
+> Time-honoured joke (senseless to all but you);  
+>   
+> To laugh (oh, one'll laugh), to talk upon  
+> Themes that we talked upon when you were there,  
+> To make some poor pretence of going on,  
+> Be kind to one's old friends, and seem to care,  
+>   
+> While no one (O God) through the years will say  
+> The simplest, common word in just your way.
 
 [1] I think because they have no idea if it’s any good.  Epic poetry is a dead art form, and there aren’t many who are well placed to judge one written in the 20th century.
 

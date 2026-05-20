@@ -1,7 +1,7 @@
 ---
 title: Religion for Atheists
 author: Unknown
-reviewAuthor: Marius Nicoară
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: religion-for-atheists
 wordCount: 5687
 readingTimeMinutes: 26
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1mXuX7zB-_a1ES7hp-JuTL-W_2Mt4hR5cho94e6hUwl8
 tags:
   - Religion
   - Philosophy
@@ -20,8 +19,8 @@ tags:
 
 An important step in overcoming an addiction is to identify the needs the addiction satisfies and then find healthier ways of satisfying those needs. In the case of of the opiate of the masses, religion, Alain de Botton recognizes two broad categories of benefits
 
-*   living in a supportive  community
-*   managing individual suffering caused by vulnerability in the face of personal failure, troublesome relationships, loss of loved ones and the prospect of our own death
+* living in a supportive  community
+* managing individual suffering caused by vulnerability in the face of personal failure, troublesome relationships, loss of loved ones and the prospect of our own death
 
 He samples practices from Christianity, Judaism and Buddhism that tends to these needs. It’s fair game to appropriate religious concepts for secular purposes, argues de Botton, when considering that, for example, the winter solstice was transformed into Christmas. Religious institutions made their mark on the world by influencing a wide array of activities, such as education, fashion, politics, art and architecture. De Botton analysis touches on all of them in this book and gives several of them a long form treatment in other books[[1]](https://www.goodreads.com/book/show/23422.The_Art_of_Travel?ref=nav_sb_ss_1_17), [[2]](https://www.goodreads.com/book/show/23425.Status_Anxiety?ref=nav_sb_ss_1_14), [[3]](https://www.goodreads.com/book/show/23418.The_Architecture_of_Happiness?ref=nav_sb_ss_1_29), [[4]](https://www.goodreads.com/book/show/5293573-the-pleasures-and-sorrows-of-work?from_search=true&from_srp=true&qid=rcdJP9hEg1&rank=1), [[5]](https://www.goodreads.com/book/show/17899481-art-as-therapy?from_search=true&from_srp=true&qid=9GxBMGbh6V&rank=1), [[6]](https://www.goodreads.com/book/show/23420.How_Proust_Can_Change_Your_Life?ref=nav_sb_ss_1_29), [[7]](https://www.goodreads.com/book/show/18282869-the-news?ref=nav_sb_ss_1_24), [[8]](https://www.goodreads.com/book/show/27845690-the-course-of-love?ref=nav_sb_ss_1_18).
 
@@ -61,9 +60,9 @@ Again, easy to be cynical, but there might be something there.
 
 De Botton also looks at how certain are used dishes to represent abstract concepts:
 
-*   bread -> the body of Christ
-*   Crushed apples mixed with nuts in the Jewish Pesach(Passover) -> the mortar used by ancestors to build the granaries of Egypt
-*   Cups with filled with infusions(in Zen Buddhism) -> the transient nature of happiness in a floating world
+* bread -> the body of Christ
+* Crushed apples mixed with nuts in the Jewish Pesach(Passover) -> the mortar used by ancestors to build the granaries of Egypt
+* Cups with filled with infusions(in Zen Buddhism) -> the transient nature of happiness in a floating world
 
 Tangentially related: I’m reminded of how Yann LeCun used the Black Forest cake to show which kind of machine learning provides more information to a learning algorithm
 
@@ -75,15 +74,15 @@ Religions are applauded not only for helping with the creation of groups, but al
 
 De Botton invokes the two more Jewish customs as examples of mediating between the needs of the group and those of the individual. The first is about the specific periods of mourning the death of a loved one:
 
-*   7 days of _shiva_ that follow the death foresee a time of cataclysmic confusion
-*   Then 30 days of _shloshim_ during which the mourner is exempted from many of their duties towards the community
-*   Followed by 12 months(_shneim asar chodesh_) during which the deceased is remembered in the prayer of the mourner during services at the temple
-*   At the end of the year, after unveiling the tombstone (_matzevah_), more prayers, another service and a gathering at the house of the mourner, life and community reassert their demands
+* 7 days of _shiva_ that follow the death foresee a time of cataclysmic confusion
+* Then 30 days of _shloshim_ during which the mourner is exempted from many of their duties towards the community
+* Followed by 12 months(_shneim asar chodesh_) during which the deceased is remembered in the prayer of the mourner during services at the temple
+* At the end of the year, after unveiling the tombstone (_matzevah_), more prayers, another service and a gathering at the house of the mourner, life and community reassert their demands
 
 The second example of mediating group vs individual needs is the Jewish Bar Mitzvah, which not only prepares a Jewish boy to become a man, but his parents handle this transition. The parents may be encounter
 
-*   Feelings of envy and bitterness at the thought of being equaled or surpassed by a new generation
-*   Feelings of soon being forced to deal with their own decline
+* Feelings of envy and bitterness at the thought of being equaled or surpassed by a new generation
+* Feelings of soon being forced to deal with their own decline
 
 Such rituals are seen by de Botton as evidence that religions don’t expect us to manage troubling emotions alone so they grant special occasions for processing them.
 
@@ -93,11 +92,11 @@ De Botton takes issue with the amorphous group of libertarian theoreticians who 
 
 He contrasts libertarian theory with the Mosaic legal code Mishna, where the following are proposed:
 
-*   Not allowed to sit at the table before feeding the goats and camels
-*   Should ask parents for permissions before going on a trip that lasts more than one night
-*   Should invite all widows from the community to dinner at least once every spring
-*   Should only shake olive trees once during harvest time, to keep the fallen fruit for orphans and the poor
-*   Ketubot 5:6 “**The set interval defining the frequency of a husband’s conjugal obligation to his wife stated in the Torah** (see Exodus 21:10), unless the couple stipulated otherwise, **varies according to the man’s occupation and proximity to his home**: Men of leisure, who do not work, must engage in marital relations every day, laborers must do so twice a week, donkey drivers once a week, camel drivers once every thirty days, and sailors once every six months. This is the statement of Rabbi Eliezer.”
+* Not allowed to sit at the table before feeding the goats and camels
+* Should ask parents for permissions before going on a trip that lasts more than one night
+* Should invite all widows from the community to dinner at least once every spring
+* Should only shake olive trees once during harvest time, to keep the fallen fruit for orphans and the poor
+* Ketubot 5:6 “**The set interval defining the frequency of a husband’s conjugal obligation to his wife stated in the Torah** (see Exodus 21:10), unless the couple stipulated otherwise, **varies according to the man’s occupation and proximity to his home**: Men of leisure, who do not work, must engage in marital relations every day, laborers must do so twice a week, donkey drivers once a week, camel drivers once every thirty days, and sailors once every six months. This is the statement of Rabbi Eliezer.”
 
 De Botton grants that libertarian theoreticians would agree that the recommendations of the Mishna are admirable, but would condemn any attempt to make them into laws. They see such issues as individual matters i.e. “Who are you to tell me what to do?”.
 
@@ -138,8 +137,8 @@ Maybe you’ve sometimes sought guidance from Rationalist Saints [[13]](https://
 
 De Botton asks: how will people discover meaning and learning to behave in the absence of a religious paradigm? His answer: “Culture can replace scripture.” To best achieve that, he proposes that the universities of the future should sort information into useful categories:
 
-*   _Anna Karenina_ and _Madame Bovary_ would offer insights into tensions that arise in a marriage instead of the narrative tendencies in the fiction of the 19th century
-*   Epicurus and Seneca would be consulted for considering the prospect of our death instead of just being part of a summary of hellenistic philosophy
+* _Anna Karenina_ and _Madame Bovary_ would offer insights into tensions that arise in a marriage instead of the narrative tendencies in the fiction of the 19th century
+* Epicurus and Seneca would be consulted for considering the prospect of our death instead of just being part of a summary of hellenistic philosophy
 
 He encourages not just reorganizing the curriculum with courses about loneliness, a new perspective on careers, improving relationships with children, a better appreciation of nature, how to handle sickness, but also structures such as The Department of Interpersonal Relationships. The Institute for the Science of Dying, The Center for Self-knowledge
 
@@ -167,9 +166,9 @@ The extent of Christianity’s appreciation of great speakers is shown by mentio
 
 There are no samples from any of the Franciscan monk’s speeches, but de Botton offers some samples of witticisms from John Dane, jacobin poet and vicar of Saint Paul’s Cathedral:
 
-*   “Age is a sickness, and youth is a limitation”
-*   “If you avoid fear, you also avoid true love.”
-*   “I crawl on the floor of my room and invoke God and His Angels, and when they arrive, I forget God and his angels because of the buzzing of a fly, the sound of a cart or the creak of a door.”
+* “Age is a sickness, and youth is a limitation”
+* “If you avoid fear, you also avoid true love.”
+* “I crawl on the floor of my room and invoke God and His Angels, and when they arrive, I forget God and his angels because of the buzzing of a fly, the sound of a cart or the creak of a door.”
 
 De Botton encourages university lectures to aim for the level of passion displayed by African American preachers in Baptist and Pentecostal churches.
 
@@ -199,9 +198,9 @@ The schedule of spiritual exercises is not meant to “encroach on freedom, but 
 
 These examples are used by de Botton to show that, unlike modern universities, religions do not limit the educational process to
 
-*   A fixed time period
-*   A specific place
-*   A single format
+* A fixed time period
+* A specific place
+* A single format
 
 ## Pessimism
 
@@ -209,9 +208,9 @@ I remember feeling cheated about the promise at finding peace by listening to a 
 
 Blaise Pascal had a lot of faith in God, but very little in people. His bleak view of human nature is on display in _Pensées_:
 
-*   “A trifle consoles us because another trifle upsets us.”
-*   “How many kingdoms know nothing about us.”
-*   “The greatness of man is that of knowing that he is that he knows himself to be miserable.”
+* “A trifle consoles us because another trifle upsets us.”
+* “How many kingdoms know nothing about us.”
+* “The greatness of man is that of knowing that he is that he knows himself to be miserable.”
 
 You might be familiar with the equation _Happiness = Reality - Expectations_.
 
@@ -225,9 +224,9 @@ According to de Botton, the domain of marriage could benefit from a philosophy p
 
 De Botton supports his statement with excerpts from the Authorised Daily Prayer book of Jewish congregations in the United Kingdom, which contains a specific prayer for each of the following:
 
-*   The first time eating a seasonal fruit in a year
-*   When buying clothes
-*   To encourage admiration of the digestive system
+* The first time eating a seasonal fruit in a year
+* When buying clothes
+* To encourage admiration of the digestive system
 
 ## Putting your personal woes in perspective
 
@@ -279,12 +278,12 @@ In contrast, de Botton describes Catholicism as claiming that we need to surroun
 
 On the backcover of my edition of “Religion for Atheists”, the short biographical section claims that Alain de BottonIn is a member of the Royal Institute for British Architects. Digging deeper, I found that in 2011 the mentioned organization recognized his design for Balancing Barn in Suffolk[[16]](https://www.speakerscorner.co.uk/blog/alain-de-botton-wins-architecture-accolade), which was built as part of the Living Architecture project that de Botton founded in 2006. For £1200, the barn grants up to 8 guests the following amenities for 4 nights[[17]](https://www.living-architecture.co.uk/the-houses/balancing-barn/overview/):
 
-*   Striking cantilevered house with glass floor, walls and skylights.
-*   Six acres of private gardens and terraces to eat, cook (outdoor fire-pit) and play.
-*   The only swing suspended from underneath a house (in Suffolk).
-*   Wonderful traditional pubs and restaurants nearby.
-*   For up to eight guests of all ages, and within easy reach of local transport networks.
-*   Four bedrooms, each with an en-suite bathroom.
+* Striking cantilevered house with glass floor, walls and skylights.
+* Six acres of private gardens and terraces to eat, cook (outdoor fire-pit) and play.
+* The only swing suspended from underneath a house (in Suffolk).
+* Wonderful traditional pubs and restaurants nearby.
+* For up to eight guests of all ages, and within easy reach of local transport networks.
+* Four bedrooms, each with an en-suite bathroom.
 
 The Living Architecture project includes 6 other houses you can book, as well as a currently closed single-bedroom installation located in the Southbank area of London. The stated mission of Living Architecture is to encourage an appreciation for modern architecture.
 

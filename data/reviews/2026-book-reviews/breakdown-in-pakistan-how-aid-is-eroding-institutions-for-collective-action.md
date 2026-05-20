@@ -1,7 +1,7 @@
 ---
 title: 'Breakdown in Pakistan: How Aid Is Eroding Institutions for Collective Action'
 author: Unknown
-reviewAuthor: Joel Hafvenstein
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-actio
 wordCount: 8327
 readingTimeMinutes: 38
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1jzlUbhjGy6-HYy5OZ5qQo2HGFG1qPHQeuzS26G1FBbc
 tags:
   - Politics
   - Society
@@ -89,10 +88,10 @@ I passed hundreds of broken-down drinking water tap-stands and pipe systems, ren
 
 Overall, I came to recognize a global machine that systematically:
 
-*   sought out organizations with high capacity to mobilize local collective action;
-*   gutted them of that capacity, in exchange for a new role as professional project implementers and grant managers;
-*   tried to build new project-specific village committees as an artificial (and desperately inadequate) substitute; and finally
-*   withdrew funding, leading to the collapse of both the previous institutions and the ersatz ones we’d built up in their place.
+* sought out organizations with high capacity to mobilize local collective action;
+* gutted them of that capacity, in exchange for a new role as professional project implementers and grant managers;
+* tried to build new project-specific village committees as an artificial (and desperately inadequate) substitute; and finally
+* withdrew funding, leading to the collapse of both the previous institutions and the ersatz ones we’d built up in their place.
 
 We were late-stage German foresters, belatedly trying to import an ant colony or fungi after our monoculture had already devastated the soil ecology.
 

@@ -1,7 +1,7 @@
 ---
 title: The War Nerd Iliad
 author: Unknown
-reviewAuthor: Victor Trenchard
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-war-nerd-iliad
 wordCount: 4498
 readingTimeMinutes: 20
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1SwU0DvgVIgcCFj3MvVNmpDUdT-cAYaZFtAcs-SG5kc8
 tags:
   - Fiction
 ---

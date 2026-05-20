@@ -1,21 +1,20 @@
 ---
 title: Richard C. Schwartz's "No Bad Parts"
 author: Unknown
-reviewAuthor: Frank Said
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T15:17:25.000Z'
 slug: richard-c-schwartzs-no-bad-parts
-wordCount: 4783
+wordCount: 4784
 readingTimeMinutes: 22
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1HuvNtqUt9WGihGw3-cTQbcbrLkIrK_gFIK9om2aT4io
 tags:
   - Psychology
 ---
 
-**Cast of Characters:**
+## Cast of Characters:
 
 Manager (MN): an intellectual, age 36  
 Firefighter (FF): a skeptic, age 36  
@@ -32,20 +31,20 @@ A cozy, book-strewn office inside Frank's head
 
 Hmm, yes, some good points to review here at the beginning:
 
-*   Schwartz puts forth a "multiplicity" model of the mind which claims that humans are all composed of various "parts," or subpersonalities, that arise at different moments in our development and serve different roles within our "internal family system."
-*   The main categories of parts are Exiles, Managers, Firefighters, and Self.
-*   Exiles are sensitive, vulnerable parts that are created and then "frozen in time," usually when we are young and in response to trauma, abuse, neglect, or general hardship; Exiles hold extreme beliefs or "burdens" that we repress because we don't want to experience the intense and often painful thoughts and emotions that arise when Exiles express themselves.
-*   Managers are protective parts that take care of business and try to arrange everything so Exiles don't get triggered.
-*   Firefighters are also protective parts, but their job is the rush in and do damage control when Managers fail and Exiles get triggered.
-*   Protective parts carry "burdens" as well, which tend to be extreme beliefs about bad things that will happen if they don't keep Exiles contained.
-*   Then there's this last part, a special part, called the Self. The Self is like a person's "essence," the natural leader of the internal family system. Self has a lot of great qualities, which for some reason all start with the letter "C": Curiosity, Calmness, Confidence, Compassion, Creativity, Clarity, Courage, and Connectedness.
-*   There are "no bad parts." All parts should be loved, accepted, and given chances to grow and flourish. Through Self-leadership, even parts that have caused dysfunction and/or harm can be unburdened, healed, given new jobs, and appropriately integrated into one's internal family system.
-*   The central goals of IFS are as follows:
+* Schwartz puts forth a "multiplicity" model of the mind which claims that humans are all composed of various "parts," or subpersonalities, that arise at different moments in our development and serve different roles within our "internal family system."
+* The main categories of parts are Exiles, Managers, Firefighters, and Self.
+* Exiles are sensitive, vulnerable parts that are created and then "frozen in time," usually when we are young and in response to trauma, abuse, neglect, or general hardship; Exiles hold extreme beliefs or "burdens" that we repress because we don't want to experience the intense and often painful thoughts and emotions that arise when Exiles express themselves.
+* Managers are protective parts that take care of business and try to arrange everything so Exiles don't get triggered.
+* Firefighters are also protective parts, but their job is the rush in and do damage control when Managers fail and Exiles get triggered.
+* Protective parts carry "burdens" as well, which tend to be extreme beliefs about bad things that will happen if they don't keep Exiles contained.
+* Then there's this last part, a special part, called the Self. The Self is like a person's "essence," the natural leader of the internal family system. Self has a lot of great qualities, which for some reason all start with the letter "C": Curiosity, Calmness, Confidence, Compassion, Creativity, Clarity, Courage, and Connectedness.
+* There are "no bad parts." All parts should be loved, accepted, and given chances to grow and flourish. Through Self-leadership, even parts that have caused dysfunction and/or harm can be unburdened, healed, given new jobs, and appropriately integrated into one's internal family system.
+* The central goals of IFS are as follows:
 
-*   Liberate parts from roles they've been forced into, so they can be who they're designed to be.
-*   Restore trust in the Self and Self-leadership.
-*   Reharmonize the inner family system.
-*   Become more Self-led in your interactions with the world
+* Liberate parts from roles they've been forced into, so they can be who they're designed to be.
+* Restore trust in the Self and Self-leadership.
+* Reharmonize the inner family system.
+* Become more Self-led in your interactions with the world
 
 Wow, that Self part sounds really amazing...obviously that's me! I've done such a great job over the years of keeping Frank focused on improving himself, and more and more he's been showing those "C" qualities in recent years. Boy, I sure am a terrific Self––Frank is lucky to have me! Okay, so far so good. Let's go deeper and learn more about how IFS works...
 

@@ -1,7 +1,7 @@
 ---
 title: Prior Analytics
 author: Unknown
-reviewAuthor: Robert Hall
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: prior-analytics
 wordCount: 8165
 readingTimeMinutes: 37
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1OoYCzdZAsZKM8jn1QqgnFspmS6OSvOWPKLz0ncaViPg
 tags:
   - Philosophy
 ---

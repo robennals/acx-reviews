@@ -1,7 +1,7 @@
 ---
 title: Lee Kuan Yew’s Memoirs
 author: Unknown
-reviewAuthor: Shaked
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: lee-kuan-yews-memoirs
 wordCount: 7367
 readingTimeMinutes: 33
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1kLm_VmUIbkVtiFzH2HjZgaC_RjJV8J4OSkCU-A9-rM4
 tags:
   - Memoir
   - Politics
@@ -26,7 +25,7 @@ These books are part autobiography, part political memoir, part rationalist powe
 
 Except that Lee goes ahead and does exactly that. He passes reasonable, economically-optimal policies and they work out so well that the economy booms and his party keeps winning massive supermajority elections for decades. When a race riot almost breaks out over malay recruits getting turned out of the army during high unemployment, he calmly shows up, picks up a megaphone and explains to everyone that this is all a misunderstanding, there’s no policy against employing malays in the army and they’ll all be processed and get jobs when they come back tomorrow. Everyone understands how reasonable he’s being, calm down, and sort things out the next day.
 
-At another point he handles chinese-malay tensions by writing an epic Scott-length blog post giving an epic speech to the Malaysian parliament about how the new Malaysia needs to be less obsessed with zero-sum culture wars and focus on pragmatic economic policy and even the die-hard Malays stand up and clap[4].
+At another point he handles chinese-malay tensions by ~~writing an epic Scott-length blog post~~ giving an epic speech to the Malaysian parliament about how the new Malaysia needs to be less obsessed with zero-sum culture wars and focus on pragmatic economic policy and even the die-hard Malays stand up and clap[4].
 
 All of which raises the question: How did he actually do all this? Each book covers a seemingly-impossible task (the first, going from middle-class teenager with no connections to Prime Minister of your own country; the second, taking a third-world island nation with no natural resources into one of the richest countries in the world) that we might do well to learn from. The book implicitly offers one explanation - just be consistently brilliant, charismatic[5], incredibly detail-oriented, honest, hardworking,and pragmatic continuously for decades while also having your share of good luck. Still, let’s take a look at the details.
 

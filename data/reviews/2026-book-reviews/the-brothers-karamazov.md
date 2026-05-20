@@ -1,7 +1,7 @@
 ---
 title: The Brothers Karamazov
 author: Unknown
-reviewAuthor: Ybdel
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-brothers-karamazov
 wordCount: 1155
 readingTimeMinutes: 6
 source: gdoc
-originalUrl: https://docs.google.com/document/d/108_YUwA4rX4yfjXamAZ5jj-1XXaMMvZd4u3jJcJFS4k
 tags:
   - Fiction
 ---

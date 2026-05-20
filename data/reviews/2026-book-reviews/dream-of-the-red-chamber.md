@@ -1,7 +1,7 @@
 ---
 title: Dream of the Red Chamber
 author: Unknown
-reviewAuthor: Cici
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: dream-of-the-red-chamber
 wordCount: 4600
 readingTimeMinutes: 21
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1kxL8Pf17JyvTZIftMZvY4HcfcSw-06GI_ZvU1t5wYcs
 tags:
   - Fiction
 ---

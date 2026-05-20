@@ -1,7 +1,7 @@
 ---
 title: The Short, Swift Time of Gods on Earth
 author: Unknown
-reviewAuthor: David Speiser
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-short-swift-time-of-gods-on-earth
 wordCount: 10080
 readingTimeMinutes: 45
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1Ihxo7JJCHuwJf4LUOOVBcSB-z5STarJmW1llMGhoK5Q
 tags:
   - History
   - Society
@@ -145,14 +144,14 @@ Bahr’s primary interest is in the development of myth, and in how myth evolves
 
 But _my_ primary interest in reading this book, and in reviewing it now, is to find out if all those articles on the upcoming collapse of Phoenix are correct. If the Hohokam were fools to try and build a civilization in the desert, if it destroyed them just as it is destroying us, if there was anything they could have done to stop it, and if it’s too late for us. So before we get into the chronicle, I want to share my expectations. Maybe you should come up with some, too. This is Indian mythology passed down via oral tradition over half a millennium, so we shouldn’t expect a straightforward account of “in the year 1346 C.E., the salinity content of the irrigation ditches stemming from the Salt River became too high for the plants to handle”. But we should expect _something_ about water. So here are my prior expectations:
 
-1.  If the Hohokam collapse was due to an extended drought, we should expect that the mythology will mention that the rivers and canals dried up. The reason behind the drying will likely be due to the anger of some deity/deities, but there should be some mention of drying.
-2.  If the Hohokam collapse was due to waterlogging and increased salinity, we should expect that the mythology will mention that the crops were poisoned, or that they were killed by some god or spirit.
-3.  If the Hohokam collapse was due to external conflict unrelated to water issues, we should expect that the mythology will mention neither of these.
+1. If the Hohokam collapse was due to an extended drought, we should expect that the mythology will mention that the rivers and canals dried up. The reason behind the drying will likely be due to the anger of some deity/deities, but there should be some mention of drying.
+2. If the Hohokam collapse was due to waterlogging and increased salinity, we should expect that the mythology will mention that the crops were poisoned, or that they were killed by some god or spirit.
+3. If the Hohokam collapse was due to external conflict unrelated to water issues, we should expect that the mythology will mention neither of these.
 
 And we should also have a baseline to ensure that the mythology has some relation to reality. The two main things we know about the Hohokam from archaeology are that they had large irrigation networks and Mesoamerican-style ball courts. If this is a reliable retelling of the Hohokam experience, these things should be involved. So, two more priors:
 
-4.  We should expect that irrigation networks play some role in the story.
-5.  We should expect some mention of ritual ballgames.
+4. We should expect that irrigation networks play some role in the story.
+5. We should expect some mention of ritual ballgames.
 
 With these in mind, let’s begin.
 

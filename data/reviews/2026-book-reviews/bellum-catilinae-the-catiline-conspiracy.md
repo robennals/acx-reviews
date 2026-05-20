@@ -1,7 +1,7 @@
 ---
 title: Bellum Catilinae -- The Catiline Conspiracy
 author: Unknown
-reviewAuthor: Dylan Black
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: bellum-catilinae-the-catiline-conspiracy
 wordCount: 7323
 readingTimeMinutes: 33
 source: gdoc
-originalUrl: https://docs.google.com/document/d/14crxbVzgORGo6U-xCInVt8dBqmnxDfVfwtgBStqA6TQ
 tags:
   - History
 ---

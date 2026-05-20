@@ -1,24 +1,23 @@
 ---
 title: Der Untergang des Abendlandes
 author: Unknown
-reviewAuthor: Johannes Norrman
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T09:10:12.000Z'
 slug: der-untergang-des-abendlandes
-wordCount: 6538
+wordCount: 6540
 readingTimeMinutes: 30
 source: gdoc
-originalUrl: https://docs.google.com/document/d/18jOaaZ2uGLRuy1to5F7gMfIsbbb5iPHQx968CVU9bdA
 tags:
   - History
   - Philosophy
 ---
 
-Flik 1
+## Flik 1
 
-Book Review: _Der Untergang des Abendlandes_ by Oswald Spengler
+## Book Review: Der Untergang des Abendlandes by Oswald Spengler
 
 > _“Before I draw nearer to that stone to which you point," said Scrooge, "answer me one question. Are these the shadows of the things that Will be, or are they shadows of things that May be, only?”_
 

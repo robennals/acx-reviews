@@ -1,23 +1,22 @@
 ---
 title: From Here to Equality
 author: Unknown
-reviewAuthor: Froolow
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:42:25.000Z'
 slug: from-here-to-equality
-wordCount: 10327
+wordCount: 10323
 readingTimeMinutes: 46
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1KYjaAZ3Q7CDx32LUYFuj5V0LeaTHVE2u5ef8QGtryDE
 tags:
   - Economics
   - History
   - Politics
 ---
 
-> _Reparations for Black Americans in the Twenty-First Century_
+## Reparations for Black Americans in the Twenty-First Century
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/32dcdb9106484972.png)
 
@@ -43,7 +42,7 @@ In this review I will **not** defend that reading; instead, I will set out D&M�
 
 I’m positioning this review in the grand rationalist tradition of being a ‘tax on bullshit’. If your own methodological choices indicate that reparations on the D&M model would be welfare-enhancing for you, but your stated position is that you oppose them, then something other than rational logic is making that position sticky for you. If you are not arriving at your beliefs logically, then this is a gap which is important to examine.
 
-1.  # D&M’s model of reparations
+1. # D&M’s model of reparations
     
 
 ## 1.1 – What are the harms of slavery?
@@ -66,8 +65,8 @@ By describing the harms of slavery as being about stolen value, D&M defuse two e
 
 The two kinds of harm map on to a framework D&M introduce for two kinds of redress:
 
-*    **Atonement** is “when perpetrators or beneficiaries meet conditions of forgiveness that are acceptable to the victims” (_FHtE_, pp33). This maps to the first kind of harm, where the moral horror of slavery is the thing that must be apologised for.
-*    **Restitution** is “the restoration of … a condition [victims] might have attained had the injustice not taken place” (_FHtE_, pp33). This links directly to the second kind of harm of slavery; there exists money in the world which rightfully belongs to the descendants of enslaved people, and reparations is returning that money.
+* **Atonement** is “when perpetrators or beneficiaries meet conditions of forgiveness that are acceptable to the victims” (_FHtE_, pp33). This maps to the first kind of harm, where the moral horror of slavery is the thing that must be apologised for.
+* **Restitution** is “the restoration of … a condition [victims] might have attained had the injustice not taken place” (_FHtE_, pp33). This links directly to the second kind of harm of slavery; there exists money in the world which rightfully belongs to the descendants of enslaved people, and reparations is returning that money.
 
 D&M point out that these two kinds of redress need not be mutually exclusive, but that in practice “there is no existing mechanism for establishing when African Americans collectively will have reached an agreement that sufficient steps have been taken to justify forgiveness” (_FHtE_, pp33). As such, atonement isn’t really a methodologically appropriate measure. This is a notable concession to the conservative side, and really emphasises to me how serious D&M are about getting reparations done vs selling books to left-wing critics who already agree with them.
 
@@ -77,11 +76,11 @@ This leaves us with restitution, and D&M propose that restoring black people to 
 
 D&M argue that there are three main eras of slavery, each of which has locked black people out of wealth formation to different degrees.
 
-1.      Slavery itself, which lasts from the early American colonial period to the Civil War. In this period the labour of enslaved people was being actively stolen, meaning they accrued next to no wealth, and were completely locked out of capital markets
+1. Slavery itself, which lasts from the early American colonial period to the Civil War. In this period the labour of enslaved people was being actively stolen, meaning they accrued next to no wealth, and were completely locked out of capital markets
 
-2.      Jim Crow era, which lasts from the Civil War to the 1960s. In this period black people were systematically discriminated against meaning that whatever wealth they were able to accumulate was not able to be leveraged as hard as white contemporaries
+2. Jim Crow era, which lasts from the Civil War to the 1960s. In this period black people were systematically discriminated against meaning that whatever wealth they were able to accumulate was not able to be leveraged as hard as white contemporaries
 
-3.      Modern era, which lasts from the 1960s until reparations are paid at some point in the future. There are no legal barriers to black wealth compounding (though the legacy of the previous two eras means that social and cultural barriers still exist). However, black people will never catch up to white people because they start from such an unequal initial endowment.
+3. Modern era, which lasts from the 1960s until reparations are paid at some point in the future. There are no legal barriers to black wealth compounding (though the legacy of the previous two eras means that social and cultural barriers still exist). However, black people will never catch up to white people because they start from such an unequal initial endowment.
 
 I think they have in mind a model a bit like the below, where white people earn a fixed real income each year (which they invest and compounds) but black people only reach that stage in 1965. Therefore, even if there was exact equality between black and white people today, the legacy of slavery would be the gap between the red and black lines.
 
@@ -91,7 +90,7 @@ I think they have in mind a model a bit like the below, where white people earn 
 
 <figcaption>
 
-> _Conceptual diagram of D&M’s argument for how a wealth gap arises over the three eras of slavery_
+_Conceptual diagram of D&M’s argument for how a wealth gap arises over the three eras of slavery_
 
 </figcaption>
 
@@ -111,7 +110,7 @@ D&M calculate this gap as $14tn, which is in line with modern attempts to quanti
 | D&M (2020) | Value of black-white wealth gap | $14.0tn |
 | Craemer (2015) | Value of stolen time (24h day) costed at average prevailing market wage | $17tn |
 
-2.  # Key methodological challenges to the $14tn figure
+2. # Key methodological challenges to the $14tn figure
     
 
 Many conservative responses to pro-reparations advocates have essentially conceded the methodological point about the total reparations bill being very high, and instead argue exclusively about the morality of repayments – “Yes the cost of reparations would be [BigNum], but we shouldn’t have to pay because [reason]”. I don’t understand why they have made this concession; if there is one thing economists love, it is creating different ways to measure exactly the same thing, and the multiplicity of different ways of measuring the wealth gap creates an opportunity for the two sides to negotiate about what the most appropriate final bill for reparations actually is.
@@ -128,9 +127,9 @@ Almost every serious academic study of wealth uses **median** household wealth a
 
 D&M argue for bucking this trend and using the **mean** household wealth in calculating the wealth gap. This is for two reasons:
 
-1.      “The intense degree of concentration of wealth in the United States.” (_FHtE_, pp15). The USA has a very skewed wealth distribution. D&M inform us that households with above median wealth own 97% of all wealth (because below the median there is a lot of debt, i.e. ‘negative wealth’). They point out that “targeting the median gap excludes from consideration an overwhelming share of white wealth” (_FHtE_, pp15) and it is inconsistent with trying to return stolen wealth if you ignore a massive proportion of that wealth just because some crusty methodologists prefer median to mean.
+1. “The intense degree of concentration of wealth in the United States.” (_FHtE_, pp15). The USA has a very skewed wealth distribution. D&M inform us that households with above median wealth own 97% of all wealth (because below the median there is a lot of debt, i.e. ‘negative wealth’). They point out that “targeting the median gap excludes from consideration an overwhelming share of white wealth” (_FHtE_, pp15) and it is inconsistent with trying to return stolen wealth if you ignore a massive proportion of that wealth just because some crusty methodologists prefer median to mean.
 
-2.      They also point out that focussing purely on billionaires like Elon Musk is a red herring (Elon Musk walks into a crowded bar; everyone is now a billionaire by mean wealth); one quarter of white households have a net worth >$1m, and “significant relative differences in wealth exist at all points along the income distribution” (_FHtE_, pp16).
+2. They also point out that focussing purely on billionaires like Elon Musk is a red herring (Elon Musk walks into a crowded bar; everyone is now a billionaire by mean wealth); one quarter of white households have a net worth >$1m, and “significant relative differences in wealth exist at all points along the income distribution” (_FHtE_, pp16).
 
 The upshot of this, however, is that the choice of mean or median makes a big difference to the total repayment. Median wealth produces a systematically lower estimate of the wealth gap because it ignores outliers, and outliers skew mean wealth upwards. By D&M’s own numbers, the black-white wealth gap is $350,000 using the mean figure and only $164,100 using the median figure.
 
@@ -166,7 +165,7 @@ Methodologically, this story is complicated because household composition (size 
 
 <figcaption>
 
-> _Output of a simple polynomial regression model run on Fed wealth database_
+_Output of a simple polynomial regression model run on Fed wealth database_
 
 </figcaption>
 
@@ -223,9 +222,9 @@ D&M give a bit of stick to another left-wing author, Boris Bittker, for suggesti
 
 In the table below, I’ve been strict with myself that this review is about methodology only and we aren’t allowed to negotiate the decade timeline with D&M. I’ve also assumed D&M are not talking about waiting a decade for any payments – they want an annuity paying $1.4tn each year. Therefore, the only options I’m allowing you to consider as part of our _Cosmo_-esque letter recording approach are for D&M’s one decade repayments with methodological uncertainty over the social time preference rate (basically the way a government thinks about opportunity cost). However, as a little treat to myself, I’ve run a scenario with Bittker’s two decade plan so you can see it. I have selected three illustrative compounding rates:
 
-*   3.5% is the UK government’s calculation, which is based on extensive methodological [research](https://www.gov.uk/government/publications/green-book-discount-rate-review-2026).
-*   5% is the midpoint used for compounding in _FHtE_ (_FHtE,_ pp399)
-*   7% is the value used for the US Office of Management and Budget, and is [based on](https://www.whitehouse.gov/wp-content/uploads/2025/12/a094.pdf) the real rate of return of private capital.
+* 3.5% is the UK government’s calculation, which is based on extensive methodological [research](https://www.gov.uk/government/publications/green-book-discount-rate-review-2026).
+* 5% is the midpoint used for compounding in _FHtE_ (_FHtE,_ pp399)
+* 7% is the value used for the US Office of Management and Budget, and is [based on](https://www.whitehouse.gov/wp-content/uploads/2025/12/a094.pdf) the real rate of return of private capital.
 
 As a Brit, 7% seems like an unbelievably cavalier way of thinking about social time preference rates, but in fairness all our infrastructure is decaying around our ears so there’s potentially something to recommend the OMB approach.
 
@@ -237,7 +236,7 @@ As a Brit, 7% seems like an unbelievably cavalier way of thinking about social t
 | D | $1.4tn per year, 7% compounding | D&M's implicit view, using OMB compounding rate | 0.70 |
 | X | $0.7tn per year, 5% compounding | Don't pick this as D&M explicitly reject two decades, I just thought it was interesting illustratively! | 0.62 |
 
-3.  # Is welfare-enhancing trade possible?
+3. # Is welfare-enhancing trade possible?
     
 
 ## 3.1 – Capitalisation benefits of paying reparations
@@ -268,7 +267,7 @@ An imperfect proxy for the risk of undertaking the deal would be the length of t
 
 <figcaption>
 
-> _Visualisation of a Kaplan-Meier curve derived from the ATOP database_
+_Visualisation of a Kaplan-Meier curve derived from the ATOP database_
 
 </figcaption>
 
@@ -297,7 +296,7 @@ I have arranged some strings of five letters on the diagram below. The x-axis sh
 
 <figcaption>
 
-> _Possible reparation payments depending on methodological decisions taken during this review_
+_Possible reparation payments depending on methodological decisions taken during this review_
 
 </figcaption>
 
@@ -305,15 +304,15 @@ I have arranged some strings of five letters on the diagram below. The x-axis sh
 
 If you can’t find your specific string, you can either pick one which sort of looks the same or work out where you are exactly by multiplying the total $14tn bill under D&M by the ‘multiplier’ at each stage. For example, take the string TALOS, which is my best guess for what a ‘methodologically neutral’ approach would be in a vacuum. That is to say, for each choice, TALOS gives you a sort of default textbook approach. This creates the following chain of logic:
 
-*   Start at $14tn
-    *   Multiply by ‘T’ (0.47) because median wealth is the default number used by researchers = $6.56tn
-    *   Multiply by ‘A’ (0.59) because regression is the correct methodology to adjust for household age differences = $3.86tn
-    *   Multiply by ‘L’ (1.00) because net worth is the default instrument used by researchers = $3.86tn
-    *   Mulltiply by ‘O’ (1.00) because there’s no default methodology for calculating who is owed reparations, I reckon D&M are experts on the topic and they say ‘O’ = $3.86tn
-    *   Multiply by ‘S’ (0.83) because I’m British and His Majesty insists that I use a 3.5% social time preference rate = $3.21tn
+* Start at $14tn
+    * Multiply by ‘T’ (0.47) because median wealth is the default number used by researchers = $6.56tn
+    * Multiply by ‘A’ (0.59) because regression is the correct methodology to adjust for household age differences = $3.86tn
+    * Multiply by ‘L’ (1.00) because net worth is the default instrument used by researchers = $3.86tn
+    * Mulltiply by ‘O’ (1.00) because there’s no default methodology for calculating who is owed reparations, I reckon D&M are experts on the topic and they say ‘O’ = $3.86tn
+    * Multiply by ‘S’ (0.83) because I’m British and His Majesty insists that I use a 3.5% social time preference rate = $3.21tn
 
-*   End with $3.21tn, which divided across 342m Americans is a payment of $9,377 per American.
-*   This is narrowly more than the high end of the DEI offset (note that TALOS implicitly uses a 3.5% discount rate in the ‘S’ step, so it would be odd to change horses at this point). Therefore, paying reparations is welfare maximising if the option value of ending DEI is around $1,500.
+* End with $3.21tn, which divided across 342m Americans is a payment of $9,377 per American.
+* This is narrowly more than the high end of the DEI offset (note that TALOS implicitly uses a 3.5% discount rate in the ‘S’ step, so it would be odd to change horses at this point). Therefore, paying reparations is welfare maximising if the option value of ending DEI is around $1,500.
 
 I have highlighted some specific strings below which I think are of high interest for various reasons – they roughly tell a story of how reparations might look if D&M concede more and more methodological points. For illustrative purposes I have included a column where I show what 8x the cost per American, which roughly corresponds to the amount each recipient will get. However, this starts to get a bit complicated since a couple of the steps modify the denominator or the sequencing of payments such that individual black Americans might end up with significantly more than 8x the payment made by each other American, so treat it just as a guide for your intuition.
 
@@ -329,19 +328,19 @@ I have highlighted some specific strings below which I think are of high interes
 
 There are a few interesting points about this table:
 
-1.      First, you will be disappointed that none of these strings spell out something funny or apposite for their place in the table. Sadly, after multiple rounds of review and correction they are now essentially random, and none of my planned jokes survived. You can pretend to some kabbalistic significance with what remains if you wish.
+1. First, you will be disappointed that none of these strings spell out something funny or apposite for their place in the table. Sadly, after multiple rounds of review and correction they are now essentially random, and none of my planned jokes survived. You can pretend to some kabbalistic significance with what remains if you wish.
 
-2.      Second, you can see that D&M are much closer to a ‘reparations maximalist’ position of PINOT than they are to the majority of possible configurations of methodology. This isn’t perhaps all that surprising since D&M are very explicitly committed to reparations being a good thing, but it is worth noting.
+2. Second, you can see that D&M are much closer to a ‘reparations maximalist’ position of PINOT than they are to the majority of possible configurations of methodology. This isn’t perhaps all that surprising since D&M are very explicitly committed to reparations being a good thing, but it is worth noting.
 
-3.      Third, you can see that previous conservative suggestions for payments match up with approximately PALAS. For example, Ross Douthat proposed $10,000 to each black American to end Affirmative Action ($15,000 today), and Charles Krauthammer proposed $50,000 to each family of four (approximately $23,500 per person today). It is notable that these are **well** short of where D&M expect the final bill to be – D&M say “these are extremely low amounts to meet the debt owed to black America” (_FHtE,_ pp384). They are approximately as extreme compared to the ‘conservative maximalist’ approach of TARAD as D&M are to the ‘reparations maximalist’ approach of PINOT. This emphasises the point to me that liberals and conservatives have barely even begun to explore the space in between where a genuinely welfare-enhancing deal could live.
+3. Third, you can see that previous conservative suggestions for payments match up with approximately PALAS. For example, Ross Douthat proposed $10,000 to each black American to end Affirmative Action ($15,000 today), and Charles Krauthammer proposed $50,000 to each family of four (approximately $23,500 per person today). It is notable that these are **well** short of where D&M expect the final bill to be – D&M say “these are extremely low amounts to meet the debt owed to black America” (_FHtE,_ pp384). They are approximately as extreme compared to the ‘conservative maximalist’ approach of TARAD as D&M are to the ‘reparations maximalist’ approach of PINOT. This emphasises the point to me that liberals and conservatives have barely even begun to explore the space in between where a genuinely welfare-enhancing deal could live.
 
-4.      Finally, you can see a TALOD and SILAS approximately bracket the range where the cost of paying the reparations bill is exactly offset by the economy-wide benefits of ending DEI. Of very high interest to me is that the ‘methodologically pure’ approach of TALOS I describe above lies only just above this crossover point – that is to say, there’s a sort of plausible default position which needs only a tiny amount of actual negotiation (rather than methodological review) to make conservatives net better off. Switching the payment structure to two decades rather than one, for example, would be enough to do it.
+4. Finally, you can see a TALOD and SILAS approximately bracket the range where the cost of paying the reparations bill is exactly offset by the economy-wide benefits of ending DEI. Of very high interest to me is that the ‘methodologically pure’ approach of TALOS I describe above lies only just above this crossover point – that is to say, there’s a sort of plausible default position which needs only a tiny amount of actual negotiation (rather than methodological review) to make conservatives net better off. Switching the payment structure to two decades rather than one, for example, would be enough to do it.
 
 Although there are some strings like TARAD which are nearly certain to be offset by the cost of DEI, the majority of results lie in the orange zone like TALOS; they are close to being offset by the DEI rebate, but not quite there. We must consider here the non-monetary benefits of ending DEI from the conservative perspective. After all, when most conservatives argue for an end to DEI they are not thinking about whether the UK or US social time preference value best represents the capitalisation costs of economic drag, they are expressing a moral belief that – for example – hiring decisions should not weight race as a factor. We might think of this as the ‘option value’ of ending DEI. This will be different for each different conservative, but my personal opinion is that it could easily raise to encompass at least the orange zone for a typical conservative. Consider:
 
-*   **Ending DEI would be a straightforward aesthetic improvement for most conservatives**. Ending DEI gives them significant ‘option value’. This is hard to quantify, but I would observe that American conservatives seem comfortable supporting expensive policies for purely social / cultural reasons. Democrats claim Americans are spending around [$1,200 per year](https://www.jec.senate.gov/public/_cache/files/a91a6318-8fce-4d3c-9686-2ad2ca7b6fba/jec-fact-sheet-on-cost-of-tariffs-for-families.pdf) to pay for Trump’s tariffs, so it seems that the floor on supporting economically harmful policies in exchange for cultural victories is at least the net present value of $1,200/year for conservatives. This alone would add $17,000 - $34,000 to the value each conservative gets out of ending DEI.
-*   **Paying reparations changes the political calculus.** Black Americans form a permanent and predictable Democrat voting bloc, which makes it harder for conservative governments to win power. At least part of the persistence of this bloc is because Democrats have positioned themselves as the party of race-specific policies.
-*   **Small-government conservatives in particular** must never set the precedent that “any society can delay the provision of reparations until all of its direct victims have died” (_FHtE,_ pp385). The government has a strong incentive to violate your rights if they can get away with it and a time horizon that makes waiting until you are dead a reasonable prospect. If rights were violated, repayment must be made to avoid moral hazard – and you might be the beneficiary of that rule one day. So, a little value is added to the deal for conservatives by reinforcing the norm of the government being punished for violating rights which are explicitly enumerated in the Constitution.
+* **Ending DEI would be a straightforward aesthetic improvement for most conservatives**. Ending DEI gives them significant ‘option value’. This is hard to quantify, but I would observe that American conservatives seem comfortable supporting expensive policies for purely social / cultural reasons. Democrats claim Americans are spending around [$1,200 per year](https://www.jec.senate.gov/public/_cache/files/a91a6318-8fce-4d3c-9686-2ad2ca7b6fba/jec-fact-sheet-on-cost-of-tariffs-for-families.pdf) to pay for Trump’s tariffs, so it seems that the floor on supporting economically harmful policies in exchange for cultural victories is at least the net present value of $1,200/year for conservatives. This alone would add $17,000 - $34,000 to the value each conservative gets out of ending DEI.
+* **Paying reparations changes the political calculus.** Black Americans form a permanent and predictable Democrat voting bloc, which makes it harder for conservative governments to win power. At least part of the persistence of this bloc is because Democrats have positioned themselves as the party of race-specific policies.
+* **Small-government conservatives in particular** must never set the precedent that “any society can delay the provision of reparations until all of its direct victims have died” (_FHtE,_ pp385). The government has a strong incentive to violate your rights if they can get away with it and a time horizon that makes waiting until you are dead a reasonable prospect. If rights were violated, repayment must be made to avoid moral hazard – and you might be the beneficiary of that rule one day. So, a little value is added to the deal for conservatives by reinforcing the norm of the government being punished for violating rights which are explicitly enumerated in the Constitution.
 
 I propose that under most methodological assumptions, and especially under the scenarios which are most defensible under scrutiny, the financial impact of ending DEI alone does not quite justify paying reparations. However, there are a number of powerful but hard-to-quantify benefits pushing in the direction of paying reparations. Taken together, it seems highly likely to me that most conservatives would agree that paying reparations on D&M’s framing would be welfare-enhancing for them.
 
@@ -357,8 +356,8 @@ Because _FHtE_ was the focus of this review I have been quite critical of D&M. T
 
 My stated goal of this review was to act as something of a ‘tax on bullshit’. If you followed along at home, writing down letters and considering your position at each junction, you will be left with a number that is likely much smaller than $14tn. What you do with this number dictates how strongly you cleave to rationalist virtues. I think this number puts an anti-DEI conservative on the prongs of a dilemma. I believe such a conservative must:
 
-*   Accept that paying reparations would leave them personally better off, and support it.
-*   Accept that paying reparations would **not** leave them personally better off, and therefore accept that their anger at DEI is mostly performative.
+* Accept that paying reparations would leave them personally better off, and support it.
+* Accept that paying reparations would **not** leave them personally better off, and therefore accept that their anger at DEI is mostly performative.
 
 Of course, there’s an escape from the dilemma, but you might not like it: a common conservative belief about reparations is that advocates are fundamentally unserious. They might feel strong emotions that reparations should be paid, but the amounts they are asking for are so ridiculously foolish that it is the duty of the adults in the room (conservatives) to prevent them from causing such economic harm to the nation. Rejecting this dilemma turns that belief on its head; in fact, _conservatives_ are the ones who are refusing an economically efficient deal, because of strong emotive beliefs about some sacred value they are unwilling to trade. This is a complete reversal of the way reparations are usually discussed. It is also, as far as I can see, the price of escaping the dilemma my reading of _FHtE_ eventually presents.
 

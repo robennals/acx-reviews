@@ -1,7 +1,7 @@
 ---
 title: A Game Of Thrones
 author: Unknown
-reviewAuthor: Corentin Sombstay
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: a-game-of-thrones
 wordCount: 1221
 readingTimeMinutes: 6
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1XiyOyrvXm2YIhFLSsVoZ9v4c0eiiFkCfBwXMtLPgicQ
 tags:
   - Fiction
 ---

@@ -31,6 +31,14 @@ const turndownService = new TurndownService({
 // Remove Google Docs styling spans that add no value.
 // IMPORTANT: must not strip spans that wrap images, and must not strip
 // whitespace-only spans (see comment on the cheerio span cleanup).
+// Strikethrough: turn `<s>`/`<del>`/`<strike>` into markdown `~~text~~`.
+// remark-gfm parses `~~text~~` as `<del>` at render time. Without an
+// explicit rule, turndown emits the inner text and drops the tag.
+turndownService.addRule('strikethrough', {
+  filter: ['s', 'del', 'strike'],
+  replacement: (content) => content ? `~~${content}~~` : '',
+});
+
 // Preserve `<figure>` and `<figcaption>` as raw HTML wrappers around
 // markdown content. Generated upstream when we detect an image-caption
 // pair (image paragraph followed by a centered/italic paragraph). The
@@ -135,6 +143,10 @@ interface GDocStyleMap {
   // section headings that authors styled as underlined plain text
   // (e.g. "More Money Than God" uses underline-only for every section).
   underlineClasses: Set<string>;
+  // Classes with `text-decoration: line-through`. Used to preserve
+  // strikethrough text as markdown `~~text~~` (turned into `<del>` by
+  // remark-gfm at render time).
+  strikethroughClasses: Set<string>;
   // Classes with `text-align: center`. Used to detect image captions
   // styled as centered text (the conventional Google Docs caption style).
   centeredClasses: Set<string>;
@@ -176,12 +188,13 @@ function parseGDocStyles(html: string): GDocStyleMap {
   const italicClasses = new Set<string>();
   const largeFontClasses = new Set<string>();
   const underlineClasses = new Set<string>();
+  const strikethroughClasses = new Set<string>();
   const centeredClasses = new Set<string>();
   const indentClasses = new Set<string>();
   const classMargins = new Map<string, ClassMargins>();
 
   const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
-  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, centeredClasses, indentClasses, classMargins };
+  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins };
 
   const styleText = styleMatch[1];
 
@@ -205,6 +218,9 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/text-decoration\s*:\s*underline/.test(props)) {
       underlineClasses.add(cls);
     }
+    if (/text-decoration\s*:\s*line-through/.test(props)) {
+      strikethroughClasses.add(cls);
+    }
     if (/text-align\s*:\s*center/.test(props)) {
       centeredClasses.add(cls);
     }
@@ -222,7 +238,7 @@ function parseGDocStyles(html: string): GDocStyleMap {
     }
   }
 
-  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, centeredClasses, indentClasses, classMargins };
+  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins };
 }
 
 // True if every substantive (non-empty) span in the paragraph carries an
@@ -686,7 +702,7 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
-  if (styles.largeFontClasses.size > 0 && styles.boldClasses.size > 0) {
+  if (styles.largeFontClasses.size > 0) {
     $('p').each(function () {
       const p = $(this);
       const spans = p.find('span');
@@ -698,19 +714,24 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         if (!s.text().trim()) return; // skip whitespace-only spans
         hasSubstantive = true;
         const classes = (s.attr('class') || '').split(/\s+/);
-        const bold = classes.some(c => styles.boldClasses.has(c));
         const big = classes.some(c => styles.largeFontClasses.has(c));
-        if (!bold || !big) allBig = false;
+        // Bold no longer required — large-font alone is enough.
+        // Authors style section headings as large + possibly bold,
+        // large + italic, or large alone (e.g. The Marriage uses
+        // 16pt non-bold for "The Pledge" / "The Carrier" headings).
+        if (!big) allBig = false;
       });
       if (!hasSubstantive || !allBig) return;
       // Skip if already inside a heading.
       if (p.closest('h1, h2, h3, h4, h5, h6').length) return;
+      // Cap length — a long large-font passage is more likely an
+      // emphasized blockquote than a heading.
+      const text = p.text().trim();
+      if (!text || text.length > 200) return;
       // Build replacement <h2> preserving the inner text content. We
       // pull just the text so downstream `<strong>` wrapping won't
       // double-emphasize the heading text (markdown headings shouldn't
       // be re-bolded — `## **Title**` renders awkwardly).
-      const text = p.text().trim();
-      if (!text) return;
       p.replaceWith(`<h2>${text}</h2>`);
     });
   }
@@ -726,6 +747,25 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         // Don't wrap inside headings — they're already prominent.
         if (!el.closest('strong, b, h1, h2, h3, h4, h5, h6').length) {
           el.wrapInner('<strong></strong>');
+        }
+      }
+    });
+  }
+
+  // Strikethrough: wrap span contents in <s> when any class applies
+  // `text-decoration: line-through`. remark-gfm renders markdown
+  // `~~text~~` as `<del>`, which is the rendered analogue. The Marriage
+  // of Cadmus and Harmony uses strikethrough in its quotations
+  // (e.g. striking out an outdated book title) — without preservation
+  // those edits get silently dropped.
+  if (styles.strikethroughClasses.size > 0) {
+    $('span').each(function () {
+      const el = $(this);
+      const classes = (el.attr('class') || '').split(/\s+/);
+      const isStrike = classes.some(c => styles.strikethroughClasses.has(c));
+      if (isStrike && el.text().trim()) {
+        if (!el.closest('s, del, strike').length) {
+          el.wrapInner('<s></s>');
         }
       }
     });
@@ -875,6 +915,22 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       }
     }
     flushRun(siblings.length);
+
+    // Single-paragraph poem-block: a single `<p>` with a small-indent
+    // class and 5+ `<br>` inside is the same author intent as a run of
+    // many sibling `<p>` poem lines — just expressed with line-break
+    // markup instead of paragraph breaks. CS Lewis's "Joys that Sting"
+    // packs the entire 14-line poem into one `<p class="c2 c17">` with
+    // `<br>` between each verse line.
+    for (const block of siblings) {
+      const p = $(block);
+      if (p.attr('data-poem-run')) continue;
+      if (!hasSmallIndent(p)) continue;
+      const brCount = p.find('br').length;
+      if (brCount >= 5) {
+        p.attr('data-poem-run', '1');
+      }
+    }
 
     const isElementIndented = (el: ReturnType<typeof $>) => {
       if (el.attr('data-poem-run')) return true;
@@ -1032,6 +1088,16 @@ export function cleanupMarkdown(markdown: string): string {
     // setext-heading underline, which includes mid-line contexts like
     // "summary: \- The Ottoman Empire ...".
     .replace(/\\-/g, '-')
+    // Collapse multiple whitespace after a numbered- or bulleted-list
+    // marker. Google Docs sometimes uses a span with 5+ nbsps between
+    // the bullet/number and the content (visual hanging indent that
+    // replaces the standard list-item indent). After nbsp→space
+    // normalization those become 5+ regular spaces, and CommonMark
+    // treats the content as an INDENTED CODE BLOCK inside the list
+    // item — rendering "Peacocking" etc as monospace gray. Don't Bang
+    // Denmark is the canonical example. Collapse to a single space
+    // so the list item stays a normal list item.
+    .replace(/^(\s*(?:\*\*)?(?:\d+\.|[-*•])(?:\*\*)?) {2,}(?=\S)/gm, '$1 ')
     // Restore escaped blockquote markers at the start of a line. Turndown
     // emits `\>` when a `>`-character text fragment sits at the start of
     // a paragraph and could be mistaken for a blockquote marker. The
@@ -1478,10 +1544,14 @@ export function cleanupMarkdown(markdown: string): string {
       // in `.`, `!`, `,`, or `;`. For section-numbered headings (Roman numerals,
       // `Part N:`, `0.5.`, etc.), the trailing `.`, `?`, or `:` is part of the
       // title pattern, so we allow those.
+      // Headings rarely end with sentence-fragment punctuation like
+      // `,`, `;`, `!`. A trailing `.` is common in heading-style titles
+      // (e.g. "The Pledge." or "Conclusion."), so we allow it now —
+      // earlier rejection was too strict.
       if (isSectionNumbered) {
         if (/[!;,]$/.test(text)) continue;
       } else {
-        if (/[.!?:;,]$/.test(text)) continue;
+        if (/[!;,]$/.test(text)) continue;
       }
       // A line that starts or ends with an em/en-dash (or stray hyphen)
       // is almost always either a quote attribution (`– Author Name`)

@@ -1,16 +1,15 @@
 ---
 title: The History and Adventures of an Atom by Tobias Smollett
 author: Unknown
-reviewAuthor: Hal Johnson
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:40:53.000Z'
 slug: the-history-and-adventures-of-an-atom-by-tobias-smollett
-wordCount: 5995
+wordCount: 5997
 readingTimeMinutes: 27
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1s1we-4j-UxPtTKmrtKAzJXRa-3WwaHDj-VRMVZGdxOo
 tags:
   - Fiction
 ---
@@ -45,7 +44,7 @@ _1 Misemphasis_
 Early narratives—protonovel or novel—tend to place emphasis on the wrong (or “wrong”) things, or at least in the wrong proportions. In Thomas Nashe’s picaresque _The Unfortunate Traveller_ (1594), for example, we find [_CW for everything, because Nashe_] the following four entirely conventional and novelistic incidents:
 
 _1_ A murderer named Esdras rapes Heraclide (“a noble & chaste matrone”).  
-_2_ Heraclide, in shame, commits suicide.  
+> _2_ Heraclide, in shame, commits suicide.  
 _3_ Jack Wilton (the narrator and eponymous unfortunate traveler) is falsely accused of rape and murder. He is tried, found guilty, and sentenced to death. He is marching up to the gibbet to be hanged, when…  
 _4_ …the testimony of a passing Englishman frees him.
 
@@ -99,7 +98,7 @@ Tobias Smollett trained as and intermittently tried to make a living as a doctor
 
 He worked for it! Smollett wrote incessantly: plays, pamphlets, translations of _Don Quixote_, _Gil Blas_, and Voltaire’s “Micromegas,” and (his great success, at least from a pecuniary standpoint) the multivolume _Complete_ [!] _History of England_—in addition to his editorial work—but of course we are here to talk about his novels. _The History and Adventures of an Atom_ was his fifth, of six…
 
-_•The Adventures of Roderick Random_ (1748)  
+> _•The Adventures of Roderick Random_ (1748)  
 •_The Adventures of Peregrine Pickle_ (1751)  
 •_The Adventures of Ferdinand Count Fathom_ (1753)  
 •_The Life and Adventures of Sir Launcelot Greaves_ (1761)  

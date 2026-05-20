@@ -1,16 +1,15 @@
 ---
 title: The Tale of Genji
 author: Unknown
-reviewAuthor: Jenni Juvonen
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:58:09.000Z'
 slug: the-tale-of-genji
-wordCount: 9964
+wordCount: 9961
 readingTimeMinutes: 45
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1_XX4RJeUH-QKloV7iK5T01OY3u47PNa_KZNd0y-Mdsk
 tags:
   - Fiction
   - History
@@ -34,14 +33,14 @@ I disagree with Tyler, hard. The footnotes are critically important if you want 
 
 _The Tale of Genji_ tells the fictional tale of Genji, the son of the Emperor and one of his low-ranking concubines, throughout his life. A few things to know about Genji:
 
-*   He is incredibly beautiful. Men and women weep at the sight of him.
-*   He is magnificent. Monks and nuns weep when he leaves, distraught that someone like him has to live in this wretched world.
-*   He is better than others at nearly every skill that marks a sophisticated and educated man, such as composing poetry, calligraphy, playing music, singing, dancing, painting, and knowledge of Chinese literature. When he demonstrates these skills, everyone weeps.
-*   He dresses and behaves immaculately. Pretty sure someone weeps about that, too.
-*   He falls in love a lot, and is known for his numerous romantic conquests.
-*   He doesn’t have the official title of Prince, nor is he in the line of succession to become Emperor, and he has to work hard to advance his political career in the Court.
-*   But most of the story focuses on him longing after and pursuing various women, whether it’s a good idea or not, and often it’s not. Usually all involved parties weep.
-*   He often thinks about resigning his worldly life and becoming a monk, but, unfortunately, he has so many worldly attachments that it would be pretty difficult.
+* He is incredibly beautiful. Men and women weep at the sight of him.
+* He is magnificent. Monks and nuns weep when he leaves, distraught that someone like him has to live in this wretched world.
+* He is better than others at nearly every skill that marks a sophisticated and educated man, such as composing poetry, calligraphy, playing music, singing, dancing, painting, and knowledge of Chinese literature. When he demonstrates these skills, everyone weeps.
+* He dresses and behaves immaculately. Pretty sure someone weeps about that, too.
+* He falls in love a lot, and is known for his numerous romantic conquests.
+* He doesn’t have the official title of Prince, nor is he in the line of succession to become Emperor, and he has to work hard to advance his political career in the Court.
+* But most of the story focuses on him longing after and pursuing various women, whether it’s a good idea or not, and often it’s not. Usually all involved parties weep.
+* He often thinks about resigning his worldly life and becoming a monk, but, unfortunately, he has so many worldly attachments that it would be pretty difficult.
 
 I will gladly admit I fail to relate to Genji and his struggles. The narrator and the other characters try to convince the reader of Genji’s absolute magnificence, while Genji himself is busy doing the opposite. Please enjoy the following reconstruction of my early days of reading _Genji_, as I kept interrupting whatever my partner was doing to tell them what Genji is up to:
 
@@ -109,7 +108,7 @@ And it wasn’t just her face that she had to guard. If a man paid a woman a vis
 
 <figcaption>
 
-> _Heian women playing music on the veranda while a man peeps through the fence (__[Tosa Mitsusada, 1738-1806](https://www.metmuseum.org/art/collection/search/45427)__)_
+_Heian women playing music on the veranda while a man peeps through the fence (__[Tosa Mitsusada, 1738-1806](https://www.metmuseum.org/art/collection/search/45427)__)_
 
 </figcaption>
 
@@ -119,26 +118,26 @@ In the case that a man and a woman are having a secret relationship, he naturall
 
 In general, the hypocrisy of men was a constant, and it was seemingly impossible to correctly be a woman:
 
-*   A man doesn’t visit a lover for several years, and yet he expects her to remain faithful.
-*   A man might regularly force his way into women’s bedchambers, but will blame his lovers for letting other men do the same.
-*   A woman must have a pristine reputation, but if a man sends her an unsolicited love letter and she is not receptive to his advances, he accuses her of being cold and unfeeling.
-*   One man tells a woman she should come and talk to him directly through the screen, that it’s rude to have a servant mediate the discussion. When she does come closer and replies to him directly, he is shocked that she would reveal her voice to a man just like that.
-*   One man assaults a woman in her bedchamber, and gets into trouble for it later. He proceeds to blame her for not taking better care not to get assaulted.
+* A man doesn’t visit a lover for several years, and yet he expects her to remain faithful.
+* A man might regularly force his way into women’s bedchambers, but will blame his lovers for letting other men do the same.
+* A woman must have a pristine reputation, but if a man sends her an unsolicited love letter and she is not receptive to his advances, he accuses her of being cold and unfeeling.
+* One man tells a woman she should come and talk to him directly through the screen, that it’s rude to have a servant mediate the discussion. When she does come closer and replies to him directly, he is shocked that she would reveal her voice to a man just like that.
+* One man assaults a woman in her bedchamber, and gets into trouble for it later. He proceeds to blame her for not taking better care not to get assaulted.
 
 If it seems the men in _Genji_ are all cut from the same cloth, I initially also thought the female characters were quite boring and indistinguishable from one another. But when I was reading Norma Field’s _The Splendor of Longing in the Tale of Genji_, which examines the story through the central female characters, I realised I hadn’t given them enough credit. The male characters seem to talk about most of the women in very similar ways, describing the beauty of each woman, how adorable and small and helpless she is, how long and shiny and black her hair is, how gentle her manner, how heart-wrenching her poetry, and they seem to generally prefer whichever woman they are currently with. But just because the men see the women that way, doesn’t mean that’s all they are. Thinking about it more, it’s clear that some of _Genji’s_ women have way more agency than others, some are particularly skilled or educated, some are gentle and pliable while others are strong, some are helpless and others pragmatic. Some make ambitious political moves, some are bitter and vindictive because their ambitions failed. Some are jealous, some have no expectations. Some of them are passive in relationships, some actively pursue them, and others completely resist men’s advances.
 
 A few concrete examples of women acting with agency in a world that mostly kept them hidden and passive:
 
-*   An empress seeks to solidify her son’s power by getting him married well, and works hard behind the scenes to secure a specific young lady as her son’s wife.
-*   A woman neglected by her lover sends her living spirit to possess his other lover and make her ill.
-*   A young woman goes into hiding from men who desire her, and chooses to become a nun so that she would be out of their reach. This was one of the few socially acceptable ways for a woman to avoid marriage or get out of an existing one, but often the woman needed her husband’s or a male relative’s permission to do so.
-    *   He hears a rumour that a woman is particularly beautiful.
-    *   He hears a rumour that a man has brought up his daughter with particular care.
-    *   He is sneaking about somewhere he shouldn’t be, and catches a glimpse of her exquisite hair, arm, face, or another enticing body part.
-    *   He hears her play an instrument or sing beautifully.
-    *   She has beautiful handwriting and is quick to compose sophisticated poems.
-    *   He really wants a princess as one of his wives and she happens to be one.
-    *   She reminds him of his mother/stepmother/sister/wife/former lover.
+* An empress seeks to solidify her son’s power by getting him married well, and works hard behind the scenes to secure a specific young lady as her son’s wife.
+* A woman neglected by her lover sends her living spirit to possess his other lover and make her ill.
+* A young woman goes into hiding from men who desire her, and chooses to become a nun so that she would be out of their reach. This was one of the few socially acceptable ways for a woman to avoid marriage or get out of an existing one, but often the woman needed her husband’s or a male relative’s permission to do so.
+    * He hears a rumour that a woman is particularly beautiful.
+    * He hears a rumour that a man has brought up his daughter with particular care.
+    * He is sneaking about somewhere he shouldn’t be, and catches a glimpse of her exquisite hair, arm, face, or another enticing body part.
+    * He hears her play an instrument or sing beautifully.
+    * She has beautiful handwriting and is quick to compose sophisticated poems.
+    * He really wants a princess as one of his wives and she happens to be one.
+    * She reminds him of his mother/stepmother/sister/wife/former lover.
 
 One could also consider women having agency in more indirect forms, such as working hard to learn skills that would help attract a desirable man or deciding which men’s advances to encourage and which ones to reject.
 
@@ -154,18 +153,18 @@ Here is a non-exhaustive list of reasons why the men in _Genji_ fall in love:
 
 It’s harder to make a similar list for women, because in the story, most of the time women fall in love off-screen, somewhere in the process of courtship. Women do of course catch glimpses of men, and definitely know who is good-looking and refined and smells good, but they don’t start sending love letters without him initiating it. Courting, of course, was generally only relevant for relationships outside of marriage. Here’s a common approach, based on my impression after reading _Genji_:
 
-1.  Man finds out about woman and falls in love for a reason such as the ones listed above.
-2.  Optional: Man bribes the woman’s servants to give him access to her.
-3.  He gets physically close to her and talks to her through a curtain or a screen.
-4.  She says nothing at all, shocked and terrified.
-5.  He keeps visiting and bombards her with letters.
-6.  She has to reply to some of the letters so as not to be impolite and be considered emotionally cold.
-7.  He gets more and more intrigued by her.
-8.  Eventually he forces his way to her bedchamber and stays the night, sexual activity implied and consent dubious at best.
-9.  Afterwards, she is horrified and disgusted.
-10.  ???
-11.  Somehow, relationship.
-12.  If he stops coming, she is distraught and her tears are endless as she contemplates his coldness and unfaithfulness.
+1. Man finds out about woman and falls in love for a reason such as the ones listed above.
+2. Optional: Man bribes the woman’s servants to give him access to her.
+3. He gets physically close to her and talks to her through a curtain or a screen.
+4. She says nothing at all, shocked and terrified.
+5. He keeps visiting and bombards her with letters.
+6. She has to reply to some of the letters so as not to be impolite and be considered emotionally cold.
+7. He gets more and more intrigued by her.
+8. Eventually he forces his way to her bedchamber and stays the night, sexual activity implied and consent dubious at best.
+9. Afterwards, she is horrified and disgusted.
+10. ???
+11. Somehow, relationship.
+12. If he stops coming, she is distraught and her tears are endless as she contemplates his coldness and unfaithfulness.
 
 This is, of course, not what happens when Genji falls in love with and subsequently kidnaps the 10-year-old niece of his stepmother. Instead, he takes her to his own palace and gives her the western wing as living quarters. He brings most of her original caregivers along and provides for them as well. He spends a lot of time with her as a father would, entertaining her with pictures and stories and teaching her how to play musical instruments and compose poems, essentially providing her with a great education. He forcefully has sex with—and subsequently marries—her four years later, when she looks more mature and is “of marriageable age.” Interestingly, he properly marries her, observing the traditional rituals, before he even tells her father that he’s been hiding her. So while it surely doesn’t hurt that she comes from a powerful family, Genji is determined to marry her regardless of whether her father approves or not, which is not typically how marriages happen in the rest of the story. He subsequently considers her his principal wife, and he loves and cherishes her above all the other women he marries or has relationships with, until old age.
 
@@ -177,7 +176,7 @@ In case you were wondering how the hell he managed to get away with all this, th
 
 <figcaption>
 
-> _Genji and Murasaki together, selecting clothing to be sent as New Year’s gifts to all the ladies in Genji’s household, which the servant women are packing up for delivery. Murasaki is in charge of maintaining the household’s clothing storage, and she is uncommonly skilled at dyeing fabrics in vibrant colours. Genji thinks he couldn’t have found a better wife. (__[Tosa Mitsuyoshi, 1539-1613](https://www.metmuseum.org/art/collection/search/53245)__)_
+_Genji and Murasaki together, selecting clothing to be sent as New Year’s gifts to all the ladies in Genji’s household, which the servant women are packing up for delivery. Murasaki is in charge of maintaining the household’s clothing storage, and she is uncommonly skilled at dyeing fabrics in vibrant colours. Genji thinks he couldn’t have found a better wife. (__[Tosa Mitsuyoshi, 1539-1613](https://www.metmuseum.org/art/collection/search/53245)__)_
 
 </figcaption>
 
@@ -248,7 +247,7 @@ He: “Oh snap. Wyd tonight”
 
 <figcaption>
 
-> _[A Heian-era poem by Fujiwara no Sadanobu (1088–1156)](https://commons.wikimedia.org/wiki/File:Fujiwara-no-Sadanobu_-_FRAMGENT_ISHIYAMA-GIRE_-_Google_Art_Project.jpg)__, showing calligraphy in the kana style similar to what would have been used in love letters and personal correspondence in The Tale of Genji._
+_[A Heian-era poem by Fujiwara no Sadanobu (1088–1156)](https://commons.wikimedia.org/wiki/File:Fujiwara-no-Sadanobu_-_FRAMGENT_ISHIYAMA-GIRE_-_Google_Art_Project.jpg)__, showing calligraphy in the kana style similar to what would have been used in love letters and personal correspondence in The Tale of Genji._
 
 </figcaption>
 
@@ -284,17 +283,17 @@ Translating between unrelated languages is like creating a 2D map projection of 
 
 There are four well-known and mostly complete English translations of _Genji_, and each one makes different tradeoffs:
 
-*   Arthur Waley’s translation (1925-1933) takes loads of liberties and could be thought of as a creative interpretation rather than a faithful translation.
-*   Edward Seidensticker’s translation (1976) cuts down ambiguity and focuses on conciseness and readability.
-*   Royall Tyler’s translation (2001) maintains a lot of the ambiguity of the original, which means a hit to readability. It’s the most academic and involves extensive footnotes.
-*   Dennis Washburn’s translation (2015) is the longest and most verbose, baking a lot of the historical context inside the narration and focusing on readability. Washburn is the only one of the four that systematically renders the poems as verse rather than prose.
+* Arthur Waley’s translation (1925-1933) takes loads of liberties and could be thought of as a creative interpretation rather than a faithful translation.
+* Edward Seidensticker’s translation (1976) cuts down ambiguity and focuses on conciseness and readability.
+* Royall Tyler’s translation (2001) maintains a lot of the ambiguity of the original, which means a hit to readability. It’s the most academic and involves extensive footnotes.
+* Dennis Washburn’s translation (2015) is the longest and most verbose, baking a lot of the historical context inside the narration and focusing on readability. Washburn is the only one of the four that systematically renders the poems as verse rather than prose.
 
 Full disclosure: I didn’t read any of these four. Instead, I read a recently completed Finnish translation by Martti Turunen & Kai Nieminen (2025), which strikes an interesting balance between academics and aesthetics. It comes in two volumes with a total of 1758 pages and a whopping 2422 footnotes, all of which I read. The footnotes mostly fall into the following categories:
 
-*   Explaining terms, concepts, religious rituals, beliefs, hierarchical ranks, and other necessary context for the reader to understand what’s going on.
-*   Clarifying who is who, related to whom, and where else the same character appears. Since there are approximately 400 different characters, and most of them are generally referred to by ranks or titles that keep inconveniently changing, the footnotes are critically important.
-*   Explaining references the characters make to other poems, stories, and legends, as well as double meanings in words that don’t come through in the translation. This is how I know that when Genji complains about curtains, he’s actually horny.
-*   Explaining ambiguity in the original text and how it’s been resolved in the translation.
+* Explaining terms, concepts, religious rituals, beliefs, hierarchical ranks, and other necessary context for the reader to understand what’s going on.
+* Clarifying who is who, related to whom, and where else the same character appears. Since there are approximately 400 different characters, and most of them are generally referred to by ranks or titles that keep inconveniently changing, the footnotes are critically important.
+* Explaining references the characters make to other poems, stories, and legends, as well as double meanings in words that don’t come through in the translation. This is how I know that when Genji complains about curtains, he’s actually horny.
+* Explaining ambiguity in the original text and how it’s been resolved in the translation.
 
 Aesthetically, the Finnish translation is remarkable. Chapters 1 to 25 were originally published in Finnish in the 1980s, the prose translated by Martti Turunen, who is the first foreign-born member of the Japanese legislature, and the poems translated by Kai Nieminen, a renowned Finnish poet and translator. Since then, Nieminen has translated both the prose and the poetry of the remaining chapters (26-54), and the combined work was finally published in 2025. The philosophy of the work is to be a literary experience rather than academic, and despite the density of the footnotes, the prose is fluent and the poetry is translated in a way that preserves much of the original form.
 
@@ -346,12 +345,12 @@ As a side note, I have to say it was not straightforward to translate the Finnis
 
 At the risk of overdoing it, I couldn’t resist checking how well LLMs would handle translating this poem, when given no other information than that it’s a poem in classical Japanese. A few observations:
 
-*   Both Claude Opus 4.7 Adaptive and ChatGPT 5.5 Pro independently identified both wordplays (road of meeting / road to Ōmi and pointless/clamless, though both chose to talk about shells rather than clams).
-*   Both of them chose to generate two versions, one a bit more literal and another that’s more poetic or tries to preserve more of the wordplay.
-*   Both of them did surprisingly well and were able to reflect something of the meaning of the original poem, in the sense that a desired meeting did not happen.
-*   However, they both missed the fact that the two people had been in the same place. This might be something requiring more context from the surrounding text, and might not be inherent in the poem itself.
-*   Neither of them divided the poem into the upper phrase and the lower phrase, where the first part of the poem sets the scene and the second part shifts the perspective to the poet’s internal world. All the human translators preserved this feature of waka poetry.
-*   LLMs seem to need in-depth thinking to identify the double-meanings; I tried ChatGPT 5.5’s Instant mode and it didn’t find either of the two wordplays.
+* Both Claude Opus 4.7 Adaptive and ChatGPT 5.5 Pro independently identified both wordplays (road of meeting / road to Ōmi and pointless/clamless, though both chose to talk about shells rather than clams).
+* Both of them chose to generate two versions, one a bit more literal and another that’s more poetic or tries to preserve more of the wordplay.
+* Both of them did surprisingly well and were able to reflect something of the meaning of the original poem, in the sense that a desired meeting did not happen.
+* However, they both missed the fact that the two people had been in the same place. This might be something requiring more context from the surrounding text, and might not be inherent in the poem itself.
+* Neither of them divided the poem into the upper phrase and the lower phrase, where the first part of the poem sets the scene and the second part shifts the perspective to the poet’s internal world. All the human translators preserved this feature of waka poetry.
+* LLMs seem to need in-depth thinking to identify the double-meanings; I tried ChatGPT 5.5’s Instant mode and it didn’t find either of the two wordplays.
 
 My favourite of the LLM-generated translations, from Claude Opus 4.7:
 
@@ -359,12 +358,12 @@ My favourite of the LLM-generated translations, from Claude Opus 4.7:
 
 Fine, so I’ve established that the translation matters, and the existing ones are pretty different from one another. Which one would I recommend?
 
-*   If you speak Finnish, read Turunen & Nieminen. But I wouldn’t recommend learning Finnish just for this purpose.
-*   Else, choose based on your preference and mental state:
-    *   You value academic precision and are comfortable with ambiguity -> Get Tyler.
-    *   You prefer a literary experience even if it adds a lot of subjective interpretation -> Get Washburn.
-    *   You intend to hyperfocus on this specific topic for the next few months -> Get both and triangulate what the original author might have meant.
-    *   You think modern humans are redundant -> Feed the [original, classical Japanese text](https://ja.wikisource.org/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E/%E9%96%A2%E5%B1%8B) into your LLM of choice and hope for the best.
+* If you speak Finnish, read Turunen & Nieminen. But I wouldn’t recommend learning Finnish just for this purpose.
+* Else, choose based on your preference and mental state:
+    * You value academic precision and are comfortable with ambiguity -> Get Tyler.
+    * You prefer a literary experience even if it adds a lot of subjective interpretation -> Get Washburn.
+    * You intend to hyperfocus on this specific topic for the next few months -> Get both and triangulate what the original author might have meant.
+    * You think modern humans are redundant -> Feed the [original, classical Japanese text](https://ja.wikisource.org/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E/%E9%96%A2%E5%B1%8B) into your LLM of choice and hope for the best.
 
 # Is it really the world’s oldest novel?
 
@@ -374,10 +373,10 @@ The short answer is that the world’s oldest novel is not the same thing as the
 
 The long answer is that there are a few defining characteristics that make a work a novel, and there is a surprisingly broad consensus that _Genji_ is the oldest known work that qualifies. Those characteristics are:
 
-*   **Fiction**: Historical chronicles and religious texts are not considered novels.
-*   **Written in prose**: Throughout a lot of human history, stories were formatted as verse, especially before the invention of writing when they had to be passed down as oral tradition. Even when writing became a thing, poetry was still a common form of literature, including in Japanese literary tradition before _Genji_. And even though there are hundreds of poems in _Genji_, and they are highly relevant to the story, the prose stands in its own right. This one rules out the Odyssey, the Mahabharata, Gilgamesh, and Beowulf.
-*   **Psychological depth**: This is perhaps what stands out about _Genji_ the most. I find that many old stories look at their characters from the outside, and rely on archetypes for readers to know what to expect. In contrast, many of the characters in _Genji_ are highly complex, their private, inner worlds are explored in depth, and their thoughts and emotions develop in nuanced ways over the course of the story. Even the narrator seems to have complicated feelings about Genji, because even as he had been dubbed “The Radiant Prince” by other people, the narrator starts chapter 2 by pointing out that Genji did a lot that was contradictory to such a lofty title, that “his failings were numerous.”
-*   **Long and cohesive narrative**: Short stories and collections of short stories don’t count as novels. Even if the stories star the same characters, the stories are often more like fragments or self-contained episodes, where consequences and character development don’t span the whole work. This is what sets _Genji_ apart from works like Satyricon and The Golden Ass; it follows a large cast of characters over decades while maintaining internal consistency regarding everyone’s age, their changing places in the social hierarchy, their relationships with one another, the information everyone knows, and the psychological impact of past events.
+* **Fiction**: Historical chronicles and religious texts are not considered novels.
+* **Written in prose**: Throughout a lot of human history, stories were formatted as verse, especially before the invention of writing when they had to be passed down as oral tradition. Even when writing became a thing, poetry was still a common form of literature, including in Japanese literary tradition before _Genji_. And even though there are hundreds of poems in _Genji_, and they are highly relevant to the story, the prose stands in its own right. This one rules out the Odyssey, the Mahabharata, Gilgamesh, and Beowulf.
+* **Psychological depth**: This is perhaps what stands out about _Genji_ the most. I find that many old stories look at their characters from the outside, and rely on archetypes for readers to know what to expect. In contrast, many of the characters in _Genji_ are highly complex, their private, inner worlds are explored in depth, and their thoughts and emotions develop in nuanced ways over the course of the story. Even the narrator seems to have complicated feelings about Genji, because even as he had been dubbed “The Radiant Prince” by other people, the narrator starts chapter 2 by pointing out that Genji did a lot that was contradictory to such a lofty title, that “his failings were numerous.”
+* **Long and cohesive narrative**: Short stories and collections of short stories don’t count as novels. Even if the stories star the same characters, the stories are often more like fragments or self-contained episodes, where consequences and character development don’t span the whole work. This is what sets _Genji_ apart from works like Satyricon and The Golden Ass; it follows a large cast of characters over decades while maintaining internal consistency regarding everyone’s age, their changing places in the social hierarchy, their relationships with one another, the information everyone knows, and the psychological impact of past events.
 
 To summarise: Murasaki Shikibu wrote a fictional work that was truly innovative in its time, using long-form prose with a high level of internal cohesion and characters with significant psychological depth and development. I like to use “the world’s first novel” as a shorthand for that, but it’s fine if you don’t. Wikipedia plays it safe and calls it “the first novel written by a woman to have won global recognition,” and someone else might have an even stricter definition for a novel that would rule out _Genji_ as well as older works.
 
@@ -387,9 +386,9 @@ At the beginning of this review, I promised I’d walk you through my experience
 
 Regarding the freshness of the characters’ thoughts and feelings, on the surface level it makes sense to disagree with Tyler. It would be hard for most people to relate to thoughts and feelings such as
 
-*   “This girl is my stepmother’s niece; I must have her” or
-*   “My lover has forcefully assaulted another woman; now she must die” or
-*   “My husband wants to take our child away from me and give her to another of his wives to raise; this seems fine.”
+* “This girl is my stepmother’s niece; I must have her” or
+* “My lover has forcefully assaulted another woman; now she must die” or
+* “My husband wants to take our child away from me and give her to another of his wives to raise; this seems fine.”
 
 But if you go up a level of abstraction, you find something much more relatable, or at least recognisable. The longing for someone you love but can’t have. The jealousy arising from your insecurity about your own position in life. A parent’s anguish at being separated from their child, while knowing the child will be better off that way. Making bad decisions while horny. Sacrificing your family for your career ambitions. And there is also my own absolute favourite moment which requires very little cultural translation: The narrator tells of a party, late at night, where Genji and a bunch of other men are taking turns composing poems at each other. The narrator first includes some of them, but then says the men got so drunk that it would torture the reader to include any more of the poems they came up with. I bet Murasaki Shikibu knew what it feels like to be sober in the vicinity of idiots drunk on their own brilliance.
 

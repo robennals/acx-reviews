@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Cooperation (by Robert Axelrod)
 author: Unknown
-reviewAuthor: Harjas
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-evolution-of-cooperation-by-robert-axelrod
 wordCount: 2592
 readingTimeMinutes: 12
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1wzNgiQ2cviYuwDVVqvrY2HNsYjhGS5O9cE6A3N6G6-s
 tags:
   - Psychology
   - Science
@@ -28,9 +27,9 @@ _The Evolution of Cooperation_ is essentially a game-theoretic case for my core 
 
 This slight alteration adds some sorely-needed nuance to my original intuition. For example:
 
-*   In real life, we frequently interact with the same people over long periods of time. The more we expect to interact with someone in the future, the smarter it is to cooperate with them and build trust.
-*   An ideal strategy is somewhat vulnerable to betrayal. But this is okay: tanking some betrayals allows you to cooperate more often, the benefits of which heavily outweigh the costs of occasional treachery.
-*   Still, if you gain a reputation for being a pushover, evil people will notice and come crawling out of the woodwork to beat you up and steal your lunch money. You _need_ to dissuade people who are going to try to exploit you first: if someone betrays you, you need to retaliate.
+* In real life, we frequently interact with the same people over long periods of time. The more we expect to interact with someone in the future, the smarter it is to cooperate with them and build trust.
+* An ideal strategy is somewhat vulnerable to betrayal. But this is okay: tanking some betrayals allows you to cooperate more often, the benefits of which heavily outweigh the costs of occasional treachery.
+* Still, if you gain a reputation for being a pushover, evil people will notice and come crawling out of the woodwork to beat you up and steal your lunch money. You _need_ to dissuade people who are going to try to exploit you first: if someone betrays you, you need to retaliate.
 
 To explain his case, Axelrod starts with a classic game theory experiment: the Prisoner’s dilemma.
 
@@ -44,21 +43,21 @@ For rational players in a Prisoner’s Dilemma, the smartest option is always to
 
 But while considering the problem, Axelrod came to a foundational insight that would change the game forever. He realized that defection is only optimal iff:
 
-*   You are playing against a single rational opponent, AND
-*   Know the precise number of games you will be playing.
+* You are playing against a single rational opponent, AND
+* Know the precise number of games you will be playing.
 
 If you play an _uncertain_ number of games _all against the same opponent_—known as an Iterated Prisoner’s Dilemma—defection is no longer guaranteed to be the optimal strategy. The longer the game and more responsive the opponent, the more viable cooperation-based strategies become.
 
 To test this theory, Axelrod held two iterated prisoner’s dilemma tournaments, calling on “expert strategists from political science, sociology, economics, psychology, and mathematics” to submit their strategies and see which came out on top. It turns out that the optimal strategy was the simplest strategy submitted, named TIT FOR TAT. TIT FOR TAT’s entire strategy can be operationalized by just two statements:
 
-1.  Cooperate.
-2.  Match my opponent’s last move.
+1. Cooperate.
+2. Match my opponent’s last move.
 
 The book goes into more detail about the math and game theory behind TIT FOR TAT (and the tournament in general), but the basic appeals of TIT FOR TAT are astoundingly simple. TIT FOR TAT’s major strengths are:
 
-*   Being nice. By never defecting first, it never makes enemies out of anyone unless it really has to. If two nice strategies meet each other, they will cooperate until the game ends: over the course of a tournament, these gains really add up.
-*   Being retaliatory. By always returning a defection for a defection, TIT FOR TAT avoids being exploited too much by particularly nasty strategies. Being retaliatory is the key feature that allows TIT FOR TAT to dominate in a cold world full of evil: [fool me three times, and well, you know](https://genius.com/33479462?).
-*   Being forgiving. By being willing to return to cooperation after a defection—so long as its opponent cooperates first and eats a defection for it—TIT FOR TAT avoids needlessly punishing strategies that have defected in the past but might be willing to cooperate in the future. TIT FOR TAT can still get stuck in revenge spirals, but this problem can be mitigated e.g. returning 9/10ths of a TIT for a TAT instead of being equally retaliatory.
+* Being nice. By never defecting first, it never makes enemies out of anyone unless it really has to. If two nice strategies meet each other, they will cooperate until the game ends: over the course of a tournament, these gains really add up.
+* Being retaliatory. By always returning a defection for a defection, TIT FOR TAT avoids being exploited too much by particularly nasty strategies. Being retaliatory is the key feature that allows TIT FOR TAT to dominate in a cold world full of evil: [fool me three times, and well, you know](https://genius.com/33479462?).
+* Being forgiving. By being willing to return to cooperation after a defection—so long as its opponent cooperates first and eats a defection for it—TIT FOR TAT avoids needlessly punishing strategies that have defected in the past but might be willing to cooperate in the future. TIT FOR TAT can still get stuck in revenge spirals, but this problem can be mitigated e.g. returning 9/10ths of a TIT for a TAT instead of being equally retaliatory.
 
 Interestingly, this means that **TIT FOR TAT literally cannot outscore its opponent in any individual game.** Instead of succumbing to tunnel vision and trying to win every game it plays, TIT FOR TAT does pretty well across the whole gamut of strategies. In Iterated Prisoner’s Dilemma tournaments, being brilliant is overrated: better to be dependable instead.
 
@@ -70,18 +69,18 @@ The rest of the book is dedicated to proving to expanding upon these core insigh
 
 Finally, we get to Axelrod’s life advice, which is also very simple:
 
-1.  Don’t be envious.
-2.  Don’t be the first to defect.
-3.  Reciprocate both cooperation and defection.
-4.  Don’t be too clever.
+1. Don’t be envious.
+2. Don’t be the first to defect.
+3. Reciprocate both cooperation and defection.
+4. Don’t be too clever.
 
 The first three should be pretty self-explanatory, since they’re just the design principles behind TIT FOR TAT. TIT FOR TAT will never try to outscore its opponent; TIT FOR TAT will never defect first; TIT FOR TAT will never let a good deed go unrewarded (nor a bad deed unpunished). But the fourth is perhaps the most interesting, and deserves some further explanation.
 
 See, I omitted a key detail in my earlier explanation of the two tournaments. They weren’t held simultaneously: they were held _sequentially_. In other words,
 
-1.  Players competed in the first tournament.
-2.  Axelrod analyzed the results and published his findings
-3.  Players—now armed with the ability to make complex and devious strategies that would have dominated the first tournament—competed again.
+1. Players competed in the first tournament.
+2. Axelrod analyzed the results and published his findings
+3. Players—now armed with the ability to make complex and devious strategies that would have dominated the first tournament—competed again.
 
 The funny thing is, many of the strategies in the second tournament were too smart by half. In particular, the meanest strategies choked themselves out: in the beginning stages of the tournament, they did TOO well against overly forgiving strategies, and _knocked them out of the competition_. Their remaining opponents were either nice but retaliatory, like TIT FOR TAT, or were mean and exploitative _themselves_—and mean strategies do not play nice with each other. By knocking out all of the softies, they ruined the very environment that allowed them to thrive in the first place. Talk about suffering from your own success.
 
@@ -95,9 +94,9 @@ Furthermore, in real life, you’re not playing against fixed opponents: you _ch
 
 The last part of the book—possibly the most important part—is about how to design systems that promote cooperation. Axelrod gives three basic pieces of advice for reformers:
 
-1.  **Make the future more important.** As we saw earlier, the more interactions you expect to have with someone, the more important it is to cultivate trust and respect. On the other hand, completely anonymous and randomized interactions are ripe for betrayal, since you can’t ever build relationships with people: these kinds of systems tend to be nasty (see: [4chan](https://en.wikipedia.org/wiki/4chan)). So if you want your system to promote cooperation, you should at minimum include some kind of identification system—even just a username—and may want to consider making a player’s action history publicly available.
-2.  **Change the payoffs.** The more you gain from cooperation, the more people will want to cooperate with each other. The more you gain from defection, the more people will defect. Thankfully, tasks in the real world are [raid bosses](https://www.reddit.com/r/Borderlands2/comments/1id2iw6/what_is_a_raid_boss/): most things worth doing are too hard to do alone.
-3.  **Teaching players about cooperation theory.** If people know that TIT FOR TAT is the best strategy, they’re more likely to adopt it themselves, and then you can spam cooperation with them. It’s not a zero-sum gain: everyone wins!
+1. **Make the future more important.** As we saw earlier, the more interactions you expect to have with someone, the more important it is to cultivate trust and respect. On the other hand, completely anonymous and randomized interactions are ripe for betrayal, since you can’t ever build relationships with people: these kinds of systems tend to be nasty (see: [4chan](https://en.wikipedia.org/wiki/4chan)). So if you want your system to promote cooperation, you should at minimum include some kind of identification system—even just a username—and may want to consider making a player’s action history publicly available.
+2. **Change the payoffs.** The more you gain from cooperation, the more people will want to cooperate with each other. The more you gain from defection, the more people will defect. Thankfully, tasks in the real world are [raid bosses](https://www.reddit.com/r/Borderlands2/comments/1id2iw6/what_is_a_raid_boss/): most things worth doing are too hard to do alone.
+3. **Teaching players about cooperation theory.** If people know that TIT FOR TAT is the best strategy, they’re more likely to adopt it themselves, and then you can spam cooperation with them. It’s not a zero-sum gain: everyone wins!
 
 I found this section particularly interesting, because its insights are reflected in platform design across the internet. I pointed out 4chan earlier because it’s nasty by design: when identities are anonymized and only persist within message boards, chaos is sure to follow. In contrast, Reddit is mostly anonymous, but their choice to use consistent usernames across all message boards and allow you to look at someone’s post history ([and Reddit karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma)) in order to determine whether they’re a good-faith actor in advance. So, if you ever want to run a club or host a recurring group meetup of any kind, you’d do well to take The Axe’s advice.
 
@@ -131,9 +130,9 @@ Considering all of that, it would probably be a mistake to naively apply TIT FOR
 
 That being said, the book _did_ change my day-to-day life in three key ways:
 
-1.  It relieved my sense of pessimism about whether cooperation is secretly stupid and naive.
-2.  It curbed my tendency to engage in dunks or takedowns, particularly when I am uncertain about whether someone is acting in good or bad faith: these days I try to just disengage.
-3.  It made me feel _much_ better about retaliating in response to explicit and unambiguous defection. Having been raised Catholic, this was a pretty important principle that I hadn’t quite internalized before.
+1. It relieved my sense of pessimism about whether cooperation is secretly stupid and naive.
+2. It curbed my tendency to engage in dunks or takedowns, particularly when I am uncertain about whether someone is acting in good or bad faith: these days I try to just disengage.
+3. It made me feel _much_ better about retaliating in response to explicit and unambiguous defection. Having been raised Catholic, this was a pretty important principle that I hadn’t quite internalized before.
 
 Was I kind of already on the path to making these changes? I mean, probably. But it's nice to have the principles laid out so explicitly, even if you already expect to agree with Axelrod—the finer points are interesting in their own right.
 

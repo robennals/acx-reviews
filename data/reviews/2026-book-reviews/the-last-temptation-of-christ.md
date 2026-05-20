@@ -1,7 +1,7 @@
 ---
 title: The Last Temptation of Christ
 author: Unknown
-reviewAuthor: Maya Serrano
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-last-temptation-of-christ
 wordCount: 566
 readingTimeMinutes: 3
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1vL0lzxgdFajkCNvd1MNDKUUJbW7cQ5Kj9T7BCPeA9rw
 tags:
   - Fiction
   - Religion

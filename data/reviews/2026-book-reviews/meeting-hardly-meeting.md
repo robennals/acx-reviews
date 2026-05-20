@@ -1,7 +1,7 @@
 ---
 title: Meeting, Hardly Meeting
 author: Unknown
-reviewAuthor: Inbar Marmelshtein
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: meeting-hardly-meeting
 wordCount: 5636
 readingTimeMinutes: 26
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1qtVbwsedqZUwUKsS7Hm3Qg7qxM5ghVpkXjwm1ED47_M
 tags:
   - Fiction
 ---

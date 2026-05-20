@@ -1,7 +1,7 @@
 ---
 title: 'More Money Than God: Hedge Funds and the Making of a New Elite, by Sebastian Mallaby'
 author: Unknown
-reviewAuthor: Sin-Pharion
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian
 wordCount: 16850
 readingTimeMinutes: 75
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1qY04t3uoyecAOvfS-iek-qi6gfJI-Z16
 tags:
   - Economics
   - History

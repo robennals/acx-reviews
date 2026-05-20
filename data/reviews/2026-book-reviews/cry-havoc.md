@@ -1,7 +1,7 @@
 ---
 title: Cry Havoc
 author: Unknown
-reviewAuthor: +EV
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: cry-havoc
 wordCount: 7303
 readingTimeMinutes: 33
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1gLX00QQl1bQhmA1blMOmJl0GOe9rm53O8MV97gFucjg
 tags:
   - History
   - Memoir
@@ -21,15 +20,15 @@ tags:
 
 Simon Mann - old Etonian, son of one captain of the English cricket team and grandson of another - describes the plan for his botched 2004 coup attempt against the government of Equatorial Guinea as a “heap of shit”. In fact, throughout _Cry Havoc_, Mann's tale of his botched coup and subsequent terms of imprisonment in Zimbabwe then Equatorial Guinea (“EG”) itself, he seems so embarrassed about the quality of the plan that he never presents it in one place, instead dribbling it out over a few chapters. This is probably so you can't put it all together and appreciate just how bad it is, as I have just done below:
 
-*   70 unarmed mercenaries, Mann among them, fly out of South Africa on a second-hand Boeing 727 to Zimbabwe.
+* 70 unarmed mercenaries, Mann among them, fly out of South Africa on a second-hand Boeing 727 to Zimbabwe.
 
-*   They land at Harare airport to refuel and pick up the weapons they bought from a member of Zimbabwe Defense Intelligence.
-*   Then they fly on to Malabo, the captial of EG, where some insiders in the palace of President Obiang will arrest the President as Mann’s gang touch down; they have some black soldiers on their plane so they don't look too foreign.
-*   Other guys on the team fly in Severo Moto, an exiled politician, from the Canary Islands, assuming the previous steps have gone well, and he can be interim President until elections are held.
-*   If things go wrong, someone is on standby with a helicopter and/or boat to rescue them. Specifically, it is Mark Thatcher, the same one that went missing during the Dakar Rally, and whose mum has to call up the Algerian government to get them to go find him.
-*   Alternatively, they can try fleeing to the nearby Sao Tome and Principe, where they have some friends, albeit unsavoury ones who will likely try to get them to carry out a coup there.
-*   The Spanish government will recognise the new government, and the rest of the world will follow suit, various intelligence agencies having given this operation a nod of approval.
-*   Malaria will then be eradicated and EG will hopefully get turned into Dubai. (That last part isn’t an addition of mine - the analogy is purely Mann’s.)
+* They land at Harare airport to refuel and pick up the weapons they bought from a member of Zimbabwe Defense Intelligence.
+* Then they fly on to Malabo, the captial of EG, where some insiders in the palace of President Obiang will arrest the President as Mann’s gang touch down; they have some black soldiers on their plane so they don't look too foreign.
+* Other guys on the team fly in Severo Moto, an exiled politician, from the Canary Islands, assuming the previous steps have gone well, and he can be interim President until elections are held.
+* If things go wrong, someone is on standby with a helicopter and/or boat to rescue them. Specifically, it is Mark Thatcher, the same one that went missing during the Dakar Rally, and whose mum has to call up the Algerian government to get them to go find him.
+* Alternatively, they can try fleeing to the nearby Sao Tome and Principe, where they have some friends, albeit unsavoury ones who will likely try to get them to carry out a coup there.
+* The Spanish government will recognise the new government, and the rest of the world will follow suit, various intelligence agencies having given this operation a nod of approval.
+* Malaria will then be eradicated and EG will hopefully get turned into Dubai. (That last part isn’t an addition of mine - the analogy is purely Mann’s.)
 
 The plan falls apart when they land in Zimbabwe and go to collect their weapons. It turns out that Captain Brodie, the Zimbabwe Defense Intelligence man selling them weapons, and "a veteran of [the Zimbabwean Air Force's] rape and pillage of the DRC for diamonds", is not a trustworthy fellow. They are arrested on the tarmac at Harare and bundled off to prison. (The likeliest explanation is that the South African government did not want the coup to go ahead, and so tipped off the Zimbabweans to stop it.)
 
@@ -45,10 +44,10 @@ The rest of this review goes through a number of theories that are plausible but
 
 Mann is very eager to impress on the reader that this plan was their Plan E, and they had a lot of better plans that they could not go ahead with. Better, however, does not imply good:
 
-*   Plan A involves buying a second hand cargo ship, filling it up with Liberians and artillery, sending the Liberians to shore in Malabo in RHIBs, and then… something happens? I'm not sure exactly what. That plan falls apart when the American navy turns up in the area for unrelated reasons, and Mann thinks it is ill-advised to be carrying a cargo of Liberian mercenaries about under their noses. So that is cancelled.
-*   Plan B plays on the greed of President Obiang, who can't resist a gift. Mann's mercenary buddy, Niek du Toit, has already been on the ground in EG on some fake business pretext, and has met with Obiang personally a few times. He will say "my friend Mister President, come to the airport, I have a special gift of four Toyota Land Cruisers for you!" Mister President goes to the airport, and out of the plane come 70 Afrikaner mercenaries. "Beware Afrikaners bearing gifts" writes Mann. But the Land Cruiser dosh doesn't arrive in time, so that plan is called off.
-*   Plan C is similar to plan A, but just involves the Afrikaners and no Liberians. They will go ashore in Malabo via helicopter and boat, and then something will happen. But that is called off: the money, again, doesn't arrive in time, and the Afrikaners don't like small boats.
-*   Plan D looks very similar to Plan E, where armed men turn up in Malabo via a weapons pickup stop Zimbabwe. The exact difference isn't really discussed, this one just happens to be Plan D and the actual plan is Plan E. However, this one is scuppered after their plane goes missing. The problem was that when the flight crew landed to refuel at Douala in Cameroon, they broke the nose wheel, were delayed finding a new one, then when they were flying over the DRC air traffic control forced them to land and demanded they pay a bribe they didn't have the money for.
+* Plan A involves buying a second hand cargo ship, filling it up with Liberians and artillery, sending the Liberians to shore in Malabo in RHIBs, and then… something happens? I'm not sure exactly what. That plan falls apart when the American navy turns up in the area for unrelated reasons, and Mann thinks it is ill-advised to be carrying a cargo of Liberian mercenaries about under their noses. So that is cancelled.
+* Plan B plays on the greed of President Obiang, who can't resist a gift. Mann's mercenary buddy, Niek du Toit, has already been on the ground in EG on some fake business pretext, and has met with Obiang personally a few times. He will say "my friend Mister President, come to the airport, I have a special gift of four Toyota Land Cruisers for you!" Mister President goes to the airport, and out of the plane come 70 Afrikaner mercenaries. "Beware Afrikaners bearing gifts" writes Mann. But the Land Cruiser dosh doesn't arrive in time, so that plan is called off.
+* Plan C is similar to plan A, but just involves the Afrikaners and no Liberians. They will go ashore in Malabo via helicopter and boat, and then something will happen. But that is called off: the money, again, doesn't arrive in time, and the Afrikaners don't like small boats.
+* Plan D looks very similar to Plan E, where armed men turn up in Malabo via a weapons pickup stop Zimbabwe. The exact difference isn't really discussed, this one just happens to be Plan D and the actual plan is Plan E. However, this one is scuppered after their plane goes missing. The problem was that when the flight crew landed to refuel at Douala in Cameroon, they broke the nose wheel, were delayed finding a new one, then when they were flying over the DRC air traffic control forced them to land and demanded they pay a bribe they didn't have the money for.
 
 This is combined with the looming deadline of a Spanish election, which means there might soon be an administration that doesn't want this coup to go ahead. And given Spanish recognition is quite important in their plans, they need to act quickly.
 
@@ -66,12 +65,12 @@ Mann, however, has other plans. Through his mother's side of the family, he know
 
 Throughout this episode, and most of the others, it becomes apparent how little is required to succeed: (here including miscellaneous details that I think are interesting)
 
-*   The beachhead in Soyo is secured by just 60 EO mercenaries against 3000 UNITA soldiers. They do get reinforced, but their reinforcements are literal child soldiers (!), who arrive in a boat whose anchor falls off and gets the boat stuck way off from the shore as it takes on water. With luck, they manage to unload the boat without too much damage done.
-*   In Soyo, Mann credits their victory to superior logistics. The front lines have to be resupplied continually, because being surrounded by enemies burns a lot of ammunition, plus I assume it is also hungry work. So, for the whole time three light aircraft are rotating in and out with everything they could need. His opponents relied on supplies being carried, on foot, from 600 miles away. (The other reason these aircraft are needed is because dying for your country is all well and good, but the soldiers are all just there for money, and dying for a paycheck is much less romantic. This means that the mercenaries won’t fight unless they know that, if they are wounded, they will be evacuated to a world-class hospital.)
-*   Reconnaissance flights are done by flying a civilian aircraft around in broad daylight. Everyone they could see could see them, their only protection being that rifle bullets cannot reach a plane flying at their altitude. But if the rebels bought a single medium-altitude anti-aircraft missile they could easily blow the thing out of the sky. Hence a lot of EO thought was devoted to calculating the odds that the rebels had bought a missile.
-*   One way they weakened their opponents was sending up, at night, an aircraft with some unguided 250kg bombs and no lights. The pilot would fly about with night-vision goggles on and drop the bombs on whatever looked interesting.
-*   A long-winded subplot sees Mann roaming around Moscow trying to buy some large bombs from Russians, with the aim of using them to terrify UNITA so completely that they must give up. He succeeds in procuring some 500kg ODABs, which are a clever kind of bomb called a "fuel-air bomb". (Explosives need an oxider, and generally they contain a chemical oxidiser. Fuel-air bombs have no oxidiser, and instead, disperse their fuel before detonating, using atmospheric oxygen as the oxidiser. They don't need to carry their own oxidiser with them, and so rather than being part-fuel/part-oxidiser, they are 100% fuel. This means that they carry a lot more booms per kilogram, to use a technical term, than the average bomb.) The Angolan government drops one, which has the desired effect, and the war is soon over. Well, that's how Mann tells the story. The bombs are [reasonably impressive](https://www.youtube.com/watch?v=sw9Y98wPb48) but really aren't that big. I guess they are the biggest thing in that part of the world.
-*   In Sierra Leone, a common tactic is flying a light aircraft over RUF camps at night, reporting the coordinates of their very visible campfires, and having Saffa mortar teams on the ground blow them to bits.
+* The beachhead in Soyo is secured by just 60 EO mercenaries against 3000 UNITA soldiers. They do get reinforced, but their reinforcements are literal child soldiers (!), who arrive in a boat whose anchor falls off and gets the boat stuck way off from the shore as it takes on water. With luck, they manage to unload the boat without too much damage done.
+* In Soyo, Mann credits their victory to superior logistics. The front lines have to be resupplied continually, because being surrounded by enemies burns a lot of ammunition, plus I assume it is also hungry work. So, for the whole time three light aircraft are rotating in and out with everything they could need. His opponents relied on supplies being carried, on foot, from 600 miles away. (The other reason these aircraft are needed is because dying for your country is all well and good, but the soldiers are all just there for money, and dying for a paycheck is much less romantic. This means that the mercenaries won’t fight unless they know that, if they are wounded, they will be evacuated to a world-class hospital.)
+* Reconnaissance flights are done by flying a civilian aircraft around in broad daylight. Everyone they could see could see them, their only protection being that rifle bullets cannot reach a plane flying at their altitude. But if the rebels bought a single medium-altitude anti-aircraft missile they could easily blow the thing out of the sky. Hence a lot of EO thought was devoted to calculating the odds that the rebels had bought a missile.
+* One way they weakened their opponents was sending up, at night, an aircraft with some unguided 250kg bombs and no lights. The pilot would fly about with night-vision goggles on and drop the bombs on whatever looked interesting.
+* A long-winded subplot sees Mann roaming around Moscow trying to buy some large bombs from Russians, with the aim of using them to terrify UNITA so completely that they must give up. He succeeds in procuring some 500kg ODABs, which are a clever kind of bomb called a "fuel-air bomb". (Explosives need an oxider, and generally they contain a chemical oxidiser. Fuel-air bombs have no oxidiser, and instead, disperse their fuel before detonating, using atmospheric oxygen as the oxidiser. They don't need to carry their own oxidiser with them, and so rather than being part-fuel/part-oxidiser, they are 100% fuel. This means that they carry a lot more booms per kilogram, to use a technical term, than the average bomb.) The Angolan government drops one, which has the desired effect, and the war is soon over. Well, that's how Mann tells the story. The bombs are [reasonably impressive](https://www.youtube.com/watch?v=sw9Y98wPb48) but really aren't that big. I guess they are the biggest thing in that part of the world.
+* In Sierra Leone, a common tactic is flying a light aircraft over RUF camps at night, reporting the coordinates of their very visible campfires, and having Saffa mortar teams on the ground blow them to bits.
 
 It really seems that with a few well-trained men and some basic technology - which is far more advanced than their enemies' - you can get up to anything you want. "You can just do things", Mann might write if he were on Substack and not dead. This is far from groundbreaking if you have read your history, and know of episodes like the various Spanish conquests of the Americas, the Opium Wars, and both East India Companies. Still, I at least found it surprising, first, that it can still be done, and second, that Mann and his gang aren't using particularly sophisticated kit: unguided bombs and civilian aircraft seem good enough for the job.
 
@@ -95,9 +94,9 @@ It might also seem suspicious that he only ever does operations in countries wit
 
 Still, even if we do not have strong evidence of bad intentions, a lot of the book reeks of bad vibes. In fact, alarm bells start ringing before the text even begins, with a map in the front of the book labelling the DRC as "Zaire". He jokes are generally in bad taste, such as one about Zimbabwe standing for "Zero Intelligence Mainly Because All the Bloody Whites Emigrated". And you wonder why he decided to fill the officer ranks of his ethical army from three specific sources:
 
-1.  the Civil Cooperation Bureau, which, by his own admission, "carried out [the Apartheid South African government's] dirtiest covert and clandestine work",
-2.  the Koevoet, a white Namibian counter-insurgency unit whose behaviours Wikipedia describes as "controversial", and
-3.  the Rhodesian Fire Force, which needs no introduction.
+1. the Civil Cooperation Bureau, which, by his own admission, "carried out [the Apartheid South African government's] dirtiest covert and clandestine work",
+2. the Koevoet, a white Namibian counter-insurgency unit whose behaviours Wikipedia describes as "controversial", and
+3. the Rhodesian Fire Force, which needs no introduction.
 
 (There are black Africans working for him, just not in the officer class.) Maybe these are the most effective men for the job, and I suppose the master's tools can dismantle another master's house.
 
@@ -179,11 +178,11 @@ And what better way to portray yourself as a hero than to write a book about you
 
 As a side-note, beyond Mann’s pretensions at literature, it is worth noting just how strangely “literary” this coup attempt is:
 
-*   One code-name for the operation was "the Patrick O'Brian Appreciation Society Spring Outing".
-*   The novelist Jeffrey Archer almost certainly helped fund it. At least, payments came to Mann's account from a "J. H. Archer", and Mann’s dealings in Russia are helped with a letter from a friend in the House of Lords.
-*   James Brabazon, a filmmaker and author famous for covering the Liberian civil war, was invited to participate, and only missed it because his grandfather had died and he turned his phone off.
-*   A coup organiser, Greg Wales, after the fact wrote a (thankfully) unpublished manuscript, _Coups and Robbers_, about a coup attempt led by a sex addict on an oil-rich West African country.
-*   The coup itself follows strangely closely the plot of _The Dogs of War_, a novel so beloved by mercenaries that they are known to bring copies to coups, and which Mann's title is a nod to. It is about a coup in a West African island nation, almost certainly modelled off a coup attempt the author himself had some part in.
+* One code-name for the operation was "the Patrick O'Brian Appreciation Society Spring Outing".
+* The novelist Jeffrey Archer almost certainly helped fund it. At least, payments came to Mann's account from a "J. H. Archer", and Mann’s dealings in Russia are helped with a letter from a friend in the House of Lords.
+* James Brabazon, a filmmaker and author famous for covering the Liberian civil war, was invited to participate, and only missed it because his grandfather had died and he turned his phone off.
+* A coup organiser, Greg Wales, after the fact wrote a (thankfully) unpublished manuscript, _Coups and Robbers_, about a coup attempt led by a sex addict on an oil-rich West African country.
+* The coup itself follows strangely closely the plot of _The Dogs of War_, a novel so beloved by mercenaries that they are known to bring copies to coups, and which Mann's title is a nod to. It is about a coup in a West African island nation, almost certainly modelled off a coup attempt the author himself had some part in.
 
 Back to this book - our straight-shooting hero is surrounded by zany caricatures. His partner in crime, Tony Buckingham, elsewhere described as a "two-stroke Cohiba engine" (OK, that one's pretty good) is introduced as:
 

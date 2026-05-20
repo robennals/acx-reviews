@@ -1,7 +1,7 @@
 ---
 title: Leviathan
 author: Unknown
-reviewAuthor: Nick O'Connor
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: leviathan
 wordCount: 4560
 readingTimeMinutes: 21
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1R9wpyupFufWFRTOEefVTRUJGZuGf7KkGB7Vb1tmji7I
 tags:
   - Philosophy
   - Politics

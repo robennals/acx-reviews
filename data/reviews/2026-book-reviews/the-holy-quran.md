@@ -1,7 +1,7 @@
 ---
 title: The Holy Quran
 author: Unknown
-reviewAuthor: David Roman
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-holy-quran
 wordCount: 5742
 readingTimeMinutes: 26
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1K-qsmkpr26Ge4UDENZi4lGtDlx_j5-ha-F7g086RXLM
 tags:
   - Religion
   - History

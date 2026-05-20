@@ -1,7 +1,7 @@
 ---
 title: This is Going to Hurt
 author: Unknown
-reviewAuthor: Van Occupanther
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: this-is-going-to-hurt
 wordCount: 12500
 readingTimeMinutes: 56
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1M9jgeSXID4W2BH93vq1lxwRHTj37WFSh_e3ytwPQxXk
 tags:
   - Memoir
   - Science

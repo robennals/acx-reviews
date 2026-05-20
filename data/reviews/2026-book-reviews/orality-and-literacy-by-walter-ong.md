@@ -1,16 +1,15 @@
 ---
 title: Orality and Literacy by Walter Ong
 author: Unknown
-reviewAuthor: Rain Oliver
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T06:11:53.000Z'
 slug: orality-and-literacy-by-walter-ong
-wordCount: 7130
+wordCount: 7115
 readingTimeMinutes: 32
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1128UWp3DuAg2lyO9koR_XxopSZmcLBBFZk1VREshH6s
 tags:
   - History
   - Society
@@ -47,15 +46,15 @@ Throughout his book, Ong is at pains to define orality on its own terms, not as 
 
 It is hard to imagine how such a society would work, but looking at very little kids gives us some idea of what a non-literate existence is like.
 
-*   Little kids love using songs to learn and recall information. At my home, we have a handwashing song and a getting dressed song.
-*   Little kids love listening to the same story over and over again to keep it alive. As Ong puts it, “when an often-told oral story is not actually being told, all that exists of it is the potential in certain human beings to tell it.”
-*   Little kids rely on adults to remember things for them.
+* Little kids love using songs to learn and recall information. At my home, we have a handwashing song and a getting dressed song.
+* Little kids love listening to the same story over and over again to keep it alive. As Ong puts it, “when an often-told oral story is not actually being told, all that exists of it is the potential in certain human beings to tell it.”
+* Little kids rely on adults to remember things for them.
 
 Little kids live in oral culture. And if they stayed there as adults, they would refine those same strategies to remember larger and more complex pieces of information.
 
-*   The songs would increase in both number and length, sometimes even reaching epic-length.
-*   They would develop routines and occasions for listening to these songs often.
-*   Some kids would grow up to become poets whose job is to memorize the songs and sing them.  
+* The songs would increase in both number and length, sometimes even reaching epic-length.
+* They would develop routines and occasions for listening to these songs often.
+* Some kids would grow up to become poets whose job is to memorize the songs and sing them.  
 
 Literacy, which for our purposes means the ability to write things down, offers a lot of advantages, but the first advantage it offered was making remembrance easier.
 
@@ -68,7 +67,7 @@ The transformation from speaking to writing changed a lot about language. At the
 
 <figcaption>
 
-> _This is a list of words from last year’s spelling bee finale. No one is saying these words out loud outside a spelling bee; they would not exist in an oral language._
+_This is a list of words from last year’s spelling bee finale. No one is saying these words out loud outside a spelling bee; they would not exist in an oral language._
 
 </figcaption>
 
@@ -90,7 +89,7 @@ The natural modern way to present this information would be as a list or a table
 
 <figcaption>
 
-> _This_ _[Wikipedia](https://en.wikipedia.org/wiki/Catalogue_of_Ships)_ _table is both hard to memorize and impossible to say out loud._
+_This_ _[Wikipedia](https://en.wikipedia.org/wiki/Catalogue_of_Ships)_ _table is both hard to memorize and impossible to say out loud._
 
 </figcaption>
 
@@ -142,9 +141,9 @@ The arrival of literacy also changed how people thought about the world around t
 
 A lot of these come from Soviet neuropsychologist Alexander Luria, who worked with both illiterate and literate populations in Uzbekistan. In his fieldwork, he noticed differences in how these two populations thought. Some interesting examples:
 
-*   When shown a shape, like a circle, the illiterate people would identify it as a concrete object, like a plate or a moon. However, the literate people would identify it as a shape: ‘circle’.
-*   When presented with a syllogism like “All northern bears are white, Novaya Zembla is in the north, are the bears there white?” they refused to answer it because it seemed contrived and irrelevant. They would say things like “go there and check.”
-*   When asked to describe themselves, they defaulted to talking about how their community would judge them.
+* When shown a shape, like a circle, the illiterate people would identify it as a concrete object, like a plate or a moon. However, the literate people would identify it as a shape: ‘circle’.
+* When presented with a syllogism like “All northern bears are white, Novaya Zembla is in the north, are the bears there white?” they refused to answer it because it seemed contrived and irrelevant. They would say things like “go there and check.”
+* When asked to describe themselves, they defaulted to talking about how their community would judge them.
 
 Modern schooling has also been shaped by orality fading away. It used to be that schooling was all about rhetoric, the art of speaking well; this has now been replaced by three distinctly literate R’s: reading, ‘riting, ‘rithmetic. It also used to be that intelligence was thought of as some combination of being good at memorizing and being good at thinking quickly on your feet. The modern SAT tests neither of these things; instead, it is designed to render almost all background knowledge irrelevant, and instead focus solely on test-takers’ ability to reason. Recall that the Sphinx famously used to ask travelers riddles, a popular way for oral societies to test intelligence. Solving a riddle requires ‘canniness’ and broad knowledge about the world. But it is unthinkable to imagine the SAT ever asking test-takers to solve a riddle. That is not the kind of intelligence a literate society prizes.
 
@@ -154,7 +153,7 @@ Modern schooling has also been shaped by orality fading away. It used to be that
 
 <figcaption>
 
-> _The analogies section of the_ _SAT, which used to contain questions like this, was removed for requiring too much background knowledge._
+_The analogies section of the_ _SAT, which used to contain questions like this, was removed for requiring too much background knowledge._
 
 </figcaption>
 
@@ -166,7 +165,7 @@ Modern schooling has also been shaped by orality fading away. It used to be that
 
 <figcaption>
 
-> _In contrast, this_ _[popular modern intelligence test](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)_ _requires no background knowledge, or even words._
+_In contrast, this_ _[popular modern intelligence test](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)_ _requires no background knowledge, or even words._
 
 </figcaption>
 
@@ -181,11 +180,11 @@ Taking things apart to analyze them and gain knowledge is a high-risk procedure 
 
 In fact, writing is extremely well suited to “abstractly sequential, classificatory, explanatory examination of phenomena” (_i.e._, deep thinking that makes our world run) for a whole host of reasons:
 
-*   Writers don’t lose track of their thoughts because they are captured on paper. In contrast, non-writers easily lose track of new ideas.
-*   Writers can revise, annotate, and backtrack.
-*   Writers can work with and write for people not co-located with them. This lets them service valuable, but unpopular, information niches like differential calculus.
-*   Writers can write complicated thoughts because their readers can read and re-read over and over until they finally understand it. Spoken words need to be interpreted immediately.
-*   Written corrections are invisible to the user. Spoken corrections are easily noticed, and can make the speaker less convincing.
+* Writers don’t lose track of their thoughts because they are captured on paper. In contrast, non-writers easily lose track of new ideas.
+* Writers can revise, annotate, and backtrack.
+* Writers can work with and write for people not co-located with them. This lets them service valuable, but unpopular, information niches like differential calculus.
+* Writers can write complicated thoughts because their readers can read and re-read over and over until they finally understand it. Spoken words need to be interpreted immediately.
+* Written corrections are invisible to the user. Spoken corrections are easily noticed, and can make the speaker less convincing.
 
 You are reading this on a device that took — what, millions? billions? — of hours of writing to create.
 
@@ -243,7 +242,7 @@ Instead of connecting to previous work using reasoning words like so/then/thus, 
 
 <figcaption>
 
-> _People don’t literally thread with N/ on Twitter anymore, but the vibe remains._
+_People don’t literally thread with N/ on Twitter anymore, but the vibe remains._
 
 </figcaption>
 
@@ -261,7 +260,7 @@ Arguments aren’t considered on their merits, separately from who is speaking t
 
 <figcaption>
 
-> _I picked a_ _non-ACX-y_ _example so it would feel less toxic._
+_I picked a_ _non-ACX-y_ _example so it would feel less toxic._
 
 </figcaption>
 
@@ -286,7 +285,7 @@ I think this is not quite right. Digital orality is not a semi-retvrn, because i
 
 <figcaption>
 
-> _As many unfortunately learn, digital words are decidedly NOT ephemeral._
+_As many unfortunately learn, digital words are decidedly NOT ephemeral._
 
 </figcaption>
 
@@ -328,7 +327,7 @@ People are reading less than ever. That’s not likely to change. I would love i
 
 <figcaption>
 
-> _Think of the kind of policy this_ _platform_ _would create._
+_Think of the kind of policy this_ _platform_ _would create._
 
 </figcaption>
 
@@ -361,7 +360,7 @@ Edward Tufte has, over and over, made this argument for quantitative information
 
 <figcaption>
 
-> _The sparkline for “temperature” takes up about as much room and ink as the word itself, but contains at least ten times as much information._
+_The sparkline for “temperature” takes up about as much room and ink as the word itself, but contains at least ten times as much information._
 
 </figcaption>
 
@@ -385,7 +384,7 @@ Sure, Jon Bois could have written like a regular author: “That first Friday of
 
 <figcaption>
 
-> _Twilight: New Moon tried to pull off something similar, but it needed to commit harder instead of resorting to “each tick of the second hand aches like the pulse of blood behind a bruise.”_
+_Twilight: New Moon tried to pull off something similar, but it needed to commit harder instead of resorting to “each tick of the second hand aches like the pulse of blood behind a bruise.”_
 
 </figcaption>
 
@@ -399,7 +398,7 @@ The NYT’s 10-Minute Challenge series is another example of delightful literary
 
 <figcaption>
 
-> _All art museums should be doing some version of this._
+_All art museums should be doing some version of this._
 
 </figcaption>
 
@@ -429,7 +428,7 @@ These are all pretty basic tweaks to how people write. If we can’t even implem
 
 <figcaption>
 
-> _We could show how hard we thought about the phrasing._
+_We could show how hard we thought about the phrasing._
 
 </figcaption>
 
@@ -441,7 +440,7 @@ These are all pretty basic tweaks to how people write. If we can’t even implem
 
 <figcaption>
 
-> _We could indicate our level of certainty in the statement._
+_We could indicate our level of certainty in the statement._
 
 </figcaption>
 
@@ -453,7 +452,7 @@ These are all pretty basic tweaks to how people write. If we can’t even implem
 
 <figcaption>
 
-> _We could explain why honesty sometimes doesn’t feel like the best policy._
+_We could explain why honesty sometimes doesn’t feel like the best policy._
 
 </figcaption>
 
@@ -481,7 +480,7 @@ Substack, in particular, pisses me off because it forces authors to write in the
 
 <figcaption>
 
-> _Even Helen DeWitt,_ _[the Internet’s Favorite Author of 2026](https://www.theargumentmag.com/p/helen-dewitt-is-the-psycho-we-need)__,_ _[can’t indent how she wants on Substack and thinks she will need $175k (!) to “incorporate Tuftean infoviz into fiction”](https://paperpools.blogspot.com/2026/04/we-lose-again-windham-campbell-prize.html#more)__. It’s 2026 and we’ve been writing on the internet for fifty years._
+_Even Helen DeWitt,_ _[the Internet’s Favorite Author of 2026](https://www.theargumentmag.com/p/helen-dewitt-is-the-psycho-we-need)__,_ _[can’t indent how she wants on Substack and thinks she will need $175k (!) to “incorporate Tuftean infoviz into fiction”](https://paperpools.blogspot.com/2026/04/we-lose-again-windham-campbell-prize.html#more)__. It’s 2026 and we’ve been writing on the internet for fifty years._
 
 </figcaption>
 

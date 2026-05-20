@@ -1,7 +1,7 @@
 ---
 title: Storm of Steel
 author: Unknown
-reviewAuthor: Adrian Merritt
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: storm-of-steel
 wordCount: 8594
 readingTimeMinutes: 39
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1lGQyQ8By41vjKTlG25MFt-cg3uhwOgVv
 tags:
   - History
   - Memoir
@@ -53,13 +52,13 @@ But it’s not all action, and Jünger digresses constantly. He says so himself:
 
 Why is _Storm of Steel_ the best? What makes it worth reading? What would someone not that interested in war or World War I get out of it?
 
-*   It's not a literary masterpiece _per se_, but it is interesting, with well-written and pleasant prose.
-*   Jünger recorded the course of the war fairly faithfully; if you want to see what World War I was like, at least in one small area, there’s no better option.
-*   It is mostly anti-polemic, focusing on the war itself rather than ideas around or about it.
-*   He was at the tip of the spear for years, and we can watch the methods change throughout the course of the novel.
-*   He fought in some of the most important battles of the Western Front.
-*   He started as a private and moved up to company commander, giving us both the narrow- and wide-scope perspectives.
-*   The Anglophones won both world wars, and this colors our perspective of them. _Storm of Steel_ gives us the other side of (one) war.
+* It's not a literary masterpiece _per se_, but it is interesting, with well-written and pleasant prose.
+* Jünger recorded the course of the war fairly faithfully; if you want to see what World War I was like, at least in one small area, there’s no better option.
+* It is mostly anti-polemic, focusing on the war itself rather than ideas around or about it.
+* He was at the tip of the spear for years, and we can watch the methods change throughout the course of the novel.
+* He fought in some of the most important battles of the Western Front.
+* He started as a private and moved up to company commander, giving us both the narrow- and wide-scope perspectives.
+* The Anglophones won both world wars, and this colors our perspective of them. _Storm of Steel_ gives us the other side of (one) war.
 
 In short, _Storm of Steel_ is the epitome of the “standard” war novel; there’s nothing so magical or ground-breaking in it, but it does everything and so well that it elevates it above any peer, like the [Game of the Century](https://en.wikipedia.org/wiki/Game_of_the_Century_(chess)) using the same pieces as any other chess game to make a masterful performance. I want to emphasize that last point above. An American war novel, in context, is from the winning (or at least non-losing) side. E.B. Sledge’s _With the Old Breed_ goes through the brutal Pacific island-hopping campaign, and ends with:
 

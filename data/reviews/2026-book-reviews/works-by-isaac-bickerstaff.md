@@ -1,16 +1,15 @@
 ---
 title: Works By Isaac Bickerstaff
 author: Unknown
-reviewAuthor: PredictionMarketPersons
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:03:49.000Z'
 slug: works-by-isaac-bickerstaff
-wordCount: 7434
+wordCount: 7432
 readingTimeMinutes: 34
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1MIWNivVHUDQqqqcsqE4-lCwB9bfGqJS-6RmNk0WPCyE
 tags:
   - History
   - Politics
@@ -50,7 +49,7 @@ The first Bickerstaff text was Swift’s ‘_Predictions for the Year 1708_‘. 
 
 <figcaption>
 
-> _Bickerstaff I: Jonathan Swift, detail of an oil painting by Charles Jervas, c. 1718; in the National Portrait Gallery, London, from Encyclopedia Britannica_
+_Bickerstaff I: Jonathan Swift, detail of an oil painting by Charles Jervas, c. 1718; in the National Portrait Gallery, London, from Encyclopedia Britannica_
 
 </figcaption>
 
@@ -62,7 +61,7 @@ The first Bickerstaff text was Swift’s ‘_Predictions for the Year 1708_‘. 
 
 <figcaption>
 
-> _Bickerstaff II: Richard Steele, detail of an oil painting by Sir Godfrey Kneller, 1711; in the National Portrait Gallery, London, from Encyclopedia Britannica_
+_Bickerstaff II: Richard Steele, detail of an oil painting by Sir Godfrey Kneller, 1711; in the National Portrait Gallery, London, from Encyclopedia Britannica_
 
 </figcaption>
 

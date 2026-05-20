@@ -1,7 +1,7 @@
 ---
 title: Timefulness
 author: Unknown
-reviewAuthor: Luke Harmon
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: timefulness
 wordCount: 2752
 readingTimeMinutes: 13
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1e7qzId8uiNmXjRNy1TedlycvKXVOAwsQKlEspX5lUMs
 tags:
   - Philosophy
   - Science

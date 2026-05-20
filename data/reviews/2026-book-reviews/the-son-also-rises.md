@@ -1,16 +1,15 @@
 ---
 title: The Son Also Rises
 author: Unknown
-reviewAuthor: Performative Bafflement
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:06:49.000Z'
 slug: the-son-also-rises
-wordCount: 7666
+wordCount: 7662
 readingTimeMinutes: 35
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1sgIHLV8FEMP_eIObK_AA35EFUHvy6zCVX1p2OkQjf1Y
 tags:
   - Science
   - Society
@@ -20,9 +19,9 @@ I almost never see it being talked about, critically or otherwise, so I thought 
 
 If I wasn’t already steeped in the Rationalist milieu, and more or less bought into ideas like:
 
-*   “Nature vs nurture isn’t even a fight, it’s 80/20.[¹](#id.scnk5fol0smp)
-*   “Parents today are dumb and way over-investing in their kids when it doesn’t even matter for their outcomes.”[²](#id.q8ffzol1snaa)
-*   “Education is a gigantic boondoggle that’s solely about state-funded babysitting and locking kids up in child prisons.”[³](#id.ud59pdszbet7)
+* “Nature vs nurture isn’t even a fight, it’s 80/20.[¹](#id.scnk5fol0smp)
+* “Parents today are dumb and way over-investing in their kids when it doesn’t even matter for their outcomes.”[²](#id.q8ffzol1snaa)
+* “Education is a gigantic boondoggle that’s solely about state-funded babysitting and locking kids up in child prisons.”[³](#id.ud59pdszbet7)
 
 It would have been even MORE world-shaking.
 
@@ -154,7 +153,7 @@ Not only this, but at the forty thousand foot view Clark is taking, essentially 
 
 <figcaption>
 
-> _Various cuts of "school spending” (exponential) vs “test scores” (completely flat)_
+_Various cuts of "school spending” (exponential) vs “test scores” (completely flat)_
 
 </figcaption>
 
@@ -204,7 +203,7 @@ This is handily characterized by the Simpsons episode (S6E19) where Lisa almost 
 
 <figcaption>
 
-> _Elite regression to the mean in action_
+_Elite regression to the mean in action_
 
 </figcaption>
 
@@ -244,7 +243,7 @@ But this is too simplistic - if 80-90% of the population was at replacement, onl
 
 <figcaption>
 
-> _Generational composition over 300 years, author’s model_
+_Generational composition over 300 years, author’s model_
 
 </figcaption>
 
@@ -268,7 +267,7 @@ And indeed, you would be right! Not only is persistence rate higher in India whe
 
 <figcaption>
 
-> _Notable - Kulin Brahmin and Mixed Hindu with >1 persistence rates - ie further differentiation rather than regression to the mean_
+_Notable - Kulin Brahmin and Mixed Hindu with >1 persistence rates - ie further differentiation rather than regression to the mean_
 
 </figcaption>
 
@@ -416,25 +415,25 @@ Obviously, and as Clark has been telling us all along, 50% is laughably, screami
 
 There are so many implications.
 
-*   Assortative mating must be IMPOSSIBLY rigorously adhered to historically, for effects like the 900+ year Norman Oxbridge over-representation, and for Kulin Brahmin over-representation to still be persisting after 3000 years of potential leakage.[¹¹](#id.s3v4fek1h1o1)
-*   All those arriviste rich American upstarts marrying into British and European nobility were \*_actually right_\* and following optimal descendant strategy™
-*   If you _actually_ care about inequality, and / or raising your entire society’s “social competence,” you should be doing whatever you can to get people to date and have kids between social classes, at scale. So what would actually move the needle?
-    *   Socially normalizing rich + educated men having mistresses and / or multiple wives[¹²](#id.upzukfj6if7)
-    *   Incentives for rich + educated men to have more kids, like child support caps, state-funded child support, or decreases in tax rates the more kids you have
-    *   Creating “sugar baby” dating apps
-    *   Running GWAS studies on high vs low and average social competence lineages, so we can start narrowing in on the genetic components and ultimately make them available for embryo selection
+* Assortative mating must be IMPOSSIBLY rigorously adhered to historically, for effects like the 900+ year Norman Oxbridge over-representation, and for Kulin Brahmin over-representation to still be persisting after 3000 years of potential leakage.[¹¹](#id.s3v4fek1h1o1)
+* All those arriviste rich American upstarts marrying into British and European nobility were \*_actually right_\* and following optimal descendant strategy™
+* If you _actually_ care about inequality, and / or raising your entire society’s “social competence,” you should be doing whatever you can to get people to date and have kids between social classes, at scale. So what would actually move the needle?
+    * Socially normalizing rich + educated men having mistresses and / or multiple wives[¹²](#id.upzukfj6if7)
+    * Incentives for rich + educated men to have more kids, like child support caps, state-funded child support, or decreases in tax rates the more kids you have
+    * Creating “sugar baby” dating apps
+    * Running GWAS studies on high vs low and average social competence lineages, so we can start narrowing in on the genetic components and ultimately make them available for embryo selection
 
-*   Stop assuming social or political interventions aimed at “inequality” or “social mobility” actually do anything besides wasting trillions of dollars
-    *   That money would be MUCH better spent on the GWAS’s and embryo selection / gengineering labs and lobbying if you wanted to actually move the needle on aggregate social competence
+* Stop assuming social or political interventions aimed at “inequality” or “social mobility” actually do anything besides wasting trillions of dollars
+    * That money would be MUCH better spent on the GWAS’s and embryo selection / gengineering labs and lobbying if you wanted to actually move the needle on aggregate social competence
 
 ### So what can we personally do?
 
 Ultimately, if you buy the overall picture Clark is painting, I think it has a few actionable takeaways for the individual.
 
-1.  Prioritize familial quality over everything else when dating.
-2.  Somehow convince your kids to ALSO prioritize familial quality over everything else when dating, and to convince THEIR kids, etc.[¹³](#id.sjhit4qsb54k)
-3.  Stop approving increases in school funding, it’s all a pointless boondoggle.
-4.  Stop having so few kids and overinvesting in them, but instead do as Caplan suggests in Selfish Reasons to Have More Kids, and have more kids with less investment.
+1. Prioritize familial quality over everything else when dating.
+2. Somehow convince your kids to ALSO prioritize familial quality over everything else when dating, and to convince THEIR kids, etc.[¹³](#id.sjhit4qsb54k)
+3. Stop approving increases in school funding, it’s all a pointless boondoggle.
+4. Stop having so few kids and overinvesting in them, but instead do as Caplan suggests in Selfish Reasons to Have More Kids, and have more kids with less investment.
 
 To points 3 and 4, I’ll close on one of the passages from the book. Clark seemingly has a bee in his bonnet about upper class Manhattanites spending hundreds of thousands on exclusive preschools and private schools and tutors. In one of several passages where he talks about it, he points out that his inexorable logic shows them to be wrong, too:
 

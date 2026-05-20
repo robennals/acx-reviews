@@ -1,7 +1,7 @@
 ---
 title: Progressive Myths
 author: Unknown
-reviewAuthor: Daniel Haller
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: progressive-myths
 wordCount: 8073
 readingTimeMinutes: 36
 source: gdoc
-originalUrl: https://docs.google.com/document/d/14lP7bBnTXDxgnntlopIZjuQ7fdqVDRhEJLJ14i2tPpM
 tags:
   - Politics
   - Society
@@ -338,17 +337,17 @@ Do the rich pay their fair share of taxes?
 
 Huemer does something strange here, addressing four specific claims made by people and/or organizations rather than the general question. The claims and rebuttals are:
 
-1.  Warren Buffett’s secretary paid a higher tax rate than him.
-    1.  Deceptively yes, but actually no. While capital gains (the money gained from selling stock) is taxed lower than income in the US, Huemer argues that, because stock represents ownership of a corporation, the money Buffet makes from his stock (read: ownership of a company) is technically taxed _twice_, once at the corporate tax rate and a second time at the capital gains rate, leaving him to have a higher tax _rate_ than his secretary.
+1. Warren Buffett’s secretary paid a higher tax rate than him.
+    1. Deceptively yes, but actually no. While capital gains (the money gained from selling stock) is taxed lower than income in the US, Huemer argues that, because stock represents ownership of a corporation, the money Buffet makes from his stock (read: ownership of a company) is technically taxed _twice_, once at the corporate tax rate and a second time at the capital gains rate, leaving him to have a higher tax _rate_ than his secretary.
 
-2.  Do Billionaires pay a ‘true’ tax rate of 3%?
-    1.  Huemer reports - correctly - that billionaires tend to be billionaires because they own tremendous amounts of stock, and their net worth is tied to the current market value of that stock. So it’s perfectly possible for a billionaire to ‘make’ massive amounts of money when the value of their stock goes up, and have their income tax look quite small in comparison. This makes sense - taxes are not levied upon stock until it’s sold - and so while the 3% figure can be _technically_ true, it’s meaningless. Ironically, Huemer says “In general, no one thinks that you should be required to report _unrealized_ gains as income and pay tax on them.” (p.153) (Apparently he isn’t familiar with [California](https://taxfoundation.org/research/all/state/california-wealth-tax-billionaires-proposal/).)
+2. Do Billionaires pay a ‘true’ tax rate of 3%?
+    1. Huemer reports - correctly - that billionaires tend to be billionaires because they own tremendous amounts of stock, and their net worth is tied to the current market value of that stock. So it’s perfectly possible for a billionaire to ‘make’ massive amounts of money when the value of their stock goes up, and have their income tax look quite small in comparison. This makes sense - taxes are not levied upon stock until it’s sold - and so while the 3% figure can be _technically_ true, it’s meaningless. Ironically, Huemer says “In general, no one thinks that you should be required to report _unrealized_ gains as income and pay tax on them.” (p.153) (Apparently he isn’t familiar with [California](https://taxfoundation.org/research/all/state/california-wealth-tax-billionaires-proposal/).)
 
-3.  Did 55 companies with large profits pay zero federal taxes in 2020?
-    1.  Huemer first points out that 55 companies is not a large number; there are [millions](https://www.naics.com/business-lists/counts-by-company-size/) of businesses in the US. He then explains that the tax code is lousy with ways to avoid paying taxes; these aren’t loopholes or cheats but intentional design. Companies can invest in green energy, write off their losses, and otherwise make their federal tax liability zero without doing anything unsavory.
+3. Did 55 companies with large profits pay zero federal taxes in 2020?
+    1. Huemer first points out that 55 companies is not a large number; there are [millions](https://www.naics.com/business-lists/counts-by-company-size/) of businesses in the US. He then explains that the tax code is lousy with ways to avoid paying taxes; these aren’t loopholes or cheats but intentional design. Companies can invest in green energy, write off their losses, and otherwise make their federal tax liability zero without doing anything unsavory.
 
-4.  Do the wealthy pay lower taxes than the middle class?
-    1.  Here Huemer finally seems to address the wider myth with a chart using data from the [Congressional Budget Office](https://www.cbo.gov/topics/taxes) (I think Huemer made the chart). Net Tax = Federal Tax - Government Transfer, or how much money you actually paid the government accounting for welfare.  
+4. Do the wealthy pay lower taxes than the middle class?
+    1. Here Huemer finally seems to address the wider myth with a chart using data from the [Congressional Budget Office](https://www.cbo.gov/topics/taxes) (I think Huemer made the chart). Net Tax = Federal Tax - Government Transfer, or how much money you actually paid the government accounting for welfare.  
         ![](https://acximages.ennals.org/images/2026-book-reviews/d8ff38387ebe9de8.jpg)Oddly enough, his chart says 2019 but the citation is from 2022, although that might just be the most recent time the CBO published the data. Also, can you tell how bad I am at taking photos?  
         Broadly speaking, the highest fifth of income earners are paying the vast majority of the taxes. If that’s not their fair share, I’m not sure what is.
 
@@ -458,12 +457,12 @@ Concluding the book is an argument about why these progressive myths are bad.
 
 They:
 
-1.  **Lead to failed policy**, i.e. if police aren’t actually racist then defunding them or giving them anti-racist training won’t decrease the number of black Americans killed by them.
-2.  **Destroy trust in institutions**, as public health authorities did when they lied about masking. This can lead to catastrophe, as things like pandemic response and vaccination rates decline.
-3.  **Polarize society.** Many seem to function quite well as [scissors statements](https://slatestarcodex.com/2018/10/30/sort-by-controversial/). A polarized society is one that finds it harder to do anything well.
-4.  **Harm minorities.** If black Americans don’t go to police because they believe themselves in danger from them, criminals will find it easier to prey on them. If they believe white doctors are racist, they may refuse sound medical advice.
-5.  **Keep racism alive.** Progressive myths keep race salient in the public view, encouraging people to identify with their race and as an enemy of other races. They also “promote anti-white racism” (p.227), a minor theme in the book that I’ve omitted for brevity.
-6.  **Undermine social loyalty and trust in America.** Society functions because people believe in its laws and institutions. By claiming that these are racist (read: evil), people lose trust in them, leading to a breakdown of society:  
+1. **Lead to failed policy**, i.e. if police aren’t actually racist then defunding them or giving them anti-racist training won’t decrease the number of black Americans killed by them.
+2. **Destroy trust in institutions**, as public health authorities did when they lied about masking. This can lead to catastrophe, as things like pandemic response and vaccination rates decline.
+3. **Polarize society.** Many seem to function quite well as [scissors statements](https://slatestarcodex.com/2018/10/30/sort-by-controversial/). A polarized society is one that finds it harder to do anything well.
+4. **Harm minorities.** If black Americans don’t go to police because they believe themselves in danger from them, criminals will find it easier to prey on them. If they believe white doctors are racist, they may refuse sound medical advice.
+5. **Keep racism alive.** Progressive myths keep race salient in the public view, encouraging people to identify with their race and as an enemy of other races. They also “promote anti-white racism” (p.227), a minor theme in the book that I’ve omitted for brevity.
+6. **Undermine social loyalty and trust in America.** Society functions because people believe in its laws and institutions. By claiming that these are racist (read: evil), people lose trust in them, leading to a breakdown of society:  
     The progressive myths we have discussed are not random errors. They are parts of an overall narrative designed to convince us that our society is fundamentally evil and unworthy of preservation. (p.231)  
     This is Huemer’s strongest point of advocacy. He explains that those who want to destroy American institutions, that believe it would be _good_ to do so, are either ignorant of what life was like for most of human history (horrible) and how exceptional life in America is by that standard, or of what happened when Marxists tried it elsewhere (starvation and mass murder).
 

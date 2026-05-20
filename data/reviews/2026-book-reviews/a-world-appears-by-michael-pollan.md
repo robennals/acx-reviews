@@ -1,7 +1,7 @@
 ---
 title: '"A World Appears" by Michael Pollan.'
 author: Unknown
-reviewAuthor: Demarquis
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: a-world-appears-by-michael-pollan
 wordCount: 3577
 readingTimeMinutes: 16
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1jR9Nu2hIB-tTkIgmgnNSefIa5We0ZllU0VfqSRxAMW8
 tags:
   - Science
   - Philosophy

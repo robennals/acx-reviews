@@ -1,7 +1,7 @@
 ---
 title: 'Imagined Communities: Relfections on the Origin and Spread of Nationalism'
 author: Unknown
-reviewAuthor: Will de la Guardia
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
 wordCount: 4540
 readingTimeMinutes: 21
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1ObJx_7T8gxsMdhGjJw29L7UKkdk4GaFDsCfb7msNcxo
 tags:
   - History
   - Politics
@@ -33,9 +32,9 @@ _Imagined Communities_ is all about Benedict Anderson's attempt to explain this 
 
 > Theorists of nationalism have often been perplexed by, not to say irritated by, these three paradoxes:
 
-*   Objective modernity to the historian's eye vs their subjective antiquity in the eyes of nationalists
-*   The formal universality of nationality as a socio-cultural concept - in the modern world everyone can, should and will 'have' a nationality, as he or she 'has' a gender - vs. the irremediable particularity of its concrete manifestations, such that by definition, 'Greek' nationality is sui generis
-*   The 'political' power of nationalisms vs. their philosophical poverty and even incoherence. In other words, unlike most other isms, no nationalism has never produced its own grand thinkers: no Hobbeses, Tocquevilles, Marces or Webers.
+* Objective modernity to the historian's eye vs their subjective antiquity in the eyes of nationalists
+* The formal universality of nationality as a socio-cultural concept - in the modern world everyone can, should and will 'have' a nationality, as he or she 'has' a gender - vs. the irremediable particularity of its concrete manifestations, such that by definition, 'Greek' nationality is sui generis
+* The 'political' power of nationalisms vs. their philosophical poverty and even incoherence. In other words, unlike most other isms, no nationalism has never produced its own grand thinkers: no Hobbeses, Tocquevilles, Marces or Webers.
 
 Anderson's definition of a nation is [3]:
 

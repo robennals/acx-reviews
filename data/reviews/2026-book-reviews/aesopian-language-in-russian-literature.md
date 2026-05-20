@@ -1,7 +1,7 @@
 ---
 title: Aesopian Language in Russian Literature
 author: Unknown
-reviewAuthor: Konstantin Asimonov
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: aesopian-language-in-russian-literature
 wordCount: 6630
 readingTimeMinutes: 30
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1v162KzjdBgFaNzrrEyrs3R7bGVCqW3mcPDCxEx4nLcE
 tags:
   - Politics
   - Society

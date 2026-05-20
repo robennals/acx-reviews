@@ -236,9 +236,27 @@ const stripFormattingForMatch = (line: string) =>
  */
 function wrapItalicParagraphsAsBlockquotes(markdown: string): string {
   const lines = markdown.split('\n');
-  const italicOnlyRe = /^_[^_\n].*_[*\s]*$/;
+  // Match a line that's mostly italic. Three accepted shapes:
+  //   1. Plain italic line:  `_…_` with optional trailing
+  //      whitespace/asterisks.
+  //   2. Italic + parenthesized citation:
+  //        `_"…quoted text…"_ (Ch 10, pg 330.)`
+  //   3. Italic + chapter/page-style citation starting with an
+  //      uppercase letter and ending in a period:
+  //        `_"…quote…"_ Ch 5, pg 147.`
+  // The citation suffix is bounded so we don't sweep in long prose
+  // paragraphs that begin with a brief italic fragment.
+  const italicOnlyRe =
+    /^_[^_\n].*_[*\s]*$|^_[^_\n].*_\s*\([^)\n]{1,60}\)\s*$|^_[^_\n].*_\s+[A-Z][^_\n]{1,50}\.\s*$/;
+  let figureDepth = 0;
   for (let i = 0; i < lines.length; i++) {
     const l = lines[i];
+    // Track <figure>/<figcaption> nesting so caption text doesn't get
+    // wrapped in `> ` (image captions are NOT blockquotes).
+    const openTags = (l.match(/<(figure|figcaption)\b/g) || []).length;
+    const closeTags = (l.match(/<\/(figure|figcaption)>/g) || []).length;
+    figureDepth += openTags - closeTags;
+    if (figureDepth > 0) continue;
     if (!italicOnlyRe.test(l)) continue;
     if (l.startsWith('>') || l.startsWith('#') || l.startsWith('![') ||
         l.startsWith('*') || l.startsWith('-') || l.startsWith('  ')) {

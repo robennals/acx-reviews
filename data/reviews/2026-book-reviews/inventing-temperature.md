@@ -1,7 +1,7 @@
 ---
 title: Inventing Temperature
 author: Unknown
-reviewAuthor: Sean Trott
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: inventing-temperature
 wordCount: 5171
 readingTimeMinutes: 23
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1Z8j-AbxzuVlGzl0K1-q7rjjoB12xdE8jlA_IfcXmZPU
 tags:
   - Science
   - Philosophy
@@ -97,10 +96,10 @@ The naive solution would be to divide our thermoscope into equal intervals betwe
 
 The solution is naive, though, because the assumption is unwarranted: is it really the case that fluid expands linearly with temperature? It seems conceivable that a fluid might expand logarithmically, quadratically, exponentially, or in some other fashion. How could we possibly figure this out? Chang calls this the _problem of nomic measurement_, which he defines as follows:
 
-1.  We want to measure quantity _X_.
-2.  Quantity _X_ is not directly observable, so we infer it from another quantity _Y_, which is directly observable.
-3.  For this inference we need a law that expresses _X_ as a function of _Y_, as follows: _X = f(Y)_.
-4.  The form of this function _f_ cannot be discovered or tested empirically, because that would involve knowing the values of both _Y_ and _X_, and _X_ is the unknown variable that we are trying to measure. (pg. 59)
+1. We want to measure quantity _X_.
+2. Quantity _X_ is not directly observable, so we infer it from another quantity _Y_, which is directly observable.
+3. For this inference we need a law that expresses _X_ as a function of _Y_, as follows: _X = f(Y)_.
+4. The form of this function _f_ cannot be discovered or tested empirically, because that would involve knowing the values of both _Y_ and _X_, and _X_ is the unknown variable that we are trying to measure. (pg. 59)
 
 Moreover, different fluids might expand in different ways. There were several contenders in late 1700s and early 1800s—atmospheric air, mercury, and ethyl alcohol—which themselves represented a reduction from the original variety of substances that had been proposed (including oil, salt water, and petroleum). Which provided the most reliable measure of temperature?
 

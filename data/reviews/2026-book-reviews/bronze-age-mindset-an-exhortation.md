@@ -1,7 +1,7 @@
 ---
 title: 'Bronze Age Mindset: An Exhortation'
 author: Unknown
-reviewAuthor: Vincent Lê
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: bronze-age-mindset-an-exhortation
 wordCount: 9305
 readingTimeMinutes: 42
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1v93bkDdU_1VD0WgHXCnnTjcS-aRHCp39KLDGg9zYSRw
 tags:
   - Philosophy
   - Politics

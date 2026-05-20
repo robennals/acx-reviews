@@ -1,7 +1,7 @@
 ---
 title: We Present Television
 author: Unknown
-reviewAuthor: Chris Finkle
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: we-present-television
 wordCount: 9276
 readingTimeMinutes: 42
 source: gdoc
-originalUrl: https://docs.google.com/document/d/10qMR2EY8eGmrjboKtlRBqV4MqlTbp_B8X-kecncp46M
 tags:
   - History
   - Technology
@@ -236,10 +235,10 @@ We sure showed him! Obviously TVs did get bigger as the average American househo
 
 Some of the other flop predictions are simply failed technical extrapolations:
 
-*   That we will someday have home smell-o-vision.
-*   That fax machines integrated into TVs will print the recipe from a cooking show while you watch it.
-*   That the “usual family audience” will ultimately be satisfied by “television pictures as large as 18 by 24 inches”.
-*   That TV will eventually acquire a third dimension, like _Star Wars_ holograms.
+* That we will someday have home smell-o-vision.
+* That fax machines integrated into TVs will print the recipe from a cooking show while you watch it.
+* That the “usual family audience” will ultimately be satisfied by “television pictures as large as 18 by 24 inches”.
+* That TV will eventually acquire a third dimension, like _Star Wars_ holograms.
 
 And then there are the occasional sociological predictions, such as this rosy view advanced by RCA President David Sarnoff (as quoted by Morton to conclude Chapter 1):
 
@@ -257,9 +256,9 @@ Here’s a pretty typical prediction from the book. This is at the start of Butt
 
 So the smell-o-vision claim is hedged a bit, but the rest of it did come true. It took a surprisingly long time though:
 
-*   Color TV programming grew throughout the 1960s, and sales of color TV sets exceeded black and white in 1972.
-*   “True sound reproduction” wasn’t attempted until the introduction of the [MTS](https://en.wikipedia.org/wiki/Multichannel_Television_Sound) standard in 1984, and surround sound did not become standard until the digital switchover in 2009.
-*   And actors in a typical medium shot did not start to appear life-sized on most people’s sets until the proliferation of 65” and above LED TVs in the 2020s!
+* Color TV programming grew throughout the 1960s, and sales of color TV sets exceeded black and white in 1972.
+* “True sound reproduction” wasn’t attempted until the introduction of the [MTS](https://en.wikipedia.org/wiki/Multichannel_Television_Sound) standard in 1984, and surround sound did not become standard until the digital switchover in 2009.
+* And actors in a typical medium shot did not start to appear life-sized on most people’s sets until the proliferation of 65” and above LED TVs in the 2020s!
 
 The ‘someday’ of Butterfield’s imagination, minus the flower garden, is in fact _today_. The technical advances that could be easily imagined in 1940 took eight decades to attain. But we _did_ attain them.
 

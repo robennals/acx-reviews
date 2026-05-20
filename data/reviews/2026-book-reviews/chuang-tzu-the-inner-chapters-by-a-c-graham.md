@@ -1,7 +1,7 @@
 ---
 title: 'Chuang-Tzu: The Inner Chapters by A. C. Graham'
 author: Unknown
-reviewAuthor: Patrick Wilson
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: chuang-tzu-the-inner-chapters-by-a-c-graham
 wordCount: 7203
 readingTimeMinutes: 33
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1GJ1ggpkMs9GJJg8mxwzQgqKY0hom5KEkulekee0D-0o
 tags:
   - Philosophy
   - Religion

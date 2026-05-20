@@ -1,16 +1,15 @@
 ---
 title: Plutarchs' Parallel Lives - Tiberius and Gaius Gracchi
 author: Unknown
-reviewAuthor: Patrick Carton
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T01:06:16.000Z'
 slug: plutarchs-parallel-lives-tiberius-and-gaius-gracchi
-wordCount: 4901
+wordCount: 4903
 readingTimeMinutes: 22
 source: gdoc
-originalUrl: https://docs.google.com/document/d/12Wdiq8sYSxVu6ujggNhTCcAgLA8dZhPUfnoK0oNGN9w
 tags:
   - History
   - Politics
@@ -30,7 +29,7 @@ When John Quincy Adams was appointed ambassador to Russia in 1809 he carried Plu
 
 Earlier, Shakespeare took the plots for _Julius Caesar_, _Antony and Cleopatra,_ _Coriolanus_ and _Timon of Athens_ from his reading of Plutarch. In some cases he lifted passages wholesale from Thomas North's translations. When you are a good enough storyteller to be plagiarised by Shakespeare, you are a very good story teller indeed.
 
-**Who was Plutarch.**
+## Who was Plutarch.
 
 Plutarch was a Greek, born in the 1st century AD, after they had been eclipsed by the Romans. He was born to a good family in an obscure town, and though his admiration for the great statesmen of the past was boundless, he did not have a chance to be one. Instead he wrote about them - a lot. He wrote 48 biographies, referred to as “Lives,” of the exemplary statesmen of Greece and Republican Rome. A handful of these lives are lost, but considering the attrition rates of ancient literature an unusually high number survived the dark ages, a testament to their brilliance.
 
@@ -150,7 +149,7 @@ The Gracchi had been dispatched, but their memory would live long, both with the
 
 > _“The Roman people… cowed and oppressed at the time of the actual events… shortly after showed how much they missed and longed for the Gracchi. They began to erect statues of them and to display them in prominent places: they consecrated the places where they were murdered and used to offer there the first fruits of all the seasonal sacrifices; and many people even sacrificed to the Gracchi on a daily basis, and bowed before their statues as if they were visiting sanctuaries dedicated to the gods.”_
 
-**The Significance of the Gracchi.**
+## The Significance of the Gracchi.
 
 The Republic would never recover from the violence exercised against the Gracchi, or from the missed opportunity for economic reform. In the next century there would be a series of civil wars: Sulla vs Marius, the Bellum Catilinae, Caesar vs Pompey, the Liberators vs The Triumvirate, and finally Marc Antony vs Augustus. Augustus, the first emperor, would end the republic and set out a new system of dictatorship. You can read about all of these lives, except for Augustus, which was politically dangerous to write, in Plutarch.
 

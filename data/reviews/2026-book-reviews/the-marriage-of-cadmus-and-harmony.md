@@ -1,16 +1,15 @@
 ---
 title: The Marriage of Cadmus and Harmony
 author: Unknown
-reviewAuthor: Anthony Robb
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T06:32:54.000Z'
 slug: the-marriage-of-cadmus-and-harmony
-wordCount: 8784
+wordCount: 8803
 readingTimeMinutes: 40
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1N_fWzH5fE8xuyszGILofOOrBf3i9HoEUPFhCwDiEGRI
 tags:
   - History
   - Religion
@@ -28,13 +27,13 @@ The quote on the cover of the book reads a bit pretentious. _“A perfect work l
 
 This is a book review and _TMOCAH_ is a book, and to say what this book _is_ is rather straightforward. This is a book containing and about Greek mythology. It recounts a large number of the famous Greek myths, told in a unique way. Most chapters do not really have any overarching theme or organization. A couple cover things like the whole house of Tantalus, others cover Apollo and Athena, another one contains many Iliad and Odyssey references, another lots of juxtaposition between Athens and Sparta, but not one of the chapters has only a single topic or theme. As a whole the text seems to meander and flit between various myths with nearly no overarching connections. I’d like to emphasize that, because if you are looking for a conventional narrative you will not find it here. This makes placing _TMOCAH_ in a modern genre for the sake of this review difficult. So instead of trying to show you what this book is ‘about’, I would like to illustrate the magic of _TMOCAH_ by teasing apart one of its more enigmatic riddles. Best to just dive in.
 
-The Pledge
+## The Pledge
 
 The first chapter sets a blistering pace and recounts 4 distinct versions of Europa’s myth in succession. In the first version, the traditional one, she is picking flowers along a river with her maidens when the tame bull approaches. In the second, she is asleep in the palace and dreams of the tame white bull. She goes to the river to pick flowers to add to her basket, and the bull is there. In the third, the basket she is holding is the focus, and it depicts the myth of her great-great-grandmother Io and her transformation and wanderings as a cow; an inversion of Europa's own story, where a bull carried her from Asia to Europe, the continent that would become her namesake. The fourth is history, or so it is claimed. Phoenician merchants are said to have abducted the _tauroparthenos_, or virgin dedicated to the bull, Io. The Cretans then avenged this abduction by stealing the Phoenician king's daughter and bringing her to Crete; Europa. The tit-for-tat abductions of women would continue through Greek myth with the Argonauts stealing Medea, and Paris stealing Helen, until history itself is born.
 
 Your modern one-track-narrative mind may have questions. What should you make of these multiple versions? Which one has the most authority? Can a few be collapsed together and called a transcription error? Calasso cares not for your modern narratological sentiments. That’s the point he’s trying to make with this opening book.
 
-_“Mythical figures live many lives, die many deaths, and in this they differ from the characters we find in novels, who can never go beyond the single gesture. But in each of these lives and deaths all the others are present, and we can hear their echo. Only when we become aware of a sudden consistency between incompatibles can we say we have crossed the threshold of myth.”_ Ch 1, pg 22.
+> _“Mythical figures live many lives, die many deaths, and in this they differ from the characters we find in novels, who can never go beyond the single gesture. But in each of these lives and deaths all the others are present, and we can hear their echo. Only when we become aware of a sudden consistency between incompatibles can we say we have crossed the threshold of myth.”_ Ch 1, pg 22.
 
 People are often confused or surprised that there are multiple versions of the same Greek myths. Even the most famous ones have significant differences. In one version of the Trojan war Helen doesn’t even go to Troy! A phantom is sent in her place and everyone fights over that for 10 years. The ancients thought that this version was just as plausible as the others, yet nowadays we reject this version for the most part. Throughout the book Calasso makes it clear that this is not the correct way to deal with myth. Myth is not the novel, and it should not be treated as such, and neither should this book.
 
@@ -44,13 +43,13 @@ The multiple versions for each Greek myth arises out of the oral storytelling cu
 
 But interspersed between the multiple versions of the most famous abductions and transformations are musings on the interconnectedness of myth, suffused with ancient sources pertinent to the topic. Take the following convoluted and confusing paragraph as an example.
 
-_“Ariadne, Coronis: two stories that call to each other, that answer each other. Not only was the killer the same in both cases - Artemis- but perhaps the mortal seducer was likewise the same - Theseus. Ischys is a shadowy figure, of whom we know nothing apart from his name. But of Theseus we know a great deal; we know that in one version he left Ariadne the moment “he fell desperately in love with Aigle, daughter of Panopeus.” So wrote Hesiod; but Pisistratus chose to delete this very line. Why? Did it reveal too much about the hero? A marble stele found in Epidaurus and signed by Isyllus explains that Aigle (or Aegla) “was so beautiful that people would also call her Coronis,” and that she had a child called Asclepius. Aigle means “splendor,” as Ariadne-Aridela means “the resplendent one.” Coronis (crown) suggests a beauty that goes beyond diffuse brilliance,_ _involves_ _the etching of a form. But who was “Aigle, daughter of Panopeus”? Her father was the king of a small Phocian town with the same name, Panopeus: “Panopeus with its lovely open space for dancing,” says Homer,”_ Ch 3, pg 57.
+> _“Ariadne, Coronis: two stories that call to each other, that answer each other. Not only was the killer the same in both cases - Artemis- but perhaps the mortal seducer was likewise the same - Theseus. Ischys is a shadowy figure, of whom we know nothing apart from his name. But of Theseus we know a great deal; we know that in one version he left Ariadne the moment “he fell desperately in love with Aigle, daughter of Panopeus.” So wrote Hesiod; but Pisistratus chose to delete this very line. Why? Did it reveal too much about the hero? A marble stele found in Epidaurus and signed by Isyllus explains that Aigle (or Aegla) “was so beautiful that people would also call her Coronis,” and that she had a child called Asclepius. Aigle means “splendor,” as Ariadne-Aridela means “the resplendent one.” Coronis (crown) suggests a beauty that goes beyond diffuse brilliance,_ _involves_ _the etching of a form. But who was “Aigle, daughter of Panopeus”? Her father was the king of a small Phocian town with the same name, Panopeus: “Panopeus with its lovely open space for dancing,” says Homer,”_ Ch 3, pg 57.
 
 Calasso goes on to connect this otherwise obscure character Ischys with the famous Theseus slayer of the Minotaur. Not by anything you could call proof of course, but through vibes. The number of coincidences between the stories is peculiar, and the breadth of the sources he uses to connect the two impressive. In the one paragraph he weaves anecdotes from Hesiod, Isyllus, Homer, Pausanias, and an Athenian vase depicting the hero. It’s paragraphs like this where Calasso flexes his scholarly muscles. An interview with him from The Paris Review in 2012 describes him as a “literary institution of one” and a “neo-gnostic” or master of secret knowledge. This is unsurprising as Isyllus is a poet with only a single known source: an offering stone with his name and poem on it that was unearthed in Epidaurus. Homer, Hesiod, and Pausanias are big hitters, but Calasso has extracted a handful of words from each to support his thesis.
 
 Oh, which is what exactly? What is the takeaway from this section? That Theseus is Ischys? That both these myths hail from some proto-indo-european source myth? The off hand, cherry picking of details from sources, stitched together, sort of didactic, fire-side chat-esque rhetorical-question filled paragraph lulls you into accepting the initially unlikely notion that Thesus and Ischys are somehow connected. But the real point is not so scholarly. Two chapters later Calasso gives an answer.
 
-_“No sooner have you grabbed hold of it_ _than myth_ _opens out into a fan of a thousand segments. Here the variant is the origin. Everything that happens, happens this way, or that way, or this other way. And in each of these diverging stories all the others are reflected, all_ _brush_ _by us like folds of the same cloth. If, out of some perversity of tradition, only one version of some mythical event has come down to us, it is like a body without a shadow, and we must do our best to trace out that invisible shadow in our minds.”_ Ch 5, pg 147.
+> _“No sooner have you grabbed hold of it_ _than myth_ _opens out into a fan of a thousand segments. Here the variant is the origin. Everything that happens, happens this way, or that way, or this other way. And in each of these diverging stories all the others are reflected, all_ _brush_ _by us like folds of the same cloth. If, out of some perversity of tradition, only one version of some mythical event has come down to us, it is like a body without a shadow, and we must do our best to trace out that invisible shadow in our minds.”_ Ch 5, pg 147.
 
 The variant is the origin. Whether Theseus and Ischys are the same is irrelevant. Better questions are what kind of shadow does the body of their myths cast? What is it about this story structure that has caused it to become multiformed and variant? I do not know.
 
@@ -64,7 +63,7 @@ This system is undoubtedly the basis for _TMOCAH_. Many times throughout this bo
 
 This is a book review though, so If I had to choose a structure for this book, I would have to say that it involves the myth of the Marriage of Cadmus and Harmony. A revelation, I know, but that really is the only thread! The stories loosely follow the house of Cadmus, starting from the abduction of Europa like I mentioned, to Cadmus searching for his sister Europa and founding Thebes, and ending with Cadmus and wife Harmony leaving Thebes after Dionysus’ arrival. Between those events Calasso covers nearly all mythological ground and heroes, but he is not interested in all equally. Large areas of text are dedicated to expanding on seemingly minor characters. Take for example Ariadne. She is known for helping Theseus navigate Daedelus’ labyrinth and escaping with him from Crete, only to be left behind on an island along the way. Calasso adds that Ariadne had met the God Dionysus before she met Theseus, and that the two were already acquainted,
 
-_“From first to last Ariadne’s story is woven into a crown. “My cousin’s arriving,” the young princess thought when they told her Dionysus had landed on the island. She had never seen this relative, born from his mother’s death pyre and rumored to be so handsome. When he appeared, Dionysus didn’t want to stay in the palace. He gripped her wrist and led her to one of Crete’s many caves. And there the darkness was rent by a dazzling crown. Fiery gold and Indian jewels. Dionysus offered Ariadne the crown as a gift on the occasion of this, their first embrace. Sing of perfection, “herald of propitious silence,” the crown was a circle of seduction. But to seduce also means “to destroy” in Greek: phtheirein. The crown is the perfection of deceit, it is the deceit that circles in on itself, it is that perfection which includes deceit within it.”_ Ch 1, pg 19-20.
+> _“From first to last Ariadne’s story is woven into a crown. “My cousin’s arriving,” the young princess thought when they told her Dionysus had landed on the island. She had never seen this relative, born from his mother’s death pyre and rumored to be so handsome. When he appeared, Dionysus didn’t want to stay in the palace. He gripped her wrist and led her to one of Crete’s many caves. And there the darkness was rent by a dazzling crown. Fiery gold and Indian jewels. Dionysus offered Ariadne the crown as a gift on the occasion of this, their first embrace. Sing of perfection, “herald of propitious silence,” the crown was a circle of seduction. But to seduce also means “to destroy” in Greek: phtheirein. The crown is the perfection of deceit, it is the deceit that circles in on itself, it is that perfection which includes deceit within it.”_ Ch 1, pg 19-20.
 
 The use of perspective of a secondary character, often a woman, to see the tale from a different angle is a common one for Calasso. In this section he expands on how both Theseus and Dionysus abandon Ariadne, and both provide her with crowns. The crown, or necklace, or garland, or fetter, or ring, but most often a crown, is a common motif in _TMOCAH_.
 
@@ -82,7 +81,7 @@ Between the myths, Calasso enjoys tangents on whatever topic strikes his fancy. 
 
 > _“The Greeks were drawn to enigmas. But what is an enigma? A mysterious formulation, you could say. Yet that wouldn’t be enough to define an enigma. The other thing you have to say is that the answer to an enigma is likewise mysterious. This is what distinguishes the enigma from the problem, although at the beginning of Greek civilization the two categories were confused. When a problem is resolved, both question and answer dissolve, are absorbed into a mechanical formula. Climbing a wall is a problem, until you lean a ladder against it. Afterward, you have neither problem nor solution, just a wall and a ladder. This is not so for the enigma. Take the most famous one of all, the Sphinx’s: “What is the being that has but one voice and yet sometimes has two feet, sometimes three, sometimes four, and is progressively weaker the more feet it has?” Oedipus answers: “Man.” But if we think about that answer, we realize that precisely the fact that “man” is the solution to such an enigma suggests the enigmatic nature of man. What is this incongruous being that goes from the animal condition of the quadruped through to the prosthesis (the old man’s stick), all the time preserving a single voice? The solution to the enigma is thus itself an enigma, and a more difficult one._
 
-_Resolving an enigma means shifting it to a higher level, as the first drops away. The Sphinx hints at the indecipherable nature of man, this elusive, multiform being whose definition cannot be otherwise than elusive and multiform. Oedipus was drawn to the Sphinx, and he resolved the Sphinx’s enigma, but only to become an enigma himself. Thus anthropologists were drawn to Oedipus, and are still there measuring themselves against him, wondering about him.”_ Ch 10, pg 343-344.
+> _Resolving an enigma means shifting it to a higher level, as the first drops away. The Sphinx hints at the indecipherable nature of man, this elusive, multiform being whose definition cannot be otherwise than elusive and multiform. Oedipus was drawn to the Sphinx, and he resolved the Sphinx’s enigma, but only to become an enigma himself. Thus anthropologists were drawn to Oedipus, and are still there measuring themselves against him, wondering about him.”_ Ch 10, pg 343-344.
 
 A lot of the time when I am searching online for topics around the Greek myths, they rarely extend beyond the beginner level, but here Calasso decodes the riddle of the Sphinx in a profound way: it reveals the enigmatic nature of man. This book does this sort of thing _very_ well. There are many sections that illuminate these stories like I had never encountered them before, that made me see them as if brand new. Calasso tucks these nuggets between the larger, looser narrative of myth weaving that he is undertaking, but they are there! And they are marvelous.
 
@@ -90,19 +89,19 @@ A lot of the time when I am searching online for topics around the Greek myths, 
 
 Besides the asides, this book is chock full of D-list Greek myths. If you came looking for the mainstays: the theogonous myths, the Trojan war, the Ovidian myths, they are there, but my gods does Calasso truly have _all_ the myths covered. If you are a Greek myth nerd like me, you probably thought you had heard it all, considered it all; no myth could be beyond your Googling ability. Calasso has you trounced. Though for most of the myths he takes a rather different approach in his retellings. For example, I can guarantee you never dwelt on the feelings of young Erichthonius, tucked behind the Aegis, flying with his adoptive mother the virgin Goddess Athena.
 
-_“Erichthonius felt happy, at home, a snake among snakes. Through the dried pelt of the Aegis, he felt the hidden warmth of his adoptive mother.”_ Ch 8, pg 235.
+> _“Erichthonius felt happy, at home, a snake among snakes. Through the dried pelt of the Aegis, he felt the hidden warmth of his adoptive mother.”_ Ch 8, pg 235.
 
 Calasso expounds on the strange virgin-mother and snake-child relationship in an honestly endearing way. You may vaguely recall that the anguiform Erichthonius became the king of Athens, but not how he felt about the Goddess who raised him. I don't blame you. Hephaestus’ rape-attempt-on-Athena-turned-autochthonous-snake-child-spawning escapade is not one of the more well known myths.
 
 Ok, but that’s just an expansion on some weird side character you say. What about some popular stuff, let’s hear what Calasso has to say about Cosmology! Well, surely you remember Zeus swallowing Phanes, the firstborn God, and then swallowing the other Gods, the earth, and the universe, becoming the only one, right?
 
-_“Everything grew together inside him, clutching his innards as a bat clutches to a tree or a bloodsucker to flesh. Then Zeus, who had been just another of the Titans’ children, became, alone, the beginning, the middle, and the end. He was male, but he was also an immortal Nymph. Then, in his overflowing solitude, he saw the life that had come before his birth as a child of Kronos, the father who had immediately threatened him and wanted to swallow him up. And he understood why his father had been so fierce. In the end, Kronos had only tried to do what Zeus alone had now succeeded in doing. But everything seemed luminous and clear to him now, because everything was in him. With amazement he_ _realized_ _he had become the only one. He lived in a state of perfect wakefulness. He went back to the times preceding his father, Kronos, further and further back, until he reached a point that was furthest, because it had been the first.”_ Ch 7, pg 199.
+> _“Everything grew together inside him, clutching his innards as a bat clutches to a tree or a bloodsucker to flesh. Then Zeus, who had been just another of the Titans’ children, became, alone, the beginning, the middle, and the end. He was male, but he was also an immortal Nymph. Then, in his overflowing solitude, he saw the life that had come before his birth as a child of Kronos, the father who had immediately threatened him and wanted to swallow him up. And he understood why his father had been so fierce. In the end, Kronos had only tried to do what Zeus alone had now succeeded in doing. But everything seemed luminous and clear to him now, because everything was in him. With amazement he_ _realized_ _he had become the only one. He lived in a state of perfect wakefulness. He went back to the times preceding his father, Kronos, further and further back, until he reached a point that was furthest, because it had been the first.”_ Ch 7, pg 199.
 
 Don’t feel bad about this one, the _Fragmenta Orphicorum_ was never translated out of Greek and Latin. Calasso: _‘Literary institution of one’_, remember. If you were looking for Greek myths off the beaten trail, you’ve found them, Calasso has apparently absorbed them all, swallowing the entirety of Greek myth _a la_ Zeus and Phanes.
 
 The treatment of myth in _TMOCAH_ feels unique, because for all the actual story telling going on, there are equal measures of pontificating on the nature of myth. The structures of the tales are of as great an interest to Calasso as the contents themself. The numerous diversions from the myths are filled with digressions on them, perhaps so that we may understand his book more completely. Take this one for example.
 
-_“For centuries people have spoken of the Greek myths_ _as of something_ _to be rediscovered, reawoken. The truth is it is the myths that are still out there waiting to wake us and be seen by us, like a tree waiting to greet our newly opened eyes.”_ Ch 8, pg 280.
+> _“For centuries people have spoken of the Greek myths_ _as of something_ _to be rediscovered, reawoken. The truth is it is the myths that are still out there waiting to wake us and be seen by us, like a tree waiting to greet our newly opened eyes.”_ Ch 8, pg 280.
 
 This paragraph stands as its own on the page, which is about as much of a hint as Calasso seems to be willing to give readers. If we take it as instructional then perhaps Calasso means for us to rediscover Greek myth through his book. I will say there is something different about the way _TMOCAH_ tells the myths, and a feeling of rediscovery/reawakening is not far off.
 
@@ -126,11 +125,11 @@ The _Dionysiaca_ entails the life of Dionysus, including his birth, adventures t
 
 But is it actually bad? There is lots of stuff from antiquity that is, well, not great. This doesn’t make it not worth reading, but it does limit its widespread appeal. Calasso no doubt greatly admired Nonnus, and devotes several pages to discussing him. According to Calasso, the number of poets who have understood Nonnus could be counted on one hand. An Italian poet from the 1600’s, Giovan Battista Marino, is said by Calasso to have,
 
-_“... had no doubt about it: Nonnus was the only one who could compete with Homer, the only poet who could empty his work of all heroic sobriety and encourage every possible twirl and caprice while still preserving a quite vast frame all around.”_ Ch 10, pg 332.
+> _“... had no doubt about it: Nonnus was the only one who could compete with Homer, the only poet who could empty his work of all heroic sobriety and encourage every possible twirl and caprice while still preserving a quite vast frame all around.”_ Ch 10, pg 332.
 
 This isn’t a quotation of Giovan, it is Calasso’s impression of Giovan’s reverence for Nonnus. On the previous page where Calasso untangles the enigma of whether Nonnus wrote his pagan epic or his Christian epic first he says,
 
-_“This great writer, who has often been disparagingly dubbed “baroque,” but in the same spirit could equally well be described as rococo, encrusted his poetry with voluptuous idylls and cosmological secrets. The Dionysiaca are an overflowing summa of the pagan world, a world that should have been on the brink of extinction but that here opens up before our eyes like a meadow of narcissi.”_ Ch 10, pg 330.
+> _“This great writer, who has often been disparagingly dubbed “baroque,” but in the same spirit could equally well be described as rococo, encrusted his poetry with voluptuous idylls and cosmological secrets. The Dionysiaca are an overflowing summa of the pagan world, a world that should have been on the brink of extinction but that here opens up before our eyes like a meadow of narcissi.”_ Ch 10, pg 330.
 
 and,
 
@@ -144,7 +143,7 @@ Calasso also includes this quote from a German author on Nonnus,
 
 It is strange that Calasso has included this comment on Nonnus. Seeing as he takes the same myth as Nonnus to begin his book, and that he regularly cites Nonnus, if we take a step back and look at this differently, this statement would seem to imply that Calasso himself is the ever-zealous mythographer…
 
-The Turn.
+## The Turn.
 
 I have a confession to make. Calasso owes more than a few references to the poet Nonnus, in fact, if we were to simplify the situation DRASTICALLY, the only apt comparison would be that Calasso copied Nonnus’ homework but didn’t make it look like he changed it enough. I will not use the P word for this (rhymes with lagiarization), because it is not. Calasso has a point to his borrowing of Nonnus material. But you may be thinking, there aren’t _that_ many references to Nonnus in the sources! You probably even tallied them up and found that Nonnus is only ~3% of all cited material! Surely this doesn’t count as the P word.
 
@@ -156,11 +155,11 @@ Lastly, a large fraction of the myths contained in _TMOCAH_ are actually Nonnus�
 
 Rereading what has been said by Calasso about Nonnus already, if we slightly alter the wording we arrive at an interesting realization.
 
-> _“__The Dionysiaca_ _The Marriage of Cadmus and Harmony is an overflowing summa of the pagan world, a world that should have been on the brink of extinction but that here opens up before our eyes like a meadow of narcissi.”_
+> _“__~~The Dionysiaca~~_ _The Marriage of Cadmus and Harmony is an overflowing summa of the pagan world, a world that should have been on the brink of extinction but that here opens up before our eyes like a meadow of narcissi.”_
 
 and,
 
-> “_The Dionysiaca_ _The Marriage of Cadmus and Harmony is the most sumptuous celebration imaginable of the redundant variant and the rampantly superfluous.”_
+> “_~~The Dionysiaca~~_ _The Marriage of Cadmus and Harmony is the most sumptuous celebration imaginable of the redundant variant and the rampantly superfluous.”_
 
 These statements describe _TMOCAH_ just as well as they do _The Dionysiaca._ It appears that Calasso himself is hinting at his book's similarities with the ancient author.
 
@@ -170,11 +169,11 @@ Let me be clear, Calasso does not plagiarize Nonnus, he’s doing this for a rea
 
 Earlier during the story of Ariadne and Dionysus I mentioned the recurring concept of the crown in _TMOCAH_. Calasso says some strange things about it, like
 
-_“The crown is the perfection of deceit, it is the deceit that circles in on itself, it is that perfection which includes deceit within it.”_ Ch 1, pg 20.
+> _“The crown is the perfection of deceit, it is the deceit that circles in on itself, it is that perfection which includes deceit within it.”_ Ch 1, pg 20.
 
 And,
 
-_“Coronis (crown) suggests a beauty that goes beyond diffuse brilliance”_ Ch 3, pg 57.
+> _“Coronis (crown) suggests a beauty that goes beyond diffuse brilliance”_ Ch 3, pg 57.
 
 And similar to crowns in that they are both complete circles, the book also has much to say about necklaces. On the first page during the abduction of Europa she says, _“Tell my father Europa has been carried off by a bull … Please, give this necklace to my mother”_ (Ch 1, pg 3). This exact necklace from the beginning makes an appearance in the final chapter of the book when Harmony is presented with a necklace as a wedding present, _“Was it the wonderful necklace Hephaestus had wrought to celebrate the birth of Eros, the archer? Or was it the necklace Zeus had given to Europa, when he laid her down beneath a plane tree in Crete?”_ (Ch 12, pg 386).
 
@@ -186,7 +185,7 @@ As I mentioned earlier, the connection between the beginning and the end is perv
 
 Now the comments on the crown begin to make sense, _‘The crown (ring) is the perfection of deceit … it is that perfection which includes deceit in it’_. Calasso structures his work this way, and then has you accept his own praise for it! _“Coronis (crown/ring) suggests a beauty that goes beyond a diffuse brilliance”_. Don’t believe me that this is intentional? The quote on the cover of the book by essayist/novelist/screenwriter Gore Vidal reads, _“A perfect work like no other. [Calasso] has re-created, in a blaze of light, the morning of our world.”_ Gore Vidal understood _TMOCAH_. He saw the perfect ring structure _‘which includes deceit in it’_, the deceit of appropriating Nonnus, he saw the _‘beauty that goes beyond a diffuse brilliance’_ into a blaze of light, and he may have also seen that Calasso ‘re-created’ it; the final sneaky piece to the puzzle.
 
-_The Prestige…_
+## The Prestige…
 
 It is clear that Calasso tries to hide his debt to Nonnus, and we have seen that the debt goes beyond mere inspiration. But the final piece to the trick that Calasso is playing is the hardest to detect. I would venture to say it is virtually undetectable, because several strange conditions would have to be met for you to find it. First you would have to have read Nonnus’ _Dionysiaca_ in the original Greek and translate the first paragraph, and second, you would need to read this book. The Venn diagram of people who meet these conditions contains one person at least [2]. Not even yours truly was aware, because again, who the hell has heard of Nonnus.
 
@@ -210,13 +209,13 @@ Calasso knows those thousand segments, and presents many of them to us, too many
 
 And penetrate it he has, as the entire first two paragraphs of _TMOCAH_ are a direct translation from Nonnus that he passes off as his own; there is no attribution to Nonnus in the ‘sources’. In the same way that the dark age poet did not create the stories that he told, neither has Calasso. He has only stepped to the front of a long line of mythographers/poets/bards to reinvigorate and reinvent these old tales, and add his own variations. So what variations has Calasso added then? Remember how I mentioned that the first two paragraphs of _TMOCAH_ are a direct translation from a section of Nonnus’ _Dionysiaca_. I quote here from the first page of the book, where, having just been abducted by Zeus, Europa says:
 
-_“Tell my father Europa has been carried off by a bull–my kidnapper, my sailor, my future bedmate, I imagine. Please give this_ _necklace_ _to my Mother.”_ Ch 1, pg 3.
+> _“Tell my father Europa has been carried off by a bull–my kidnapper, my sailor, my future bedmate, I imagine. Please give this_ _necklace_ _to my Mother.”_ Ch 1, pg 3.
 
 Except that Calasso has taken a liberty with the translation here. The Greek word from Nonnus that he has translated as necklace is βόστρυχα. It has no textual precedent to mean necklace, and the word normally refers to ringlets of hair or twisting grape vines [5]. Indeed, the W.H.D Rouse 1940 translation of _The Dionysiaca_ renders it ‘ringlets’: it is Europa’s hair she wishes to give to her mother.
 
 The change from ringlets to necklace is a conscious one. Calasso has snuck this tiny revision in, this initial kernel of deceit, because he has created the perfect work like no other. He has added a necklace (ring) at the beginning to reflect the necklace at the end, completing the ring of his story. All throughout Calasso has been reinforcing the idea of circular perfection, the perfect ring with deception at the center, and this is how he has fashioned his story.
 
-_“Perfection, any kind of perfection, always demands some kind of concealment. Without something hiding itself, or remaining hidden, there is no perfection. But how can the writer conceal the obviousness of the word and its figures of speech? With the light.”_ Ch 8, pg 282.
+> _“Perfection, any kind of perfection, always demands some kind of concealment. Without something hiding itself, or remaining hidden, there is no perfection. But how can the writer conceal the obviousness of the word and its figures of speech? With the light.”_ Ch 8, pg 282.
 
 Perhaps a “_blaze of light”_?
 
@@ -230,7 +229,7 @@ And this is the magic of _The Marriage of Cadmus and Harmony._
 
 Knowing what we know now, what are we left with after having discovered Calasso’s trick? I would say that the book undoubtedly has practical things to teach us about myth. The emphasis on the variant as the origin, the revealing of the interwoven nature of myth, the etiological accounts of tragedy and mystery contained within. The nuggets of wisdom hidden between the stories are all fascinating in their own right, but what about the ring-like perfection that Calasso insists his work has? Is it now tarnished because we have unraveled his enigma? Again, he provides us with the answer.
 
-_“The solution to the enigma is thus itself an enigma, and a more difficult one. Resolving an enigma means shifting it to a higher level, as the first drops away.”_ Ch 10, pg 344.
+> _“The solution to the enigma is thus itself an enigma, and a more difficult one. Resolving an enigma means shifting it to a higher level, as the first drops away.”_ Ch 10, pg 344.
 
 We may know how Calasso has captivated his audience with this book, in the same way that we know how mythopoetic bards asserted their stories through time, but by resolving this enigma we only encounter another, more difficult one: the enigmatic nature of myth.
 
@@ -238,7 +237,7 @@ We may know how Calasso has captivated his audience with this book, in the same 
 
 Just as the Sphinx reveals the indecipherable nature of man when Oedipous solves its riddle, so too do we reveal the indecipherable nature of myth when we engage with _The Marriage of Cadmus and Harmony_.
 
-_“For centuries people have spoken of the Greek myths_ _as of something_ _to be rediscovered, reawoken. The truth is it is the myths that are still out there waiting to wake us and be seen by us, like a tree waiting to greet our newly opened eyes.”_ Ch 8, pg 280.
+> _“For centuries people have spoken of the Greek myths_ _as of something_ _to be rediscovered, reawoken. The truth is it is the myths that are still out there waiting to wake us and be seen by us, like a tree waiting to greet our newly opened eyes.”_ Ch 8, pg 280.
 
 The process is forever ongoing, but always starts with the question,
 

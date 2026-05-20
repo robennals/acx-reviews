@@ -1,7 +1,7 @@
 ---
 title: Patrocleia. Book XVI of Homer’s Iliad, adapted by Christopher Logue
 author: Unknown
-reviewAuthor: Silentiarius
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue
 wordCount: 2289
 readingTimeMinutes: 11
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1FwhMhBexjyMd_Kb3w5smyATVpkDDDtDFB6rbSAXmdPM
 tags:
   - Fiction
 ---

@@ -1,7 +1,7 @@
 ---
 title: 17776 by Jon Bois
 author: Unknown
-reviewAuthor: PILK
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: 17776-by-jon-bois
 wordCount: 3041
 readingTimeMinutes: 14
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1kNwq2TT8M2qX_Iu_SWAOK488kcokOGYJWIn1j7Qcn-w
 tags:
   - Fiction
 ---

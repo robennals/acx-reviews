@@ -1,16 +1,15 @@
 ---
 title: The Epic of Gilgamesh
 author: Unknown
-reviewAuthor: John Woolley
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-15T23:10:39.000Z'
 slug: the-epic-of-gilgamesh
-wordCount: 12092
+wordCount: 12090
 readingTimeMinutes: 54
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1W-19VfqaCjDgXpSC4SX9KDJnAeWQ_xp6ggx_J7Vha4U
 tags:
   - Fiction
   - History
@@ -123,7 +122,7 @@ To say that gaps (‘lacunae’) are everywhere in Gilgamesh is to have it backw
 
 <figcaption>
 
-> _A part of Tablet 11, from_ _[the British Museum](https://www.britishmuseum.org/collection/image/107404001)__. This is one of the better-preserved fragments we have - most are much smaller than this and in worse condition._
+_A part of Tablet 11, from_ _[the British Museum](https://www.britishmuseum.org/collection/image/107404001)__. This is one of the better-preserved fragments we have - most are much smaller than this and in worse condition._
 
 </figcaption>
 
@@ -183,22 +182,22 @@ With the lens of history we can tell that this Standard Babylonian Version was p
 
 Timeline (all dates are approximate and could be out by at least a century [11]):
 
-*   **3500-2500 BC:** Cuneiform writing invented in Uruk
-*   **2800-2500 BC:** Gilgamesh (if real) is king of Uruk
-*   **2900-2334 BC:** Independent city states of Sumer
-*   **2334 BC:** Sargon establishes the Akkadian empire, conquers Sumer soon after
-*   **2154 BC:** Akkadian empire collapses
-*   **2100-2000 BC:** Third dynasty of Ur rules Sumer
-*   **2100-2000 BC:** First Gilgamesh poems written down in Sumerian cuneiform
-*   **2000 BC - 1700 BC:** Sumerian dies out as a spoken language
-*   **1792-1750 BC:** Babylonian empire expands under Hammurabi. Sumer becomes part of Babylonia
-*   **1800-1700 BC:** Old Babylonian version of Gilgamesh written down in Akkadian cuneiform
-*   **1600 BC - 1150 BC:** Babylonia ruled by the Kassites
-*   **1200-1150 BC:** [Late Bronze age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
-*   **1300-1000 BC:** Standard Babylonian version of Gilgamesh compiled in Akkadian cuneiform
-*   **500 BC:** Akkadian dies out as a spoken language
-*   **200-100 BC:** Last copies of the Epic of Gilgamesh created
-*   **100 AD:** Last cuneiform written
+* **3500-2500 BC:** Cuneiform writing invented in Uruk
+* **2800-2500 BC:** Gilgamesh (if real) is king of Uruk
+* **2900-2334 BC:** Independent city states of Sumer
+* **2334 BC:** Sargon establishes the Akkadian empire, conquers Sumer soon after
+* **2154 BC:** Akkadian empire collapses
+* **2100-2000 BC:** Third dynasty of Ur rules Sumer
+* **2100-2000 BC:** First Gilgamesh poems written down in Sumerian cuneiform
+* **2000 BC - 1700 BC:** Sumerian dies out as a spoken language
+* **1792-1750 BC:** Babylonian empire expands under Hammurabi. Sumer becomes part of Babylonia
+* **1800-1700 BC:** Old Babylonian version of Gilgamesh written down in Akkadian cuneiform
+* **1600 BC - 1150 BC:** Babylonia ruled by the Kassites
+* **1200-1150 BC:** [Late Bronze age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
+* **1300-1000 BC:** Standard Babylonian version of Gilgamesh compiled in Akkadian cuneiform
+* **500 BC:** Akkadian dies out as a spoken language
+* **200-100 BC:** Last copies of the Epic of Gilgamesh created
+* **100 AD:** Last cuneiform written
 
 ### Tablet 3-6: Gilgamesh’s adventures with Enkidu
 
@@ -254,7 +253,7 @@ But there’s no question modern people can find _something_ to enjoy about Gilg
 
 I also can’t miss out the [ongoing discussion](https://www.tumblr.com/sisterofiris/188682007614/so-i-just-did-a-paper-on-gilgamesh-and-enkidu) about whether Gilgamesh and Enkidu are intended to be platonic soulmates, or gay lovers who might literally fuck [14]. I’m not sure anything else so perfectly encapsulates the gulf of millennia between ancient and modern interpretations!
 
-I think Gilgamesh remains interesting in the modern age because it contains multitudes. While some of its themes (eg ‘what makes a good king’ or ‘how best to serve the gods’) aren’t very accessible in the 21st century, others are timeless, like loving your best bro as a wife  deep bonds between male friends. The central theme of the Epic of Gilgamesh is _mortality_. We’re all going to die - can we stop it, and if not, how do we deal with that?
+I think Gilgamesh remains interesting in the modern age because it contains multitudes. While some of its themes (eg ‘what makes a good king’ or ‘how best to serve the gods’) aren’t very accessible in the 21st century, others are timeless, like ~~loving your best bro as a~~ ~~wife~~  deep bonds between male friends. The central theme of the Epic of Gilgamesh is _mortality_. We’re all going to die - can we stop it, and if not, how do we deal with that?
 
 ### Tablets 7 and 8: The death of Enkidu
 
@@ -291,7 +290,7 @@ While we leave Gilgamesh to his grief, let’s talk about the reason you can rea
 > _Everyone knows words aren’t real. Or maybe I phrased that awkwardly, but certainly they’re not so real that if you inscribe every word ever written onto a piece of glass then the glass comes to life and kills you._  
 > - Scott Alexander*,* _[Half An Hour Before Dawn In San Francisco](https://www.astralcodexten.com/p/half-an-hour-before-dawn-in-san-francisco)_, 2023 AD  
 
-In case you missed it, large language models are quite the thing at the moment. ChatGPT, Claude, and Gemini are all based, at their core, on language. You train an LLM by making [a pile](https://xkcd.com/1838/) of every written word you can find, and grinding it through a [transformer decoder](https://en.wikipedia.org/wiki/Transformer_(deep_learning)) until it comes to life and kills you passes the ARC-AGI-2 benchmark. Humans talk first and then learn how to read; large language models read so much they learn how to talk - and everything else - as a side-effect. So while 'generating training data for AI' sounds very 2020s, it turns out we've been doing it since the 4th millennium BC.
+In case you missed it, large language models are quite the thing at the moment. ChatGPT, Claude, and Gemini are all based, at their core, on language. You train an LLM by making [a pile](https://xkcd.com/1838/) of every written word you can find, and grinding it through a [transformer decoder](https://en.wikipedia.org/wiki/Transformer_(deep_learning)) until it ~~comes to life and~~ ~~kills you~~ passes the ARC-AGI-2 benchmark. Humans talk first and then learn how to read; large language models read so much they learn how to talk - and everything else - as a side-effect. So while 'generating training data for AI' sounds very 2020s, it turns out we've been doing it since the 4th millennium BC.
 
 The invention of writing was a process, not a moment. One of the hardest parts was just coming up with the idea.
 
@@ -305,7 +304,7 @@ When writing was first invented in Uruk [16], between 3500 and 2500 BC, it was f
 
 <figcaption>
 
-> _A proto-cuneiform tablet, c. 3100–2900 BC (__[source](https://en.wikipedia.org/wiki/Cuneiform#/media/File:Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure,_hunting_dogs,_and_boars_MET_DT847.jpg)__)_
+_A proto-cuneiform tablet, c. 3100–2900 BC (__[source](https://en.wikipedia.org/wiki/Cuneiform#/media/File:Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure,_hunting_dogs,_and_boars_MET_DT847.jpg)__)_
 
 </figcaption>
 

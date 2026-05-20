@@ -1,7 +1,7 @@
 ---
 title: Headbirths of The Germans are Dying Out by Gunter Grass
 author: Unknown
-reviewAuthor: Steve Snow
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: headbirths-of-the-germans-are-dying-out-by-gunter-grass
 wordCount: 4029
 readingTimeMinutes: 18
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1eXAT7Nlr5QN9vVlkP8iU8kvTBfd-pEgpMURZpRZr-dw
 tags:
   - Fiction
   - Politics

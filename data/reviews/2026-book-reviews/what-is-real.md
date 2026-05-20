@@ -1,7 +1,7 @@
 ---
 title: What is Real?
 author: Unknown
-reviewAuthor: Charles Carroll
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: what-is-real
 wordCount: 10151
 readingTimeMinutes: 46
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1jUH-JgxX2N1Ks_b-DLr080XEL8sX0sVXEeu79OMmAa4
 tags:
   - Science
   - Philosophy
@@ -261,8 +260,8 @@ All this is why I said at the start of this essay that Albert, famous as he is, 
 
 **To close this section, I have two comments:**
 
-1.  I am very curious: who was the first non-physicist to promulgate this fictional narrative? Anyone know? Let me know. Thanks.
-2.  If such a nonsense consensus can arise in the most demanding and objective of fields, at the absolute top level, where the persons involved – both the primary actors and the secondary observers – have brains the size of Saturn, imagine what the situation might be in _other_ fields. Consider consensuses in fields where the persons – offense is not intended but I cannot prevent anyone from taking it – are not as formidable as those in elite Physics. If you did not already know all this about QP/Albert, surely you are now a bit less sanguine about other consensuses.
+1. I am very curious: who was the first non-physicist to promulgate this fictional narrative? Anyone know? Let me know. Thanks.
+2. If such a nonsense consensus can arise in the most demanding and objective of fields, at the absolute top level, where the persons involved – both the primary actors and the secondary observers – have brains the size of Saturn, imagine what the situation might be in _other_ fields. Consider consensuses in fields where the persons – offense is not intended but I cannot prevent anyone from taking it – are not as formidable as those in elite Physics. If you did not already know all this about QP/Albert, surely you are now a bit less sanguine about other consensuses.
 
 On we go to chapter 4. 
 
@@ -368,24 +367,24 @@ Dear reader, try to imagine what happened.
 
 When I first learnt what follows, I almost laughed in disbelief. Here are the highlights in chronological order:
 
-1.  Everett readied a draft of his thesis in January 1956.
-2.  Wheeler told Everett at some point after that that his thesis would be accepted and his degree granted by summer 1956.
-3.  In mid-1956 – this was several months after the draft was ready – Wheeler sent the draft to Bohr.
-4.  He then discussed the ideas with Bohr and gang in person, and then told Everett that he needed to “thrash” out the all the “issues of interpretation” with Bohr by visiting him for several weeks, and added that while the thesis was done, the “hardest part” was “just beginning”.
-    1.  I am not making this up. See the book. Page 129.
+1. Everett readied a draft of his thesis in January 1956.
+2. Wheeler told Everett at some point after that that his thesis would be accepted and his degree granted by summer 1956.
+3. In mid-1956 – this was several months after the draft was ready – Wheeler sent the draft to Bohr.
+4. He then discussed the ideas with Bohr and gang in person, and then told Everett that he needed to “thrash” out the all the “issues of interpretation” with Bohr by visiting him for several weeks, and added that while the thesis was done, the “hardest part” was “just beginning”.
+    1. I am not making this up. See the book. Page 129.
 
-5.  Given #2 above, Everett already had a job lined up by then, and he was to start it in three weeks.
-6.  Worse, Wheeler had misread how favourably the CI-camp looked upon Everett’s ideas. He got further feedback from them at this point and realised this.
-7.  Wheeler then told Everett that it would “take a lot of time” to resolve the issues the CI-camp had raised and proposed two months of “day by day argument” with Bohr to have a meeting of the minds, not on the formalism but on the “words” of the thesis.
-8.  He then wrote to the CI-camp – and this is a masterpiece – that Everett accepted CI and only meant to generalise it.
-    1.  See page 131.
+5. Given #2 above, Everett already had a job lined up by then, and he was to start it in three weeks.
+6. Worse, Wheeler had misread how favourably the CI-camp looked upon Everett’s ideas. He got further feedback from them at this point and realised this.
+7. Wheeler then told Everett that it would “take a lot of time” to resolve the issues the CI-camp had raised and proposed two months of “day by day argument” with Bohr to have a meeting of the minds, not on the formalism but on the “words” of the thesis.
+8. He then wrote to the CI-camp – and this is a masterpiece – that Everett accepted CI and only meant to generalise it.
+    1. See page 131.
 
-9.  He then wrote to Everett and indicated that the thesis “must” be heavily revised in terms of “words” but not the Maths before he would recommend it for acceptance.
-10.  But Everett didn’t go to meet Bohr. So, in the end, Wheeler sat down with him and “told him what to say” in his thesis. The revisions did not change the Maths/formalism but “downplayed” the many-worlds aspect of it, that is, its ontology, that is, the thing that puts the ‘many’ – also the ‘s’ – in ‘Many Worlds’.
-11.  Thus, about six short months after Wheeler had first sent the thesis to Bohr, its words were in a state that Wheeler could accept.
-     1.  I take it he thought that the revised thesis would not give rise to whatever downsides he had imagined the original draft would have.
+9. He then wrote to Everett and indicated that the thesis “must” be heavily revised in terms of “words” but not the Maths before he would recommend it for acceptance.
+10. But Everett didn’t go to meet Bohr. So, in the end, Wheeler sat down with him and “told him what to say” in his thesis. The revisions did not change the Maths/formalism but “downplayed” the many-worlds aspect of it, that is, its ontology, that is, the thing that puts the ‘many’ – also the ‘s’ – in ‘Many Worlds’.
+11. Thus, about six short months after Wheeler had first sent the thesis to Bohr, its words were in a state that Wheeler could accept.
+     1. I take it he thought that the revised thesis would not give rise to whatever downsides he had imagined the original draft would have.
 
-12.  The thesis was published as a paper in 1957 along with a companion paper from Wheeler saying that Everett’s work did not aim to replace CI.
+12. The thesis was published as a paper in 1957 along with a companion paper from Wheeler saying that Everett’s work did not aim to replace CI.
 
 **Imagine being Everett and going through this process. What would you think? Imagine.**
 

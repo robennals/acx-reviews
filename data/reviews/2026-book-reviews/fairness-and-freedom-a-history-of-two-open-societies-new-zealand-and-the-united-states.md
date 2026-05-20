@@ -1,7 +1,7 @@
 ---
 title: 'Fairness and Freedom: A History of Two Open Societies, New Zealand and the United States'
 author: Unknown
-reviewAuthor: Oz
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-u
 wordCount: 9701
 readingTimeMinutes: 44
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1Tis4EzY62O-j6XYgWGNpY-YFTf51AmIbz1sZmenYRtE
 tags:
   - History
   - Politics

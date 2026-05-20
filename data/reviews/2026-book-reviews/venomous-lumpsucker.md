@@ -1,7 +1,7 @@
 ---
 title: Venomous Lumpsucker
 author: Unknown
-reviewAuthor: Ariel Zeleznikow-Johnston
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: venomous-lumpsucker
 wordCount: 2458
 readingTimeMinutes: 11
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1zM2Ybwh9I9obhN3IMWUit3QcRss4D6sdl1j5zIrlnws
 tags:
   - Fiction
 ---
@@ -21,7 +20,7 @@ This is not the plot of Ned Beauman's _Venomous Lumpsucker_. This is the histori
 
 _Venomous Lumpsucker_ is simultaneously a parody and an earnest extrapolation. Every speculative element sounds, when summarized, like satire. Each of them, when investigated, turns out to be either already underway, currently being seriously proposed by someone with funding, or following so directly from a position with prominent contemporary defenders that the only honest response is to concede that yes, of course, this is what we would build, if we built it. It is the best novel I have read about the actual situation of being alive in the twenty-first century, by which I mean a situation in which one is implicated in ongoing catastrophes whose contours one can vaguely perceive, whose mechanisms one can sometimes describe, and against which no individual action one might take seems remotely commensurate with the harm. It is also extremely funny, in a way calibrated to the specific anxieties and frequencies of disgust that ACX readers will recognize as their own. These two facts are not separable.
 
-## Halyard
+### Halyard
 
 The protagonist is Mark Halyard, the Environmental Impact Coordinator (Northern Europe) for the Brahmasamudram Mining Company, and his governing passion is food. He grew up in Australia eating mangos so sweet they were nicknamed Groaners because you could not help making noises when you ate one. The mangos are now gone. So is the bluefin tuna, the maple syrup, the Iberian jamón (the oaks have a fungus, the pigs have nothing to eat), the bourbon (the heat is cooking it in the barrels), the oysters (the seas are too acidic for their shells). Real food still exists, but it has retreated to the upper reaches of the price distribution, where it is consumed by hedge fund managers at omakase counters costing several thousand euros per head.
 
@@ -33,7 +32,7 @@ His only exit is mechanical. If the venomous lumpsucker, an intelligent species 
 
 His reluctant collaborator is Dr. Karin Resaint, the species intelligence evaluator who certified the lumpsucker as cognitively advanced shortly before Brahmasamudram's autonomous mining vehicles ground its breeding ground into gravel. Resaint also wants to find a surviving population. Her reasons are not Halyard's reasons.
 
-## Resaint, and the Black Hole
+### Resaint, and the Black Hole
 
 If Halyard is the novel's id, Karin Resaint is its conscience, though one that has metastasized into something much stranger and more frightening than the word usually implies.
 
@@ -55,7 +54,7 @@ The venomous lumpsucker is, she believes, the only species on Earth that might b
 
 This is, on the face of it, completely deranged. The book knows it is deranged. Halyard knows it is deranged, and tells her so at length, in some of the funniest dialogue in the novel. But the book also takes the derangement seriously, in the sense that it traces out the reasoning with care and treats Resaint as a person who has arrived at her position through genuine ethical struggle rather than as a lunatic to be dismissed.
 
-## The Method
+### The Method
 
 What I want to convey, and what is hardest to convey in a short review, is that the novel is not really about climate change in the way climate fiction is usually about climate change. It does not lecture you. It does not invite you to feel ashamed. The climate has warmed and various things have been lost, but the warming is treated as ambient weather rather than as a moral occasion. The novel does not want you to grieve. It assumes you have already grieved, or that you have decided not to grieve, and either way the grieving is not the point.
 
@@ -69,7 +68,7 @@ The novel does not editorialize about any of this. It builds the technologies, s
 
 A note on the prose, which I cannot let pass without mention. Beauman writes with a kind of compressed accuracy that approaches aphorism. The lumpsucker itself: “It had a toadlike face with bulging eyes and a fat upper lip; looking at it, you felt that if it were a human being it would sweat from the forehead all the time and yet have a shockingly cold handshake.” A piece of seastead architecture: “it had a kind of gaseous, ungraspable quality, so that no matter how long you looked at it you could never quite visualize it afterward.” The jokes are constant and the jokes are doing work; they are not relief from the seriousness but the form the seriousness takes. There is a long set-piece at a corporate dinner in which a tumor made of cloned panda cells is hurled at an arriving convoy by environmental terrorists while inside the restaurant a colleague of Halyard's quietly disintegrates over the suboptimal nanometer resolution at which his dead wife's brain was preserved. This is Beauman's actual technical innovation: he has found a way to write about catastrophe without flinching or wallowing, by routing it through a sensibility intelligent enough to notice that the catastrophe is also, in some lights, hilarious.
 
-## Climate reality
+### Climate reality
 
 The world of _Venomous Lumpsucker_ is not a wasteland. The cities are intact. The institutions are still standing. Flights still depart on time. Technology has continued to progress: there are functional seasteads in the Baltic, autonomous mining vessels picking nodules off the ocean floor, drones for every purpose, real-time translation in earpieces, brain scans for the bereaved, smart contracts that actually enforce themselves, geoengineering vessels patrolling the seas. The AI has not gone rogue. The financial system has not collapsed. Nobody has set off a nuclear weapon in anger. Children are still being born in maternity wards. Mortgages are still being approved. Most of the people in the book have professional careers and dental insurance.
 

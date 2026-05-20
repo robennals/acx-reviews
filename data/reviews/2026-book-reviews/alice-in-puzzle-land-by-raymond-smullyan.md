@@ -1,7 +1,7 @@
 ---
 title: Alice in Puzzle-Land by Raymond Smullyan
 author: Unknown
-reviewAuthor: Mark Newheiser
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: alice-in-puzzle-land-by-raymond-smullyan
 wordCount: 3073
 readingTimeMinutes: 14
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1KHbb1X2s0OipnJmYWZ6SNKDCGXNv7IAQDeZZXVB-JTQ
 tags:
   - Philosophy
   - Science
@@ -20,8 +19,8 @@ tags:
 
 The logician Raymond Smullyan once taught me a trick for proving anything. Consider the following two statements:
 
-1.  Both of these statements are false
-2.  You should read this book review
+1. Both of these statements are false
+2. You should read this book review
 
 It is impossible for the first statement to be true without creating a contradiction, so it must be false. But the only consistent way for the first statement to be false is if the second statement is true, otherwise both statements really would be false. Hence, we’ve proven that you should read this book review!
 
@@ -31,22 +30,22 @@ Smullyan himself explained the counter to that sort of hollow proof: statements 
 
 The simple answer Smullyan gives is that isolated statements can’t prove any empirical claim. They could simply represent a paradox, like this pair of statements Smullyan often references:
 
-1.  The second statement is false
-2.  The first statement is true
+1. The second statement is false
+2. The first statement is true
 
 There is no consistent way to classify both statements as true or false. Like a single statement of “This sentence is false”, you can’t fit them neatly into the categories of true or false. One common approach is to invent a third label of calling something a paradox, to face the weirdness without flinching. But even inventing that category doesn’t neatly resolve the issue. Consider the following statement:
 
-1.  This sentence is either false or a paradox
+1. This sentence is either false or a paradox
 
 Slapping a label of “paradox” on the statement doesn’t really help: if it’s a paradox, the statement is true, making it not a paradox. But the statement also can’t be true. You may be getting a lot of “paradox” vibes from this “definitely not a paradox” statement, but that also seems to be impossible. Maybe we need a new “meta-paradox” label, but you can easily construct a paradox around that label too.
 
 Or, consider this slightly rephrased example from my favorite of Smullyan’s books, _Alice in Puzzle-Land_:
 
-1.  You will never consistently accept that this sentence is true
+1. You will never consistently accept that this sentence is true
 
 The answer Smullyan brings the reader to, in a book of logic puzzles intended to be read by children, is a variant of Gödel’s incompleteness theorem. He argues that the statement is true, but unprovable for you, and provable by someone else. If you change the sentence to:
 
-1.  Alice will never consistently accept that this sentence is true
+1. Alice will never consistently accept that this sentence is true
 
 Alice has no way to consistently integrate the truth of that sentence into her mental framework. But you or I could, resolving it as true. For Alice, it sits in a strange category of true but unprovable for her personally, in a Gödelian result that reveals a reality beyond what her mind can contain.
 
@@ -56,30 +55,30 @@ The best actual proof I could give you for why you should read _Alice in Puzzle-
 
 The 1986 movie _Labyrinth_ contains a variant of one of Smullyan’s riddles:
 
-1.  There are two guards, one of whom guards a door leading to escape, while the other guards a door leading to death.
-2.  One guard always lies and one guard always tells the truth.
-3.  With a single question to one of the guards, pointing at one of the doors, determine which door to go through.
+1. There are two guards, one of whom guards a door leading to escape, while the other guards a door leading to death.
+2. One guard always lies and one guard always tells the truth.
+3. With a single question to one of the guards, pointing at one of the doors, determine which door to go through.
 
 The solution _Labyrinth_ uses is that you can ask a guard “what would the other guard say is behind your door?”, and be guaranteed to get a false response. The truthful guard would truthfully report a false response, and the lying guard would lie about a truthful response. Either way, you would hear something that’s the exact opposite of the truth, so you can invert it, and be on your way.
 
 Smullyan takes the riddle to another level in his 1985 book, _To Mock a Mockingbird_. Consider the following:
 
-1.  There is **one** guard, guarding two doors which lead to escape or death.
-2.  The guard either always lies or tells the truth.
-3.  With a single question, determine which door to go through
+1. There is **one** guard, guarding two doors which lead to escape or death.
+2. The guard either always lies or tells the truth.
+3. With a single question, determine which door to go through
 
 The trick from _Labyrinth_ doesn’t work here; there’s no other guard to ask about. But it’s still possible to resolve a consistent liar and truthteller the same way, with a question of one of the following forms:
 
-1.  What would you say if I asked if the first door was correct?
-2.  Are you the type who would say that the first door is correct?
+1. What would you say if I asked if the first door was correct?
+2. Are you the type who would say that the first door is correct?
 
 Either construction introduces self-reference to cancel out the possibility of lies: truthtellers will respond honestly and give you a true answer, and liars will lie about what they would actually say, inverting their own lies and giving you a truthful answer instead. This sort of construction acts as a skeleton key when questioning consistent liars and truthtellers, always forcing out the truth.
 
 Knowing that those sorts of constructions break down many riddles once you’ve heard them, Smullyan opens _Alice in Puzzle-Land_ with a pair of riddles that constrain the tricks you can use by limiting question size to three words:
 
-1.  There are two brothers, one of whom is named John. One of the brothers always lies, and one of them always tells the truth, but you don’t know whether John is the liar or truthteller.
-2.  With a single three-word question to an unknown brother, determine if that person is John or his brother.
-3.  Alternatively, with a single three-word question to an unknown brother, determine if John is the liar or the truthteller.
+1. There are two brothers, one of whom is named John. One of the brothers always lies, and one of them always tells the truth, but you don’t know whether John is the liar or truthteller.
+2. With a single three-word question to an unknown brother, determine if that person is John or his brother.
+3. Alternatively, with a single three-word question to an unknown brother, determine if John is the liar or the truthteller.
 
 I won’t spoil the solution here (the book contains the answers and logic laid out neatly for each riddle at the back), but the solution is surprisingly elegant and clever. Simple questions like “Is water wet” won’t give you enough information, and the challenges Smullyan poses are often about using language to map a logical space in creative ways.
 
@@ -99,9 +98,9 @@ The other chapters cover themes Smullyan uses to stack logical concepts in puzzl
 
 My favorite chapters as a kid were the ones based around riddles with the following constraints:
 
-1.  Knights always tell the truth
-2.  Knaves always lie
-3.  Spies can either lie or tell the truth
+1. Knights always tell the truth
+2. Knaves always lie
+3. Spies can either lie or tell the truth
 
 Most of Smullyan’s puzzles here would present a setup with one member of each type making statements, leaving it to the reader to figure out who was each type. Reading the puzzles meant you could quickly build up a set of shortcuts to help your deductions: a statement like “I am a knight” was meaningless, since all three types could make that statement, while a statement like “I am a knave” or “I am a spy” immediately ruled out some options for the puzzle, as would statements like “B is a knight”.
 
@@ -111,9 +110,9 @@ Since Smullyan wrote the book in 1982, people have written procedural puzzle gen
 
 _Blue Prince’s_ parlor puzzles operate on similar rules to Smullyan’s classic riddle form:
 
-1.  One box always tells the truth
-2.  One box always lies
-3.  One box can either lie or tell the truth. In a slight tweak from Smullyan’s version, it’s also the only box allowed to say nothing.
+1. One box always tells the truth
+2. One box always lies
+3. One box can either lie or tell the truth. In a slight tweak from Smullyan’s version, it’s also the only box allowed to say nothing.
 
 _Blue Prince_ differs in that the goal isn’t to resolve the statements as true or false (sometimes, there are multiple consistent assignments), but to find the single box which contains gems. Like Smullyan’s riddles, the game gradually escalates in complexity as you learn the constraints inherent to this puzzle type, and the statements grow increasingly complex, self-referential, and eventually build to each box containing multiple statements to untangle.
 
@@ -135,8 +134,8 @@ Humpty Dumpty also reexamines a pair of classic paradoxes, arguing that the clas
 
 The big egg also dissects the classic barber paradox, arguing it’s simply a reason to reject the premises you were given:
 
-1.  A barber shaves everyone who doesn’t shave themselves
-2.  Does the barber shave themselves or not?
+1. A barber shaves everyone who doesn’t shave themselves
+2. Does the barber shave themselves or not?
 
 Humpty Dumpty doesn’t get tied up in knots about whether the question can be answered with yes or no, but points out the initial premise has to be false. If you were told a man was six feet tall, and not six feet tall, you’re not really hearing a paradox, but a contradiction. Similarly, the description above is equivalent to being told, “there is a barber who shaves himself and doesn’t shave himself.” The phrasing disguises the inconsistency, but the end result is the same: you’re just being told contradicting things, which differs from classic paradoxes tied to self-reference.
 

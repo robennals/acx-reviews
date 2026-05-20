@@ -1,7 +1,7 @@
 ---
 title: We've Had a Hundred Years of Psychotherapy and the World's Getting Worse
 author: Unknown
-reviewAuthor: Keith R Wilson
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse
 wordCount: 2025
 readingTimeMinutes: 9
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1ZT5l4FodAzEqMv2eTDyY6PuAkRlzjbGX
 tags:
   - Psychology
   - Philosophy

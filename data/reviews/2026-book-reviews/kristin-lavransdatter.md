@@ -1,16 +1,15 @@
 ---
 title: Kristin Lavransdatter
 author: Unknown
-reviewAuthor: Joshua Berman
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T05:06:25.000Z'
 slug: kristin-lavransdatter
-wordCount: 9808
+wordCount: 9807
 readingTimeMinutes: 44
 source: gdoc
-originalUrl: https://docs.google.com/document/d/18fCq3tZRSSYN7t1Xothwh4VXxTCdTBM9wX3Ln6Pvmwg
 tags:
   - Fiction
   - History
@@ -20,14 +19,14 @@ My greatest fear in writing this essay was not that it would be bad and not make
 
 So with the throat-clearing out of the way, let’s play ‘count the storybook tropes:
 
-*   A headstrong young girl who bucks strict social convention
-*   A girl whose beauty incites desire in others, and is partially blamed for their actions
-*   A fairy/witchy godmother-of-sorts
-*   A knight riding in on a horse to rescue a damsel
-*   A literal roll in the hay
-*   Seven sons
-*   An eternal struggle between forces demonic and forces angelic
-*   A woman who comes to realize, very late but not entirely, that she has spent her life pursuing and getting exactly what she wants. She has not only lived to pay the price, but so have those around her.
+* A headstrong young girl who bucks strict social convention
+* A girl whose beauty incites desire in others, and is partially blamed for their actions
+* A fairy/witchy godmother-of-sorts
+* A knight riding in on a horse to rescue a damsel
+* A literal roll in the hay
+* Seven sons
+* An eternal struggle between forces demonic and forces angelic
+* A woman who comes to realize, very late but not entirely, that she has spent her life pursuing and getting exactly what she wants. She has not only lived to pay the price, but so have those around her.
 
 Whether that list makes you more or less likely to read the story, I want to show how Undset used those tropes to create a story that is transcendent _because_ it is so firmly grounded in the fundamentals of the craft. 
 
@@ -68,7 +67,7 @@ as well as a set of family trees.
 
 <figcaption>
 
-> _Source: https://www.thenewatlantis.com/text-patterns/characters-of-kristin-lavransdatter_
+_Source: https://www.thenewatlantis.com/text-patterns/characters-of-kristin-lavransdatter_
 
 </figcaption>
 
@@ -218,7 +217,7 @@ One of the most interesting parts of this novel is that we actually meet some hi
 
 <figcaption>
 
-> _Source: 20th Century Fox Television_
+_Source: 20th Century Fox Television_
 
 </figcaption>
 
@@ -362,7 +361,7 @@ It is not a spoiler to say the main character dies at the end of a story about t
 
 - - - - -
 
-**Why read Kristin Lavransdatter?**
+## Why read Kristin Lavransdatter?
 
 This is a (semi-brief) surface description of a very long story, and it risks undercutting how moving Undset’s work is, by sounding melodramatic-via-reduction. A lesser author would hit these same plot beats with flat characters for a salacious, page-turning, period soap opera. Though Undset is steeped in Norse saga and medieval chivalric romances, and knows exactly how to deploy what we might call a ‘trope,’ she treats the real historical setting as a world to be taken seriously - neither idealized nor set up to fail. She describes real, earnest people in a challenging, beautiful, sophisticated environment.
 
@@ -416,11 +415,11 @@ Whether the Satan of the Christian Bible is a single, sentient being, reducible 
 
 ## Stray thoughts
 
-*   The name of the book is fitting. Kristin’s relationship with Lavrans hangs over every other relationship in the book. She compares Erlend’s stewardship (or lack thereof) to her father’s, she imagines what life would have been like with Simon, with his similarities to her father, although not as handsome or regal. A climactic fight revolves around Kristin saying Erlend is less worthy than Lavrans.
-*   At every stage of Kristin’s life, childhood, maidenhood, motherhood, there is a real sense that ‘things in the world are not as they should be.’ And that flaw is in the whole world. And that flaw is in me. But how can that be, that the world is so bright and big and full of mysterious beauty, and that just on the edge of my sight there is even more of it, more beauty and life than I could ever hope to hold in a lifetime? And yet it is _still_ not quite as it could be? And it is both.
-*   If you search for podcast episodes discussing this book, the hosts are almost entirely women, but I did hear one male podcaster comment that _K.L._, alongside _Pride and Prejudice_, were the two fiction books that he felt most gave him a perspective on what it must _feel_ like to be a woman, and I’m hard pressed to think of a third in this tier. Undset shares several traits with Austen. Most notably she lets the social rules be real and firm enough to provide conflict, and then still critique those rules from within. The phrase ‘the dogma is the drama’ means that it is from operating within those social and religious mores that the drama arises. If it’s no big deal that Kristin breaks her engagement and sleeps with Erlend, then… it’s no big deal. And if it’s no big deal, why bother reading the book?
-*   Kristin sees Erlend as both lesser and greater than he sees himself.
-*   Last year I reread Lonesome Dove. While the first time reading that book is an absolute blast, and getting to know the characters is a wonderful experience, much of the gloss came off the second time around. The journey is still adventuresome, the central friendship is still worthwhile, and McMurtry can still turn a phrase every now and again, but you start to see the cynicism that lurks behind much of the book. There is none of that reading _K.L._ the second time. If anything, the world is more vivid, the characters more human, and the spirituality more earnest.
+* The name of the book is fitting. Kristin’s relationship with Lavrans hangs over every other relationship in the book. She compares Erlend’s stewardship (or lack thereof) to her father’s, she imagines what life would have been like with Simon, with his similarities to her father, although not as handsome or regal. A climactic fight revolves around Kristin saying Erlend is less worthy than Lavrans.
+* At every stage of Kristin’s life, childhood, maidenhood, motherhood, there is a real sense that ‘things in the world are not as they should be.’ And that flaw is in the whole world. And that flaw is in me. But how can that be, that the world is so bright and big and full of mysterious beauty, and that just on the edge of my sight there is even more of it, more beauty and life than I could ever hope to hold in a lifetime? And yet it is _still_ not quite as it could be? And it is both.
+* If you search for podcast episodes discussing this book, the hosts are almost entirely women, but I did hear one male podcaster comment that _K.L._, alongside _Pride and Prejudice_, were the two fiction books that he felt most gave him a perspective on what it must _feel_ like to be a woman, and I’m hard pressed to think of a third in this tier. Undset shares several traits with Austen. Most notably she lets the social rules be real and firm enough to provide conflict, and then still critique those rules from within. The phrase ‘the dogma is the drama’ means that it is from operating within those social and religious mores that the drama arises. If it’s no big deal that Kristin breaks her engagement and sleeps with Erlend, then… it’s no big deal. And if it’s no big deal, why bother reading the book?
+* Kristin sees Erlend as both lesser and greater than he sees himself.
+* Last year I reread Lonesome Dove. While the first time reading that book is an absolute blast, and getting to know the characters is a wonderful experience, much of the gloss came off the second time around. The journey is still adventuresome, the central friendship is still worthwhile, and McMurtry can still turn a phrase every now and again, but you start to see the cynicism that lurks behind much of the book. There is none of that reading _K.L._ the second time. If anything, the world is more vivid, the characters more human, and the spirituality more earnest.
 
 I cannot recommend _K.L._ enough. Even though this review is very long, my mind fairly screams “Oh! And there is this character! And this moment! (of which Sigrid Undset is the queen) And this passage!” and anyone who has heard a friend absolutely lose themselves in frenzied praise of a favorite work will recognize that I am now rambling.
 

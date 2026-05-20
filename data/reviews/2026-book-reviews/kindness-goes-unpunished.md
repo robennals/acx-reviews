@@ -1,7 +1,7 @@
 ---
 title: Kindness Goes Unpunished
 author: Unknown
-reviewAuthor: Harris Factor
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: kindness-goes-unpunished
 wordCount: 348
 readingTimeMinutes: 2
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1lCdKBst_KmMR7VgfHjK1IrYrXSI1wrMgE7uZipp40M0
 tags:
   - Fiction
   - Society

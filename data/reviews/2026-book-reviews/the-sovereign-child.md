@@ -1,7 +1,7 @@
 ---
 title: The Sovereign Child
 author: Unknown
-reviewAuthor: Richard Meadows
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-sovereign-child
 wordCount: 9094
 readingTimeMinutes: 41
 source: gdoc
-originalUrl: https://docs.google.com/document/d/17LOQ2Oxdv1MRZhXbqAVWOFfoI6f5zExiEHLSeZguVt8
 tags:
   - Psychology
   - Society
@@ -48,7 +47,7 @@ And so I sat up in bed for a week straight in January last year, reading his boo
 
 But it almost didn't happen.
 
-Stupple spends the first few sections of the book biting every ideological bullet you can think of, turning back each time to smile at the reader through a growing gobful of lead. Even I, who had been primed to be receptive to these ideas, recoiled from this brazen display. It's only in the back half of the book that he softens the hardcore libertarian stuff, suggests some incremental steps towards trying out TCS, and really sells the reader on why it even makes sense in the first place. There's a big hump to get over. My wife _hated_ the book. I had to coerce persuade the hell out of her to get to keep reading, because I knew she would come around to his pitch.
+Stupple spends the first few sections of the book biting every ideological bullet you can think of, turning back each time to smile at the reader through a growing gobful of lead. Even I, who had been primed to be receptive to these ideas, recoiled from this brazen display. It's only in the back half of the book that he softens the hardcore libertarian stuff, suggests some incremental steps towards trying out TCS, and really sells the reader on why it even makes sense in the first place. There's a big hump to get over. My wife _hated_ the book. I had to ~~coerce~~ persuade the hell out of her to get to keep reading, because I knew she would come around to his pitch.
 
 So I will try to take the opposite path: having quickly got the ragebait out of the way, let's start out with the excellent ideas in Stupple's book before we move on to my various beefs and confusions. Why is Taking Children Seriously worth taking seriously?
 

@@ -1,7 +1,7 @@
 ---
 title: The Carnation Revolution
 author: Unknown
-reviewAuthor: Duane McMullen
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-carnation-revolution
 wordCount: 10453
 readingTimeMinutes: 47
 source: gdoc
-originalUrl: https://docs.google.com/document/d/17mNy0aCWElFI3o89uU7q4Ez0b727ghvyUPqMLvDmEAM
 tags:
   - History
   - Politics

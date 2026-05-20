@@ -1,7 +1,7 @@
 ---
 title: The Pictures of Socialist Future
 author: Unknown
-reviewAuthor: Alex Voronkov
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-pictures-of-socialist-future
 wordCount: 5887
 readingTimeMinutes: 27
 source: gdoc
-originalUrl: https://docs.google.com/document/d/11LhD6AJjrTUHyI1YXQYeIffEbm-WVKP0jwWJvQ8HFFE
 tags:
   - Fiction
   - Politics

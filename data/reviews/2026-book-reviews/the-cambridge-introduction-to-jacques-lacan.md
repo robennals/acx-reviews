@@ -1,16 +1,15 @@
 ---
 title: The Cambridge Introduction to Jacques Lacan
 author: Unknown
-reviewAuthor: Erik Wyatt
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-12T11:16:16.000Z'
 slug: the-cambridge-introduction-to-jacques-lacan
-wordCount: 3513
+wordCount: 3511
 readingTimeMinutes: 16
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1KvJqh_czLZ8CZpcXHgyaewT1uA5wui6s8kNBMuz9nfQ
 tags:
   - Philosophy
   - Psychology
@@ -44,7 +43,7 @@ Lacan's words and actions each carry the same important message about the decept
 
 <figcaption>
 
-> _You want to know what's on the easel because all the normal people are standing in front of the easel where they can look at it. You're the only one behind the easel where you can't see the painting. What kind of person stands there? They're all looking at you, trying to figure what's wrong. (So says Lacan.)_
+_You want to know what's on the easel because all the normal people are standing in front of the easel where they can look at it. You're the only one behind the easel where you can't see the painting. What kind of person stands there? They're all looking at you, trying to figure what's wrong. (So says Lacan.)_
 
 </figcaption>
 
@@ -56,11 +55,11 @@ Most treatments of Lacan, by rendering the theory artificially inaccessible, imp
 
 Most of Todd's short book is a review of Lacan's named concepts that tracks how each concept evolved and evaluates its importance. Here are the most important and the most constant ideas:
 
-*   **The desiring subject lacks:** Alienation makes you feel broken and incomplete, and it also drives intense desire for whatever you think will get you back in the ingroup.
+* **The desiring subject lacks:** Alienation makes you feel broken and incomplete, and it also drives intense desire for whatever you think will get you back in the ingroup.
 
-*   **The Other does not exist:** There is no Other with the power to grant you lasting recognition. Even if the exemplars of the ingroup did acknowledge you, it would function just like a hit of an addictive drug, merely leading to intensified craving.
+* **The Other does not exist:** There is no Other with the power to grant you lasting recognition. Even if the exemplars of the ingroup did acknowledge you, it would function just like a hit of an addictive drug, merely leading to intensified craving.
 
-*   **Getting what you want won't bring satisfaction. Instead, it will further your alienation and craving.** This is alarming. If desire is self-reinforcing, does it just grow exponentially like payday loans? How can we stop it? What happens if we don't?
+* **Getting what you want won't bring satisfaction. Instead, it will further your alienation and craving.** This is alarming. If desire is self-reinforcing, does it just grow exponentially like payday loans? How can we stop it? What happens if we don't?
 
 # It could happen to you
 
@@ -96,7 +95,7 @@ Self-schema violations are the root of evolved responses to exclusion. Excluded 
 
 <figcaption>
 
-> _Halsey’s “Gasoline” captures the self-schema violation Lacan exploited._
+_Halsey’s “Gasoline” captures the self-schema violation Lacan exploited._
 
 </figcaption>
 

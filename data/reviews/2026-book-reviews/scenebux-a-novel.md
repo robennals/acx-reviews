@@ -1,7 +1,7 @@
 ---
 title: 'Scenebux: A Novel'
 author: Unknown
-reviewAuthor: Paul S
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: scenebux-a-novel
 wordCount: 1929
 readingTimeMinutes: 9
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1ySPi7m9HIwyDhyL8U1-F5q3nmTFstzm-FAdKp997Pbo
 tags:
   - Fiction
   - Society

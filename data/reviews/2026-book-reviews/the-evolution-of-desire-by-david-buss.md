@@ -1,24 +1,23 @@
 ---
 title: The Evolution of Desire by David Buss
 author: Unknown
-reviewAuthor: Wes Fenza
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-28T17:45:57.000Z'
 slug: the-evolution-of-desire-by-david-buss
-wordCount: 3753
+wordCount: 3755
 readingTimeMinutes: 17
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1Q5AQW07IbILIy6iU2EEQUGgHDvethsxzsLdJh1fvUTA
 tags:
   - Psychology
   - Science
 ---
 
-How the Human Got His Sexuality
+## How the Human Got His Sexuality
 
-a review of The Evolution of Desire by David Buss
+## a review of The Evolution of Desire by David Buss
 
 In 1902, Rudyard Kipling published a collection of children’s fables called “Just So Stories.”  Each fable was a fantastical tale of how an animal got its unique feature. In Kipling’s imagination, a camel’s hump was a punishment from the Djinn of All Deserts for saying “humph” instead of working, and the rhino’s skin was the result of a prank by a Parsee who filled the rhino’s skin with cake crumbs while he bathed. All of the stories were like that. Kipling would take a known feature of an animal and invent a whimsical story to explain how it happened.
 

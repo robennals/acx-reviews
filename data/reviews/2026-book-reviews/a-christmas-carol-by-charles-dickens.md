@@ -1,32 +1,36 @@
 ---
 title: A Christmas Carol by Charles Dickens
 author: Unknown
-reviewAuthor: Locke
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-03T04:56:43.000Z'
 slug: a-christmas-carol-by-charles-dickens
-wordCount: 5671
+wordCount: 5687
 readingTimeMinutes: 26
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1bW9YYE8ckxPV1ezTYlLq1kJ9cqlTYi-qnY4Op9eVlHA
 tags:
   - Fiction
 ---
 
 # Scrooge is dead: to begin with.
 
-This must be distinctly understood, or nothing wonderful can come of the story that I am going to review.
+## This must be distinctly understood, or nothing wonderful can come of the story that I am going to review.
 
 * * *
 
-> There'll be parties for hosting  
-> Marshmallows for toasting  
-> And caroling out in the snow  
-> There'll be scary ghost stories  
-> And tales of the glories  
-> Of Christmases long, long ago
+## There'll be parties for hosting
+
+## Marshmallows for toasting
+
+## And caroling out in the snow
+
+## There'll be scary ghost stories
+
+## And tales of the glories
+
+## Of Christmases long, long ago
 
 Charles Dickens’ _A Christmas Carol_ has planted itself as a foundational fixture of Christmas ever since its publication on December 19th, 1843. The entire first print run sold out before Christmas Eve five days later; it has not been out of print since.
 
@@ -34,7 +38,7 @@ If _A Christmas Carol_—or a surface-level engagement with it—has comfortably
 
 Everyone quotes the book (often without knowing) when they say “humbug” at Christmas;[1] everyone quotes it (definitely knowing) when they say “God bless us, every one!” Everyone says _The Muppet Christmas Carol_ is their favorite adaptation—which is not my opinion, but more on that later. Everyone knows the story: Scrooge’s irredeemable miserly nature and his miraculous repentance upon seeing his gravestone and coming face to face with his own death.
 
-Except that last point is _completely wrong_.
+## Except that last point is completely wrong.
 
 There’s a delicious little question at its core that almost all adaptations tend to miss: a question which meditates on what we owe our fellow man. The answer is more demanding than most adaptations let on.
 
@@ -44,7 +48,7 @@ Over the course of the afternoon he refuses a dinner invitation from his nephew,
 
 Later that night, on an errand of warning, Scrooge’s former partner Marley, deceased these seven years, visits him in ghostly form. Marley gives Scrooge a grim prognosis: unless you change your ways, you are as cooked as a Christmas turkey. And, as if one spectral warning wasn’t enough, Marley sics on Scrooge three more spirits: the Ghost of Christmas Past, the Ghost of Christmas Present, and the Ghost of Christmas Yet to Come.
 
-“Couldn’t I take ‘em all at once and have it over, Jacob?” queries Scrooge.
+## “Couldn’t I take ‘em all at once and have it over, Jacob?” queries Scrooge.
 
 No such luck: each ghost visits in turn and conducts a critical review of Scrooge’s life, and the lives of those around him, but only during Christmastime. (If Scrooge ever had any Important Moral Lessons during the summer, the spirits didn’t think it necessary to include it in the tour). We conclude with the Ghost of Christmas Yet to Come showing Scrooge his own lonely grave, a sight which is too much for poor old Scrooge.
 
@@ -60,9 +64,9 @@ No, there is something very curious about that gravestone, but since it can’t 
 
 * * *
 
-_A Christmas Carol_ is fundamentally a story about death, not Christmas.
+## A Christmas Carol is fundamentally a story about death, not Christmas.
 
-Dickens begins his book starkly—astute readers may have caught my allusion to it at the beginning of this review.
+## Dickens begins his book starkly—astute readers may have caught my allusion to it at the beginning of this review.
 
 > Marley was dead, to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner. Scrooge signed it… There is no doubt that Marley was dead. This must be distinctly understood, or nothing wonderful can come of the story I am going to relate.
 
@@ -70,7 +74,7 @@ What a way for a Christmas story to begin! Again, most adaptations miss this and
 
 The story revolves around that opening line. Death is at the heart of _A Christmas Carol_. Scrooge is surrounded by it. His partner, Marley, dies seven years before the haunting on Christmas Eve. His sister, Fan, dies young, leaving her child, Scrooge’s nephew Fred, behind. Tiny Tim, the son of Scrooge’s clerk Bob Cratchit, is crippled and destined for an early death. And death, of course, is the main focus of the Ghost of Christmas Yet to Come, as its vision includes both Tiny Tim’s untimely end and Scrooge’s quite timely one.
 
-Let us examine the first death in the story: Marley’s.
+## Let us examine the first death in the story: Marley’s.
 
 * * *
 
@@ -78,7 +82,7 @@ When Marley appears to Scrooge in his house on Christmas Eve, in addition to bei
 
 My family and I have debated Marley’s spiritual destination over great quantities of mulled wine. Some insist he’s in Purgatory, as only a soul in the process of reconciliation with God would have the capacity to repent, as Marley does: “No space of regret can make amends for one life’s opportunity misused! Yet such was I! Oh! such was I!”
 
-As for me, my money is on Marley being in Hell[3]:  
+## As for me, my money is on Marley being in Hell[3]:
 
 > There was something very awful, too, in the spectre’s being provided with an infernal atmosphere of its own. Scrooge could not feel it himself, but this was clearly the case; for though the Ghost sat perfectly motionless, its hair, and skirts, and tassels, were still agitated as by the hot vapour from an oven.
 
@@ -94,27 +98,31 @@ Dickens never explains this contradiction: if these souls are not able to interc
 
 Dickens may keep this secret, but if we allow ourselves to play Ghost of Christmas Past for Marley, I do think there’s a glimmer of an explanation. For while Marley decries all his missed opportunities to walk among his fellow man, there is one small soul who Marley did touch in life: Scrooge.
 
-C. S. Lewis, writing deliciously as the devil Screwtape in _The Screwtape Letters_, gives this advice to his incompetent nephew Wormwood:
+## C. S. Lewis, writing deliciously as the devil Screwtape in The Screwtape Letters, gives this advice to his incompetent nephew Wormwood:
 
 > Pray do not fill your letters with rubbish about this European War.... I am not in the least interested in knowing how many people in England have been killed by bombs. In what state of mind they died, I can learn from the office at this end. **That they were going to die sometime, I knew already**.
 
-_A Christmas Carol_ takes a similar attitude. Death is inevitable—but, rather than the “state of mind” of the deceased, _Carol_ focuses on the state of the world that the deceased leaves behind.
+## A Christmas Carol takes a similar attitude. Death is inevitable—but, rather than the “state of mind” of the deceased, Carol focuses on the state of the world that the deceased leaves behind.
 
 Marley’s impact on the world is not large… but it isn’t zero either. The introduction treats Scrooge’s mourning as a gag:  “And even Scrooge was not so dreadfully cut up by the sad event, but that he was an excellent man of business on the very day of the funeral, and solemnised it with an undoubted bargain.” A later passage gives us a deeper glimpse.
 
 The Ghost of Christmas Past takes Scrooge to visit his old fiancée, Belle, now married with children. Scrooge is struck by the happiness of the house and the implication that this love and tenderness might have been “a spring-time in the haggard winter of his life”. But the Ghost chose a very particular night to show him: the night of Marley’s Death.
 
-> “Belle,” said the husband, turning to his wife with a smile, “I saw an old friend of yours this afternoon.”
->
-> “Who was it?”
->
-> “Guess!”
->
-> “How can I? Tut, don’t I know?” she added in the same breath, laughing as he laughed. “Mr. Scrooge.”
->
+## “Belle,” said the husband, turning to his wife with a smile, “I saw an old friend of yours this afternoon.”
+
+## “Who was it?”
+
+>   
+
+## “Guess!”
+
+>   
+
+## “How can I? Tut, don’t I know?” she added in the same breath, laughing as he laughed. “Mr. Scrooge.”
+
 > “Mr. Scrooge it was. I passed his office window; and as it was not shut up, and he had a candle inside, I could scarcely help seeing him. His partner lies upon the point of death, I hear; and there he sat alone. Quite alone in the world, I do believe.”
->
-> “Spirit!” said Scrooge in a broken voice, “remove me from this place.”
+
+## “Spirit!” said Scrooge in a broken voice, “remove me from this place.”
 
 In my interpretation of this passage, it is not the vision of a fruitful happy marriage, lost forever, that breaks Scrooge—although I’m sure it is a contributing factor. Scrooge is finally broken upon being confronted by that final night of Marley’s life; the night in which his last and, by that point, only friend died. From that night on, Scrooge is alone. And, by the time we meet Scrooge at the beginning of this story, Scrooge’s self-isolation is complete:
 
@@ -122,37 +130,37 @@ In my interpretation of this passage, it is not the vision of a fruitful happy m
 
 If Marley has earned, somehow, one brief opportunity to intervene for good in human affairs—something he longs for as a ghost despite taking little opportunity to in life—I fancy that he has earned it through his trace of companionship with Scrooge. “You were always a good friend to me,” Scrooge tells Marley before he departs, never to be seen again. If we re-examine Marley’s track record, we find it a low bar to clear: one person, upon death, mourns. But it’s enough.
 
-Sic transit Marley. Alright, Ghost of Christmas Yet to Come, does Scrooge’s death manage to clear this bar?
+## Sic transit Marley. Alright, Ghost of Christmas Yet to Come, does Scrooge’s death manage to clear this bar?
 
 * * *
 
 Quite early on the ghostly tour, thanks to the hard work of the Ghosts of Christmas Past and Present, the gears have already started to turn for Scrooge. When shown a vision of his own lonely boyhood, Scrooge has regrets: “There was a boy singing a Christmas Carol at my door last night. I should have liked to have given him something: that’s all.” When shown a vision of a joyful Christmas party thrown by his former employer (when Scrooge was very early in his career), he expresses regret again: “I should like to be able to say a word or two to my clerk just now. That’s all.”
 
-Scrooge is therefore in a receptive state of mind when the Ghost of Christmas Yet to Come appears:
+## Scrooge is therefore in a receptive state of mind when the Ghost of Christmas Yet to Come appears:
 
 > ‘Ghost of the Future!’ he exclaimed, ‘I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I was, I am prepared to bear you company, and do it with a thankful heart.’
 
 The ghost takes Scrooge into the future and first chooses to show Scrooge a conversation between some businessmen. They’re discussing a recent death, one that isn’t likely to have any mourners of any kind—unless lunch is provided, in which case they’d consider it. One businessman concludes, “I’ll offer to go, if anyone else will. When I come to think of it, I’m not at all sure that I wasn’t [the deceased’s] most particular friend; for we used to stop and speak whenever we met.”[4]
 
-The scene perplexes Scrooge somewhat, as he can’t _imagine_ who they could be referring to. Not Marley, surely, as he’s been dead for years. Scrooge then looks around trying to find his future self:
+## The scene perplexes Scrooge somewhat, as he can’t imagine who they could be referring to. Not Marley, surely, as he’s been dead for years. Scrooge then looks around trying to find his future self:
 
 > He looked about in that very place for his own image; but another man stood in his accustomed corner, and though the clock pointed to his usual time of day for being there, he saw no likeness of himself among the multitudes that poured in through the Porch. It gave him little surprise, however; for he had been revolving in his mind a change of life, and thought and hoped he saw his new-born resolutions carried out in this.
 
 Scrooge’s optimism is endearing here: when presented with evidence of his business acquaintances discussing, without a trace of sorrow, someone’s recent passing _and_ the evidence of him _not being in his usual spot_, his preferred conclusion is, “Of course I’m not where I usually am! I’ve changed my ways! I guess this little night of reflection worked!”
 
-But, as they say, absence of evidence is evidence of absence… and evidence of future Scrooge continues to be conspicuously absent.
+## But, as they say, absence of evidence is evidence of absence… and evidence of future Scrooge continues to be conspicuously absent.
 
 The ghost’s next vignette is of a horde of scavengers, pawning the mystery dead man’s belongings for a few coins. After all, it isn’t as if the dead man has any use for them. “If he wanted to keep [these things] after he was dead, a wicked old screw, why wasn’t he natural in his lifetime? If he had been, he’d have somebody to look after him when he was struck with Death, instead of lying gasping out his last there, alone by himself.” “It’s a judgment on him,” agrees another of the thieves.
 
-Scrooge still doesn’t get it: “Spirit! I see, I see. The case of this unhappy man might be my own. My life tends that way, now.”
+## Scrooge still doesn’t get it: “Spirit! I see, I see. The case of this unhappy man might be my own. My life tends that way, now.”
 
-The Ghost of Christmas Yet to Come, trying to be helpful, shows Scrooge the literal body next (head covered, can’t make it _too_ easy), and the scene contains some of the best writing in the book:
+## The Ghost of Christmas Yet to Come, trying to be helpful, shows Scrooge the literal body next (head covered, can’t make it too easy), and the scene contains some of the best writing in the book:
 
 > Oh cold, cold, rigid, dreadful Death, set up thine altar here, and dress it with such terrors as thou hast at thy command: for this is thy dominion! But of the loved, revered, and honoured head, thou canst not turn one hair to thy dread purposes, or make one feature odious. It is not that the hand is heavy and will fall down when released; it is not that the heart and pulse are still; but that the hand WAS open, generous, and true; the heart brave, warm, and tender; and the pulse a man’s. Strike, Shadow, strike! And see his good deeds springing from the wound, to sow the world with life immortal!
 
 But Scrooge understands that, given the evidence thus far, the man on the slab in front of him might have no such good deeds to sow. This body has no one mourning him, no one who remembers them with kindness, no one, apparently, who even receives an inheritance. Maybe the body will do some good for the hungry rats beneath the hearth-stone. That’s one thing, Scrooge supposes.
 
-You know what Scrooge _doesn’t_ suppose, yet? The identity of this body.
+## You know what Scrooge doesn’t suppose, yet? The identity of this body.
 
 Scrooge objects: surely _someone_ expressed some emotion at this death! Surely this death pulled at _some_ heart-strings! The Ghost concedes the point and takes Scrooge to a young couple celebrating: they were in debt to the deceased and the circumstances have given them leniency in the remittance of it. “Their hearts were lighter. The children’s faces, hushed and clustered round to hear what they so little understood, were brighter; and it was a happier house for this man’s death! The only emotion that the Ghost could show him, caused by the event, was one of pleasure.”
 
@@ -164,7 +172,7 @@ In case you thought that Scrooge had put the pieces together by this point—you
 
 The Ghost of Christmas Yet to Come finally brings Scrooge to the churchyard. As it does, Scrooge begs a point of clarification: “Are these the shadows of things that Will be, or are they the shadows of things that May be, only?”
 
-The Ghost doesn’t answer, but resolutely points Scrooge to the gravestone: EBENEZER SCROOGE.
+## The Ghost doesn’t answer, but resolutely points Scrooge to the gravestone: EBENEZER SCROOGE.
 
 > “Am I that man who lay upon the bed?” [Scrooge] cried, upon his knees.  
 > The finger pointed from the grave to him, and back again.  
@@ -178,7 +186,7 @@ The book doesn’t necessarily show _what_ Scrooge anticipated for his death, bu
 
 Notably, Fred, Scrooge’s nephew, features in the end for Tiny Tim—but _not for Scrooge_. This is surprising, as Scrooge sees Fred pledge to invite him to Christmas Dinner every year, as showcased in a vision by the Ghost of Christmas Present:
 
-> If he finds me going there, in good temper, year after year, and saying, "Uncle Scrooge, how are you?" If it only put him in the vein to leave his poor clerk fifty pounds, _that's_ something.
+## If he finds me going there, in good temper, year after year, and saying, "Uncle Scrooge, how are you?" If it only put him in the vein to leave his poor clerk fifty pounds, that's something.
 
 This future Scrooge never joins Fred for dinner. And, from the visions bestowed by Ghost of Christmas Yet to Come, no inheritance is divested to either Cratchit or Fred. There is no indication that Fred attends the funeral.
 
@@ -206,7 +214,7 @@ The play opens on a cheery Christmas scene: children are playing around an enorm
 
 A friend of the host is cajoled into telling the story and, after sitting in the chair of honor, he begins the tale with a boisterous, “Once upon a time,” which finally snaps the host out of his reverie and he halts the whole project. “This story does _possess_ a ‘once upon a time’,” the host concedes, “But this story does not _begin_ with ‘once upon a time.’ Not this story, not ever.” The host takes his seat in the chair. “MARLEY WAS DEAD,” he intones. “To begin with.”
 
-And we are transported back to the foggy cobblestones of Christmas Eve of Victorian London.
+## And we are transported back to the foggy cobblestones of Christmas Eve of Victorian London.
 
 Madden preserves much of Dickens’ original language and the host narrates the story faithfully and beautifully. But as the story comes to its conclusion, Madden brings the audience into the secret of her framing device: the host is Tiny Tim, now an adult, grown up and healed by Scrooge’s generosity and friendship. This is not Tim’s party. This is Scrooge’s party, the first Christmas party since Scrooge’s death, and it is filled with his friends, family, and loved ones who all remember him and honor Christmas.
 
@@ -214,7 +222,7 @@ The framing device, while simple, would be saccharine in the hands of a less ski
 
 Scrooge gives Tiny Tim health and a full life but the gift that Madden’s adaptation focuses on is the same quality that Dickens imparts upon us in the final lines of the book: “he knew how to keep Christmas well.” Notably, this is not a gift that charitable giving could impart: this is a gift that is only possible through the investment of a personal relationship.
 
-Why Christmas? Fred, Scrooge’s nephew, explains why in Stave 1:
+## Why Christmas? Fred, Scrooge’s nephew, explains why in Stave 1:
 
 > [Christmas is] the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut-up hearts freely, and to think of people below them as if they really were **fellow-passengers to the grave**, and not another race of creatures bound on other journeys.
 
@@ -222,13 +230,15 @@ We're all going to the same end: death.[9] Scrooge's transformation is not from 
 
 We can all be like Charlie Brown and lament the commercialization of Christmas, but Fred’s belief was true in 1843 and I still believe it’s true now. Christmas means something and deserves to be honored for all the ways that it helps us re-kindle our disposition to “sow the world with life immortal” while we still have that life in us. And, if you are looking for ways to keep Christmas well, I recommend you add reading this tale to your list. Like Scrooge, you may learn something.
 
-I give _A Christmas Carol_ five stars.
+## I give A Christmas Carol five stars.
 
-> Someday soon we all will be together  
-> If the fates allow  
-> Until then, we'll have to muddle through somehow  
-> So have yourself a merry little Christmas now
->
+## Someday soon we all will be together
+
+## If the fates allow
+
+## Until then, we'll have to muddle through somehow
+
+## So have yourself a merry little Christmas now
 
 ## Footnotes
 

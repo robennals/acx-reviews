@@ -1,7 +1,7 @@
 ---
 title: Tortilla Flat by John Steinbeck
 author: Unknown
-reviewAuthor: Random Reader
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: tortilla-flat-by-john-steinbeck
 wordCount: 5959
 readingTimeMinutes: 27
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1MHg_9R32iHYX9Jc1572pmzuCDd352Cpy9i73EnpPMeg
 tags:
   - Fiction
   - History

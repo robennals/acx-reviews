@@ -1,7 +1,7 @@
 ---
 title: The Mind is Flat by Nick Chater
 author: Unknown
-reviewAuthor: Jakob Schwichtenberg
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-mind-is-flat-by-nick-chater
 wordCount: 7059
 readingTimeMinutes: 32
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1DPKWhFlSyrwtq32C4y8E8hhSZQkAeTVg6dgOmYUJDZE
 tags:
   - Psychology
 ---
@@ -93,9 +92,9 @@ So what is the evidence for this bold claim?
 
 First of all, let’s unpack the different claims made here and then talk about the evidence for each.
 
-*   Claim 1: we have access to the world only through an extremely narrow channel.
-*   Claim 2: we don’t notice major blindspots even if they encompass 99% of what is right in front of us.
-*   Claim 3: the mind is not a passive recording device but an active pattern-matching machine, constantly interpreting and constructing meaning from the fragments it receives.
+* Claim 1: we have access to the world only through an extremely narrow channel.
+* Claim 2: we don’t notice major blindspots even if they encompass 99% of what is right in front of us.
+* Claim 3: the mind is not a passive recording device but an active pattern-matching machine, constantly interpreting and constructing meaning from the fragments it receives.
 
 ## Narrow Channel
 
@@ -343,9 +342,9 @@ The truth is that figuring out _why_ incubation works is genuinely difficult.
 
 Several mechanisms have been proposed.
 
-*   Forgetting fixation is the most supported: when you’re stuck on a wrong approach, a break lets that misleading mental set decay, freeing you to consider alternatives.
-*   Opportunistic assimilation suggests that during the break you encounter environmental cues that hint at the solution.
-*   And then there’s the classic background processing idea that your mind simply keeps working on the problem even if you’re not actively focusing on it.
+* Forgetting fixation is the most supported: when you’re stuck on a wrong approach, a break lets that misleading mental set decay, freeing you to consider alternatives.
+* Opportunistic assimilation suggests that during the break you encounter environmental cues that hint at the solution.
+* And then there’s the classic background processing idea that your mind simply keeps working on the problem even if you’re not actively focusing on it.
 
 Chater completely dismisses unconscious work and claims that if there is a positive effect it’s solely due to forgetting fixation and opportunistic assimilation.
 

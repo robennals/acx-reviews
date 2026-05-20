@@ -1,7 +1,7 @@
 ---
 title: The Ghost In My Brain
 author: Unknown
-reviewAuthor: Rachel Calcott
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-ghost-in-my-brain
 wordCount: 4218
 readingTimeMinutes: 19
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1dPcbVPoP892288Fj_-aVQR4siomTxkpFZxMRjL7UF7c
 tags:
   - Memoir
   - Science

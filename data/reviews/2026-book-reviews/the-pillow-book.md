@@ -1,7 +1,7 @@
 ---
 title: The Pillow Book
 author: Unknown
-reviewAuthor: Sphere
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-pillow-book
 wordCount: 5532
 readingTimeMinutes: 25
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1sQQnm17uSRtxlOdBz8Eq-LYt4h3nux8IQIVvUpVdQFI
 tags:
   - History
   - Memoir
@@ -118,14 +117,14 @@ This is a surprisingly fraught question. As with many books that are a thousand 
 
 If your thing is textual criticism, this shit is catnip:
 
-*   The sole extant Maedakebon manuscript is the oldest, dated to mid-Kamakura (1250–1300ish), but it includes elements from all three other variants and was probably compiled using the others as a reference.
-*   However, the Maedakebon is also the _longest_ version at 377 sections, including material not to be found in any of the other extant texts.
-*   The Sakaibon family is the shortest (omitting all the “diary” sections) and contains the most errata; the oldest surviving text of this line dates to 1570.
-*   The Nōinbon text is the second-longest, and its colophon alleges that it was copied from a manuscript owned by the poet Nōin, who was related to Sei’s husband, so it is “probably not disappointing”. There are three extant copies from the Muromachi period (1333–1568).
-*   There are _suspicious similarities_ between the lists in the Nōinbon and the lists in Nōin’s own book of _utamakura_; the extent to which Nōin revised the Nōinbon text to his personal taste is unknown.
-*   For unclear reasons, the Nōinbon also includes two different versions of Sei’s epilogue containing the “pillow” anecdote.
-*   The Sankanbon is currently the most popular version; it’s the “standard” one that Japanese high schoolers (attempt to) read. Its colophon states that it was originally written in 1229 (although the oldest extant copy dates to 1475). It omits some sections found in the Nōinbon but follows generally the same order, and the text itself is written in a more “concise” and “masculine” style than the Nōinbon.
-*   Is the Sankanbon closer to Sei’s original manuscript and the Nōinbon a later revision with extraneous additions, or the Nōinbon closer to the original and the Sankanbon a simplification for broader consumption? Great question! Fantastic question!
+* The sole extant Maedakebon manuscript is the oldest, dated to mid-Kamakura (1250–1300ish), but it includes elements from all three other variants and was probably compiled using the others as a reference.
+* However, the Maedakebon is also the _longest_ version at 377 sections, including material not to be found in any of the other extant texts.
+* The Sakaibon family is the shortest (omitting all the “diary” sections) and contains the most errata; the oldest surviving text of this line dates to 1570.
+* The Nōinbon text is the second-longest, and its colophon alleges that it was copied from a manuscript owned by the poet Nōin, who was related to Sei’s husband, so it is “probably not disappointing”. There are three extant copies from the Muromachi period (1333–1568).
+* There are _suspicious similarities_ between the lists in the Nōinbon and the lists in Nōin’s own book of _utamakura_; the extent to which Nōin revised the Nōinbon text to his personal taste is unknown.
+* For unclear reasons, the Nōinbon also includes two different versions of Sei’s epilogue containing the “pillow” anecdote.
+* The Sankanbon is currently the most popular version; it’s the “standard” one that Japanese high schoolers (attempt to) read. Its colophon states that it was originally written in 1229 (although the oldest extant copy dates to 1475). It omits some sections found in the Nōinbon but follows generally the same order, and the text itself is written in a more “concise” and “masculine” style than the Nōinbon.
+* Is the Sankanbon closer to Sei’s original manuscript and the Nōinbon a later revision with extraneous additions, or the Nōinbon closer to the original and the Sankanbon a simplification for broader consumption? Great question! Fantastic question!
 
 From the Muromachi period onwards, editions of _The Pillow Book_ have imposed organizational conveniences on the text such as section titles and numbers, although given that there are four different versions and _all of them have a different number of sections_ the section numbers are perhaps not as useful as one might desire. The sections themselves may also have been a later addition — it’s possible that the most authentic _Pillow Book_ reading experience would be one long, uninterrupted stream of text. Sounds overwhelming!
 
@@ -153,7 +152,7 @@ These mentions are sprinkled throughout the text, sometimes dozens of sections a
 
 This whole review has been a thinly-veiled attempt to convince you to read _The Pillow Book_, and at this point hopefully you have a decent idea of what its deal is (especially since I’ve been conspicuously padding my wordcount with extended quotes). I could name a number of reasons _why_ you should read it: because it’s a literary classic, because it’s a window on a place and time very far removed from any of our lives, because even through the scrim of translation and cultural shift and a thousand years of textual corruption Sei Shōnagon is _wickedly_ funny. But I am trying to convince _you_, specifically, to read _The Pillow Book_ because you are demonstrably the sort of person who likes blogs.
 
-Reading _The Pillow Book_ reminds me of nothing so much as stumbling across and backreading the archive of an old, dead blog — say, a Wordpress site last updated in 2011, comments section filling up with spam. (Anyone else do this? You get linked to one post, and then you just keep paging through the rest of them in reverse-chrono order, and you get super invested and start wondering if the author died or just moved to Twitter?) History doesn’t really know what happened to Sei Shōnagon after she stopped posting left court (although I guess we can be pretty sure she didn’t move to Twitter).  We don’t know for sure when she was born, when she died, or even her real name. All we have is this curated feed of things she found amusing, irritating, pleasing, or worth remembering.
+Reading _The Pillow Book_ reminds me of nothing so much as stumbling across and backreading the archive of an old, dead blog — say, a Wordpress site last updated in 2011, comments section filling up with spam. (Anyone else do this? You get linked to one post, and then you just keep paging through the rest of them in reverse-chrono order, and you get super invested and start wondering if the author died or just moved to Twitter?) History doesn’t really know what happened to Sei Shōnagon after she ~~stopped posting~~ left court (although I guess we can be pretty sure she didn’t move to Twitter).  We don’t know for sure when she was born, when she died, or even her real name. All we have is this curated feed of things she found amusing, irritating, pleasing, or worth remembering.
 
 > _Things that fall_ — Snow. Hail. Sleet is unpleasant, but it’s lovely when it falls mingled with white snowflakes.
 >
@@ -163,15 +162,15 @@ Reading _The Pillow Book_ reminds me of nothing so much as stumbling across and 
 
 ## References
 
-1.  Sei Shōnagon, _The Pillow Book_, trans. Meredith McKinney (Penguin Books, 2006)
-2.  Naomi Fukumori, “Sei Shōnagon’s Makura no sōshi: A Re-visionary History,” _The Journal of the Association of Teachers of Japanese_ 31, no. 1 (1997): 1–44, [doi.org/10.2307/489680](https://doi.org/10.2307/489680)
-3.  Naomi Fukumori, “Sei Shōnagon the Essay / _Ese_-ist: Delineating Differences in _Makura no sōshi_,” _Proceedings of the Midwest Association for Japanese Literary Studies_ 3 (1997): 66–88, [journals.library.brandeis.edu/index.php/PMAJLS/article/view/2384](https://journals.library.brandeis.edu/index.php/PMAJLS/article/view/2384)
-4.  Tzvetana Kristeva, “the pillow hook (”the pillow book” as an “open work”),” _Japan Review_ 1994, no. 5 (1994): 15–54, [jstor.org/stable/25790937](https://www.jstor.org/stable/25790937)
-5.  Gergana Ivanova, “Knowing Women: Sei Shōnagon’s _Makura no Sōshi_ in Early-Modern Japan” (PhD diss., University of British Columbia, 2012), [doi.org/10.14288/1.0072910](https://doi.org/10.14288/1.0072910)
-6.  Mark Morris, “Sei Shōnagon’s Poetic Catalogues,” _Harvard Journal of Asiatic Studies_ 40, no. 1 (1980): 5–54, [doi.org/10.2307/2718916](https://doi.org/10.2307/2718916)
-7.  Ivan Morris, _The World of the Shining Prince: Court Life in Ancient Japan_ (Alfred A. Knopf, 1964)
-8.  William Wayne Farris, _Japan to 1600: A Social and Economic History_ (University of Hawai’i Press, 2009)
-9.  Shūichi Katō, _A History of Japanese Literature: The First Thousand Years_, trans. David Chibbett (Kodansha International Ltd., 1979)
+1. Sei Shōnagon, _The Pillow Book_, trans. Meredith McKinney (Penguin Books, 2006)
+2. Naomi Fukumori, “Sei Shōnagon’s Makura no sōshi: A Re-visionary History,” _The Journal of the Association of Teachers of Japanese_ 31, no. 1 (1997): 1–44, [doi.org/10.2307/489680](https://doi.org/10.2307/489680)
+3. Naomi Fukumori, “Sei Shōnagon the Essay / _Ese_-ist: Delineating Differences in _Makura no sōshi_,” _Proceedings of the Midwest Association for Japanese Literary Studies_ 3 (1997): 66–88, [journals.library.brandeis.edu/index.php/PMAJLS/article/view/2384](https://journals.library.brandeis.edu/index.php/PMAJLS/article/view/2384)
+4. Tzvetana Kristeva, “the pillow hook (”the pillow book” as an “open work”),” _Japan Review_ 1994, no. 5 (1994): 15–54, [jstor.org/stable/25790937](https://www.jstor.org/stable/25790937)
+5. Gergana Ivanova, “Knowing Women: Sei Shōnagon’s _Makura no Sōshi_ in Early-Modern Japan” (PhD diss., University of British Columbia, 2012), [doi.org/10.14288/1.0072910](https://doi.org/10.14288/1.0072910)
+6. Mark Morris, “Sei Shōnagon’s Poetic Catalogues,” _Harvard Journal of Asiatic Studies_ 40, no. 1 (1980): 5–54, [doi.org/10.2307/2718916](https://doi.org/10.2307/2718916)
+7. Ivan Morris, _The World of the Shining Prince: Court Life in Ancient Japan_ (Alfred A. Knopf, 1964)
+8. William Wayne Farris, _Japan to 1600: A Social and Economic History_ (University of Hawai’i Press, 2009)
+9. Shūichi Katō, _A History of Japanese Literature: The First Thousand Years_, trans. David Chibbett (Kodansha International Ltd., 1979)
 
 ## Footnotes
 

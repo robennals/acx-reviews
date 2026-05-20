@@ -1,7 +1,7 @@
 ---
 title: Application for Release from the Dream
 author: Unknown
-reviewAuthor: Miro
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: application-for-release-from-the-dream
 wordCount: 3438
 readingTimeMinutes: 16
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1RyRwJQLU8nOP5MWBeP271HKjXFgzebpmKAHL_i-ov3g
 tags:
   - Fiction
 ---
@@ -207,6 +206,6 @@ This review is submitted and is to be published in its entirety pursuant to the 
 
 # Footnotes
 
-1.  Tony died in 2018. Before this book, he had published five books of poetry and two books of essays. Two more poetry books followed and a poetry writing guide.
-2.  I used to think I couldn’t enjoy poetry.  As a teenager, I watched _Back to the Future_ more than 30 times, feeling happy each time I noticed some new connection in the background.  At the time (and long after), I paid little attention to poems, and when someone explained an obvious metaphor to me, I felt disgraced.  I was also under the mistaken impression that any poet’s wisdom was unquestionable and to me personally unreachable.
-3.  The book is worth having for this poem alone, which has several changes (including layout) from the version originally published and available online.
+1. Tony died in 2018. Before this book, he had published five books of poetry and two books of essays. Two more poetry books followed and a poetry writing guide.
+2. I used to think I couldn’t enjoy poetry.  As a teenager, I watched _Back to the Future_ more than 30 times, feeling happy each time I noticed some new connection in the background.  At the time (and long after), I paid little attention to poems, and when someone explained an obvious metaphor to me, I felt disgraced.  I was also under the mistaken impression that any poet’s wisdom was unquestionable and to me personally unreachable.
+3. The book is worth having for this poem alone, which has several changes (including layout) from the version originally published and available online.

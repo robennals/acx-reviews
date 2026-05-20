@@ -1,7 +1,7 @@
 ---
 title: The Bible
 author: Unknown
-reviewAuthor: Ray+
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: the-bible
 wordCount: 322
 readingTimeMinutes: 2
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1Oz7EsEt1gI_uIXEgZ1UAdvD7V9_6SqqHxSI8r3Lq8Gg
 tags:
   - Religion
   - Philosophy

@@ -1,7 +1,7 @@
 ---
 title: Stabilizing an Unstable Economy
 author: Unknown
-reviewAuthor: Richard Demsyn-Jones
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: stabilizing-an-unstable-economy
 wordCount: 8216
 readingTimeMinutes: 37
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1FM9jX7gBQXbPyxHtVF8OqoGlIxq4R6K91zLs9n5q7wY
 tags:
   - Economics
   - Politics
@@ -142,10 +141,10 @@ Yet there are elements of MMT that differ in important ways from Minsky, and tho
 
 More so, while Minsky and Wray agree that budget deficits fund financial surpluses in the private sector, Minsky did not advocate for the persistent deficits that Wray defends. These government deficits have a specific purpose for Minsky, which is to prevent asset prices from dropping in a debt deflation where companies have to deleverage (and reduce economic activity) suddenly, all ultimately in the purpose of preventing the unemployment and suffering of regular people. The accounting identities behind those claims say nothing about intertemporal effects on the real economy, such as whether total production will be higher or lower in subsequent periods depending on the role of government. Wray doesn’t qualify or contain the use of deficits as narrowly as Minsky, writing that “we understand that the budget deficit needs to be larger than the current account deficit to allow the domestic private sector to run a surplus; this approach contributes to financial stability” (Wray, p. 206). Consider some quotes from Minsky that show much more hesitancy to use continual deficits:
 
-*   “If Big Government is not to be conducive to inflation, the budget structure must be such that profits are constrained by surpluses when inflation rules” (p. 325).
-*   “Because the budget structure of Big Government must have the built-in capacity to generate surpluses when inflation appears, the tax revenues have to be a large proportion of GNP” (p. 325)
-*   “Debts embody payment commitments, promises to make payments. For these promises to have any value any debtor _has to be able_ to generate a positive cash flow in its favor” (p. 336)
-*   “There is nothing special about government debt, and a flight from government debt can occur” [...] “for a domestic debt the flight can lead to inflation” (p. 336)
+* “If Big Government is not to be conducive to inflation, the budget structure must be such that profits are constrained by surpluses when inflation rules” (p. 325).
+* “Because the budget structure of Big Government must have the built-in capacity to generate surpluses when inflation appears, the tax revenues have to be a large proportion of GNP” (p. 325)
+* “Debts embody payment commitments, promises to make payments. For these promises to have any value any debtor _has to be able_ to generate a positive cash flow in its favor” (p. 336)
+* “There is nothing special about government debt, and a flight from government debt can occur” [...] “for a domestic debt the flight can lead to inflation” (p. 336)
 
 Minsky wanted large deficits during recessions or financial crises, and surpluses otherwise. In this sense he was quite mainstream. His economic foundations were the same as MMT’s, and mainstream economics isn’t too far off, yet where Minsky wanted to use deficits when they can prevent severe recessions, MMT goes a step further and asks just how far we can go to have deficits as often and as large as possible. Wray’s opinion is that “the inflation constraint is much less of a concern in today’s global economy” (Wray, p. 128). It’s a difference of degree more than a difference of kind, and affected by the different inflation and financing settings of Minsky’s time compared to Wray’s. In some ways, the US seems to have implicitly accepted the MMT view, considering how the federal government has had uninterrupted and growing deficits for the last two decades.
 

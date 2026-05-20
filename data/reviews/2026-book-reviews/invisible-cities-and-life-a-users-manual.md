@@ -1,23 +1,22 @@
 ---
 title: 'Invisible Cities and Life: A User''s Manual'
 author: Unknown
-reviewAuthor: Simon Betts
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T07:04:18.000Z'
 slug: invisible-cities-and-life-a-users-manual
-wordCount: 5297
+wordCount: 5299
 readingTimeMinutes: 24
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1lYNyODoRcAVLWyNY0_GZusawDN4H29RVipcXZmtp3mQ
 tags:
   - Fiction
 ---
 
-Review
+## Review
 
-Invisible Cities & Life: A User’s Manual [1]
+## Invisible Cities & Life: A User’s Manual [1]
 
 # I
 
