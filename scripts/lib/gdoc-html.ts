@@ -610,6 +610,8 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
   // the first place, so the body-default gate isn't needed for it.
   const totalParagraphs = $('p').length;
   if (totalParagraphs >= 10) {
+    // First, the simple per-class case: a single class used on > 90% of
+    // paragraphs is the doc's body default.
     for (const cls of [...styles.indentClasses]) {
       const usageCount = $(`p.${cls}`).length;
       if (usageCount / totalParagraphs > 0.9) {
@@ -618,6 +620,32 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         // combined-margin check doesn't re-add this class back via
         // its margin contribution.
         styles.classMargins.delete(cls);
+      }
+    }
+    // Then the multi-class case: some doc templates define THREE near-
+    // identical classes (c0/c1/c2) that share the same margin-left but
+    // differ in padding, and split body paragraphs roughly equally
+    // across them. Moby-Dick: c0/c1/c2 all carry margin-left: 42.5pt
+    // and together account for 98% of paragraphs — but no single class
+    // hits the 90% per-class gate. Bucket indent classes by their
+    // (marginLeft, marginRight) profile, and if a profile bucket
+    // covers > 90% of paragraphs collectively, drop the whole bucket.
+    const byProfile = new Map<string, string[]>();
+    for (const cls of styles.indentClasses) {
+      const margins = styles.classMargins.get(cls);
+      if (!margins) continue;
+      const key = `${margins.marginLeft}|${margins.marginRight}`;
+      if (!byProfile.has(key)) byProfile.set(key, []);
+      byProfile.get(key)!.push(cls);
+    }
+    for (const [, classes] of byProfile) {
+      if (classes.length < 2) continue;
+      const usage = classes.reduce((sum, c) => sum + $(`p.${c}`).length, 0);
+      if (usage / totalParagraphs > 0.9) {
+        for (const c of classes) {
+          styles.indentClasses.delete(c);
+          styles.classMargins.delete(c);
+        }
       }
     }
   }
@@ -700,7 +728,15 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       const parts = rawParts.filter(p => textLen(p) > 0);
       if (parts.length < 2) return;
       const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
-      const wrappers = parts.map(p => `<p${classAttr}>${p}</p>`).join('');
+      // Mark each split `<p>` with `data-split-paragraph="1"` so the
+      // adjacent-indented-paragraph merge below (which collapses
+      // padding-bottom=0 neighbours into one tight blockquote with
+      // line breaks instead of paragraph breaks) leaves these alone.
+      // The author's `<br><br>` IS a paragraph break — turning it back
+      // into a tight line break loses the blank `>` separator in the
+      // rendered markdown (Between Two Fires's "alchemy of life"
+      // quote, etc.).
+      const wrappers = parts.map(p => `<p${classAttr} data-split-paragraph="1">${p}</p>`).join('');
       el.replaceWith(wrappers);
     });
   }
@@ -1761,7 +1797,7 @@ export function cleanupMarkdown(markdown: string): string {
       // the footnotes block as a blockquoted indented passage
       // (Sovereign Child does this for its `Notes:` section).
       const defLineRe =
-        /^>?\s*(?:\[(\d+)\]|\((\d+)\)|(\d+)\\?[.:])[ \t]+(.*)$/;
+        /^>?\s*(?:\*\*)?(?:\[(\d+)\]|\((\d+)\)|(\d+)\\?[.:])(?:\*\*)?[ \t]+(.*)$/;
       const ids: string[] = [];
       const rewrittenAfter = afterLines.map(line => {
         const m = defLineRe.exec(line);

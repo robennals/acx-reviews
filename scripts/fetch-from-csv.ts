@@ -231,6 +231,14 @@ interface ReviewException {
   // indented blocks (e.g. "The Radicalism of the American Revolution"
   // uses `_2\. Title_` inside a quote indent for each subsection).
   promoteToSubheading?: string;
+  // Rewrite numbered list items as bullets whose first text is the
+  // literal number. Use for docs where the author breaks a numbered
+  // sequence (e.g. "The Rule of Law" has items 1-4, then 7, then
+  // 5, then 8, with item 6 typed as a parenthesized paragraph
+  // instead of a list). Markdown's strict 1./2./3. numbering can't
+  // represent the author's intended order; rendering each item as a
+  // bullet that BEGINS with its number preserves the labels exactly.
+  numberedListAsBullets?: boolean;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -702,6 +710,17 @@ async function createMarkdownFile(
     // point. The italic-wrap just added more, and runs of them need
     // the same blank-`>` separator between paragraphs.
     truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
+  }
+
+  if (slugExceptions[slug]?.numberedListAsBullets) {
+    // Convert `N. text` numbered list items to `* N. text` bullets so
+    // the author's number labels survive the rendering. Also catch the
+    // form where an item was typed as a parenthesized-number paragraph
+    // and got swept into a blockquote: `> _(N) text_` becomes the same
+    // bullet shape with the italic markup preserved on the inner text.
+    truncatedContent = truncatedContent
+      .replace(/^(\d+)\.[ \t]+(.+)$/gm, '* $1. $2')
+      .replace(/^>[ \t]+_\((\d+)\)[ \t]+([^_]+?)_[ \t]*$/gm, '* $1. _$2_');
   }
 
   if (slugExceptions[slug]?.promoteToSubheading) {

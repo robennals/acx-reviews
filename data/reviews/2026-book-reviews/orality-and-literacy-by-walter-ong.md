@@ -416,7 +416,7 @@ Writing should be doing much more of what the Gwern/17776/NYT cluster is experim
 
 **What if we mirrored letters?** In James Joyce’s _Ulysses_, Bloom comes across a typesetter in the process of printing an obituary, and on the print plates, reads the letters “.mangiD. kcirtaP.” Only, of course, that’s not what he read. What he read was:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/87e6422cb91f9eaf.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7488fdac28207f65.png)
 
 That is, the letters weren’t just written backwards for Bloom. They were mirrored. Maybe when Ulysses was published they didn’t have the technology to flip letters, but a hundred years later, we do. We can restore this classic text to what it was always meant to be.
 

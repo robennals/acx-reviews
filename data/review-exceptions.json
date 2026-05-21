@@ -55,5 +55,8 @@
   },
   "the-radicalism-of-the-american-revolution": {
     "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
+  },
+  "the-rule-of-law": {
+    "numberedListAsBullets": true
   }
 }

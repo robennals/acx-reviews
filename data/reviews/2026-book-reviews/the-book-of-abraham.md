@@ -273,7 +273,7 @@ At first glance, this one seems a bit harder to square. The last column of Egypt
 
 But it’s not really that hard to square. Again, Abraham isn’t claimed to have made the facsimiles himself, only to have written the main text. So if he (or someone later) commissioned an Egyptian artist to render it for him, then the artist, being Egyptian, did what Egyptian artists do: rendered the scene using the conventions of his time. The artist added some standard Book of The Dead captions, but Joseph knew what was really being depicted since God told him. This makes sense, the dark-skinned person that Egyptologists claim is Anubis doesn’t even have a Jackal head:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/15958caaf575f7a6.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/7a0dd872fd02797f.jpg)
 
 The same expert pattern-matching problem from before: of course it looks like a standard scene. Egyptian art always looks like a standard scene. That doesn’t tell you what specific event it commemorates.
 
@@ -361,13 +361,13 @@ This part is a bit problematic to translate because the characters seem to make 
 
 And, yes. The text that _is_ understandable contradicts the interpretations Joseph _did_ give. But, we already have an explanation for that. Egyptian artists being Egyptian artists. Just Google hypocephali, they all look identical! For example this figure appears in most of them:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/79b7eaab5a609eae.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/ae06c02567a3c50f.jpg)
 
-![](https://acximages.ennals.org/images/2026-book-reviews/928707c8ebed4cba.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/629e39ee4fcc3fbc.jpg)
 
-![](https://acximages.ennals.org/images/2026-book-reviews/66a98caad8969a3a.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/623f39d23af7cfb1.jpg)
 
-![](https://acximages.ennals.org/images/2026-book-reviews/0fba128cb2c17dd9.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/aabef38b4e0068f5.jpg)
 
 Here’s the corresponding figure (Fig. 7) from Facsimile 2:
 

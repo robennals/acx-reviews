@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T01:42:20.000Z'
 slug: the-rule-of-law
-wordCount: 2894
+wordCount: 2901
 readingTimeMinutes: 13
 source: gdoc
 tags:
@@ -43,29 +43,29 @@ Bingham sets out his personal definition of the outset:
 
 After a whistle-stop tour of what he takes to be the great moments in the development of the rule of law within England and then Britain – of which more later – he turns to setting out the implications of this principle. These begin very sensibly and indeed modestly:
 
-1. _The law must be accessible and so far as possible intelligible, clear and predictable_.
+* 1. _The law must be accessible and so far as possible intelligible, clear and predictable_.
 
 A good principle, which I don’t think anyone disagrees with. Bingham spends a chapter expanding on this, with some incisive commentary on how the growth of the administrative state (and, arguably, certain traditions within the Anglo-Saxon legal tradition) are undermining this clarity. He then continues on with some further uncontroversial lemmas regarding the behaviour of judges and public authorities:
 
-2. _Questions of legal right and liability should ordinarily be resolved by application of the law and not the exercise of discretion._
+* 2. _Questions of legal right and liability should ordinarily be resolved by application of the law and not the exercise of discretion._
 
-3. _The laws of the land should apply equally to all, save to the extent that objective differences justify differentiation._
+* 3. _The laws of the land should apply equally to all, save to the extent that objective differences justify differentiation._
 
-4. _Ministers and public officers at all levels must exercise the powers conferred on them in good faith, fairly, for the purpose for which the powers were conferred, without exceeding the limits of such powers and not unreasonably._
+* 4. _Ministers and public officers at all levels must exercise the powers conferred on them in good faith, fairly, for the purpose for which the powers were conferred, without exceeding the limits of such powers and not unreasonably._
 
 (skipping 5 for now)
 
-> _(6) Means must be provided for resolving, without prohibitive cost or inordinate delay, bona fide civil disputes which the parties themselves are unable to resolve._
+* 6. _Means must be provided for resolving, without prohibitive cost or inordinate delay, bona fide civil disputes which the parties themselves are unable to resolve._
 
-7. _Adjudicative procedures provided by the state should be fair._
+* 7. _Adjudicative procedures provided by the state should be fair._
 
 There are legitimate debates to be had about the extent to which public authorities and their officers ought to enjoy discretion; nowadays it is acknowledged [even by the outgoing head of the UK Supreme Court Lord Reed (p15-16)](https://supremecourt.uk/uploads/speech_lord_reed_13062025_88f834d8f5.pdf) that in retrospect the senior judges of Lord Bingham’s era were often too eager to interpose their own judgements over those of elected officials and their departments. But at the same time there is very clearly something to Lord Bingham’s viewpoint. There are genuine dangers from the abuse of discretion, and from misuse of legitimately-held powers.
 
 At this point, though, Bingham hits something of an obstacle. We have more-or-less said all that can be said for how the rule of law constrains executive and judicial behaviour based on his original definition, and it doesn’t add up to all that much. One option, the option taken by Joseph Raz, is to conclude that this is all there is and ultimately the rule of law isn’t all that important. I’ve already set out how I would continue the investigation: by looking at the behaviour of ordinary people. But Bingham takes a third path. Specifically, he identifies a variety of ills which may afflict societies, and declares that in each case the antidote is the rule of law. Thus:
 
-5. _The law must afford adequate protection of fundamental human rights._
+* 5. _The law must afford adequate protection of fundamental human rights._
 
-8. _The rule of law requires compliance by the state with its obligations in international law as in national law._
+* 8. _The rule of law requires compliance by the state with its obligations in international law as in national law._
 
 People are often the worst advocates for the issues they are most passionate about, and for Bingham this was human rights. He was a fervent defender of the European Convention on Human Rights (ECHR) from its introduction, and the Human Rights Act which gave the ECHR direct effect in British law. Whenever he met with disagreement on this topic in-person, [he was known](https://open.spotify.com/episode/4VVJk37rkhi0vm0vytJ6XC?si=f10160ba0ca54f9e) for rattling off a list of the rights set out by the ECHR and asking which of these particular rights his interlocutor believed we ought not to have – as though Britain was an autocracy without free elections prior to its accession to the ECHR. In this book he primarily adopts a different, but no less unconvincing, strategy: a series of appeals to (often dodgy) authorities. “Both the Universal Declaration on Human Rights and later international instruments link the protection of human rights with the rule of law” (p66), presumably in much the same sense that monarchs throughout history have claimed that obedience to them and their successors is required as a way of serving God. More bizarrely, Bingham includes a lengthy quote on the inadequacy of mere adoption of liberal laws from Valery Zorkin, who – at the time of writing this review – is now well into his third decade as President of the Constitutional Court of Russia. Whatever Zorkin meant in 2007, it seems safe to say that he is not now and was probably never a supporter of a strong notion of human rights.
 

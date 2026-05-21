@@ -81,6 +81,37 @@ async function trimImageWhitespace(buffer: Buffer, mime: string): Promise<Buffer
   }
 }
 
+/**
+ * Google Docs exports embedded math equations as tiny PNGs (e.g. 52×22)
+ * — rendered at the inline font size, not at display size. They look
+ * fine in the gdoc UI (where the surrounding text is also small) but
+ * appear ~4× too small on a typical web page. Upscale small images
+ * with Lanczos3 so the served PNG is itself larger; the browser then
+ * renders at natural size and the equation looks proportionate.
+ *
+ * Heuristic: width ≤ 300 AND height ≤ 100. Captures math equations
+ * without sweeping in normal figures (which are typically much
+ * wider/taller). The 4× factor matches the visual gap the user
+ * reported.
+ */
+const MATH_UPSCALE_FACTOR = 4;
+async function upscaleMathImage(buffer: Buffer, mime: string): Promise<Buffer> {
+  if (!TRIMMABLE_MIMES.has(mime)) return buffer;
+  try {
+    const meta = await sharp(buffer).metadata();
+    if (!meta.width || !meta.height) return buffer;
+    if (meta.width > 300 || meta.height > 100) return buffer;
+    const out = await sharp(buffer)
+      .resize(meta.width * MATH_UPSCALE_FACTOR, meta.height * MATH_UPSCALE_FACTOR, {
+        kernel: 'lanczos3',
+      })
+      .toBuffer();
+    return out;
+  } catch {
+    return buffer;
+  }
+}
+
 interface ProcessResult {
   markdown: string;
   uploadedCount: number;
@@ -167,7 +198,8 @@ export async function processImages(
 
     const ext = MIME_TO_EXT[match.mime] ?? match.subtype;
     const rawBuffer = Buffer.from(match.base64, 'base64');
-    const buffer = await trimImageWhitespace(rawBuffer, match.mime);
+    const trimmed = await trimImageWhitespace(rawBuffer, match.mime);
+    const buffer = await upscaleMathImage(trimmed, match.mime);
     const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
     const key = `images/${contestId}/${hash}.${ext}`;
 
@@ -220,7 +252,8 @@ export async function processImages(
       const ext = MIME_TO_EXT[mime] ?? mime.replace('image/', '');
       const arrayBuffer = await res.arrayBuffer();
       const rawBuffer = Buffer.from(arrayBuffer);
-      const buffer = await trimImageWhitespace(rawBuffer, mime);
+      const trimmed = await trimImageWhitespace(rawBuffer, mime);
+      const buffer = await upscaleMathImage(trimmed, mime);
       const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
       const key = `images/${contestId}/${hash}.${ext}`;
       const { url, uploaded } = await uploadIfMissing(key, buffer, mime);
