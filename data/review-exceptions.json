@@ -58,5 +58,14 @@
   },
   "the-rule-of-law": {
     "numberedListAsBullets": true
+  },
+  "the-master-margarita": {
+    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit"
+  },
+  "probability-theory-the-logic-of-science": {
+    "imageReplacements": {
+      "19796f48ef730e08": "$\\displaystyle\\frac{M!(N-r)!}{(M-r)!N!}$",
+      "5374534c3e17ded8": "$\\displaystyle\\left(\\frac{M}{N}\\right)^r$"
+    }
   }
 }

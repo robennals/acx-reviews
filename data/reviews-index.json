@@ -155,6 +155,26 @@
     ]
   },
   {
+    "id": "the-master-margarita",
+    "title": "The Master & Margarita",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T02:35:38.000Z",
+    "slug": "the-master-margarita",
+    "excerpt": "Yes, OK, reviewing The Master & Margarita is absurd. Imagine a well-meaning Russian stumbles on a translation of The Adventures of Huck Finn and “reviews” it, despite knowing nothing about America or...",
+    "wordCount": 3790,
+    "readingTimeMinutes": 17,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion",
+      "Philosophy"
+    ]
+  },
+  {
     "id": "a-swim-in-a-pond-in-the-rain-by-george-saunders",
     "title": "A Swim in a Pond in the Rain (by George Saunders)",
     "author": "Unknown",

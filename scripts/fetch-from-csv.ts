@@ -239,6 +239,14 @@ interface ReviewException {
   // represent the author's intended order; rendering each item as a
   // bullet that BEGINS with its number preserves the labels exactly.
   numberedListAsBullets?: boolean;
+  // Replace specific image references with arbitrary text. Keyed by
+  // the image's content-hash filename (e.g. "19796f48ef730e08" —
+  // the part of the R2 URL before the extension). Use for math
+  // equations exported as low-DPI raster images that the renderer
+  // can re-render at any resolution from LaTeX. Value is substituted
+  // verbatim, so include `$…$` (inline) or `$$…$$` (display) math
+  // delimiters yourself.
+  imageReplacements?: Record<string, string>;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -767,7 +775,24 @@ async function createMarkdownFile(
 
   // Upload images and rewrite markdown
   const imageResult = await processImages(truncatedContent, contestId);
-  const processedContent = imageResult.markdown;
+  let processedContent = imageResult.markdown;
+
+  // Per-slug image-to-text replacements. Used for math equations
+  // that the gdoc exports as small raster images — substituting in
+  // LaTeX so the renderer can typeset them. Keys are the content-
+  // hash portion of the R2 URL (e.g. "19796f48ef730e08"); we match
+  // any `![alt](url-containing-key)` line and replace the whole
+  // markdown image with the configured text.
+  const imageReplacements = slugExceptions[slug]?.imageReplacements;
+  if (imageReplacements) {
+    for (const [key, replacement] of Object.entries(imageReplacements)) {
+      const escaped = key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      processedContent = processedContent.replace(
+        new RegExp(`!\\[[^\\]]*\\]\\([^)]*${escaped}[^)]*\\)`, 'g'),
+        replacement
+      );
+    }
+  }
 
   const wordCount = countWords(processedContent);
   const readingTime = calculateReadingTime(wordCount);

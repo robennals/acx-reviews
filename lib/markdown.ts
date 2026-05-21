@@ -1,7 +1,11 @@
 import matter from 'gray-matter';
 import { remark } from 'remark';
-import html from 'remark-html';
 import gfm from 'remark-gfm';
+import math from 'remark-math';
+import remarkRehype from 'remark-rehype';
+import rehypeRaw from 'rehype-raw';
+import rehypeKatex from 'rehype-katex';
+import rehypeStringify from 'rehype-stringify';
 import { extractFootnotes } from './footnotes';
 import type { ReviewFootnote } from './types';
 
@@ -14,9 +18,18 @@ export function parseMarkdown(fileContent: string) {
 }
 
 async function mdToHtml(md: string): Promise<string> {
+  // Pipeline: parse markdown (+gfm tables/strikethrough, +math `$..$`
+  // and `$$..$$`), convert to HTML, preserve inline HTML (figure/
+  // figcaption from gdoc image conversion), render math through
+  // KaTeX, serialize. Math output is HTML containing KaTeX classes;
+  // app/globals.css pulls in katex.min.css to style it.
   const result = await remark()
+    .use(math)
     .use(gfm)
-    .use(html, { sanitize: false })
+    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeRaw)
+    .use(rehypeKatex)
+    .use(rehypeStringify, { allowDangerousHtml: true })
     .process(md);
   return result.toString();
 }
