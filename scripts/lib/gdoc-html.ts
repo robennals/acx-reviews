@@ -1879,6 +1879,46 @@ export function cleanupMarkdown(markdown: string): string {
     }
   }
 
+  // Anchor-id footnote format. Google Docs exports its native footnote
+  // feature as:
+  //   body:  …text[N](#id.xxxxx)…
+  //   defs:  N. footnote text…[↩︎](#id.yyyyy)
+  // The defs sit at the doc tail as a numbered list (separated from
+  // body by a thematic break). Neither format is recognized by any
+  // standard footnote extractor — without rewriting, the body refs
+  // render as plain links that point at nonexistent in-document
+  // anchors, and the def list renders as an unrelated ordered list.
+  //
+  // Rewrite: each `[N](#id.xxx)` body ref → `[^N]`; each tail def line
+  // strips its trailing `[↩︎](#id.yyy)` return arrow and becomes
+  // `[^N]: …`. Lib/footnotes.ts then picks up the pandoc form.
+  {
+    const refRe = /\[(\d+)\]\(#id\.[a-z0-9]+\)/g;
+    // Find ordered-list def lines anchored to a return-arrow link. Both
+    // `1. text [↩︎](#id.xxx)` and `1\. text [↩︎](#id.xxx)` (turndown
+    // sometimes escapes the period to prevent list interpretation) are
+    // accepted. The return arrow glyph is `↩︎` but we accept any
+    // character set inside `[...]` to be lenient.
+    const defRe = /^(\d+)\\?\.[ \t](.*?)\[[^\]]*\]\(#id\.[a-z0-9]+\)[ \t]*$/;
+    const lines = md.split('\n');
+    const defIndices: number[] = [];
+    for (let k = 0; k < lines.length; k++) {
+      if (defRe.test(lines[k])) defIndices.push(k);
+    }
+    const bodyRefMatches = md.match(refRe);
+    if (defIndices.length >= 2 && bodyRefMatches && bodyRefMatches.length >= 2) {
+      // Rewrite def lines.
+      for (const idx of defIndices) {
+        const m = defRe.exec(lines[idx]);
+        if (!m) continue;
+        lines[idx] = `[^${m[1]}]: ${m[2].trim()}`;
+      }
+      md = lines.join('\n');
+      // Rewrite body refs.
+      md = md.replace(refRe, (_full, n: string) => `[^${n}]`);
+    }
+  }
+
   // `FOOTNOTE N` keyword-style footnotes (Der Untergang format). Body
   // refs appear as `[FOOTNOTE N]` or `(FOOTNOTE N)`; definitions at
   // the tail are `FOOTNOTE N` (with optional trailing colon) headers
