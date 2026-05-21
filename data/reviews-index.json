@@ -1,5 +1,419 @@
 [
   {
+    "id": "the-full-facts-book-of-cold-reading",
+    "title": "The Full Facts Book Of Cold Reading",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T00:33:37.000Z",
+    "slug": "the-full-facts-book-of-cold-reading",
+    "excerpt": "Recently, Kaj Sotala (https://www.lesswrong.com/posts/oMqx9D9EEW9AMDsbf/taking-woo-seriously-but-not-literally) published a blogpost titled \"Taking woo seriously but not literally\". He argues that...",
+    "wordCount": 5945,
+    "readingTimeMinutes": 27,
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
+  },
+  {
+    "id": "siddhartha-1922-by-hermann-hesse",
+    "title": "Siddhartha (1922) by Hermann Hesse",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T23:24:54.000Z",
+    "slug": "siddhartha-1922-by-hermann-hesse",
+    "excerpt": "You show up to the ACX meetup a few minutes late. You drift through the room. There is a lot of Buddhism talk today, not exactly your favorite thing rationalists get into. You see Linda by the...",
+    "wordCount": 3982,
+    "readingTimeMinutes": 18,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "the-knowledge-machine",
+    "title": "The Knowledge Machine",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T23:17:12.000Z",
+    "slug": "the-knowledge-machine",
+    "excerpt": "The Knowledge Machine: How Irrationality Created Modern Science",
+    "wordCount": 8434,
+    "readingTimeMinutes": 38,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy",
+      "History"
+    ]
+  },
+  {
+    "id": "time-gifts",
+    "title": "Time Gifts",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T23:12:48.000Z",
+    "slug": "time-gifts",
+    "excerpt": "I won't pretend I don’t have great aspirations. There’s this instinctive reflectivity away from desiring in the arts and literature. It’s uncouth, uncomfortable, to have great expectations for...",
+    "wordCount": 4956,
+    "readingTimeMinutes": 23,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "being-you-a-new-science-of-consciousness-by-anil-seth",
+    "title": "Being You: A New Science of Consciousness by Anil Seth",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T22:47:36.000Z",
+    "slug": "being-you-a-new-science-of-consciousness-by-anil-seth",
+    "excerpt": "Reviewing Anil Seth’s Being You: A New Science of Consciousness",
+    "wordCount": 10016,
+    "readingTimeMinutes": 45,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy",
+      "Psychology"
+    ]
+  },
+  {
+    "id": "the-radicalism-of-the-american-revolution",
+    "title": "The Radicalism of the American Revolution",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T21:49:48.000Z",
+    "slug": "the-radicalism-of-the-american-revolution",
+    "excerpt": "According to a blurb on the cover of the paperback, “This book will set the agenda for discussion for some time to come.” That may have turned out to be true in academia, but this was a trade book,...",
+    "wordCount": 7470,
+    "readingTimeMinutes": 34,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "id": "the-book-of-abraham",
+    "title": "The Book of Abraham.",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T21:13:30.000Z",
+    "slug": "the-book-of-abraham",
+    "excerpt": "(Note to whoever is copy-pasting this into substack):",
+    "wordCount": 14251,
+    "readingTimeMinutes": 64,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History"
+    ]
+  },
+  {
+    "id": "the-northern-caves",
+    "title": "The Northern Caves",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T20:38:47.000Z",
+    "slug": "the-northern-caves",
+    "excerpt": "(Note: Not ultimately a review primarily about the book, despite being a 'fiction' review. I think that was the only way to keep it interesting.)",
+    "wordCount": 4878,
+    "readingTimeMinutes": 22,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Psychology"
+    ]
+  },
+  {
+    "id": "money-by-martin-amis",
+    "title": "Money by Martin Amis",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T19:29:34.000Z",
+    "slug": "money-by-martin-amis",
+    "excerpt": "In his 2005 commencement address at Kenyon College, David Foster Wallace states:",
+    "wordCount": 6455,
+    "readingTimeMinutes": 29,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Society"
+    ]
+  },
+  {
+    "id": "world-war-z",
+    "title": "World War Z",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T18:36:55.000Z",
+    "slug": "world-war-z",
+    "excerpt": "Every zombie story worth telling is not about zombies.",
+    "wordCount": 3613,
+    "readingTimeMinutes": 17,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "id": "coriolanus",
+    "title": "Coriolanus",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T17:51:49.000Z",
+    "slug": "coriolanus",
+    "excerpt": "Consider then, where the real point of controversy lies, and if you cannot lay aside your disputes, endeavour, at least, to cure yourselves of your animosity.  \nDavid Hume Dialogues Concerning...",
+    "wordCount": 28671,
+    "readingTimeMinutes": 128,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley",
+    "title": "Why Greatness Cannot Be Planned, by Joel Lehman and Kenneth Stanley",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T16:55:47.000Z",
+    "slug": "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley",
+    "excerpt": "Let’s say you are trapped in a robot in a maze. You want to reach the end of the maze, where you hear they are handing out free cookies. How do you move forward?",
+    "wordCount": 5299,
+    "readingTimeMinutes": 24,
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Philosophy",
+      "Science"
+    ]
+  },
+  {
+    "id": "the-fourth-sword",
+    "title": "The Fourth Sword",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T15:52:19.000Z",
+    "slug": "the-fourth-sword",
+    "excerpt": "“Someday, someone will have to explain why the most bloodthirsty terrorist group of our era was led by professors”[^1]",
+    "wordCount": 5502,
+    "readingTimeMinutes": 25,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "id": "seeing-that-frees",
+    "title": "Seeing That Frees",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T15:51:41.000Z",
+    "slug": "seeing-that-frees",
+    "excerpt": "On a meditation retreat last year I lay on my bed to meditate, and quickly settled into an especially deep and pleasant state, full of beautiful memories and gratitude for loved ones. These feelings...",
+    "wordCount": 2965,
+    "readingTimeMinutes": 14,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy",
+      "Psychology"
+    ]
+  },
+  {
+    "id": "the-wisdom-of-mike-mentzer",
+    "title": "The Wisdom of Mike Mentzer",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T12:02:31.000Z",
+    "slug": "the-wisdom-of-mike-mentzer",
+    "excerpt": "Arnold Schwarzenegger walks out onstage at the Sydney Opera House, and starts to flex his incredible physique. Cameras flash and the adoring crowd reacts with amazement to his size and shimmering...",
+    "wordCount": 6839,
+    "readingTimeMinutes": 31,
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Philosophy",
+      "Memoir"
+    ]
+  },
+  {
+    "id": "harrison-bergeron",
+    "title": "Harrison Bergeron",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T10:18:27.000Z",
+    "slug": "harrison-bergeron",
+    "excerpt": "Here is how Wikipedia describes the story of Harrison Bergeron:",
+    "wordCount": 6135,
+    "readingTimeMinutes": 28,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "id": "the-overstory",
+    "title": "The Overstory",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T10:16:33.000Z",
+    "slug": "the-overstory",
+    "excerpt": "This belongs to a rare category of book that I've grown fond of lately, the kind I love and hate about equally.  I think this is an underappreciated category!  First, I find that resisting the...",
+    "wordCount": 3859,
+    "readingTimeMinutes": 18,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Biology",
+      "Society"
+    ]
+  },
+  {
+    "id": "thomas-urquharts-translation-of-rabelais",
+    "title": "Thomas Urquhart's Translation of Rabelais",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T08:31:13.000Z",
+    "slug": "thomas-urquharts-translation-of-rabelais",
+    "excerpt": "This is not a review of Rabelais. This is a review of a certain, incomplete translation of Rabelais. It is also arguably one of the greatest translations in our language. Let’s meet the hero of our...",
+    "wordCount": 4607,
+    "readingTimeMinutes": 21,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Memoir"
+    ]
+  },
+  {
+    "id": "the-gods-themselves",
+    "title": "The Gods Themselves",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T06:55:20.000Z",
+    "slug": "the-gods-themselves",
+    "excerpt": "Anyone who’s paying attention to modern science fiction should be worried. Wokeness is infiltrating the fan community left, right, and centre (but mostly left). To make matters worse, it goes back...",
+    "wordCount": 2418,
+    "readingTimeMinutes": 11,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Science"
+    ]
+  },
+  {
+    "id": "how-i-killed-pluto-and-why-it-had-it-coming",
+    "title": "How I Killed Pluto and Why It Had It Coming",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T06:54:25.000Z",
+    "slug": "how-i-killed-pluto-and-why-it-had-it-coming",
+    "excerpt": "I bought this book because of the title. I came across mention of it while browsing something vaguely related, and was immediately intrigued. When the International Astronomical Union (IAU) voted to...",
+    "wordCount": 12861,
+    "readingTimeMinutes": 58,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Memoir"
+    ]
+  },
+  {
+    "id": "persuasion-of-the-witchs-craft-and-when-god-talks-back",
+    "title": "\"Persuasion of the Witch's Craft\" and \"When God Talks Back\"",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T05:59:53.000Z",
+    "slug": "persuasion-of-the-witchs-craft-and-when-god-talks-back",
+    "excerpt": "Anthropology has a reputation for exoticization. When a book calls itself an ethnography, you kind of imagine contained in it is a story of a pith-helmeted adventurer following around an isolated...",
+    "wordCount": 8296,
+    "readingTimeMinutes": 37,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Psychology",
+      "Society"
+    ]
+  },
+  {
     "id": "kristin-lavransdatter",
     "title": "Kristin Lavransdatter",
     "author": "Unknown",

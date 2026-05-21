@@ -311,6 +311,11 @@
     "Biology",
     "Psychology"
   ],
+  "being-you-a-new-science-of-consciousness-by-anil-seth": [
+    "Science",
+    "Philosophy",
+    "Psychology"
+  ],
   "being-you-by-anil-seth": [
     "Science",
     "Philosophy"
@@ -482,6 +487,11 @@
   "contrasting-reviews-of-nine-countries": [
     "Society",
     "Memoir"
+  ],
+  "coriolanus": [
+    "Fiction",
+    "Politics",
+    "Philosophy"
   ],
   "cracks-in-the-ivory-tower-the-moral-mess-of-higher-education": [
     "Society",
@@ -874,6 +884,11 @@
     "History",
     "Biology"
   ],
+  "harrison-bergeron": [
+    "Fiction",
+    "Politics",
+    "Society"
+  ],
   "haughey-by-gary-murphy": [
     "Politics",
     "Memoir"
@@ -901,6 +916,10 @@
   "how-emotions-are-made-by-lisa-feldman-barrett": [
     "Psychology",
     "Science"
+  ],
+  "how-i-killed-pluto-and-why-it-had-it-coming": [
+    "Science",
+    "Memoir"
   ],
   "how-language-began": [
     "Science",
@@ -1266,6 +1285,11 @@
   "misbelief-what-makes-rational-people-believe-irrational-things-by-dan-ariely": [
     "Psychology"
   ],
+  "money-by-martin-amis": [
+    "Fiction",
+    "Philosophy",
+    "Society"
+  ],
   "money-capital": [
     "Economics"
   ],
@@ -1481,6 +1505,11 @@
   "person-of-interest": [
     "Fiction",
     "Technology"
+  ],
+  "persuasion-of-the-witchs-craft-and-when-god-talks-back": [
+    "Religion",
+    "Psychology",
+    "Society"
   ],
   "pharmaceutical-freedom-why-patients-have-a-right-to-self-medicate": [
     "Philosophy",
@@ -1712,6 +1741,11 @@
     "Society",
     "History"
   ],
+  "seeing-that-frees": [
+    "Religion",
+    "Philosophy",
+    "Psychology"
+  ],
   "selfish-reasons-to-have-more-kids-by-bryan-caplan": [
     "Economics",
     "Psychology",
@@ -1742,6 +1776,11 @@
   "shut-out-by-kevin-erdmann": [
     "Economics",
     "Society"
+  ],
+  "siddhartha-1922-by-hermann-hesse": [
+    "Fiction",
+    "Religion",
+    "Philosophy"
   ],
   "sign-tracking-sucks": [
     "Psychology",
@@ -1976,6 +2015,10 @@
   "the-bomb-by-fred-kaplan": [
     "History",
     "Politics"
+  ],
+  "the-book-of-abraham": [
+    "Religion",
+    "History"
   ],
   "the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan": [
     "Fiction"
@@ -2239,6 +2282,15 @@
     "Economics",
     "Society"
   ],
+  "the-fourth-sword": [
+    "History",
+    "Politics",
+    "Society"
+  ],
+  "the-full-facts-book-of-cold-reading": [
+    "Psychology",
+    "Society"
+  ],
   "the-future-of-fusion-energy": [
     "Science",
     "Technology"
@@ -2269,6 +2321,10 @@
   ],
   "the-goal-its-not-luck-by-eliyahu-goldratt": [
     "Economics"
+  ],
+  "the-gods-themselves": [
+    "Fiction",
+    "Science"
   ],
   "the-golden-thread-how-fabric-changed-history": [
     "History",
@@ -2355,6 +2411,11 @@
   "the-knowledge-how-to-rebuild-our-world-from-scratch-by-lewis-dartnell": [
     "Science",
     "Technology"
+  ],
+  "the-knowledge-machine": [
+    "Science",
+    "Philosophy",
+    "History"
   ],
   "the-ladder-of-causation": [
     "Science",
@@ -2542,6 +2603,11 @@
     "History",
     "Science"
   ],
+  "the-northern-caves": [
+    "Fiction",
+    "Philosophy",
+    "Psychology"
+  ],
   "the-old-testament": [
     "Religion"
   ],
@@ -2575,6 +2641,11 @@
     "History",
     "Politics",
     "Memoir"
+  ],
+  "the-overstory": [
+    "Fiction",
+    "Biology",
+    "Society"
   ],
   "the-oxford-handbook-of-4e-cognition-by-albert-newen-leon-de-bruin-and-shaun-gallagher": [
     "Philosophy",
@@ -2640,6 +2711,11 @@
     "Philosophy",
     "Technology",
     "History"
+  ],
+  "the-radicalism-of-the-american-revolution": [
+    "History",
+    "Politics",
+    "Society"
   ],
   "the-reckoning-by-david-halberstam": [
     "Economics",
@@ -2916,6 +2992,11 @@
   "the-wheel-of-time": [
     "Fiction"
   ],
+  "the-wisdom-of-mike-mentzer": [
+    "Biology",
+    "Philosophy",
+    "Memoir"
+  ],
   "the-witness": [
     "Philosophy"
   ],
@@ -2956,6 +3037,10 @@
     "Memoir",
     "Science"
   ],
+  "thomas-urquharts-translation-of-rabelais": [
+    "History",
+    "Memoir"
+  ],
   "three-days-in-dwarfland-and-sequels": [
     "Fiction",
     "History"
@@ -2967,6 +3052,10 @@
   "through-the-eye-of-a-needle": [
     "History",
     "Religion"
+  ],
+  "time-gifts": [
+    "Fiction",
+    "Philosophy"
   ],
   "time-loops-by-eric-wargo": [
     "Science",
@@ -3175,6 +3264,11 @@
     "Biology",
     "Science"
   ],
+  "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley": [
+    "Technology",
+    "Philosophy",
+    "Science"
+  ],
   "why-liberalism-failed": [
     "Politics",
     "Philosophy",
@@ -3256,6 +3350,11 @@
   ],
   "world-empire-lost": [
     "History"
+  ],
+  "world-war-z": [
+    "Fiction",
+    "Politics",
+    "Society"
   ],
   "years-of-lyndon-johnson": [
     "History",
