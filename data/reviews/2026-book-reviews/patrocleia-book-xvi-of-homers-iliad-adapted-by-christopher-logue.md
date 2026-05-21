@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T12:23:17.000Z'
 slug: patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue
-wordCount: 2283
+wordCount: 2292
 readingTimeMinutes: 11
 source: gdoc
 tags:
@@ -35,7 +35,8 @@ The Iliad and its ethos were a core part of the education of boys in Britain’s
 >  Was it so hard, Achilles,  
 > So very hard to die?  
 > Thou knewest, and I know not—  
-> So much the happier I.  
+> So much the happier I.
+>
 >  I will go back this morning  
 > From Imbros over the sea;  
 > Stand in the trench, Achilles,  
@@ -68,7 +69,8 @@ Logue also breaks up the action with short, apparently irrelevant interpolations
 > _**they sniff out a pool and loll their long**_  
 > _**Thin, sharp-pointed tongues in it; and as they lap**_  
 > _**Little crimson billows drift off their chops,**_  
-> _**Spreading through the water like red smoke.**_  
+> _**Spreading through the water like red smoke.**_
+>
 > **Likewise the Myrmidons as they stood for Patroclus,**  
 > **While Achilles moved along their ranks; here,**  
 > **Tightening a shoulder strap; there dressing a sword.**
@@ -79,7 +81,8 @@ Patroclus succeeds in defeating the Trojan attack on the Greek ships, but succum
 > **Nothing was left of Hector’s raid except**  
 > **Loose smoke-swathes drifting over the Aegean like dark hair,**  
 > **And the ditch stained perfect crimson where**  
-> **Some outraged god, five miles tall, had stamped on glass.**  
+> **Some outraged god, five miles tall, had stamped on glass.**
+>
 > **Movement in the air. Gulls lift.**  
 > **Sideslip. Land again. No more.**  
 > **Mindless of everything Achilles said**  
@@ -93,7 +96,8 @@ And then, before Patroclus meets his fate, Homer sings of the death of Sarpedon,
 > _**Across a disk of yellow earth, midway**_  
 > _**Between the ditch and the closed stone capital,**_  
 > _**The heroes fought like Pharaoh’s bare-necked hens**_  
-> _**Wrangling over carrion in mid air.**_  
+> _**Wrangling over carrion in mid air.**_
+>
 > **Likewise the human champions,**  
 > **Until Patroclus’ spear nosed past Sarpedon’s busy heart**  
 > **And the ground sense in his body seeped away.**
@@ -111,7 +115,8 @@ Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-co
 > _**And grant me strength enough to keep**_  
 > _**Swords flickering across**_  
 > _**Sarpedon’s ruined body**_  
-> _**Until you lead the Sun away.**_  
+> _**Until you lead the Sun away.**_
+>
 > **And Apollo, Mousegod, Lord of the Morning, He**  
 > **Whose face is brighter than a thousand suns,**  
 > **Mollified his wound with precious ointment,**  
@@ -120,7 +125,8 @@ Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-co
 > **Aeneas, the rest, Apollo called:**  
 > **“Sun, stand thou still over Ilium,**  
 > **And guard Sarpedon’s body till their blades**  
-> **Move over it like** **grasses** **over stone.”**  
+> **Move over it like** **grasses** **over stone.”**
+>
 > Air into azure steel.  
 > The daylight stiffens **to translucent** **horn.**  
 > **And through it,**  
@@ -184,7 +190,8 @@ It is now too late for the hero, as the hammer blows of Achilles’ admonitory w
 >   **Get back where you belong!”**  
 > **So loud**  
 > **Even the Yellow Judges passing sentence**  
-> **Half of the world away, paused -**  
+> **Half of the world away, paused -**
+>
 > **“Get back where you belong!**  
 >   **Troy will fall in God’s good time,**  
 >   **But not to you!”**  
@@ -203,19 +210,22 @@ Till at the end, in a hysterical frenzy to escape Apollo’s anger, head ringing
 > **Patroclus broke among the Trojans.**  
 > **A set of jealous bones covered with flesh**  
 > **Finished with bronze, dipped in blood,**  
-> **And the whole being inspired by ferocity**.  
+> **And the whole being inspired by ferocity**.
+>
 > **- Kill them!**  
-> **My sweet Patroclus**  
+> **My sweet Patroclus**
+>
 > **- Kill them!**  
 >    
 > **As many as you can**  
 > **For**  
 > **Coming behind you in the dusk you felt**  
-> **-- What was it? – felt the darkness part and then**  
-> **Who had been patient with you,**  
-> **Struck.**
+> **-- What was it? – felt the darkness part and then**
 
 ## Apollo!
+
+> **Who had been patient with you,**  
+> **Struck.**
 
 But that inexorable “struck” is not quite the end, for the very last word is bleaker still, spoken by a doomed Hector as he finishes off the dying Greek:
 

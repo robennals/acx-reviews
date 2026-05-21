@@ -15,7 +15,8 @@ tags:
   - Society
 ---
 
-> _Tyranny is always and everywhere the same, while freedom is always various. The well and truly enslaved are dependable; we know what they will say and think and do. The free are quirky._  
+> _Tyranny is always and everywhere the same, while freedom is always various. The well and truly enslaved are dependable; we know what they will say and think and do. The free are quirky._
+
 _Richard Mitchell_
 
 ## 0\. Introduction

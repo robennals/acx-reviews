@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T02:27:26.000Z'
 slug: a-residence-of-twenty-one-years-in-the-sandwich-islands
-wordCount: 8524
+wordCount: 8526
 readingTimeMinutes: 38
 source: gdoc
 tags:
@@ -16,8 +16,7 @@ tags:
   - Religion
 ---
 
-1. ## A New Cause Area
-    
+## 1\. A New Cause Area
 
 In October 1819, my grandmother’s grandfather’s grandfather, Hiram Bingham I, stood with his wife, Sybil, and his friends outside Park Street Church in Boston and bade farewell to family before venturing into the unknown. They would spend the next five months on a cramped ship sailing to a foreign land of strange people, full of “destitution, degradation, and barbarism.” They did not know if they would ever return to America.
 
@@ -37,8 +36,7 @@ So, with the benefit of 200 years of hindsight, what can Effective Altruists and
 
 To find out, I read Hiram’s memoir, _A Residence of Twenty-One Years in the Sandwich Islands._ Published in 1847, it’s not a particularly engaging book,[^2] but as a historical document, it’s a fascinating account of the effort of seven young missionary couples and their Hawaiian friends to do the most good possible by bringing Christianity, literacy, Western civilization, and Puritan social mores to a nation of 130,000 souls.
 
-2. ## The Twenty-One Year Honeymoon
-    
+## 2\. The Twenty-One Year Honeymoon
 
 In many ways, the islands of Hawaii are a paradise on Earth, but to the missionaries who knew them as the Sandwich Islands, they were a savage place. These islanders, after all, had killed [Captain Cook](https://www.britannica.com/biography/James-Cook) just 40 years ago.[^3] From 1782 to 1810, the nation was ravaged by war. [King Kamehameha I](https://www.nps.gov/puhe/learn/historyculture/kamehameha.htm), adopting Western military technology such as gunpowder, forcefully unified the islands into a single kingdom and suppressed potential rivals.
 
@@ -76,8 +74,7 @@ Hiram and Sybil in 1819, [as painted by Samuel Morse](https://artgallery.yale.ed
 
 </figure>
 
-3. ## A Fortuitous Arrival
-    
+## 3\. A Fortuitous Arrival
 
 After a sea voyage of 18,000 miles, during which Hiram and Sybil’s first child was conceived, the missionaries spotted the peak of Mauna Kea on the morning of March 30, 1820. Five months after departure, the sight was exhilarating: the work of spreading Christianity, literacy, and civilization was finally at hand.
 
@@ -93,8 +90,7 @@ Conveniently, this also removed some of the customary limits on her power as a q
 
 Thus, the missionaries arrived to find their work half done for them. The Hawaiians themselves had discredited and discarded their former religion. But what was to take its place? A missionary’s nightmare of rum and atheism, or “an elevated state of Christian civilization”?
 
-4. ## Speedrunning Civilization
-    
+## 4\. Speedrunning Civilization
 
 The intended audience with Kamehameha was impossible, but the missionaries soon met with the Hawaiian royal family, including King Liholiho and Queen Ka’ahumanu. After twelve days of negotiations, during which the missionaries assured the Hawaiians that they were purely benevolent and definitely not looking to meddle in politics or “interfere with the government or trade of the islands”, Ka’ahumanu and Liholiho granted them permission to settle. Half the missionaries, including the expedition co-leader Asa Thurston, would remain on the big island, and the other half (including Hiram) would continue to Honolulu.
 
@@ -178,8 +174,7 @@ However, instead of claiming supernatural powers, Hiram simply explained that it
 
 Hiram saw himself as a teacher, not a prophet. In explaining the eclipse as a natural phenomenon, he sought to promote truth over superstition. Civilization itself was his means of evangelism.
 
-5. ## Things Hiram Didn’t Like:
-    
+## 5\. Things Hiram Didn’t Like:
 
 Hiram wouldn’t have called himself a Puritan, but rather one of “the sons of the Puritans”. Still, he was a Puritan in all but name,[^13] and as such, could make “no compromise with the vile pleasures and criminal indulgences of those who love darkness rather than light.” For example:
 
@@ -236,7 +231,8 @@ Meanwhile, Hiram’s flock of native Hawaiians “diminished at a fearful and la
 
 In 1833-1836, there was a particularly bad epidemic of consumption (tuberculosis):
 
-> “The angel of death stands over the land with a drawn sword. The anger of the Lord has kindled a fire upon the nation which will burn to its entire destruction, unless it be speedily extinguished. With us the present is truly a time of hope and fear. It is also emphatically a time of effort. If the work of destruction is ever arrested here, it must be done soon. According to the present ratio of decrease, it will be but a few years before the pall of death will be spread over the whole land, and these valleys, once full of people, will be solitary. These shores, once teeming with myriads, will either become silent as the house of death, or be peopled with a new race of men.  
+> “The angel of death stands over the land with a drawn sword. The anger of the Lord has kindled a fire upon the nation which will burn to its entire destruction, unless it be speedily extinguished. With us the present is truly a time of hope and fear. It is also emphatically a time of effort. If the work of destruction is ever arrested here, it must be done soon. According to the present ratio of decrease, it will be but a few years before the pall of death will be spread over the whole land, and these valleys, once full of people, will be solitary. These shores, once teeming with myriads, will either become silent as the house of death, or be peopled with a new race of men.
+>
 > But we hope better things are in reserve for this people; that these fearful clouds will, ere long, pass away, and the work of destruction cease. But should the consumption determined go through the land in indignation, a remnant will be saved; and we feel more and more that we are to labor for this people as ‘pulling them out of the fire.’”
 
 Against this, the missionaries offered “the only sovereign antidote to this dreadful contagion”. Or in other words, thoughts and prayers. Through his writing, it is clear that Hiram deeply felt the suffering of the Hawaiians, but unfortunately, he could do little to stop it.
@@ -253,7 +249,8 @@ On July 9, 1839, a large ship sailed into Honolulu harbor. It was the French fri
 
 Word had reached France of the persecution of the French priests at the hands of the Hawaiians, and Capt. Laplace was dispatched to set things straight. Upon arriving, he presented a manifesto:
 
-> “I shall make the principal chiefs of these islands understand how fatal the conduct which they pursue towards [France] will be to their interests, and perhaps cause disasters to them and to their country, should they be obstinate in their perseverance.  
+> “I shall make the principal chiefs of these islands understand how fatal the conduct which they pursue towards [France] will be to their interests, and perhaps cause disasters to them and to their country, should they be obstinate in their perseverance.
+>
 > Misled by perfidious counsellors; deceived by the excessive indulgence which the French government has extended towards them for several years, they are, undoubtedly, ignorant how potent it is, and that in the world there is not a power which is capable of preventing it from punishing its enemies; otherwise they would have endeavored to merit its favor, or not to incur its displeasure, as they have done in ill-treating the French … to persecute the Catholic religion, to tarnish it with the name of idolatry, and to expel, under this absurd pretext, the French from this archipelago, was to offer an insult to France and to its sovereign.”
 
 Laplace made several demands:

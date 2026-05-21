@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T10:18:27.000Z'
 slug: harrison-bergeron
-wordCount: 6135
+wordCount: 6147
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -28,8 +28,10 @@ That sounds exactly like how I, and every other boy[1] who read it in middle sch
 
 But the story, like all of Vonnegut’s writings, is a bit more sophisticated than that. I can do no better than to quote [Michael Crichton’s excellent review of Vonnegut](https://newrepublic.com/article/114833/michael-crichton-sci-fi-and-vonnegu), where he savagely criticized the entire genre of science fiction but managed to single out Vonnegut for special praise:
 
-> The vast majority of science fiction writing is abysmal. It is perhaps paradoxical that our most technologically advanced fiction should also be the most technically inadequate. Most science fiction writers cannot put together a literate sentence; only a handful can create a reasonable character; perhaps a dozen, at most, can sustain a simple plot  
-> …  
+> The vast majority of science fiction writing is abysmal. It is perhaps paradoxical that our most technologically advanced fiction should also be the most technically inadequate. Most science fiction writers cannot put together a literate sentence; only a handful can create a reasonable character; perhaps a dozen, at most, can sustain a simple plot
+>
+> …
+>
 > We live in an age of great seriousness. We are accustomed to getting our art in heavy, pretentious doses. Anything funny is suspect, and anything simple is doubly suspect. Here we come to the second difficulty with Kurt Vonnegut. His style is effortless, naive, almost childlike. There are no big words and no complicated sentences. It is an extraordinarily difficult style, but that fact is lost on anyone who has never tried to write that way.
 
 In other words, don’t let the simplicity of Vonnegut’s writing style fool you—there are great depths to be found here.
@@ -38,8 +40,10 @@ It does, at first, seem to be quite a silly little short story, perhaps little m
 
 The more political reading of the story is that it was an argument against socialism, or any sort of strong central government. This has been [argued](https://www.bartleby.com/essay/Socialism-In-Harrison-Bergeron-PKKWDQ2MH4P) [many](https://boards.straightdope.com/t/harrison-bergeron-by-kurt-vonnegut/611847), [many](https://www.modernreformation.org/resources/articles/dystopian-equality-the-martyrdom-of-harrison-bergeron) times, probably _millions_ of times when we consider all the unpublished middle school essays written about the story. But the most eloquent such argument was made by Supreme Court Justice Anton “the smooth criminalist originalist” Scalia, in his operatic dissent “[What Is Golf](https://fee.org/articles/what-is-golf-scalias-greatest-dissent/)” arguing against forcing the PGA tour to permit golf carts:
 
-> I am sure that the Framers of the Constitution, aware of the 1457 edict of King James II of Scotland prohibiting golf because it interfered with the practice of archery, fully expected that sooner or later the paths of golf and government, the law and the links, would once again cross, and that the judges of this august Court would some day have to wrestle with that age-old jurisprudential question, for which their years of study in the law have so well prepared them: Is someone riding around a golf course from shot to shot really a golfer?  
-> …  
+> I am sure that the Framers of the Constitution, aware of the 1457 edict of King James II of Scotland prohibiting golf because it interfered with the practice of archery, fully expected that sooner or later the paths of golf and government, the law and the links, would once again cross, and that the judges of this august Court would some day have to wrestle with that age-old jurisprudential question, for which their years of study in the law have so well prepared them: Is someone riding around a golf course from shot to shot really a golfer?
+>
+> …
+>
 > The year was 2001, and “everybody was finally equal.” (K. Vonnegut, Harrison Bergeron.)
 
 What a mic drop! There you have it folks, the finest legal mind in the nation has laid it out: first socialism came for the golf courses, and then it took over everything else, just like it did in that dystopian young adult science fiction story that we all vaguely remember.
@@ -66,12 +70,18 @@ with:
 
 Or:
 
-> And then, in an explosion of joy and grace, into the air they sprang!  
-> Not only were the laws of the land abandoned, but the law of gravity and the laws of motion as well.  
-> They reeled, whirled, swiveled, flounced, capered, gamboled, and spun.  
-> They leaped like deer on the moon.  
-> The studio ceiling was thirty feet high, but each leap brought the dancers nearer to it.  
-> It became their obvious intention to kiss the ceiling. They kissed it.  
+> And then, in an explosion of joy and grace, into the air they sprang!
+>
+> Not only were the laws of the land abandoned, but the law of gravity and the laws of motion as well.
+>
+> They reeled, whirled, swiveled, flounced, capered, gamboled, and spun.
+>
+> They leaped like deer on the moon.
+>
+> The studio ceiling was thirty feet high, but each leap brought the dancers nearer to it.
+>
+> It became their obvious intention to kiss the ceiling. They kissed it.
+>
 > And then, neutraling gravity with love and pure will, they remained suspended in air inches below the ceiling, and they kissed each other for a long, long time.
 
 with:
@@ -147,7 +157,8 @@ The one thing _The Communist Manifesto_ did _not_ have was any proof of success.
 
 That is what Rand explicitly attempted to do in Atlas Shrugged. In my opinion, it is not quite as electrifying as _The Communist Manifesto_, but it does succeed at this goal better than any other tract I’ve ever read. She doesn’t attempt to argue with GDP statistics or historical examples: she speaks straight to the heart with bold moral assertions in grandiose style—the same style used in _The Communist Manifesto_. Compare for example:
 
-> The history of all hitherto existing society is the history of class struggles.  
+> The history of all hitherto existing society is the history of class struggles.
+>
 > Freeman and slave, patrician and plebeian, lord and serf, guildmaster and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, that each time ended, either in the revolutionary reconstitution of society at large, or in the common ruin of the contending classes.
 
 with:
@@ -156,7 +167,8 @@ with:
 
 Or:
 
-> You are horrified at our intending to do away with private property. But in your existing society private property is already done away with for nine-tenths of the population; its existence for the few is solely due to its non-existence in the hands of those nine-tenths. You reproach us, therefore, with intending to do away with a form of property, the necessary condition for whose existence is the non-existence of any property for the immense majority of society.  
+> You are horrified at our intending to do away with private property. But in your existing society private property is already done away with for nine-tenths of the population; its existence for the few is solely due to its non-existence in the hands of those nine-tenths. You reproach us, therefore, with intending to do away with a form of property, the necessary condition for whose existence is the non-existence of any property for the immense majority of society.
+>
 > In one word, you reproach us with intending to do away with your property. Precisely so: that is just what we intend.
 
 with:

@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T17:51:49.000Z'
 slug: coriolanus
-wordCount: 28671
-readingTimeMinutes: 128
+wordCount: 28818
+readingTimeMinutes: 129
 source: gdoc
 tags:
   - Fiction
@@ -18,7 +18,8 @@ tags:
 
 # Coriolanus Shakespeare
 
-> Consider then, where the real point of controversy lies, and if you cannot lay aside your disputes, endeavour, at least, to cure yourselves of your animosity.  
+> Consider then, where the real point of controversy lies, and if you cannot lay aside your disputes, endeavour, at least, to cure yourselves of your animosity.
+>
 > David Hume Dialogues Concerning Natural Religion[^1]
 
 Vote down this review if you find any earlier quotation of Hume’s words above. Also downvote it if it gives off a trace of “I am right and you are wrong” animosity.
@@ -339,8 +340,10 @@ They pulled a printout from their bag—[Cooperation through interdependence](ht
 
 They took the article and read:
 
-> This paper has highlighted interdependencies as an integral part of social behaviour, and formalized them in terms of the stakes that individuals have in each other, a stake being a quantitative measure of how the fitness of one individual varies with that of another individual or set of individuals. The stake is therefore a measure of commonality, and individuals can be seen as stakeholders in others, placing a value on their welfare, or survival in such a state as to continue to benefit the altruist.  
-> … there is not a simple trade of benefits, nor is there direct self-interest, but rather benefits come secondarily through benefiting others. … it need not involve the “score keeping” that is inherent in reciprocity …  
+> This paper has highlighted interdependencies as an integral part of social behaviour, and formalized them in terms of the stakes that individuals have in each other, a stake being a quantitative measure of how the fitness of one individual varies with that of another individual or set of individuals. The stake is therefore a measure of commonality, and individuals can be seen as stakeholders in others, placing a value on their welfare, or survival in such a state as to continue to benefit the altruist.
+>
+> … there is not a simple trade of benefits, nor is there direct self-interest, but rather benefits come secondarily through benefiting others. … it need not involve the “score keeping” that is inherent in reciprocity …
+>
 > Rather, it involves investing in others in whom one has a stake … focusing on the stake that individuals have in others shows how contributing, rather than free-riding, can be in one’s own long-term best interests. Stakeholder altruism can therefore potentially provide a much sought-after mechanism for achieving cooperation without relatedness, reciprocation, punishment or policing.
 >
 > “Here’s our problem. The house plumbing gives us a common stake. Its water pressure makes us interdependent. If we don’t add buckets to the tank—or if we all turn on the faucet at the same time—we all die. Well, maybe not that—but we’ll definitely be smelly.”
@@ -715,11 +718,16 @@ Menenius steps forward into the brewing riot. Like Coriolanus, Menenius takes hi
 
 He denies the patrician hand in the famine.
 
-> I tell you, friends, most charitable care  
-> Have the patricians of you. For your wants,  
-> Your suffering in this dearth, you may as well  
-> Strike at the heaven with your staves as lift them  
-> … For the dearth [famine],  
+> I tell you, friends, most charitable care
+>
+> Have the patricians of you. For your wants,
+>
+> Your suffering in this dearth, you may as well
+>
+> Strike at the heaven with your staves as lift them
+>
+> … For the dearth [famine],
+>
 > The gods, not the patricians, make it.
 
 But the plebs do not buy this:
@@ -728,52 +736,78 @@ But the plebs do not buy this:
 
 In reply, Menenius gives them “_a pretty tale_” and here the play’s thesis starts. It should be among the _dramatis personae_—it’s the character that explains the play’s five acts.
 
-> There was a time when all the body’s members  
-> Rebell’d against the belly, thus accused it:  
-> That only like a gulf it did remain  
-> I’ the midst o’ the body, idle and unactive,  
-> Still cupboarding the viand, never bearing  
-> Like labour with the rest, where the other instruments  
-> Did see and hear, devise, instruct, walk, feel,  
-> And, mutually participate, did minister  
-> Unto the appetite and affection common  
+> There was a time when all the body’s members
+>
+> Rebell’d against the belly, thus accused it:
+>
+> That only like a gulf it did remain
+>
+> I’ the midst o’ the body, idle and unactive,
+>
+> Still cupboarding the viand, never bearing
+>
+> Like labour with the rest, where the other instruments
+>
+> Did see and hear, devise, instruct, walk, feel,
+>
+> And, mutually participate, did minister
+>
+> Unto the appetite and affection common
+>
 > Of the whole body.
 
 On the surface, Menenius’s fable seems to be only common sense. A body needs food to reach every part that needs it, and if each part does its job, the whole body has health. In this parable Shakespeare identifies a fitness interdependence in Rome: all parts rise and fall together; each pools effort and draws by need or by work done; and all of it runs under a coordination organized by the Senate that dovetails their separate acts, mortise and tenon, into one larger working polity.
 
 But the plebs already know the fable and can detect that they are being played. The Second Citizen cuts in:
 
-> Your belly’s answer? What!  
-> The kingly-crowned head, the vigilant eye,  
-> The counsellor heart, the arm our soldier,  
-> Our steed the leg, the tongue our trumpeter,  
-> With other muniments and petty helps  
+> Your belly’s answer? What!
+>
+> The kingly-crowned head, the vigilant eye,
+>
+> The counsellor heart, the arm our soldier,
+>
+> Our steed the leg, the tongue our trumpeter,
+>
+> With other muniments and petty helps
+>
 > In this our fabric…
 
 _In this our fabric._ The plebeians grasp that the fable is not neutral. The citizen attacks Menenius’s distribution—
 
-> should by the cormorant belly be restrain’d,  
+> should by the cormorant belly be restrain’d,
+>
 > Who is the sink o’ the body.
 
 Menenius has gamed the fable. He exposes this when he has the belly answer its accusers—and in doing so, the belly reveals whom it favors:
 
-> True is it, my incorporate friends,” quoth he,  
-> “That I receive the general food at first  
-> Which you do live upon; and fit it is,  
-> Because I am the storehouse and the shop  
-> Of the whole body. But, if you do remember,  
-> I send it through the rivers of your blood  
-> Even to the court, the heart, to th’ seat o’ th’ brain;  
-> And, through the cranks and offices of man,  
-> The strongest nerves and small inferior veins  
-> From me receive that natural competency  
+> True is it, my incorporate friends,” quoth he,
+>
+> “That I receive the general food at first
+>
+> Which you do live upon; and fit it is,
+>
+> Because I am the storehouse and the shop
+>
+> Of the whole body. But, if you do remember,
+>
+> I send it through the rivers of your blood
+>
+> Even to the court, the heart, to th’ seat o’ th’ brain;
+>
+> And, through the cranks and offices of man,
+>
+> The strongest nerves and small inferior veins
+>
+> From me receive that natural competency
+>
 > Whereby they live.
 
 The food, when it moves, goes “_through the rivers of your blood_” first “_to the court, the heart, to th’ seat o’ th’ brain_.” The ruling faculties go first; the rest follow—”_the strongest nerves and small inferior vein_s.” The language here subtly changes. The brain and the heart receive from the belly as partners in a common enterprise. But the rest, in contrast, receive only “_that natural competency, whereby they live_.” The brain partners. The other organs take what the belly decides to send. Menenius has swapped the fable’s _mutually participate_ for _from me receive_.
 
 Then Menenius drops the pretense of mutuality:
 
-> The senators of Rome are this good belly,  
+> The senators of Rome are this good belly,
+>
 > And you the mutinous members.
 
 The fable was a political kayfabe. In entertainment wrestling, contestants win and lose and the fights look real—but they follow a script. The promoters once denied the scripting. Then they found that the spectators did not mind being in on the secret. Politics can be similar. Institutions that claim to represent every citizen fairly and equally even though they do not get credit for doing so. So long as the gap between claim and practice does not grow too big, people go along. A democracy that fails to keep its promise still beats no democracy. Even autocracies stage elections and work to keep up the pretense that they are not what they are. If people think it is a con, they rebel or become “difficult.”
@@ -782,8 +816,10 @@ Menenius finishes, turns to the Second Citizen, and calls him “_the great toe 
 
 The Second Citizen retorts:
 
-> SECOND CITIZEN. I the great toe? Why the great toe?  
-> MENENIUS. For that, being one o’ th’ lowest, basest, poorest  
+> SECOND CITIZEN. I the great toe? Why the great toe?
+>
+> MENENIUS. For that, being one o’ th’ lowest, basest, poorest
+>
 > Of this most wise rebellion, thou go’st foremost…
 
 Menenius begins with a fable about a body whose parts “_mutually participate_.” He ends by calling one of them the “_lowest, basest, poorest_.”
@@ -794,8 +830,10 @@ Ralph Fiennes’s 2011 film, _Coriolanus_, cuts all of this. Menenius stays, but
 
 Before the plebeians can answer Menenius, Caius Marcius (the future Coriolanus) walks on. He denies any shared fate and fitness interdependence:
 
-> What’s the matter, you dissentious rogues,  
-> That, rubbing the poor itch of your opinion,  
+> What’s the matter, you dissentious rogues,
+>
+> That, rubbing the poor itch of your opinion,
+>
 > Make yourselves scabs?
 
 His first words to the plebs make them a disease on the body politic’s skin. But if the plebs are scabs, no yoke binds his welfare to theirs—they do not rise and fall in the polity together. They could as well exist in different bodies. Caius Marcius only wants to scrape them off. Within twenty lines of his speech they have become “_curs, hares, geese_”—and finally, when the tribunes take office to represent them, he adds:
@@ -820,16 +858,20 @@ Deeds one way. Acceptance the other. Each freely given. This is not a market exc
 
 Coriolanus can only, however, understand interdependence as an exchange:
 
-> To brag unto them “Thus I did, and thus!”  
-> Show them th’ unaching scars, which I should hide,  
-> As if I had received them for the hire  
+> To brag unto them “Thus I did, and thus!”
+>
+> Show them th’ unaching scars, which I should hide,
+>
+> As if I had received them for the hire
+>
 > Of their breath [for their vocal support] only!
 
 Another soldier might have accepted that he and the citizens in the city’s fate were interdependent. But Coriolanus cannot grant the interdependence implied by such acceptance.
 
 As he says earlier, he hates the very idea:
 
-> I had rather have my wounds to heal again  
+> I had rather have my wounds to heal again
+>
 > Than hear say how I got them.
 
 He eventually is persuaded to go through with the ritual—but he cannot keep down his contempt for the yoke the ritual asks him to show. The plebeians initially give him their voices and back his consulship.
@@ -840,27 +882,36 @@ But the plebeians then change. The Third Citizen says: “_Was not this mockery_
 
 Sicinius, a tribune, sets the banishment in motion.
 
-> It shall be so, it shall be so! Let him away!  
-> He’s banished, and it shall be so.  
-> …  
+> It shall be so, it shall be so! Let him away!
+>
+> He’s banished, and it shall be so.
+>
+> …
+>
 > He’s a disease that must be cut away.
 
 The patrician Menenius agrees on the disease—but sees it as curable:
 
-> O, he’s a limb that has but a disease;  
+> O, he’s a limb that has but a disease;
+>
 > Mortal, to cut it off; to cure it, easy.
 
 He explains:
 
-> Consider this: he has been bred i’ th’ wars  
-> Since he could draw a sword, and is ill schooled  
-> In bolted language; meal and bran together  
+> Consider this: he has been bred i’ th’ wars
+>
+> Since he could draw a sword, and is ill schooled
+>
+> In bolted language; meal and bran together
+>
 > He throws without distinction.
 
 But to no avail. The citizens get Coriolanus banished “out at gates”. But not before Coriolanus first banishes them.
 
-> … I banish you!  
-> … For you the city, thus I turn my back.  
+> … I banish you!
+>
+> … For you the city, thus I turn my back.
+>
 > There is a world elsewhere.
 
 He never belonged to Rome. You cannot be cast out of a body of which you were never part.
@@ -871,18 +922,30 @@ Banished, Coriolanus walks to Antium. Wearing a beggar’s cloak, he arrives at 
 
 There, Shakespeare gives him one soliloquy:
 
-> O world, thy slippery turns! Friends now fast sworn,  
-> Whose double bosoms seems to wear one heart,  
-> Whose hours, whose bed, whose meal and exercise  
-> Are still together, who twin, as ‘twere, in love  
-> Unseparable, shall within this hour,  
-> On a dissension of a doit, break out  
-> To bitterest enmity; so fellest foes,  
-> Whose passions and whose plots have broke their sleep  
-> To take the one the other, by some chance,  
-> Some trick not worth an egg, shall grow dear friends  
-> And interjoin their issues. So with me:  
-> My birthplace hate I, and my love’s upon  
+> O world, thy slippery turns! Friends now fast sworn,
+>
+> Whose double bosoms seems to wear one heart,
+>
+> Whose hours, whose bed, whose meal and exercise
+>
+> Are still together, who twin, as ‘twere, in love
+>
+> Unseparable, shall within this hour,
+>
+> On a dissension of a doit, break out
+>
+> To bitterest enmity; so fellest foes,
+>
+> Whose passions and whose plots have broke their sleep
+>
+> To take the one the other, by some chance,
+>
+> Some trick not worth an egg, shall grow dear friends
+>
+> And interjoin their issues. So with me:
+>
+> My birthplace hate I, and my love’s upon
+>
 > This enemy town.
 
 The soliloquy denies interdependence. Friends who share bed, meal, exercise—twinned in love—beat as one heart this hour and break as foes the next. Enemies sworn to kill turn kin over “_a trick not worth an egg_.” No yoke binds fates here—only alignments of interest that “_interjoin their issues_,” that is, until they do not.
@@ -891,19 +954,28 @@ Coriolanus speaks Roberts’s equation and kills it. The equation, _sb − c > 0
 
 Coriolanus enters the house. He offers himself to Aufidius as a pure transaction:
 
-> … if thou dost not believe  
-> That I am Aufidius, and hate Rome, make good  
-> Upon the love thou bear’st me, thy revenge  
+> … if thou dost not believe
+>
+> That I am Aufidius, and hate Rome, make good
+>
+> Upon the love thou bear’st me, thy revenge
+>
 > Through the heart of Caesar, or else bury me.
 
 Aufidius cheers him in public. In private—in a later aside to a lieutenant—he understands the man he has just welcomed differently:
 
-> So our virtues  
-> Lie in the interpretation of the time:  
-> And power, unto itself most commendable,  
-> Hath not a tomb so evident as a chair  
-> To extol what it hath done.  
-> One fire drives out one fire; one nail, one nail;  
+> So our virtues
+>
+> Lie in the interpretation of the time:
+>
+> And power, unto itself most commendable,
+>
+> Hath not a tomb so evident as a chair
+>
+> To extol what it hath done.
+>
+> One fire drives out one fire; one nail, one nail;
+>
 > Rights by rights falter, strengths by strengths do fail.
 
 Aufidius has seen in Coriolanus what the soliloquy has revealed—and now knows what to do with him. A man whose worth lies in “_the interpretation of the time_” is a man you use while time runs your way—and then dump—one fire drives out one fire—when it turns.
@@ -914,10 +986,14 @@ Why is Coriolanus like this? One reason is in his very name, _Coriolanus_. In Ac
 
 The general Cominius names him after the city he has just taken:
 
-> … from this time,  
-> For what he did before Corioles, call him,  
-> With all th’ applause and clamor of the host,  
-> Martius Caius Coriolanus! Bear  
+> … from this time,
+>
+> For what he did before Corioles, call him,
+>
+> With all th’ applause and clamor of the host,
+>
+> Martius Caius Coriolanus! Bear
+>
 > Th’ addition nobly ever!
 
 The cognomen honors him—but it also cuts him from Rome. Had he taken Corioles with the Roman army, the name would have bound him, through them, to his city. He did not. Instead the name marks him as independent.
@@ -926,7 +1002,8 @@ The cognomen honors him—but it also cuts him from Rome. Had he taken Corioles 
 
 Coriolanus, however, has one yoke of interdependence—the yoke to his mother. Volumnia has built him for war. The play shows this early, when Volumnia speaks of him:
 
-> Thy valiantness was mine, thou suck’dst it from me,  
+> Thy valiantness was mine, thou suck’dst it from me,
+>
 > But owe thy pride thyself.
 
 His courage is her milk. His pride, the one thing he might claim as his own, was—as the play shows at its end—hers.
@@ -941,7 +1018,8 @@ In Act 5, Volumnia triggers Coriolanus’s death. He stands outside Rome at the 
 
 Coriolanus sees his mother and steels himself:
 
-> But, out, affection,  
+> But, out, affection,
+>
 > All bond and privilege of nature, break!
 
 He kneels first, as a son:
@@ -950,34 +1028,50 @@ He kneels first, as a son:
 
 His mother kneels to him:
 
-> O, stand up blest,  
-> Whilst with no softer cushion than the flint  
-> I kneel before thee, and unproperly  
-> Show duty, as mistaken all this while  
+> O, stand up blest,
+>
+> Whilst with no softer cushion than the flint
+>
+> I kneel before thee, and unproperly
+>
+> Show duty, as mistaken all this while
+>
 > Between the child and parent.
 
 He raises her, stunned:
 
-> What’s this?  
+> What’s this?
+>
 > Your knees to me? to your corrected son?
 
 She tells him what the chronicles will record about his name if he sacks Rome. He is silent. Then she stings:
 
-> There’s no man in the world  
-> More bound to ‘s mother; yet here he lets me prate  
-> Like one i’ th’ stocks. Thou hast never in thy life  
-> Show’d thy dear mother any courtesy,  
-> When she, poor hen, fond of no second brood,  
-> Has cluck’d thee to the wars and safely home,  
+> There’s no man in the world
+>
+> More bound to ‘s mother; yet here he lets me prate
+>
+> Like one i’ th’ stocks. Thou hast never in thy life
+>
+> Show’d thy dear mother any courtesy,
+>
+> When she, poor hen, fond of no second brood,
+>
+> Has cluck’d thee to the wars and safely home,
+>
 > Loaden with honour.
 
 He turns away. She turns:
 
-> Down, ladies; let us shame him with our knees…  
-> Nay, behold’s:  
-> This boy, that cannot tell what he would have  
-> But kneels and holds up hands for fellowship,  
-> Does reason our petition with more strength  
+> Down, ladies; let us shame him with our knees…
+>
+> Nay, behold’s:
+>
+> This boy, that cannot tell what he would have
+>
+> But kneels and holds up hands for fellowship,
+>
+> Does reason our petition with more strength
+>
 > Than thou hast to deny’t.
 
 She kneels again. His wife kneels. The boy kneels and “_holds up hands for fellowship_.”
@@ -986,12 +1080,18 @@ The one interdependence he has ever known—the yoke to his mother—stops him. 
 
 Then the words break out of him:
 
-> O mother, mother!  
-> What have you done? Behold, the heavens do ope,  
-> The gods look down, and this unnatural scene  
-> They laugh at. O my mother, mother! O!  
-> You have won a happy victory to Rome;  
-> But, for your son, believe it, O, believe it,  
+> O mother, mother!
+>
+> What have you done? Behold, the heavens do ope,
+>
+> The gods look down, and this unnatural scene
+>
+> They laugh at. O my mother, mother! O!
+>
+> You have won a happy victory to Rome;
+>
+> But, for your son, believe it, O, believe it,
+>
 > Most dangerously you have engaged him.
 
 He knows that what he has done will cost him his life. “_Most dangerously you have engaged him_.” The Volscians cannot risk a crying general who bends to his Roman mom.
@@ -1004,19 +1104,26 @@ What Coriolanus has instead is a negative bond—to Aufidius.
 
 In the opening scene, Marcius (he is not yet Coriolanus), told that the Volscians are arming, comments:
 
-> They have a leader,  
-> Tullus Aufidius, that will put you to’t.  
-> I sin in envying his nobility,  
-> And were I anything but what I am,  
+> They have a leader,
+>
+> Tullus Aufidius, that will put you to’t.
+>
+> I sin in envying his nobility,
+>
+> And were I anything but what I am,
+>
 > I would wish me only he.
 
 He does not envy Aufidius’s army, his cause, his political position; he envies the inner thing, the substance of him as a man. He calls his envy a sin—the language not of rivalry but of confession. He goes further: “_were I anything but what I am, I would wish me only he_.” That’s the only interdependence left to him—fates linked by inversion, one’s up the other’s down.
 
 He then expands:
 
-> Were half to half the world by the ears, and he  
-> Upon my party, I’d revolt to make  
-> Only my wars with him: he is a lion  
+> Were half to half the world by the ears, and he
+>
+> Upon my party, I’d revolt to make
+>
+> Only my wars with him: he is a lion
+>
 > That I am proud to hunt.
 
 If the whole world were at war and Aufidius were on his own side, he would defect to fight him. The inverted bond to Aufidius is stronger than any positive one. The hunter is interdependent with his prey—he needs the prey to exist, for him to exist. Interdependence lived like a film negative.
@@ -1061,12 +1168,14 @@ But most of all it lived in the people’s courts, where randomly drawn citizens
 
 Aristotle watched Athenian democracy firsthand and placed the citizen-juror at its center:
 
-> For the people has made itself master of everything, and administers everything by decrees and by jury courts in which the people is the ruling power, for even the cases tried by the Council have come to the people.  
+> For the people has made itself master of everything, and administers everything by decrees and by jury courts in which the people is the ruling power, for even the cases tried by the Council have come to the people.
+>
 > [[Athenian Constitution trans. Harris Rackham, 41.2](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D41%3Asection%3D2).]
 
 And again:
 
-> [T]he chief basis of the powers of the multitude, the right of appeal to the jury-court—for the people, having the power of the vote, becomes sovereign in the government.  
+> [T]he chief basis of the powers of the multitude, the right of appeal to the jury-court—for the people, having the power of the vote, becomes sovereign in the government.
+>
 > [[Athenian Constitution trans. Harris Rackham, 9.1](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D9%3Asection%3D1).]
 
 Menenius’ belly fable asked: where is the belly, and to whom does it give the food? Aristotle saw the answer. The Ekklesia, the amateur appointments, and the dikasterion were the belly. Who filled them rotated randomly among the citizens.
@@ -1372,45 +1481,75 @@ They look at some summaries in the book.
 
 #### The Plains Cheyenne
 
-> The Plains Indians had councils. The Cheyenne had a Council of Forty-Four; the Lakota, the Seven Council Fires. They made power seasonal.  
-> Most of the year, bands lived apart. Chiefs couldn’t compel; they could only talk. If trust soured, families didn’t petition or sue—they walked.  
-> Then summer arrived. Buffalo gathered, and so did the people to hunt them. The old safety of separation was gone. So the council appointed a warrior society, the akicita, to enforce order. Their power was real—offenders could be whipped, their tipis slashed, and in extreme cases killed. Even chiefs might be judged.  
-> And then winter came, and power unraveled. The herds moved. The camps broke. The akicita’s authority didn’t get debated or revoked. It went with the herds. No permanent police. No permanent rule.  
-> The Cheyenne tightened the engineering: no War Chief could serve on the Council of Forty-Four unless he had also resigned his military post. The man who led in battle could not be a leader in peace.  
-> Ajatasattu of Magadha wanted to conquer the Vajjians. The Buddha’s diagnosis, in the Mahāparinibbāna Sutta:  
-> So long as the Vajjians foregather often, and frequent the public meetings of their clan, so long may they be expected not to decline, but to prosper.  
-> Ajatasattu couldn’t break the Vajjians by force while they stayed together. So he sent his minister Vassakara to sow suspicion among the clan chiefs. When suspicion replaced solidarity, the princes stopped answering the assembly drum. With debate stopped, the confederacy fell.  
-> Magadha won the war. But the Vajjian assembly outlived the Vajjians: it had so impressed the Buddha that he wrote it into the sangha  
-> Among the Ashanti of West Africa, a council of elders could destool a chief. He never sat on the Golden Stool itself—that sacred seat held the soul of the nation and stood beside him, never beneath him. At his installation, the elders lowered him over the ancestral stools, never quite onto them; at his removal, they stripped his sandals so his bare feet met the earth.  
-> They could destool him for drunkenness, gluttony, charm-dealing, verbal abuse, excessive cruelty, and not following the advice of elders. The grounds split in two: private vice—he treated the role as his to feast on—and public insubordination—he brushed aside the very elders who lent it.  
-> He held power. But the council kept the right to take it back. The ceremony didn’t just punish him; it made the loan visible. The stool was never his to keep. It was what the elders could call back.  
-> **Bible words.** Ancient Israel was founded on assemblies. To see them, you have to look behind the translations.  
-> Where Hebrew texts show the qahal exercising judgment and authority, English Bibles blur it into “the people” or “the congregation.” But the Hebrew terminology tells a story of people trying to stop lock-switching. Zeqenim (“elders”) appears interchangeably with “men of Israel” and “all the people” inside the same sources (Joshua 24:1, 2, 19, 21; Exodus 19:7–8). Not a separate oligarchic board, but language for the assembly itself—or for those speaking within it.  
-> When numbers appear, they cluster around seventy (Exodus 24:1; Numbers 11:16; Judges 8:14). Plausibly, that’s the free male population of early settlements—the body politic itself.  
-> The terms ‘edah and qahal (“congregation,” “assembly”) name the gathering that heard legal complaints (Numbers 27:1–6), judged capital cases (Numbers 35:24–25), executed criminals by stoning (Numbers 15:35–36), decided on war (Judges 20:7–11), and accepted or rejected kings (I Kings 12:3, 20).  
-> The ‘ohel mo’ed—often given as “tent of meeting”—served as an assembly point for political business as well as worship (Joshua 19:51; Numbers 20:6).  
-> Frank Neuberg, in “[An Unrecognized Meaning of Hebrew Dôr](https://www.jstor.org/stable/542981),” argued that dôr, usually translated “generation,” also meant “assembly” or “council.” Ugaritic texts use dr.bn.il for “the assembly of the gods.” The Phoenician Azitawaddu inscription (725 BC) also contains kl dr bn ‘lm: “all the assembly of the gods.”  
-> Neuberg reads Amos 8:14—traditionally “by the life of thy way, O Beer-Sheba”—as “by the life of thy dôr” (divine council), paralleling “thy gods, O Dan.”  
-> When Jeremiah asks, “Who hath stood in the council of the Lord?” (Jeremiah 23:18), the verb ‘amad (“stood”) also describes advisers who “stood before” King Rehoboam (I Kings 12:6, 8). Heaven’s court and earth’s court shared terminology because both were understood as the same kind of gathering—one with authority.  
-> **Bible events.** Ancient Hebrew didn’t only have words for assembly; those assemblies act in biblical events.  
-> The elders gather and come to Samuel: “Now make us a king to judge us like all the nations” (I Samuel 8:4–5). No strongman seized power. A collective demanded a new arrangement. Samuel warns them what they are loaning out. A king, he says, will take their sons, their daughters, their fields, their vineyards, their olive groves, a tenth of their grain and flocks—“and you will cry out in that day because of your king” (I Samuel 8:11–17).  
-> Saul’s coronation needs acclamation from “all the people.” David requires a covenant before the northern tribes accept him: “So all the elders of Israel came to the king at Hebron, and King David made a league with them in Hebron before the Lord” (II Samuel 5:3).  
-> When Solomon dies, his son Rehoboam travels to Shechem to claim the northern throne (I Kings 12:1). The congregation meets him with a demand: lighten the forced labor your father imposed (I Kings 12:3–4). Rehoboam refuses. The assembly answers with a door-slam: “What portion have we in David? To your tents, O Israel!” (I Kings 12:16). They walk out and choose their own king.  
-> Rehoboam sends his corvée master to force compliance. “All Israel stoned him with stones, that he died” (I Kings 12:18). The assembly didn’t merely advise. It vetoed, then enforced the veto.  
-> Even established kings need ratification. When Josiah reforms the religion, “all the people stood to the covenant” (II Kings 23:3). The king holds power. The assembly holds the grant. At Shechem, the qahal that arrives to make Rehoboam king departs having made Jeroboam king instead (I Kings 12:1, 20).  
-> Frank Cross, in “[The Council of Yahweh in Second Isaiah](https://www.jstor.org/stable/542950),” points to the plural in “Comfort ye, comfort ye my people” (Isaiah 40:1). The line addresses Yahweh’s heavenly council. The divine assembly was the template; the earthly qahal was its human instantiation  
-> The qahal at Shechem audits with teeth. The assembly that stoned the corvée master was not a mob. It was the loan called in by force, in public, when the borrower had attempted to change its terms. The Hebrew Bible doesn’t only note the existence of citizen assemblies—it records what they were engineered to stop.  
-> In the oldest surviving epic, Gilgamesh cannot go to war without the vote of two assemblies—elders and armed citizens. When Kish demands Uruk’s submission to corvée labor, Gilgamesh doesn’t give an order. He goes first to the assembly of elders, then to the assembly of able-bodied men. The elders advise submission. The citizens’ assembly votes for war and appoints him lugal—war-leader. Even the hero of the oldest epic needed democratic permission to fight.  
-> Homer’s Iliad has an assembly before the walls of Troy in which an ordinary soldier, Thersites—ugly, lame, hunched—argues against Agamemnon. Odysseus beats him for his insolence. The army laughs. But Thersites’s words—that their commanders are incompetent and in it for themselves—go unanswered. Fiction, but Homer could only have described it if his audience found it credible.  
-> Sparta had assemblies. However, only magistrates could address them, and a council of elders could overrule its decisions. But citizens still gathered and passed resolutions. Rome, before the emperors, had its comitia, its tribunes, its Twelve Tables. A tribune could veto the Senate with a single word: Veto—I forbid.
+> The Plains Indians had councils. The Cheyenne had a Council of Forty-Four; the Lakota, the Seven Council Fires. They made power seasonal.
+>
+> Most of the year, bands lived apart. Chiefs couldn’t compel; they could only talk. If trust soured, families didn’t petition or sue—they walked.
+>
+> Then summer arrived. Buffalo gathered, and so did the people to hunt them. The old safety of separation was gone. So the council appointed a warrior society, the akicita, to enforce order. Their power was real—offenders could be whipped, their tipis slashed, and in extreme cases killed. Even chiefs might be judged.
+>
+> And then winter came, and power unraveled. The herds moved. The camps broke. The akicita’s authority didn’t get debated or revoked. It went with the herds. No permanent police. No permanent rule.
+>
+> The Cheyenne tightened the engineering: no War Chief could serve on the Council of Forty-Four unless he had also resigned his military post. The man who led in battle could not be a leader in peace.
 
 #### The Vajjians
 
+> Ajatasattu of Magadha wanted to conquer the Vajjians. The Buddha’s diagnosis, in the Mahāparinibbāna Sutta:
+>
+> So long as the Vajjians foregather often, and frequent the public meetings of their clan, so long may they be expected not to decline, but to prosper.
+>
+> Ajatasattu couldn’t break the Vajjians by force while they stayed together. So he sent his minister Vassakara to sow suspicion among the clan chiefs. When suspicion replaced solidarity, the princes stopped answering the assembly drum. With debate stopped, the confederacy fell.
+>
+> Magadha won the war. But the Vajjian assembly outlived the Vajjians: it had so impressed the Buddha that he wrote it into the sangha
+
 #### Ashanti Destooling
+
+> Among the Ashanti of West Africa, a council of elders could destool a chief. He never sat on the Golden Stool itself—that sacred seat held the soul of the nation and stood beside him, never beneath him. At his installation, the elders lowered him over the ancestral stools, never quite onto them; at his removal, they stripped his sandals so his bare feet met the earth.
+>
+> They could destool him for drunkenness, gluttony, charm-dealing, verbal abuse, excessive cruelty, and not following the advice of elders. The grounds split in two: private vice—he treated the role as his to feast on—and public insubordination—he brushed aside the very elders who lent it.
+>
+> He held power. But the council kept the right to take it back. The ceremony didn’t just punish him; it made the loan visible. The stool was never his to keep. It was what the elders could call back.
 
 #### Ancient Israel
 
+> **Bible words.** Ancient Israel was founded on assemblies. To see them, you have to look behind the translations.
+>
+> Where Hebrew texts show the qahal exercising judgment and authority, English Bibles blur it into “the people” or “the congregation.” But the Hebrew terminology tells a story of people trying to stop lock-switching. Zeqenim (“elders”) appears interchangeably with “men of Israel” and “all the people” inside the same sources (Joshua 24:1, 2, 19, 21; Exodus 19:7–8). Not a separate oligarchic board, but language for the assembly itself—or for those speaking within it.
+>
+> When numbers appear, they cluster around seventy (Exodus 24:1; Numbers 11:16; Judges 8:14). Plausibly, that’s the free male population of early settlements—the body politic itself.
+>
+> The terms ‘edah and qahal (“congregation,” “assembly”) name the gathering that heard legal complaints (Numbers 27:1–6), judged capital cases (Numbers 35:24–25), executed criminals by stoning (Numbers 15:35–36), decided on war (Judges 20:7–11), and accepted or rejected kings (I Kings 12:3, 20).
+>
+> The ‘ohel mo’ed—often given as “tent of meeting”—served as an assembly point for political business as well as worship (Joshua 19:51; Numbers 20:6).
+>
+> Frank Neuberg, in “[An Unrecognized Meaning of Hebrew Dôr](https://www.jstor.org/stable/542981),” argued that dôr, usually translated “generation,” also meant “assembly” or “council.” Ugaritic texts use dr.bn.il for “the assembly of the gods.” The Phoenician Azitawaddu inscription (725 BC) also contains kl dr bn ‘lm: “all the assembly of the gods.”
+>
+> Neuberg reads Amos 8:14—traditionally “by the life of thy way, O Beer-Sheba”—as “by the life of thy dôr” (divine council), paralleling “thy gods, O Dan.”
+>
+> When Jeremiah asks, “Who hath stood in the council of the Lord?” (Jeremiah 23:18), the verb ‘amad (“stood”) also describes advisers who “stood before” King Rehoboam (I Kings 12:6, 8). Heaven’s court and earth’s court shared terminology because both were understood as the same kind of gathering—one with authority.
+>
+> **Bible events.** Ancient Hebrew didn’t only have words for assembly; those assemblies act in biblical events.
+>
+> The elders gather and come to Samuel: “Now make us a king to judge us like all the nations” (I Samuel 8:4–5). No strongman seized power. A collective demanded a new arrangement. Samuel warns them what they are loaning out. A king, he says, will take their sons, their daughters, their fields, their vineyards, their olive groves, a tenth of their grain and flocks—“and you will cry out in that day because of your king” (I Samuel 8:11–17).
+>
+> Saul’s coronation needs acclamation from “all the people.” David requires a covenant before the northern tribes accept him: “So all the elders of Israel came to the king at Hebron, and King David made a league with them in Hebron before the Lord” (II Samuel 5:3).
+>
+> When Solomon dies, his son Rehoboam travels to Shechem to claim the northern throne (I Kings 12:1). The congregation meets him with a demand: lighten the forced labor your father imposed (I Kings 12:3–4). Rehoboam refuses. The assembly answers with a door-slam: “What portion have we in David? To your tents, O Israel!” (I Kings 12:16). They walk out and choose their own king.
+>
+> Rehoboam sends his corvée master to force compliance. “All Israel stoned him with stones, that he died” (I Kings 12:18). The assembly didn’t merely advise. It vetoed, then enforced the veto.
+>
+> Even established kings need ratification. When Josiah reforms the religion, “all the people stood to the covenant” (II Kings 23:3). The king holds power. The assembly holds the grant. At Shechem, the qahal that arrives to make Rehoboam king departs having made Jeroboam king instead (I Kings 12:1, 20).
+>
+> Frank Cross, in “[The Council of Yahweh in Second Isaiah](https://www.jstor.org/stable/542950),” points to the plural in “Comfort ye, comfort ye my people” (Isaiah 40:1). The line addresses Yahweh’s heavenly council. The divine assembly was the template; the earthly qahal was its human instantiation
+>
+> The qahal at Shechem audits with teeth. The assembly that stoned the corvée master was not a mob. It was the loan called in by force, in public, when the borrower had attempted to change its terms. The Hebrew Bible doesn’t only note the existence of citizen assemblies—it records what they were engineered to stop.
+
 #### Gilgamesh to Rome
+
+> In the oldest surviving epic, Gilgamesh cannot go to war without the vote of two assemblies—elders and armed citizens. When Kish demands Uruk’s submission to corvée labor, Gilgamesh doesn’t give an order. He goes first to the assembly of elders, then to the assembly of able-bodied men. The elders advise submission. The citizens’ assembly votes for war and appoints him lugal—war-leader. Even the hero of the oldest epic needed democratic permission to fight.
+>
+> Homer’s Iliad has an assembly before the walls of Troy in which an ordinary soldier, Thersites—ugly, lame, hunched—argues against Agamemnon. Odysseus beats him for his insolence. The army laughs. But Thersites’s words—that their commanders are incompetent and in it for themselves—go unanswered. Fiction, but Homer could only have described it if his audience found it credible.
+>
+> Sparta had assemblies. However, only magistrates could address them, and a council of elders could overrule its decisions. But citizens still gathered and passed resolutions. Rome, before the emperors, had its comitia, its tribunes, its Twelve Tables. A tribune could veto the Senate with a single word: Veto—I forbid.
 
 ### The Genome’s Guardian
 
@@ -1592,11 +1731,16 @@ Another added “Or where activists in primaries put candidates on the ballot mo
 
 The book was held up. Some definitions were read out.
 
-> A kayfabocracy begins to exist when voters feel the institutions meant to provide democratic legitimacy for government no longer work. The dealt cards stop legitimacy circulating through them. The cards dealt by the state are from a game played elsewhere against them. Democratic legitimacy is experienced as fake.  
-> Four things turn a democracy into a kayfabocracy.  
->  [^1] **Democratic drift.** Voters watch the deck. The same hands keep coming back. The same faces at the same tables. The deck, they suspect, is not being reshuffled—it is being passed around an inner circle. The dealer is no longer playing the room. They are playing for the establishment.  
->  [^2] **The rise of entrepreneurs.** An entrepreneur walks in. They look at the dealer. They say: I see what you have been doing. The deck is bent. The aces are at that table. The twos are here. Elect me and I will rip up the establishment.  
->  [^3] **The democratic paradox.** The dealer and their friends cry ‘foul.’ The entrepreneur is a cheat. They are right, the entrepreneur does want to take over democracy. But every such cry seems to come from the establishment dealing the hands and so provides proof that supports the entrepreneur.  
+> A kayfabocracy begins to exist when voters feel the institutions meant to provide democratic legitimacy for government no longer work. The dealt cards stop legitimacy circulating through them. The cards dealt by the state are from a game played elsewhere against them. Democratic legitimacy is experienced as fake.
+>
+> Four things turn a democracy into a kayfabocracy.
+>
+>  [^1] **Democratic drift.** Voters watch the deck. The same hands keep coming back. The same faces at the same tables. The deck, they suspect, is not being reshuffled—it is being passed around an inner circle. The dealer is no longer playing the room. They are playing for the establishment.
+>
+>  [^2] **The rise of entrepreneurs.** An entrepreneur walks in. They look at the dealer. They say: I see what you have been doing. The deck is bent. The aces are at that table. The twos are here. Elect me and I will rip up the establishment.
+>
+>  [^3] **The democratic paradox.** The dealer and their friends cry ‘foul.’ The entrepreneur is a cheat. They are right, the entrepreneur does want to take over democracy. But every such cry seems to come from the establishment dealing the hands and so provides proof that supports the entrepreneur.
+>
 >  [^4] **The democratic tragedy.** The problem is not the entrepreneur but the legitimacy gap they exploit. But while everyone fights the would-be autocrat they fail to fix the plumbing of democratic legitimacy that would take the wind out of the entrepreneur’s electoral sails.
 >
 > “So kayfabocracy is about optics that end up killing democracy’s legitimacy in the eyes of voters. The disconnect may be real or imagined. But if voters experience that legitimacy has stopped circulating between them and their government—that creates an opening for entrepreneurs to offer to fix it.”
@@ -1901,13 +2045,14 @@ The first question returned.
 
 Should Congress authorize “emergency” powers allowing federal land agencies to bypass certain environmental reviews (e.g., NEPA, ESA, NHPA) for up to seven years to protect sequoias?
 
-> FOR:  
-> AGAINST:
+> FOR:
 
 * Speeds urgent wildfire mitigation; paperwork costs days while groves burn.
 * Builds on existing emergency precedents (California’s state actions, Tahoe Basin categorical exclusion).
 * Keeps projects ecologically targeted and time-limited.
 * Saves taxpayer money by avoiding colossal restoration bills after fires.
+
+> AGAINST:
 
 * Thins environmental oversight and could open the door to wider regulatory rollbacks.
 * Skips public participation and tribal consultation during review.
@@ -2016,13 +2161,20 @@ Will some issues take more? Some subjects may need two days of presentation. Lon
 
 All jurors would swear an oath. Here is a draft:
 
-> I do solemnly swear or affirm, before my fellow citizens and in service to the Republic:  
-> That I will discharge the duties of a legislative advisory juror with fidelity and impartiality;  
-> That I will judge according to the arguments and evidence presented in these proceedings, seeking truth through reason and not through passion, prejudice, or outside influence;  
-> That I will respect both the rights of those who stand before me and the perspectives of my fellow citizens who deliberate alongside me;  
-> That I will cast my vote according to my honest and considered judgment of what is just, equitable, and conducive to the common welfare;  
-> That I recognize the solemn responsibility entrusted to me as a voice of the sovereign people in the making of our laws.  
-> To these obligations I pledge myself freely and fully, and may I be held accountable if I fail in their fulfillment.  
+> I do solemnly swear or affirm, before my fellow citizens and in service to the Republic:
+>
+> That I will discharge the duties of a legislative advisory juror with fidelity and impartiality;
+>
+> That I will judge according to the arguments and evidence presented in these proceedings, seeking truth through reason and not through passion, prejudice, or outside influence;
+>
+> That I will respect both the rights of those who stand before me and the perspectives of my fellow citizens who deliberate alongside me;
+>
+> That I will cast my vote according to my honest and considered judgment of what is just, equitable, and conducive to the common welfare;
+>
+> That I recognize the solemn responsibility entrusted to me as a voice of the sovereign people in the making of our laws.
+>
+> To these obligations I pledge myself freely and fully, and may I be held accountable if I fail in their fulfillment.
+>
 > So help me God [or “This I do affirm” for those who prefer a secular affirmation]
 
 These juries don’t deliberate. So no structured group debate. No facilitated march toward consensus. No carefully moderated conversations engineered to produce agreement.

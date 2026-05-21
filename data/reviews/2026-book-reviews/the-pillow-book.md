@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-16T08:36:08.000Z'
 slug: the-pillow-book
-wordCount: 5513
+wordCount: 5532
 readingTimeMinutes: 25
 source: gdoc
 tags:
@@ -19,8 +19,10 @@ tags:
 
 _The Pillow Book_ is probably the second most well-known piece of writing from Heian period Japan (the most well-known being Murasaki Shikibu’s roughly contemporaneous _Tale of Genji_). Unlike _Genji_, though, _The Pillow Book_ is not a work of fiction. It’s a collection of fragments (lists, anecdotes with various degrees of editorialization or outright fiction, opinions and judgments, sections that start off as lists and then trail off into one of the other categories…) written by a lady of the Heian court. Generally it gets classified as a [“poetic diary”](https://en.wikipedia.org/wiki/Poetic_diary) (_Nikki bungaku_), which I find somewhat obtuse; usually in diaries you expect the entries to be about particular events that happened in the author’s life, but by my count _The Pillow Book_ is 80% Not That. I’d call it more of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) — or maybe a blog?
 
-> _Awkward and embarrassing things_ — Going confidently out to greet a visitor on the assumption that it’s for you, when he’s in fact called to see a different person. It’s even worse when he’s brought along a gift as well.  
-> _Alarming-looking things_ — Thorny acorn husks. A hairy yam that’s been baked. The prickly water lily. Water chestnuts. The sight of a man with a lot of hair, drying it after washing.  
+> _Awkward and embarrassing things_ — Going confidently out to greet a visitor on the assumption that it’s for you, when he’s in fact called to see a different person. It’s even worse when he’s brought along a gift as well.
+>
+> _Alarming-looking things_ — Thorny acorn husks. A hairy yam that’s been baked. The prickly water lily. Water chestnuts. The sight of a man with a lot of hair, drying it after washing.
+>
 > _Cats_ — Cats should be completely black except for the belly, which should be very white.
 
 Yeah, I think it’s a blog. RIP Sei Shōnagon (966?–1017?); you would’ve loved listicles.
@@ -61,13 +63,16 @@ Short answer: we kind of don’t know anymore.
 
 The way Sei tells it:
 
-> Palace Minister Korechika one day presented to the Empress a bundle of paper. ‘What do you think we could write on this?’ Her Majesty inquired. ‘They are copying _Records of the Historian_ over at His Majesty’s court.’  
-> ‘This should be a “pillow”, then,’ I suggested.  
+> Palace Minister Korechika one day presented to the Empress a bundle of paper. ‘What do you think we could write on this?’ Her Majesty inquired. ‘They are copying _Records of the Historian_ over at His Majesty’s court.’
+>
+> ‘This should be a “pillow”, then,’ I suggested.
+>
 > ‘Very well, it’s yours,’ declared Her Majesty, and she handed it over to me.
 
 This is obviously meant to be _some_ sort of wordplay, but _what does it all mean?_ Personally, my terribly underinformed theory is that it has something to do with Sei’s lists of _utamakura_ (lit. “poem pillow”) words (particularly place names), which are probably the part of _The Pillow Book_ most opaque to a modern Anglophone audience. For example:
 
-> _Mountains_ — Ogura Mountain. Mount Kase. Mount Mikasa. Mount Konokure. Mount Iritachi. Mount Wasurezu. Sue no Matsu Mountain. Mount Katasari — I wonder how it stands aside? Mount Itsuhata. Mount Kaeru. Mount Nochise. Asakura Mountain — I like the line ‘now looks askance at me’. Mount Ōhire is special too. It must be because it reminds me of the dancers at the Kamo and Yahata Provisional Festivals.  
+> _Mountains_ — Ogura Mountain. Mount Kase. Mount Mikasa. Mount Konokure. Mount Iritachi. Mount Wasurezu. Sue no Matsu Mountain. Mount Katasari — I wonder how it stands aside? Mount Itsuhata. Mount Kaeru. Mount Nochise. Asakura Mountain — I like the line ‘now looks askance at me’. Mount Ōhire is special too. It must be because it reminds me of the dancers at the Kamo and Yahata Provisional Festivals.
+>
 > Mount Miwa has great appeal. So do Tamuke Mountain, Mount Machikane, Tamasaka Mountain and Mount Miminashi.
 
 These mountains are not relevant _qua_ physical mountain; it’s not necessary for them to, you know, exist as locations in the world that one could potentially visit. The point is that their names are useful for wordplay in _waka_ poetry. And since every syllable in a poem counts against a very limited budget, a catalog of interesting _utamakura_ is a valuable thing to have in your back pocket: reference books of _utamakura_ were not unpopular. There is some value, too, in reusing _utamakura_ that can invoke other well-known poems, giving your avant-garde _waka_ memes another layer of reference, but if you’re _only_ using the same _utamakura_ out of a handbook that everyone else also uses, then you start to seem uncreative. Perhaps you might like to start writing them down, when you hear a good one come up in conversation.
@@ -82,12 +87,18 @@ I’m terribly fond of the one-element list (as well as its close cousin, the ne
 
 The other major category of list is the “list of things”, or _mono-dan_ (_[category] mono…_), of which there are also about eighty.[^3] Think listicles. _Top 20 Frustrating Experiences All Ladies In The Emperor’s Court Know. Rating The Five Least Tasteful Interactions._ Sometimes Sei gets distracted in the middle of these and jumps into an extended anecdote:
 
-> _Infuriating things_ — Thinking of one or two changes in the wording after you’ve sent a message to someone, or written and sent off a reply to someone’s message.  
-> Having hurriedly sewn something, you’re rather pleased with how nicely you’ve done it — but then when you come to pull out the needle, you find that you forgot to knot the thread when you began. It’s also infuriating to discover you’ve sewn something inside out.  
-> I remember an occasion while Her Majesty was staying in the Southern Residence, when she announced that some clothes were urgently needed, and ordered us all to set to and sew them then and there. She handed out the pieces of robe, and we all gathered at the front of the building and started work, each on her separate piece. We looked quite crazed, everyone sewing away furiously to see who could do the most, each of us seated on her own and all facing in different directions. Nurse Myōbu raced through her sewing and put down the finished work. However, just as she was in the act of tying off the thread she realized that she’d stitched one of the sleeve pieces together the wrong way round. She flung it down in a panic and rose to her feet, but when her piece was put together with the back section the mistake was discovered. We made great fun of her for this, and told her she had to hurry and re-do it, but she wouldn’t hear of it. ‘Why should I re-sew it just because I find I’ve sewed it up wrongly?’ she demanded. ‘If it’s figured cloth or something then you can tell what’s back and front, and it would be fair to make anyone who hadn’t looked re-sew it in that case, but this is unpatterned cloth, so there was no way of telling. Why should I re-sew this! Get someone who hasn’t done any of the sewing to fix it.’  
-> ‘Well, we can’t just leave things at that, can we,’ said Gen Shōnagon and Chūnagon, and they drew up the pieces and grimly set about doing the necessary re-sewing. It was most entertaining to observe how Nurse Myōbu sat there staring balefully at them as they worked.  
-> You’ve just had some lovely bush clover or plume grass planted and are admiring it when some fellows arrive carrying a long box and a couple of spades, set about brazenly digging away at it, and carry it off. This is both depressing and infuriating. They wouldn’t dream of doing this if someone of standing were present, but though you do your utmost to stop them, they simply ignore your orders. ‘We’re just taking a little,’ they assure you, and off they go, which infuriates beyond words.  
-> It’s also most infuriating for those concerned when a servant from some grand establishment arrives at the residence of someone such as a Provincial Governor and addresses everyone with an offhand rudeness, obviously feeling he can get away with it where such lowly folk are concerned.  
+> _Infuriating things_ — Thinking of one or two changes in the wording after you’ve sent a message to someone, or written and sent off a reply to someone’s message.
+>
+> Having hurriedly sewn something, you’re rather pleased with how nicely you’ve done it — but then when you come to pull out the needle, you find that you forgot to knot the thread when you began. It’s also infuriating to discover you’ve sewn something inside out.
+>
+> I remember an occasion while Her Majesty was staying in the Southern Residence, when she announced that some clothes were urgently needed, and ordered us all to set to and sew them then and there. She handed out the pieces of robe, and we all gathered at the front of the building and started work, each on her separate piece. We looked quite crazed, everyone sewing away furiously to see who could do the most, each of us seated on her own and all facing in different directions. Nurse Myōbu raced through her sewing and put down the finished work. However, just as she was in the act of tying off the thread she realized that she’d stitched one of the sleeve pieces together the wrong way round. She flung it down in a panic and rose to her feet, but when her piece was put together with the back section the mistake was discovered. We made great fun of her for this, and told her she had to hurry and re-do it, but she wouldn’t hear of it. ‘Why should I re-sew it just because I find I’ve sewed it up wrongly?’ she demanded. ‘If it’s figured cloth or something then you can tell what’s back and front, and it would be fair to make anyone who hadn’t looked re-sew it in that case, but this is unpatterned cloth, so there was no way of telling. Why should I re-sew this! Get someone who hasn’t done any of the sewing to fix it.’
+>
+> ‘Well, we can’t just leave things at that, can we,’ said Gen Shōnagon and Chūnagon, and they drew up the pieces and grimly set about doing the necessary re-sewing. It was most entertaining to observe how Nurse Myōbu sat there staring balefully at them as they worked.
+>
+> You’ve just had some lovely bush clover or plume grass planted and are admiring it when some fellows arrive carrying a long box and a couple of spades, set about brazenly digging away at it, and carry it off. This is both depressing and infuriating. They wouldn’t dream of doing this if someone of standing were present, but though you do your utmost to stop them, they simply ignore your orders. ‘We’re just taking a little,’ they assure you, and off they go, which infuriates beyond words.
+>
+> It’s also most infuriating for those concerned when a servant from some grand establishment arrives at the residence of someone such as a Provincial Governor and addresses everyone with an offhand rudeness, obviously feeling he can get away with it where such lowly folk are concerned.
+>
 > You’ve received a letter you’re anxious to read, and someone snatches it from you and retreats to the garden, where he stands reading it. Infuriated and miserable, you pursue him as far as the blinds, but there you have to stop. As you stand there watching while he reads, you’re almost overwhelmed by the frustrated urge to dash out and retrieve it.
 
 This is the sort of thing you can get away with on a personal blog, but if you tried to post it on Buzzfeed they’d probably make you edit it out (which would be a shame, I think). It only becomes legal again when your post happens to become Great Literature.
@@ -121,12 +132,18 @@ All that being said, this is a review of McKinney’s translation, and McKinney�
 
 However, there is one other potential reading order worth considering: _total anarchy_. I usually prefer print books over ebooks for literature because I’m easily distracted, but in this case I recommend picking up the ebook because the ebook lets you search the full text for every mention of, e.g., sixth-rank Chamberlains:
 
-> There’s a brightly-coloured standing curtain, with the ladies’ hems layered there on show beneath it, and there are young noblemen, cloaks gaping at the back, and Chamberlains of the sixth rank in their special green.  
-> _Splendid things_ — […] A Chamberlain of the sixth rank. He’s a quite splendid sight in those special green robes he’s allowed to wear, and he can wear damask, which even a high-ranking young nobleman is forbidden. Subordinate officials in the Chamberlain’s office, or children from some lower-ranking family who are serving in the house of someone of the fourth or fifth rank, look quite inconsequential at the time, but if they become Chamberlains they undergo an astonishing transformation. [Sei proceeds to discuss situations in which Chamberlains look exceptionally magnificent for three paragraphs.]  
-> The reason the sight of a sixth-rank Chamberlain on night watch is so delightful is because of the violet in his clothes.  
-> _Sixth-rank Chamberlains_ — The post of Sixth-rank Chamberlain is not one that anyone should aspire to.  
-> Once he’s promoted to Acting Provincial Governor or some other fifth-ranking title, he gets himself a cramped wooden-roofed house; adds a nice little, new, board fence; puts a carriage in the carriage house; plants a few foot-high bushes near the front of the house; and ties his ox there to feed on the grass. It’s all thoroughly contemptible.  
-> _Elegantly intriguing things_ — […] Some gentleman of intimidating rank has come visiting the rooms one evening. Your own lamp is extinguished, but light from nearby penetrates from above the intervening screen, faintly illuminating the objects in the room. Since he’s someone she would never sit so close to in daylight hours, she bashfully draws over a low standing curtain and lies close beside it, head bent over, though even so he would surely be able to judge her hair. His cloak and gathered trousers are draped over the standing curtain — something of suitably high rank, of course, although the special olive-green of a Chamberlain of the sixth rank would be just about acceptable. However, if it’s one of those deep green cloaks of a normal sixth-ranker, you’d feel inclined to take it and roll it into a ball and consign it to the far reaches of the room, so that when it comes time for him to leave at dawn he’ll be dismayed to discover he can’t lay hands on it.  
+> There’s a brightly-coloured standing curtain, with the ladies’ hems layered there on show beneath it, and there are young noblemen, cloaks gaping at the back, and Chamberlains of the sixth rank in their special green.
+>
+> _Splendid things_ — […] A Chamberlain of the sixth rank. He’s a quite splendid sight in those special green robes he’s allowed to wear, and he can wear damask, which even a high-ranking young nobleman is forbidden. Subordinate officials in the Chamberlain’s office, or children from some lower-ranking family who are serving in the house of someone of the fourth or fifth rank, look quite inconsequential at the time, but if they become Chamberlains they undergo an astonishing transformation. [Sei proceeds to discuss situations in which Chamberlains look exceptionally magnificent for three paragraphs.]
+>
+> The reason the sight of a sixth-rank Chamberlain on night watch is so delightful is because of the violet in his clothes.
+>
+> _Sixth-rank Chamberlains_ — The post of Sixth-rank Chamberlain is not one that anyone should aspire to.
+>
+> Once he’s promoted to Acting Provincial Governor or some other fifth-ranking title, he gets himself a cramped wooden-roofed house; adds a nice little, new, board fence; puts a carriage in the carriage house; plants a few foot-high bushes near the front of the house; and ties his ox there to feed on the grass. It’s all thoroughly contemptible.
+>
+> _Elegantly intriguing things_ — […] Some gentleman of intimidating rank has come visiting the rooms one evening. Your own lamp is extinguished, but light from nearby penetrates from above the intervening screen, faintly illuminating the objects in the room. Since he’s someone she would never sit so close to in daylight hours, she bashfully draws over a low standing curtain and lies close beside it, head bent over, though even so he would surely be able to judge her hair. His cloak and gathered trousers are draped over the standing curtain — something of suitably high rank, of course, although the special olive-green of a Chamberlain of the sixth rank would be just about acceptable. However, if it’s one of those deep green cloaks of a normal sixth-ranker, you’d feel inclined to take it and roll it into a ball and consign it to the far reaches of the room, so that when it comes time for him to leave at dawn he’ll be dismayed to discover he can’t lay hands on it.
+>
 > [I]t’s a delightful and reassuring thing for a man to come calling on a wild, windy night. And a snowy night visit is most splendid of all. He arrives humming to himself the line ‘How could I forget her?’ or something of the sort, and of course the scene is particularly charming if he’s a secret lover, but even if there’s nothing secret about it, there would be something utterly delightful in the sight of his cloak, say the special green formal cloak of a Chamberlain, all chilled and damp with snow. Even if it’s just the sixth-ranker’s normal cloak, I wouldn’t mind as long as it was snow that had wet it. I gather that in the old days a Chamberlain would always come along in his special green cloak when visiting a lover at night, and simply wring it out if it had got soaked in the rain. Nowadays they seem not to bother to wear it even during the day, but turn up with just the sixth-rank cloak draped over them. And it used to make an even more delightful impression if a Chamberlain wore his Palace Guard costume instead.
 
 These mentions are sprinkled throughout the text, sometimes dozens of sections apart, so if you’re not reading the whole book in one sitting you may not notice just _how many times_ Sei Shōnagon mentions the very special olive-green cloak of the sixth-rank Chamberlain. But it’s a lot! You sort of want to give her a vial of testosterone cypionate and an olive-green cloak just to see what she _does_ with it.
@@ -137,8 +154,10 @@ This whole review has been a thinly-veiled attempt to convince you to read _The 
 
 Reading _The Pillow Book_ reminds me of nothing so much as stumbling across and backreading the archive of an old, dead blog — say, a Wordpress site last updated in 2011, comments section filling up with spam. (Anyone else do this? You get linked to one post, and then you just keep paging through the rest of them in reverse-chrono order, and you get super invested and start wondering if the author died or just moved to Twitter?) History doesn’t really know what happened to Sei Shōnagon after she ~~stopped posting~~ left court (although I guess we can be pretty sure she didn’t move to Twitter).  We don’t know for sure when she was born, when she died, or even her real name. All we have is this curated feed of things she found amusing, irritating, pleasing, or worth remembering.
 
-> _Things that fall_ — Snow. Hail. Sleet is unpleasant, but it’s lovely when it falls mingled with white snowflakes.  
-> Snow is splendid on a cypress bark roof, particularly when it’s just on the point of melting. It’s also delightful when just a little has fallen, and it lies nestled in all the joins between the roof tiles, emphasizing their lovely black curves.  
+> _Things that fall_ — Snow. Hail. Sleet is unpleasant, but it’s lovely when it falls mingled with white snowflakes.
+>
+> Snow is splendid on a cypress bark roof, particularly when it’s just on the point of melting. It’s also delightful when just a little has fallen, and it lies nestled in all the joins between the roof tiles, emphasizing their lovely black curves.
+>
 > For autumn showers and hail, a shingle roof is best. Frost is also good on shingles, and in gardens.
 
 ## References

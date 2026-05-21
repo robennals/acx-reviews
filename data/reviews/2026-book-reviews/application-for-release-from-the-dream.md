@@ -7,14 +7,12 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:58:24.000Z'
 slug: application-for-release-from-the-dream
-wordCount: 3447
+wordCount: 3438
 readingTimeMinutes: 16
 source: gdoc
 tags:
   - Fiction
 ---
-
-## Your Book Review: Application for Release from the Dream
 
 > _… [In any case: thank you, Scott, for nudging me (us) into this]…_
 
@@ -27,7 +25,8 @@ I had approached _Application for Release from the Dream_ with this in mind: it 
 For example, _[Ode to the Republic](https://comraderadmila.com/2019/06/14/so-great-when/)_, which opens this way:
 
 > It’s going to be so great when America is just a second fiddle  
-> and we stand on the sidelines and watch the big boys slug it out.  
+> and we stand on the sidelines and watch the big boys slug it out.
+>
 > Old men reading the _Times_ on benches in Central Park  
 > will smile and say, “Let Brazil take care of it.”
 

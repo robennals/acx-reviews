@@ -42,8 +42,7 @@ In this review I will **not** defend that reading; instead, I will set out D&M�
 
 I’m positioning this review in the grand rationalist tradition of being a ‘tax on bullshit’. If your own methodological choices indicate that reparations on the D&M model would be welfare-enhancing for you, but your stated position is that you oppose them, then something other than rational logic is making that position sticky for you. If you are not arriving at your beliefs logically, then this is a gap which is important to examine.
 
-1. # D&M’s model of reparations
-    
+# 1\. D&M’s model of reparations
 
 ## 1.1 – What are the harms of slavery?
 
@@ -110,8 +109,7 @@ D&M calculate this gap as $14tn, which is in line with modern attempts to quanti
 | D&M (2020) | Value of black-white wealth gap | $14.0tn |
 | Craemer (2015) | Value of stolen time (24h day) costed at average prevailing market wage | $17tn |
 
-2. # Key methodological challenges to the $14tn figure
-    
+# 2\. Key methodological challenges to the $14tn figure
 
 Many conservative responses to pro-reparations advocates have essentially conceded the methodological point about the total reparations bill being very high, and instead argue exclusively about the morality of repayments – “Yes the cost of reparations would be [BigNum], but we shouldn’t have to pay because [reason]”. I don’t understand why they have made this concession; if there is one thing economists love, it is creating different ways to measure exactly the same thing, and the multiplicity of different ways of measuring the wealth gap creates an opportunity for the two sides to negotiate about what the most appropriate final bill for reparations actually is.
 
@@ -236,8 +234,7 @@ As a Brit, 7% seems like an unbelievably cavalier way of thinking about social t
 | D | $1.4tn per year, 7% compounding | D&M's implicit view, using OMB compounding rate | 0.70 |
 | X | $0.7tn per year, 5% compounding | Don't pick this as D&M explicitly reject two decades, I just thought it was interesting illustratively! | 0.62 |
 
-3. # Is welfare-enhancing trade possible?
-    
+# 3\. Is welfare-enhancing trade possible?
 
 ## 3.1 – Capitalisation benefits of paying reparations
 

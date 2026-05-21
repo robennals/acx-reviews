@@ -7,9 +7,10 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T06:54:25.000Z'
 slug: how-i-killed-pluto-and-why-it-had-it-coming
-wordCount: 12861
+wordCount: 12865
 readingTimeMinutes: 58
 source: gdoc
+disableFootnotes: true
 tags:
   - Science
   - Memoir
@@ -117,7 +118,8 @@ Brown offloaded most of the tedious work to computers. The photographs were scan
 
 If you were to ask why Brown succeeded while Jewitt and Luu failed, then that would be a wrong question. Jewitt and Luu were using bigger and better telescopes than Brown. They were also using a similar software-aided approach to Brown’s. Their search was extraordinarily successful, but they were looking for different things than Brown was, and each team found what they were looking for. Jewitt and Luu were looking for a large population of small-to-medium bodies, while Brown was looking for a small population of larger bodies. This is actually why the former were using bigger and better telescopes: the smaller bodies would be fainter and you need better telescopes to see them, and using better telescopes past a certain point comes at a cost. The largest telescopes are designed to get a really close, deep look at a small patch of sky while Brown wanted to look at as much of the sky as possible. Brown surveyed [5108 square degrees](https://link.springer.com/article/10.1023/B:MOON.0000031929.19729.a1) (about 12% of the sky) as of June 2003 and about 20,000 square degrees as of 2012 (about half the sky, and most of what you can see from the Palomar Observatory), while Jewitt and Luu surveyed only a total of 71.7 square degrees (less than 2% of Brown’s) in the [two](https://ui.adsabs.harvard.edu/abs/1998AJ....115.2125J/abstract) [surveys](https://arxiv.org/abs/astro-ph/9912428) I could find, but Brown’s survey was limited to finding objects of magnitude 20.7, while Jewitt and Luu could spot objects a hundred or a thousand times dimmer. As Brown put it:
 
-> Imagine being interested in exploring the inhabitants of the ocean but all you have is a small handheld net. If you did your net in the sea many times, you will certainly find a vast collection of microbes and krill, but you will never know that there are dolphins and sharks and even the occasional whale. In contrast, the photographic plates from the 48-inch Scmidt were not nearly as sensitive [...]–the net was so large that the krill and the microbes would fall right through–but we had a net big enough that we could cover the whole ocean. The big fish would have nowhere to hide.  
+> Imagine being interested in exploring the inhabitants of the ocean but all you have is a small handheld net. If you did your net in the sea many times, you will certainly find a vast collection of microbes and krill, but you will never know that there are dolphins and sharks and even the occasional whale. In contrast, the photographic plates from the 48-inch Scmidt were not nearly as sensitive [...]–the net was so large that the krill and the microbes would fall right through–but we had a net big enough that we could cover the whole ocean. The big fish would have nowhere to hide.
+>
 > I thought about the biggest fish.
 
 Jewitt and Luu discovered about 50 KBOs, including almost all of the first KBOs discovered besides Pluto. Brown and his team discovered about half that many, including most of the largest (again, except for Pluto). All three of them have done massively important interpretational work on their discoveries, and in 2012 the three of them shared the [Kavil Prize for Astrophysics](https://www.kavliprize.org/prizes/astrophysics/2012) for their efforts.
@@ -254,9 +256,12 @@ While this was playing out, Brown found that Ortiz’s team had also accessed lo
 
 As the rest of the story plays out over the course of several years, Brown shares a number of other stories about Lilah’s childhood. My favorite is about Lilah learning sign language as a baby. One of the signs she liked using was “turn on the lights’ (hold her fist out, then spread her fingers). Brown tells how one night, he took nine-month-old Lilah outside to show her the moon.
 
-> And then the moon ducked behind one of the thick clouds, and everything got dark.  
-> Lilah looked around, looked up to where the moon used to be, and looked at me. Then she held her fist up in the air and flung her fingers open. She looked at me expectantly. _[ed: Turn the moon back on, Daddy]_  
-> The cloud passed. The moon came back out and once again brightened the landscape.  
+> And then the moon ducked behind one of the thick clouds, and everything got dark.
+>
+> Lilah looked around, looked up to where the moon used to be, and looked at me. Then she held her fist up in the air and flung her fingers open. She looked at me expectantly. _[ed: Turn the moon back on, Daddy]_
+>
+> The cloud passed. The moon came back out and once again brightened the landscape.
+>
 > Lilah smiled at me and tapped her heart. _[ed: Thank you]_
 
 * * *

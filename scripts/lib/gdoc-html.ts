@@ -129,6 +129,13 @@ interface ClassMargins {
   marginLeft: number;
   marginRight: number;
   textIndent: number;
+  // CSS `padding-bottom` on the class (in pt). Authors who want a
+  // visual paragraph gap set padding-bottom >0 on the paragraph style;
+  // adjacent paragraphs with padding-bottom == 0 are meant to stack
+  // tight (e.g. play-script speaker name + dialog body in Merry Wives,
+  // 0pt padding) vs. essay paragraphs with a normal gap (e.g. Pluto
+  // quote with 10pt padding).
+  paddingBottom: number;
 }
 
 interface GDocStyleMap {
@@ -177,8 +184,13 @@ function marginsAreIndented(m: ClassMargins): boolean {
   // Denmark's `1.`, `2.` enumeration uses margin-left:54pt + text-
   // indent:-18pt and is a numbered list, not a quote.
   if (m.textIndent <= -10) return false;
-  if (m.marginLeft >= 36) return true;
-  if (m.textIndent >= 36) return true;
+  // 24pt covers both the full ~36pt block-indent and the half-tab
+  // ~27pt indent that some authors use for quotations (e.g. The
+  // Wisdom of Mike Mentzer's `margin-left:27pt` quote class). The
+  // body-default gate (line ~470, 90% threshold) keeps us from
+  // mis-classifying a 27pt body style as a blockquote.
+  if (m.marginLeft >= 24) return true;
+  if (m.textIndent >= 24) return true;
   if (m.marginLeft > 0 && m.marginRight > 0) return true;
   return false;
 }
@@ -227,12 +239,14 @@ function parseGDocStyles(html: string): GDocStyleMap {
     const marginLeftMatch = props.match(/margin-left\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const marginRightMatch = props.match(/margin-right\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const textIndentMatch = props.match(/text-indent\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const paddingBottomMatch = props.match(/padding-bottom\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const ml = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
     const mr = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
     const ti = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
-    if (ml || mr || ti) {
-      classMargins.set(cls, { marginLeft: ml, marginRight: mr, textIndent: ti });
-      if (marginsAreIndented({ marginLeft: ml, marginRight: mr, textIndent: ti })) {
+    const pb = paddingBottomMatch ? parseFloat(paddingBottomMatch[1]) : 0;
+    if (ml || mr || ti || pb) {
+      classMargins.set(cls, { marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb });
+      if (marginsAreIndented({ marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb })) {
         indentClasses.add(cls);
       }
     }
@@ -316,7 +330,11 @@ function isParagraphIndented(
   if (ti <= -10) return false;
 
   // Combined-margins checks: margin-left meets threshold, OR both-sides.
-  if (ml >= 36) return true;
+  // Threshold 24pt covers both the standard ~36pt block indent and the
+  // half-tab ~27pt indent (Mentzer's quote class). The 90% body-default
+  // gate above already strips a class that's used by nearly every
+  // paragraph, so we don't sweep in body-styled docs.
+  if (ml >= 24) return true;
   if (ml > 0 && mr > 0) return true;
 
   // Text-indent path. Non-italic text-indent paragraphs are ambiguous: in
@@ -331,7 +349,7 @@ function isParagraphIndented(
   //       a quote-introducer like "Cicero at his best is lyrical:" or
   //       "Catullus then wrote,". Body false positives precede each
   //       other or other body paragraphs ending in `.`, `?`, `!`.
-  if (ti < 36) return false;
+  if (ti < 24) return false;
   if (isParagraphAllItalic($, el, styles.italicClasses)) return true;
   return precededByQuoteIntroducer($, el, styles);
 }
@@ -441,6 +459,45 @@ function precededByQuoteIntroducer(
  * 3. Wraps indented paragraphs in <blockquote>
  */
 function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
+  // Unwrap headings nested inside `<ol><li>`. Google Docs renders a
+  // numbered list whose items happen to be styled as Heading-N as
+  // `<ol><li><hN>…</hN></li></ol>` (one heading per list item). The
+  // default conversion drops the heading out of the list ("1. ##
+  // title"), which has both a numbered-list marker AND a heading on
+  // the same line — neither rendering as the author intended.
+  // Replace the whole `<ol>` with a sequence of `<hN>N. text</hN>`
+  // elements, preserving the list start index when present.
+  $('ol').each(function () {
+    const ol = $(this);
+    const items = ol.children('li').toArray();
+    if (items.length === 0) return;
+    const headings: Array<{ tag: string; html: string; n: number }> = [];
+    let counter = parseInt(ol.attr('start') || '1', 10);
+    for (const li of items) {
+      const liEl = $(li);
+      const heading = liEl.children('h1, h2, h3, h4, h5, h6').first();
+      if (heading.length === 0) return; // bail — not all items are headings
+      // Require the `<li>` to contain ONLY the heading (no sibling
+      // prose) to avoid disrupting structured lists where one item
+      // happens to start with a heading.
+      const hasOtherContent = liEl.contents()
+        .toArray()
+        .some((node: any) => {
+          if (node.type === 'tag' && node.name === heading[0].name) return false;
+          if (node.type === 'text' && !((node.data || '').trim())) return false;
+          return true;
+        });
+      if (hasOtherContent) return;
+      headings.push({ tag: heading[0].name, html: heading.html() || '', n: counter });
+      counter++;
+    }
+    if (headings.length === 0) return;
+    const replacement = headings
+      .map(h => `<${h.tag}>${h.n}. ${h.html}</${h.tag}>`)
+      .join('');
+    ol.replaceWith(replacement);
+  });
+
   // Gate against universal-body-style margin-indentation. A class like
   // `.cN{margin-left:36pt}` is a blockquote signal ONLY when it
   // distinguishes some paragraphs from the others; in a doc where
@@ -1019,6 +1076,21 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     // tight and loose stacks for blocks that were structurally
     // identical in the source).
     {
+      // Sum padding-bottom across all classes applied to a paragraph.
+      // The gdoc author's intent: padding-bottom == 0 → next paragraph
+      // stacks tight (script-style speaker lines); > 0 → next
+      // paragraph gets a visual gap (normal prose). Tight stacking
+      // wants `<br>` merge; gappy stacking wants paragraph break.
+      const paragraphPaddingBottom = (p: ReturnType<typeof $>) => {
+        const classes = (p.attr('class') || '').split(/\s+/);
+        let pb = 0;
+        for (const c of classes) {
+          const m = styles.classMargins.get(c);
+          if (m) pb += m.paddingBottom;
+        }
+        return pb;
+      };
+      const PADDING_TIGHT_MAX = 3;
       const candidates = $('body > p, body > div > p').toArray();
       let i = 0;
       while (i < candidates.length) {
@@ -1028,6 +1100,13 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         // splitter created — those are deliberate prose-paragraph
         // breaks that we just unfolded out of one big `<p>`.
         if (head.attr('data-split-paragraph')) { i++; continue; }
+        // Only merge tight when the paragraph itself has no
+        // padding-bottom — meaning the author styled it to butt up
+        // against the next line without a visual gap.
+        if (paragraphPaddingBottom(head) > PADDING_TIGHT_MAX) {
+          i++;
+          continue;
+        }
         // Collect a run of directly-adjacent indented siblings.
         const runMembers: ReturnType<typeof $>[] = [head];
         let j = i + 1;
@@ -1039,6 +1118,13 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
           if (!isElementIndented(next)) break;
           // Same split-paragraph guard for follow-on members.
           if (next.attr('data-split-paragraph')) break;
+          // Padding-bottom guard: if NEXT carries a visual gap, the
+          // run ends BEFORE it (next becomes its own paragraph).
+          if (paragraphPaddingBottom(next) > PADDING_TIGHT_MAX) {
+            runMembers.push(next);
+            j++;
+            break;
+          }
           // Don't merge across siblings that aren't immediate DOM
           // neighbors (some `body > div > p` block between them would
           // mean we'd be picking up a non-adjacent paragraph).
@@ -1512,10 +1598,23 @@ export function cleanupMarkdown(markdown: string): string {
     let i = lines.length - 1;
     while (i >= 0 && lines[i].trim() === '') i--;
     const defIndices: number[] = [];
-    const TAIL_DEF_RE = /^\d+(?:\s{2,}|:\s+)\S/;
+    // Match trailing footnote defs in any of these shapes:
+    //   `N   content`     — two-space gap
+    //   `N: content`      — colon
+    //   `[N]: content`    — bracketed + colon (looks like a markdown
+    //                      link-reference def, but with prose content,
+    //                      not a URL, it's a footnote def)
+    //   `**N**. content`  — bold number + period (Mentzer style)
+    //   `**N**: content`  — bold number + colon
+    // For the bracketed form, exclude lines whose content is a URL
+    // (those ARE link-reference defs).
+    const TAIL_DEF_RE =
+      /^(?:\d+(?:\s{2,}|:\s+)|\[\d+\]:\s+|\*\*\d+\*\*[.:]\s+)\S/;
+    const isLinkRefDef = (line: string) =>
+      /^\[\d+\]:\s+<?https?:\/\//.test(line);
     while (i >= 0) {
       const line = lines[i];
-      if (TAIL_DEF_RE.test(line)) {
+      if (TAIL_DEF_RE.test(line) && !isLinkRefDef(line)) {
         defIndices.push(i);
         i--;
         continue;
@@ -1530,7 +1629,9 @@ export function cleanupMarkdown(markdown: string): string {
       for (const idx of defIndices) {
         lines[idx] = lines[idx]
           .replace(/^(\d+)\s{2,}/, '[$1] ')
-          .replace(/^(\d+):\s+/, '[$1] ');
+          .replace(/^(\d+):\s+/, '[$1] ')
+          .replace(/^\[(\d+)\]:\s+/, '[$1] ')
+          .replace(/^\*\*(\d+)\*\*[.:]\s+/, '[$1] ');
       }
       md = lines.join('\n');
     }

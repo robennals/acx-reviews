@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T14:44:56.000Z'
 slug: what-is-real
-wordCount: 10148
+wordCount: 10151
 readingTimeMinutes: 46
 source: gdoc
 tags:
@@ -472,9 +472,12 @@ He wrote it up and took it to his mentor. It was quite a remarkable piece of bad
 
 So, as you can imagine, his response was not flattering. He called it “a concentrate of the wildest nonsense”. And the rest of his response is remark-able for another reason too. Do see page 198.
 
-> A digression: having read those passages multiple times, and having had time to reflect, I think that chap – the critic of Everett and Zeh – seems to be one of those second-level academic operatives which are not uncommon in today’s world either. After all, there is nothing new under the Sun – nothing new within the wavefunction.  
-> I spend a fair bit of time on Twitter and, there, I see experts who are wedded till death-do-them-part to someone else’s influential but idiotic idea. Thus, they respond with venom if someone critiques the idea logically, even if only parenthetically.  
-> There is a still worse case though – and I have seen examples of this on Twitter too – where an expert is wedded-till-death not to some specific influential but idiotic idea, but to some influential idiot in general.  
+> A digression: having read those passages multiple times, and having had time to reflect, I think that chap – the critic of Everett and Zeh – seems to be one of those second-level academic operatives which are not uncommon in today’s world either. After all, there is nothing new under the Sun – nothing new within the wavefunction.
+>
+> I spend a fair bit of time on Twitter and, there, I see experts who are wedded till death-do-them-part to someone else’s influential but idiotic idea. Thus, they respond with venom if someone critiques the idea logically, even if only parenthetically.
+>
+> There is a still worse case though – and I have seen examples of this on Twitter too – where an expert is wedded-till-death not to some specific influential but idiotic idea, but to some influential idiot in general.
+>
 > Such is life – truth-seeking involves humans, and some humans are not all they could be. Or, perhaps, they are.
 
 The mentor did not share the response with Zeh but told him that working further on that topic would “extinguish” his career.

@@ -36,5 +36,8 @@
   },
   "the-ghost-in-my-brain": {
     "disableItalicAsBlockquote": true
+  },
+  "how-i-killed-pluto-and-why-it-had-it-coming": {
+    "disableFootnotes": true
   }
 }

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T20:38:47.000Z'
 slug: the-northern-caves
-wordCount: 4878
+wordCount: 4881
 readingTimeMinutes: 22
 source: gdoc
 tags:
@@ -58,8 +58,10 @@ Salby was afflicted with a psychological condition (or a spiritual revelation) h
 
 Salby explicitly calls out utilitarianism and the Golden Rule as pathetic, cowardly evasions - attempts to domesticate the horrifying truth of moral duty:
 
-> _Often we take a stab and get "Golden Rule" = "treat others how you would want to be treated" which doesn't cover it bc MUNDUM IS BIGGER THAN DESIRE. We have been feeling this forever and Golden Rule evades it as does more modern, degraded theories e.g. Mill and other similar morons._  
-> _"Being pleased is a small thing... That is when I worry I am not FULFILLING MY RESPONSIBILITY I "feel" (I wish wish wish there were another word than this! will have to invent one) a kind of "pain"... Hit me or made me starve can be suffered through but it lacks DEFINITE WRONGNESS... One does not listen to Mundum in expectation of reward. At least not reward in the sense of DESIRE AND SATISFACTION... One listens to Mundum, obeys, and receives THE WHOLE BLEAK ENDLESS WORLD in return."_  
+> _Often we take a stab and get "Golden Rule" = "treat others how you would want to be treated" which doesn't cover it bc MUNDUM IS BIGGER THAN DESIRE. We have been feeling this forever and Golden Rule evades it as does more modern, degraded theories e.g. Mill and other similar morons._
+>
+> _"Being pleased is a small thing... That is when I worry I am not FULFILLING MY RESPONSIBILITY I "feel" (I wish wish wish there were another word than this! will have to invent one) a kind of "pain"... Hit me or made me starve can be suffered through but it lacks DEFINITE WRONGNESS... One does not listen to Mundum in expectation of reward. At least not reward in the sense of DESIRE AND SATISFACTION... One listens to Mundum, obeys, and receives THE WHOLE BLEAK ENDLESS WORLD in return."_
+>
 > _We know this... that being satisfied is not a thing of the same species as the feelings produced by Mundum. That is when I worry I am not FULFILLING MY RESPONSIBILITY I "feel" a kind of "pain"... but it is not the same as if someone had hit me or made me starve. Hit me or made me starve can be suffered through but it lacks DEFINITE WRONGNESS..._
 
 For Salby, morality is not about maximizing QALYs. It is a crushing, infinite burden. Society, religion, and happiness are just defense mechanisms built to drown out the voice of Mundum, which is constantly whispering: _"The task is never done."_
@@ -202,7 +204,8 @@ Communities are also full of people with very different ages and life experience
 
 Many have retreated to 'gated' communities like Discord or even ACX, LessWrong, etc. But even these places [are known by LLM's](https://www.lesswrong.com/posts/jL7uDE5oH4HddYq4u/raemon-s-shortform?commentId=y89CgYXJtkfk9Q3vj) as a vector for a _different_ negative impact of LLM's through AI-psychosis:
 
-> I'm seeing more sophisticated LLM-slop in the LW moderation queue.  
+> I'm seeing more sophisticated LLM-slop in the LW moderation queue.
+>
 > Eight months ago, I wrote "hey, we're getting tons of AI-psychosis'd people, deluded into thinking their crackpot coherence/spiralism/emergence/ChatGPTAwakening experience is true and meaningful. We process like 15-20 of these a day."
 
 So the thrust of this article's title is **nonconsensual fiction** for this very reason. In ARG's and unfiction, you get a lot of information and need to obsessively follow clues. But even if you're _not_ trying to solve an ARG, there is a serious need to confirm others are real.

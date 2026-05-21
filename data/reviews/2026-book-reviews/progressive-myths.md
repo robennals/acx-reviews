@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T04:33:29.000Z'
 slug: progressive-myths
-wordCount: 8061
+wordCount: 8079
 readingTimeMinutes: 36
 source: gdoc
 tags:
@@ -31,8 +31,10 @@ So what is the truth?
 
 Huemer aims to be clear, concise, and above all _pre_cise. He acknowledges the basic progressive views (racism is bad, global warming is real) as generally true, and differentiates them from his target:
 
-> Progressivism as I understand - at least, the kind of progressivism that I take issue with - sees contemporary America as a deeply unjust society, filled with prejudice and systematically designed to harm and oppress. I consider this viewpoint thoroughly out of touch with reality.  
-> […]  
+> Progressivism as I understand - at least, the kind of progressivism that I take issue with - sees contemporary America as a deeply unjust society, filled with prejudice and systematically designed to harm and oppress. I consider this viewpoint thoroughly out of touch with reality.
+>
+> […]
+>
 > My problem is that they are _factually mistake_. They hold beliefs that objectively conflict with the way the world is in many respect; they misunderstand the current state of society, the causes of social problems, and the effects of social policies. This leads them to advocate policies and behaviors that worsen society and even undermine their own values. (p.1-2)
 
 This sounds like a critique of Progressivism’s [epistemic rationality](https://www.skillfulreasoning.com/evidence_and_rationality/epistemic_rationality.html), and I’ll admit that at this point, not even two pages into the book, I feel a bit pandered to.
@@ -49,9 +51,12 @@ Huemer, like any good philosopher, defines the terms before laying out his argum
 
 Each chapter will debunk a _progressive myth_, which is defined as
 
-> i. an empirical, factual claim, which  
-> ii. is believed by many progressives,  
-> iii. seems to obviously, strongly support an element of progressive ideology, and yet  
+> i. an empirical, factual claim, which
+>
+> ii. is believed by many progressives,
+>
+> iii. seems to obviously, strongly support an element of progressive ideology, and yet
+>
 > iv. is demonstrably false or highly misleading. (p.2)
 
 He then explicitly indicates that he is engaging with the _average_ progressive belief, not the _expert_ or _most sophisticated_ belief:
@@ -60,8 +65,10 @@ He then explicitly indicates that he is engaging with the _average_ progressive 
 
 His justification for this is that many people genuinely believe the myths as they’re stated, and as for the intellectuals:
 
-> While that seems like a reasonable challenge on its face, I think it treats intellectuals as more rational than we really are.  
-> …  
+> While that seems like a reasonable challenge on its face, I think it treats intellectuals as more rational than we really are.
+>
+> …
+>
 > The most sophisticated progressives are not the ones who are the best at pursuing the truth or even at persuading third parties; they are the ones who are the best at protecting their belief system from falsification. (p.4)
 
 As a book reviewer, I’ll be attempting to evaluate Huemer’s arguments and claims. In the interest of making the review shorter than the book, I’ll pick a topic to do a deep dive in and make short remarks about some of the rest. I’ll attempt to point out where Huemer is right, where I believe he is wrong, where he is strongest, and where he is weakest.
@@ -100,7 +107,8 @@ His second argument is about proportionality. It isn’t in question that black 
 
 However:
 
-> Consider another, even more shocking disproportion: Males make up only 50% of the population but _[95.5%](https://www.statista.com/statistics/585149/people-shot-to-death-by-us-police-by-gender/?srsltid=AfmBOorbO95dGovSi8fQvlRRBm9zy-xgvK13JcvK8FwawRHUKKb9Ec0H)_ [of the police shooting victims](https://www.statista.com/statistics/585149/people-shot-to-death-by-us-police-by-gender/?srsltid=AfmBOorbO95dGovSi8fQvlRRBm9zy-xgvK13JcvK8FwawRHUKKb9Ec0H). Men are thus _twenty-one times_ more likely to be shot be police than women. Once _could_ claim that this indicates an extraordinary degree of sexism, many times worse than the racism shown by police departments.  
+> Consider another, even more shocking disproportion: Males make up only 50% of the population but _[95.5%](https://www.statista.com/statistics/585149/people-shot-to-death-by-us-police-by-gender/?srsltid=AfmBOorbO95dGovSi8fQvlRRBm9zy-xgvK13JcvK8FwawRHUKKb9Ec0H)_ [of the police shooting victims](https://www.statista.com/statistics/585149/people-shot-to-death-by-us-police-by-gender/?srsltid=AfmBOorbO95dGovSi8fQvlRRBm9zy-xgvK13JcvK8FwawRHUKKb9Ec0H). Men are thus _twenty-one times_ more likely to be shot be police than women. Once _could_ claim that this indicates an extraordinary degree of sexism, many times worse than the racism shown by police departments.
+>
 > But most of us would reject this inference. (p.63)
 
 He points out that what matters is how often a member of the group in question is engaging in threatening behavior towards police, since (for instance) if men are 20 times more likely to attack police than women, men being 20 times more likely to be shot by said police doesn’t represent evidence of _sexism_. In other words, the data would show that police aren’t _biased_ against men; they respond to men and women equally, it’s just that men behave far more threateningly.
@@ -109,8 +117,10 @@ Is that what’s happening for black Americans?
 
 Huemer chains the following together:
 
-> Usually, when police make contact with a suspect, this is because a member of the community has called the police to report some apparent criminal behavior.  
-> …  
+> Usually, when police make contact with a suspect, this is because a member of the community has called the police to report some apparent criminal behavior.
+>
+> …
+>
 > As it turns out, the racial composition of the group of suspects reported to the police by members of the community matches the racial composition of people shot by the police, leaving no evidence of racial bias on the part of the police. (p.64)
 
 He cites the book _[In Context: Understanding Police Killings of Unarmed Civilians](https://www.police1.com/police-trainers/articles/what-in-context-reveals-about-officer-involved-shootings-of-unarmed-subjects-haaLA6X99YNUuhUd/)_ here, and while the book isn’t online, a review is, with the following quote from the book:
@@ -179,8 +189,10 @@ This argument is highly contested in the literature.
 
 One of the highlights of their argument:
 
-> …it is important to take benchmarking seriously because, contra [Johnson et al. (2019)](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr19-1948550620916071), population considerations cannot be sidestepped when estimating racial disparities in police use-of-force (see a concise proof in [Knox & Mummolo, 2019](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr22-1948550620916071)).  
-> …  
+> …it is important to take benchmarking seriously because, contra [Johnson et al. (2019)](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr19-1948550620916071), population considerations cannot be sidestepped when estimating racial disparities in police use-of-force (see a concise proof in [Knox & Mummolo, 2019](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr22-1948550620916071)).
+>
+> …
+>
 > So even if encounter-conditional approaches (e.g., [Fryer, 2016](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr10-1948550620916071); [Johnson et al., 2019](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr19-1948550620916071); [Worrall et al., 2018](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr42-1948550620916071)) suggest no evidence of racial disparity in the use of lethal or less-than-lethal force by police conditional on encounter, the overall per capita morbidity and mortality from police use-of-force can be higher in the Black population if the Black population is subjected to higher encounter rates with police. Both recent and decade-old data show that Black individuals are more likely to be stopped by police than White individuals ([Fryer, 2016](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr10-1948550620916071); [Gelman et al., 2007](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr14-1948550620916071); [Miller et al., 2017](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr24-1948550620916071); [U.S. Department of Justice, 2016](https://journals.sagepub.com/doi/full/10.1177/1948550620916071#bibr38-1948550620916071)), even after a variety of statistical controls have been applied.
 
 To try to make this legible:
@@ -307,8 +319,10 @@ He also briefly points out the contradiction between the progressive beliefs of 
 
 His conclusion (omitting a lot for brevity) is that gender is:
 
-> a set of psychological traits that evolution designed to go with a particular sex. The masculine gender is the set of traits designed for biological males; the feminine gender is the set of traits designed for biological females.  
-> …  
+> a set of psychological traits that evolution designed to go with a particular sex. The masculine gender is the set of traits designed for biological males; the feminine gender is the set of traits designed for biological females.
+>
+> …
+>
 > These traits are so strongly correlated with sex and so consistent across cultures as to make it very plausible that they have a biological basis. (p.131)
 
 #### My Verdict
@@ -389,8 +403,10 @@ When it comes to the objective question of whether or not masks have an effect, 
 
 Compared to the way progressives talked about masking, like CDC Director [Robert Redfield in 2020](https://www.cbsnews.com/news/covid-face-mask-protection-vaccine-cdc-director/):
 
-> these face masks, are the most important powerful public health tool we have  
-> …  
+> these face masks, are the most important powerful public health tool we have
+>
+> …
+>
 > I might even go so far as to say that this face mask is more guaranteed to protect me against COVID than when I take a COVID vaccine, because it may be 70%
 
 This seems like a wildly overblown claim.
@@ -480,8 +496,10 @@ I admit I got angry when reading it. Angry about how I’ve been lied to, about 
 
 On the contrary:
 
-> The way to improve things is not to lament how evil we are, to undermine our basic institutions, or to attack our values. The way to improve things is to think about what could be done, starting from our current institutions and without abandoning our basic values, to make things a little better.  
-> …  
+> The way to improve things is not to lament how evil we are, to undermine our basic institutions, or to attack our values. The way to improve things is to think about what could be done, starting from our current institutions and without abandoning our basic values, to make things a little better.
+>
+> …
+>
 > For instance, if you are concerned about the lesser success of black Americans compared to whites, the answer is not to start attacking whites. The answer is to think about what practical steps could be taken to help black communities. (p.243)
 
 Whatever your political position or beliefs, I hope we can all agree that it’s good to make things a little better.

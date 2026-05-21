@@ -684,6 +684,27 @@ export function extractFootnotes(markdown: string): ExtractedFootnotes {
       return { body: markdown, footnotes: [] };
   }
 
+  // Sanity check: if the extracted footnotes (by character count) take
+  // up more than 1/5 of the original markdown, the format detector
+  // probably grabbed essay body text by mistake. Bail out and return
+  // the original markdown untouched.
+  //
+  // Real example: "How I Killed Pluto" formats footnotes inline per
+  // section instead of as a single trailing block — the bare-digit
+  // plain-format detector latched onto the whole essay and dumped most
+  // of the review into the footnotes pane.
+  //
+  // Only apply on essays large enough for the ratio to be meaningful;
+  // unit tests use tiny synthetic inputs where a 26-char footnote in a
+  // 100-char document trivially exceeds 20%.
+  if (markdown.length > 2000) {
+    const fnTotal = extracted.footnotes
+      .reduce((sum, f) => sum + (f.raw?.length || 0), 0);
+    if (fnTotal > markdown.length / 5) {
+      return { body: markdown, footnotes: [] };
+    }
+  }
+
   // Strip a trailing "Footnotes" / "Endnotes" section heading from the
   // body — every format leaves the body ending just before the
   // footnote-defs region, and the render layer adds its own

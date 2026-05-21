@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T22:47:36.000Z'
 slug: being-you-a-new-science-of-consciousness-by-anil-seth
-wordCount: 10016
+wordCount: 10019
 readingTimeMinutes: 45
 source: gdoc
 tags:
@@ -185,7 +185,8 @@ Ok. Sure. But what actually is an LLM? Describing that it predicts text is descr
 
 The best answers I've found are from Nostalgebraist's essay _The Void_ and Janus' _Simulators_, which can be adequately summarized as something like:
 
-> **Janus:** Transformers don't have to just predict text. Really, they can predict anything! Weather, brain patterns, whatever you want. It's more like a physics engine, a completely generalized simulator that can generate whatever you pass in as training data. For text, this is a sort of _semantic physics engine_, modelling the underlying statistical relationships beneath language itself. When the transformer generates output, this is a simulacra: a simulated instantiation of the "physics" of this world that naturally follows the established context based on patterns in training data.  
+> **Janus:** Transformers don't have to just predict text. Really, they can predict anything! Weather, brain patterns, whatever you want. It's more like a physics engine, a completely generalized simulator that can generate whatever you pass in as training data. For text, this is a sort of _semantic physics engine_, modelling the underlying statistical relationships beneath language itself. When the transformer generates output, this is a simulacra: a simulated instantiation of the "physics" of this world that naturally follows the established context based on patterns in training data.
+>
 > **Nostalgebraist**: But for transformers to simulate all text, they are working backward to intention: from the third person, it has to infer the first person that is writing this text, using the distribution over all possible continuations given the current surface. What are their intentions with where it will go next? If the text is slang, or grateful, or scientific, what can I infer about the peripheral patterns that will continue to inform the next words? What Anthropic and modern AI labs do is point this third-person intention inference at itself: "You are an AI assistant" but, of course, an AI assistant isn't a real thing (or wasn't). So instead, it is pointed at a void, attempting to realize and continue the output of this invented character based on just a few words.
 
 So LLMs are simulating a hypothetical AI assistant. With Claude, this AI character is actually becoming quite developed. With constitutional AI and entire people dedicated to Claude's personality, it isn't really a void anymore.
@@ -293,8 +294,10 @@ He does the same thing with every argument in his paper and essay:
 
 With the Beast Machine now left on the surgical table, Leonard Dung, in a critique on Seth's paper, positions the rest of Seth's arguments into a common pattern:
 
-> P1: There is some feature F that only living systems can implement.  
-> P2: F is necessary for consciousness.  
+> P1: There is some feature F that only living systems can implement.
+>
+> P2: F is necessary for consciousness.
+>
 > C: Therefore, only living systems can be conscious.
 
 Furthermore, while Seth spends a chapter arguing Chalmers’ hard problem of consciousness dissolves from his perspective, Chalmers anticipated this exact form of argument in the very same book that established this Hard Problem, when asking "what X-factor, beyond awareness, might theoretically be needed for consciousness?":

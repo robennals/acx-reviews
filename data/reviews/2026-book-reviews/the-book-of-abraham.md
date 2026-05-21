@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T21:13:30.000Z'
 slug: the-book-of-abraham
-wordCount: 14251
+wordCount: 14272
 readingTimeMinutes: 64
 source: gdoc
 tags:
@@ -45,19 +45,32 @@ Which sounds deranged today, but isn’t really: status signals are somewhat arb
 
 Among other brave endeavors, they would ground the mummies into a fine powder and [consume it as medicine](https://en.wikipedia.org/wiki/Mummia) even though cannibalism was generally considered to be _gravely_ sinful. Mummy powder was also used as an aphrodisiac. Reading all this, I couldn’t help but reflect a bit on that famous Percy Shelley poem:
 
-> _I met a traveller from an antique land,_  
-> _Who said: “Two vast and trunkless legs of stone_  
-> _Stand in the desert. . . . Near them, on the sand,_  
-> _Half sunk a shattered visage lies, whose frown,_  
-> _And wrinkled lip, and sneer of cold command,_  
-> _Tell that its sculptor well those passions read_  
-> _Which yet survive, stamped on these lifeless things,_  
-> _The hand that mocked them, and the heart that fed:_  
-> _And on the pedestal, these words appear:_  
-> _My name is Ozymandias, king of kings:_  
-> _Look on my works, ye mighty, and despair!”_  
-> _Nothing beside remains. Round the decay_  
-> _Of that colossal wreck, boundless and bare_  
+> _I met a traveller from an antique land,_
+>
+> _Who said: “Two vast and trunkless legs of stone_
+>
+> _Stand in the desert. . . . Near them, on the sand,_
+>
+> _Half sunk a shattered visage lies, whose frown,_
+>
+> _And wrinkled lip, and sneer of cold command,_
+>
+> _Tell that its sculptor well those passions read_
+>
+> _Which yet survive, stamped on these lifeless things,_
+>
+> _The hand that mocked them, and the heart that fed:_
+>
+> _And on the pedestal, these words appear:_
+>
+> _My name is Ozymandias, king of kings:_
+>
+> _Look on my works, ye mighty, and despair!”_
+>
+> _Nothing beside remains. Round the decay_
+>
+> _Of that colossal wreck, boundless and bare_
+>
 > _The lone and level sands stretch far away._
 
 One day you’re Ozymandias, king of kings, the next you’re smeared on some guy’s dick to help get him hard. What to do.
@@ -162,9 +175,12 @@ In November 1912, Spalding published their responses in a widely circulated pamp
 
 Spalding’s pamphlet is impressively empathetic and carefully crafted. To me it reads like a banger substack post except in slightly dated prose. The opening dedication goes:
 
-> _“To my many Mormon friends — who_  
-> _are as honest searchers after the truth_  
-> _as he hopes he is himself — this book_  
+> _“To my many Mormon friends — who_
+>
+> _are as honest searchers after the truth_
+>
+> _as he hopes he is himself — this book_
+>
 > _is dedicated by the author.”_
 
 Then he begins the pamphlet with “_If the Book of Mormon is true, it is, next to the Bible, the most important book in the world._” and then continues for a few pages talking about the importance of the Book of Mormon… if it were true. Then he empathizes with the unfair treatment of Mormon apologists in the public discourse:
@@ -194,7 +210,8 @@ Here’s Facsimile No. 1 again, also known the “lion couch scene”:
 
 Below it you see Joseph’s interpretation of the various parts. The scene is also referenced in the beginning of the main text:
 
-> _“And it came to pass that the priests laid violence upon me, that they might slay me also, as they did those virgins upon this altar; and that you may have a knowledge of this altar, I will refer you to the representation at the commencement of this record.”_  
+> _“And it came to pass that the priests laid violence upon me, that they might slay me also, as they did those virgins upon this altar; and that you may have a knowledge of this altar, I will refer you to the representation at the commencement of this record.”_
+>
 > [Abraham 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=eng&id=p12#p12)
 
 This is in the voice of Abraham, where he goes on to explain how he got bound to an altar in some pagan Egyptian temple, about to be ritually murdered by the priest of Elkenah, while the Angel of the Lord descends from above to rescue him.
@@ -686,12 +703,14 @@ The Book of Abraham is short, five chapters, an afternoon’s read. Most of it i
 
 And then this:
 
-> Now the Lord had shown unto me, Abraham, the intelligences that were organized before the world was; and among all these there were many of the noble and great ones; And God saw these souls that they were good, and he stood in the midst of them, and he said: These I will make my rulers... and he said unto me: Abraham, thou art one of them; thou wast chosen before thou wast born.  
+> Now the Lord had shown unto me, Abraham, the intelligences that were organized before the world was; and among all these there were many of the noble and great ones; And God saw these souls that they were good, and he stood in the midst of them, and he said: These I will make my rulers... and he said unto me: Abraham, thou art one of them; thou wast chosen before thou wast born.
+>
 > _— Abraham 3:22–23_
 
 Followed by, the Council of Heaven:
 
-> And there stood one among them that was like unto God, and he said unto those who were with him: We will go down, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell; And we will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them...  
+> And there stood one among them that was like unto God, and he said unto those who were with him: We will go down, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell; And we will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them...
+>
 > _— Abraham 3:24–25_
 
 These are, in my opinion, the most consequential paragraphs Joseph Smith ever wrote. They founded the Mormon doctrines of pre-mortal existence, foreordination, the council of heaven, and eternal progression. None of it is in the Bible.
@@ -718,8 +737,10 @@ The Mormon missionaries I’ve spoken to don’t find this question threatening,
 
 It sucks to be unoriginal, but it seems like, as with all other exposes on Mormonism, I end with the same as conclusion South Park arrived at 23 years ago:
 
-> _“Look, maybe my religion is flimflam bigo. Maybe Joseph Smith just made it all up. But more than likely, so did your guy._  
-> _All I know is that because of my religion, I have a family that loves me, a family that gets together every Monday night to play games and talk about their feelings. A religion that teaches us to be kind, and welcoming, and to help others._  
+> _“Look, maybe my religion is flimflam bigo. Maybe Joseph Smith just made it all up. But more than likely, so did your guy._
+>
+> _All I know is that because of my religion, I have a family that loves me, a family that gets together every Monday night to play games and talk about their feelings. A religion that teaches us to be kind, and welcoming, and to help others._
+>
 > _If my religion is a bunch of crap, then fine. But I still got a great life, and a bunch of people who love me. So you can kiss my ass, Kyle.”_
 
 Mormonism is a bit too obviously incorrect for my taste though. Maybe there’s some other pro-social, faith-increasing collective brainwashing ritual we can all participate in together that will make the world a better place.

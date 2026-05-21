@@ -1,5 +1,5 @@
 ---
-title: 'Why Greatness Cannot Be Planned, by Joel Lehman and Kenneth Stanley'
+title: Why Greatness Cannot Be Planned, by Joel Lehman and Kenneth Stanley
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2026-book-reviews
@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T16:55:47.000Z'
 slug: why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley
-wordCount: 5299
+wordCount: 5303
 readingTimeMinutes: 24
 source: gdoc
 tags:
@@ -147,8 +147,10 @@ You could say _interestingness_ is a way of guiding our search, and we use it to
 
 It’s worth elaborating more on how L&S think about search. They are both artificial intelligence researchers, and discuss two heuristics which they believe were dominating AI discussions in 2015:
 
-> _“A technical term for a rule of thumb that guides search is a heuristic. While no one can be sure which heuristics will work the best for getting to high-level AI, the AI community has settled upon two in particular._  
-> _The first, which we’ll call the experimentalist heuristic, follows the rule of thumb that an algorithm’s promise is given by how well it performs. In other words, an algorithm worth exploring further performs better than existing algorithms in benchmark tasks._  
+> _“A technical term for a rule of thumb that guides search is a heuristic. While no one can be sure which heuristics will work the best for getting to high-level AI, the AI community has settled upon two in particular._
+>
+> _The first, which we’ll call the experimentalist heuristic, follows the rule of thumb that an algorithm’s promise is given by how well it performs. In other words, an algorithm worth exploring further performs better than existing algorithms in benchmark tasks._
+>
 > _The second main gradient in AI research is the theoretical heuristic. This heuristic suggests that algorithms are better if they can be proven to have desirable properties.”_
 
 The experimentalist heuristic has issues that we've discussed above, namely that the best performing algorithm may not necessarily offer the best way forward. Sometimes, we have to go backwards to go forwards.
@@ -179,8 +181,10 @@ Percy Spencer then went on to use that information to invent the microwave.
 
 From the blogger [Malmesbury](https://malmesbury.substack.com/p/there-is-way-too-much-serendipity):
 
-> _"Aspartame was discovered accidentally by a chemist researching a completely unrelated topic. At some point, he licked his finger to grab a piece of paper and noticed a strong sweet taste._  
-> _Saccharin was discovered by a researcher who ate bread without washing his hands and noticed the bread was sweet._  
+> _"Aspartame was discovered accidentally by a chemist researching a completely unrelated topic. At some point, he licked his finger to grab a piece of paper and noticed a strong sweet taste._
+>
+> _Saccharin was discovered by a researcher who ate bread without washing his hands and noticed the bread was sweet._
+>
 > _Acesulfame K was also discovered serendipitously by a chemist licking his fingers, although the legends don’t specify the exact circumstances behind the finger-licking."_
 
 People who build recommender algorithms [are aware that serendipity](https://www.sciencedirect.com/science/article/abs/pii/S0950705116302763) is a critical part of a search algorithm, although it is highly difficult to explicitly code it into an algorithmic recommender.

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T04:53:42.000Z'
 slug: the-sovereign-child
-wordCount: 9087
+wordCount: 9100
 readingTimeMinutes: 41
 source: gdoc
 tags:
@@ -89,8 +89,10 @@ But take a moment to consider how bizarre it is that _your skill as a parent_ is
 
 Here's one of the comments again, with minor substitutions:
 
-> _Agreed. I can count the number of times I've played music that_ _**my wife**_ _wanted to hear on one hand._  
-> _Agreed. I can count the number of times I've played music that_ _**my passengers**_ _wanted to hear on one hand._  
+> _Agreed. I can count the number of times I've played music that_ _**my wife**_ _wanted to hear on one hand._
+>
+> _Agreed. I can count the number of times I've played music that_ _**my passengers**_ _wanted to hear on one hand._
+>
 > _Agreed. I can count the number of times I've played music that_ _**my friends**_ _wanted to hear on one hand._
 
 How do you feel about this guy now? To me, he comes across as an asshole. He is using his position of power to deprive his loved ones (?) of something they enjoy, and then _bragging_ about it. It only seems normal when we do this kind of thing to kids, cos we still don't really think of kids as people.
@@ -143,8 +145,10 @@ Not all rules, to be clear. Boundaries are OK—you can decide what _you_ will o
 
 We can come up with at least three reasons to dispense with rules, so feel free to pick whichever you like best:
 
-> 1\. Coercion is morally wrong, independent of consequences.  
-> 2\. Rules short-circuit the Popperian process by which children create knowledge, substituting deference to authority.  
+> 1\. Coercion is morally wrong, independent of consequences.
+>
+> 2\. Rules short-circuit the Popperian process by which children create knowledge, substituting deference to authority.
+>
 > 3\. Rules don't have the desired effect anyway.
 
 Personally I am sympathetic to 2 and 3. Here's Stupple again:
@@ -161,7 +165,8 @@ Of course, we don't always get what we want in life. Isn't one argument in favou
 
 There's one source of totally arbitrary rules that can be done away with immediately: those arising from what Stupple calls **the Greedy Child Fallacy.**
 
-> _There is a sense among parents that kids should have limits set on things they want, because they want it and regardless of what that thing is._  
+> _There is a sense among parents that kids should have limits set on things they want, because they want it and regardless of what that thing is._
+>
 > _The truth is we should always try to get what we want. When our desires are damaging, it’s crucial to understand why they are damaging so that we can change course and pursue new and better desires, not apologize for being desirous in the first place._
 
 This resonated with me HARD because it's part of a broader phenomenon I've noticed—tell me if there is a name for this—in which people just seem to hate the existence of pleasurable things that don't have any real downside.
@@ -413,7 +418,8 @@ Whether any of this translates to the general population seems to me like the wr
 
 A harder question is whether TCS is a luxury available only to those with a lot of spare time and financial resources. Here I present to you two quotes from _The Sovereign Child_, which happened to end up next to each other in my notes, and which made me laugh out loud when I re-read them in sequence:
 
-> _The self-sovereignty we might unlock for children can take root in any home, anywhere, by anyone of any financial status._  
+> _The self-sovereignty we might unlock for children can take root in any home, anywhere, by anyone of any financial status._
+>
 > _We have full-time caregivers for our kids during the day while my wife and I work._
 
 Now, even if it were true that only the rich could fully implement TCS, that would in no way refute its ideas. If only the richest slaveholders could afford to free their slaves, they should still free them! Instead you would hope that we eventually find a way to make it available to everyone, as we have done with other kinds of new knowledge.
@@ -452,13 +458,20 @@ So maybe I'll one day build enough confidence to buy my daughter an iPad and giv
 
 ### Notes:
 
-[^1]: Written in collaboration with Logan Chipkin. Stupple is the primary author, and AFAIK the examples come from his parenting, so for simplicity I will attribute passages and ideas to him throughout.  
-[^2]: The original TCS founder, Sarah Fitz-Claridge, says she hadn't even heard of Popper prior to meeting Deustch. Incidentally, Fitz-Claridge is also working on a book. In the meantime, she has written a comprehensive list of FAQs [here](https://takingchildrenseriously.com/faq/).  
-[^3]: For e.g, and to balance some of the ragebait from earlier:  
-> _My son’s reality is the total opposite. He is quick to exchange his tablet for a friendly face. He welcomes adults and siblings into his world for hours of imaginative play. People are impressed with his vocabulary. He consoles his little sister when she’s upset and plays pranks on adults. And he knows a ton of stuff. I’m not saying YouTube is making him a genius, but I’m convinced it’s not harming him, and I’m confident it is enriching his life far more than if he was forced to play only with wooden blocks and puzzles._  
-[^4]: Citation needed. I would be interested to hear more about whether this is wrong.  
-[^5]: Along with the broad strokes of many of the critiques I outline here. Bruce really puts the 'critical' in critical rationalism, which is not as common a virtue as you might expect.  
-[^6]: For more criticisms in this line, see Bruce Nielson's Theory of Anything episodes 53-55.  
+[^1]: Written in collaboration with Logan Chipkin. Stupple is the primary author, and AFAIK the examples come from his parenting, so for simplicity I will attribute passages and ideas to him throughout.
+>
+[^2]: The original TCS founder, Sarah Fitz-Claridge, says she hadn't even heard of Popper prior to meeting Deustch. Incidentally, Fitz-Claridge is also working on a book. In the meantime, she has written a comprehensive list of FAQs [here](https://takingchildrenseriously.com/faq/).
+>
+[^3]: For e.g, and to balance some of the ragebait from earlier:
+>
+> _My son’s reality is the total opposite. He is quick to exchange his tablet for a friendly face. He welcomes adults and siblings into his world for hours of imaginative play. People are impressed with his vocabulary. He consoles his little sister when she’s upset and plays pranks on adults. And he knows a ton of stuff. I’m not saying YouTube is making him a genius, but I’m convinced it’s not harming him, and I’m confident it is enriching his life far more than if he was forced to play only with wooden blocks and puzzles._
+>
+[^4]: Citation needed. I would be interested to hear more about whether this is wrong.
+>
+[^5]: Along with the broad strokes of many of the critiques I outline here. Bruce really puts the 'critical' in critical rationalism, which is not as common a virtue as you might expect.
+>
+[^6]: For more criticisms in this line, see Bruce Nielson's Theory of Anything episodes 53-55.
+>
 [^7]: There's evidence for symbolic thought, cave art, and personal ornamentation, but that may not be enough for open-ended explanatory universality, in which case the Neanderthals were 'merely' highly intelligent, social apes. But still...it doesn't exactly fill you with confidence, does it?
 >
 >

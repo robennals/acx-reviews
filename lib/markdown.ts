@@ -35,9 +35,12 @@ function escapeFootnoteBangs(md: string): string {
  * Convert markdown to HTML and extract footnotes
  */
 export async function markdownToHtml(
-  markdown: string
+  markdown: string,
+  opts: { disableFootnotes?: boolean } = {}
 ): Promise<{ html: string; footnotes: ReviewFootnote[] }> {
-  const { body, footnotes } = extractFootnotes(markdown);
+  const { body, footnotes } = opts.disableFootnotes
+    ? { body: markdown, footnotes: [] }
+    : extractFootnotes(markdown);
   const bodyHtml = await mdToHtml(escapeFootnoteBangs(body));
   const footnoteHtmls: ReviewFootnote[] = [];
   for (const fn of footnotes) {

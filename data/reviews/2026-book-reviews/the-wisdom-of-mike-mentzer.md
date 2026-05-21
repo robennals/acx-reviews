@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T12:02:31.000Z'
 slug: the-wisdom-of-mike-mentzer
-wordCount: 6839
+wordCount: 6835
 readingTimeMinutes: 31
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Philosophy
   - Memoir
 ---
-
-## Your Book Review: The Wisdom of Mike Mentzer
 
 Arnold Schwarzenegger walks out onstage at the Sydney Opera House, and starts to flex his incredible physique. Cameras flash and the adoring crowd reacts with amazement to his size and shimmering muscles. It is the 1980 Mr. Olympia competition and Arnold is returning after a 5-year hiatus from bodybuilding competition. He's kickstarted a hugely successful career as an action star on the big screen, and has come back just after filming for _Conan the Barbarian_. Arnold is competing with 15 other professional bodybuilders who were on stage during the night.
 
@@ -160,7 +158,7 @@ The first challenge comes from tradition: If HIT advocates claim this method wor
 
 Mike Mentzer fans and low volume training will point to Dorian Yates as a successor who vindicated the high intensity, low volume approach. Yates was the Hayek to Mentzer's von Mises. From Yates' [Wikipedia](https://en.wikipedia.org/wiki/Dorian_Yates):
 
-**Dorian Andrew Mientjez Yates** (born 19 April 1962) is six-time Mr. Olympia champion who dominated professional bodybuilding during the 1990s. He won the title consecutively from 1992 to 1997 and became known by the nickname **"The Shadow"** for his discreet approach to competition, often appearing at major events without prior public confirmation. Between contests, Yates maintained a low public profile. This also contributed to his distinctive reputation within the sport. Known for his impressive conditioning and wide and thick back, he is regarded as one of the greatest professional bodybuilders of all time.[2][3][4][5] Influenced by the concepts of Mike Mentzer, Yates is credited with popularising high-intensity training (HIT) in the 1990s.
+> **Dorian Andrew Mientjez Yates** (born 19 April 1962) is six-time Mr. Olympia champion who dominated professional bodybuilding during the 1990s. He won the title consecutively from 1992 to 1997 and became known by the nickname **"The Shadow"** for his discreet approach to competition, often appearing at major events without prior public confirmation. Between contests, Yates maintained a low public profile. This also contributed to his distinctive reputation within the sport. Known for his impressive conditioning and wide and thick back, he is regarded as one of the greatest professional bodybuilders of all time.[2][3][4][5] Influenced by the concepts of Mike Mentzer, Yates is credited with popularising high-intensity training (HIT) in the 1990s.
 
 Yates had been inspired by Mentzer's low volume approach as a teenager. By 1992 Yates was doing two sets to failure for each muscle group. Mentzer coached Yates in 1992, and convinced the already enormous bodybuilder to drop his volume even lower. Yates only trained one set per muscle group in the run up to his first Mr. Olympia win. It was in this period the grainy [photos](https://static.wixstatic.com/media/adf91c_299b05811c154ce0adfdda34c9c5bbac~mv2.jpg/v1/fill/w_925,h_925,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/adf91c_299b05811c154ce0adfdda34c9c5bbac~mv2.jpg) of Dorian Yates' physique were released in _Flex_ Magazine which people found it hard to believe were real - he had taken bodybuilding to another level and was comfortably the best bodybuilder in the world. Yates maintained his low volume approach, continuing to win until his retirement in 1997. So while traditional bodybuilding approaches had competitors training twice a day, six days a week — Yates had become the most muscular (while very lean) human that had ever existed up until that point, all by training intensely just a few hours a week. This is strong evidence in favour of the low volume camp.
 
@@ -174,7 +172,7 @@ Perhaps another way we can investigate the question is to look at how the top bo
 
 We can look at Chris Bumstead a.k.a. CBum for an example of a modern bodybuilder. From his [Wikipedia](https://en.wikipedia.org/wiki/Chris_Bumstead):
 
-After placing second in the Mr. Olympia Classic Physique category in 2017 and 2018, he earned six consecutive wins from 2019 to 2024, the longest in the history of the competition.[3][4] He is widely considered the greatest Classic Physique bodybuilder of all time.[5][6][7] His popularity is often credited for bringing mainstream attention to the sport of modern bodybuilding on a global level
+> After placing second in the Mr. Olympia Classic Physique category in 2017 and 2018, he earned six consecutive wins from 2019 to 2024, the longest in the history of the competition.[3][4] He is widely considered the greatest Classic Physique bodybuilder of all time.[5][6][7] His popularity is often credited for bringing mainstream attention to the sport of modern bodybuilding on a global level
 
 So is Bumstead a Mentzer low-volume fanatic, or a high-volume Schwarzenegger style lifter? Bumstead would train 3 days on, 1 day off in an 8-day rolling cycle. He would train each muscle group with 15 to 20 sets per week, a lot less than Arnold's 25 to 30 but several times more than Mentzer's 1980s recommendations and 15 to 20 times more sets than Mentzer's later recommendations! In terms of frequency of each muscle group, training each muscle group once every 8 days is quite Mentzerian and unlike Arnold's training a muscle group twice a week. So the answer is a nice boring middle ground between the two approaches.
 
@@ -188,9 +186,9 @@ After considering the developments in sports science and standard practices in m
 
 Mentzer's rise in bodybuilding can be viewed as a test case not just for the low volume training method, but also as a philosopher and thinking man's attempt to reach the top. Where Schwarzenegger followed a more instinctive approach going by vibes or tradition, Mentzer sought to apply a fully systematised philosophy to exercise and become some kind of incredibly muscular philosopher king. This aligns with Mentzer's promotion of learning and philosophy, especially Objectivism. Mentzer shared a relevant anecdote:
 
-Just a few days ago, while explaining to one of my local training clients the reasons for working out only once every 4 to 7 days, a man in his mid-30s had apparently overheard my explanation and intoned, "Mr. Mentzer, what you just said about training so infrequently sounded intelligent and logical. But if I don't train every day, what else am I going to do with my time?"
-
-I might suggest a number of things for your consideration: Read a novel, Learn the laws of logic, Why you might even study neuroanatomy and physiology! Or take up a trade. Enroll in a class. Go to the movie. Take walks in the park. You might even learn about the true nature of romantic love
+> Just a few days ago, while explaining to one of my local training clients the reasons for working out only once every 4 to 7 days, a man in his mid-30s had apparently overheard my explanation and intoned, "Mr. Mentzer, what you just said about training so infrequently sounded intelligent and logical. But if I don't train every day, what else am I going to do with my time?"
+>
+> I might suggest a number of things for your consideration: Read a novel, Learn the laws of logic, Why you might even study neuroanatomy and physiology! Or take up a trade. Enroll in a class. Go to the movie. Take walks in the park. You might even learn about the true nature of romantic love
 
 Mentzer wasn't just a believer in Objectivism. He is a case study in the cognitive type: high-systematizing, intolerant of ambiguity (there's a correct machine and a correct rep range to use!), binary categorization, and the conviction that every question has one correct answer that can be [1,000% answered with logic](https://slatestarcodex.com/2013/08/06/on-first-looking-into-chapmans-pop-bayesianism/) from sound first principles. Just start with A = A, and from there, it's just logic.
 
@@ -225,14 +223,14 @@ Mentzer’s story is a reminder of some simple lessons: for instance, do not tak
 I _would_ recommend the book if you want an insight into the training method and philosophy of a fascinating and tragic character who successfully challenged the orthodoxy in bodybuilding. Mentzer’s history shows how tiny groups of weird, dedicated hobbyists can make cultural innovations that go out and conquer the culture more broadly. If your aunt decides to take up weights to keep her muscle as she ages, it's quite likely she will use some techniques and machines invented by weird Muscle Men of the mid-20th century.
 
 * * *
-**1**. For the uninitiated: Mr. America (founded 1939, AAU) was the top amateur title in the United States. Mr. Universe (1948, NABBA) was international. In 1965 Joe Weider launched Mr. Olympia which is for professional bodybuilders and open to international competitors.
+[1] For the uninitiated: Mr. America (founded 1939, AAU) was the top amateur title in the United States. Mr. Universe (1948, NABBA) was international. In 1965 Joe Weider launched Mr. Olympia which is for professional bodybuilders and open to international competitors.
 
-**2**. Ronnie Coleman was also one of the strongest bodybuilders ever, squatting 800 lb for two reps. Coleman also served as a police officer in Arlington Texas until retiring from active duty in 2000 after two Mr. Olympia wins. Coleman had to get tailor-made uniform to accommodate his 22" biceps and complained no one would be willing to fight him on patrols.
+[2] Ronnie Coleman was also one of the strongest bodybuilders ever, squatting 800 lb for two reps. Coleman also served as a police officer in Arlington Texas until retiring from active duty in 2000 after two Mr. Olympia wins. Coleman had to get tailor-made uniform to accommodate his 22" biceps and complained no one would be willing to fight him on patrols.
 
-**3**. Some competitions, such as the PNBA, are dedicated to 'naturals': drug-free athletes who are strictly drug-tested. However, these events enjoy significantly less popularity than competitions which allow drug use.
+[3] Some competitions, such as the PNBA, are dedicated to 'naturals': drug-free athletes who are strictly drug-tested. However, these events enjoy significantly less popularity than competitions which allow drug use.
 
-**4**. e.g. Andrew Huberman, a former phone coaching client of Mentzer's in the 1990s, relayed that Mentzer advised him to keep training hard but avoid steroids and pursue academic study. Huberman is now an associate professor at the Stanford School of Medicine and podcaster.
+[4] e.g. Andrew Huberman, a former phone coaching client of Mentzer's in the 1990s, relayed that Mentzer advised him to keep training hard but avoid steroids and pursue academic study. Huberman is now an associate professor at the Stanford School of Medicine and podcaster.
 
-**5**. Curiously, Ayn Rand the creator of Objectivism also took amphetamines to help her writing. Rand started her 30 years of amphetamine use with benzedrine in 1952 to meet a deadline for _The Fountainhead_. Rand eventually burnt out, only publishing four novels in her lifetime.
+[5] Curiously, Ayn Rand the creator of Objectivism also took amphetamines to help her writing. Rand started her 30 years of amphetamine use with benzedrine in 1952 to meet a deadline for _The Fountainhead_. Rand eventually burnt out, only publishing four novels in her lifetime.
 
-**6**. e.g. [Mike Mentzer’s MOM was right](https://www.youtube.com/shorts/DeZVkCpksl4)
+[6] e.g. [Mike Mentzer’s MOM was right](https://www.youtube.com/shorts/DeZVkCpksl4)

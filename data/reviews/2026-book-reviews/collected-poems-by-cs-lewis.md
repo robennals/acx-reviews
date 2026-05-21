@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T20:04:59.000Z'
 slug: collected-poems-by-cs-lewis
-wordCount: 3909
+wordCount: 3910
 readingTimeMinutes: 18
 source: gdoc
 tags:
@@ -36,7 +36,8 @@ The failure of _Dymer_ hurt Lewis, and after some internal wrestling he gave up 
 > _“For twenty years I’ve stared my level best_  
 > _To see if evening -- any evening -- would suggest_  
 > _A patient etherized upon a table;_  
-> _In vain. I simply wasn’t able.”_  
+> _In vain. I simply wasn’t able.”_
+>
 > _C.S. Lewis, A Confession_
 
 Somewhere online there is a short video of a crowd, standing outside a ski chalet, watching an avalanche in the distance. Two young boys are getting nervous and look like they want to go back inside. Their dad is behind them, and he puts his hands on them to reassure them, and restrain them. The implication is “stay and watch, it will be ok.”  As the avalanche comes closer and closer, a nervousness spreads amongst the crowd, a murmur of concern. Then something switches, the people panic and start to run for the safety of the chalet. Seeing the avalanche heading straight for them, the dad panics too. He pushes his sons and his wife out of the way to save himself and get inside.
@@ -108,7 +109,8 @@ Perhaps this seems trivial.  One bad image won’t bring about the collapse of c
 
 Lewis has read the modernist poets, and he thinks their imagery is bad.  He is prepared to give better ones, because he thinks the survival of civilisation depends on it.
 
-> **A Confession**  
+> **A Confession**
+>
 > I am so coarse, the things the poets see  
 > Are obstinately invisible to me.  
 > For twenty years I’ve stared my level best  
@@ -141,13 +143,13 @@ Lewis has read the modernist poets, and he thinks their imagery is bad.  He is p
 > Of dull things… peacocks, honey, the Great Wall, Aldebaran  
 > Silver weirs, new-cut grass, wave on the beach, hard gem,  
 > The shapes of horse and woman, Athens, Troy, Jerusalem.
->
+
+# 3.  Joys that Sting
+
 > _Thus, what old poets told me about love_  
 > _(Tristram’s obedience, Isoud’s sovereignty…)_  
 > _Turns true in a dread mode I dreamed not of,_  
 > _– What once I studied, now I learn to be;”_
-
-# 3.  Joys that Sting
 
 _Old Poets Remembered, C.S. Lewis_
 

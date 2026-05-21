@@ -214,6 +214,11 @@ interface ReviewException {
   // for in-prose emphasis; Plutarch needs the opposite — its
   // section titles end in `.` and `:` and ARE meant as headings.
   allowBoldHeadingWithPunct?: boolean;
+  // Skip footnote extraction at render time. Use for reviews whose
+  // footnote structure doesn't match any of the known formats and
+  // confuses the heuristic — e.g. "How I Killed Pluto" formats
+  // footnotes inline per section rather than as a trailing block.
+  disableFootnotes?: boolean;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -475,11 +480,13 @@ function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): s
   const matchesTitleLine = (plain: string): boolean => {
     const norm = normalize(plain);
     if (!norm) return false;
-    // Strip a leading "review of" / "a review of" / "book review:" /
-    // "review:" prefix before the equality test.
+    // Strip a leading prefix variant. Accepted forms:
+    //   "review", "review of", "a review of",
+    //   "book review", "book review of",
+    //   "your review", "your book review", "your review of",
+    //   "a (book) review of"
     const withoutPrefix = norm
-      .replace(/^(a\s+)?(book\s+)?review(\s+of)?\s+/, '')
-      .replace(/^(book\s+)?review\s+/, '');
+      .replace(/^(your\s+|a\s+)?(book\s+)?review(\s+of)?\s+/, '');
     // Strip a trailing " by <author>" suffix (any author).
     const withoutBy = withoutPrefix.replace(/\s+by\s+.+$/, '');
     return withoutBy === normTitle || withoutPrefix === normTitle;
@@ -664,6 +671,9 @@ async function createMarkdownFile(
   // In anonymous mode, omit the original Google Doc URL since it could
   // reveal the author via sharing settings or document owner info.
   if (!anonymousMode) fm.originalUrl = data.originalUrl;
+  // Surface the disable-footnotes flag into frontmatter so the render
+  // layer (lib/reviews.ts) can read it and skip footnote extraction.
+  if (slugExceptions[slug]?.disableFootnotes) fm.disableFootnotes = true;
   // Preserve any previously-assigned tags. Tags are manual annotations
   // so they shouldn't disappear when a re-import pulls fresh content.
   if (data.existingTags && data.existingTags.length > 0) {

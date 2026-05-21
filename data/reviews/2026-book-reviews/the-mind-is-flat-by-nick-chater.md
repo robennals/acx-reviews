@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-16T13:37:07.000Z'
 slug: the-mind-is-flat-by-nick-chater
-wordCount: 7072
+wordCount: 7073
 readingTimeMinutes: 32
 source: gdoc
 tags:
@@ -48,7 +48,8 @@ The unconscious mind is also extremely powerful and is doing most of the work wh
 
 Anyone who has ever done serious creative work knows what the German composer Paul Hindemith talks about here:
 
-> “We all know the impression of a very heavy flash of lightning in the night. Within a second’s time we see a broad landscape, not only in its general outlines but with every detail. Although we could never describe each single component of the picture, we feel that not even the smallest leaf of grass escapes our attention. We experience a view, immensely comprehensible and at the same time immensely detailed, that we never could have under normal daylight conditions, and perhaps not during the night either, if our senses and nerves were not strained by the extraordinary suddenness of the event.  
+> “We all know the impression of a very heavy flash of lightning in the night. Within a second’s time we see a broad landscape, not only in its general outlines but with every detail. Although we could never describe each single component of the picture, we feel that not even the smallest leaf of grass escapes our attention. We experience a view, immensely comprehensible and at the same time immensely detailed, that we never could have under normal daylight conditions, and perhaps not during the night either, if our senses and nerves were not strained by the extraordinary suddenness of the event.
+>
 > Compositions must be conceived the same way. If we cannot, in the flash of a single moment, see a composition in its absolute entirety, with every pertinent detail in its proper place, we are not genuine creators.”
 
 This is exactly what it felt like when I started writing my first book. I only had the strong, intuitive hunch that there is a “there” there. While writing I was surprised many times how the different puzzle pieces fit together. But there was never any doubt that they did even though I had no way to put into words why. I just knew that there was this insanely beautiful picture and all I had to do was bring it to paper.

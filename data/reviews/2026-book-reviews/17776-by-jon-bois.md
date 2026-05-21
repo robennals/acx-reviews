@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T03:35:15.000Z'
 slug: 17776-by-jon-bois
-wordCount: 3041
+wordCount: 3044
 readingTimeMinutes: 14
 source: gdoc
 tags:
@@ -56,9 +56,12 @@ Our culture has been radically transformed by technology and the Internet. Back 
 
 So what happened? Why isn't more modern creative writing like 17776? I want to consider a few possible reasons:
 
-> I. People are writing like this and I’m just not aware of it  
-> II. Technical limitations make it too challenging  
-> III. Distribution platforms create standardization  
+> I. People are writing like this and I’m just not aware of it
+>
+> II. Technical limitations make it too challenging
+>
+> III. Distribution platforms create standardization
+>
 > IV. Authors express their ideas through internalized formats
 
 _ _ _

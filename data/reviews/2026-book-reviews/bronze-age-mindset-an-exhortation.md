@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T01:25:04.000Z'
 slug: bronze-age-mindset-an-exhortation
-wordCount: 9304
+wordCount: 9305
 readingTimeMinutes: 42
 source: gdoc
 tags:
@@ -27,7 +27,8 @@ There is no shortage of left, right, and other diatribes and indictments against
 
 ## Part 1
 
-> “What Mount Aetna was to Empedocles—is there something like that to you? Is there something like that at all anymore?”  
+> “What Mount Aetna was to Empedocles—is there something like that to you? Is there something like that at all anymore?”
+>
 > – Bronze Age Pervert, _Bronze Age Mindset_
 
 In _Bronze Age Mindset_’s prologue, BAP makes it immediately clear that his mission is to “save you from a great ugliness” that has spread like sepsis throughout the modern world.[2] To that end, he looks to a classical vision of civilisation—and indeed all life—as oriented around a drive that relentlessly “reaches beyond itself” to achieve new heights of strength, power, and greatness as sublime as the starry heavens or the angels on a chapel ceiling.[3] By re-evaluating our parochial and sclerotic age through the young predator eyes of a nomadic horse-warrior stalking the open steppes of the bronze age, BAP hopes to sniff out signs of “this spirit returning surely in our time.”[4]

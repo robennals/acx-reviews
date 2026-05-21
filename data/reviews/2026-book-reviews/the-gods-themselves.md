@@ -15,8 +15,7 @@ tags:
   - Science
 ---
 
-1. ## “Against Stupidity…”
-    
+## 1\. “Against Stupidity…”
 
 Anyone who’s paying attention to modern science fiction should be worried. Wokeness is infiltrating the fan community left, right, and centre (but mostly left). To make matters worse, it goes back farther than anyone’s willing to admit! We need to take a step back, reconsider the genre’s past and future, and then get back to classic science fiction tropes, like alien threesomes.
 
@@ -24,8 +23,7 @@ _The Gods Themselves_ was published in 1972 by Isaac Asimov, who, along with Rob
 
 Fifty years is a long time; doubly so when those fifty years comprise _the second half of the twentieth century_. Do early-career Asimov and late-career Asimov even count as the same person at that point? After all, they lived in two very different worlds: one had the Internet, and one had WWII. Might Asimov’s style have shifted over time, until one had to classify his works differently depending on their time of writing? In fact, what are the odds that his style _didn’t_ shift? I wouldn’t take that bet.
 
-2. ## “The Gods Themselves…”
-    
+## 2\. “The Gods Themselves…”
 
 _The Gods Themselves_ opens with a petty academic dispute. A chemist discovers that the jar of tungsten on his desk has undergone a spontaneous transformation, becoming plutonium-186. Not only do elements not randomly transform like that, plutonium-186 _isn’t even physically possible—_ it has way too few neutrons. Investigating this finding, the chemist soon learns that this plutonium isotope originated in a parallel universe, one where the strong nuclear force is far stronger, allowing such a thing as plutonium-186 to exist. The stable, non-radioactive tungsten on his desk was replaced with a parallel-universe plutonium isotope whose radioactivity would increase over time as its lack of neutrons, better suited to the other universe’s laws of physics, adapted to its new surroundings and lost stability as a result.
 
@@ -53,8 +51,7 @@ Parentals can’t get pregnant without all three partners being at high enough e
 
 The third act is less relevant. It follows a disgruntled ex-scientist and his Lunar girlfriend as they try to figure out a solution to the whole Pump problem. Not necessarily the most compelling section, especially following the cliffhanger at the end of the second act— though it does wring a conclusion out of the A plot, which I’m told is a good thing for a novel to do. If you like moon colonies a whole lot, though, this will be your favourite part.
 
-3. ## “Contend in Vain”
-    
+## 3\. “Contend in Vain”
 
 This novel is the kind of well-polished, clean storytelling that earned Asimov his fame, though it’s hard not to notice differences between _The Gods Themselves_ and his earlier works, or contemporary SF. For instance, take “Nightfall,” his first big short story. As I read it, I had three main questions in mind:
 

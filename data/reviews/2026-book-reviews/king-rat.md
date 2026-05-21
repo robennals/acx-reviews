@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T00:09:53.000Z'
 slug: king-rat
-wordCount: 918
+wordCount: 921
 readingTimeMinutes: 5
 source: gdoc
 tags:
@@ -95,11 +95,9 @@ _King Rat_ is a **Crapsack World** story featuring an **Übermensch** protagonis
 
  **The Characters:**
 
-The King
-
-Grey
-
-Sean
+> The King  
+> Grey  
+> Sean
 
 You may notice that Sean is not mentioned in my Trope Plot summery.
 
