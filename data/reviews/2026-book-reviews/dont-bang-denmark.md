@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:52:56.000Z'
 slug: dont-bang-denmark
-wordCount: 3297
+wordCount: 3303
 readingTimeMinutes: 15
 source: gdoc
 tags:
@@ -50,7 +50,7 @@ Whatever is going on in this book is none of that.
 By far the most interesting of Roosh’s assertions is this one. He writes:
 
 > _“The Danish system of equality is further amplified by Jante Law, a set of cultural rules that is deeply engrained in every Dane. Its main tenet can be summed up as: “No one is superior to anyone else.” …_
-
+>
 > _“It’s taboo to show off, brag, or even indirectly show your value. You can’t talk about how much you enjoy your job, how you bought an awesome brand new anything, or how generally happy you are with life—anything that might show how you may be better than your audience”._
 
 So “Law of Jante” is a selection of satirical laws in the book _En flygtning krydser sit spor_ by Aksel Sandemose, written in 1933. The book is satirizing the insular small town mentality of the Danish island Mors. In the book it is teasingly called The Ten Commandments:
@@ -85,9 +85,9 @@ Apparently, the best way to sleep with women is to try to impress them with thin
 ## Danish women are ugly and manly anyway
 
 > _“One feature of the Danish girl that bothered me the most was her masculine walking style. She keeps her arms still while hunching her shoulders over like a wild boar, as if she wants to barrel into something. Sometimes she tilts her head down to add to the masculine effect. I don’t know where they learned how to walk, but I can assure you it’s not feminine.”_
-
+>
 > _“Their tits are of respectable size, but their asses are pancakes, not helped by their love of jeans so baggy that they often have to pull them up. If you’re an ass man like myself, you’ll be in tears by your second night in Denmark.”_
-
+>
 > _“Things get even worse when you take personality into account. Danish women possess no flirting ability. They have zero charm and zero allure. Not a feminine drop of blood courses through their veins. They don’t know how to treat you well, cook for you, or make you laugh. They don’t know how to look sexy. They won’t defer to your masculinity. They can fuck you, but no more. What they do have are pussies and opinions you really don’t care about hearing. That’s it. Denmark takes top prize for having the most unfeminine and androgynous robotic women I’ve met in the world.”_
 
 Two entire chapters go on and on like this.
@@ -103,7 +103,7 @@ Another interesting thing I’ve learned from this book is that women outside of
 Surprisingly, Roosh expresses much admiration for Denmark’s welfare system, which together with aforementioned janteloven is his theory on why pick up artistry doesn’t work in Denmark.
 
 > _“The Danish welfare state is admirable: every citizen receives fully covered cradle- to-grave services. A Danish person has no idea what it feels like to not have medical care or free access to university education. (…) To an American like myself, brainwashed to believe that you need to earn things like basic health care or education by working your ass off, it was quite a shock.”_
-
+>
 > _“(…) In spite of the negatives, I think the Danish economic and welfare system is superior to the American system for one simple reason: it’s fair.”_
 
 Like wealth, sex is redistributed in Denmark:
@@ -113,7 +113,7 @@ Like wealth, sex is redistributed in Denmark:
  Danish guys do things like “going to parties where they already know people” and “have a big social circle” and “act nice” to get laid.
 
 > _“Social circle is the main way Danish people get laid. One-night stands happen more from mutual introductions than cold approaches”(…) “This is probably why Danish guys love university bars so much—they’ll automatically know a lot of people.”_
-
+>
 > _“The optimum night game to have is this: nice guy who approaches a lot and isn’t shy about going for the one-night stand. I understand that this is a bit contradictory, since nice guys don’t go for one-night stands, but that’s the best way I can put it.”_
 
 The author considers our egalitarian culture a trade-off. He prefers acting cocky and mildly insulting girls. He likens America to a jungle where each man must fend for himself, and Denmark to a zoo where you get taken care of.
@@ -158,6 +158,8 @@ I’d want my money back.
 
 My favorite blogger, Ozy Brennan, has a post titled The Dark Secrets of the Alpha Male Revealed. In it, Ozy analyzes the men that they know that has a lot of female sex partners. Some of these you have heard before: they’re funny and/or good at something interesting, they’re not needy. they’re not against banging promiscuous women and they like a wide variety of women as opposed to only going after female Magic: The Gathering Players because logistically there are just not that many female card game nerds, never mind female card game nerds who are chaste yet DTF with only you.
 
+
+
 But, most importantly, they put a shit ton of hours into meeting women. Brennan observes,
 
 > _In the time periods when they’re acquiring lots of new sexual partners, sexually successful men tend to keep schedules I find tiring. “Oh, I have a costume party Friday night,” they say, “and then a picnic on Saturday afternoon, and then I’m going to drop in briefly to a dinner before I go off to movie night, and then most of my Sunday is consumed with a LARP but I have choir practice in the evening and the board game cafe’s on the way so I think if I skip debrief I can squeeze in a game of Hanabi.” And then I’m like “and you’re resting on Monday night? Non-euphemistic Netflix and chill?” and they’re like “nah, on Monday I’m going to spend two hours on Tinder.”_
@@ -165,7 +167,7 @@ But, most importantly, they put a shit ton of hours into meeting women. Brennan 
 And asks some hard questions:
 
 > _**Care more about having sex than you do about other things**__. There are sexually successful men who break every other rule I laid out: who are picky or boring or high-drama or mean or needy or nonvulnerable or who hate sluts or women or people. There are even sexually successful introverts. But if you want to be a sexually successful man, you have to care a lot about having sex._
-
+>
 > _“What?” you might say. “Obviously I care a lot about having sex. Who doesn’t?” But:_
 
 * _Are you willing to go out four times a week to meet women?_

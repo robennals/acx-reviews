@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4552
+wordCount: 4557
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -32,6 +32,7 @@ Even more interestingly, the sweep of history makes clear that multi-ethnic empi
 
 _Imagined Communities_ is all about Benedict Anderson's attempt to explain this phenomena and by the by ponder on nationalism.[2]
 
+>   
 > Theorists of nationalism have often been perplexed by, not to say irritated by, these three paradoxes:
 
 * Objective modernity to the historian's eye vs their subjective antiquity in the eyes of nationalists
@@ -40,6 +41,7 @@ _Imagined Communities_ is all about Benedict Anderson's attempt to explain this 
 
 Anderson's definition of a nation is [3]:
 
+>   
 > it is an imagined political community - and imagined as both inherently limited and sovereign.
 
 He then goes into some more detail:
@@ -54,6 +56,7 @@ He then goes into some more detail:
 
 He even addresses the common complaint on the same page:
 
+>   
 > With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it_invents_ nations where they do not exist'. The drawback to the formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'.
 
 ## Nationalism, a worked example
@@ -92,6 +95,7 @@ At this stage, in the 1700 and 1800s, this process is driven by market forces an
 
 Language turns out to have a special way of bonding people. Anderson is mostly focused on history but he does leave us with passages like:[11]
 
+>   
 > What the eye is to the lover - that particular, ordinary eye he or she is born with - language - whatever language history has made his or her mother-tongue - is to the patriot. Through that language, encountered at the mother's knee and parted with only at the grave, pasts are restored, fellowships are imagined, and futures dreamed.
 
 The second force of community formation was the colonial administration. Why did the people who bleed to fight off the Spanish Imperial yoke, inspired by hot new liberal ideas intent on remaking the world, keep the same boundaries? Because they had spent a few hundred years with these borders and because these subdivisions of the colonial administration were economically cut off from each other, as it was common practice in those times to not let colonists trade with each other and only trade with the motherland. Newspapers, the main source of community in this telling, were primarily trade and business focused, and thus stuck to the borders as well. It doesn't hurt that since these boundaries predate modern transportation, they conform to the geography well.
@@ -116,6 +120,7 @@ These factors might seem idiosyncratic to the Spanish Empire, but the basic outl
 
 This quote about Indonesia during its revolution in the 1940s is illustrative.[13]
 
+>   
 > The case of Indonesia affords a fascinatingly intricate illustration of this process, not least because of its enormous size, huge populations (even in colonial times), geographical fragmentation (about 3000 islands), religious variegation (Muslims, Buddhists, Catholics, assorted protestants, Hindu-Balinese and 'animists') and ethnolinguistic diversity (well over 100 distinct groups) [...]  
 > Nothing nurtured this bonding more than the schools that the regime in Batavia set up in increasing numbers after the turn of the century. [...]  
 > From all over the vast colony, but nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle school; and from every part of the realm in the tertiary institutions of the capital. [...]  

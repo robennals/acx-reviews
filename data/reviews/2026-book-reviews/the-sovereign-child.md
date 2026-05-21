@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T04:53:42.000Z'
 slug: the-sovereign-child
-wordCount: 9095
+wordCount: 9087
 readingTimeMinutes: 41
 source: gdoc
 tags:
@@ -19,7 +19,7 @@ tags:
 
 Aaron Stupple's five-year-old son has been eating ice cream "almost exclusively" for the past few months. Prior to that, his staple was Oreo cookies. As a caring and conscientious father, Stupple ensures there are copious amounts of junk food available to his children at all times, strategically stocked in easy-to-reach cupboards.
 
-The first few sections of Stupple's 2025 book, _The Sovereign Child_[1], contain such a rich bounty of potential ragebait that I agonised over selecting the juiciest bits for your titillation. Here's his stance on childhood nutrition:
+The first few sections of Stupple's 2025 book, _The Sovereign Child_[^1], contain such a rich bounty of potential ragebait that I agonised over selecting the juiciest bits for your titillation. Here's his stance on childhood nutrition:
 
 > _Should parents really just let their kids eat whatever they want? The short answer is yes._
 
@@ -35,7 +35,7 @@ In case you didn't get the picture yet: a Sovereign Child is not required to say
 
 The title of Stupple's book riffs on The Sovereign Individual, a foundational text of techno-libertarianism. But it owes more of its heritage to **Taking Children Seriously (TCS)**, a noncoercive parenting movement that had a moment in the United Kingdom in the 1990s.
 
-The movement has started picking up steam again in recent years, driven in large part by the growing influence of David Deutsch—a physicist and author who helped to root TCS within Karl Popper's tradition of critical rationalism.[2]
+The movement has started picking up steam again in recent years, driven in large part by the growing influence of David Deutsch—a physicist and author who helped to root TCS within Karl Popper's tradition of critical rationalism.[^2]
 
 As both a fan of Deutsch and a new parent looking for guidance, I was about as easy a sell as Stupple could hope for.
 
@@ -111,7 +111,7 @@ I would just say that we don't know the counterfactual. My relationship with my 
 
 In either case, one common theme throughout this review will be that I am, in fact, a lowly-minded grub who is interested primarily in _consequences_.
 
-What I am not: a creature of pure crystalline philosophy. I do not hold non-coercion to be a sacred and inviolable principle. If my kids turn out to be basement-dwelling, brain-rotted, screen-addicted slobs, then I would consider myself to have failed as a parent. I suspect Stupple would too, given how he reassures us at every opportunity that his kids are normal weight, have broad interests, get about as much sleep as other kids, etc.[3]
+What I am not: a creature of pure crystalline philosophy. I do not hold non-coercion to be a sacred and inviolable principle. If my kids turn out to be basement-dwelling, brain-rotted, screen-addicted slobs, then I would consider myself to have failed as a parent. I suspect Stupple would too, given how he reassures us at every opportunity that his kids are normal weight, have broad interests, get about as much sleep as other kids, etc.[^3]
 
 So let's turn to one of the positive consequences of raising a Sovereign Child, which to me is the most attractive prize: building a deeply trusting and open relationship with your kids.
 
@@ -274,7 +274,7 @@ So too with screens. Again, there's no bullet Stupple won't bite here. If your b
 
 What about the critical developmental window, in which children can acquire language, music, maths, and physical skills at a rate they'll never match again? Stupple acknowledges the tradeoff, but counters that screens also offer infinite virtual learning opportunities: if kids are remarkable learners, maybe they're picking up lots of other things that are harder to measure.
 
-Personally I am skeptical that tablet-raised kids are blessed with any special advantages. Contra the 'digital natives' hype, my impression is that the generation born with an iPad in their hands is borderline technologically illiterate.[4] But I am happy to grant that kids who are banned or heavily restricted from screen time are definitely missing out on _something_, even if it's just watching lots of cool YouTube videos.
+Personally I am skeptical that tablet-raised kids are blessed with any special advantages. Contra the 'digital natives' hype, my impression is that the generation born with an iPad in their hands is borderline technologically illiterate.[^4] But I am happy to grant that kids who are banned or heavily restricted from screen time are definitely missing out on _something_, even if it's just watching lots of cool YouTube videos.
 
 Then we have to consider the potential downsides. Is it harmful for babies to stare at a flat screen instead of the contours of a human face? If so, for how long, and at which age? Are there any documented impacts on attention span? Does the type of media matter? Most importantly: are any of these effects path-dependent—do they alter brain structure in ways that persist for life?
 
@@ -300,7 +300,7 @@ I think this is a mistake, and a degradation of Popper's epistemology.
 
 Stupple is comfortable calling alcohol a poison because we understand exactly how it affects our bodies, and why it is especially harmful for developing brains. But that wasn't always the case: kids used to drink beer on a daily basis; babies were sometimes given hard liquor to calm them down. Someone who had _reasonable suspicions_ about alcohol causing damage to developing brains, despite not having a mechanistic theory, would ultimately have been right. It might be that they only had lousy correlational evidence and pattern-matching to go on. But that's how many theories are born!
 
-My favourite example is the history of scurvy, which I believe I have cribbed from Bruce Nielson's podcast The Theory of Anything.[5]
+My favourite example is the history of scurvy, which I believe I have cribbed from Bruce Nielson's podcast The Theory of Anything.[^5]
 
 Imagine you're a ship's surgeon in 1800. You know that lemon juice prevents scurvy—there was a controlled trial in 1747, and by 1795 the Royal Navy is issuing it to sailors with dramatic results. But you have no idea _why_. Sixty years later, the Navy switches to West Indian limes because they're cheaper, and stores the juice in copper-lined containers. Both changes destroy the vitamin C content, and scurvy comes roaring back. It's not until the 1930s that chemists isolate ascorbic acid, aka vitamin C, and it takes even longer still to get a truly mechanistic theory: turns out ascorbic acid is a cofactor in the production of collagen, a protein that helps to maintain and repair connective tissue and stop your teeth falling out and so on. So it's a **huge mistake** to ignore pre-theoretical observations or associations. If you refused to act on the lemon-juice trial until you had a deep explanation, your sailors would be dying for centuries.
 
@@ -370,7 +370,7 @@ For instance: the existence of a g-factor for intelligence is one of the best-re
 
 There's really something to this! Deutsch's number one acolyte Brett Hall has a nice example about wanting to learn to speak fluent Mandarin. We tend to think this would be really hard, or even impossible. But the dumbest guy in China has been doing it since he was in short pants! If you _really_ wanted to learn to speak perfect Mandarin, you could. Incentives, interest, and having the right cultural modules explain more of the apparently glaring gaps in cognitive performance than the hereditarian crowd would have you believe.
 
-But the theory breaks down at the edges. Is a person with severe autism still a universal explainer? Is the reason they're non-verbal just that they're not sufficiently motivated to learn how to talk? How does the universal explainer theory explain the garden-variety cognitive decline associated with aging, or being drunk? [6]
+But the theory breaks down at the edges. Is a person with severe autism still a universal explainer? Is the reason they're non-verbal just that they're not sufficiently motivated to learn how to talk? How does the universal explainer theory explain the garden-variety cognitive decline associated with aging, or being drunk?[^6]
 
 A few hardline crit rats are willing to bite these bullets. But the more usual save is to make a distinction between the **software** our brains are running (i.e. the universal explainer algorithm) and the **hardware** that it runs on. If the hardware in an autistic person's brain is damaged, we can find a way to fix it. If we build an AGI with vastly more memory and faster processing speeds than us, we can find a way to augment our brains in the same way: after all, it's not in violation of the laws of physics.
 
@@ -386,7 +386,7 @@ OK, cool, except...we not only can't do that with our current knowledge, we don'
 
 **AGI doomers are silly, cos whatever advantages our silicon brothers enjoy from massively parallel thinking at the speed of light, we can figure out how to match.**
 
-OK, cool, except...we not only can't do that with our current knowledge, we don't have the _slightest clue_ how to do so! In the real world, path dependence matters: either we're confident we'll unlock this knowledge before we get AGI—why?—or hoping that our universal explainer-ship means we'll all hold hands and sing kumbayah, despite having a less than stellar track record on this front ourselves, including a possible existence proof for one species of universal explainer wiping their 'less advanced' cousins out of existence (RIP neanderthal bros).[7]
+OK, cool, except...we not only can't do that with our current knowledge, we don't have the _slightest clue_ how to do so! In the real world, path dependence matters: either we're confident we'll unlock this knowledge before we get AGI—why?—or hoping that our universal explainer-ship means we'll all hold hands and sing kumbayah, despite having a less than stellar track record on this front ourselves, including a possible existence proof for one species of universal explainer wiping their 'less advanced' cousins out of existence (RIP neanderthal bros).[^7]
 
 **Coercion is never justified, cos there's always a win-win solution.**
 
@@ -452,13 +452,13 @@ So maybe I'll one day build enough confidence to buy my daughter an iPad and giv
 
 ### Notes:
 
-> [1] Written in collaboration with Logan Chipkin. Stupple is the primary author, and AFAIK the examples come from his parenting, so for simplicity I will attribute passages and ideas to him throughout.  
-> [2] The original TCS founder, Sarah Fitz-Claridge, says she hadn't even heard of Popper prior to meeting Deustch. Incidentally, Fitz-Claridge is also working on a book. In the meantime, she has written a comprehensive list of FAQs [here](https://takingchildrenseriously.com/faq/).  
-> [3] For e.g, and to balance some of the ragebait from earlier:  
+[^1]: Written in collaboration with Logan Chipkin. Stupple is the primary author, and AFAIK the examples come from his parenting, so for simplicity I will attribute passages and ideas to him throughout.  
+[^2]: The original TCS founder, Sarah Fitz-Claridge, says she hadn't even heard of Popper prior to meeting Deustch. Incidentally, Fitz-Claridge is also working on a book. In the meantime, she has written a comprehensive list of FAQs [here](https://takingchildrenseriously.com/faq/).  
+[^3]: For e.g, and to balance some of the ragebait from earlier:  
 > _My son’s reality is the total opposite. He is quick to exchange his tablet for a friendly face. He welcomes adults and siblings into his world for hours of imaginative play. People are impressed with his vocabulary. He consoles his little sister when she’s upset and plays pranks on adults. And he knows a ton of stuff. I’m not saying YouTube is making him a genius, but I’m convinced it’s not harming him, and I’m confident it is enriching his life far more than if he was forced to play only with wooden blocks and puzzles._  
-> [4] Citation needed. I would be interested to hear more about whether this is wrong.  
-> [5] Along with the broad strokes of many of the critiques I outline here. Bruce really puts the 'critical' in critical rationalism, which is not as common a virtue as you might expect.  
-> [6] For more criticisms in this line, see Bruce Nielson's Theory of Anything episodes 53-55.  
-> [7] There's evidence for symbolic thought, cave art, and personal ornamentation, but that may not be enough for open-ended explanatory universality, in which case the Neanderthals were 'merely' highly intelligent, social apes. But still...it doesn't exactly fill you with confidence, does it?
+[^4]: Citation needed. I would be interested to hear more about whether this is wrong.  
+[^5]: Along with the broad strokes of many of the critiques I outline here. Bruce really puts the 'critical' in critical rationalism, which is not as common a virtue as you might expect.  
+[^6]: For more criticisms in this line, see Bruce Nielson's Theory of Anything episodes 53-55.  
+[^7]: There's evidence for symbolic thought, cave art, and personal ornamentation, but that may not be enough for open-ended explanatory universality, in which case the Neanderthals were 'merely' highly intelligent, social apes. But still...it doesn't exactly fill you with confidence, does it?
 >
 >

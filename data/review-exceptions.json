@@ -30,5 +30,11 @@
   },
   "capitalist-realism": {
     "disableItalicAsBlockquote": true
+  },
+  "plutarchs-parallel-lives-tiberius-and-gaius-gracchi": {
+    "allowBoldHeadingWithPunct": true
+  },
+  "the-ghost-in-my-brain": {
+    "disableItalicAsBlockquote": true
   }
 }

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T20:14:56.000Z'
 slug: alice-in-puzzle-land-by-raymond-smullyan
-wordCount: 3073
+wordCount: 3075
 readingTimeMinutes: 14
 source: gdoc
 tags:
@@ -106,7 +106,9 @@ Most of Smullyan’s puzzles here would present a setup with one member of each 
 
 Since Smullyan wrote the book in 1982, people have written procedural puzzle generators for this puzzle type, and mapped the solution space in some depth. And this specific puzzle type has seen a revival as a minigame in the video game _Blue Prince_:
 
-![Blue Box: “This statement appears on another box.” White Box: “The Blue Box is empty” Black Box: “This statement appears on another box.” ](https://acximages.ennals.org/images/2026-book-reviews/c2d2985869ab72f3.png)_Caption:_ _Blue Box__: This statement appears on another box. White Box: The blue box is empty. Black Box: This statement appears on another box._  
+![Blue Box: “This statement appears on another box.” White Box: “The Blue Box is empty” Black Box: “This statement appears on another box.” ](https://acximages.ennals.org/images/2026-book-reviews/c2d2985869ab72f3.png)
+
+> _Caption:_ _Blue Box__: This statement appears on another box. White Box: The blue box is empty. Black Box: This statement appears on another box._  
 
 _Blue Prince’s_ parlor puzzles operate on similar rules to Smullyan’s classic riddle form:
 

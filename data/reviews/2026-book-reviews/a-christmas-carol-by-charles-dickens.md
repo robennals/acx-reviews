@@ -36,7 +36,7 @@ Charles Dickens’ _A Christmas Carol_ has planted itself as a foundational fixt
 
 If _A Christmas Carol_—or a surface-level engagement with it—has comfortably settled into the canon of Christmas, it has also profoundly sunk itself into the canon of my own life. Since this is a review of the book and not of me, I will spare you the details, but suffice it to say I read it every Christmas (my kids are now old enough to suffer through it being read aloud), build a Lego re-creation every second Sunday of Advent (yes, Virginia, there is an official Dickens Lego set), and have mentally added it to the bundle of books that will be distributed to all of my grand-progeny upon my death.
 
-Everyone quotes the book (often without knowing) when they say “humbug” at Christmas;[1] everyone quotes it (definitely knowing) when they say “God bless us, every one!” Everyone says _The Muppet Christmas Carol_ is their favorite adaptation—which is not my opinion, but more on that later. Everyone knows the story: Scrooge’s irredeemable miserly nature and his miraculous repentance upon seeing his gravestone and coming face to face with his own death.
+Everyone quotes the book (often without knowing) when they say “humbug” at Christmas;[^1] everyone quotes it (definitely knowing) when they say “God bless us, every one!” Everyone says _The Muppet Christmas Carol_ is their favorite adaptation—which is not my opinion, but more on that later. Everyone knows the story: Scrooge’s irredeemable miserly nature and his miraculous repentance upon seeing his gravestone and coming face to face with his own death.
 
 ## Except that last point is completely wrong.
 
@@ -52,7 +52,7 @@ Later that night, on an errand of warning, Scrooge’s former partner Marley, de
 
 No such luck: each ghost visits in turn and conducts a critical review of Scrooge’s life, and the lives of those around him, but only during Christmastime. (If Scrooge ever had any Important Moral Lessons during the summer, the spirits didn’t think it necessary to include it in the tour). We conclude with the Ghost of Christmas Yet to Come showing Scrooge his own lonely grave, a sight which is too much for poor old Scrooge.
 
-Scrooge, “holding up his hands in a last prayer to have his fate reversed,” repents of his ways and pledges to honor Christmas throughout the year: “Oh, tell me I may sponge away the writing on this stone!” Frightfully good stuff. He spends Christmas Day undoing all the bad he did the day before: he pays a young boy[2] handsomely to anonymously deliver an enormous Christmas turkey to poor Bob Cratchit; he finds the two volunteers and pledges some cash; he joins Fred for dinner—and more. God Bless Us, Every One!
+Scrooge, “holding up his hands in a last prayer to have his fate reversed,” repents of his ways and pledges to honor Christmas throughout the year: “Oh, tell me I may sponge away the writing on this stone!” Frightfully good stuff. He spends Christmas Day undoing all the bad he did the day before: he pays a young boy[^2] handsomely to anonymously deliver an enormous Christmas turkey to poor Bob Cratchit; he finds the two volunteers and pledges some cash; he joins Fred for dinner—and more. God Bless Us, Every One!
 
 Scrooge’s repentance constitutes a sort of massive Bayesian update: at the beginning of the story, Scrooge is a miserable git. Being hated and shunned “was the very thing he liked. To edge his way along the crowded paths of life, warning all human sympathy to keep its distance.” But by the end of the story, he becomes “as good a man as the old city knew.”
 
@@ -139,7 +139,7 @@ Quite early on the ghostly tour, thanks to the hard work of the Ghosts of Christ
 
 > ‘Ghost of the Future!’ he exclaimed, ‘I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I was, I am prepared to bear you company, and do it with a thankful heart.’
 
-The ghost takes Scrooge into the future and first chooses to show Scrooge a conversation between some businessmen. They’re discussing a recent death, one that isn’t likely to have any mourners of any kind—unless lunch is provided, in which case they’d consider it. One businessman concludes, “I’ll offer to go, if anyone else will. When I come to think of it, I’m not at all sure that I wasn’t [the deceased’s] most particular friend; for we used to stop and speak whenever we met.”[4]
+The ghost takes Scrooge into the future and first chooses to show Scrooge a conversation between some businessmen. They’re discussing a recent death, one that isn’t likely to have any mourners of any kind—unless lunch is provided, in which case they’d consider it. One businessman concludes, “I’ll offer to go, if anyone else will. When I come to think of it, I’m not at all sure that I wasn’t [the deceased’s] most particular friend; for we used to stop and speak whenever we met.”[^4]
 
 ## The scene perplexes Scrooge somewhat, as he can’t imagine who they could be referring to. Not Marley, surely, as he’s been dead for years. Scrooge then looks around trying to find his future self:
 
@@ -189,13 +189,13 @@ Notably, Fred, Scrooge’s nephew, features in the end for Tiny Tim—but _not f
 
 This future Scrooge never joins Fred for dinner. And, from the visions bestowed by Ghost of Christmas Yet to Come, no inheritance is divested to either Cratchit or Fred. There is no indication that Fred attends the funeral.
 
-This is the new information that causes Scrooge’s Bayesian update into honoring Christmas and his fellow man: not that Scrooge will die, but that he will die unmourned, leaving absolutely nothing to the world and to those around him.[5] To put it bluntly: at least _Scrooge_ felt sad when Marley died; _no one_ does when Scrooge dies. Marley’s floor was one; Scrooge doesn’t even manage to match it.
+This is the new information that causes Scrooge’s Bayesian update into honoring Christmas and his fellow man: not that Scrooge will die, but that he will die unmourned, leaving absolutely nothing to the world and to those around him.[^5] To put it bluntly: at least _Scrooge_ felt sad when Marley died; _no one_ does when Scrooge dies. Marley’s floor was one; Scrooge doesn’t even manage to match it.
 
 It’s worth noting the epistemological technique that the Ghost of Christmas Yet to Come has been carefully leveraging. If Scrooge connects the dots too soon, he’s liable to engage in motivated reasoning, viewing every new piece of evidence through his existing self-conception. By _hiding_ the body’s identity, the ghost allows Scrooge to draw his own conclusions about the barrenness of the death from the evidence provided—conclusions which get applied to himself only when he sees the writing on the stone.
 
 This is what most adaptations miss: they frame the graveyard scene as the moment when Scrooge comes to terms with his own mortality. The gravestone isn’t important! In Scrooge’s moment of revelation, it is simply an equals sign that forces him to re-contextualize what he has been shown: on one side of the equation is Scrooge’s own person; the other side is the host of lonely and damning moments that the Ghost of Christmas Yet to Come has carefully assembled.
 
-The ghost’s “enormous accumulation of small but unanimous facts”[6] tip the scale. Scrooge Changes His Mind. He cannot continue his life on his current course to this end. He must find a way to give _back_ to the world and to his fellow man; he must find a way for his death to more closely resemble Tiny Tim’s. His must be a death that “sows the world with life immortal.”
+The ghost’s “enormous accumulation of small but unanimous facts”[^6] tip the scale. Scrooge Changes His Mind. He cannot continue his life on his current course to this end. He must find a way to give _back_ to the world and to his fellow man; he must find a way for his death to more closely resemble Tiny Tim’s. His must be a death that “sows the world with life immortal.”
 
 * * *
 
@@ -207,7 +207,7 @@ The popular framing of the story focuses on Scrooge’s miserly nature, but _A C
 
 We might say that charitable giving is _necessary_ but not _sufficient_. In the final stave, Scrooge does donate to the philanthropists and includes “a great many back-payments” into the gift. He’s clearly putting his considerable wealth to use for the sake of the general populace. But Dickens spends much more time on Scrooge’s reconciliation with his nephew and his new partnership with Bob Cratchit: the people in his life who he can most affect with his time and companionship.
 
-I said earlier that _The Muppet Christmas Carol_ was not my favorite retelling, for that honor belongs to a stage adaptation done by Colleen Madden.[7] Her version thoroughly understands this lesson of the tale and focuses on the neighbor that Scrooge affects the most through his transformation: Tiny Tim.
+I said earlier that _The Muppet Christmas Carol_ was not my favorite retelling, for that honor belongs to a stage adaptation done by Colleen Madden.[^7] Her version thoroughly understands this lesson of the tale and focuses on the neighbor that Scrooge affects the most through his transformation: Tiny Tim.
 
 The play opens on a cheery Christmas scene: children are playing around an enormous tree; adults are singing carols. Only the host seems rather put-out and melancholy. As the festivities continue, the kids start begging for the traditional Christmas story and they select the host of the event to be the storyteller. The host apologizes: he doesn’t think he has the stomach for it this year.
 
@@ -217,7 +217,7 @@ A friend of the host is cajoled into telling the story and, after sitting in the
 
 Madden preserves much of Dickens’ original language and the host narrates the story faithfully and beautifully. But as the story comes to its conclusion, Madden brings the audience into the secret of her framing device: the host is Tiny Tim, now an adult, grown up and healed by Scrooge’s generosity and friendship. This is not Tim’s party. This is Scrooge’s party, the first Christmas party since Scrooge’s death, and it is filled with his friends, family, and loved ones who all remember him and honor Christmas.
 
-The framing device, while simple, would be saccharine in the hands of a less skilled adapter. Madden understands that, just as _A Christmas Carol_ must start with death, it must also end with it. For it is only upon your death when you can see the final culmination of your life. Stephen King writes in _Life of Chuck_, another excellent tale incorporating foreknowledge of death, that the main character’s life contains “small income, large disbursements.” By returning your modest gifts to your community, you multiply them a hundredfold. After death, like Marley and his fellow dead, you are consigned to only watch—and maybe regret. You must make your hay while the sun shines.[8]
+The framing device, while simple, would be saccharine in the hands of a less skilled adapter. Madden understands that, just as _A Christmas Carol_ must start with death, it must also end with it. For it is only upon your death when you can see the final culmination of your life. Stephen King writes in _Life of Chuck_, another excellent tale incorporating foreknowledge of death, that the main character’s life contains “small income, large disbursements.” By returning your modest gifts to your community, you multiply them a hundredfold. After death, like Marley and his fellow dead, you are consigned to only watch—and maybe regret. You must make your hay while the sun shines.[^8]
 
 Scrooge gives Tiny Tim health and a full life but the gift that Madden’s adaptation focuses on is the same quality that Dickens imparts upon us in the final lines of the book: “he knew how to keep Christmas well.” Notably, this is not a gift that charitable giving could impart: this is a gift that is only possible through the investment of a personal relationship.
 
@@ -225,7 +225,7 @@ Scrooge gives Tiny Tim health and a full life but the gift that Madden’s adapt
 
 > [Christmas is] the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut-up hearts freely, and to think of people below them as if they really were **fellow-passengers to the grave**, and not another race of creatures bound on other journeys.
 
-We're all going to the same end: death.[9] Scrooge's transformation is not from miser to philanthropist: it is from a man who refuses to acknowledge his fellow travelers to one who journeys alongside them in true fellowship.
+We're all going to the same end: death.[^9] Scrooge's transformation is not from miser to philanthropist: it is from a man who refuses to acknowledge his fellow travelers to one who journeys alongside them in true fellowship.
 
 We can all be like Charlie Brown and lament the commercialization of Christmas, but Fred’s belief was true in 1843 and I still believe it’s true now. Christmas means something and deserves to be honored for all the ways that it helps us re-kindle our disposition to “sow the world with life immortal” while we still have that life in us. And, if you are looking for ways to keep Christmas well, I recommend you add reading this tale to your list. Like Scrooge, you may learn something.
 
@@ -241,24 +241,24 @@ We can all be like Charlie Brown and lament the commercialization of Christmas, 
 
 ## Footnotes
 
-[1] “Bah” does not precede it at any point in the story.
+[^1]: “Bah” does not precede it at any point in the story.
 
-[2] Probably not the _same_ young boy; London street urchins are pretty interchangeable—a fact that Sherlock probably relied on for his Irregulars.
+[^2]: Probably not the _same_ young boy; London street urchins are pretty interchangeable—a fact that Sherlock probably relied on for his Irregulars.
 
-[3] Whether Marley is in Purgatory or Hell is probably a question without an answer. For one, Dickens wasn’t Catholic and likely didn’t have any conception of Purgatory. My family, who argue that Marley is in Purgatory, point out that a soul in Hell is not capable of charitable acts (in addition to the angle above). Since Marley is clearly warning Scrooge out of a sense of charity, he cannot be in Hell. Fair enough under that premise, but I don’t think Dickens is operating under a Catholic framework. As stated, we spent quite a lot of wine on the question.
+[^3]: Whether Marley is in Purgatory or Hell is probably a question without an answer. For one, Dickens wasn’t Catholic and likely didn’t have any conception of Purgatory. My family, who argue that Marley is in Purgatory, point out that a soul in Hell is not capable of charitable acts (in addition to the angle above). Since Marley is clearly warning Scrooge out of a sense of charity, he cannot be in Hell. Fair enough under that premise, but I don’t think Dickens is operating under a Catholic framework. As stated, we spent quite a lot of wine on the question.
 
-[4] Ah, yes, the peak behaviors of the most particular friend: periodic small talk in the street.
+[^4]: Ah, yes, the peak behaviors of the most particular friend: periodic small talk in the street.
 
-[5] Interestingly, the new evidence is _also_ not one of his damnation.  If that were true, the ghost of Jacob Marley, apparently damned and beyond saving, would have done it immediately. No other ghosts required. _Mickey’s Christmas Carol_ spins the final scene this way, with Peg Leg Pete cackling as Scrooge McDuck falls into a fiery Hell. That scene gave us _nightmares_ as a kid. The real _Christmas Carol_, however, makes its argument without an appeal to the afterlife.
+[^5]: Interestingly, the new evidence is _also_ not one of his damnation.  If that were true, the ghost of Jacob Marley, apparently damned and beyond saving, would have done it immediately. No other ghosts required. _Mickey’s Christmas Carol_ spins the final scene this way, with Peg Leg Pete cackling as Scrooge McDuck falls into a fiery Hell. That scene gave us _nightmares_ as a kid. The real _Christmas Carol_, however, makes its argument without an appeal to the afterlife.
 
-[6] G. K. Chesterton, _Orthodoxy_
+[^6]: G. K. Chesterton, _Orthodoxy_
 
-[7] Colleen Madden is an acclaimed actress and core company member of American Player’s Theater in Spring Green, Wisconsin. If you’re unfamiliar with this jewel of the Midwest—and I assume you are—you’ll forgive me a quick digression. The outdoor theater, nestled in the woods of Wisconsin, is one of the most remarkable places to watch Shakespeare in the world. My father took me to see _A Midsummer Night’s Dream_ when I was nine. It was a cold October evening. The moon was full, the bats were out, and we drank hot chocolate as we watched Puck make merry mischief in the woods of Athens—I mean Wisconsin. This year I had the privilege to take my daughters, seven and nine, for their reprisal of Midsummer. The bats, the moon, and the players were just as magical as I remember—and the hot chocolate was better, as I could put brandy in it. If you ever have occasion to go, do not hesitate.
+[^7]: Colleen Madden is an acclaimed actress and core company member of American Player’s Theater in Spring Green, Wisconsin. If you’re unfamiliar with this jewel of the Midwest—and I assume you are—you’ll forgive me a quick digression. The outdoor theater, nestled in the woods of Wisconsin, is one of the most remarkable places to watch Shakespeare in the world. My father took me to see _A Midsummer Night’s Dream_ when I was nine. It was a cold October evening. The moon was full, the bats were out, and we drank hot chocolate as we watched Puck make merry mischief in the woods of Athens—I mean Wisconsin. This year I had the privilege to take my daughters, seven and nine, for their reprisal of Midsummer. The bats, the moon, and the players were just as magical as I remember—and the hot chocolate was better, as I could put brandy in it. If you ever have occasion to go, do not hesitate.
 
 Anyway, Madden produced this excellent adaptation for the Children’s Theater of Madison as part of a partnership with APT. I was lucky enough to watch it for ten beautiful years before Madison swapped it out for a milquetoast abomination where the true meaning of Christmas is, apparently, improved labor relations between the managerial and working class. Since I can no longer make the pilgrimage to see it, I have been attempting to get my hands on Madden’s original script ever since and have exhausted all of my insider contacts. If anyone reading this can do the impossible, I will pay good money for it.
 
 My editors suggested I cut this footnote, but if I convince even one of you to go to APT this season, it’s worth the three hundred words.
 
-[8] For a recent and moving depiction of this attitude, see Ross Douthat's _Interesting Times_ interview with Ben Sasse in April 2026. At the time of writing, Ben is four months into a Stage 4 pancreatic cancer diagnosis and is still very much making hay.
+[^8]: For a recent and moving depiction of this attitude, see Ross Douthat's _Interesting Times_ interview with Ben Sasse in April 2026. At the time of writing, Ben is four months into a Stage 4 pancreatic cancer diagnosis and is still very much making hay.
 
-[9] As Chesterton put it in _The Man Who Was Thursday,_ “We’re all in the same boat, and jolly sea-sick.”
+[^9]: As Chesterton put it in _The Man Who Was Thursday,_ “We’re all in the same boat, and jolly sea-sick.”

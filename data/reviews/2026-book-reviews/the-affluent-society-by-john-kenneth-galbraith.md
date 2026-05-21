@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-14T18:39:27.000Z'
 slug: the-affluent-society-by-john-kenneth-galbraith
-wordCount: 5840
+wordCount: 5837
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -19,7 +19,7 @@ In the introduction to the 40th anniversary edition of _The Affluent Society_, J
 
 “On two matters this book was right, and before its time. On one, time and economic changes have shown it to be wrong. I begin with the error.
 
-Running through the early editions of _The Affluent Society_ was a strongly expressed warning about inflation. It was the prime threat hovering over a society of general well-being. Inflation or unemployment. This is no longer so clearly the case.” (intro) [1]
+Running through the early editions of _The Affluent Society_ was a strongly expressed warning about inflation. It was the prime threat hovering over a society of general well-being. Inflation or unemployment. This is no longer so clearly the case.” (intro)[^1]
 
 As he is so fond of reminding us, the enemy of ideas is events rather than other ideas, and from his perspective in 1998, both inflation and unemployment were low, seemingly putting that problem to bed.
 
@@ -83,7 +83,7 @@ However, Galbraith demonstrates convincingly that what we value about the curren
 
 > “if anyone has surviving doubts as to where the real priorities lie, let him apply a simple test. Let him assume that a President…has the opportunity of defending a large increase in man-hour productivity which has been divided equally between greatly increased total output and greatly increased unemployment. And let it be assumed that as an alternative he might choose unchanged production which has left everyone employed. That full employment is more desirable than increased production combined with unemployment would be clear alike to the most sophisticated and the most primitive politician.” (144)
 
-For proof that the conventional wisdom on employment remains king we need look no further than the current hysteria over AI. As it currently stands, [2] AI is quite similar to any other technology. It offers the promise of massive productivity gains, which has buoyed the stock market to unprecedented heights in spite of the unprecedented incompetence of the current administration. Yet just [20%](https://hai.stanford.edu/ai-index/2026-ai-index-report/public-opinion) of the American public expects it to have a positive impact on the economy. The widespread fear, especially prominent among my age group, is that AI will usher in a “jobs apocalypse,” where robots will do all our work for us. The horror! There’s a classic economics [tale](https://marginalrevolution.com/marginalrevolution/2019/08/spoons-are-in-aisle-9.html) that illustrates the absurdity of this view:
+For proof that the conventional wisdom on employment remains king we need look no further than the current hysteria over AI. As it currently stands,[^2] AI is quite similar to any other technology. It offers the promise of massive productivity gains, which has buoyed the stock market to unprecedented heights in spite of the unprecedented incompetence of the current administration. Yet just [20%](https://hai.stanford.edu/ai-index/2026-ai-index-report/public-opinion) of the American public expects it to have a positive impact on the economy. The widespread fear, especially prominent among my age group, is that AI will usher in a “jobs apocalypse,” where robots will do all our work for us. The horror! There’s a classic economics [tale](https://marginalrevolution.com/marginalrevolution/2019/08/spoons-are-in-aisle-9.html) that illustrates the absurdity of this view:
 
 > “Milton Friedman was once visiting China when he was shocked to see that, instead of modern tractors and earth movers, thousands of workers were toiling away building a canal with shovels. He asked his host, a government bureaucrat, why more machines weren’t being used. The bureaucrat replied, ‘You don’t understand. This is a jobs program.’ To which Milton responded, ‘Oh, I thought you were trying to build a canal. If it’s jobs you want, you should give these workers spoons, not shovels!’”
 
@@ -107,7 +107,7 @@ With that objection laid to rest, we can turn to the problem of how best to redi
 
 The problem with the current system is that it fails to provide security. Unemployment benefits are supposed to be temporary and many programs have work requirements. By contrast, the NIT could have the base payments set high enough to provide one’s basic needs. Then unemployment is not such a disaster, because there’s no danger that you’ll end up homeless. And if unemployment spikes due to large productivity gains, for example due to AI, then the extra revenue from the top can easily be converted into higher base payments, neatly spreading the benefit.
 
-And as it turns out, the NIT has many other features to recommend it. So many, in fact, that in the height of irony it was popularized by none other than the arch-libertarian Milton Friedman in _Capitalism and Freedom_, four years after the publication of _The Affluent Society_. [3] He [makes the case](https://en.wikipedia.org/wiki/Milton_Friedman#Governmental_involvement_in_the_economy) with abundant clarity:
+And as it turns out, the NIT has many other features to recommend it. So many, in fact, that in the height of irony it was popularized by none other than the arch-libertarian Milton Friedman in _Capitalism and Freedom_, four years after the publication of _The Affluent Society_.[^3] He [makes the case](https://en.wikipedia.org/wiki/Milton_Friedman#Governmental_involvement_in_the_economy) with abundant clarity:
 
 > “The advantages of this arrangement are clear. It is directed specifically at the problem of poverty. It gives help in the form most useful to the individual, namely, cash. It is general and could be substituted for the host of special measures now in effect. It makes explicit the cost borne by society. It operates outside the market. Like any other measures to alleviate poverty, it reduces the incentives of those helped to help themselves, but it does not eliminate that incentive entirely, as a system of supplementing incomes up to some fixed minimum would. An extra dollar earned always means more money available for expenditure.”
 
@@ -145,8 +145,8 @@ So in conclusion, if you’ve made it this far in the review I highly recommend 
 
 ## Footnotes
 
-[1] The Kindle edition unfortunately does not have page numbers for the introduction.
+[^1]: The Kindle edition unfortunately does not have page numbers for the introduction.
 
-[2] With the massive asterisk that superintelligence may soon become an apparent risk.
+[^2]: With the massive asterisk that superintelligence may soon become an apparent risk.
 
-[3] To be clear, Friedman was actually quite critical of Galbraith’s argument as a whole, [zoning in](https://efotw.org/sites/default/files/FriedmanonGalbraith.pdf) not entirely unfairly on his fixation with advertising. But given his strong support for the NIT, which as I explain could function as Galbraith’s divorce of security from production, I think there’s more agreement here than it seems.
+[^3]: To be clear, Friedman was actually quite critical of Galbraith’s argument as a whole, [zoning in](https://efotw.org/sites/default/files/FriedmanonGalbraith.pdf) not entirely unfairly on his fixation with advertising. But given his strong support for the NIT, which as I explain could function as Galbraith’s divorce of security from production, I think there’s more agreement here than it seems.

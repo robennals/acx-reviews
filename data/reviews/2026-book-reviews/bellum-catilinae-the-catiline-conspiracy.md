@@ -51,19 +51,19 @@ The backdrop to the _Bellum Catilinae_ is a Republic in decline. After the Roman
 
 > The worthy and the worthless alike all wished glory, honor, and power for themselves; the worthy strove by the right path, but the worthless, proper methods failing them, turned to tricks and lies. Greed births love of money, which no wise man covets; that vice, like an evil poison, unmans the body and manly spirit. Love of money is infinite, insatiable, diminished by neither plenty nor poverty. (_Bellum Catilinae_ 11)
 
-Sallust blames victory over Carthage for starting the decay, but accuses Sulla of accelerating it. Sulla was Caesar before Caesar: he marched on Rome during a civil war, made himself dictator, rewrote the constitution in order to “save” it, then retired from public life. Caesar objected only to the last, saying that “Sulla didn’t know his ABCs, to lay down the dictatorship.”[1]
+Sallust blames victory over Carthage for starting the decay, but accuses Sulla of accelerating it. Sulla was Caesar before Caesar: he marched on Rome during a civil war, made himself dictator, rewrote the constitution in order to “save” it, then retired from public life. Caesar objected only to the last, saying that “Sulla didn’t know his ABCs, to lay down the dictatorship.”[^1]
 
 Sulla's veterans squandered their plunder and longed for another profitable war. Half the aristocracy was broke and desperate, and the urban poor had nothing, and so nothing to lose.
 
 The Catiline Conspiracy was a byproduct of this long decline, and the last great prelude to the fall of the Roman Republic. In 63 BC, Lucius Sergius Catilina (Catiline), a patrician from an ancient family, lost his chance to be consul for the second time. Drowning in debt from the truly epic bribery required to run for office in late Republican Rome, he reinvented himself as a radical populist and formed a conspiracy to overthrow the Republic.
 
-He collected young, impressionable men, "ensnared their soft and malleable minds by trickery." The trickery included, according to Sallust, lavishing the young men with prostitutes (understandable) and expensive dogs (less understandable). He also gathered to himself the indebted, the dispossessed, and the disgruntled veterans of the civil war who had "lavishly squandered their spoils, and remembering the rape and victory in the civil war," wanted more. (_Bellum Catilinae_ 14, 16) He, unusually, recruited women too, "who at first had supported their enormous extravagance by debauchery, but by the time their age placed a limit on their extravagance, had accumulated enormous debts." (_Bellum Catilinae_ 24)[2]
+He collected young, impressionable men, "ensnared their soft and malleable minds by trickery." The trickery included, according to Sallust, lavishing the young men with prostitutes (understandable) and expensive dogs (less understandable). He also gathered to himself the indebted, the dispossessed, and the disgruntled veterans of the civil war who had "lavishly squandered their spoils, and remembering the rape and victory in the civil war," wanted more. (_Bellum Catilinae_ 14, 16) He, unusually, recruited women too, "who at first had supported their enormous extravagance by debauchery, but by the time their age placed a limit on their extravagance, had accumulated enormous debts." (_Bellum Catilinae_ 24)[^2]
 
 His conspiracy was exposed before he succeeded. Catiline's allies in Rome were arrested by the Senate and executed without trial. Cicero, the greatest orator Rome ever produced, presided over the killings, and depending on who you asked, they were either the apex of his career or the blackest stain on it. Catiline himself died hard—the state was forced to raise an army to put down his conspiracy, which had turned into a full-blown revolt, and won only a "bloody and mournful victory."
 
-Caius Sallustius Crispus (Sallust)[3], wrote the _Bellum Catilinae_ about twenty years later, during the aftermath of Caesar’s assassination, as the Republic gave way to the rule of Octavian-soon-to-be-Augustus.
+Caius Sallustius Crispus (Sallust)[^3], wrote the _Bellum Catilinae_ about twenty years later, during the aftermath of Caesar’s assassination, as the Republic gave way to the rule of Octavian-soon-to-be-Augustus.
 
-Catiline’s conspiracy is famous, not so much for its impact on history, but for its participants and its literature.[4] Julius Caesar and Cato the Younger were senators at the time, Cicero was consul. Both Cicero's _Orations Against Catiline_ and Sallust's _Bellum Catilinae_ were used as textbooks for two millennia thereafter.
+Catiline’s conspiracy is famous, not so much for its impact on history, but for its participants and its literature.[^4] Julius Caesar and Cato the Younger were senators at the time, Cicero was consul. Both Cicero's _Orations Against Catiline_ and Sallust's _Bellum Catilinae_ were used as textbooks for two millennia thereafter.
 
 ## Sallust: His Life, His Voice, and His Grudge Against Cicero
 
@@ -77,9 +77,9 @@ Catiline’s conspiracy is famous, not so much for its impact on history, but fo
 
 Sallust was many things: a failed populist politician, a partisan of Julius Caesar during his seizure of power, a brilliant writer, and by near-universal ancient testimony, an absolutely terrible person.
 
-Expelled from the Senate on grounds of immorality, he was reinstated by Caesar and given the governorship of an African province, which he looted in such spectacularly corrupt fashion that Caesar was forced to intervene, again, to save him from prosecution. Without further prospects for advancement, he retired to private life, and decided to write history.[5] 
+Expelled from the Senate on grounds of immorality, he was reinstated by Caesar and given the governorship of an African province, which he looted in such spectacularly corrupt fashion that Caesar was forced to intervene, again, to save him from prosecution. Without further prospects for advancement, he retired to private life, and decided to write history.[^5] 
 
-Sallust was also a contemporary of Cicero. Cicero was famous at the time for breaking the Catiline conspiracy, but Sallust's history leaves Cicero out entirely—no orations whatsoever from Rome's greatest orator, yet plenty from Catiline. Why? It’s simple; Sallust hated Cicero personally, and the _Bellum Catilinae_ is deliberately written as a rejection of Cicero's style. The result is a highly original style called _inconcinnitas_, "inelegance," by Latinists[6] that will stick in your head and infect your prose thereafter.
+Sallust was also a contemporary of Cicero. Cicero was famous at the time for breaking the Catiline conspiracy, but Sallust's history leaves Cicero out entirely—no orations whatsoever from Rome's greatest orator, yet plenty from Catiline. Why? It’s simple; Sallust hated Cicero personally, and the _Bellum Catilinae_ is deliberately written as a rejection of Cicero's style. The result is a highly original style called _inconcinnitas_, "inelegance," by Latinists[^6] that will stick in your head and infect your prose thereafter.
 
 Cicero's style is famous for intricate constructions, balanced clauses, and giving students a headache hunting for the verb in the proverbial haystack. Sallust's is the reverse. Compare for yourself:
 
@@ -92,7 +92,7 @@ Now here is Sallust, on a related theme, opening the _Bellum Catilinae_:
 > It befits all men who wish to stand above the animals to strive with all their might, lest they pass their life in silence like cattle, whom nature formed groveling, belly-slaves. (_Bellum Catilinae_ 1)  
 > Obedient to virtue are those men who plow, who sail, who build, but many mortals, slaves to stomach and sleep, unlearned and uncultured, pass through life like strangers. To those, against nature, the body is a delight and the mind a burden. Of such men, I count their life and death the same, since nothing is recorded of either. (_Bellum Catilinae_ 2)
 
-Sallust studiously avoids the standard vocabulary of Ciceronian public life: _honestas_, _humanitas_, _consensus_. Instead, he uses deliberately archaized spellings: _lubido_ for _libido_, _maxumum_ for _maximum_, to appear closer to the ancient virtues—and to his hero Cato the Elder—than the debased modern Republic. According to the grammarian Suetonius, he actually hired a man to collect archaic words for him (_De Grammaticis_ 10). Is Sallust's austere, deliberately unadorned style because he is a stern Roman Moralist who hearkens to the ancient virtues, or a reaction to the effete, detestably modern Ciceronian stooges that tried him for corruption and kicked him out of the Senate? Well, Sallust also married Cicero's ex-wife, so I leave the judgment up to you.[7]
+Sallust studiously avoids the standard vocabulary of Ciceronian public life: _honestas_, _humanitas_, _consensus_. Instead, he uses deliberately archaized spellings: _lubido_ for _libido_, _maxumum_ for _maximum_, to appear closer to the ancient virtues—and to his hero Cato the Elder—than the debased modern Republic. According to the grammarian Suetonius, he actually hired a man to collect archaic words for him (_De Grammaticis_ 10). Is Sallust's austere, deliberately unadorned style because he is a stern Roman Moralist who hearkens to the ancient virtues, or a reaction to the effete, detestably modern Ciceronian stooges that tried him for corruption and kicked him out of the Senate? Well, Sallust also married Cicero's ex-wife, so I leave the judgment up to you.[^7]
 
 Sallust deploys this voice most memorably on his villain.
 
@@ -134,7 +134,7 @@ Later in the book, Sallust speaks more on this, and does not ascribe the poor fo
 
 > Always in civilizations, those who have nothing envy the respectable. They extol what is evil, they hate tradition and burn for new beginnings. Hating their own circumstances, they wish to change everything, they nourish sedition and discord without a care, since destitution is easily obtained without injury. (_Bellum Catilinae_ 37)
 
-Sallust was a partisan of Julius Caesar during his revolution, and Caesar was a _popularis_, literally, a populist. Catiline and Caesar, and by extension Sallust, thus have very similar politics. They share certain ambitions, too; in many ways, Catiline is a failed Caesar.[8]
+Sallust was a partisan of Julius Caesar during his revolution, and Caesar was a _popularis_, literally, a populist. Catiline and Caesar, and by extension Sallust, thus have very similar politics. They share certain ambitions, too; in many ways, Catiline is a failed Caesar.[^8]
 
 So Sallust can't be too harsh on the people's motivations. Instead, the conspiracy must emerge from Catiline's inner, base nature. Sallust thinks, paraphrasing Appian, that Catiline has "a most excellent design, too violently pursued."
 
@@ -203,7 +203,7 @@ There is a second level of _metalepsis_ in these speeches that I think reveals w
 
 The idea of recording history _just_ so that events won't be lost is modern. Sallust doesn't think like this; the facts _per se_ are of no importance—the people are the focus. Sallust tells us this himself in his introduction: men of whom nothing is written are not just unimportant, they are _beasts_, whose life and death he holds equally worthless.
 
-This sentiment descends directly from the grand Indo-European poetic tradition. Every grand cultural-linguistic complex has some idea of what makes a man immortal, and the Indo-European conception always runs through the _kleos aphthiton_, the fame imperishable, won through great deeds in front of your peers.[9]
+This sentiment descends directly from the grand Indo-European poetic tradition. Every grand cultural-linguistic complex has some idea of what makes a man immortal, and the Indo-European conception always runs through the _kleos aphthiton_, the fame imperishable, won through great deeds in front of your peers.[^9]
 
 There is no afterlife in this system. It is by the doing of great deeds, by the poets weaving these great deeds into great epics, and by the poets being paid great sums for that epic (this is genuinely a necessary component), that a man may live forever.
 
@@ -241,9 +241,9 @@ It is the same with _hero_ and _virtus_. A Latin _hero_ who displays _virtus_ is
 
 Applied to Catiline, excellence commands recognition independent of moral status, and a magnificent villain receives a magnificent, worthy death. This is the essence of Greco-Roman agonal culture. _Agon_ in Greek means "contest" or "struggle," and names the Greco-Roman ideal of competition as a virtue _per se_, absent moral valence.
 
-This mindset explains much, both in Roman history generally and Sallust's histories specifically—if glory is found in competition, what glory is there in defeating an unworthy enemy? Roman commanders disdained to prosecute slave revolts for the same reason—where is the grandeur in killing slaves? This is part of the reason why the famous Spartacus slave revolt was so successful—the political/military class of Rome didn’t consider it worth their time to fight a bunch of slaves. This backfired on them in spectacular fashion.[10]
+This mindset explains much, both in Roman history generally and Sallust's histories specifically—if glory is found in competition, what glory is there in defeating an unworthy enemy? Roman commanders disdained to prosecute slave revolts for the same reason—where is the grandeur in killing slaves? This is part of the reason why the famous Spartacus slave revolt was so successful—the political/military class of Rome didn’t consider it worth their time to fight a bunch of slaves. This backfired on them in spectacular fashion.[^10]
 
-Caesar, again, furnishes a compelling example. His famous line “_veni, vidi, vici”_ was actually a dig at his rival, Pompey Magnus. Caesar had just defeated Pompey, and wanted to belittle Pompey’s conquest of the East, where he made his name. Caesar’s quip implies there was no skill involved: When Caesar also ventured to the East, he came, he saw, he conquered.[11] 
+Caesar, again, furnishes a compelling example. His famous line “_veni, vidi, vici”_ was actually a dig at his rival, Pompey Magnus. Caesar had just defeated Pompey, and wanted to belittle Pompey’s conquest of the East, where he made his name. Caesar’s quip implies there was no skill involved: When Caesar also ventured to the East, he came, he saw, he conquered.[^11] 
 
 ## Sentiments Alien to a Well-Ordered Mind
 
@@ -260,7 +260,7 @@ As a Latin stylist, Sallust is compressed, expressive, ametric, and brilliant. T
 
 Sallust at his best is syncopated, arresting:
 
-> _Namque pauci libertatem, pars magna iustos dominos volunt._[12]  
+> _Namque pauci libertatem, pars magna iustos dominos volunt._[^12]  
 > Because few prefer liberty, the greater part desire only fair masters.
 
 Sallust translates naturally into English, as if _inconcinnitas_ were the default style of our prose—at least after Hemingway.
@@ -271,9 +271,9 @@ Virtue, for us, is inseparable from moral character. But this is culturally cont
 
 ## Footnotes
 
-[1] _Sullam nescisse litteras, qui dictaturam deposuerit._ (Suetonius, _Divus Iulius_ 77)
+[^1]: _Sullam nescisse litteras, qui dictaturam deposuerit._ (Suetonius, _Divus Iulius_ 77)
 
-[2] Here we get Sallust's famous pen portrait of Sempronia—one of very few women to receive any inner life at all in Roman historiography.
+[^2]: Here we get Sallust's famous pen portrait of Sempronia—one of very few women to receive any inner life at all in Roman historiography.
 
 > But within this group was a certain Sempronia, who had often performed manly and audacious deeds. This woman, fortunate both in birth and beauty, and besides that in her husband and children, was learned in both Latin and Greek literature. Yet, she danced and sang more elegantly than was proper for a good woman, and possessed much else besides which excites the passions. Indeed, she held nothing so cheaply as decency and shame, and it is difficult to decide whether she was more reckless with her money or reputation. Her desire for sex was so ardent that she more often sought out men than they her.  
 > Nevertheless, she had a keen mind; she could fashion a verse, make a joke, discourse equally to the modest, the tender, or the wanton. Indeed, she possessed much in the way of wit and charm. (_Bellum Catilinae_ 25)
@@ -296,22 +296,22 @@ Nicomedes has no triumph, though he had Caesar screwed. (Suetonius, _Divus Iuliu
 
 I doubt Sallust intended the parallel; the comparison is not flattering to a Roman.
 
-[3] The _praenomen_ “Gaius” is spelled “Caius” by Sallust, as a throwback to older forms of Latin where _c_ was used for both /g/ and /k/. In deference to his preferences I have spelled it “Caius” everywhere.
+[^3]: The _praenomen_ “Gaius” is spelled “Caius” by Sallust, as a throwback to older forms of Latin where _c_ was used for both /g/ and /k/. In deference to his preferences I have spelled it “Caius” everywhere.
 
-[4] A historian whose name I cannot recall called it "the best known and least consequential event of the Late Republic"
+[^4]: A historian whose name I cannot recall called it "the best known and least consequential event of the Late Republic"
 
-[5] This is not a unique life story for a Roman Moralist. They have a flavor—Seneca, probably the most famous moralist, possibly caused the Boudica uprising with predatory lending practices. Boudica’s revolt was the bloodiest in the history of Roman Britain in which eighty thousand people died. His contemporaries pointed out the tension, so he wrote _On the Happy Life_ defending his wealth.
+[^5]: This is not a unique life story for a Roman Moralist. They have a flavor—Seneca, probably the most famous moralist, possibly caused the Boudica uprising with predatory lending practices. Boudica’s revolt was the bloodiest in the history of Roman Britain in which eighty thousand people died. His contemporaries pointed out the tension, so he wrote _On the Happy Life_ defending his wealth.
 
-[6] Nietzsche described his style as: "Compact, severe, with as much substance as possible, cold sarcasm toward 'beautiful words' and 'beautiful sentiments.'" (_Twilight of the Idols_).
+[^6]: Nietzsche described his style as: "Compact, severe, with as much substance as possible, cold sarcasm toward 'beautiful words' and 'beautiful sentiments.'" (_Twilight of the Idols_).
 
-[7] Hieronymus, _Adversus Jovinianum_ 1.48. "_Illa [Terentia] … nupsit Sallustio._"
+[^7]: Hieronymus, _Adversus Jovinianum_ 1.48. "_Illa [Terentia] … nupsit Sallustio._"
 
-[8] Indeed, at the time, Caesar was suspected of having a hand in the Catiline conspiracy, an allegation Sallust strenuously denies.
+[^8]: Indeed, at the time, Caesar was suspected of having a hand in the Catiline conspiracy, an allegation Sallust strenuously denies.
 
-[9] Achilles is the prototypical example, who chose _kleos_ (fame) over _nostos_ (homecoming), and is remembered forever after. The concept shows up unaltered in both the _Iliad_ and the _Rig Veda_ (_ákṣitam śrávas_).
+[^9]: Achilles is the prototypical example, who chose _kleos_ (fame) over _nostos_ (homecoming), and is remembered forever after. The concept shows up unaltered in both the _Iliad_ and the _Rig Veda_ (_ákṣitam śrávas_).
 
-[10] You’d think they’d have learned by this point—the other name for the Spartacus revolt is the _Third_ Servile War.
+[^10]: You’d think they’d have learned by this point—the other name for the Spartacus revolt is the _Third_ Servile War.
 
-[11] Conversely, the same mindset explains why the absolute highest honor any Roman can obtain is the _spolia opima,_ the rich spoils, which you give/receive when you personally kill an enemy king in single combat and dedicate his armor to Jupiter Feretrius. Exactly three Romans ever received this honor.
+[^11]: Conversely, the same mindset explains why the absolute highest honor any Roman can obtain is the _spolia opima,_ the rich spoils, which you give/receive when you personally kill an enemy king in single combat and dedicate his armor to Jupiter Feretrius. Exactly three Romans ever received this honor.
 
-[12] Sallust, _Histories_, 4.67
+[^12]: Sallust, _Histories_, 4.67

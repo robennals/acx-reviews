@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T04:33:29.000Z'
 slug: progressive-myths
-wordCount: 8060
+wordCount: 8061
 readingTimeMinutes: 36
 source: gdoc
 tags:
@@ -337,7 +337,9 @@ Huemer does something strange here, addressing four specific claims made by peop
 4. Do the wealthy pay lower taxes than the middle class?
     1. Here Huemer finally seems to address the wider myth with a chart using data from the [Congressional Budget Office](https://www.cbo.gov/topics/taxes) (I think Huemer made the chart). Net Tax = Federal Tax - Government Transfer, or how much money you actually paid the government accounting for welfare.
 
-        ![](https://acximages.ennals.org/images/2026-book-reviews/d8ff38387ebe9de8.jpg)Oddly enough, his chart says 2019 but the citation is from 2022, although that might just be the most recent time the CBO published the data. Also, can you tell how bad I am at taking photos?
+        ![](https://acximages.ennals.org/images/2026-book-reviews/d8ff38387ebe9de8.jpg)
+
+        Oddly enough, his chart says 2019 but the citation is from 2022, although that might just be the most recent time the CBO published the data. Also, can you tell how bad I am at taking photos?
 
         Broadly speaking, the highest fifth of income earners are paying the vast majority of the taxes. If that’s not their fair share, I’m not sure what is.
 

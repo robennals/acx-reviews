@@ -208,6 +208,12 @@ interface ReviewException {
   // reviews where the author uses italics for emphasis or other
   // non-quote purposes that would be wrongly wrapped.
   disableItalicAsBlockquote?: boolean;
+  // Promote bold-only lines to headings even when they end in
+  // sentence punctuation. The default reject-trailing-punct rule
+  // protects reviews like Son Also Rises that use bold sentences
+  // for in-prose emphasis; Plutarch needs the opposite — its
+  // section titles end in `.` and `:` and ARE meant as headings.
+  allowBoldHeadingWithPunct?: boolean;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -594,6 +600,26 @@ async function createMarkdownFile(
   // contests have already-stable content we don't want to re-flow.
   if (contestId === '2026-book-reviews' && !slugExceptions[slug]?.disableItalicAsBlockquote) {
     truncatedContent = wrapItalicParagraphsAsBlockquotes(truncatedContent);
+    // Re-run the adjacent-blockquote merge: this step ran inside
+    // cleanupMarkdown but only saw blockquotes that existed at that
+    // point. The italic-wrap just added more, and runs of them need
+    // the same blank-`>` separator between paragraphs.
+    truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
+  }
+
+  if (slugExceptions[slug]?.allowBoldHeadingWithPunct) {
+    // Second-pass bold-to-H2 that ignores the trailing-punctuation
+    // rejection. Used for reviews whose section headings genuinely
+    // end with `.`/`:`/`?`.
+    truncatedContent = truncatedContent.replace(
+      /^\*\*([^*\n]{1,120})\*\*[ \t]*$/gm,
+      (full, text: string) => {
+        const t = text.trim();
+        if (!t) return full;
+        if (/^[-–—]|[-–—]$/.test(t)) return full;
+        return `## ${t}`;
+      }
+    );
   }
 
   // Apply per-file H2 overrides — for docs where the generic bold-to-H2

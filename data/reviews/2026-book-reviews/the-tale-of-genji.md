@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:58:09.000Z'
 slug: the-tale-of-genji
-wordCount: 9961
+wordCount: 9995
 readingTimeMinutes: 45
 source: gdoc
 tags:
@@ -203,17 +203,18 @@ While _Genji_ is a work of prose, it contains nearly 800 poems, simply because t
 Here’s an example of an exchange between a high-ranking man and a woman he has been seeing for a while, mostly in secret and definitely without him taking the relationship very seriously. Her parents are dead and her life is difficult, and the man visits her only rarely. She sends him the following poem in a letter:
 
 > _Yes, ruin has come to the mountain’s rustic hedge, but now and again_
-
+>
 > _O let your compassion touch this little pink with fresh dew!_
 
 The “mountain’s rustic hedge” means her difficult living circumstances and “little pink,” a wildflower, refers to their shared young daughter. Basically she’s saying: “I’m living in poverty, please help, don’t forget you have a child here.” He recognises this as a cry for help and goes to her immediately. Sitting in the untended garden with her, he consoles her by coming up with the following poem:
 
-> _I could never choose one from the many colors blooming so gaily,_        _yet the gillyflower I feel is the fairest of them all._
+> _I could never choose one from the many colors blooming so gaily,_  
+> _yet the gillyflower I feel is the fairest of them all._
 
 “Gillyflower” refers to the woman he is talking to, and he implies that she is even more important to him than the child. In addition, he assures her that he will visit more often. In turn, she replies with another poem:
 
 > _To a gillyflower brushing a deserted bed with her dewy sleeves,_
-
+>
 > _autumn has come all too soon, and the sorrows of its storms._
 
 Dewy, damp and wet sleeves are a very common motif in _Genji_, and it means weeping, since sleeves were used to wipe away one’s tears. A deserted bed means exactly what you would expect: her lover doesn’t visit often. Even though the woman is crying, the man thinks she doesn’t seem particularly angry, so he does what anyone would do in his situation: goes his merry way and doesn’t visit the woman and their daughter for a long time. In the meantime, she vanishes with the child without a trace. He thinks she should have acted more lovingly towards him when he showed up, so that he might have treated her better.
@@ -226,11 +227,15 @@ Second, waka poems often draw imagery and allegory from nature (trees, flowers, 
 
 Third, a sophisticated poem would often contain double-meanings, wordplay, or references to earlier stories, legends or poems, showcasing how educated its author was. Consider the following exchange: A popular and well-regarded but low-ranking woman has had a relationship with a higher ranking man, who has since married a highborn woman. They are briefly in the same house, and as she is about to leave to attend the procession of the Kamo festival, he sends her a note (poem in italics):
 
-> _What is it they call the leaf we all sport today? There it is, I see,_        _yet such ages have gone by, I no longer know its name._        What a pity!
+> _What is it they call the leaf we all sport today? There it is, I see,_  
+> _yet such ages have gone by, I no longer know its name._  
+> What a pity!
 
 She sends back a quick reply:
 
-> _As to that green leaf you sport merrily enough, ignorant or not,_        _surely he who won laurel could manage to know its name!_        It takes a Doctor, I suppose.
+> _As to that green leaf you sport merrily enough, ignorant or not,_  
+> _surely he who won laurel could manage to know its name!_  
+> It takes a Doctor, I suppose.
 
 Have a guess: What does this exchange mean? I’ll give you a moment.
 
@@ -278,9 +283,17 @@ Here comes the juicy part. When a room has been prepared for Genji, he says to h
 
 What’s Genji’s deal with curtains? He’s just imposed on someone else’s hospitality on an extremely short notice, and he’s complaining about interior design? By now you can probably guess the curtains aren’t about curtains, and if you guessed the curtains are about sex, you would be correct. Genji is making a reference to a song whose lyrics are:
 
-> _Curtains hanging from the ceiling_        _divide my house into rooms -_        _come visit me, prince,_        _I will make you my son-in-law._
+> _Curtains hanging from the ceiling_  
+> _divide my house into rooms -_  
+> _come visit me, prince,_  
+> _I will make you my son-in-law._
 >
-> _What would go well_        _with wine?_        _Abalone? Turban snail?_        _You like sea urchin, right?_        _Abalone? Turban snail?_        _You like sea urchin, right?_
+> _What would go well_  
+> _with wine?_  
+> _Abalone? Turban snail?_  
+> _You like sea urchin, right?_  
+> _Abalone? Turban snail?_  
+> _You like sea urchin, right?_
 
 The seafood items mentioned in the song are a symbol of female genitalia, and the curtains refer to a host offering his daughter to the honored guest. So when Genji complains about the lack of curtains, he’s actually complaining that the host hasn’t provided a woman for him. Good luck deciphering that without context.
 
@@ -334,23 +347,38 @@ The original poem in classical Japanese, written on a single line in hiragana li
 
 The same, but each phrase rendered on its own line, to showcase the 5-7-5-7-7 structure, which the original reader would have been able to parse when reading it in a single line:
 
-> わくらばに        ゆきあふみちを        たのみしも        なほかひなしや        しほならぬうみ
+> わくらばに  
+> ゆきあふみちを  
+> たのみしも  
+> なほかひなしや  
+> しほならぬうみ
 
 Tyler’s take, in his characteristic two-line approach to translating waka:
 
-> _I had little doubt that we would meet after all on the Ōmi road,_        _yet those waters were too fresh not to betray my fond hope._
+> _I had little doubt that we would meet after all on the Ōmi road,_  
+> _yet those waters were too fresh not to betray my fond hope._
 
 Washburn’s take, in his equally characteristic three-line approach:
 
-> _Though we passed by chance on the road to Ōmi_        _A name that promised us a tryst at Lake Biwa_        _In vain I searched for you beside its fresh waters_
+> _Though we passed by chance on the road to Ōmi_  
+> _A name that promised us a tryst at Lake Biwa_  
+> _In vain I searched for you beside its fresh waters_
 
 Nieminen’s take, following the 5-7-5-7-7 structure with Finnish syllables:
 
-> _toivoin turhaan: ei_        _järvivedessä elä_        _simpukoita — niin_        _satuimme samaan paikkaan_        _sittenkään kohtaamatta_
+> _toivoin turhaan: ei_  
+> _järvivedessä elä_  
+> _simpukoita — niin_  
+> _satuimme samaan paikkaan_  
+> _sittenkään kohtaamatta_
 
 Nieminen’s take, translated into English by me:
 
-> _in vain I had hoped:_        _in lake water there live no_        _saltwater clams —_        _we happened on the same place_        _but nonetheless did not meet_
+> _in vain I had hoped:_  
+> _in lake water there live no_  
+> _saltwater clams —_  
+> _we happened on the same place_  
+> _but nonetheless did not meet_
 
 Let’s unpack the layers of meaning. First, the original poem contains the word “afumichi,” or “the road on which we meet,” which is read the same way as “oomichi,” or the road to Ōmi. Second, Lake Ōmi (also known as Lake Biwa) is a freshwater lake, so it has no saltwater clams, and the poem also contains the expression “kai nashi,” which can mean “pointless,” “in vain,” or “clamless.” Setting aside all the complexity, Genji’s poem means “Would have been nice to meet, but sadly it’s not happening.” In this case, the Finnish translation says this the most explicitly, but the reference to clams would make very little sense without the context of the wordplay. However, all of the translations contain some reference to hoping for a meeting, and that hope not being fulfilled.
 
@@ -367,7 +395,11 @@ At the risk of overdoing it, I couldn’t resist checking how well LLMs would ha
 
 My favourite of the LLM-generated translations, from Claude Opus 4.7:
 
-> _Though I'd staked my hopes_        _on chancing to meet you there—_        _it came to nothing._        _No shells wash up on the shore_        _of a sea without any salt._
+> _Though I'd staked my hopes_  
+> _on chancing to meet you there—_  
+> _it came to nothing._  
+> _No shells wash up on the shore_  
+> _of a sea without any salt._
 
 Fine, so I’ve established that the translation matters, and the existing ones are pretty different from one another. Which one would I recommend?
 

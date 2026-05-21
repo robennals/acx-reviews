@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T03:03:45.000Z'
 slug: the-war-nerd-iliad
-wordCount: 4499
+wordCount: 4500
 readingTimeMinutes: 20
 source: gdoc
 tags:
@@ -22,7 +22,9 @@ tags:
 —Samuel Butler, “The Humour of Homer”  
 
 
-> _“Read the Accounts of Men and Women as they are given us by the most ancient Writers, both Sacred and Prophane, and you would think you were reading the History of another Species.”_—Joseph Addison, _The Spectator_ No. 209  
+> _“Read the Accounts of Men and Women as they are given us by the most ancient Writers, both Sacred and Prophane, and you would think you were reading the History of another Species.”_
+
+—Joseph Addison, _The Spectator_ No. 209  
 
 Frank Zappa once remarked that “Jazz is _not_ dead. It just smells funny”[1]. In doing so, he might have inadvertently touched on something fundamental to the idea of what we call a “classic”. It would be an inherent absurdity to characterize the classics as dead. In bothering to make the argument one presupposes that some kind of relevance, even a negative relevance, persists in them, as compared with their forgotten contemporaries who have been deemed worthy by the ages only of what Marx once called the “gnawing criticism of the mice”[2]. But in our jaded epoch, it feels no less absurd to claim the opposite, that these texts are just as alive as they were in the days in which they were written. Your English teacher told you this, and perhaps you believed her, right up until the moment your eyes glazed over about a page and a half into whatever text she inflicted on you. Being no philistine, you might have cringed when your classmates gave voice to their objections, but is it not the case that the insult which gives the greatest offence is that which we know on some level to be true?
 

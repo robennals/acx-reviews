@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:03:49.000Z'
 slug: works-by-isaac-bickerstaff
-wordCount: 7429
+wordCount: 7445
 readingTimeMinutes: 34
 source: gdoc
 tags:
@@ -229,25 +229,25 @@ _"DEAR COUSIN,_
  _… it is with no small concern I see the original of the Staffian race so little known in the world as it is at this time_
 
 > _…The Staffs are originally of Staffordshire, which took its name from them; the first that I find of the Staffs was one Jacobstaff, a famous and renowned astronomer, who, by Dorothy his wife, had issue seven sons—viz., Bickerstaff, Longstaff, Wagstaff, Quarterstaff, Whitestaff, Falstaff, and Tipstaff. He also had a younger brother, who was twice married, and had five sons—viz., Distaff, Pikestaff, Mopstaff, Broomstaff, and Raggedstaff._
-
+>
 > _As for the branch from whence you spring, I shall say very little of it, only that it is the chief of the Staffs, and called Bickerstaff, quasi Biggerstaff; as much as to say, the Great Staff, or Staff of Staffs; and that it has applied itself to Astronomy with great success, after the example of our aforesaid forefather._
-
+>
 > _…The Wagstaffs are a merry, thoughtless sort of people, who have always been opinionated of their own wit; they have turned themselves mostly to poetry. This is the most numerous branch of our family, and the poorest._
-
+>
 > _…The Quarterstaffs are most of them prize-fighters or deer-stealers; there have been so many of them hanged lately that there are very few of that branch of our family left. The Whitestaffs are all courtiers, and have had very considerable places. There have been some of them of that strength and dexterity that five hundred of the ablest men in the kingdom have often tugged in vain to pull a staff out of their hands._
-
+>
 > _…The Falstaffs are strangely given to drinking: there are abundance of them in and about London. And one thing is very remarkable of this branch, and that is, there are just as many women as men in it. There was a wicked stick of wood of this name in Harry the Fourth's time, one Sir John Falstaff._
-
+>
 > _…As for Tipstaff, the youngest son, he was an honest fellow; but his sons, and his sons' sons, have all of them been the veriest rogues living; it is this unlucky branch has stocked the nation with that swarm of lawyers, attorneys, serjeants, and bailiffs, with which the nation is overrun._
-
+>
 > _… his younger brother, Isaacstaff, as I told you before, had five sons, and was married twice; his first wife was a Staff, for they did not stand upon false heraldry in those days, by whom he had one son, who, in process of time, being a schoolmaster and well read in the Greek, called himself Distaff or Twicestaff. He was not very rich, so he put his children out to trades, and the Distaffs have ever since been employed in the woollen and linen manufactures, except myself, who am a genealogist._
-
+>
 > _Pikestaff, the eldest son by the second venter, was a man of business, a downright plodding fellow, and withal so plain, that he became a proverb. Most of this family are at present in the army._
-
+>
 > _Raggedstaff was an unlucky boy, and used to tear his clothes in getting birds' nests, and was always playing with a tame bear his father kept._
-
+>
 > _Mopstaff fell in love with one of his father's maids, and used to help her to clean the house._
-
+>
 > _Broomstaff was a chimney-sweeper. The Mopstaffs and Broomstaffs are naturally as civil people as ever went out of doors; but, alas! if they once get into ill hands, they knock down all before them._
 
  _Pilgrimstaff ran away from his friends, and went strolling about the country; and Pipestaff was a wine-cooper. These two were the unlawful issue of Longstaff._
@@ -299,13 +299,13 @@ For example, in his essay titled “_Happy Marriage_”, you see what looks like
  _I perceived a tear fall down his cheek as he spoke, which moved me not a little. But, to turn the discourse, said I, "She is not indeed quite that creature she was, when she returned me the letter I carried from you: and told me 'she hoped, as I was a gentleman, I would be employed no more to trouble her, who had never offended me; but would be so much the gentleman's friend as to dissuade him from a pursuit which he could never succeed in.' You may remember I thought her in earnest, and you were forced to employ your cousin Will, who made his sister get acquainted with her for you. You cannot expect her to be for ever fifteen."_
 
 > _"Fifteen!" replied my good friend; "ah! you little understand, you that have lived a bachelor, how great, how exquisite a pleasure there is, in being really beloved! It is impossible, that the most beauteous face in nature should raise in me such pleasing ideas, as when I look upon that excellent woman. That fading in her countenance is chiefly caused by her watching with me, in my fever. This was followed by a fit of sickness, which had like to have carried her off last winter. I tell you sincerely, I have so many obligations to her, that I cannot, with any sort of moderation, think of her present state of health._
-
+>
 > _But as to what you say of fifteen, she gives me every day pleasures beyond what I ever knew in the possession of her beauty, when I was in the vigour of youth. Every moment of her life brings me fresh instances of her complacency to my inclinations, and her prudence in regard to my fortune. Her face is to me much more beautiful than when I first saw it; there is no decay in any feature, which I cannot trace from the very instant it was occasioned by some anxious concern for my welfare and interests. Thus, at the same time, methinks, the love I conceived towards her for what she was, is heightened by my gratitude for what she is. The love of a wife is as much above the idle passion commonly called by that name, as the loud laughter of buffoons is inferior to the elegant mirth of gentlemen. Oh! she is an inestimable jewel._
-
+>
 > _In her examination of her household affairs she shows a certain fearfulness to find a fault, which makes her servants obey her like children: and the meanest we have has an ingenuous shame for an offence, not always to be seen in children in other families. I speak freely to you, my old friend: ever since her sickness, things that gave me the quickest joy before turn now to a certain anxiety. As the children play in the next room, I know the poor things by their steps, and am considering what they must do, should they lose their mother in their tender years. The pleasure I used to take in telling my boy stories of the battles, and asking my girl questions about the disposal of her baby, and the gossiping of it, is turned into inward reflection and melancholy."_
-
+>
 > _…_ _on a sudden we were alarmed with the noise of a drum, and immediately entered my little godson to give me a point of war. His mother, between laughing and chiding, would have put him out of the room; but I would not part with him so. I found upon conversation with him, though he was a little noisy in his mirth, that the child had excellent parts, and was a great master of all the learning on the other side eight years old. I perceived him a very great historian in AEsop's Fables: but he frankly declared to me his mind, that he did not delight in that learning, because he did not believe they were true; for which reason I found he had very much turned his studies for about a twelve-month past, into the lives and adventures of Don Bellianis of Greece, Guy of Warwick, the Seven Champions, and other historians of that age. I could not but observe the satisfaction the father took in the forwardness of his son; and that these diversions might turn to some profit, I found the boy had made remarks which might be of service to him during the course of his whole life. He would tell you the mis-managements of John Hickathrift, find fault with the passionate temper in Bevis of Southampton, and loved Saint George for being the champion of England; and by this means had his thoughts insensibly moulded into the notions of discretion, virtue, and honour. I was extolling his accomplishments, when the mother told me that the little girl who led me in this morning was in her way a better scholar than he. "Betty," says she, "deals chiefly in fairies and sprites, and sometimes in a winter-night will terrify the maids with her accounts, till they are afraid to go up to bed."_
-
+>
 > _I sat with them till it was very late, sometimes in merry, sometimes in serious, discourse, with this particular pleasure, which gives the only true relish to all conversation, a sense that every one of us liked each other. I went home, considering the different conditions of a married life and that of a bachelor; and I must confess it struck me with a secret concern, to reflect, that whenever I go off I shall leave no traces behind me. In this pensive mood I return to my family; that is to say, to my maid, my dog, and my cat, who only can be the better or worse for what happens to me._
 
 He reinforces this with the story of the buried letters.
@@ -315,9 +315,9 @@ He reinforces this with the story of the buried letters.
 _"MADAM,_
 
 > _"If you would know the greatness of my love, consider that of your own beauty. That blooming countenance, that snowy bosom, that graceful person return every moment to my imagination; the brightness of your eyes hath hindered me from closing mine since I last saw you. You may still add to your beauties by a smile. A frown will make me the most wretched of men, as I am the most passionate of lovers."_
-
+>
 > _It filled the whole company with a deep melancholy to compare the description of the letter with the person that occasioned it, who was now reduced to a few crumbling bones and a little mouldering heap of earth. With much ado I deciphered another letter, which began with, "My dear, dear wife." This gave me a curiosity to see how the style of one written in marriage differed from one written in courtship. To my surprise, I found the fondness rather augmented than lessened, though the panegyric turned upon a different accomplishment. The words were as follows:_
-
+>
 > _"Before this short absence from you, I did not know that I loved you so much as I really do; though, at the same time, I thought I loved you as much as possible. I am under great apprehensions lest you should have any uneasiness whilst I am defrauded of my share in it, and cannot think of tasting any pleasures that you do not partake with me. Pray, my dear, be careful of your health, if for no other reason but because you know I could not outlive you. It is natural in absence to make professions of an inviolable constancy; but towards so much merit it is scarce a virtue, especially when it is but a bare return to that of which you have given me such continued proofs ever since our first acquaintance. I am," etc._
 
 Courtship letters full of praise for beauty. Marriage letters full of concern, constancy, shared experience. The second set is stronger. The physical body decays, but the attachment does not, ideally. It is one of the few places in the essays where something improves over time without irony.

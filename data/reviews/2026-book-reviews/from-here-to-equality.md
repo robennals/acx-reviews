@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:42:25.000Z'
 slug: from-here-to-equality
-wordCount: 10323
+wordCount: 10324
 readingTimeMinutes: 46
 source: gdoc
 tags:
@@ -194,7 +194,7 @@ D&M could counter that there are measures of wealth which _increase_ the bill to
 D&M have thought extensively about who receives reparations, and have come to the following proposal (_FHtE_, pp14):
 
 > _**1.**_          _**The first criterion is a lineage standard: individuals must demonstrate that they have at least one ancestor who was enslaved in the United States.**_
-
+>
 > _**2.**_          _**The second criterion is an identity standard: individuals must demonstrate on a legal document that they have self-identified as black… at least twelve years before the enactment of an African American reparations plan**_
 
 An absolutely incredible amount of space is then dedicated to how the first criterion might produce “lucrative opportunities for private genealogists” (_FHtE_, pp397) and alternatives to private genealogists like the internet, Census data, slave ship manifests or “the establishment of a congressional or presidential commission to study and develop reparations for African Americans” (_FHtE_, pp398). I am mostly impressed with D&M’s scholarship in _FHtE_, but this is a bit of a whiff for me – surely this is just bikeshedding?

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T07:04:18.000Z'
 slug: invisible-cities-and-life-a-users-manual
-wordCount: 5299
+wordCount: 5301
 readingTimeMinutes: 24
 source: gdoc
 tags:
@@ -109,9 +109,9 @@ There’s also an unashamed, unselfconscious ‘other’-ness about _Invisible C
 So while I understand that _Invisible Cities_ will not be to everyone’s taste, I do feel confident in suggesting giving it a try: you’ll know within a dozen or so pages whether it’s for you.  _Life: A User’s Manual_ is trickier to recommend.  It’s much longer (perhaps around 200,000 words), and where Calvino writes with an apparently effortless lightness and grace, Perec’s style is sometimes dense and cluttered.  This is a deliberate choice given the form he has chosen, and it doesn’t apply to the whole book: the histories of the residents include shocking murder-mysteries, picaresque tales of madcap adventures, and an elaborate long con on the subject of the holy grail.  There are also, perhaps more surprisingly, moments of intense emotional power in amongst the lists of possessions and descriptions of bric-a-brac.  Perec is deeply aware that we spend our lives in consumer society surrounded by things, and whilst many of these will be interchangeable and freely disposable, there are inevitably some to which we give meaning, which embody memories of all kinds, and which therefore come to capture something essential about who we are.  Here is one resident, described in the immediate aftermath of his wife’s death while giving birth to their stillborn child, more than 30 years before:
 
 > _For the entire winter, [he] stayed seated at the table where she used to work, holding in his hands, one by one, all the objects she had touched, she had looked at, she had loved, the vitrified pebble with its white, beige and orange grooves, the little jade unicorn saved from a valuable chess set, and the Florentine brooch he had given her as a present because it had on it, in minute mosaics, three Paris daisies, or marguerites._
-
+>
 > _Then one day he threw away everything that was on the table and burnt the table; he took [their dog] to the vet in Rue Alfred-de-Vigny and had him put to sleep; he threw away the books and the turned-wood shelf-stack, the mauve quilted bedspread, the low-backed, black-leather-seated English armchair in which she sat, everything which had her trace, bore her mark, and he kept in the room only the bed and, opposite the bed, that melancholy picture of the three men dressed in black._
-
+>
 > _The bedroom is today a room grey with dust and sadness, an empty, dirty room with faded wallpaper; through the open door that gives onto the broken-down bathroom, you can see a rust-stained, scale-incrusted sink on whose chipped rim a half-drunk bottle of orange pop has spent the last two years going green._
 
 I find that a moving account of both the lethargic and catastrophic aspects of grief, done mostly through a description of one couple’s relation to their possessions.  There’s a kind of perverse pedantry in the way Perec invites you to study the minutiae of everyday life, and then occasionally hits you with something much deeper.  But there can be no doubt that he knows what he’s doing, and why.

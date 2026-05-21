@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T02:27:26.000Z'
 slug: a-residence-of-twenty-one-years-in-the-sandwich-islands
-wordCount: 8526
+wordCount: 8524
 readingTimeMinutes: 38
 source: gdoc
 tags:
@@ -29,7 +29,7 @@ Today’s Effective Altruists sincerely want to do the most good possible, and o
 
 Hiram and his colleagues believed that Heaven and Hell were not metaphorical, and that doing the most good meant saving the most souls from eternal torment. And what, they asked themselves, was the most effective means towards accomplishing this goal? Spreading the Gospel to those who had never heard it. All of humanity required salvation, and those who lived in foreign lands mattered just as much as those who lived nearby.
 
-As a missionary destination, the Hawaiian Islands (then known as the Sandwich Islands), had several compelling advantages. First, the islands were very neglected, being recently discovered. While not as important as China, Egypt/Palestine, or India, they still held a sizable population. And unlike those places, there was little competition from other missionaries or pre-existing organized religions, making them much more tractable for conversion. The mission to Hawaii would prove notably cost-effective compared to other missions.[18] Basically all that was needed was a ship, a printing press, and missionaries to teach the Bible.
+As a missionary destination, the Hawaiian Islands (then known as the Sandwich Islands), had several compelling advantages. First, the islands were very neglected, being recently discovered. While not as important as China, Egypt/Palestine, or India, they still held a sizable population. And unlike those places, there was little competition from other missionaries or pre-existing organized religions, making them much more tractable for conversion. The mission to Hawaii would prove notably cost-effective compared to other missions.[^18] Basically all that was needed was a ship, a printing press, and missionaries to teach the Bible.
 
 In other words, if the EA Forum existed in the early 19th century, I could easily imagine a post arguing that bringing the Gospel to the Sandwich Islands is a promising cause area.
 
@@ -193,12 +193,12 @@ Hiram wouldn’t have called himself a Puritan, but rather one of “the sons of
 * Worship of Catholic saints
 * Polygamy
 * Royal incest
-* Homosexuality [14]
-* Infanticide [15]
+* Homosexuality[^14]
+* Infanticide[^15]
 * Drunkenness
 * Idleness
 * Gambling
-* “Heathen sports.” Except for surfing, which is great, so long as nobody places bets.[16]
+* “Heathen sports.” Except for surfing, which is great, so long as nobody places bets.[^16]
 * Illiteracy
 * “Popery”
 * Indulgences
@@ -272,7 +272,7 @@ Hiram was outraged, but in the face of French cannon, the Hawaiians had no choic
 
 Upon learning of the incident, the American Board of Commissioners for Foreign Missions launched an investigation. No longer could they ignore Hiram’s meddling in native politics. Hiram devotes a whole chapter of his book to presenting evidence in an attempt to clear his name: first, that the Catholic priests, unlike the American missionaries, had not secured the permission of the Hawaiian rulers to proselytize, and thus the rulers were justified to deport them; second, that anti-Catholic measures were not anti-French, as some French were Protestants; third, that Laplace’s demands were inconsistent with international law.
 
-In the opinion of the Board, Laplace had indeed made his demands with “no just grounds of complaint.”[17] However, they still felt that Hiram had interfered too much in the Hawaiian government, and was now a political liability. In August 1840, Hiram and Sybil Bingham left Hawaii, reaching New York in February 1841. Officially, Hiram’s departure was to preserve the health of his wife, who had been ill, but another motivation was clear: the Board had finally had enough of Hiram’s political meddling, and no longer supported his leadership of the mission.
+In the opinion of the Board, Laplace had indeed made his demands with “no just grounds of complaint.”[^17] However, they still felt that Hiram had interfered too much in the Hawaiian government, and was now a political liability. In August 1840, Hiram and Sybil Bingham left Hawaii, reaching New York in February 1841. Officially, Hiram’s departure was to preserve the health of his wife, who had been ill, but another motivation was clear: the Board had finally had enough of Hiram’s political meddling, and no longer supported his leadership of the mission.
 
 ## Mission Accomplished?
 
@@ -286,7 +286,7 @@ He also visited Washington DC, where he continued to meddle in politics, promoti
 
 The United States government under President Tyler officially promised to protect the independence of the Kingdom of Hawaii. This promise was soon tested: in 1843, a British naval captain, George Paulet, [briefly annexed Hawaii](https://en.wikipedia.org/wiki/Paulet_affair) in the name of Queen Victoria, but this was an act exceeding his authority and the captain was recalled after protest from the Hawaiians and Americans.
 
-Hiram spent the rest of his years in Connecticut, serving as minister to an African-American church in New Haven. His son, [Hiram Bingham II](https://en.wikipedia.org/wiki/Hiram_Bingham_II), continued missionary work in Polynesia, both in Hawaii and the Gilbert Islands. Like his father, he attended Andover Seminary, married immediately after his ordination, and departed with his wife Clara on a ship two weeks later. Their descendants, including the notorious [Hiram III](https://en.wikipedia.org/wiki/Hiram_Bingham_III),[18] would go on to play important roles in history, but those stories are for another time.
+Hiram spent the rest of his years in Connecticut, serving as minister to an African-American church in New Haven. His son, [Hiram Bingham II](https://en.wikipedia.org/wiki/Hiram_Bingham_II), continued missionary work in Polynesia, both in Hawaii and the Gilbert Islands. Like his father, he attended Andover Seminary, married immediately after his ordination, and departed with his wife Clara on a ship two weeks later. Their descendants, including the notorious [Hiram III](https://en.wikipedia.org/wiki/Hiram_Bingham_III),[^18] would go on to play important roles in history, but those stories are for another time.
 
 Hiram I died in 1869, glad to have lived to see the end of slavery in America. His obituary, published in 1871, described him as a man devoted to doing good, and unwilling to compromise with sin:
 
@@ -294,15 +294,15 @@ Hiram I died in 1869, glad to have lived to see the end of slavery in America. H
 
 ## Hawaii after Hiram
 
-When Hiram published his book in 1847, there was reason for optimism about Hawaii. It seemed like the foreign powers of France, Britain, and America had agreed to preserve Hawaii’s independence (or at least, each had determined to not let another power take it over). The native population continued to suffer from disease,[19] but the situation seemed to be mostly stable. The literacy rate was rising, and new technological developments were being introduced. A land reform effort called the [Great Mahele](https://en.wikipedia.org/wiki/Great_M%C4%81hele) was in progress that was intended to redistribute land to native Hawaiians.
+When Hiram published his book in 1847, there was reason for optimism about Hawaii. It seemed like the foreign powers of France, Britain, and America had agreed to preserve Hawaii’s independence (or at least, each had determined to not let another power take it over). The native population continued to suffer from disease,[^19] but the situation seemed to be mostly stable. The literacy rate was rising, and new technological developments were being introduced. A land reform effort called the [Great Mahele](https://en.wikipedia.org/wiki/Great_M%C4%81hele) was in progress that was intended to redistribute land to native Hawaiians.
 
 However, the next 50 years were not kind to Hawaii. Smallpox, which first arrived in 1853, devastated the native population, which [declined below 40,000 by 1896](https://www.oha.org/wp-content/uploads/Estimated-Population-of-the-Hawaiian-Islands-1778-1896.pdf) as a result of this and other diseases. And the political meddling didn’t end when Hiram left. As native Hawaiians died, rich foreigners bought up land and amassed power. The Great Mahele, instead of fulfilling its stated intention of redistributing land to Hawaiians, became easily exploited by American merchants and sugar barons.
 
 In 1887, a group calling itself the “[Citizen's Committee of Public Safety](https://en.wikipedia.org/wiki/Committee_of_Safety_(Hawaii))”, members of which included Lorrin Thurston (grandson of Hiram’s colleague Asa Thurston), and Sanford Dole (also descended from missionaries, and whose family would go on to start the [Dole Pineapple Company](https://en.wikipedia.org/wiki/Dole_plc)), forced King [Kalakaua](https://en.wikipedia.org/wiki/Kal%C4%81kaua) to sign the “[Bayonet Constitution](https://en.wikipedia.org/wiki/1887_Constitution_of_the_Hawaiian_Kingdom)”. This heavily restricted the king’s power in favor of the elected parliament, but instituted property requirements to vote that excluded most native Hawaiians, who had formerly enjoyed universal suffrage.
 
-Six years later, Queen [Liliʻuokalani](https://en.wikipedia.org/wiki/Lili%CA%BBuokalani) attempted to restore the power of the monarchy, but in response the Committee of Safety deposed her in a coup, which led to Hawaii’s annexation by America.[20] In an ironic reversal of Hiram’s journey, the former queen went into exile in Massachusetts.
+Six years later, Queen [Liliʻuokalani](https://en.wikipedia.org/wiki/Lili%CA%BBuokalani) attempted to restore the power of the monarchy, but in response the Committee of Safety deposed her in a coup, which led to Hawaii’s annexation by America.[^20] In an ironic reversal of Hiram’s journey, the former queen went into exile in Massachusetts.
 
-The overthrow of the monarchy marked a low point in the history of Hawaii, but fortunately, the situation has greatly improved since then. Today, Hawaii is one of the fifty United States, and its residents enjoy a standard of living comparable to other developed countries, with a GDP per capita [above the median for US states](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP), and far above other Polynesian islands.[21] The native Hawaiian population has recovered and increased beyond pre-contact levels.[22] Though much cultural heritage has been lost, the state of Hawaii makes an effort to preserve its native language and traditions, instead of suppressing them as heathenry. There are still issues with things like land ownership inequality,[23] homelessness, and environmental degradation, but the Hawaiian Islands have undoubtedly done better than their peers in the Pacific.
+The overthrow of the monarchy marked a low point in the history of Hawaii, but fortunately, the situation has greatly improved since then. Today, Hawaii is one of the fifty United States, and its residents enjoy a standard of living comparable to other developed countries, with a GDP per capita [above the median for US states](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP), and far above other Polynesian islands.[^21] The native Hawaiian population has recovered and increased beyond pre-contact levels.[^22] Though much cultural heritage has been lost, the state of Hawaii makes an effort to preserve its native language and traditions, instead of suppressing them as heathenry. There are still issues with things like land ownership inequality,[^23] homelessness, and environmental degradation, but the Hawaiian Islands have undoubtedly done better than their peers in the Pacific.
 
 <figure>
 
@@ -334,7 +334,7 @@ The missionaries were also careful to distance themselves from those who didn’
 
 Third, make powerful allies. Targeting the royalty, and in particular Queen Ka’ahumanu, for conversion was key to Hiram’s success. A focused campaign of influence can be much more effective than preaching to the masses, because if you can get leaders on your side, their followers will soon join you. The key is identifying which leaders may be receptive to your message.
 
-Fourth, learn to recognize when your beliefs are mistaken. At one point in the book, Hiram argues with a Catholic and claims that their religion is false because their version of the Ten Commandments is incorrect.[24] He fails, however, to model what the Catholic would think in the situation: that the Protestant version is the incorrect one. Overcoming one’s own bias is a challenging task, but clearer thinking may have prevented Hiram’s greatest failure.
+Fourth, learn to recognize when your beliefs are mistaken. At one point in the book, Hiram argues with a Catholic and claims that their religion is false because their version of the Ten Commandments is incorrect.[^24] He fails, however, to model what the Catholic would think in the situation: that the Protestant version is the incorrect one. Overcoming one’s own bias is a challenging task, but clearer thinking may have prevented Hiram’s greatest failure.
 
 Finally, winning a battle, if it draws in a larger opponent, may lose the war. Even if you have the advantage, sometimes it’s best not to attempt to completely crush your adversary if there’s a chance the conflict may escalate beyond your control. Hiram made this mistake, as did Douglas MacArthur in Korea, and many others throughout history.
 
@@ -374,24 +374,24 @@ And most importantly, don’t piss off the French.
 
 In any case, I think his score works out to 28: +1 for being born in New England (Vermont), although probably deserves +2 for spending much of his early life in Massachusetts. +3 for 12 siblings. +3 for father being a deacon. +3 for weird Biblical name and +3 for relatives’ names. +3 for a famous child with the same name. +1 for inventing the Hawaiian writing system. +1 for being anti-Catholic. +3 for founding his own school. +3 for being a social reformer (I think missionary work counts here). +1 for fighting for African-American rights (after returning to the USA), and +3 for prohibiting alcohol.
 
-[14] Hiram never mentions gay sex directly, but when a Hawaiian chief called some missionaries “‘Aikane”, or close male friends, Hiram clarifies that this “heathen title” came with “privileges which they did not covet”.
+[^14]: Hiram never mentions gay sex directly, but when a Hawaiian chief called some missionaries “‘Aikane”, or close male friends, Hiram clarifies that this “heathen title” came with “privileges which they did not covet”.
 
-[15] “according to the opinion of those who had good opportunity to judge, more than half the children were destroyed during the generation preceding the introduction of Christianity”
+[^15]: “according to the opinion of those who had good opportunity to judge, more than half the children were destroyed during the generation preceding the introduction of Christianity”
 
-[16] In fact, Hiram felt unfairly blamed for the decline of surfing among the native Hawaiians.
+[^16]: In fact, Hiram felt unfairly blamed for the decline of surfing among the native Hawaiians.
 
-[17] On the other hand, the French government, despite hearing an appeal of missionaries’ claimed grievances, judged that Laplace had acted admirably and awarded him a promotion! Laplace’s side of the story can be read [here](https://evols.library.manoa.hawaii.edu/server/api/core/bitstreams/9296ae22-a108-4d03-8721-85461b74fbe3/content). However, it should also be noted that around this time, the French pressured Tahiti into becoming a protectorate after [a very similar incident involving missionaries](https://en.wikipedia.org/wiki/Franco-Tahitian_War), so it’s clear the French had aggressive intentions in Polynesia.
+[^17]: On the other hand, the French government, despite hearing an appeal of missionaries’ claimed grievances, judged that Laplace had acted admirably and awarded him a promotion! Laplace’s side of the story can be read [here](https://evols.library.manoa.hawaii.edu/server/api/core/bitstreams/9296ae22-a108-4d03-8721-85461b74fbe3/content). However, it should also be noted that around this time, the French pressured Tahiti into becoming a protectorate after [a very similar incident involving missionaries](https://en.wikipedia.org/wiki/Franco-Tahitian_War), so it’s clear the French had aggressive intentions in Polynesia.
 
-[18] Briefly: Hiram III was a Yale archaeology professor and explorer who brought Machu Picchu to the attention of the Western world, and inspired the character of Indiana Jones. He also was elected to the U.S. Senate from Connecticut. As Senator, Hiram III supported restrictions on immigration (especially from Catholic countries of southern and eastern Europe) [flew in an autogyro from the Capitol plaza to play golf](https://mallhistory.org/items/show/541), and was formally censured for corrupt actions regarding a lobbyist. His son, Hiram IV, was granted a diplomatic position in France largely due to family connections, but ended up defying the visa quotas which his father had supported and thereby saved many Jews from the Holocaust.
+[^18]: Briefly: Hiram III was a Yale archaeology professor and explorer who brought Machu Picchu to the attention of the Western world, and inspired the character of Indiana Jones. He also was elected to the U.S. Senate from Connecticut. As Senator, Hiram III supported restrictions on immigration (especially from Catholic countries of southern and eastern Europe) [flew in an autogyro from the Capitol plaza to play golf](https://mallhistory.org/items/show/541), and was formally censured for corrupt actions regarding a lobbyist. His son, Hiram IV, was granted a diplomatic position in France largely due to family connections, but ended up defying the visa quotas which his father had supported and thereby saved many Jews from the Holocaust.
 
-[19] Hiram estimated there were around 130,000 native Hawaiians when he arrived in 1820, and around 100,000 when he left in 1840.
+[^19]: Hiram estimated there were around 130,000 native Hawaiians when he arrived in 1820, and around 100,000 when he left in 1840.
 
-[20] In a case of nominative determinism, the act of annexation was called the [Newlands Resolution](https://en.wikipedia.org/wiki/Newlands_Resolution) after its sponsor in the Senate, Francis Newlands.
+[^20]: In a case of nominative determinism, the act of annexation was called the [Newlands Resolution](https://en.wikipedia.org/wiki/Newlands_Resolution) after its sponsor in the Senate, Francis Newlands.
 
-[21] Hiram would be especially proud to see it’s [nearly quadruple that of French Polynesia](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PF).
+[^21]: Hiram would be especially proud to see it’s [nearly quadruple that of French Polynesia](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PF).
 
-[22] There are [about 320,000 in Hawaii and 360,000 in the mainland United States.](https://www.oha.org/news/new-census-data-more-native-hawaiians-reside-continent/)
+[^22]: There are [about 320,000 in Hawaii and 360,000 in the mainland United States.](https://www.oha.org/news/new-census-data-more-native-hawaiians-reside-continent/)
 
-[23] For example, Larry Ellison owns 98% of the entire island of Lanai, which he bought from the owner of the Dole corporation.
+[^23]: For example, Larry Ellison owns 98% of the entire island of Lanai, which he bought from the owner of the Dole corporation.
 
-[24] The text of the Bible describing the commandments ([Exodus 20:1-17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A1-17&version=KJV)) is equivalent, but Catholics consider  “Thou shalt have no other gods before Me” and “Thou shalt not make unto thee any graven image” to be one commandment, whereas Protestants (except for Lutherans) split them into two. And Catholics consider “Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife” to be two commandments, whereas Protestants consider them to be one.
+[^24]: The text of the Bible describing the commandments ([Exodus 20:1-17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A1-17&version=KJV)) is equivalent, but Catholics consider  “Thou shalt have no other gods before Me” and “Thou shalt not make unto thee any graven image” to be one commandment, whereas Protestants (except for Lutherans) split them into two. And Catholics consider “Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife” to be two commandments, whereas Protestants consider them to be one.

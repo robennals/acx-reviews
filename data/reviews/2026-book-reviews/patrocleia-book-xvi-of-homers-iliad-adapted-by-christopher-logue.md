@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T12:23:17.000Z'
 slug: patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue
-wordCount: 2280
+wordCount: 2283
 readingTimeMinutes: 11
 source: gdoc
 tags:
@@ -96,13 +96,13 @@ And then, before Patroclus meets his fate, Homer sings of the death of Sarpedon,
 > _**Wrangling over carrion in mid air.**_  
 > **Likewise the human champions,**  
 > **Until Patroclus’ spear nosed past Sarpedon’s busy heart**  
-> **And the ground sense in his body seeped away.**  
+> **And the ground sense in his body seeped away.**
+>
 > _**He fell as a tree falls – oak, say or pine -**_  
 > _**Slowly at first and then, with the bright**_  
 > _**Commercial axes at its heart,**_  
 > _**The tall hurt trunk lies down**_  
-> _**Among its leaves, resentfully**__._  
->   
+> _**Among its leaves, resentfully**__._
 
 Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-command, appeals to Apollo for help:  
   
@@ -204,8 +204,10 @@ Till at the end, in a hysterical frenzy to escape Apollo’s anger, head ringing
 > **A set of jealous bones covered with flesh**  
 > **Finished with bronze, dipped in blood,**  
 > **And the whole being inspired by ferocity**.  
-> **- Kill them!**          **My sweet Patroclus**  
 > **- Kill them!**  
+> **My sweet Patroclus**  
+> **- Kill them!**  
+>    
 > **As many as you can**  
 > **For**  
 > **Coming behind you in the dusk you felt**  
@@ -225,11 +227,12 @@ But that inexorable “struck” is not quite the end, for the very last word is
 > **Calling my name and yet,**  
 > **Somehow it sounds like** _**‘Hector’**_  
 > **And when I close my eyes**  
-> **I see Achilles’ face with Death’s voice coming out of it.”**  
+> **I see Achilles’ face with Death’s voice coming out of it.”**
+>
 > **Saying these things Patroclus died.**  
 > **And as his soul went through the sand like water,**  
 > **Hector withdrew his spear and said**  
-> _**“Perhaps.**__”_  
+> _**“Perhaps.**__”_
 >
 
 [1]  Ancient Greek νόστος (nostos), derived from the verb νέομαι, to turn back; hence here, home-sickness.

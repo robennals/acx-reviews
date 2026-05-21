@@ -628,14 +628,44 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     const el = $(this);
     let inner = el.html() || '';
     if (!/<br\s*\/?>/.test(inner)) return;
-    // A span containing ONLY <br>s (no actual text) is a standalone
-    // line-break separator between sibling spans inside one <p> — real
-    // example: Tale of Genji has `<span>line1</span><span><br></span>
-    // <span>line2</span>` for dialogue. Stripping the `<br>` here would
-    // merge the lines. Leave such spans untouched.
-    if (!el.text().trim()) return;
-    // Strip leading `<br>`s outright — they create empty initial spans.
-    inner = inner.replace(/^\s*(?:<br\s*\/?>\s*)+/, '');
+    // A span containing only `<br>`s + whitespace is a line-break
+    // separator between sibling content spans. Extract the `<br>`s
+    // as siblings OUTSIDE the span so turndown emits them as
+    // hard-break newlines — leaving them inside a whitespace-bearing
+    // span makes turndown collapse the `<br>` and lose the line break
+    // entirely (e.g. Tale of Genji's `<span><br>&nbsp;…</span>` poem
+    // line separators turned the whole poem into one stuck-together
+    // sentence).
+    if (!el.text().trim()) {
+      const brCount = (inner.match(/<br\s*\/?>/g) || []).length;
+      if (brCount > 0) {
+        const brs = '<br>'.repeat(brCount);
+        const remaining = inner.replace(/<br\s*\/?>/g, '');
+        const cls = el.attr('class') || '';
+        const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+        if (remaining.trim()) {
+          el.replaceWith(`${brs}<span${classAttr}>${remaining}</span>`);
+        } else {
+          el.replaceWith(brs);
+        }
+      }
+      return;
+    }
+    // Extract leading `<br>` runs. Like the trailing case, we can't
+    // just discard them — a `<br>` AT THE START of a span sits
+    // between this span and the previous sibling span. Dropping it
+    // would silently glue verse lines together (real example: Tale
+    // of Genji's poems pack each line into its own
+    // `<span class="cN"><br>&nbsp;...</span>` — stripping the
+    // leading `<br>` collapses the whole poem to one line).
+    // Re-emit it as a sibling `<br>` BEFORE the span.
+    let leadingBrs = '';
+    const leadMatch = inner.match(/^(\s*(?:<br\s*\/?>\s*)+)/);
+    if (leadMatch) {
+      const brCount = (leadMatch[0].match(/<br\s*\/?>/g) || []).length;
+      leadingBrs = '<br>'.repeat(brCount);
+      inner = inner.slice(leadMatch[0].length);
+    }
     // Extract trailing `<br>` runs. We can't just discard them: a `<br>`
     // sitting between two sibling spans inside the same `<p>` is a
     // line break that visually separates two distinct chunks (title vs
@@ -651,10 +681,10 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       inner = inner.slice(0, inner.length - trailMatch[0].length) + trailMatch[1];
     }
     if (!/<br\s*\/?>/.test(inner)) {
-      if (trailingBrs) {
+      if (leadingBrs || trailingBrs) {
         const cls = el.attr('class') || '';
         const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
-        el.replaceWith(`<span${classAttr}>${inner}</span>${trailingBrs}`);
+        el.replaceWith(`${leadingBrs}<span${classAttr}>${inner}</span>${trailingBrs}`);
       } else {
         el.html(inner);
       }
@@ -663,8 +693,34 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     const cls = el.attr('class') || '';
     const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
     const parts = inner.split(/<br\s*\/?>/);
-    const newHtml = parts.map(p => `<span${classAttr}>${p}</span>`).join('<br>') + trailingBrs;
+    const newHtml = leadingBrs + parts.map(p => `<span${classAttr}>${p}</span>`).join('<br>') + trailingBrs;
     el.replaceWith(newHtml);
+  });
+
+  // Split `<p>`s at consecutive `<br>` runs (an in-source blank line
+  // inside a multi-line block). The previous span-split may leave
+  // EMPTY `<span></span>` elements between `<br>`s — those correspond
+  // to consecutive `<br>`s in the original span (e.g. Application for
+  // Release's `<span>text<br>text<br><br>text</span>`). Match
+  // `<br>` runs separated by optional empty spans and whitespace.
+  // Turndown otherwise collapses adjacent `<br>`s to a whitespace-only
+  // line which inside a blockquote prefix is a hard-break (not a
+  // paragraph break), losing the source blank.
+  $('p').each(function () {
+    const el = $(this);
+    const html = el.html() || '';
+    const SPLIT_RE = /(?:<br\s*\/?>\s*(?:<span[^>]*>\s*<\/span>\s*)*){2,}/;
+    if (!SPLIT_RE.test(html)) return;
+    if (!isParagraphIndented($, el, styles)) return;
+    const parts = html.split(new RegExp(SPLIT_RE.source, 'g'));
+    if (parts.length < 2) return;
+    if (parts.every(p => p.replace(/<[^>]+>/g, '').trim().length === 0)) return;
+    const cls = el.attr('class') || '';
+    const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+    const wrappers = parts
+      .map(p => `<p${classAttr} data-split-paragraph="1">${p}</p>`)
+      .join('');
+    el.replaceWith(wrappers);
   });
 
   // Heading-by-styling: a `<p>` whose ALL substantive span content is
@@ -1493,18 +1549,15 @@ export function cleanupMarkdown(markdown: string): string {
   // or plain `Footnote:` paragraph) is a strong enough signal that we
   // allow 1+ matching def lines — Hero in History has just one footnote.
   {
-    // Match the Footnotes section marker. Variants we accept:
-    //   `## Footnotes`       — heading
-    //   `## Footnotes:`      — heading with colon (when the upstream
-    //                         underline-to-H2 rule promoted
-    //                         `Footnotes:` directly without stripping)
-    //   `Footnotes:`         — plain paragraph + colon
-    //   `Footnote:`          — singular variant
-    //   `Footnotes`          — bare plain paragraph
-    //   `**Footnotes:**`     — bold + colon (Bickerstaff)
-    //   `**Footnotes**`      — bold
-    const markerRe =
-      /^(?:##[ \t]+Footnotes?:?[ \t]*|\*\*Footnotes?:?\*\*[ \t]*|Footnotes?[ \t]*:?[ \t]*)$/m;
+    // Match the Footnotes/Notes section marker. Variants accepted:
+    //   `## Footnotes`, `### Notes:`, `## Note`
+    //   `**Footnotes:**`, `**Notes:**`
+    //   plain `Footnotes`, `Notes:`, etc.
+    const KEY = '(?:Footnotes?|Notes?)';
+    const markerRe = new RegExp(
+      `^(?:#{2,4}[ \\t]+${KEY}:?[ \\t]*|\\*\\*${KEY}:?\\*\\*[ \\t]*|${KEY}[ \\t]*:?[ \\t]*)$`,
+      'm'
+    );
     const markerMatch = markerRe.exec(md);
     if (markerMatch) {
       const before = md.slice(0, markerMatch.index);
@@ -1512,16 +1565,19 @@ export function cleanupMarkdown(markdown: string): string {
       const after = md.slice(markerMatch.index + markerLine.length);
       const afterLines = after.split('\n');
       // Identify numbered-def lines and their ids in order. Accept
-      // any of `N.`, `N\.`, `N:`, or `(N)` as the leading marker
-      // (period, escaped period, colon, or parens).
-      const defLineRe = /^(?:\((\d+)\)|(\d+)\\?[.:])[ \t]+(.*)$/;
+      // any of `N.`, `N\.`, `N:`, `(N)`, or `[N]` as the leading
+      // marker. Optional `>` blockquote prefix — some authors style
+      // the footnotes block as a blockquoted indented passage
+      // (Sovereign Child does this for its `Notes:` section).
+      const defLineRe =
+        /^>?\s*(?:\[(\d+)\]|\((\d+)\)|(\d+)\\?[.:])[ \t]+(.*)$/;
       const ids: string[] = [];
       const rewrittenAfter = afterLines.map(line => {
         const m = defLineRe.exec(line);
         if (m) {
-          const id = m[1] ?? m[2];
+          const id = m[1] ?? m[2] ?? m[3];
           ids.push(id);
-          return `[^${id}]: ${m[3]}`;
+          return `[^${id}]: ${m[4]}`;
         }
         return line;
       });

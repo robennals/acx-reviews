@@ -53,10 +53,17 @@ James Clavell was…
 
 I have claimed that Clavell is a formulaic writer. So here is everything you need to know about the plot of King Rat summarized using [TVTropes.com](http://tvtropes.com):
 
+  
+  
+  
+
+
 _ _ _
 King Rat starts out with a lie:  
   
 > “There was a war. Changi and Utram Road jails in Singapore door did— exist. Obviously the rest of this story is fiction, and no similarity to anyone living or dead exists or is intended.”
+
+
 
 (insert image Changi)
 
@@ -96,6 +103,8 @@ Sean
 
 You may notice that Sean is not mentioned in my Trope Plot summery.
 
+
+
 > _no similarity to anyone living or dead exists or is intended_  
 
 
@@ -120,11 +129,16 @@ When I first started writing this review (20 minutes ago) I thought I would say 
 
 Marlowe
 
-**The Rats:**
+**The Rats:**  
+  
+  
+
 
 **Coda:**  
 
 It is 1980.
+
+
 
 Renowned author _James Clavell_ wakes up in his luxurious four-poster bed in his expensive $10 million house– and immediately he felt…  
 
@@ -147,6 +161,8 @@ I suggest that when one has found ecstacy eating a dog, one can find meaning aga
 
 
 poem about babalyon
+
+
 
 I image Clavell happy.
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-15T23:10:39.000Z'
 slug: the-epic-of-gilgamesh
-wordCount: 12091
+wordCount: 12092
 readingTimeMinutes: 54
 source: gdoc
 tags:
@@ -628,7 +628,7 @@ In the twenty-first century, where we are more connected than ever, our mark on 
 > _[Why] in your heart [does sorrow reside,]_  
 > _and your face resemble one [come from afar?]_  
 > _[Why are] your features burnt [by frost and by sunshine,]_  
-
+>
 > _[and why do] you wander the wild [in lion’s garb?]’_ ”
 
 [21] Appropriately, the [first known bar joke](https://en.wikipedia.org/wiki/Bar_joke#First_recorded_example) was written (in Sumerian) around the same time as the Old Babylonian version. “A dog entered a tavern and said, 'I can’t see anything. I’ll open this one.'” We don’t know what it means.

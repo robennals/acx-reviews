@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T06:32:54.000Z'
 slug: the-marriage-of-cadmus-and-harmony
-wordCount: 8816
+wordCount: 8817
 readingTimeMinutes: 40
 source: gdoc
 tags:
@@ -82,7 +82,7 @@ But what about endings? Well that brings me to the alternate thesis I originally
 Between the myths, Calasso enjoys tangents on whatever topic strikes his fancy. Remember his book writing strategy of recording random thoughts on notecards? With this in mind, observe this paragraph from chapter 11, which up until this point had been about events around Troy, until he suddenly switches gears and begins discussing Oedipous and the Sphinx.
 
 > _“The Greeks were drawn to enigmas. But what is an enigma? A mysterious formulation, you could say. Yet that wouldn’t be enough to define an enigma. The other thing you have to say is that the answer to an enigma is likewise mysterious. This is what distinguishes the enigma from the problem, although at the beginning of Greek civilization the two categories were confused. When a problem is resolved, both question and answer dissolve, are absorbed into a mechanical formula. Climbing a wall is a problem, until you lean a ladder against it. Afterward, you have neither problem nor solution, just a wall and a ladder. This is not so for the enigma. Take the most famous one of all, the Sphinx’s: “What is the being that has but one voice and yet sometimes has two feet, sometimes three, sometimes four, and is progressively weaker the more feet it has?” Oedipus answers: “Man.” But if we think about that answer, we realize that precisely the fact that “man” is the solution to such an enigma suggests the enigmatic nature of man. What is this incongruous being that goes from the animal condition of the quadruped through to the prosthesis (the old man’s stick), all the time preserving a single voice? The solution to the enigma is thus itself an enigma, and a more difficult one._
-
+>
 > _Resolving an enigma means shifting it to a higher level, as the first drops away. The Sphinx hints at the indecipherable nature of man, this elusive, multiform being whose definition cannot be otherwise than elusive and multiform. Oedipus was drawn to the Sphinx, and he resolved the Sphinx’s enigma, but only to become an enigma himself. Thus anthropologists were drawn to Oedipus, and are still there measuring themselves against him, wondering about him.”_ Ch 10, pg 343-344.
 
 A lot of the time when I am searching online for topics around the Greek myths, they rarely extend beyond the beginner level, but here Calasso decodes the riddle of the Sphinx in a profound way: it reveals the enigmatic nature of man. This book does this sort of thing _very_ well. There are many sections that illuminate these stories like I had never encountered them before, that made me see them as if brand new. Calasso tucks these nuggets between the larger, looser narrative of myth weaving that he is undertaking, but they are there! And they are marvelous.
