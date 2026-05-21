@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T20:04:59.000Z'
 slug: collected-poems-by-cs-lewis
-wordCount: 3910
+wordCount: 3912
 readingTimeMinutes: 18
 source: gdoc
 tags:
@@ -150,8 +150,8 @@ Lewis has read the modernist poets, and he thinks their imagery is bad.  He is p
 > _(Tristram’s obedience, Isoud’s sovereignty…)_  
 > _Turns true in a dread mode I dreamed not of,_  
 > _– What once I studied, now I learn to be;”_
-
-_Old Poets Remembered, C.S. Lewis_
+>
+> _Old Poets Remembered, C.S. Lewis_
 
 _A Confession_ is the first in a collection of 131 poems.  It’s no surprise that a collection like this, written over 30 years, is disparate.  There are poems which are playful and serious, childish and philosophical.  But anyone who has read any Lewis will recognise his style pulsing through it.
 

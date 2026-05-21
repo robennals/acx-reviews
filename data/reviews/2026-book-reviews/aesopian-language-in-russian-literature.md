@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-13T09:29:03.000Z'
 slug: aesopian-language-in-russian-literature
-wordCount: 6661
+wordCount: 6734
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -16,8 +16,8 @@ tags:
 ---
 
 > _Tyranny is always and everywhere the same, while freedom is always various. The well and truly enslaved are dependable; we know what they will say and think and do. The free are quirky._
-
-_Richard Mitchell_
+>
+> _Richard Mitchell_
 
 ## 0\. Introduction
 
@@ -46,9 +46,9 @@ Readers and critics alike praised Clifford’s brave ballads about war and autho
 Here are a few excerpts from “Squares”:
 
 > _And yet the order of things is surreal._
-
-_All of you—those baking loaves,_
-
+>
+> _All of you—those baking loaves,_
+>
 > _Spinning threads, smelting steel,—_
 >
 > _someone shamelessly ripped you off._
@@ -56,12 +56,12 @@ _All of you—those baking loaves,_
 _[...]_
 
 > _You riot and shout: "They’re robbers!"_
-
-_Feeling fooled and betrayed._
-
-_And then they send to you talkers_
-
-_People who know how to persuade._
+>
+> _Feeling fooled and betrayed._
+>
+> _And then they send to you talkers_
+>
+> _People who know how to persuade._
 
 _[...]_
 
@@ -70,16 +70,16 @@ _But if you choose to persist:_
 _- No, you can't take my will!_
 
 > _They'll quietly emerge from the mist,_
-
-_People who know how to kill._
-
+>
+> _People who know how to kill._
+>
 > _Tasting the acrid, you'll swallow your woe,_
 >
 > _While in your window, like in a dream,_
 >
 > _crossing the sky, black squares will show_
-
-_you the sun's disconsolate gleam._
+>
+> _you the sun's disconsolate gleam._
 
 (Translation by Vanya Bagayev and Oleg.)
 
@@ -200,41 +200,41 @@ _Where in thesauruses the topic_
 _Of blizzard isn't granted room,_
 
 > _Can, in the lands, where skies are azure_
-
-_And forecasts cannot go awry,_
-
+>
+> _And forecasts cannot go awry,_
+>
 > _Where summer never stops to pleasure_
-
-_The body and amuse the eye,_
-
-_Can ever they, let for an instant,_
-
-_In dreams, if even indistinct,_
-
-_Let inadvertently, by instinct,_
-
+>
+> _The body and amuse the eye,_
+>
+> _Can ever they, let for an instant,_
+>
+> _In dreams, if even indistinct,_
+>
+> _Let inadvertently, by instinct,_
+>
 > _Grasp what it means to think of spring,_
 >
 > _What means, in March, when almost freezes_
-
-_The air, and terror holds its grip,_
-
-_To hope, for almost no reason,_
-
-_For river ice to start its trip._
-
+>
+> _The air, and terror holds its grip,_
+>
+> _To hope, for almost no reason,_
+>
+> _For river ice to start its trip._
+>
 > _And we've such vintage winters known,_
-
-_Such sorts of cold had to abide,_
-
+>
+> _Such sorts of cold had to abide,_
+>
 > _That there remained nor grief nor groan,_
-
-_But only poverty and pride._
-
-_And bitter little human beings_
-
-_Blindfolded by the snow sting,_
-
+>
+> _But only poverty and pride._
+>
+> _And bitter little human beings_
+>
+> _Blindfolded by the snow sting,_
+>
 > _We could foresee, while hardly seeing,_
 >
 > _That overwhelming green of spring._
@@ -310,12 +310,12 @@ _Wolves eat wolves on sight._
 [...]
 
 > _But when they see those whiskers wave,_
-
-_Oh, dear me!_
-
-_Not a single beast is brave._
-
-_Oh, dear me!_
+>
+> _Oh, dear me!_
+>
+> _Not a single beast is brave._
+>
+> _Oh, dear me!_
 
 [...]
 
@@ -346,29 +346,29 @@ _Hide and Seek in the Dusk_
 > _Across the garden, warm and bright,_
 >
 > _The children cried, “Now count to ten!”_
-
-_And vanished in the dusk again._
-
+>
+> _And vanished in the dusk again._
+>
 > _Blue-eyed kids slipped behind the sky,_
 >
 > _Where sleepy clouds went drifting by._
 >
 > _Green-eyed ones nestled under trees,_
-
-_As soft as secrets held by bees;_
-
+>
+> _As soft as secrets held by bees;_
+>
 > _Brown-eyed ones crouched by bark and loam,_
-
-_Like acorns finding autumn home;_
-
+>
+> _Like acorns finding autumn home;_
+>
 > _They curled beside the garden stones,_
 >
 > _As still as earth, as hushed as bones._
 >
 > _Then came the seekers, bright and gay,_
-
-_With lantern looks and eyes of hay;_
-
+>
+> _With lantern looks and eyes of hay;_
+>
 > _They searched the hedge, they swept the ground,_
 >
 > _They chased each whisper, leaf, and sound._
@@ -380,14 +380,14 @@ _With lantern looks and eyes of hay;_
 > _They asked the moon, they tapped the tree,_
 >
 > _“Now tell us where those hiders be!”_
-
-_They found some deep in the night,_
-
-_Behind a leaf, beneath a light;_
-
-_But even hay-eyed seekers clever_
-
-_Could not find everyone, however._
+>
+> _They found some deep in the night,_
+>
+> _Behind a leaf, beneath a light;_
+>
+> _But even hay-eyed seekers clever_
+>
+> _Could not find everyone, however._
 
 (Translation by Igor Condratievich Efimov and Nina Semenovna Aleksandrova.)
 
@@ -414,8 +414,8 @@ _Alas, poor country!_
 > _Is there scarce ask’d for who; and good men’s lives_
 >
 > _Expire before the flowers in their caps._
-
-_Dying or ere they sicken._
+>
+> _Dying or ere they sicken._
 
 This was already close enough to Pasternak’s reality. To strengthen this effect, he renders the passage subdued and less flowery, in contrast with the surrounding text. Where Shakespeare’s Ross says that Scotland is a place “_where sighs, and groans, and shrieks that rent the air / Are made, not mark’d,_” Pasternak’s Ross says simply, “_We've gotten used to tears; we don't even notice them anymore._” Where Shakespeare continues, “_where violent sorrow seems / A modern ecstasy,_” Pasternak plainly states: “_They regard the frequent storms / As mere everyday occurrences._”
 

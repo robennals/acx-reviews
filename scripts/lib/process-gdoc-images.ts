@@ -10,8 +10,39 @@
  */
 
 import crypto from 'crypto';
+import fs from 'fs';
+import path from 'path';
 import sharp from 'sharp';
 import { uploadIfMissing } from './r2-client';
+
+// Persistent cache: maps the source URL of a remote image (currently used
+// only for Google Drawings) to the final R2 URL after upload. Re-runs of
+// the fetch pipeline skip the network fetch entirely on cache hit. Google
+// rate-limits the drawings endpoint per IP per day, so without this every
+// re-run repeats hundreds of identical requests and eventually 429s.
+const IMAGE_CACHE_PATH = path.join(process.cwd(), '.image-cache.json');
+let imageCache: Record<string, string> | null = null;
+function loadImageCache(): Record<string, string> {
+  if (imageCache) return imageCache;
+  try {
+    if (fs.existsSync(IMAGE_CACHE_PATH)) {
+      imageCache = JSON.parse(fs.readFileSync(IMAGE_CACHE_PATH, 'utf8'));
+    } else {
+      imageCache = {};
+    }
+  } catch {
+    imageCache = {};
+  }
+  return imageCache!;
+}
+function saveImageCache() {
+  if (!imageCache) return;
+  try {
+    fs.writeFileSync(IMAGE_CACHE_PATH, JSON.stringify(imageCache, null, 2));
+  } catch {
+    // best-effort cache write; never fail the pipeline on it
+  }
+}
 
 /**
  * Some Google Docs images come out of the export with a large block of
@@ -168,9 +199,17 @@ export async function processImages(
   for (const m of rewritten.matchAll(DRAWING_RE)) {
     drawingMatches.push({ full: m[0], alt: m[1], url: m[2] });
   }
+  const cache = loadImageCache();
   const drawingReplacements = new Map<string, string>();
+  let cacheDirty = false;
   for (const match of drawingMatches) {
     if (drawingReplacements.has(match.full)) continue;
+    const cached = cache[match.url];
+    if (cached) {
+      reusedCount++;
+      drawingReplacements.set(match.full, `![${match.alt}](${cached})`);
+      continue;
+    }
     try {
       const res = await fetch(match.url);
       if (!res.ok) {
@@ -188,10 +227,13 @@ export async function processImages(
       if (uploaded) uploadedCount++;
       else reusedCount++;
       drawingReplacements.set(match.full, `![${match.alt}](${url})`);
+      cache[match.url] = url;
+      cacheDirty = true;
     } catch (err) {
       console.warn(`  ⚠️  Failed to fetch drawing: ${match.url} - ${err}`);
     }
   }
+  if (cacheDirty) saveImageCache();
   for (const [full, replacement] of drawingReplacements) {
     rewritten = rewritten.split(full).join(replacement);
   }

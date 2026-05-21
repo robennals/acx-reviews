@@ -224,6 +224,13 @@ interface ReviewException {
   // pipeline can't read, and the content has been rehosted as a real
   // gdoc. Keyed by the slug that would be derived from the CSV title.
   docUrlOverride?: string;
+  // Lines matching this regex are promoted to `### ` headings, with
+  // any leading blockquote marker (`> `), flanking italic markers
+  // (`_..._`), and `\.` escapes stripped. Use for docs where the
+  // author styled subheadings as italic-numbered lines inside
+  // indented blocks (e.g. "The Radicalism of the American Revolution"
+  // uses `_2\. Title_` inside a quote indent for each subsection).
+  promoteToSubheading?: string;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -311,7 +318,22 @@ function wrapItalicParagraphsAsBlockquotes(markdown: string): string {
       else nonItalicChars++;
     }
     if (underscores < 2 || underscores % 2 !== 0) continue;
-    if (italicChars < 30) continue;
+    if (italicChars < 30) {
+      // Relax the 30-char floor for short italic lines that are
+      // *continuing* an ongoing blockquote — typically dialogue tags
+      // like `_"Yes," I answered._` that follow the indented italic
+      // prose they're part of. Without this they'd float alone in
+      // body context, visually orphaned from the quote above.
+      let prevQuote = false;
+      for (let j = i - 1; j >= 0; j--) {
+        const t = lines[j].trim();
+        if (t === '') continue;
+        prevQuote = lines[j].startsWith('>');
+        break;
+      }
+      if (!prevQuote) continue;
+      if (italicChars < 8) continue;
+    }
     if (italicChars < nonItalicChars * 2) continue;
     // Cap absolute non-italic content: even at a 2:1 ratio a long
     // line could carry a lot of out-of-italic prose. The user
@@ -487,6 +509,12 @@ function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): s
   // versa. So we compute canonical forms of both (with the by-suffix
   // and review-prefix stripped) and match if any pair lines up.
   const stripByAuthor = (s: string) => s.replace(/\s+by\s+.+$/, '');
+  // Strip a trailing 4-digit year token. CSV titles often include a
+  // publication year — `Siddhartha (1922) by Hermann Hesse` — while
+  // the in-doc heading is just `Siddhartha`. normalize() has already
+  // converted the parens to spaces by the time this runs, so we only
+  // need to remove the bare numeric token.
+  const stripTrailingYear = (s: string) => s.replace(/\s+\d{4}$/, '');
   // Accepted leading-prefix forms:
   //   "review", "review of", "a review of",
   //   "book review", "book review of",
@@ -495,14 +523,61 @@ function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): s
   //   "a (book) review of"
   const stripReviewPrefix = (s: string) =>
     s.replace(/^(your\s+|a\s+|acx\s+)?(book\s+)?review(\s+of)?\s+/, '');
-  const titleForms = new Set([normTitle, stripByAuthor(normTitle)]);
+  const titleNoBy = stripByAuthor(normTitle);
+  const titleForms = new Set([
+    normTitle,
+    titleNoBy,
+    stripTrailingYear(normTitle),
+    stripTrailingYear(titleNoBy),
+  ]);
+  // Plain Levenshtein. Used for typo-tolerant fuzzy match below.
+  const levenshtein = (a: string, b: string): number => {
+    if (a === b) return 0;
+    if (!a.length) return b.length;
+    if (!b.length) return a.length;
+    let prev = new Array<number>(b.length + 1);
+    let curr = new Array<number>(b.length + 1);
+    for (let j = 0; j <= b.length; j++) prev[j] = j;
+    for (let i = 1; i <= a.length; i++) {
+      curr[0] = i;
+      for (let j = 1; j <= b.length; j++) {
+        const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+        curr[j] = Math.min(curr[j - 1] + 1, prev[j] + 1, prev[j - 1] + cost);
+      }
+      [prev, curr] = [curr, prev];
+    }
+    return prev[b.length];
+  };
+  // A by-suffix shouldn't run on for an entire paragraph. "The Radicalism
+  // of the American Revolution" had a first paragraph that began with the
+  // title and then *mentioned* the author parenthetically — the greedy
+  // `\s+by\s+.+$` swallowed the rest of the paragraph and matched the
+  // residual against the title. Cap how long the original line can be
+  // relative to the title before we treat it as still being a title line.
+  // 80 chars buys room for a typical " by Firstname M. Lastname" tail.
+  const titleLineLengthCap = normTitle.length + 80;
   const matchesTitleLine = (plain: string): boolean => {
     const norm = normalize(plain);
     if (!norm) return false;
+    if (norm.length > titleLineLengthCap) return false;
     const noPrefix = stripReviewPrefix(norm);
     const lineForms = [norm, stripByAuthor(norm), noPrefix, stripByAuthor(noPrefix)];
     for (const lf of lineForms) {
       if (titleForms.has(lf)) return true;
+    }
+    // Typo-tolerant pass: authors occasionally retype the title in the
+    // doc, and small differences slip through (Imagined Communities CSV
+    // has "Relfections" + "Origin" — the in-doc heading has the correct
+    // "Reflections" + "Origins"). Allow ~1 char per 15 of title length
+    // of edit distance. Gated on titleCanonical length ≥ 20 so short
+    // titles ("Money", "Candide") can't fuzzy-match unrelated lines.
+    const titleCanonical = stripByAuthor(normTitle);
+    if (titleCanonical.length >= 20) {
+      const maxDist = Math.max(3, Math.floor(titleCanonical.length / 15));
+      for (const lf of lineForms) {
+        if (Math.abs(lf.length - titleCanonical.length) > maxDist) continue;
+        if (levenshtein(lf, titleCanonical) <= maxDist) return true;
+      }
     }
     return false;
   };
@@ -627,6 +702,23 @@ async function createMarkdownFile(
     // point. The italic-wrap just added more, and runs of them need
     // the same blank-`>` separator between paragraphs.
     truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
+  }
+
+  if (slugExceptions[slug]?.promoteToSubheading) {
+    // Has to run AFTER italic-as-blockquote (and the indent-based
+    // blockquote detection in gdoc-html.ts), because the patterns we're
+    // matching typically include both `> ` prefix and `_..._` italic
+    // wrap — both of which appear by the time we get here.
+    const re = new RegExp(slugExceptions[slug].promoteToSubheading!);
+    const lines = truncatedContent.split('\n');
+    for (let i = 0; i < lines.length; i++) {
+      if (!re.test(lines[i])) continue;
+      let s = lines[i].replace(/^>\s*/, '');
+      s = s.replace(/^_+|_+$/g, '');
+      s = s.replace(/\\([.])/g, '$1');
+      lines[i] = `### ${s.trim()}`;
+    }
+    truncatedContent = lines.join('\n');
   }
 
   if (slugExceptions[slug]?.allowBoldHeadingWithPunct) {

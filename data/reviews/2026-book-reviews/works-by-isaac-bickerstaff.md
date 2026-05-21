@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:03:49.000Z'
 slug: works-by-isaac-bickerstaff
-wordCount: 7450
+wordCount: 7460
 readingTimeMinutes: 34
 source: gdoc
 tags:
@@ -90,8 +90,8 @@ Just to be administratively consistent, Swift followed this up with an epitaph. 
 > _A Cobbler, Star monger, and Quack;_
 >
 > _Who to the Stars in pure Good-will,_
-
-_Does to his best look upward still_.
+>
+> _Does to his best look upward still_.
 
 You may have noticed that Swift delighted in emphasizing that Partridge had originally been a cobbler, despite his success as an astrologer and almanac-maker. Despite his success - his _Merlinus Almanac_ sold around 25,000 copies a year – this insult obviously landed. Strangely, his almanac continued to be printed for years afterwards.
 
@@ -258,14 +258,14 @@ _"DEAR COUSIN,_
  _Pilgrimstaff ran away from his friends, and went strolling about the country; and Pipestaff was a wine-cooper. These two were the unlawful issue of Longstaff._
 
 > _"N.B.—The Canes, the Clubs, the Cudgels, the Wands, the Devil upon two Sticks, and one Bread, that goes by the name of Staff of Life, are none of our relations. I am, dear Cousin,_
-
-_"Your humble servant,_
-
-_"D. DISTAFF._
-
-_"From the Heralds' Office,_
-
-_"May 1, 1709."_
+>
+> _"Your humble servant,_
+>
+> _"D. DISTAFF._
+>
+> _"From the Heralds' Office,_
+>
+> _"May 1, 1709."_
 
 Like the Partridge hoax, the genealogy is confidently false, and in a socially legible way. It uses truth telling tools like documentation, classification, etymology, and heraldic seriousness... resulting in nonsense. As Swift shows that a man can be declared dead whether he knows it or not, Steele shows that a family can be declared noble whether it exists or not. He amusingly describes using proto-polygenic screening to perfect his own family when marrying off his siste:
 

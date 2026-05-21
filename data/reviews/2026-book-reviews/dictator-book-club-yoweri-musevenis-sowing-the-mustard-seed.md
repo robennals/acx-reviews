@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-20T17:13:52.000Z'
 slug: dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed
-wordCount: 6683
+wordCount: 6680
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -198,7 +198,7 @@ He rates _himself_ very highly, and isn’t afraid to name and attack his detrac
 
 > “Of these seven types of crime and corruption, only two are surviving. These are N0.5 and N0.6—i.e. embezzlement of public funds, taking of bribes and abuse of office and blocking of projects of public interest such as investments.”
 
-## Is five out of seven supposed to be a good score? 71%? His primary source of legitimacy is stability and the lack of political violence:
+Is five out of seven supposed to be a good score? 71%? His primary source of legitimacy is stability and the lack of political violence:
 
 > “It is no accident that Uganda is today enjoying peace—from corner to corner—for the first time in 500 years. Before colonialism, there were the tribal wars. During colonialism, Karamoja was never pacified. After colonialism, the situation became worse with terrorists, cattle rustlers, extra-judicial killings and other ills. It is only now that the whole of Uganda is at peace… Even security alone is a big contribution. What do the youth in Somalia say about security? Life is unbearable without security.”
 
@@ -206,9 +206,9 @@ It’s a strong point, but it does make you wonder what kind of credibility hit 
 
 > “Democracy. This is a principle that does not need too much elaboration. However, the democracy of populism is not profitable. We should go for the democracy of enlightening people so that they develop and get out of poverty.”
 
-## Later he lists the outstanding issues facing Uganda in the form of “10 Bottlenecks.” The first nine are straightforward state capacity or economic issues, but he wraps up with:
+Later he lists the outstanding issues facing Uganda in the form of “10 Bottlenecks.” The first nine are straightforward state capacity or economic issues, but he wraps up with:
 
-## “The tenth bottleneck used to be democracy. However, that bottleneck was addressed long ago, even when we were still in the bush.”
+> “The tenth bottleneck used to be democracy. However, that bottleneck was addressed long ago, even when we were still in the bush.”
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/95dc976a307ef902.gif)
 
@@ -228,7 +228,7 @@ OK, but Yoweri, my brother… _you’re dictator for life_! Just outlaw them! An
 
 And this, in the end, is what disturbs me the most about Yoweri Museveni. He’s been in power for 40 years. What does he have to show for it? By his own admission, he hasn’t put a stop to 29% of corruption. He claims to be a military genius that brought durable peace to Uganda, but it takes him eight years to put the lid on a devastating civil war. And on development, he’s resigned to protecting “qualitative” gains, whatever that means. It’s the ultimate indictment of rule by a single, uninspired leader.
 
-## Incompetent!
+Incompetent!
 
 * * *
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-31T10:34:37.000Z'
 slug: headbirths-of-the-germans-are-dying-out-by-gunter-grass
-wordCount: 4042
+wordCount: 4029
 readingTimeMinutes: 18
 source: gdoc
 tags:
@@ -15,10 +15,6 @@ tags:
   - Politics
   - Society
 ---
-
-# Headbirths, or The Germans are Dying Out 
-
-# by Günter Grass (1927-2015)
 
 By 1979 when he wrote Headbirths, Günter Grass had completed his acclaimed _Danzig Trilogy_ and _The Flounder_. The first book of the trilogy, _The Tin Drum_, had been made into a film which had just won the Palme d’Or at Cannes. He had not yet won his Nobel Prize but he was a well established writer and had entered the film world too. At this moment he must have had the confidence and financial security to write about whatever subject mattered most to him.
 

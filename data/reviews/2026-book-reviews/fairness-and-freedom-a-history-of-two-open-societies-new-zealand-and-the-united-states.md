@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T11:51:13.000Z'
 slug: fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states
-wordCount: 9728
+wordCount: 9741
 readingTimeMinutes: 44
 source: gdoc
 tags:
@@ -37,15 +37,15 @@ tags:
 > _We are not now that strength which in old days_
 >
 > _Moved earth and heaven, that which we are, we are,_
-
-_One equal temper of heroic hearts,_
-
+>
+> _One equal temper of heroic hearts,_
+>
 > _Made weak by time and fate, but strong in will_
 >
 > _To strive, to seek, to find, and not to yield._
-
-_— Ulysses by Alfred, Lord Tennyson_
-
+>
+> _— Ulysses by Alfred, Lord Tennyson_
+>
 > _“If I showed my true feelings I would cry; it’s the best country I have been in.”_
 >
 > _— George Bernard Shaw, on New Zealand_
@@ -133,8 +133,8 @@ But the question of who New Zealanders are cannot be answered without reference 
 > _“[T]his here harpooneer I have been tellin’ you of has just arrived from the South Seas, where he bought up a lot of ‘balmed New Zealand heads (great curios, you know), and he’s sold all on ‘em but one…”_
 >
 > _“For all his tattooings he was on the whole a clean, comely looking cannibal.”_
-
-_— Moby Dick_
+>
+> _— Moby Dick_
 
 The British were not the first people to settle New Zealand.
 
@@ -207,9 +207,9 @@ The seeds of Australia were established just prior to this wave of noblesse acro
 > _— Fairness and Freedom by David Hackett Fischer_
 >
 > _“If Dunedin is a stolid, wholesome Scots lassie, Christchurch a hockey captain-type of English girl, Wellington a slightly dowdy secretary, modern Auckland is a perky gold-digger, over-talkative but full of ideas, mildly interested in the arts and much in love with life.”_
-
-_— John Cowie Reid, 1964_
-
+>
+> _— John Cowie Reid, 1964_
+>
 > _“My efforts are aimed at establishing the Kingdom of God upon Earth.”_
 >
 > _— New Zealand Prime Minister Michael Savage_
@@ -241,8 +241,8 @@ Canterbury was something else again: an Anglican utopia conceived by John and Ch
 Godley himself despised the “derivation of power from below” and argued that a colony must be founded on duty, good conduct, and fair social order. Canterbury’s settlers thus arrived as a hand-picked God-fearing community seeking to build the Kingdom of God in their new home. Accordingly, these Canterbury Pilgrims named their capital Christchurch.
 
 > _“I would rather be governed by a Nero on the spot than by a board of angels in London, because we could if worst came to worst, cut off Nero’s head, but we could not get at the board in London at all.”_
-
-_— John Godley, 1851_
+>
+> _— John Godley, 1851_
 
 Then came Otago, a Scottish Presbyterian project under the Burns and Cargill families. In its first decades, more than 80% of its settlers were Scots; Dunedin was, in effect, a transplanted Lowlands town, along with its clan structures. Half were women or girls, and they were more educated and religious than those they left behind. The Kirk — stern, egalitarian, and disciplined — anchored everything. Settlers who did not fit in had a miserable time. Wives were the moral arbiters. This “new Scotland” long kept its distinctly Scottish flavour, from church life to education to politics. This settlement too was to be a “godly experiment”.
 

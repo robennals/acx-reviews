@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-22T18:42:53.000Z'
 slug: the-sins-of-gk-chesterton
-wordCount: 7835
+wordCount: 7796
 readingTimeMinutes: 35
 source: gdoc
 tags:
@@ -20,9 +20,8 @@ tags:
 
 ## I - Introduction
 
-> _If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are in frightful danger of seeing it for the first time._
->
-> * _The Napoleon of Notting Hill_
+> _If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are in frightful danger of seeing it for the first time._  
+> * _The Napoleon of Notting Hill_  
 
  Richard Ingrams has been a feature of British letters for many years, co-founding the satirical magazine _Private Eye_ in 1962, part of a boom in political satire which included the TV show _That Was The Week That Was_, and Peter Cook's nightclub _The Establishment,_ which he modelled on “those wonderful Berlin cabarets…that did so much to stop the rise of Hitler”. Ingrams edited Private Eye from 1963-1986, and went on to found the Oldie magazine in 1992, as well as writing for the Spectator, the Independent and the Observer. A lifelong fan of Gilbert Keith Chesterton, he wrote a retrospective article on the writer on the centenary of his birth in 1974, and wrote the introduction to a re-issue of Chesterton's autobiography in 1986.
 
@@ -36,19 +35,13 @@ tags:
 
 ## Chesterton’s Circle
 
-> _Before the Roman came to Rye or out to Severn strode,_
->
-> _The rolling English drunkard made the rolling English road._
->
-> _A reeling road, a rolling road, that rambles round the shire,_
->
-> _And after him the parson ran, the sexton and the squire;_
->
-> _A merry road, a mazy road, and such as we did tread_
->
-> _The night we went to Birmingham by way of Beachy Head._
->
-> * _The Rolling English Road_
+> _Before the Roman came to Rye or out to Severn strode,_  
+> _The rolling English drunkard made the rolling English road._  
+> _A reeling road, a rolling road, that rambles round the shire,_  
+> _And after him the parson ran, the sexton and the squire;_  
+> _A merry road, a mazy road, and such as we did tread_  
+> _The night we went to Birmingham by way of Beachy Head._  
+> * _The Rolling English Road_  
 
 Ingrams begins by painting the more familiar picture of GK Chesterton: a jolly, witty buffoon. 6’2” and 20 stone with long curly chestnut hair, he was “charmingly absent minded” and once filed copy written on torn-off wallpaper. Born in 1874, the son of estate agent Edward Chesterton (the family firm is still trading in North London), he attended St Paul's school then spent a year at Slade school of Art before entering journalism. A staunch Liberal, he began working for the Daily News in 1902, shortly after its purchase by the Quaker chocolatier and philanthropist George Cadbury in 1901. He developed a unique observational style of journalism centred on the romance of the everyday, summed up in the title of a volume of his articles, _Tremendous Trifles_. “Either everything is interesting or nothing is” was his motto. Ingrams draws the analogy of Blake seeing the world in a grain of sand. Like Blake, Chesterton was drawn to the supernatural. After dabbling in the occult at school, he was drawn to the Anglican Church under the influence of his wife Frances who he married in 1901. Chesterton opposed the Boer War (1899-1902), but also wrote in favour of the military virtues and this, as well as his praise of drink, drew ire from the readers of the _Daily News_ who were generally pacifist teetotallers. But editor A.G Gardiner, with a number of impressive writers on his payroll including George Bernard Shaw and H.G Wells, was nonetheless highly impressed: “He is like a visitor out of some fairy tale, a legend in the flesh, a survivor of the childhood of the world…For all the ordinary material cares of life he has no taste, almost no consciousness…He lives in a world of Romance peopled with giants and gay with the laughter of fairies”. Gardiner named his youngest son Gilbert after Chesterton, who was the boy's godfather.
 
@@ -58,9 +51,8 @@ Ingrams begins by painting the more familiar picture of GK Chesterton: a jolly, 
 
 ## Belloc’s Influence
 
-> _I have seen something today that is worse than death: and the name of it is Peace._
->
-> * _The Flying Inn_
+> _I have seen something today that is worse than death: and the name of it is Peace._  
+> * _The Flying Inn_  
 
  Belloc was very much the leader of the pack. He was born in 1870, the son of a French emigre from the Franco-Prussian war who died when he was two. He attended Cardinal Newman's school in Edbaston before joining the French army and studying History at Oxford, where he gained a 1st class degree and was president of the union. He was a Liberal member of parliament for Salford from 1906-1910, but became disillusioned with the party system and with Lloyd George's nascent plans for the welfare state. He was socially and intellectually belligerent. In Gardiner's words, “his talk thunders along in ceaseless torrent. You suspect that if you only had time to think, time to turn round, time to stem that torrent, you would find some of his authorities a little shady, some of his facts a little thin”. Chesterton had no such doubts. He met Belloc in 1902 and was immediately enthralled. As Gardiner saw it, Belloc was an opportunity for the more sluggish Chesterton to live vicariously through a more vigorous man - “he watches his volcanic leader flashing into the lists and he winds his mighty horn to cheer him on”. Belloc’s views were already strongly influenced by a rising tide of anti-semitism in France. After defeat to Prussia in 1870, a strong nationalist movement arose, eager to restore France’s lost dignity and eventually recapture Alsace-Lorraine, surrendered to Prussia. Suspicion of Jews increased after some high profile banking scandals in the 1880s, and reached fever pitch with the Dreyfus Affair. Dreyfus was a jewish officer in the French Army, who in 1894 was accused of spying for Germany, was found guilty by a secret court martial and exiled to Devil’s Island in South America. Emil Zola argued in the pamphlet _J’Accuse_ that Dreyfus was innocent and the evidence against him was forged. Many in France though were suspicious that a conspiracy was afoot to undermine the army and put the project of national _revanche_ at risk. Belloc was firmly of this opinion. He maintained that Dreyfus was guilty. GK Chesterton, like much of the English press, was more inclined to see Dreyfus as the underdog and wrote the poem “to a Certain Nation” to this effect. But in 1905 he added a footnote to the poem, saying that while he hadn’t reached a firm conclusion on Dreyfus’s guilt, there was “a fog of injustice in the English newspapers” and that “the British public was systematically and despotically duped”. As Belloc put it, “I opened his eyes to reality” and sadly it would not be the last time.
 
@@ -74,9 +66,8 @@ Ingrams begins by painting the more familiar picture of GK Chesterton: a jolly, 
 
 ## The Marconi Affair
 
-> _The mere facts! Do you really admit---are you still so sunk in superstitions, so clinging to dim and prehistoric altars, that you believe in facts? Do you not trust an immediate impression?_
->
-> * _The Club of Queer Trades_
+> _The mere facts! Do you really admit---are you still so sunk in superstitions, so clinging to dim and prehistoric altars, that you believe in facts? Do you not trust an immediate impression?_  
+> * _The Club of Queer Trades_  
 
  Guglielmo Marconi invented wireless telegraphy in 1897, and founded companies in Britain and the United States. When the British Government decided to install a wireless telegraphy network across the whole empire, they awarded the tender to the British Marconi Company, the responsibility of Herbert Samuel, who was Postmaster General and the first non-Christianised Jew to hold a cabinet position. The managing director of British Marconi was Godfrey Isaacs, the brother of the Attorney General, Rufus Isaacs. After the deal with the British Government had been signed but _before_ it had been made public, Godfrey went to America to help the American Marconi company raise capital to buy out a rival. They issued new shares and gave a tranche of shares to Godfrey, who on returning to the UK proceeded to sell tohem to several prominent cabinet members, including David Lloyd George. Although government ministers did profit from a deal which wasn’t available to the public, there was no evidence whatsoever that the ethnicity of Samuels and the Isaacs brothers made any difference. After a lot of heat which included an investigation by a House of Commons select committee, the story died.  
 
@@ -86,15 +77,11 @@ Ingrams begins by painting the more familiar picture of GK Chesterton: a jolly, 
 
 ## War
 
-> _Likelier the barricades shall blare_
->
-> _Slaughter below and smoke above,_
->
-> _And death and hate and hell declare_
->
-> _That men have found a thing to love._
->
-> * _The Napoleon of Notting Hill_
+> _Likelier the barricades shall blare_  
+> _Slaughter below and smoke above,_  
+> _And death and hate and hell declare_  
+> _That men have found a thing to love._  
+> * _The Napoleon of Notting Hill_  
 
 The lenient sentence in the libel trial enabled Cecil and Belloc to claim a moral victory. They were in no mood for circumspection, and as the Great War broke out and British Jews were interred for having German-sounding names, the New Witness continued its attacks on the Marconi Men and “anglo-judaic” plutocracy. As Cecil put it though: “We do not attack them for being Jews, indeed we rather excuse them on that ground, thinking them less morally guilty than an Englishman would be if he acted in the same fashion”. In other words, what else can you expect from foreigners? Foreigners, though, are at least human. For Keith Chesterton, Jews were something worse. Animals. This was because of their failure, according to Keith, to exercise the national stiff upper lip while sheltering in the London Underground during air raids - instead they cried and beat their breasts, and consequently should be moved to “a bomb-proof ghetto in the Midlands where they can exhibit the cowardice of their race in decent privacy” (n.b: at least five Jewish soldiers were awarded the Victoria Cross during The Great War). Keith was a communist, so anti-semitism on the New Witness was very much a bipartisan affair. Gilbert was by this time editing the paper, but he published this disgusting piece with a mere acknowledgement that “an able colleague has described with a vividness approaching ferocity a Jew with a gold watch-chain grovelling on the floor of the tube”. A hint of passive aggression recalls Gilbert’s judgement that Keith was “not and has never been a person I could treat like an ordinary subordinate”, as the wife of his over-bearing brother. This feature of their relationship became more important after Cecil’s tragic death.
 
@@ -102,19 +89,13 @@ The lenient sentence in the libel trial enabled Cecil and Belloc to claim a mora
 
 ## From the New Jerusalem to Mussolini
 
-> _Oh, I knew a Doctor Gluck,_
->
-> _And his nose it had a hook,_
->
-> _And his attitudes were anything but Aryan;_
->
-> _So I gave him all the pork_
->
-> _That I had, upon a fork;_
->
-> _Because I am myself a Vegetarian._
->
-> * The Logical Vegetarian
+> _Oh, I knew a Doctor Gluck,_  
+> _And his nose it had a hook,_  
+> _And his attitudes were anything but Aryan;_  
+> _So I gave him all the pork_  
+> _That I had, upon a fork;_  
+> _Because I am myself a Vegetarian._  
+> * The Logical Vegetarian  
 
 In 1917, the Balfour declaration guaranteed a “national home for the Jewish people” in Palestine, now part of the British Empire. Chesterton visited in 1920, and the resulting book, _The New Jerusalem_, was rejected by the Daily Telegraph, because Chesterton felt the need to include the following observations:
 
@@ -128,9 +109,8 @@ In 1917, the Balfour declaration guaranteed a “national home for the Jewish pe
 
 ## III - Some Criticism of the Book (and Chesterton)
 
-> _I say that Comrade Gregory is unfit to be Thursday, for all his amiable qualities. He is unfit to be Thursday because of his amiable qualities_
->
-> * _The Man Who Was Thursday_
+> _I say that Comrade Gregory is unfit to be Thursday, for all his amiable qualities. He is unfit to be Thursday because of his amiable qualities_  
+> * _The Man Who Was Thursday_  
 
  Any criticism of the book risks missing the wood for the trees. If I’m right the book is sometimes unfair to Chesterton, “I really don’t care, Margaret” is a fair response. But it’s reasonable to expect a book having the word _Sins_ in the title to make some attempt to use the word in its technical sense. Civil laws and the judgement of posterity can be random. Did Chesterton fail on his own terms, and if so how? I don’t expect the fine distinctions between calumny and detraction. But there are three conditions for mortal sin - grave matter, full knowledge and full consent. Certainly the matter is grave - but then Chesterton was one man, and when Ingrams says “Chesterton & Belloc…helped to promote a concept of Jews as foreigners and aliens (or worse), thus fostering, in Britain, a more tolerant attitude towards Nazi barbarities than might otherwise have prevailed”, you have to say, really? The first half of that sentence is indisputable, but the second is too strong. The history of what the British people knew when about the holocaust and how it affected their view of the war effort is very complicated. It’s not a story of simple heroism: Orwell references petty antagonism towards Jewish shop-keepers re: rationing. But did Chesterton and Belloc’s propaganda affect any major decisions? Did it delay the war? It seems unlikely. Catholics in general were far too tolerant of fascism throughout Europe. But this is easy to say with hindsight. Communism was an existential risk to the Church in Russia and Mexico. If Chesterton & Belloc thought they were better off with fascism than communism, they weren’t alone. Meanwhile, one aspect of Nazism that Chesterton most definitely would not have supported was eugenics, which he campaigned against for his whole career, and Ingrams doesn’t mention it once.
 
@@ -148,25 +128,18 @@ In 1917, the Balfour declaration guaranteed a “national home for the Jewish pe
 
 ## IV - Remarks on the Last Decade
 
-> _Suppose that a great commotion arises in the street about something, let us say a lamp-post, which many influential persons desire to pull down. A grey-clad monk, who is the spirit of the Middle Ages, is approached upon the matter, and begins to say, in the arid manner of the Schoolmen, “Let us first of all consider, my brethren, the value of Light. If Light be in itself good—” At this point he is somewhat excusably knocked down. All the people make a rush for the lamp-post, the lamp-post is down in ten minutes, and they go about congratulating each other on their unmediaeval practicality. But as things go on they do not work out so easily. Some people have pulled the lamp-post down because they wanted the electric light; some because they wanted old iron; some because they wanted darkness, because their deeds were evil. Some thought it not enough of a lamp-post, some too much; some acted because they wanted to smash municipal machinery; some because they wanted to smash something. And there is war in the night, no man knowing whom he strikes. So, gradually and inevitably, to-day, to-morrow, or the next day, there comes back the conviction that the monk was right after all, and that all depends on what is the philosophy of Light. Only what we might have discussed under the gas-lamp, we now must discuss in the dark._
->
-> * _Heretics_
+> _Suppose that a great commotion arises in the street about something, let us say a lamp-post, which many influential persons desire to pull down. A grey-clad monk, who is the spirit of the Middle Ages, is approached upon the matter, and begins to say, in the arid manner of the Schoolmen, “Let us first of all consider, my brethren, the value of Light. If Light be in itself good—” At this point he is somewhat excusably knocked down. All the people make a rush for the lamp-post, the lamp-post is down in ten minutes, and they go about congratulating each other on their unmediaeval practicality. But as things go on they do not work out so easily. Some people have pulled the lamp-post down because they wanted the electric light; some because they wanted old iron; some because they wanted darkness, because their deeds were evil. Some thought it not enough of a lamp-post, some too much; some acted because they wanted to smash municipal machinery; some because they wanted to smash something. And there is war in the night, no man knowing whom he strikes. So, gradually and inevitably, to-day, to-morrow, or the next day, there comes back the conviction that the monk was right after all, and that all depends on what is the philosophy of Light. Only what we might have discussed under the gas-lamp, we now must discuss in the dark._  
+> * _Heretics_  
 
 **A Chesterton De-fense** (sorry)
 
-> _His sins they were forgiven him; or why do flowers run_
->
-> _Behind him; and the hedges all strengthening in the sun?_
->
-> _The wild thing went from left to right and knew not which was which,_
->
-> _But the wild rose was above him when they found him in the ditch._
->
-> _God pardon us, nor harden us; we did not see so clear_
->
-> _The night we went to Bannockburn by way of Brighton Pier._
->
-> * _The Rolling English Road_
+> _His sins they were forgiven him; or why do flowers run_  
+> _Behind him; and the hedges all strengthening in the sun?_  
+> _The wild thing went from left to right and knew not which was which,_  
+> _But the wild rose was above him when they found him in the ditch._  
+> _God pardon us, nor harden us; we did not see so clear_  
+> _The night we went to Bannockburn by way of Brighton Pier._  
+> * _The Rolling English Road_  
 
   To defend Chesterton, I would like to place him in the context of what I will call Greater Anglo-Catholicism, which encompasses the Oxford Movement in the Church of England and the “Second Spring” in the Roman Catholic Church in England & Wales. The revival began in Oxford in the first half of the 19th century, birthing the Anglo-Catholic wing of the Established Church and nourishing the newly emancipated Catholic Church with a stream of converts. The Oxford Movement began with a loose group of clerical dons sharing some basic ideas: that English society was drifting away from Christianity, that the English Church was drifting in a liberal protestant direction, and that scholarly work on the early Church vindicated Catholic teaching on the Blessed Sacrament, the Virgin Mary and the power of the Pope. “To be deep in history” wrote John Henry Newman “is to cease to be protestant” Also important was a growing aesthetic sense regarding liturgical worship - for this was the Romantic era and a thing of beauty was a joy forever. Believing that “nothing great was ever done by committee”, Newman began _Tracts for the Times_, outlining the group's goals. These included disestablishing the Church of England, so that she could preserve her Christian character - no more liberal politicians appointing bishops. Supporters of antidisestablishmentarianism were horrified, and popular anti-popery was stirred up - the Gordon Gin riots were still a living memory. Newman eventually am go too far. As a don he was obliged to sign the 39 articles of the Church of England, which explicitly rejected the popish doctrine of original sin. Newman tried to argue that the articles merely condemned particular expressions of original sin in circulation during the Reformation, not the Church's perennial teaching on the matter, but this early act of post-structuralism didn't convince the university authorities. Newman resigned his academic and clerical posts, and after a spell as a layman, became a Roman Catholic. Within a couple of years he was ordained a priest and was made a Cardinal in 1879. He returned to writing after being accused of promoting dissimulation by Charles Kingsley. The result was an autobiography of his religious opinions, _Apologia Pro Vita Sua_, where he stressed the continuity of his faith as an Anglican and a Catholic (the book was later praised by James Joyce as a model of literary style).
 
@@ -180,28 +153,16 @@ Initially dubious about the definition of Papal Infallibility by Pius IX at the 
 
 Waugh’s Lord Sebastian Flyte in _Brideshead Revisited_ and Greene's whiskey priest in _the Power and the Glory_ are in the vein of Chesterton’s rolling English drunkard. In my opinion this is about as liberal as traditional catholicism can get. A soul on its way to maturity, frequently falling and picking itself up, ignoring alike voices to turn back or to rush. Chesterton may have failed in charity, but his vision of charity as the “a reverent agnosticism towards the complexity of the soul” remains inspiring and relevant. His splendid silliness was not mere play, it was nothing less than an act of war against false pride and despair. So, mindful of his sins, I’m going to give Chesterton the last word. As Britain descended into a labour crisis in 1912, tensions frayed, and at a picket line on the London docks, radical preacher Ben Tillett prayed publicly for the death of Lord Devonport, director of the Port of London Authority. As we address our own political divisions, Chesterton’s poetic response to Tillett’s _fatwa_ seems appropriate:
 
-> _We whom great mercy holds in fear,_
->
-> _Boast not the claim to cry,_
->
-> _Stricken of any mortal wrong,_
->
-> _‘Lord, let this live man die!’_
->
-> _But not incuriously we ask,_
->
-> _Pondering on life and death,_
->
-> _What name befits that round of years,_
->
-> _What name that span of breath._
->
-> _(...)_
->
-> _O mighty to arise and smite,_
->
-> _O mightier to forgive,_
->
-> _Sunburst that blasted Lazarus,_
->
+> _We whom great mercy holds in fear,_  
+> _Boast not the claim to cry,_  
+> _Stricken of any mortal wrong,_  
+> _‘Lord, let this live man die!’_  
+> _But not incuriously we ask,_  
+> _Pondering on life and death,_  
+> _What name befits that round of years,_  
+> _What name that span of breath._  
+> _(...)_  
+> _O mighty to arise and smite,_  
+> _O mightier to forgive,_  
+> _Sunburst that blasted Lazarus,_  
 > _Lord, let this dead man live!_

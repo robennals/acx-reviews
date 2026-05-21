@@ -64,3 +64,4 @@ next-env.d.ts
 # also contains author identity (sharing settings, comments, etc).
 .gdoc-cache/
 data/stripped-leading-title.log
+.image-cache.json

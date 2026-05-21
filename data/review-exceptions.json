@@ -6,7 +6,8 @@
     "dropBlock": {
       "from": "Contents",
       "to": "V - A defense of"
-    }
+    },
+    "forcePoetryQuotes": true
   },
   "aesopian-language-in-russian-literature": {
     "dropLeadingContentLines": 2,
@@ -43,7 +44,16 @@
   "the-ghost-in-my-brain": {
     "disableItalicAsBlockquote": true
   },
+  "time-gifts": {
+    "disableItalicAsBlockquote": true
+  },
+  "siddhartha-1922-by-hermann-hesse": {
+    "disableItalicAsBlockquote": true
+  },
   "how-i-killed-pluto-and-why-it-had-it-coming": {
     "disableFootnotes": true
+  },
+  "the-radicalism-of-the-american-revolution": {
+    "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
   }
 }

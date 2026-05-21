@@ -82,6 +82,11 @@
     "History",
     "Religion"
   ],
+  "a-secular-age": [
+    "Religion",
+    "Philosophy",
+    "Society"
+  ],
   "a-secular-age-by-charles-taylor": [
     "Religion",
     "Philosophy",
@@ -96,7 +101,8 @@
     "Society"
   ],
   "a-swim-in-a-pond-in-the-rain-by-george-saunders": [
-    "Fiction"
+    "Fiction",
+    "Philosophy"
   ],
   "a-thousand-brains-a-new-theory-of-intelligence": [
     "Science",
@@ -323,6 +329,11 @@
   "bellum-catilinae-the-catiline-conspiracy": [
     "History"
   ],
+  "between-two-fires": [
+    "Fiction",
+    "Religion",
+    "History"
+  ],
   "biophilia-by-eo-wilson": [
     "Biology",
     "Society"
@@ -374,6 +385,11 @@
     "Philosophy",
     "Politics"
   ],
+  "brook-farm-the-dark-side-of-utopia": [
+    "History",
+    "Society",
+    "Politics"
+  ],
   "bukele": [
     "Politics",
     "History"
@@ -388,6 +404,10 @@
   "call-of-dutys-campaigns": [
     "Politics",
     "History"
+  ],
+  "candide": [
+    "Fiction",
+    "Philosophy"
   ],
   "capital-and-ideology-by-thomas-piketty": [
     "Economics",
@@ -650,6 +670,10 @@
     "Society",
     "Biology"
   ],
+  "earth-abides": [
+    "Fiction",
+    "Society"
+  ],
   "earth-in-review-a-beautiful-frustrating-waste-of-time": [
     "Fiction",
     "Philosophy"
@@ -819,6 +843,10 @@
   "gacha-games": [
     "Economics"
   ],
+  "galileos-error": [
+    "Philosophy",
+    "Science"
+  ],
   "games-agency-as-art-review-1": [
     "Philosophy",
     "Technology"
@@ -882,6 +910,11 @@
   ],
   "grave-of-the-fireflies": [
     "Fiction",
+    "History"
+  ],
+  "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness": [
+    "Psychology",
+    "Science",
     "History"
   ],
   "guns-germs-and-steel-the-fates-of-human-societies-by-jared-diamond": [
@@ -1289,6 +1322,10 @@
   "misbelief-what-makes-rational-people-believe-irrational-things-by-dan-ariely": [
     "Psychology"
   ],
+  "moby-dick-or-the-whale": [
+    "Fiction",
+    "History"
+  ],
   "money-by-martin-amis": [
     "Fiction",
     "Philosophy",
@@ -1567,6 +1604,10 @@
   "private-government-by-elizabeth-anderson": [
     "Politics",
     "Economics",
+    "Philosophy"
+  ],
+  "probability-theory-the-logic-of-science": [
+    "Science",
     "Philosophy"
   ],
   "probability-theory-the-logic-of-science-by-e-t-jaynes": [
@@ -2460,6 +2501,10 @@
     "Philosophy",
     "History"
   ],
+  "the-life-changing-magic-of-tidying-up": [
+    "Society",
+    "Psychology"
+  ],
   "the-life-of-johnny-reb-the-common-soldier-of-the-confederacy": [
     "History",
     "Society"
@@ -2707,6 +2752,10 @@
     "Philosophy",
     "Politics"
   ],
+  "the-pre-training-data": [
+    "Technology",
+    "Philosophy"
+  ],
   "the-problem-of-political-authority-by-michael-huemer": [
     "Politics",
     "Philosophy"
@@ -2778,6 +2827,10 @@
     "History",
     "Religion"
   ],
+  "the-rule-of-law": [
+    "Politics",
+    "History"
+  ],
   "the-russian-revolution-a-new-history-by-sean-mcmeekin": [
     "History",
     "Politics"
@@ -2786,6 +2839,11 @@
     "History",
     "Politics",
     "Memoir"
+  ],
+  "the-science-of-second-chances": [
+    "Politics",
+    "Economics",
+    "Society"
   ],
   "the-scythian-empire-central-eurasia-and-the-birth-of-the-classical-age-from-persia-to-china-by-christopher-i-beckwith": [
     "History",
@@ -3031,6 +3089,10 @@
   "theodicy": [
     "Fiction",
     "Religion"
+  ],
+  "there-is-no-antimemetics-division": [
+    "Fiction",
+    "Philosophy"
   ],
   "things-fall-apart-by-chinua-achebe": [
     "Fiction",

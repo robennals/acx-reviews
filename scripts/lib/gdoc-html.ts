@@ -195,7 +195,53 @@ function marginsAreIndented(m: ClassMargins): boolean {
   return false;
 }
 
-function parseGDocStyles(html: string): GDocStyleMap {
+/**
+ * Determine the dominant body font size for a Google Docs HTML export.
+ * Walks all substantive `<span>` text in the body, tallies chars per
+ * font-size, returns the size with the most chars. Falls back to 11pt
+ * when there's no styling info.
+ *
+ * Run once on the FULL document before chunking — splitting at <h1>
+ * boundaries produces chunks whose per-chunk size distribution can be
+ * skewed (a chunk dominated by footnote text mis-identifies the body
+ * font as the footnote size, then turns body paragraphs into headings).
+ */
+function detectBodyFontSize(html: string): number {
+  const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
+  if (!styleMatch) return 11;
+  const classFontSize = new Map<string, number>();
+  const ruleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
+  let m;
+  while ((m = ruleRe.exec(styleMatch[1])) !== null) {
+    const fs = m[2].match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
+    if (fs) classFontSize.set(m[1], parseFloat(fs[1]));
+  }
+  const sizeChars = new Map<number, number>();
+  const spanRe = /<span\s+class="([^"]+)"[^>]*>([^<]*)<\/span>/g;
+  let sm;
+  while ((sm = spanRe.exec(html)) !== null) {
+    const text = sm[2].trim();
+    if (!text) continue;
+    let size: number | undefined;
+    for (const c of sm[1].split(/\s+/)) {
+      const s = classFontSize.get(c);
+      if (s !== undefined) size = s;
+    }
+    if (size === undefined) continue;
+    sizeChars.set(size, (sizeChars.get(size) || 0) + text.length);
+  }
+  let bodySize = 11;
+  let bodyChars = 0;
+  for (const [size, chars] of sizeChars) {
+    if (chars > bodyChars) {
+      bodySize = size;
+      bodyChars = chars;
+    }
+  }
+  return bodySize;
+}
+
+function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
   const boldClasses = new Set<string>();
   const italicClasses = new Set<string>();
   const largeFontClasses = new Set<string>();
@@ -210,44 +256,42 @@ function parseGDocStyles(html: string): GDocStyleMap {
 
   const styleText = styleMatch[1];
 
-  // First, collect every class's declared font-size (if any). We need
-  // the full size map before we can decide which sizes count as
-  // "large" — that decision is relative to the document's own body
-  // font, not an absolute threshold.
-  const classFontSize = new Map<string, number>();
-  const sizeRuleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
-  let sm;
-  while ((sm = sizeRuleRe.exec(styleText)) !== null) {
-    const fs = sm[2].match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
-    if (fs) classFontSize.set(sm[1], parseFloat(fs[1]));
-  }
-
-  // Tally character counts by font-size across substantive `<span>`s in
-  // the document body. The size that owns the most characters is the
-  // body font; any class whose size is meaningfully larger is treated
-  // as a heading-styling signal. WWZ uses 14pt body — under the old
-  // fixed-14pt threshold, every paragraph got promoted to <h2>.
-  const sizeChars = new Map<number, number>();
-  const spanRe = /<span\s+class="([^"]+)"[^>]*>([^<]*)<\/span>/g;
-  let spanMatch;
-  while ((spanMatch = spanRe.exec(html)) !== null) {
-    const text = spanMatch[2].trim();
-    if (!text) continue;
-    const classes = spanMatch[1].split(/\s+/);
-    let size: number | undefined;
-    for (const c of classes) {
-      const s = classFontSize.get(c);
-      if (s !== undefined) size = s; // later class wins (matches CSS cascade)
+  // Determine body font size. Caller can pass a hint to use a doc-wide
+  // value (necessary for chunked processing — see detectBodyFontSize
+  // for context). Without a hint, compute from this slice's spans.
+  let bodySize: number;
+  if (bodySizeHint !== undefined) {
+    bodySize = bodySizeHint;
+  } else {
+    const classFontSize = new Map<string, number>();
+    const sizeRuleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
+    let sm;
+    while ((sm = sizeRuleRe.exec(styleText)) !== null) {
+      const fs = sm[2].match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
+      if (fs) classFontSize.set(sm[1], parseFloat(fs[1]));
     }
-    if (size === undefined) continue;
-    sizeChars.set(size, (sizeChars.get(size) || 0) + text.length);
-  }
-  let bodySize = 11;
-  let bodyChars = 0;
-  for (const [size, chars] of sizeChars) {
-    if (chars > bodyChars) {
-      bodySize = size;
-      bodyChars = chars;
+    const sizeChars = new Map<number, number>();
+    const spanRe = /<span\s+class="([^"]+)"[^>]*>([^<]*)<\/span>/g;
+    let spanMatch;
+    while ((spanMatch = spanRe.exec(html)) !== null) {
+      const text = spanMatch[2].trim();
+      if (!text) continue;
+      const classes = spanMatch[1].split(/\s+/);
+      let size: number | undefined;
+      for (const c of classes) {
+        const s = classFontSize.get(c);
+        if (s !== undefined) size = s;
+      }
+      if (size === undefined) continue;
+      sizeChars.set(size, (sizeChars.get(size) || 0) + text.length);
+    }
+    bodySize = 11;
+    let bodyChars = 0;
+    for (const [size, chars] of sizeChars) {
+      if (chars > bodyChars) {
+        bodySize = size;
+        bodyChars = chars;
+      }
     }
   }
   // "Large" = at least 2pt above body AND at least 13pt absolute. The
@@ -1966,9 +2010,9 @@ export async function fetchGDocAsHTML(docId: string): Promise<string> {
  * Not exported — callers should use convertGDocToMarkdown which handles
  * the full doc (with automatic chunking for large composite docs).
  */
-function convertHtmlChunk(html: string): string {
+function convertHtmlChunk(html: string, bodySizeHint?: number): string {
   // Parse CSS class→style mappings BEFORE loading into Cheerio and removing <style>.
-  const styles = parseGDocStyles(html);
+  const styles = parseGDocStyles(html, bodySizeHint);
 
   const $ = cheerio.load(html);
 
@@ -2095,6 +2139,15 @@ export function convertGDocToMarkdown(html: string): string {
   // Fallback: no H1 boundaries, nothing to split on.
   if (h1Positions.length === 0) return convertHtmlChunk(html);
 
+  // Compute body font size ONCE across the whole document. Without
+  // this hint, each chunk would compute its own — and a chunk that
+  // happens to be dominated by footnote text (smaller font) would mis-
+  // identify the body font, then sweep real body paragraphs into the
+  // "large font = heading" rule. Dictator Book Club exhibited this:
+  // a chunk where 10pt footnote text outweighed 13pt body text re-
+  // classified 13pt body paragraphs as headings.
+  const bodySizeHint = detectBodyFontSize(html);
+
   // Build chunks: [preamble, h1-section, h1-section, ...]
   const ranges: Array<[number, number]> = [];
   if (h1Positions[0] > 0) ranges.push([0, h1Positions[0]]);
@@ -2109,7 +2162,7 @@ export function convertGDocToMarkdown(html: string): string {
     // Wrap in a minimal HTML shell so the style block is visible to our
     // CSS-class detection and so Cheerio has a well-formed document.
     const shell = `<!DOCTYPE html><html><head>${style}</head><body>${chunkBody}</body></html>`;
-    parts.push(convertHtmlChunk(shell));
+    parts.push(convertHtmlChunk(shell, bodySizeHint));
   }
 
   // Concatenating cleaned chunks may produce 4+ consecutive blank lines at

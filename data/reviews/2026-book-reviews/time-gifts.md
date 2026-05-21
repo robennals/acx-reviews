@@ -7,19 +7,19 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T23:12:48.000Z'
 slug: time-gifts
-wordCount: 4956
-readingTimeMinutes: 23
+wordCount: 4935
+readingTimeMinutes: 22
 source: gdoc
 tags:
   - Fiction
   - Philosophy
 ---
 
-> _I won't pretend I don’t have great aspirations. There’s this instinctive reflectivity away from desiring in the arts and literature. It’s uncouth, uncomfortable, to have great expectations for yourself. I want to be a great writer, yes, but I also want to be a highly regarded writer. It’s taken me longer than I’d like to admit that even to myself. One learns to content themselves with little lies that keep them safe from failure._
->
-> _In 2022, I picked a piece of paper off the floor and stood up into an open cabinet door. The concussion that followed took 12 months to resolve. I couldn’t read for more than 5 minutes before a headache—one that felt like ram’s horns boring out of my skull—would cripple me. The coordination required to fold laundry was so cognitively exhausting that I’d need to nap after. I couldn’t write for a year. The world developed a film over it. There was nothing geometrically wrong with my vision, but something had gone out of the world–or me. The clinical term is derealization._
->
-> _When the world finally began cohering again, the first thing I read was_ Time Gifts, _an 80-page novel by the Serbian author Zoran Zivkovic, published in 1997 and translated into English in 2000._
+_I won't pretend I don’t have great aspirations. There’s this instinctive reflectivity away from desiring in the arts and literature. It’s uncouth, uncomfortable, to have great expectations for yourself. I want to be a great writer, yes, but I also want to be a highly regarded writer. It’s taken me longer than I’d like to admit that even to myself. One learns to content themselves with little lies that keep them safe from failure._
+
+_In 2022, I picked a piece of paper off the floor and stood up into an open cabinet door. The concussion that followed took 12 months to resolve. I couldn’t read for more than 5 minutes before a headache—one that felt like ram’s horns boring out of my skull—would cripple me. The coordination required to fold laundry was so cognitively exhausting that I’d need to nap after. I couldn’t write for a year. The world developed a film over it. There was nothing geometrically wrong with my vision, but something had gone out of the world–or me. The clinical term is derealization._
+
+_When the world finally began cohering again, the first thing I read was_ Time Gifts, _an 80-page novel by the Serbian author Zoran Zivkovic, published in 1997 and translated into English in 2000._
 
 The slim novel is a collection of 4 stories connected by a mysterious figure who offers the protagonist of each tale a gift taking the form of a journey through time. What sounds like a simple setup for a Faustian bargain, or perhaps a monkey’s paw literalism trap, in Zivkovic’s hands takes a far more complex and interesting shape.
 
@@ -57,9 +57,9 @@ Each time I read this first story, I feel differently about this ending. Unlike 
 
 What the tempter exposes, beneath all the theological theater, is the gap between what the astronomer says he values and what he will really do given the chance to live. It is only by inhabiting the choice that his true preference, his desire, is revealed. But there is a gap there. The not-knowing is a signal of what the real work of the novel builds towards. The actual decision, the reveal, is obscured because the stranger doesn’t care about revealed preferences—the choice—he cares about the insoluble sensations and feelings that come before and after.
 
-> _It came to me in a dream two months before my concussion—and if it’s good enough for Kekulé, then it’s good enough for me. It, being him: handsome, made handsomer by his knowledge of this handsomeness, smooth talking, tastefully moustached, and well dressed: the tempter. We sat on a bench before a placid lake that stretched out forever._
->
-> _“Do you want to be great?” he asked. “Do you want everything you say you do?”_
+_It came to me in a dream two months before my concussion—and if it’s good enough for Kekulé, then it’s good enough for me. It, being him: handsome, made handsomer by his knowledge of this handsomeness, smooth talking, tastefully moustached, and well dressed: the tempter. We sat on a bench before a placid lake that stretched out forever._
+
+_“Do you want to be great?” he asked. “Do you want everything you say you do?”_
 
 _“Yes,” I answered._
 
@@ -103,17 +103,17 @@ Her despair only lasts so long before she bravely sets it aside. That door is fo
 
 Some might object that always leaving the reader in the moment before the truth amounts to a kind of artistic dereliction of duty, or at least a cowardice or lack of resolve. I disagree. _Time Gifts_ is not a novel about answers. It is a novel about desire and desire exists precisely until the moment it’s fulfilled. Each story ends when the tension and shape of that desire have been brought into view. The void each story leaves echoes the void that sits at the heart of our desires. This, perhaps, is the true sadism of the novel’s tempter. It is not the monkey’s paw punishments that accompany the gifts, but the lived-in realities of the gifts themselves. The way they lay bare the confused hearts of our desires. Do we want the world changed, or do _we_ want to change the world? Do we actually value knowledge over _everything_ the body gives us? If we knew the astronomer's answer, the tension would give out. If we knew whether the paleolinguist’s theories were vindicated, catharsis would overcome absence. So we leave our paleolinguist at the precipice of discovery.
 
-> _“I can give it all to you,” the stranger said to me. It was a dream, maybe, but what did that matter?_
+_“I can give it all to you,” the stranger said to me. It was a dream, maybe, but what did that matter?_
 
 _“Then do,” I said._
 
-> _That haughty tsking of one who knows they’re better than you felt like sandpaper in my ears._
->
-> _“It’s not so simple. There’ll be a cost. Let me first tell you what you stand to gain. You will be rich, of course, and famous. Your books will be loved by audiences and read seriously by critics. Even those who write screeds against you will acknowledge your craft and skill. You will travel the world, speak inside of filled lecture halls, be interviewed by beautiful and brilliant people. You will have fans. Your writing will be taught in classrooms and passages read at weddings and funerals. You will want for nothing. It will all be given to you by your writing.”_
+_That haughty tsking of one who knows they’re better than you felt like sandpaper in my ears._
+
+_“It’s not so simple. There’ll be a cost. Let me first tell you what you stand to gain. You will be rich, of course, and famous. Your books will be loved by audiences and read seriously by critics. Even those who write screeds against you will acknowledge your craft and skill. You will travel the world, speak inside of filled lecture halls, be interviewed by beautiful and brilliant people. You will have fans. Your writing will be taught in classrooms and passages read at weddings and funerals. You will want for nothing. It will all be given to you by your writing.”_
 
 _“But?” There is always a but._
 
-> _“You will have to leave your loved ones behind. Your wife will leave you—your best friend and your aunts and uncles and your older cousins and your sister and your parents—you will have to take everything that you give them, and give it to your art instead. And so they will leave. The root-thick mesh that ties you to them will rot and wither and dissolve in the ocean of your success. It won’t be like magic. It will be a deal. You will give everything to this one thing, you will lose everything else, and I will, the world will give you exactly what you desire.”_
+_“You will have to leave your loved ones behind. Your wife will leave you—your best friend and your aunts and uncles and your older cousins and your sister and your parents—you will have to take everything that you give them, and give it to your art instead. And so they will leave. The root-thick mesh that ties you to them will rot and wither and dissolve in the ocean of your success. It won’t be like magic. It will be a deal. You will give everything to this one thing, you will lose everything else, and I will, the world will give you exactly what you desire.”_
 
 _I woke before I could answer._
 
@@ -145,9 +145,9 @@ The watchmaker’s gift nakedly exposes the failure of prediction. Our tendency 
 
 The nature of desire is even more squishy than revealed vs. stated preferences would suggest. The gifts the not-devil gives reveal the stickiness of affective forecasting. It is only through the embodied experience of living with an irreversible decision—to recant or die; to float as a ghost in the deep past; to save your wife who died decades ago—that these characters truly come to know what they actually like.
 
-> _There were times after my concussion when I returned to the page and tried, desperately to type something. I mean this sincerely, sentences would not form. I couldn’t write without a pain that made everything but shutting my eyes and lying down intolerable. I thought, sometimes, in that frenetic desperation chronic illness and pain can engender, that maybe, somehow, I had answered that demon. That I’d said no, and as punishment, he’d taken everything away._
->
-> _The day before the day before my wedding, my wife and I stayed down at her parents’ place—closer to the venue where we’d be married. She drove us down, but even still, the hour-and-a-half car ride had been hard. I mean this sincerely: my brain could not handle a field of vision that moved at more than 5mph. After we arrived, I crawled into her childhood bedroom and tried to sleep. The thing is, though, if you are essentially doing nothing all day because everything hurts, it’s really hard to sleep because you’re ruinously bored. I lay in the blackout-curtained bedroom, too-hot above the sheets (temperature regulation, it turns out, can be thrown out of whack by brain injury, too). So, I just lay there with my eyes closed for hours. I heard my soon-to-be-wife, my brother-and-sister-in-law, and their parents out in the garage. They’d moved the cars out to make room for a folding table and a chest cooler and were playing drinking games and laughing and sharing muffled stories and making memories I was too hurt and tired to participate in. I had to reserve all my cognitive strength for the wedding we had in two days. I cried, listening to their joy. I didn’t expect them not to have it. I didn’t want them to be miserable alongside me, but I felt this chasm between their laughter and my tears and I just couldn’t stop. It didn’t help, of course, that emotional disregulation is another common symptom of my post-concussive syndrome._
+_There were times after my concussion when I returned to the page and tried, desperately to type something. I mean this sincerely, sentences would not form. I couldn’t write without a pain that made everything but shutting my eyes and lying down intolerable. I thought, sometimes, in that frenetic desperation chronic illness and pain can engender, that maybe, somehow, I had answered that demon. That I’d said no, and as punishment, he’d taken everything away._
+
+_The day before the day before my wedding, my wife and I stayed down at her parents’ place—closer to the venue where we’d be married. She drove us down, but even still, the hour-and-a-half car ride had been hard. I mean this sincerely: my brain could not handle a field of vision that moved at more than 5mph. After we arrived, I crawled into her childhood bedroom and tried to sleep. The thing is, though, if you are essentially doing nothing all day because everything hurts, it’s really hard to sleep because you’re ruinously bored. I lay in the blackout-curtained bedroom, too-hot above the sheets (temperature regulation, it turns out, can be thrown out of whack by brain injury, too). So, I just lay there with my eyes closed for hours. I heard my soon-to-be-wife, my brother-and-sister-in-law, and their parents out in the garage. They’d moved the cars out to make room for a folding table and a chest cooler and were playing drinking games and laughing and sharing muffled stories and making memories I was too hurt and tired to participate in. I had to reserve all my cognitive strength for the wedding we had in two days. I cried, listening to their joy. I didn’t expect them not to have it. I didn’t want them to be miserable alongside me, but I felt this chasm between their laughter and my tears and I just couldn’t stop. It didn’t help, of course, that emotional disregulation is another common symptom of my post-concussive syndrome._
 
 If there’s a horror in these gifts, it’s a horror that Zivkovic twists deeper in the final, metafictional, story of the novel.
 
@@ -167,8 +167,8 @@ In the final moments of the story, the painter bids the writer adieu. “Goodbye
 
 There’s a brutal honesty in the novel’s navel-gazing ending. The desire to consider the _why_ of writing. The absence of the answer on the page. The writing of it anyway.
 
-> _Two days after my teary, sleepless night, I got married. I was still concussed. I had to read my vows I’d promised to memorize off a piece of paper (and it hurt). It was one of the most beautiful days of my life. The sun shone too brightly, my father—the officiant—spoke just a little too long (it was perfect), my wife’s vows, which she’d finished in the limousine ride over to the venue, was the singularly best piece of writing I’d ever heard, I kissed her in front of everyone we liked and loved and they cheered, my best man gave a toast that people still tell me is the best they’ve heard, we danced the entire time. It was a moment of abundance, of feasting. I wouldn’t have traded it for anything._
->
-> _There it was. My answer: I wouldn’t have traded it for anything. If that demon had offered to take both my concussion and my wedding away, I would say no. Perhaps I’m not as committed an artist as Zivkovic. His characters never get to file their report. They are left at the precipice, desire clarified but the answer withheld. I can’t resist providing an answer. But I’m not a character. I had to live through it—the pain, the physical therapy, the consequences. When I had, I knew._
->
-> _If I couldn’t smile in a room surrounded by people who loved me for a thousand things that had nothing to do with my writing, then what on Earth would there be left to write about?_
+_Two days after my teary, sleepless night, I got married. I was still concussed. I had to read my vows I’d promised to memorize off a piece of paper (and it hurt). It was one of the most beautiful days of my life. The sun shone too brightly, my father—the officiant—spoke just a little too long (it was perfect), my wife’s vows, which she’d finished in the limousine ride over to the venue, was the singularly best piece of writing I’d ever heard, I kissed her in front of everyone we liked and loved and they cheered, my best man gave a toast that people still tell me is the best they’ve heard, we danced the entire time. It was a moment of abundance, of feasting. I wouldn’t have traded it for anything._
+
+_There it was. My answer: I wouldn’t have traded it for anything. If that demon had offered to take both my concussion and my wedding away, I would say no. Perhaps I’m not as committed an artist as Zivkovic. His characters never get to file their report. They are left at the precipice, desire clarified but the answer withheld. I can’t resist providing an answer. But I’m not a character. I had to live through it—the pain, the physical therapy, the consequences. When I had, I knew._
+
+_If I couldn’t smile in a room surrounded by people who loved me for a thousand things that had nothing to do with my writing, then what on Earth would there be left to write about?_

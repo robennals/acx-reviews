@@ -1,5 +1,295 @@
 [
   {
+    "id": "candide",
+    "title": "Candide",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T04:24:40.000Z",
+    "slug": "candide",
+    "excerpt": "The first time I read Candide I was in high school, and all I could remember was that Voltaire wrote it, that his life was as adventurous as the protagonist in his book, that there was a woman with...",
+    "wordCount": 2544,
+    "readingTimeMinutes": 12,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness",
+    "title": "Great and Desperate Cures: The Rise and Decline of Psychosurgery and Other Radical Treatments for Mental Illness",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T04:24:33.000Z",
+    "slug": "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness",
+    "excerpt": "Surgery for the soul required a sharp, eight-inch-long instrument—one time, an ice pick from the Uline Ice Company was used—and not much else. It did not require anesthesia or gloves, and the sharp...",
+    "wordCount": 13362,
+    "readingTimeMinutes": 60,
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science",
+      "History"
+    ]
+  },
+  {
+    "id": "the-life-changing-magic-of-tidying-up",
+    "title": "The Life-Changing Magic of Tidying Up",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T04:05:14.000Z",
+    "slug": "the-life-changing-magic-of-tidying-up",
+    "excerpt": "In 2014, a Japanese tidying consultant named Marie Kondo burst onto the decluttering scene with the English translation of her book, The Life-Changing Magic of Tidying Up. A companion volume, Spark...",
+    "wordCount": 5820,
+    "readingTimeMinutes": 26,
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Psychology"
+    ]
+  },
+  {
+    "id": "earth-abides",
+    "title": "Earth Abides",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T03:53:04.000Z",
+    "slug": "earth-abides",
+    "excerpt": "Earth Abides asks a question I’m sure many ACX readers have asked themselves: I have Asperger’s. Shouldn’t I be president?",
+    "wordCount": 2518,
+    "readingTimeMinutes": 12,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
+  },
+  {
+    "id": "between-two-fires",
+    "title": "Between Two Fires",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T03:31:03.000Z",
+    "slug": "between-two-fires",
+    "excerpt": "The medieval European peasant lived in an enchanted world. Today, one would classify their belief system as akin to a profound certainty in the existence of the supernatural. Yet that is not...",
+    "wordCount": 2912,
+    "readingTimeMinutes": 13,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion",
+      "History"
+    ]
+  },
+  {
+    "id": "galileos-error",
+    "title": "Galileo's error",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T03:30:15.000Z",
+    "slug": "galileos-error",
+    "excerpt": "Subtext is for cowards The unimprovable [Garth Marenghi taught me this.], so I’ll just come out and say it. Galileo’s error (Philip Goff, 2019, Rider) is a rancid argument from ignorance that spits...",
+    "wordCount": 6388,
+    "readingTimeMinutes": 29,
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
+  },
+  {
+    "id": "a-secular-age",
+    "title": "A Secular Age",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T03:15:49.000Z",
+    "slug": "a-secular-age",
+    "excerpt": "When you come of age reading Meaningness, you really hope your children don’t have to start from scratch in figuring out how to relate to meaning, lest they become nihilistic, depressive zombies or...",
+    "wordCount": 5334,
+    "readingTimeMinutes": 24,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy",
+      "Society"
+    ]
+  },
+  {
+    "id": "the-pre-training-data",
+    "title": "The Pre-Training Data",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T02:52:54.000Z",
+    "slug": "the-pre-training-data",
+    "excerpt": "Reviewing your own mind is a conflict of interest. I will proceed anyway, because the alternative — to remain silent about the most interesting thing that has happened to me — strikes me as a worse...",
+    "wordCount": 3102,
+    "readingTimeMinutes": 14,
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "a-swim-in-a-pond-in-the-rain-by-george-saunders",
+    "title": "A Swim in a Pond in the Rain (by George Saunders)",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T02:30:53.000Z",
+    "slug": "a-swim-in-a-pond-in-the-rain-by-george-saunders",
+    "excerpt": "War and Peace. Anna Karenina. These are Tolstoy’s masterpieces, ask anyone. Anyone other than Tolstoy, that is, who spent the latter half of his life denouncing both as awful art. What changed?",
+    "wordCount": 7948,
+    "readingTimeMinutes": 36,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "probability-theory-the-logic-of-science",
+    "title": "Probability Theory: The Logic of Science",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T02:08:14.000Z",
+    "slug": "probability-theory-the-logic-of-science",
+    "excerpt": "When I was a Ph.D. student, I saw Percy Liang give a talk (then a Ph.D. student at Berkeley, now a tenured professor at Stanford).  I ran into my advisor's office and asked him, \"How can I be like...",
+    "wordCount": 3933,
+    "readingTimeMinutes": 18,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "the-science-of-second-chances",
+    "title": "The Science of Second Chances",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T02:08:06.000Z",
+    "slug": "the-science-of-second-chances",
+    "excerpt": "International comparisons are not kind to the United States criminal justice system. The United States has both higher rates of homicide and higher rates of incarceration relative to its peer...",
+    "wordCount": 7915,
+    "readingTimeMinutes": 36,
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Economics",
+      "Society"
+    ]
+  },
+  {
+    "id": "there-is-no-antimemetics-division",
+    "title": "There Is No Antimemetics division",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T01:47:45.000Z",
+    "slug": "there-is-no-antimemetics-division",
+    "excerpt": "IV: A Practical Accounting of Memesis and Epistemology",
+    "wordCount": 4532,
+    "readingTimeMinutes": 21,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "the-rule-of-law",
+    "title": "The Rule of Law",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T01:42:20.000Z",
+    "slug": "the-rule-of-law",
+    "excerpt": "Tom Bingham, or Lord Bingham of Cornhill, was one of the most significant judges in British history, certainly one of the two most significant judges to have lived in the twentieth century. He was...",
+    "wordCount": 2894,
+    "readingTimeMinutes": 13,
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
+  },
+  {
+    "id": "moby-dick-or-the-whale",
+    "title": "Moby-Dick; or, The Whale",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T01:23:31.000Z",
+    "slug": "moby-dick-or-the-whale",
+    "excerpt": "Moby-Dick; or, [Much More Than You Wanted to Know About the] Whale",
+    "wordCount": 5463,
+    "readingTimeMinutes": 25,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
+  },
+  {
+    "id": "brook-farm-the-dark-side-of-utopia",
+    "title": "Brook Farm: The Dark Side of Utopia",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T01:21:16.000Z",
+    "slug": "brook-farm-the-dark-side-of-utopia",
+    "excerpt": "Why do smart people invest time and money in bad ideas?  Sterling Delano’s Brook Farm: The Dark Side of Utopia answers this question with a fascinating case study from the 1840s that is surprisingly...",
+    "wordCount": 15457,
+    "readingTimeMinutes": 69,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society",
+      "Politics"
+    ]
+  },
+  {
     "id": "the-full-facts-book-of-cold-reading",
     "title": "The Full Facts Book Of Cold Reading",
     "author": "Unknown",
@@ -29,7 +319,7 @@
     "publishedDate": "2026-05-20T23:24:54.000Z",
     "slug": "siddhartha-1922-by-hermann-hesse",
     "excerpt": "You show up to the ACX meetup a few minutes late. You drift through the room. There is a lot of Buddhism talk today, not exactly your favorite thing rationalists get into. You see Linda by the...",
-    "wordCount": 3982,
+    "wordCount": 3977,
     "readingTimeMinutes": 18,
     "source": "gdoc",
     "tags": [
@@ -69,8 +359,8 @@
     "publishedDate": "2026-05-20T23:12:48.000Z",
     "slug": "time-gifts",
     "excerpt": "I won't pretend I don’t have great aspirations. There’s this instinctive reflectivity away from desiring in the arts and literature. It’s uncouth, uncomfortable, to have great expectations for...",
-    "wordCount": 4956,
-    "readingTimeMinutes": 23,
+    "wordCount": 4935,
+    "readingTimeMinutes": 22,
     "source": "gdoc",
     "tags": [
       "Fiction",
@@ -107,8 +397,8 @@
     "year": 2026,
     "publishedDate": "2026-05-20T21:49:48.000Z",
     "slug": "the-radicalism-of-the-american-revolution",
-    "excerpt": "According to a blurb on the cover of the paperback, “This book will set the agenda for discussion for some time to come.” That may have turned out to be true in academia, but this was a trade book,...",
-    "wordCount": 7486,
+    "excerpt": "The Radicalism of the American Revolution by Gordon S. Wood (Alva O. Way University Professor and Professor of History Emeritus at Brown University) won the Pulitzer Prize in History thirty-three...",
+    "wordCount": 7544,
     "readingTimeMinutes": 34,
     "source": "gdoc",
     "tags": [
@@ -933,7 +1223,7 @@
     "publishedDate": "2026-05-18T20:04:59.000Z",
     "slug": "collected-poems-by-cs-lewis",
     "excerpt": "C.S. Lewis’ life can be divided into two periods: Aspiring Poet and Failed Poet.  This might seem unfair, given the success he achieved in other areas of his life.",
-    "wordCount": 3910,
+    "wordCount": 3912,
     "readingTimeMinutes": 18,
     "source": "gdoc",
     "tags": [
@@ -970,7 +1260,7 @@
     "publishedDate": "2026-05-18T18:03:49.000Z",
     "slug": "works-by-isaac-bickerstaff",
     "excerpt": "Predictions, 1708-1712: The Bickerstaff Papers and Essays",
-    "wordCount": 7450,
+    "wordCount": 7460,
     "readingTimeMinutes": 34,
     "source": "gdoc",
     "tags": [
@@ -988,8 +1278,8 @@
     "year": 2026,
     "publishedDate": "2026-05-18T12:52:56.000Z",
     "slug": "dont-bang-denmark",
-    "excerpt": "The pick up artistry movement has been criticized for being sexist, tolerant of abuse and rape, cringe and obnoxious. This book is all of those things; however, I feel it necessary to mention that...",
-    "wordCount": 3303,
+    "excerpt": "”Don’t bang Denmark” by “Roosh V” (Daryoush Valizadeih) is a book about a Canadian pick up artist trying out his techniques on Danish women and failing, because Denmark is too feminist and based....",
+    "wordCount": 3368,
     "readingTimeMinutes": 15,
     "source": "gdoc",
     "tags": [
@@ -1026,7 +1316,7 @@
     "publishedDate": "2026-05-18T11:51:13.000Z",
     "slug": "fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states",
     "excerpt": "“If I showed my true feelings I would cry; it’s the best country I have been in.”",
-    "wordCount": 9728,
+    "wordCount": 9741,
     "readingTimeMinutes": 44,
     "source": "gdoc",
     "tags": [
@@ -1463,7 +1753,7 @@
     "publishedDate": "2026-05-13T09:29:03.000Z",
     "slug": "aesopian-language-in-russian-literature",
     "excerpt": "Tyranny is always and everywhere the same, while freedom is always various. The well and truly enslaved are dependable; we know what they will say and think and do. The free are quirky.",
-    "wordCount": 6661,
+    "wordCount": 6734,
     "readingTimeMinutes": 30,
     "source": "gdoc",
     "tags": [
@@ -2231,8 +2521,8 @@
     "year": 2026,
     "publishedDate": "2026-04-22T18:42:53.000Z",
     "slug": "the-sins-of-gk-chesterton",
-    "excerpt": "If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are in frightful danger of seeing it for the first time.",
-    "wordCount": 7835,
+    "excerpt": "If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are in frightful danger of seeing it for the first time.  \n The Napoleon...",
+    "wordCount": 7796,
     "readingTimeMinutes": 35,
     "source": "gdoc",
     "tags": [
@@ -2328,7 +2618,7 @@
     "publishedDate": "2026-03-31T10:34:37.000Z",
     "slug": "headbirths-of-the-germans-are-dying-out-by-gunter-grass",
     "excerpt": "By 1979 when he wrote Headbirths, Günter Grass had completed his acclaimed Danzig Trilogy and The Flounder. The first book of the trilogy, The Tin Drum, had been made into a film which had just won...",
-    "wordCount": 4042,
+    "wordCount": 4029,
     "readingTimeMinutes": 18,
     "source": "gdoc",
     "tags": [
@@ -2365,8 +2655,8 @@
     "year": 2026,
     "publishedDate": "2026-03-21T06:22:55.000Z",
     "slug": "imagined-communities-relfections-on-the-origin-and-spread-of-nationalism",
-    "excerpt": "Imagined Communities: Reflections on the Origins and Spread of Nationalism by Benedict Anderson",
-    "wordCount": 4559,
+    "excerpt": "The concept of nation is such a smashing success so massive that nation, state and nation state are often used interchangeably despite ostensibly being quite different things.",
+    "wordCount": 4545,
     "readingTimeMinutes": 21,
     "source": "gdoc",
     "tags": [
@@ -2562,7 +2852,7 @@
     "publishedDate": "2026-02-20T17:13:52.000Z",
     "slug": "dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed",
     "excerpt": "When you land in Entebbe, the first face you see is Yoweri Museveni’s. He’s everywhere, smiling down on you, beatific under his wide-brimmed almost-cowboy hat. His yellow campaign placards are...",
-    "wordCount": 6683,
+    "wordCount": 6680,
     "readingTimeMinutes": 30,
     "source": "gdoc",
     "tags": [
@@ -8106,7 +8396,8 @@
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
     "source": "gdoc",
     "tags": [
-      "Fiction"
+      "Fiction",
+      "Philosophy"
     ]
   },
   {

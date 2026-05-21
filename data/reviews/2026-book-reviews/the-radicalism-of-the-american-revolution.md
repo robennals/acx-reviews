@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T21:49:48.000Z'
 slug: the-radicalism-of-the-american-revolution
-wordCount: 7486
+wordCount: 7544
 readingTimeMinutes: 34
 source: gdoc
 tags:
@@ -15,6 +15,8 @@ tags:
   - Politics
   - Society
 ---
+
+_The Radicalism of the American Revolution_ by Gordon S. Wood (Alva O. Way University Professor and Professor of History Emeritus at Brown University) won the Pulitzer Prize in History thirty-three years ago, an honor which came with a cash award of “[Three thousand dollars ($3,000)](https://www.pulitzer.org/winners/gordon-s-wood).” This mismatch between critical acclaim and practical under-appreciation seems emblematic of his work.
 
 According to a blurb on the cover of the paperback, “This book will set the agenda for discussion for some time to come.” That may have turned out to be true in academia, but this was a trade book, not published by an academic press, and there are few signs of its influence on the popular culture today. Ken Burns’s recent six-part, approximately 12,000-hour documentary—despite featuring Wood, now in his nineties, as one of its on-camera interview subjects—seems hardly to have considered his ideas at all. (Maybe it did eventually; I gave up about 8,000 hours in.)
 
@@ -36,13 +38,13 @@ _1\. Luxury and Consumerism_
 
 In the mid-1700s, the colonies experienced a “demographic explosion.” More people and more movement were coupled with equally dramatic economic changes. More imports, more exports, and higher prices created new markets, which prompted small farmers to grow surpluses and eventually allowed them to become consumers of “luxuries” or “genteel goods”: products like tea, tea sets, handkerchiefs made from silk, and mattresses made from feathers. Only poverty, it had long been believed, could motivate ordinary people to work; as it turned out, the opportunity to rise in social rank proved to be an even stronger incentive. Consumerism by ordinary people created the beginnings of a middle class and transformed a social hierarchy that was already flatter and less rigid than at home in England; the colonies had nothing like “a traditional European nobility and a sprawling mass of the destitute.”
 
-> _2\. A Democratic Revolution in Eighteenth-Century American Society_
+### 2. A Democratic Revolution in Eighteenth-Century American Society
 
 Americans of the 1760s and 1770s hardly seemed to be on the brink of revolution; they were not generally poor, discontented, or oppressed, and instead had become the most prosperous people in the world. This prosperity though, emerging as it did alongside a breakdown of longstanding hierarchical social relationships, led to increasing anxiety, nervousness, and jealousy in society. It was the unprecedented equality and prosperity of the colonies that created a revolutionary situation: a people newly risen from the poverty that had always characterized all but the aristocracy, and newly sensitive to any threat to the liberty and independence that had made possible the radical transformation in their social stations. This sensitivity was gradually focused to a single point by the imposition of British power in the colonies, which, apparently to everyone’s surprise, ultimately produced an imperial crisis and led to the breakup of the Empire.
 
 ## B. The Ideological Context of the American Revolution
 
-> _1\. Conspiratorial Thinking in the Eighteenth-Century Atlantic World_
+### 1. Conspiratorial Thinking in the Eighteenth-Century Atlantic World
 
 The growing conflict with the Mother Country in the 1760s and 1770s required explanation and justification by the colonists; their history of hierarchical, monarchical society, with its chains of dependence, prepared them to see each new assertion of sovereignty by Britain as evidence of a conspiracy to take away their liberties and return them to servitude. Wood writes (pp. 60–61):
 
@@ -52,7 +54,7 @@ The growing conflict with the Mother Country in the 1760s and 1770s required exp
 
 Conspiratorial fears were widespread in the English-speaking world at this moment of transition from a highly personal pre-modern past to today’s highly impersonal modern societies. For the colonists, rebellion against the king finally emerged as the only sufficient political response to the grand tyrannical designs they saw—they were, they repeatedly said, defending not just their own rights, but the global cause of liberty for all humankind.
 
-> _2\. Republicanism and Gentility in the 1770s_
+### 2. Republicanism and Gentility in the 1770s
 
 The Founders were not only idealistic, but full-on utopian. The word “republic” comes from the Latin _res publica_, a “thing of the people,” and the Founders truly believed that the citizens of the new independent republics they were creating were capable of setting aside their own private interests for the benefit of the whole society (pp. 104–105):  
 
@@ -64,7 +66,7 @@ In rejecting the hierarchy and dependence inherent in monarchy and seeking to re
 >
 > They were men of high ambitions yet of relatively modest origins, and this combination made _achieved_ rather than _ascribed_ standards of aristocracy very appealing to them. Family and kinship had nothing to offer them, and they not only directed their anger at all hereditary and monarchical values but also were determined to establish new measures of gentility. […] We shall never understand the unique character of the revolutionary leaders until we appreciate the seriousness with which they took these new republican ideas of what it was to be a gentleman. No generation in American history has ever been so self-conscious about the moral and social values necessary for public leadership.
 >
-> _3\. Independence and Dependence in the 1770s_
+### 3. Independence and Dependence in the 1770s
 
 Gentlemen, in the ancient framework of republicanism, were independent in that they were free from the influence of others, and ownership of property was the traditional source of this independence. All other members of society were considered to be dependent on the wills of more powerful figures; for that reason, they had historically been excluded from participating in politics through voting, for their wills were not their own and were susceptible to coercion. In the colonies, the list of such dependents was long, including “women, servants, apprentices, short-term tenants, minors, and sons over twenty-one still living at home with their parents” (p. 56). In his later book _Power and Liberty_, Wood explains the contemporary context for this apparently limited suffrage, which was in reality extremely progressive for its time (pp. 13–14):
 
@@ -88,7 +90,7 @@ As discussed above, the Founders had attempted to replace the “artificial” a
 >
 > In the eighteenth century, democracy was not yet the article of faith that it would soon become for Americans. It was still essentially a technical term of political theory—referring to government literally by the people, which was an impossibility for any large community. But from the beginning of the revolutionary movement, Americans sought to overcome this impossibility in every conceivable way; and in the process they became the first society in the modern world to bring ordinary people into the affairs of government—not just as voters but as actual rulers. This participation of common people in government became the essence of American democracy, and the Revolution made it so. Although premonitions of this democratic future appeared early in America’s colonial history, only with the imperial crisis in the 1760s and 1770s did a full-scale ideological defense of the participation in government by ordinary people actually emerge.
 >
-> _2\. Representation and the Origins of Interest-Group Politics_
+### 2. Representation and the Origins of Interest-Group Politics
 
 For non-gentlemen to take part in the function of government itself violated a fundamental assumption of the classical republican worldview: that only independent leisured gentlemen were free from dependence and interests and thus capable of making disinterested judgments for the good of the whole society. This ancient justification too was soon challenged (p. 245):
 
@@ -114,7 +116,7 @@ Following this defense of the integration of private interests into politics, wi
 
 > The grass-roots Anti-Federalists concluded that, given the variety of competing interests and the fact that all people had interests, the only way for a person to be fairly and accurately represented in government was to have someone like himself with his same interests speak for him; no one else could be trusted to do so. Ultimately, the logic of this conception of actual representation determined that no one could be represented in government unless he had the right to vote. The interests of a person were so particular, so personal, that only by exercising the ballot could he protect and promote his interests. Election in America became the sole criterion of representation. Insofar as American politics became localist and dominated by interest groups and calls for extending the suffrage, the Anti-Federalists prepared the way.
 >
-> _3\. The Origins of Politicians and Political Parties_
+### 3. The Origins of Politicians and Political Parties
 
 The debate over the ratification of the Constitution in the late 1780s and the disagreement over the direction of the country during Washington’s and Adams’s presidencies in the 1790s had led to the formation of groups calling themselves “Federalists” and “Republicans.” Neither, however, was a political party in the modern sense; they both saw themselves as temporary associations while continuing to denounce the harmful influence of “party spirit” or factionalism. To the dismay of these men, a whole new politics was now developing (p. 298):
 
@@ -122,7 +124,7 @@ The debate over the ratification of the Constitution in the late 1780s and the d
 
 Gentlemen in a republic had only “stood” for election; it would have been unseemly to “run” as a candidate and solicit votes. The validation of interest-group politics created room for politicians whose place in society came from holding office, rather than the other way around.
 
-> _4\. Labor and the Origins of Populism_
+### 4. Labor and the Origins of Populism
 
 As discussed above, the classical signifier of being a gentleman had historically derived from leisure, which made possible the virtue of disinterestedness, which obligated public service; as we have also seen, the democratic egalitarianism unleashed by the Revolution cast doubt on the true extent of disinterestedness exhibited by these gentlemen, while at the same time denying the value of gentility itself. Leisure, like other aristocratic distinctions, soon enough became viewed negatively by common people, while labor was increasingly dignified. In the contemporary societal division between democrats and aristocrats, all who worked for a living saw themselves as united against their alleged superiors (pp. 280–281):
 
@@ -136,7 +138,7 @@ The paradox of this situation was of course unsustainable, but it would not be r
 
 > All people became laborers and all activities, including public office-holding, were reduced to the making of a living—a severe leveling unprecedented in history that no other society in the modern world quite duplicated. No wonder, then, that an American, inquiring about a European visitor and being told he was a duke, could reply: “A Duke! I wonder what he does for a living?”
 >
-> _5\. The Emergence of the “Self-Made Man”_
+### 5. The Emergence of the “Self-Made Man”
 
 The increasing values placed on economic activity and equality combined in an unexpected way to further the decline of traditional gentlemanly status, reduce the respect for “superiors” by their “inferiors,” and continue to upend the old dichotomy between leisure and labor (pp. 341–342):
 
@@ -154,7 +156,7 @@ When earned wealth became the criterion for judging social standing, the age-old
 >
 > Indeed this leveling through money put enormous pressure on the traditional distinction between ordinary people and gentlemen, between those who labored and those who did not, between those who were in trade and those who were not. […] The distinction between gentlemen and commoners did not disappear, but it was buffeted and blurred and was eventually transformed. To visiting foreigners, it seemed that nearly every white adult male had become a gentleman.
 >
-> _6\. The Emergence of Evangelical Christianity_
+### 6. The Emergence of Evangelical Christianity
 
 As democracy had displaced the Founders’ position in political society, so it displaced their Enlightenment ideology in religious society. Religion was yet another arena in which the elites were out of step with the ongoing march of democracy, where they yet again found themselves “frightened and bewildered by this democratic revolution”: (pp. 329–331):
 
@@ -170,7 +172,7 @@ Just as democratization in government had produced increased competition for pos
 
 > [R]eligion in America became much more personal and voluntary than it ever had been; and people were freer to join and change religious associations whenever they wished. They thus moved from one religious group to another in a continual search for signs, prophets, or millennial promises that would make sense of their disrupted lives. With no church sure of holding its communicants, competition among the sects became fierce. Each claimed to be right, called each other names, argued endlessly over points of doctrine, mobbed and stoned and destroyed each other’s meeting houses. The result was a further fragmenting of Christianity. […] Not only were the traditional Old World churches fragmented but the fragments themselves shattered in what seemed at times to be an endless process of fission. […] Nowhere in Christendom had religion become so fragmented and so separated from society. Yet nowhere was it so vital. By the second quarter of the nineteenth century, the evangelical Protestantism of ordinary people had come to dominate American culture to an extent the founding fathers had never anticipated.
 >
-> _7\. The Democratization of Public Opinion and the Origin of Freedom of Speech_
+### 7. The Democratization of Public Opinion and the Origin of Freedom of Speech
 
 Rejection of traditional authority extended from politics to religion to knowledge more generally (pp. 361–362):
 

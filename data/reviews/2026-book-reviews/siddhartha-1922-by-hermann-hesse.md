@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T23:24:54.000Z'
 slug: siddhartha-1922-by-hermann-hesse
-wordCount: 3982
+wordCount: 3977
 readingTimeMinutes: 18
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Religion
   - Philosophy
 ---
-
-## ACX Book Review: Siddhartha
 
 # Competence Porn - before it was cool
 

@@ -7,13 +7,15 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:52:56.000Z'
 slug: dont-bang-denmark
-wordCount: 3303
+wordCount: 3368
 readingTimeMinutes: 15
 source: gdoc
 tags:
   - Memoir
   - Society
 ---
+
+”Don’t bang Denmark” by “Roosh V” (Daryoush Valizadeih) is a book about a Canadian pick up artist trying out his techniques on Danish women and failing, because Denmark is too feminist and based. Given that I am a Danish woman, I feel I might be able to provide an interesting take on Roosh’s experience.
 
 The pick up artistry movement has been criticized for being sexist, tolerant of abuse and rape, cringe and obnoxious. This book is all of those things; however, I feel it necessary to mention that Roosh has since shut his blog down, unpublished all his books, and converted to Armenian Orthodox Christianity. This is the seeming fate of these types of men, because the original author of “The Game”, the foundational text of pick up artistry, has since written “The Truth” where he apologizes for his earlier work and says the lifestyle it advocated made him miserable.
 
@@ -137,17 +139,17 @@ Speaking of…
 Towards the latter quarter of the book, Roosh writes about his “approach index”:
 
 > _My approach index states how many girls an average-looking guy with decent game has to approach before he’s likely to bang a cute girl (not including Internet approaches). Since there are so many variables involved, the index is best used to compare easiness of one country with another. First let me share the numbers from previous countries, from easiest to hardest:_
-
-_Iceland: 40_
-
-_United States: 45_
-
-_Brazil: 50_
-
-_Colombia: 60_
-
-_Argentina: 90_
-
+>
+> _Iceland: 40_
+>
+> _United States: 45_
+>
+> _Brazil: 50_
+>
+> _Colombia: 60_
+>
+> _Argentina: 90_
+>
 > _From these numbers, we can conclude that a man has to do twice as many approaches to get laid in Argentina than the United States. I attempted to count how many approaches to get my first bang in Denmark, but I stopped counting at around 50. I estimate I didn’t fuck until approach 70 or so, which for a liberal Scandinavian country is contrary to what you’d expect._
 
 …Huh.

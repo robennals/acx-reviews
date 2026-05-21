@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4559
+wordCount: 4545
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Politics
   - Society
 ---
-
-# Imagined Communities: Reflections on the Origins and Spread of Nationalism by Benedict Anderson
 
 The concept of nation is such a smashing success so massive that nation, state and nation state are often used interchangeably despite ostensibly being quite different things.
 
