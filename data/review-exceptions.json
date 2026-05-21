@@ -31,6 +31,12 @@
   "capitalist-realism": {
     "disableItalicAsBlockquote": true
   },
+  "coriolanus": {
+    "disableItalicAsBlockquote": true
+  },
+  "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
+    "docUrlOverride": "https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI/edit"
+  },
   "plutarchs-parallel-lives-tiberius-and-gaius-gracchi": {
     "allowBoldHeadingWithPunct": true
   },

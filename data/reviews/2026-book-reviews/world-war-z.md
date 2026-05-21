@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T18:36:55.000Z'
 slug: world-war-z
-wordCount: 3613
-readingTimeMinutes: 17
+wordCount: 3599
+readingTimeMinutes: 16
 source: gdoc
 tags:
   - Fiction
@@ -16,11 +16,9 @@ tags:
   - Society
 ---
 
-## ACX Book review: World War Z
-
 ![](https://acximages.ennals.org/images/2026-book-reviews/4608f30304664199.jpg)
 
-## Every zombie story worth telling is not about zombies.
+Every zombie story worth telling is not about zombies.
 
 Zombies are one-dimensional.  A zombie is a moving corpse with no capacity for emotion or reason.  And they pretty much have to be: otherwise, they’d just be a person with an insatiable appetite for living humans who spreads this condition to their victims.  Or in other words, a vampire.1
 
@@ -34,7 +32,7 @@ So _World War Z_ is a book about war.  Specifically, “an oral history of the Z
 
 For _World War Z_, Brooks took inspiration both from classic zombie fiction like _Night of the Living Dead_ and from _[The Good War](https://en.wikipedia.org/wiki/The_Good_War)_ by Studs Terkel, a 1985 Pulitzer-winning oral history of World War Two.  Somehow, it’s an inspired combination.
 
-## If I had to pick, my three favorite things about the book are:
+If I had to pick, my three favorite things about the book are:
 
 * The surprisingly realistic world
 * The firm but not overbearing morality play
@@ -52,11 +50,11 @@ The zombies themselves work like they do in _Survival Guide_, and are pretty sta
 
 The virus itself spreads through bites, or occasionally through infected tissue entering a person’s body.  It’s incurable, and always fatal.  Victims first develop a fever, then coma, then die within a few days – only becoming zombies upon their death.  This makes it difficult to contain outbreaks: still-living victims often try to deny or hide their infected status.  But uninfected corpses aren’t rising from the grave, and nonhuman animals can’t spread the virus.  So in principle, it’s possible to eradicate the disease from a safe zone, or the whole world.
 
-## As far as the zombies are concerned, that’s the entire conflict.  But remember, this book isn’t about zombies – it’s about humans.
+As far as the zombies are concerned, that’s the entire conflict.  But remember, this book isn’t about zombies – it’s about humans.
 
 ## II. The sins of humanity
 
-## “What we did, what every president since Washington has done, was provide a measured, appropriate response, in direct relation to a realistic threat assessment.”
+> _“What we did, what every president since Washington has done, was provide a measured, appropriate response, in direct relation to a realistic threat assessment.”_
 
 Welcome to the 2000s.  America is bogged down in the Middle East, Israel and Palestine are at each others’ throats, everyone’s ignoring the Third World, and China is trying to cover up a terrifying disease outbreak via internal crackdowns.  Definitely a completely unfamiliar historical setting.
 
@@ -66,15 +64,23 @@ Each of these stories represents a different sin of modern society: dictatorship
 
 A few people are reading the clues.  The strongest warning is the “Warmbrunn-Knight” report, spearheaded by a former CIA agent and an Israeli intelligence official.  A liberal Israeli government heeds the intelligence warnings, makes peace with the Palestinians, and works with them to fortify their common borders against the undead, sparking an armed uprising by the ultraorthodox.
 
-## (Twenty years on from 2006, this is the least realistic part of the book, with the possible exception of the zombies.)
+(Twenty years on from 2006, this is the least realistic part of the book, with the possible exception of the zombies.)
 
 * * *
 
 Still, everyone else is having the worst case of denial since Neville Chamberlain.  In the second section, “_Blame_”, the list of society’s sins grows longer. The CIA straight up drops the ball after huge staff cuts.  The US military’s morale is still in tatters after Iraq and Afghanistan, and the government only authorizes flashy token “Alpha teams” – the White House Chief of Staff at the time, now literally employed shoveling dung, still defends the decision.  It’s an election year, after all.  Breckenridge Scott, a businessman now hiding in Antarctica post-war, makes billions selling a rabies vaccine that he knows will do nothing to protect against the zombie virus.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/68a28e0e42c48a9c.jpg)
 
-## Pictured: A proud Breckenridge Scott fan, probably
+<figcaption>
+
+_[Pictured](https://en.wikipedia.org/wiki/Martin_Shkreli)__: A proud Breckenridge Scott fan, probably_
+
+</figcaption>
+
+</figure>
 
 This culminates in “The Great Panic” – also the title of the third section – when the zombie outbreaks become a full scale invasion, and billions of people are caught ignorant and unprotected in their own homes.
 
@@ -84,17 +90,17 @@ Finally, the US military tries to head off the New York horde and restore confid
 
 ## III. Effective Heroism
 
-## “…over 65 percent of the present civilian workforce were classified F-6, possessing no valued vocation…In short, we needed to get a lot of white collars dirty.”
+> _“…over 65 percent of the present civilian workforce were classified F-6, possessing no valued vocation…In short, we needed to get a lot of white collars dirty.”_
 
-## The entire first half of World War Z is a damning story of how humanity is unworthy of survival.  Thankfully, there’s a second half.
+The entire first half of _World War Z_ is a damning story of how humanity is unworthy of survival.  Thankfully, there’s a second half.
 
-## Yes, humanity will pay for its sins – dearly – but unlike the zombies, we’re not rotten to the core.  There’s still something in our spirit that can save us.  Something worth saving.
+Yes, humanity will pay for its sins – dearly – but unlike the zombies, we’re not rotten to the core.  There’s still something in our spirit that can save us.  Something worth saving.
 
 As the world basically prepares to give up and die, the South African government calls upon an unlikely hero: a psychopathic apartheid official named Paul Redeker.  In an interview with a man who claims to be Redeker’s closest colleague, we learn of Redeker’s strategy to save humanity, based on his apartheid-era plan for protecting South Africa’s white minority against an uprising of the native black population.
 
 The Redeker Plan is brutally pragmatic: withdraw the military to a small naturally defended “safe zone”, but don’t bring along most of the public.  Instead, leave isolated pockets of survivors to lure away the zombies while you clear the safe zone and rebuild an industrial base.  If the pockets are overrun – or starve – so be it.  It’s impossible to save everyone.
 
-## The South African cabinet is horrified, but Nelson Mandela personally intervenes to save the plan – and with it, humanity.[3]
+The South African cabinet is horrified, but Nelson Mandela personally intervenes to save the plan – and with it, humanity.[3]
 
 The rest of the 4th section, “Turning the Tide”, deals with the immediate consequences of implementing the Redeker Plan.  A German Army unit having to abandon civilians, a Ukrainian unit trying desperately to screen civilians entering Kiev, a young woman facing starvation in the wilderness after fleeing north to Manitoba.[4]  And finally, we see the book’s first hero, as a soldier in northern India watches General Raj-Singh make the ultimate sacrifice to secure a mountain pass at the edge of the safe zone.
 
@@ -114,13 +120,13 @@ Resources get their own interview, with the head of the Department of Strategic 
 
 DeStRes goes further than breaking down cars for bullets.  The economy of the safe zone has to switch from services to wartime manufacturing.  Desk job workers are retrained to build guns, make bullets, and clean toilets.
 
-## These two stories are the fulcrum of the book.  They’re when humanity gets back on its feet and learns to fight again.  The ritual cleansing of our collective soul.
+**These two stories are the fulcrum of the book.**  They’re when humanity gets back on its feet and learns to fight again.  The ritual cleansing of our collective soul.
 
 The rest of “Home Front USA” is people on the ground again: a wheelchair-bound member of an official neighborhood patrol; a filmmaker who takes on the challenge of restoring hope; a downed Air Force cargo pilot who makes a daring escape from zombie territory.  Finally there are heroes, and finally we’re letting them do their jobs.
 
 ## IV. Taking back the world
 
-## “The long, hard road back to humanity, or the regressive ennui of Earth’s once-proud primates.  That was the choice, and it had to be made now.”
+> _“The long, hard road back to humanity, or the regressive ennui of Earth’s once-proud primates.  That was the choice, and it had to be made now.”_
 
 Section six, “Around the World, and Above”, reveals how the rest of the world is facing down the zombie hordes.  Here, Brooks doubles down on the message of the second half of the book: that despite our many, many flaws, there are good people in the world, willing to sacrifice everything to protect each other.  Regular people can become heroes if we let them.  Despair is not the correct response to the ails of the world.
 
@@ -138,9 +144,17 @@ Experts study logistics, amateurs study tactics.  So we learn the tactics from a
 
 The new army faces the zombies in the Battle of Hope – that is, Hope, New Mexico.  With [Iron Maiden](https://youtu.be/X4bgXH3sJ2Q) playing to attract the zombie horde, this remodelled army takes on a colossal “chain swarm”.  The zombie corpses pile so high they form a natural palisade.  Hope is a flawless victory.
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/9cb8fdab1803d264.jpg)
 
-## Hope in the desert
+<figcaption>
+
+_Hope in the desert_
+
+</figcaption>
+
+</figure>
 
 Bit by bit, the world is liberated.  We see the bravery of US army canine units.  We learn of the Russian army chaplain who decided to save his infected charges from the sin of suicide – and accidentally steers Russia toward becoming a theocratic monarchy.  We go suit diving to track remaining zombies on the ocean floor, and learn the difficulty of retaking the high seas.  We hear the horror of hand to hand combat in the Paris catacombs.  And finally, we hear once more from Todd Wainio, detailing the final push to the East Coast, and victory in America.
 
@@ -148,13 +162,13 @@ Before the book closes, we’re treated to a final farewell from many of the int
 
 ## V. What World War Z does well – and less well
 
-## In the intro, I mentioned my three favorite aspects of the book.  Here they are again:
+In the intro, I mentioned my three favorite aspects of the book.  Here they are again:
 
 * The surprisingly realistic world
 * The firm but not overbearing morality play
 * The captivating humanity of each story
 
-## Let’s start with the world.  Obviously, the zombies are incredibly unrealistic.  But the humans could have been plucked straight from reality.
+Let’s start with the world.  Obviously, the zombies are incredibly unrealistic.  But the humans could have been plucked straight from reality.
 
 Everyone knows of a historical figure like Breckenridge Scott, General Raj-Singh, or Todd Wainio.  They have human motivations and human limitations.  History is big, and no one “great man” won or lost any war alone.  So like real history, every hero has allies.  Every villain has accomplices.
 
@@ -166,7 +180,7 @@ Instead, the character that develops is society as a whole.  This is the moralit
 
 But humanity is nothing if not resilient.  If we change our ways, even at the last possible moment, we can still save ourselves, and each other.  Brooks sometimes hits you on the head with the moral – the Chief of Staff is collecting bull shit, really?  But he gives you more than enough of a story to make you realize you kind of deserve it.
 
-## And the stories really do shine.  For one, the imagery is incredible.  Take this bit, from the first encounter with a zombie horde in Cape Town:
+And the stories really do shine.  For one, the imagery is incredible.  Take this bit, from the first encounter with a zombie horde in Cape Town:
 
 > _“I was still on my stomach when I saw them: ten or fifteen, silhouetted against the fires of the burning shanties.  I couldn’t see their faces, but I could hear them moaning.  They were slouching steadily toward me with their arms raised.”_
 
@@ -174,13 +188,13 @@ I also appreciate the details on the actions the characters take.  The outburst 
 
 > _“Her eyes were wide, scared.  I could hear sounds behind me…smashing through shanties, knocking them over as they came.  I switched from Xhosa to English.  ‘Please,’ I begged, ‘you have to run!’  I reached for her but she stabbed my hand.  I left her there.  I didn’t know what else to do.  She is still in my memory, when I sleep or maybe close my eyes sometimes.  Sometimes she’s my mother, and the crying children are my sisters.”_
 
-## Not every story in the book is as powerful as this one.  But most are.
+Not every story in the book is as powerful as this one.  But most are.
 
 * * *
 
 _World War Z_ is one of the few books I can recommend to anyone, but it’s perfect for anyone who loves this blog.  Whether or not you’re a fan of horror or action.  Whether or not you like [the movie](https://en.wikipedia.org/wiki/World_War_Z_(film)), which is essentially unrelated to the book.  Whether or not you think the 2000’s zombie genre was overplayed.
 
-## Because World War Z is not a story about zombies.  It’s a story about us.
+Because _World War Z_ is not a story about zombies.  It’s a story about us.
 
 * * *
 

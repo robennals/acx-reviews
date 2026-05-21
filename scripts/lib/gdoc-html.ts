@@ -210,6 +210,52 @@ function parseGDocStyles(html: string): GDocStyleMap {
 
   const styleText = styleMatch[1];
 
+  // First, collect every class's declared font-size (if any). We need
+  // the full size map before we can decide which sizes count as
+  // "large" — that decision is relative to the document's own body
+  // font, not an absolute threshold.
+  const classFontSize = new Map<string, number>();
+  const sizeRuleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
+  let sm;
+  while ((sm = sizeRuleRe.exec(styleText)) !== null) {
+    const fs = sm[2].match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
+    if (fs) classFontSize.set(sm[1], parseFloat(fs[1]));
+  }
+
+  // Tally character counts by font-size across substantive `<span>`s in
+  // the document body. The size that owns the most characters is the
+  // body font; any class whose size is meaningfully larger is treated
+  // as a heading-styling signal. WWZ uses 14pt body — under the old
+  // fixed-14pt threshold, every paragraph got promoted to <h2>.
+  const sizeChars = new Map<number, number>();
+  const spanRe = /<span\s+class="([^"]+)"[^>]*>([^<]*)<\/span>/g;
+  let spanMatch;
+  while ((spanMatch = spanRe.exec(html)) !== null) {
+    const text = spanMatch[2].trim();
+    if (!text) continue;
+    const classes = spanMatch[1].split(/\s+/);
+    let size: number | undefined;
+    for (const c of classes) {
+      const s = classFontSize.get(c);
+      if (s !== undefined) size = s; // later class wins (matches CSS cascade)
+    }
+    if (size === undefined) continue;
+    sizeChars.set(size, (sizeChars.get(size) || 0) + text.length);
+  }
+  let bodySize = 11;
+  let bodyChars = 0;
+  for (const [size, chars] of sizeChars) {
+    if (chars > bodyChars) {
+      bodySize = size;
+      bodyChars = chars;
+    }
+  }
+  // "Large" = at least 2pt above body AND at least 13pt absolute. The
+  // 2pt gap filters incidental subscript/superscript-style variation;
+  // the 13pt floor preserves the old behavior for the common 11pt-body
+  // case (14pt headings still detected).
+  const largeFloor = Math.max(bodySize + 2, 13);
+
   // Match CSS rules like .c8{font-weight:700;...}
   const ruleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
   let m;
@@ -224,7 +270,7 @@ function parseGDocStyles(html: string): GDocStyleMap {
       italicClasses.add(cls);
     }
     const fontSizeMatch = props.match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
-    if (fontSizeMatch && parseFloat(fontSizeMatch[1]) >= 14) {
+    if (fontSizeMatch && parseFloat(fontSizeMatch[1]) >= largeFloor) {
       largeFontClasses.add(cls);
     }
     if (/text-decoration\s*:\s*underline/.test(props)) {

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T16:55:47.000Z'
 slug: why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley
-wordCount: 5303
+wordCount: 5297
 readingTimeMinutes: 24
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Philosophy
   - Science
 ---
-
-## Why Greatness Cannot Be Planned
 
 Dissolve yourself for a second.
 

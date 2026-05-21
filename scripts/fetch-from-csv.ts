@@ -219,6 +219,11 @@ interface ReviewException {
   // confuses the heuristic — e.g. "How I Killed Pluto" formats
   // footnotes inline per section rather than as a trailing block.
   disableFootnotes?: boolean;
+  // Replace the submission's docUrl with this Google Doc URL. Used
+  // when the CSV row points at a PDF / Google Drive file that the
+  // pipeline can't read, and the content has been rehosted as a real
+  // gdoc. Keyed by the slug that would be derived from the CSV title.
+  docUrlOverride?: string;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -477,19 +482,29 @@ function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): s
     .trim();
 
   // Match: optional review-of prefix + the title + optional " by Author".
+  // The "by <author>" suffix can appear on EITHER side — the CSV title
+  // might be "Foo, by X" while the first line is just "Foo", or vice
+  // versa. So we compute canonical forms of both (with the by-suffix
+  // and review-prefix stripped) and match if any pair lines up.
+  const stripByAuthor = (s: string) => s.replace(/\s+by\s+.+$/, '');
+  // Accepted leading-prefix forms:
+  //   "review", "review of", "a review of",
+  //   "book review", "book review of",
+  //   "your review", "your book review", "your review of",
+  //   "acx review", "acx book review", "acx review of",
+  //   "a (book) review of"
+  const stripReviewPrefix = (s: string) =>
+    s.replace(/^(your\s+|a\s+|acx\s+)?(book\s+)?review(\s+of)?\s+/, '');
+  const titleForms = new Set([normTitle, stripByAuthor(normTitle)]);
   const matchesTitleLine = (plain: string): boolean => {
     const norm = normalize(plain);
     if (!norm) return false;
-    // Strip a leading prefix variant. Accepted forms:
-    //   "review", "review of", "a review of",
-    //   "book review", "book review of",
-    //   "your review", "your book review", "your review of",
-    //   "a (book) review of"
-    const withoutPrefix = norm
-      .replace(/^(your\s+|a\s+)?(book\s+)?review(\s+of)?\s+/, '');
-    // Strip a trailing " by <author>" suffix (any author).
-    const withoutBy = withoutPrefix.replace(/\s+by\s+.+$/, '');
-    return withoutBy === normTitle || withoutPrefix === normTitle;
+    const noPrefix = stripReviewPrefix(norm);
+    const lineForms = [norm, stripByAuthor(norm), noPrefix, stripByAuthor(noPrefix)];
+    for (const lf of lineForms) {
+      if (titleForms.has(lf)) return true;
+    }
+    return false;
   };
 
   const matchesByline = (plain: string): boolean =>
@@ -771,10 +786,26 @@ async function main() {
   let totalImages = 0;
   const seenDocIds = new Set<string>();
 
+  const reviewExceptions = loadReviewExceptions();
+
   for (const row of rows) {
-    const docId = extractDocId(row.docUrl);
+    // Honour a per-slug docUrlOverride: when the CSV row points at a
+    // PDF / non-gdoc URL, the user can rehost the content as a real
+    // gdoc and add { "<slug>": { "docUrlOverride": "https://docs..." } }
+    // to data/review-exceptions.json. Slug is derived from the CSV
+    // title — the same way it would be later — so the override is
+    // resolvable without fetching anything first.
+    const titleForSlug = sanitizeTitle(row.title);
+    const candidateSlug = slugify(titleForSlug);
+    const override = candidateSlug && reviewExceptions[candidateSlug]?.docUrlOverride;
+    const effectiveUrl = override || row.docUrl;
+    if (override) {
+      console.log(`  ↪️  URL override for ${candidateSlug}: ${override}`);
+    }
+
+    const docId = extractDocId(effectiveUrl);
     if (!docId) {
-      console.log(`  ❌ Could not extract doc ID from: ${row.docUrl}`);
+      console.log(`  ❌ Could not extract doc ID from: ${effectiveUrl}`);
       totalFailed++;
       continue;
     }

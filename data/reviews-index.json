@@ -187,8 +187,8 @@
     "publishedDate": "2026-05-20T18:36:55.000Z",
     "slug": "world-war-z",
     "excerpt": "Every zombie story worth telling is not about zombies.",
-    "wordCount": 3613,
-    "readingTimeMinutes": 17,
+    "wordCount": 3599,
+    "readingTimeMinutes": 16,
     "source": "gdoc",
     "tags": [
       "Fiction",
@@ -227,11 +227,30 @@
     "publishedDate": "2026-05-20T16:55:47.000Z",
     "slug": "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley",
     "excerpt": "Let’s say you are trapped in a robot in a maze. You want to reach the end of the maze, where you hear they are handing out free cookies. How do you move forward?",
-    "wordCount": 5303,
+    "wordCount": 5297,
     "readingTimeMinutes": 24,
     "source": "gdoc",
     "tags": [
       "Technology",
+      "Philosophy",
+      "Science"
+    ]
+  },
+  {
+    "id": "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review",
+    "title": "Free Agents by Kevin Mitchell and Determined by Robert Sapolsky (a comparative review)",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-20T16:05:33.000Z",
+    "slug": "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review",
+    "excerpt": "This is a battle over the age-old philosophical conundrum of free will, pitting against each other the",
+    "wordCount": 3627,
+    "readingTimeMinutes": 17,
+    "source": "gdoc",
+    "tags": [
       "Philosophy",
       "Science"
     ]
@@ -2081,8 +2100,8 @@
     "year": 2026,
     "publishedDate": "2026-05-03T04:56:43.000Z",
     "slug": "a-christmas-carol-by-charles-dickens",
-    "excerpt": "This must be distinctly understood, or nothing wonderful can come of the story that I am going to review.\nThere'll be parties for hosting",
-    "wordCount": 5687,
+    "excerpt": "This must be distinctly understood, or nothing wonderful can come of the story that I am going to review.\nThere'll be parties for hosting  \nMarshmallows for toasting  \nAnd caroling out in the snow ...",
+    "wordCount": 5670,
     "readingTimeMinutes": 26,
     "source": "gdoc",
     "tags": [
@@ -2543,7 +2562,7 @@
     "publishedDate": "2026-02-20T17:13:52.000Z",
     "slug": "dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed",
     "excerpt": "When you land in Entebbe, the first face you see is Yoweri Museveni’s. He’s everywhere, smiling down on you, beatific under his wide-brimmed almost-cowboy hat. His yellow campaign placards are...",
-    "wordCount": 6680,
+    "wordCount": 6683,
     "readingTimeMinutes": 30,
     "source": "gdoc",
     "tags": [
