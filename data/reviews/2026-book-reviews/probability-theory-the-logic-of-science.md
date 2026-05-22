@@ -110,13 +110,13 @@ For me, as a Ph.D. student, these chapters were life-changing.  They gave me a r
 
 Jaynes spends the rest of the book working out standard results in probability following this framework.   He first considers sampling theory, and in particular the Bernoulli urn, sampling without replacement, and derives the binomial distribution.  In a Bernoulli urn, there are N balls, of which M are colored red, and the rest are white.  When sampling without replacement, we ask what the probability is that the first draw will be red?  Using the principle of maximum entropy, we obtain M/N.  Then the probability for red on the first _r_ draws is:
 
-> $\displaystyle\frac{M!(N-r)!}{(M-r)!N!}$                                                                     (3.12)
+> $\frac{M!(N-r)!}{(M-r)!N!}$                                                                     (3.12)
 
 This equation is complicated!  You have to take into account that when you take a ball from the urn, and then do not replace it,  there is then one less ball in the urn for the next sample, leading to those factorials.  
 
 Next, Jaynes considers sampling with replacement. We take the ball out of the urn, observe the color, and then replace it into the urn.  Now the equation is simpler:
 
-> ($\displaystyle\left(\frac{M}{N}\right)^r$                                                  (3.92, adapted by me)
+> ($\left(\frac{M}{N}\right)^r$                                                  (3.92, adapted by me)
 
 Why is sampling with replacement so much simpler than sampling without replacement?   Jaynes writes:
 

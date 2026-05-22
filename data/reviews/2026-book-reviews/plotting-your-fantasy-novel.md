@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T07:55:13.000Z'
 slug: plotting-your-fantasy-novel
-wordCount: 5429
+wordCount: 5433
 readingTimeMinutes: 25
 source: gdoc
 tags:
@@ -98,11 +98,11 @@ Theme, Herne explains, is not merely a one-word topic like "love" or "revenge" o
 >
 > For instance, I would describe the Theme of A Game of Thrones like so:
 
-* Thematic Statement: A moral argument about how to live.
-* Thematic Question: A question that explores the above moral argument.
+> * Thematic Statement: A moral argument about how to live.
+> * Thematic Question: A question that explores the above moral argument.
 
-* Thematic Statement: Honour is a foolish weakness in a world where power rewards ruthlessness and deception.
-* Thematic Question: Can an honourable man survive in a dishonourable world?”
+> * Thematic Statement: Honour is a foolish weakness in a world where power rewards ruthlessness and deception.
+> * Thematic Question: Can an honourable man survive in a dishonourable world?”
 
 Regardless of whether you choose to use a statement or question to frame your theme, Herne says that you should avoid avoid being didactic and try to argue all sides. He quotes the character Hoid from _The Way of Kings_ by Brandon Sanderson: "The purpose of a storyteller is not to tell you how to think, but to give you questions to think upon."
 

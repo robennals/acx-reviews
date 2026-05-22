@@ -109,7 +109,7 @@ Thomas Pynchon writes historical fiction.
 
 ## P for Pastoral
 
-_Bleeding Edge_ itself is not a pastoral, but there are pastorals within it: safe stories that usually involve conscious animals like in New York’s case a lot of birds and mice who help the shepherds see the humor in things. When Maxine is at her lowest, and I mean really down on her luck, wondering how she could’ve gotten herself in a position so violated, a mouse appears on the floor, and provides allegorical escape. In _Gravity’s Rainbow_ it’s the candies from the old lady and the hot air balloon trip and even Pirate’s bananas. In _Mason & Dixo_n, the wheel of cheese rolling.
+_Bleeding Edge_ itself is not a pastoral, but there are pastorals within it: safe stories that usually involve conscious animals like in New York’s case a lot of birds and mice who help the shepherds see the humor in things. When Maxine is at her lowest, and I mean really down on her luck, wondering how she could’ve gotten herself in a position so violated, a mouse appears on the floor, and provides allegorical escape. In _Gravity’s Rainbow_ it’s the candies from the old lady and the hot air balloon trip and even Pirate’s bananas. In *Mason & Dixo*n, the wheel of cheese rolling.
 
 Pynchon, like the best authors, includes in his work a critique and most apt summary better than any critic could ever furnish. Maxine is describing how Christmas feels to her a problematic pastoral, reminiscent of one of Shakespeare’s finest comedies, which for the most part is happy, but for at least one person is very sad.
 

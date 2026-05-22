@@ -50,7 +50,7 @@ Near the beginning of the book, Brown sketches out a history of how our growing 
 
 <figcaption>
 
-_Claudius Ptolemy’s geocentric model of the solar system, c. 150_ _[(source)](https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1045&context=ojur)_
+_Claudius Ptolemy’s geocentric model of the solar system, c. 150 [(source)](https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1045&context=ojur)_
 
 </figcaption>
 
@@ -80,7 +80,7 @@ Then, in 1801, Guiseppe Piazza discovered an eight planet through similar means 
 
 <figcaption>
 
-_[A 1846 diagram of the Solar System](https://www.loc.gov/resource/g3180.ct003790/?r=0.206,0.209,0.635,0.377,0)__, with all eleven known planets and the hypothetical innermost planet Vulcan, by the inventor and science writer_ _[Hall Colby](https://www.parmahiltonhistoricalsociety.com/hall-colby/)_
+_[A 1846 diagram of the Solar System](https://www.loc.gov/resource/g3180.ct003790/?r=0.206,0.209,0.635,0.377,0), with all eleven known planets and the hypothetical innermost planet Vulcan, by the inventor and science writer [Hall Colby](https://www.parmahiltonhistoricalsociety.com/hall-colby/)_
 
 </figcaption>
 
@@ -92,7 +92,7 @@ Finally, in 1930, Clyde Tombaugh, armed with an even better telescope and search
 
 In his story of the history of the concept of planets, Brown heavily emphasizes the original “wanderer” meaning, and for good reason: That’s still the heart of how you look for planets in the modern age. you choose a patch of sky and keep looking at it over several nights to see what changes. Herchel, Piazza, and other 19th century planet hunters did this by taking note of everything they thought worth measuring and writing down their exact positions in the sky. ![](https://acximages.ennals.org/images/2026-book-reviews/74726d193089d2ca.png)
 
-> _The discovery images of Pluto_ _[(source)](https://www.planetary.org/space-images/the-pluto-discovery-plates)__. The arrows were added afterwards and would probably have made Tombaugh’s task considerably easier had they appeared in the original._
+> _The discovery images of Pluto [(source)](https://www.planetary.org/space-images/the-pluto-discovery-plates). The arrows were added afterwards and would probably have made Tombaugh’s task considerably easier had they appeared in the original._
 
 Besides the benefit of even better telescopes, Tombaugh had two big technological advances from the 150 years between the discoveries of Uranus and Pluto, The first was the ability to take detailed photographs of what the telescope saw so that the analysis didn’t have to be done in real time. The second was the Blink Comparator, a device for viewing two glass photographic plates [1] in rapid succession through the same eyepiece for easier and faster comparison.
 
@@ -130,7 +130,7 @@ Jewitt and Luu discovered about 50 KBOs, including almost all of the first KBOs 
 
 <figcaption>
 
-_Jewitt (left), Luu (center), and Brown (right)_ _[(source)](https://www.kavliprize.org/jane-luu-autobiography)_
+_Jewitt (left), Luu (center), and Brown (right) [(source)](https://www.kavliprize.org/jane-luu-autobiography)_
 
 </figcaption>
 
@@ -154,7 +154,7 @@ The first thing to do is to confirm that you’ve actually found one. The initia
 
 <figcaption>
 
-_Animated discovery images of Quaoar_ _[(source)](https://apod.nasa.gov/apod/ap021009.html)__, pronounced “KWA-wahr”_
+_Animated discovery images of Quaoar [(source)](https://apod.nasa.gov/apod/ap021009.html), pronounced “KWA-wahr”_
 
 </figcaption>
 
@@ -210,7 +210,7 @@ This scarcity of time on the Great Telescopes would shape Brown’s career in an
 
 <figcaption>
 
-_Jean Mueller with the 48-inch Schmidt,_ _[via Wikipedia](https://en.wikipedia.org/wiki/Samuel_Oschin_telescope#/media/File:P48_1994_Jean_Large.jpg)_
+_Jean Mueller with the 48-inch Schmidt, [via Wikipedia](https://en.wikipedia.org/wiki/Samuel_Oschin_telescope#/media/File:P48_1994_Jean_Large.jpg)_
 
 </figcaption>
 
@@ -363,7 +363,7 @@ The first is simply the way the IAU definition distinguishes between a “planet
 
 _Left: Sailor Pluto from the Sailor Moon anime._
 
-_Right:_ _[Mike Brown’s birth chart](https://www.astro.com/cgi/chart.cgi?wgid=wgeJwljkEKwjAURE8jKIyQtEmohr_QjSK6EnEdaWlDm1Ta1ODtTXA785g30faWCt06Mlz7mo7TGD1utm_gIKHAd0qCi30p0amI1sxgOC8-zB87DA0O11XB1o_7BpWKCSqFFwILykpiW0jBGJg29csb11DeTfhfktPahIZkii6Lz0226Vf4vtMnFzoyIeppJq7H4Ig_Tz-6zjQv)__, with Pluto in the 11th house, which_ _[supposedly indicates](https://masteringthezodiac.com/pluto-in-11th-house)_ _“a potent ability to effect change within their community or society”._
+_Right: [Mike Brown’s birth chart](https://www.astro.com/cgi/chart.cgi?wgid=wgeJwljkEKwjAURE8jKIyQtEmohr_QjSK6EnEdaWlDm1Ta1ODtTXA785g30faWCt06Mlz7mo7TGD1utm_gIKHAd0qCi30p0amI1sxgOC8-zB87DA0O11XB1o_7BpWKCSqFFwILykpiW0jBGJg29csb11DeTfhfktPahIZkii6Lz0226Vf4vtMnFzoyIeppJq7H4Ig_Tz-6zjQv), with Pluto in the 11th house, which [supposedly indicates](https://masteringthezodiac.com/pluto-in-11th-house) “a potent ability to effect change within their community or society”._
 
 </figcaption>
 
@@ -417,9 +417,9 @@ Here, once again, the seven largest moons come off looking pretty planety. Espec
 
 <figcaption>
 
-_Left: The message from the Monoliths at the end of the film version of Arthur C Clarke’s_ _2010_
+_Left: The message from the Monoliths at the end of the film version of Arthur C Clarke’s 2010_
 
-_Right: The loading screen of the 1989 CRPG game_ _[The Mines of Titan](https://crpgaddict.blogspot.com/search/label/Mines%20of%20Titan)_
+_Right: The loading screen of the 1989 CRPG game [The Mines of Titan](https://crpgaddict.blogspot.com/search/label/Mines%20of%20Titan)_
 
 </figcaption>
 

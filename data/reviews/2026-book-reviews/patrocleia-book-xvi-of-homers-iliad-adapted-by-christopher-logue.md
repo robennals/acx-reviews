@@ -106,7 +106,7 @@ And then, before Patroclus meets his fate, Homer sings of the death of Sarpedon,
 > _**Slowly at first and then, with the bright**_  
 > _**Commercial axes at its heart,**_  
 > _**The tall hurt trunk lies down**_  
-> _**Among its leaves, resentfully**__._
+> _**Among its leaves, resentfully**._
 
 Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-command, appeals to Apollo for help:  
   
@@ -242,7 +242,7 @@ But that inexorable “struck” is not quite the end, for the very last word is
 > **Saying these things Patroclus died.**  
 > **And as his soul went through the sand like water,**  
 > **Hector withdrew his spear and said**  
-> _**“Perhaps.**__”_
+> _**“Perhaps.**”_
 >
 
 [1]  Ancient Greek νόστος (nostos), derived from the verb νέομαι, to turn back; hence here, home-sickness.

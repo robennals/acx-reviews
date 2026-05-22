@@ -106,6 +106,12 @@ function parseCsv(csvPath: string): CsvRow[] {
  *   https://docs.google.com/document/d/DOC_ID
  */
 function extractDocId(url: string): string | null {
+  // Published-to-web URL form: `/document/d/e/<PUB_ID>/pub`. Authors
+  // who use File → Publish to the web sometimes submit this URL
+  // instead of the editable share link. Capture the pub id with the
+  // `e/` prefix so downstream callers can recognize it.
+  const pubMatch = url.match(/\/document\/d\/e\/([a-zA-Z0-9_-]+)/);
+  if (pubMatch) return `e/${pubMatch[1]}`;
   const match = url.match(/\/document\/d\/([a-zA-Z0-9_-]+)/);
   return match ? match[1] : null;
 }
@@ -247,6 +253,20 @@ interface ReviewException {
   // verbatim, so include `$…$` (inline) or `$$…$$` (display) math
   // delimiters yourself.
   imageReplacements?: Record<string, string>;
+  // Treat any blockquote (`> ...`) lines immediately following a
+  // bullet list as continuation paragraphs of the preceding bullet,
+  // not as a separate blockquote. The source author wrote a multi-
+  // paragraph bullet using indent in the gdoc; our pipeline mis-
+  // detected the indent as quote-style indent. Used for Mistletoe
+  // and Memorandums.
+  quoteAfterListIsContinuation?: boolean;
+  // Treat top-level bullets immediately following a blockquote as
+  // PART of that blockquote (prefix each bullet line with `> `).
+  // The author wrote a deeper-indented bullet list inside a quote;
+  // our pipeline split off the bullets to top level. Used for
+  // Plotting Your Fantasy Novel, which mixes quote-internal bullet
+  // lists with top-level bullet lists in the same essay.
+  bulletsAfterQuoteAreQuoted?: boolean;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -525,6 +545,11 @@ function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): s
   // versa. So we compute canonical forms of both (with the by-suffix
   // and review-prefix stripped) and match if any pair lines up.
   const stripByAuthor = (s: string) => s.replace(/\s+by\s+.+$/, '');
+  // Strip a trailing "a review" / "review" suffix from a candidate
+  // title line. Parfit's first content line was the title followed
+  // by ": A REVIEW" — the de-dup match has to account for this.
+  const stripTrailingReview = (s: string) =>
+    s.replace(/\s+(?:a\s+)?(?:book\s+)?review\s*$/, '');
   // Strip a trailing 4-digit year token. CSV titles often include a
   // publication year — `Siddhartha (1922) by Hermann Hesse` — while
   // the in-doc heading is just `Siddhartha`. normalize() has already
@@ -546,6 +571,20 @@ function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): s
     stripTrailingYear(normTitle),
     stripTrailingYear(titleNoBy),
   ]);
+  // Subtitle case: when the raw title contains a colon/dash separator
+  // (e.g. "The Empyrean Series: Fourth Wing, Iron Flame, …"), the
+  // in-doc heading sometimes uses ONLY the main title or ONLY the
+  // subtitle. Add normalized forms for both sides as accepted title
+  // forms. normalize() removes the colon, so we split on the raw
+  // separator BEFORE normalizing.
+  const rawSplitRe = /\s*(?::|–|—|-)\s+/;
+  for (const part of csvTitle.split(rawSplitRe)) {
+    const normPart = normalize(part);
+    if (normPart && normPart !== normTitle && normPart.length >= 6) {
+      titleForms.add(normPart);
+      titleForms.add(stripByAuthor(normPart));
+    }
+  }
   // Plain Levenshtein. Used for typo-tolerant fuzzy match below.
   const levenshtein = (a: string, b: string): number => {
     if (a === b) return 0;
@@ -577,7 +616,18 @@ function stripLeadingTitle(markdown: string, csvTitle: string, slug?: string): s
     if (!norm) return false;
     if (norm.length > titleLineLengthCap) return false;
     const noPrefix = stripReviewPrefix(norm);
-    const lineForms = [norm, stripByAuthor(norm), noPrefix, stripByAuthor(noPrefix)];
+    const noTrail = stripTrailingReview(norm);
+    const noBoth = stripTrailingReview(noPrefix);
+    const lineForms = [
+      norm,
+      stripByAuthor(norm),
+      noPrefix,
+      stripByAuthor(noPrefix),
+      noTrail,
+      stripByAuthor(noTrail),
+      noBoth,
+      stripByAuthor(noBoth),
+    ];
     for (const lf of lineForms) {
       if (titleForms.has(lf)) return true;
     }
@@ -720,6 +770,62 @@ async function createMarkdownFile(
     truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
   }
 
+  if (slugExceptions[slug]?.bulletsAfterQuoteAreQuoted) {
+    // Walk lines. Once we leave a `> ` blockquote group, the next
+    // run of `* ` / `- ` bullet lines belongs to that quote — prefix
+    // each with `> ` so they render inside the same blockquote.
+    // Subsequent non-bullet non-blank lines (or another non-quote
+    // structure) end the run.
+    const lines = truncatedContent.split('\n');
+    let justLeftQuote = false;
+    let inQuotedBulletRun = false;
+    for (let i = 0; i < lines.length; i++) {
+      const l = lines[i];
+      if (l.startsWith('>')) {
+        justLeftQuote = true;
+        inQuotedBulletRun = false;
+        continue;
+      }
+      if (l.trim() === '') continue;
+      if ((justLeftQuote || inQuotedBulletRun) && /^[*+\-]\s/.test(l)) {
+        lines[i] = '> ' + l;
+        inQuotedBulletRun = true;
+        justLeftQuote = false;
+        continue;
+      }
+      // Anything else ends the quote/bullet attachment.
+      justLeftQuote = false;
+      inQuotedBulletRun = false;
+    }
+    truncatedContent = lines.join('\n');
+  }
+  if (slugExceptions[slug]?.quoteAfterListIsContinuation) {
+    // Walk lines. Once we've seen a `* ` / `- ` / `+ ` / `\d+. `
+    // top-level bullet, every subsequent `> ` line (with optional
+    // blank `>` separators) belongs to that bullet as a continuation
+    // paragraph. Convert `> text` to a 4-space-indented paragraph
+    // (markdown's syntax for a list-item continuation). A blank line
+    // ending in non-`>` content ends the bullet's run.
+    const lines = truncatedContent.split('\n');
+    let inList = false;
+    for (let i = 0; i < lines.length; i++) {
+      const l = lines[i];
+      if (/^(?:\*|-|\+|\d+\.)\s/.test(l)) {
+        inList = true;
+        continue;
+      }
+      if (!inList) continue;
+      if (l.trim() === '') continue; // blank lines OK between bullet + continuation
+      if (l.startsWith('>')) {
+        // Convert `> text` → `    text`, `>` (blank-quote) → blank line.
+        lines[i] = l.replace(/^>\s?/, '    ').replace(/^\s+$/, '');
+        continue;
+      }
+      // Anything else ends the list context.
+      inList = false;
+    }
+    truncatedContent = lines.join('\n');
+  }
   if (slugExceptions[slug]?.numberedListAsBullets) {
     // Convert `N. text` numbered list items to `* N. text` bullets so
     // the author's number labels survive the rendering. Also catch the

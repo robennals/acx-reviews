@@ -1,5 +1,5 @@
 ---
-title: 'Kakistocracy, by Richard Hanania'
+title: Kakistocracy, by Richard Hanania
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2026-book-reviews

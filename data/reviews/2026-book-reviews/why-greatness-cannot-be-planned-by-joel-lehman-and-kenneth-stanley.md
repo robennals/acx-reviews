@@ -209,7 +209,7 @@ A frequent collaborator of L&S, Jeff Clune and his team recently tried to formal
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/d9533ab397fbe37d.png)
 
-[_Measuring interestingness. An example from_ _[Clune et al. (2025)'s](https://arxiv.org/pdf/1602.03616)_ _more recent paper, which lets OMNI use code environments._]
+[_Measuring interestingness. An example from_ _[Clune et al. (2025)'s](https://arxiv.org/pdf/1602.03616) more recent paper, which lets OMNI use code environments._]
 
 The algorithm you are using to search in any particular field determines the set of possible outcomes. We can search for more things, and have to spend more time filtering on the other side, or we can be more restrictive and potentially miss out on valuable stepping stones. Whatever the field, whatever the algorithm, we are always navigating this trade-off.[6]
 
@@ -237,7 +237,7 @@ It was contested by the Hungarian philosopher Imre Lakatos, who argued that ther
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/4f4ed8d399c8021b.png) 
 
-[_Imre Lakatos,_ _[source](https://www.lse.ac.uk/philosophy/research/imre-lakatos)__._]
+[_Imre Lakatos, [source](https://www.lse.ac.uk/philosophy/research/imre-lakatos)._]
 
 One of Lakatos’ favourite examples is the story of the Copernican revolution. Before the 16th century, the dominant view of space relied on the Ptolemaic geocentric model, in which the Earth stood still at the centre of the cosmos while everything else moved around it. This has now been replaced by the Copernican theory of heliocentrism which predicts that the Earth orbits around the sun.
 
@@ -265,7 +265,7 @@ A novel prediction about something boring is a little pointless. If I glue a ban
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/4dbdb2e4057ff49f.gif)
 
-[_Video accompaniment to the paper:_ _[Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding. Cheney, MacCurdy, Clune, & Lipson.](https://jeffclune.com/publications/2013_Softbots_GECCO.pdf)_ _Watch their full video of possible forms of locomotion_ _[here](https://www.youtube.com/watch?v=EXuR_soDnFo)__._]
+[_Video accompaniment to the paper: [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding. Cheney, MacCurdy, Clune, & Lipson.](https://jeffclune.com/publications/2013_Softbots_GECCO.pdf) Watch their full video of possible forms of locomotion_ _[here](https://www.youtube.com/watch?v=EXuR_soDnFo)._]
 
 Research programmes focusing on what is _interesting_ might allow people time and space to explore ideas, even if they don't meet stringent criteria now. As [Peter Higgs put it](https://proposia.ai/blog/impact-factory), "It's difficult to imagine how I would ever have enough peace and quiet in the present sort of climate to do what I did in 1964. I wouldn't be productive enough for today's academic system."[7]
 
@@ -293,7 +293,7 @@ In the spirit of Imre Lakatos’ example, I'm going to analogise this to the Pto
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/6419fff75fa84c72.png)
 
-[_The basic elements of Ptolemaic astronomy, showing a planet on an epicycle (smaller dashed circle), a_ _deferent_ _(larger dashed circle)._ _[Source](https://en.wikipedia.org/wiki/Deferent_and_epicycle)__._]
+[_The basic elements of Ptolemaic astronomy, showing a planet on an epicycle (smaller dashed circle), a deferent (larger dashed circle). [Source](https://en.wikipedia.org/wiki/Deferent_and_epicycle)._]
 
 Planets move on a deferent (the larger dashed circle), and in this metaphor, that represents the spirit of constant learning and development in a field. You want to keep developing your expertise so that you're ready to spot new ideas when they arrive.
 

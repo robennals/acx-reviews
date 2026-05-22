@@ -1,15 +1,12 @@
 ---
-title: >-
-  The Disciplinary Revolution: Calvinism and the Rise of the State in Early
-  Modern Europe
+title: 'The Disciplinary Revolution: Calvinism and the Rise of the State in Early Modern Europe'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T04:38:23.000Z'
-slug: >-
-  the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe
+slug: the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe
 wordCount: 5237
 readingTimeMinutes: 24
 source: gdoc

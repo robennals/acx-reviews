@@ -89,7 +89,7 @@ The natural modern way to present this information would be as a list or a table
 
 <figcaption>
 
-_This_ _[Wikipedia](https://en.wikipedia.org/wiki/Catalogue_of_Ships)_ _table is both hard to memorize and impossible to say out loud._
+_This [Wikipedia](https://en.wikipedia.org/wiki/Catalogue_of_Ships) table is both hard to memorize and impossible to say out loud._
 
 </figcaption>
 
@@ -153,7 +153,7 @@ Modern schooling has also been shaped by orality fading away. It used to be that
 
 <figcaption>
 
-_The analogies section of the_ _SAT, which used to contain questions like this, was removed for requiring too much background knowledge._
+_The analogies section of the SAT, which used to contain questions like this, was removed for requiring too much background knowledge._
 
 </figcaption>
 
@@ -165,7 +165,7 @@ _The analogies section of the_ _SAT, which used to contain questions like this, 
 
 <figcaption>
 
-_In contrast, this_ _[popular modern intelligence test](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)_ _requires no background knowledge, or even words._
+_In contrast, this [popular modern intelligence test](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices) requires no background knowledge, or even words._
 
 </figcaption>
 
@@ -196,15 +196,15 @@ Let’s step out of Ong’s book now, and look around. What will happen to our w
 
 When Ong wrote his book in 1982, he noticed that new technology like “telephone, radio, and television” were making culture more oral again. Funnily, he mostly glossed over the biggest new technology: the computer. And of course the computer has done more than any other technology to drag our culture back to orality (we’ll get to that in a bit), but it is also the place where writing has hyperevolved into a form so literate it boggles the mind.
 
-\`\`\`
+\\\`
 
 main( ) {
 
-    printf("hello, world");
+printf("hello, world");
 
 }
 
-\`\`\`
+\\\`
 
 Just look at that. How would someone from an oral culture even begin to say that? “Main, open parenthesis, close parenthesis, open curly brace, indent…” Imagine an oral poet having to keep track of whether he left one or two braces open while improvising the next line of his code. Imagine an audience listening and making sense of which level of indentation we are now on. It simply wouldn’t work.
 
@@ -260,7 +260,7 @@ Arguments aren’t considered on their merits, separately from who is speaking t
 
 <figcaption>
 
-_I picked a_ _non-ACX-y_ _example so it would feel less toxic._
+_I picked a non-ACX-y example so it would feel less toxic._
 
 </figcaption>
 
@@ -327,7 +327,7 @@ People are reading less than ever. That’s not likely to change. I would love i
 
 <figcaption>
 
-_Think of the kind of policy this_ _platform_ _would create._
+_Think of the kind of policy this platform would create._
 
 </figcaption>
 
@@ -376,7 +376,7 @@ Or to take another example, consider one of my favorite sci-fi stories: [17776](
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/d29abc81590f1a30.png)
 
-Sure, Jon Bois could have written like a regular author: “That first Friday of April, I said \_\_\_. I waited eleven tense days. The stars spun. I had trouble sleeping. Once my batteries recharged, I sent another desperate plea. I said \_\_\_. Still nothing.” It would be very poetic. But the calendar feels like a punch to the gut. Seeing those desperate messages between the empty days is a dizzying experience. _Writing can_ _be like this?_ Yes, it can.
+Sure, Jon Bois could have written like a regular author: “That first Friday of April, I said \_\_\_. I waited eleven tense days. The stars spun. I had trouble sleeping. Once my batteries recharged, I sent another desperate plea. I said \_\_\_. Still nothing.” It would be very poetic. But the calendar feels like a punch to the gut. Seeing those desperate messages between the empty days is a dizzying experience. _Writing can be like this?_ Yes, it can.
 
 <figure>
 
@@ -466,7 +466,7 @@ Many online platforms for writers offer no way to insert tables. Humans have bee
 
 Most online platforms for writers offer no way to change text color. This might have made sense in Gutenberg’s day, when changing ink colors required complicated logistics. In 2026, a lilac pixel is as cheap as a black one.
 
-Most online platforms for writers don’t respect whitespace. If you type out ten spaces, it’s between the website and God whether those spaces show up \` \` wide or \`          \` wide, or on one line or two.
+Most online platforms for writers don’t respect whitespace. If you type out ten spaces, it’s between the website and God whether those spaces show up \ \ wide or \          \ wide, or on one line or two.
 
 Why bother writing on the internet? You might as well write on a Ouija board and get the same experience with better battery life.  
 
@@ -480,7 +480,7 @@ Substack, in particular, pisses me off because it forces authors to write in the
 
 <figcaption>
 
-_Even Helen DeWitt,_ _[the Internet’s Favorite Author of 2026](https://www.theargumentmag.com/p/helen-dewitt-is-the-psycho-we-need)__,_ _[can’t indent how she wants on Substack and thinks she will need $175k (!) to “incorporate Tuftean infoviz into fiction”](https://paperpools.blogspot.com/2026/04/we-lose-again-windham-campbell-prize.html#more)__. It’s 2026 and we’ve been writing on the internet for fifty years._
+_Even Helen DeWitt, [the Internet’s Favorite Author of 2026](https://www.theargumentmag.com/p/helen-dewitt-is-the-psycho-we-need), [can’t indent how she wants on Substack and thinks she will need $175k (!) to “incorporate Tuftean infoviz into fiction”](https://paperpools.blogspot.com/2026/04/we-lose-again-windham-campbell-prize.html#more). It’s 2026 and we’ve been writing on the internet for fifty years._
 
 </figcaption>
 

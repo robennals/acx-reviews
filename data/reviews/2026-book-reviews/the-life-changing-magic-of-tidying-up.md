@@ -112,7 +112,7 @@ The basic steps of KonMari are:
 3. Discard everything that does not spark joy.
 4. Decide where to keep the items that spark joy.
 
-The Netflix show _does not do her method justice_. It focuses on the drama and human interest about tidying. It explains the steps, but glosses over all of the _why_s. _Why_ tidy by category, not location. _Why_ pick up each item (yes, every single item). _Why_ decide first whether you want to keep something, before worrying about how to get rid of it.
+The Netflix show _does not do her method justice_. It focuses on the drama and human interest about tidying. It explains the steps, but glosses over all of the *why*s. _Why_ tidy by category, not location. _Why_ pick up each item (yes, every single item). _Why_ decide first whether you want to keep something, before worrying about how to get rid of it.
 
 The book is part tutorial, part autobiography. For each step of the method, Kondo shares her entire thought process and how it evolved. She tells stories of how she'd kept trying to apply the conventional wisdom, only to fail. She identifies and solves two key problems:
 

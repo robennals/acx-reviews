@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T12:30:22.000Z'
 slug: storm-of-steel
-wordCount: 8575
+wordCount: 8581
 readingTimeMinutes: 39
 source: gdoc
 tags:
@@ -201,23 +201,15 @@ For Jünger, who so loved his country, his duty called him to service; it was so
 
 [^5]: For all its talk about lousy food, _All Quiet on the Western Front_ really has a lot of moments of plenty. The book opens with one when their half-strength company gets enough rations to cover the full company, hence double, then they get a goose, some suckling pigs with a supply dump, Paul brings food home, Kat conjures up a horse-flesh meal, Paul even shares some of his mother’s homemade cooking with POWs. On my reread it was one of those things that weirdly stuck out: it _tells_ you that they’re all starving and then _shows_ you plentiful food. That’s a problem with construction.
 
-[^6]: A young man of Cambrai goes up to a farmer’s wife at the market and asks to buy a soft white cheese:
-
-        “How much do you want for that cheese?”
-
-        “Twenty sous, monsieur!”
-
-        He gives her the twenty sous.
-
-        “So the cheese belongs to me now, is that right?”
-
-        “Of course, monsieur!”
-
-        “So I can do whatever I want with it?”
-
-        “But of course!”
-
-        Splat! he throws the cheese in her face, and leaves her standing there.  
+[^6]: A young man of Cambrai goes up to a farmer’s wife at the market and asks to buy a soft white cheese:  
+> “How much do you want for that cheese?”  
+> “Twenty sous, monsieur!”  
+He gives her the twenty sous.  
+> “So the cheese belongs to me now, is that right?”  
+> “Of course, monsieur!”  
+> “So I can do whatever I want with it?”  
+> “But of course!”  
+Splat! he throws the cheese in her face, and leaves her standing there.  
 
 
 [^7]: I break war anecdotes down into three categories. First, the regimented, oftentimes bureaucratic idiocy, like being forced to mop the rain up as punishment. Second, the silly, dumb and funny stories, like that time a guy was chasing a goat all around the FOB in 120° heat. Third, the horrifying; my uncle, unprompted, started describing a scene from his time in Vietnam once as we were sitting at the dining room table, where his Captain had his chest blown out charging up a hill on the attack. Stories in this third category seem to pop up suddenly, randomly and vanish just as swiftly. I add a fourth category for modern wars: technology has made it possible to visit death on people personally without any reciprocity; think videos of Apaches gunning down vaguely human-shaped figures on a screen.

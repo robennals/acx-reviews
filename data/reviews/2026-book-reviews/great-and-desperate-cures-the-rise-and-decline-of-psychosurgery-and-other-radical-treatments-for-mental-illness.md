@@ -36,7 +36,7 @@ In a particularly egregious case, a twelve year-old boy received a lobotomy, ess
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/455d19c4e820c862.jpg)![](https://acximages.ennals.org/images/2026-book-reviews/611863c637d92ea1.jpg)![](https://acximages.ennals.org/images/2026-book-reviews/a9ea56daa01c0f23.jpg)
 
-The black eyes are because the metal leucotome had been shoved into the eye sockets and through the orbits in order to reach the brain. This boy survived, had an extremely difficult life, and decades later wrote a memoir called _[My Lobotom](https://www.goodreads.com/en/book/show/503248.My_Lobotomy)__y_. Here’s an excerpt from the notes of the doctor that performed the procedure:
+The black eyes are because the metal leucotome had been shoved into the eye sockets and through the orbits in order to reach the brain. This boy survived, had an extremely difficult life, and decades later wrote a memoir called _[My Lobotom](https://www.goodreads.com/en/book/show/503248.My_Lobotomy)y_. Here’s an excerpt from the notes of the doctor that performed the procedure:
 
 > He came around quickly after the first shock and I eventually gave him 4, after which he was quite slow in recovering, with some cyanosis and rattling in the chest. I think it was one more than necessary. I introduced the orbitoclasts under the eyelids 3 cm from the midline, aimed them parallel with the nose and drove them to a depth of 5 cm. I pulled the handles laterally, returned them half way and drove them 2 cm deeper. Here I touched the handles over the nose, separated them 45 degrees and elevated them 50 degrees, bringing them parallel for photography before removal. There was an escape of a small amount of blood-stained fluid from each side. Howard did not get much swelling or discoloration from the eyelids; however, he did have a considerable amount of vomiting during the night and I prescribed dramamine 50 mg for its control. When I saw him this morning he recognized me but thought he was on Orange Street and that the day was Monday instead of Saturday. He did not know that anything particular had happened to him. He'd been incontinent once during the night. He resisted efforts to get his eyes open and complained about the needles that were being given him. His temperature, pulse and respiration were quite normal, and the neurologic picture was OK.
 
@@ -60,7 +60,7 @@ _The cover of the book is also very cool._
 
 </figure>
 
-_The illustration recalls_ _[Saturn Devouring His Son](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son)_ _by Goya._
+_The illustration recalls [Saturn Devouring His Son](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) by Goya._
 
 The reasons Valenstein comes up with are not extremely surprising. They might be summarized as demand, glory, and bad world modeling. But the details are compelling. They are insane. I have never read anything quite like this.
 
@@ -138,7 +138,7 @@ Moniz decided to try to adapt the approach to visualize the brain. He began by e
 
 > Working under less than ideal conditions, Moniz injected the cadavers in the pathology department of the Institute of Anatomy and then transported the detached heads in his chauffeured limousine through the city streets to his laboratory in the Santa Marta Clinic, always fearing, as he later remarked, what would happen if a car accident revealed what he was carrying.
 
-Satisfied with the fundamentals of the approach, he quickly began trying it on patients. His carelessness killed one patient and gave others neurological problems (like [Horner syndrome](https://my.clevelandclinic.org/health/diseases/17836-horners-syndrome)), pain, or epileptic convulsions. But after several months, he finally obtained an adequate image (or _cerebral_ _angiograph_) with his cerebral angiography technique. He immediately raced to Paris to “announce his discovery and establish his priority” (ch. 4, p. 72), although in Moniz’s telling he was unconcerned about such things and _just so happened_ to have the angiograph handy when a relevant discussion took place during a meeting of the Neurological Society.
+Satisfied with the fundamentals of the approach, he quickly began trying it on patients. His carelessness killed one patient and gave others neurological problems (like [Horner syndrome](https://my.clevelandclinic.org/health/diseases/17836-horners-syndrome)), pain, or epileptic convulsions. But after several months, he finally obtained an adequate image (or _cerebral angiograph_) with his cerebral angiography technique. He immediately raced to Paris to “announce his discovery and establish his priority” (ch. 4, p. 72), although in Moniz’s telling he was unconcerned about such things and _just so happened_ to have the angiograph handy when a relevant discussion took place during a meeting of the Neurological Society.
 
 It was important for Moniz to establish that _he_ deserved full credit for the idea, even if it was admittedly derivative of similar work going on at the time (and moreover was something others were already planning to do). Regarding Moniz’s race to receive credit, Valenstein writes: (ch. 4, p. 73)
 
@@ -678,7 +678,7 @@ _Not everyone liked the memoir. Some Goodreads reviewers think_
 
 </figure>
 
-> _lobotomy_ _victims ought to take more personal responsibility._
+> _lobotomy victims ought to take more personal responsibility._
 
 The arc of the memoir is to claim that, despite everything he had gone through, Howard came out the other side okay. He had kids; he had a wife that loved him; he finally got a job he enjoyed; and he found peace. In some ways these things are true, but Howard’s life was far from normal, and was disastrous in almost every sense one could imagine. His kids were unplanned, his good second marriage followed a terrible first marriage, and his bus driving job is not the one he was hoping for; he went to school later in life hoping to get a computer-related job. Even after NPR covered his story, he continued to have financial problems and health challenges.
 

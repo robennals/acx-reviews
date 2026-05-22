@@ -57,9 +57,8 @@ The influence of Jews on my life was, and still is, gigantic, even though I have
 
 * Historians in the 4th century BCE cast Moses as a companion of Black people and lepers who brought them to Egypt; by contrast, some 2nd-century CE writers praised him as a magnificent figure and even called Plato "Moses speaking Greek." The author links the hostile tradition to later antisemitic theories, including in Marx's letters to Engels. (pp. 29, 134-136, 350)  
 
-
 * According to the author, despite the Egyptians' technical advancement, they had an archaic understanding of time and of the differences between animals and humans, life and death, and so on. For the Egyptians, time was understood more cyclically, while for the Jews it was linear, which, according to the author, allowed them to understand the history of civilization better. (pp. 30-31, 75)  
-    
+
 
 This made me think of one particular quote. It is often paraphrased sarcastically in Poland, and I think it is best known among antisemites. You can type "metafizyka Żydzi" into X search if you want to see how often it comes up. [Controversial statements are most viral](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/).
 
@@ -83,24 +82,18 @@ Examples: Heine, Jesus, Marx, St. Paul, [John von Neumann](https://www.astralcod
 
 * According to Marx, "the Jews of Poland are the filthiest of all races." (p. 350)  
 
-
 * Moses Hess, like Marx, moved from Hegelianism to socialism. (p. 375)  
-
 
 * In Victorian times, Jews were often associated with reddish hair (like Mark Zuckerberg?). (p. 377)  
 
-
 * As long as there were no economic problems in Great Britain, philosemitism prevailed among the educated, while in France, Germany, and similar countries, antisemitism generally prevailed throughout. This was especially true until 1870. One example of philosemitism is George Eliot. (pp. 376-379)  
-
 
 * "Antisemites began to succeed only when Jews joined them" - a joke by Herzl, the Zionist Jewish writer from Austria-Hungary. (pp. 395-400)  
 
-
 * In 1817, Burschenschaften societies (Bursch meant a German student) burned foreign books at Wartburg Castle that were supposed to poison the culture of the Volk. They distinguished between culture, which was beneficial, organic, and natural, and civilization, which was corrupt, artificial, and sterile. According to the author, German culture remained in constant conflict with civilization. Jews were representatives of civilization. (p. 392)  
-    
+
 
 * At the beginning of the 19th century, Riehl wrote about the rejection of great cities as tombs of Germanness, destroyed by migrant workers, the rootless proletariat, and Jews. This especially applied to Vienna and Berlin. (p. 393)  
-
 
 * For example, Paul de Lagarde spoke of Christianity as the corrupted creation of a Jew, St. Paul. (p. 393)
 
@@ -112,42 +105,31 @@ The migration of Ostjuden also had enormous consequences.
 
 * "Ostjuden" had a pejorative meaning among Jews who had already been living in Germany. (pp. 391, 468)  
 
-
 * Herzl called Great Britain the Archimedean point on which the lever of Zionism could rest. (p. 400)  
-    
+
 
 * Rathenau claimed that German antisemitism was connected with the German aristocracy and would pass away with it, and that the new ruling class of industrialists would reject it. (p. 407)  
 
-
 * According to the author, Jews were not characterized by any common inclination toward modernism at all. For example, Sigmund Freud hated "modernism." He believed that modernist painters had an "innate defect of vision." (pp. 412-413)  
-
 
 * [Husaini](https://en.wikipedia.org/wiki/Amin_al-Husseini) - in Johnson's account, the person most responsible for modern antisemitism in Arab culture. (pp. 436-440, 512, 578)  
 
-
 * Rosa Luxemburg avoided mentioning her Jewish origin whenever she could, Johnson says. She tried to ignore antisemitic attacks directed at her. She wrote that, for the working class and Marx's supporters, the Jewish question as such did not exist. However, some Jewish socialists, such as Eduard Bernstein, admired Marx's daughter Eleanor for proudly announcing at a public meeting that she was Jewish. (pp. 448-449)  
-
 
 * The entire philosophy of proletarian revolution was based on the assumption that the caricature-Jew would disappear along with the system that existed before the revolution. Thousands of educated Jews believed this; revolutionary efforts were supposed to bring them personal liberation from the burden of Jewishness. Such "non-Jewish" Jews were significant figures in virtually every European country and every revolutionary party. Bela Kun, leader of the communist regime in Hungary in 1919; Kurt Eisner, leader of the communist Bavarian republic; and Rosa Luxemburg are examples. Jews were most strongly identified with revolutionary violence in Russia, however. Trotsky, that is, Davidovich Bronstein, said that neither antisemitism nor Judaism had any influence on him. However, in London in 1903 he attacked the Jewish Bundists in an unnatural and hateful way. He called Herzl a suspicious creature. Despite this, more than anyone else, he was responsible for the widespread identification of revolution with Jews. (pp. 448-455)  
 
-
 * The leitmotif of supposedly the only great Jewish writer produced by the Russian Revolution was the difficulty of abandoning one's cultural formation. He was therefore unable to become a person for whom violence was natural. In one of his stories, a young Jewish soldier who had been killed carried portraits of Maimonides and Lenin. His personal life made him realize that the two could not be combined. (pp. 454-455)  
-
 
 * Churchill wrote that what Jews contributed to religion was worth more than all other knowledge and all other doctrines. In the context of Bolshevism he added: "but now this astonishing race has created a new system of morality and philosophy, from which as much hatred gushes as love gushes from Christianity." (p. 457)  
 
-
 * Despite this, there was still no great antisemitism in Britain. France was different, because antisemitism there had deep roots and "was in a way part of the national culture." Germany and Russia were different too, but antisemitism looked different in each of these countries. (pp. 457-458, 470-473)  
-
 
 * From the founding of the Nobel Prize until 1933, Germany received more Nobel Prizes than any other country, about 30 percent of the total. Of this "German" allocation, almost one third went to Jews, and in medicine even half, even though Jews made up about 1% of that society. (p. 470)  
 
-
 * On the evening of the day Herschel Grynszpan murdered a Nazi diplomat in Paris, anti-Jewish riots had already begun. That is how Kristallnacht began. (pp. 485-487)  
 
-
 * The head of the SS in Rome ordered the Jews to bring him 50 kilograms of gold within 36 hours; otherwise, 200 Jews would be murdered. They brought it within four days. Pope Pius XII offered as much gold as would be needed, but by that point enough had already been collected. Himmler therefore sent 40 SS men and Theodor Dannecker to carry out a real Judenaktion, not merely a robbery. Dannecker had previously carried out similar actions in Paris and Sofia. One thousand Jews were arrested and sent to Auschwitz; the rest were hidden by the Vatican and Italian society. (pp. 501-502)  
-    
+
 
 I also wondered whether Johnson would mention the strange afterlife of Auschwitz’s infrastructure. One subcamp was reused in 1945 by communists as the brutal Zgoda concentration camp, where Salomon Morel, and other mostly Jewish officers tortured Polish, Silesian, and German prisoners. When Poland requested Morel’s extradition in 1998 on charges including crimes against humanity, Israel refused, reportedly because too much time had passed for him to be prosecuted under Israeli law. I also wondered why Johnson said nothing about this: was it because the Zgoda camp was too marginal to his account of Jewish history (maybe it really was - it's an honest question), or because he did not know about it? It was indeed "small" in comparison to Auschwitz before 1945, but it's good to understand what happened. Maybe this fact influenced riots in 1968 and riots influenced events in 1971([https://wtfhappenedin1971.com](https://wtfhappenedin1971.com/))? And this had an effect on everything? It's so complicated. And the history of Zgoda Camp is very complicated as well. For example, despite jewish commanders in the camp, The guards at the camp were mostly Polish and they forced non-Polish speaking prisoners to learn Polish songs and Catholic prayers.
 

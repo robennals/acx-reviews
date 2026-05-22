@@ -25,7 +25,7 @@ In May 1939, Jorge Luis Borges published a short story called _Pierre Menard, Au
 Becoming Cervantes seemed as if it would lead too naturally, too predictably to the production of the _Quixote_. Instead, Menard resolved to arrive at _Quixote_ through his own experiences. At first glance, this seems impossible. How could someone sit down and, in a creative act, reproduce a 1000 page novel? In fact, it turns out that Menard was only successful in recreating a few scattered chapters. But Menard recognized the improbability, rather than impossibility, of this endeavor: “The task I have taken is not _in essence_ difficult. . . if I could just be immortal, I could do it.”  
 
 
-        This is a variation of the classic thought experiment known as the [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). Given enough time and enough attempts, random chance (in the form of monkeys and typewriters) is capable of producing anything that is not outright impossible. Naturally, this thought experiment leads us to a question about the nature of human creation. Fundamentally, what is the difference between the storytelling of a single Cervantes, as opposed to the probability-engine of the infinite Monkeys (or an infinite Menard)?
+This is a variation of the classic thought experiment known as the [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). Given enough time and enough attempts, random chance (in the form of monkeys and typewriters) is capable of producing anything that is not outright impossible. Naturally, this thought experiment leads us to a question about the nature of human creation. Fundamentally, what is the difference between the storytelling of a single Cervantes, as opposed to the probability-engine of the infinite Monkeys (or an infinite Menard)?
 
 In _Into the Universe of Technical Images,_ Vilém Flusser provides an answer: “I distinguish myself from chimpanzees and other ignorant beings in that I produce the same things they do but in a much shorter time.”
 
@@ -49,7 +49,7 @@ Flusser portrays the history of media, in very broad strokes, as a ladder with 5
 
 This idea of the “collapse” of rules strangely foreshadows the recent success of implicit and learned computer systems in the fields of, to name a few, coding, translation, conversation, and of course, image creation. Modern neural networks have achieved remarkable success by shedding the explicit rules which people previously used to understand the world, and replacing them with implicit rules, learned rules, rules which are defined only by the flow of information through the network as it learns optimal behavior for a given task. While traditional images “arise through depiction,” technical images, Flusser writes, are the result of “a peculiar hallucinatory power that has lost its faith in rules.” His reference to hallucination feels especially prescient in the context of neural methods.
 
-The differences between technical and traditional images are subtle but important. Technical images are “mosaics assembled from particles. They are therefore not prehistoric, two-dimensional structures but rather posthistorical, without dimension. We are not turning back to a two-dimensional prehistory but rather emerging into a posthistorical, dimensionless state.” Technical images, once solidified, cannot be separated from the amorphous, dimensionless flows of information from which they were snatched. They_are_ that flow of information, seen at a particular moment from a particular angle.
+The differences between technical and traditional images are subtle but important. Technical images are “mosaics assembled from particles. They are therefore not prehistoric, two-dimensional structures but rather posthistorical, without dimension. We are not turning back to a two-dimensional prehistory but rather emerging into a posthistorical, dimensionless state.” Technical images, once solidified, cannot be separated from the amorphous, dimensionless flows of information from which they were snatched. They*are* that flow of information, seen at a particular moment from a particular angle.
 
 From a human standpoint, a lack of dimensionality and the arbitrarily-high-dimensionality of neural networks might look pretty similar. Images assembled as a mosaic of high dimensional tokens are pretty familiar to users of the internet in 2026. Additionally, in modern image models, the internal hidden states, the layers which contain the model’s implicit understanding, contain thousands or tens of thousands of dimensions. The particles, or curves, or data points, which a modern image model uses as a raw material undoubtedly exist in a space that is beyond the human capacity to visualize, dimensionally speaking.
 
@@ -58,10 +58,10 @@ Writing in 1985, how was Flusser’s analysis so prescient? He seems to have “
 Just as AI image models haphazardly transform text prompts and directions into likely images, cameras transform “the effects of photons on molecules of silver nitrate into photographs in just the same way: blindly. And that is what a technical image is: a blindly realized possibility, something invisible that has blindly become visible.” Even though a camera only outputs an image when it is directed to, whether by a person or by a machine, its aperture takes in light constantly, in different angles and directions. From this viewpoint, the process of taking a photo is just the selection of a certain slice of all possible images that the camera could be exposed to, just as the output of an image generator corresponds to a certain slice of its data distribution.  
 
 
-        In Flusser’s words:  
+In Flusser’s words:  
 
 
-        “For example, if we look at the gesture of a
+“For example, if we look at the gesture of a
 
 photographer with his camera and compare it with the movements
 
@@ -86,7 +86,7 @@ the apparatus can do”
 Flusser proposes the existence of “envisioners,” a new class of creators who use all forms of apparatuses to create technical images:  
 
 
-        “These are people who press the keys of an apparatus to make it stop at an
+“These are people who press the keys of an apparatus to make it stop at an
 
 intentionally informative situation, people determined to control the apparatus
 
@@ -103,7 +103,7 @@ the automatic apparatus, for the stuff to be envisioned, the particles,
 are neither visible nor graspable nor comprehensible”  
 
 
-        In other words, Envisioners are the people who “see past” the apparatuses, and the objects produced by apparatuses, and who use the apparatus as a tool to secure desirable outcomes from the raw material of the possible.  
+In other words, Envisioners are the people who “see past” the apparatuses, and the objects produced by apparatuses, and who use the apparatus as a tool to secure desirable outcomes from the raw material of the possible.  
 
 # Meanings, Redundancy, and Pierre Menard
 
@@ -114,7 +114,7 @@ are neither visible nor graspable nor comprehensible”
 What makes an outcome desirable? Flusser proposes that the primary criterion should be an axis between the _redundant_ and the _meaningful_. An object is completely redundant if no new information can be gleaned from it.  
 
 
-        “One can perhaps classify these images according to
+“One can perhaps classify these images according to
 
 what level of information they contain: whether they are more or
 
@@ -149,7 +149,7 @@ When Pierre Menard produced his _Quixote_, he had to adopt an entirely different
 One of Flusser’s main concerns is that these new technical methods of visualizing substances which were previously “neither visible nor graspable nor comprehensible” would necessarily reorganize society, the same way that text reorganized society around rules, codes and laws. Flusser foresees a society in which raw conceptual material is easily, quickly, and automatically visualized, disseminated, and responded to. The result is a society in which information traverses cleanly through all previously understood boundaries. Class, nation, location, and language will provide no obstacle to the reorganization of society around imagery. A society governed by technical images trends naturally towards a structure of senders and receivers, in which the senders provide the receivers with a constant stream of increasingly stale and meaningless information. This will result in ubiquitous social isolation:  
 
 
-        “A technical image radiates, and at the tip
+“A technical image radiates, and at the tip
 
 of each ray sits a receiver, on his own. In this way, technical images
 
@@ -182,7 +182,7 @@ The antidote to the “discursive” society is the opening of “dialogic threa
 Entropy and heat death are Flusser’s primary tools for understanding the failure modes of technical images and automated communication. Automated image systems, if left unhindered by any means of forgetting and discarding, threaten to completely saturate the information environment with meaningless information. Since dialogue is so essential to the synthesis of new and useful information, the discursive society is particularly prone to informational heat death.  
 
 
-         A fully automated society is also likely to succumb to entropy. The role of the “envisioner” proposed beforehand is to sort the improbable, informative, and desirable outputs of systems from the probable, uninformative, and undesirable outcomes. Without a good system of discernment, the probable and uninformative are destined to dominate. Whether any given person or system of persons will actually be able to withstand, let alone sort, the upcoming torrent of information remains to be seen.
+A fully automated society is also likely to succumb to entropy. The role of the “envisioner” proposed beforehand is to sort the improbable, informative, and desirable outputs of systems from the probable, uninformative, and undesirable outcomes. Without a good system of discernment, the probable and uninformative are destined to dominate. Whether any given person or system of persons will actually be able to withstand, let alone sort, the upcoming torrent of information remains to be seen.
 
 # Utopia
 
@@ -191,10 +191,10 @@ Entropy and heat death are Flusser’s primary tools for understanding the failu
 Etymologically speaking, utopia means “no place.” This is the definition most relevant to Flusser’s predictions for the future. In no uncertain terms, the “telematic society” he predicts is one completely alien to all former conceptions of human life, a “cerebral” society in which all available time will be spent dialogically making and receiving images in a “feverishly involved and passionate state of mind” as the body is medically and technologically abstracted away to minimize distractions from image-making. It goes without saying that automation and robotics are the productive basis for the utopian societies of Flusser’s imagination.  
 
 
-        The experience of reading this section was eerily similar to the experience of reading Dougal Dixon’s _Man After Man,_ a “speculative anthropology” book which imagines the genetically-engineered descendants of humanity far into the future. The future humans in _Man After Man_ seem somehow degraded and diminished, despite their improved adaptation to their environment, and I can’t help but feel the same way about passages such as:  
+The experience of reading this section was eerily similar to the experience of reading Dougal Dixon’s _Man After Man,_ a “speculative anthropology” book which imagines the genetically-engineered descendants of humanity far into the future. The future humans in _Man After Man_ seem somehow degraded and diminished, despite their improved adaptation to their environment, and I can’t help but feel the same way about passages such as:  
 
 
-        “Telematic society is a unique sort of ant colony: an ant colony be-
+“Telematic society is a unique sort of ant colony: an ant colony be-
 
 cause it has a mosaic-like structure in which all functions interact
 
@@ -237,6 +237,6 @@ After the “utopian” visions which dominate the last third of the book, Fluss
 This vision of the dialogic society is a lot more palatable, as a world in which people create and share statements, melodies, challenges, and responses at the edge of their abilities as their primary activity. Presumably, these musical dialogues will take place at various levels of abstraction which can be communicated to the machinery of the automated society.  
 
 
-        For right now, this is a pretty far-flung prediction. Flusser hits a lot closer to the heart when he’s analyzing the existing and near-future state of affairs. But the chamber music metaphor has a lot of appeal. Through cooperation, leadership becomes superfluous. Through improvisation, authorship becomes superfluous. In other words, the consensus that forms is a hyperstition, an idea which infects reality and reproduces, brought to life by the skillful and willful application of technique.
+For right now, this is a pretty far-flung prediction. Flusser hits a lot closer to the heart when he’s analyzing the existing and near-future state of affairs. But the chamber music metaphor has a lot of appeal. Through cooperation, leadership becomes superfluous. Through improvisation, authorship becomes superfluous. In other words, the consensus that forms is a hyperstition, an idea which infects reality and reproduces, brought to life by the skillful and willful application of technique.
 
 And hyperstition should never be underestimated. In _Don Quixote,_ whether by Cervantes or Menard, it’s Quixote’s erstwhile squire, Sancho, who ends up most transformed by the high-minded dreams of chivalry and adventure.

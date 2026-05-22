@@ -49,7 +49,7 @@ The answer Smullyan brings the reader to, in a book of logic puzzles intended to
 
 Alice has no way to consistently integrate the truth of that sentence into her mental framework. But you or I could, resolving it as true. For Alice, it sits in a strange category of true but unprovable for her personally, in a Gödelian result that reveals a reality beyond what her mind can contain.
 
-The best actual proof I could give you for why you should read _Alice in Puzzle-Land_ is that if you find these kinds of logical games entertaining, Smullyan does them better than anyone else. His books introduce concepts and building blocks for solving logic puzzles, gradually escalating in complexity like a well-designed video game, and use these sorts of riddles to touch on deeper themes in logic and mathematics. It’s the children’s riddle book version of _G__ö__del, Escher, Bach_ that can also be enjoyed for its excellent puzzle design.
+The best actual proof I could give you for why you should read _Alice in Puzzle-Land_ is that if you find these kinds of logical games entertaining, Smullyan does them better than anyone else. His books introduce concepts and building blocks for solving logic puzzles, gradually escalating in complexity like a well-designed video game, and use these sorts of riddles to touch on deeper themes in logic and mathematics. It’s the children’s riddle book version of _Gödel, Escher, Bach_ that can also be enjoyed for its excellent puzzle design.
 
 ## The Liar and Truthteller Guards
 
@@ -108,7 +108,7 @@ Since Smullyan wrote the book in 1982, people have written procedural puzzle gen
 
 ![Blue Box: “This statement appears on another box.” White Box: “The Blue Box is empty” Black Box: “This statement appears on another box.” ](https://acximages.ennals.org/images/2026-book-reviews/c2d2985869ab72f3.png)
 
-> _Caption:_ _Blue Box__: This statement appears on another box. White Box: The blue box is empty. Black Box: This statement appears on another box._  
+> _Caption: Blue Box: This statement appears on another box. White Box: The blue box is empty. Black Box: This statement appears on another box._  
 
 _Blue Prince’s_ parlor puzzles operate on similar rules to Smullyan’s classic riddle form:
 

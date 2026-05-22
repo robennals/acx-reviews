@@ -7,15 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T07:36:22.000Z'
 slug: parfit-a-philosopher-and-his-mission-to-save-morality
-wordCount: 16978
+wordCount: 16966
 readingTimeMinutes: 76
 source: gdoc
 tags:
   - Philosophy
   - Memoir
 ---
-
-> _PARFIT: A PHILOSOPHER AND HIS MISSION TO SAVE MORALITY_: A REVIEW
 
 ## 1\. Encapsulation
 
@@ -460,7 +458,7 @@ Williams explicitly rejects something like this very idea in the first few parag
 
 >  The simplest model for the internal interpretation would be this: A has a reason to φ iff A has some desire the satisfaction of which will be served by his φ-ing. Alternatively, we might say . . . some desire, the satisfaction of which A believes will be served by his φ–ing; this difference will concern us later. Such a model is sometimes ascribed to Hume, but since in fact Hume’s own views are more complex than this, we might call it the sub-Humean model. The sub-Humean model is certainly too simple. My aim will be, by addition and revision, to work it up into something more adequate.
 
-Williams’ article overall is about how reasons must have an internal, motivational component. They must relate in some way to one’s _set of subjective motivations_, _**S**__,_ of which active desires are only a small part. Other example elements of _**S**_ include “dispositions of evaluation, patterns of emotional reaction, personal loyalties, and various projects, as they may be abstractly called, embodying commitments of the agent.” A reason must in some way be plugged into these things; if there were no conscious minds in the universe with no motivations to fulfill, then there would be no reasons. By affirming this Williams rejects the idea of an _external reason_, a reason that does not depend on any agents’ motivations. Instead, there are only _internal reasons,_ reasons that involve, in some way, the elements of an agent’s _**S.**_
+Williams’ article overall is about how reasons must have an internal, motivational component. They must relate in some way to one’s _set of subjective motivations_, _**S**,_ of which active desires are only a small part. Other example elements of _**S**_ include “dispositions of evaluation, patterns of emotional reaction, personal loyalties, and various projects, as they may be abstractly called, embodying commitments of the agent.” A reason must in some way be plugged into these things; if there were no conscious minds in the universe with no motivations to fulfill, then there would be no reasons. By affirming this Williams rejects the idea of an _external reason_, a reason that does not depend on any agents’ motivations. Instead, there are only _internal reasons,_ reasons that involve, in some way, the elements of an agent’s _**S.**_
 
 These diverse elements of _**S**_ can give an agent internal reasons to act in all sorts of ways. Importantly: Williams says that, if an agent would, **after rational deliberation**, come to believe that an action, φ, would in fact help fulfill some subjective motivation, **then this gives the agent an internal reason for performing** φ **–** **even if they don’t have that belief right this moment.** Other things give us internal reasons: if the agent holds intellectual values or self-conceptions that would be inconsistent with abandoning the child to drown, for instance, that would give the agent reasons to save the child, even if they did not desire to do so at the moment.
 

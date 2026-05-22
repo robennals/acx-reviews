@@ -29,7 +29,7 @@ So do I. If you’re reading this blog, you probably do too.
 
 So what is the truth?
 
-Huemer aims to be clear, concise, and above all _pre_cise. He acknowledges the basic progressive views (racism is bad, global warming is real) as generally true, and differentiates them from his target:
+Huemer aims to be clear, concise, and above all *pre*cise. He acknowledges the basic progressive views (racism is bad, global warming is real) as generally true, and differentiates them from his target:
 
 > Progressivism as I understand - at least, the kind of progressivism that I take issue with - sees contemporary America as a deeply unjust society, filled with prejudice and systematically designed to harm and oppress. I consider this viewpoint thoroughly out of touch with reality.
 >
@@ -43,7 +43,7 @@ Now, if you happen to be progressive or sympathize with the viewpoint, you might
 
 > I will not give a neutral presentation in the following chapters, but I _do_ aim to give an _objective_ presentation. (p.3)
 
-_(I get the feeling that my progressive friends would say that there is no such thing as an ‘objective’ presentation._ _[Huemer](https://en.wikipedia.org/wiki/Michael_Huemer)__, they would say, is an old white man occupying a position of power and authority, so his experience and viewpoint will inevitably color his judgement. We’ll come back to this later.)_
+_(I get the feeling that my progressive friends would say that there is no such thing as an ‘objective’ presentation._ _[Huemer](https://en.wikipedia.org/wiki/Michael_Huemer), they would say, is an old white man occupying a position of power and authority, so his experience and viewpoint will inevitably color his judgement. We’ll come back to this later.)_
 
 Huemer, like any good philosopher, defines the terms before laying out his arguments, but not before spitting a little bit of fire:
 
@@ -287,7 +287,7 @@ This one is widely believed and cited, and Huemer notes that it’s often trotte
 
 Huemer’s rebuttal is that all the studies showing that there’s a gender pay gap - and there are a lot - are all terrible at statistics, because they don’t bother controlling for whether or not men and women are actually _doing the same work_.
 
-The source was tricky to track down, but I think Huemer pulls from this [Payscale report](https://www.payscale.com/featured-content/gender-pay-gap), which shows an uncontrolled pay gap of 18 cents and a controlled pay gap of 1 cent. _(Note: the article itself is framed in a highly progressive tone, highlighting the 18% gap over the 1% one. See also_ _[this Forbes article](https://www.forbes.com/sites/tomspiggle/2021/05/25/the-gender-pay-gap-why-its-still-here/)__.)_ In other words, without examining job titles or qualifications or hours worked or, you know, _any of the things that go into how much someone gets paid_, the median female wage is 82% of the median male wage. Once you control for as many of those things as you can, the median female wage is 99% of the median male wage. Huemer doesn’t mention it, but I’d consider a 1% difference to be within the margin of error.
+The source was tricky to track down, but I think Huemer pulls from this [Payscale report](https://www.payscale.com/featured-content/gender-pay-gap), which shows an uncontrolled pay gap of 18 cents and a controlled pay gap of 1 cent. _(Note: the article itself is framed in a highly progressive tone, highlighting the 18% gap over the 1% one. See also_ _[this Forbes article](https://www.forbes.com/sites/tomspiggle/2021/05/25/the-gender-pay-gap-why-its-still-here/).)_ In other words, without examining job titles or qualifications or hours worked or, you know, _any of the things that go into how much someone gets paid_, the median female wage is 82% of the median male wage. Once you control for as many of those things as you can, the median female wage is 99% of the median male wage. Huemer doesn’t mention it, but I’d consider a 1% difference to be within the margin of error.
 
 Huemer quotes Warren Farrell’s book _[Why Men Earn More](https://zhenles.wordpress.com/wp-content/uploads/2013/03/farrell-why-men-earn-more-the-startling-truth-behind-the-pay-gap-and-what-women-can-do-about-it.pdf)_, citing a number of reasons one job may pay more than another, even if they have the same title: commuting farther, greater productivity, working longer hours, etc. Most of them boil down to being more invested in and willing to sacrifice for one’s job, and Huemer argues (without citing evidence) that men tend to be more willing to make those sacrifices than women, because men value monetary compensation and women value non-monetary-compensation higher. (For instance, women value time off, flexible schedules, shorter commutes, and safer jobs, all of which are non-monetary benefits that a man may forego in favor of a higher salary.)
 
@@ -307,7 +307,7 @@ Is Gender purely a social construct? Is it exactly equivalent to biological sex?
 
 This is a weird one. There aren’t statistics to look at or compile; it’s largely about definitions and semantics. Huemer isn’t ‘mythbusting’ so much as making a cogent argument about what he believes gender to be, based on the available evidence.
 
-> _(For those who think this is a straw man of the progressive position, the_ _[APA](https://dictionary.apa.org/gender)_ _defines gender as ‘the socially constructed roles, behaviors, activities, and attributes that a given society considers appropriate for different genders’, which Huemer quotes, but to be fair to the APA, this is followed by ‘…whereas gender implies the psychological, behavioral, social, and cultural aspects of gender’.)_
+> _(For those who think this is a straw man of the progressive position, the_ _[APA](https://dictionary.apa.org/gender) defines gender as ‘the socially constructed roles, behaviors, activities, and attributes that a given society considers appropriate for different genders’, which Huemer quotes, but to be fair to the APA, this is followed by ‘…whereas gender implies the psychological, behavioral, social, and cultural aspects of gender’.)_
 
 Huemer rejects ‘gender == social construct’ with a somewhat dismissive example. If gender were purely about social role, then different societies with different social roles would have different genders, so a ‘woman’ in Japan and a ‘woman’ in Sweden would have a different gender. He simply says this is implausible and rejects it, along with the idea that gender is entirely a social construct.
 
@@ -349,13 +349,12 @@ Huemer does something strange here, addressing four specific claims made by peop
     1. Huemer first points out that 55 companies is not a large number; there are [millions](https://www.naics.com/business-lists/counts-by-company-size/) of businesses in the US. He then explains that the tax code is lousy with ways to avoid paying taxes; these aren’t loopholes or cheats but intentional design. Companies can invest in green energy, write off their losses, and otherwise make their federal tax liability zero without doing anything unsavory.
 
 4. Do the wealthy pay lower taxes than the middle class?
-    1. Here Huemer finally seems to address the wider myth with a chart using data from the [Congressional Budget Office](https://www.cbo.gov/topics/taxes) (I think Huemer made the chart). Net Tax = Federal Tax - Government Transfer, or how much money you actually paid the government accounting for welfare.
+    1. Here Huemer finally seems to address the wider myth with a chart using data from the [Congressional Budget Office](https://www.cbo.gov/topics/taxes) (I think Huemer made the chart). Net Tax = Federal Tax - Government Transfer, or how much money you actually paid the government accounting for welfare.  
+![](https://acximages.ennals.org/images/2026-book-reviews/d8ff38387ebe9de8.jpg)
 
-        ![](https://acximages.ennals.org/images/2026-book-reviews/d8ff38387ebe9de8.jpg)
+Oddly enough, his chart says 2019 but the citation is from 2022, although that might just be the most recent time the CBO published the data. Also, can you tell how bad I am at taking photos?
 
-        Oddly enough, his chart says 2019 but the citation is from 2022, although that might just be the most recent time the CBO published the data. Also, can you tell how bad I am at taking photos?
-
-        Broadly speaking, the highest fifth of income earners are paying the vast majority of the taxes. If that’s not their fair share, I’m not sure what is.
+Broadly speaking, the highest fifth of income earners are paying the vast majority of the taxes. If that’s not their fair share, I’m not sure what is.
 
 #### My Verdict
 
@@ -470,9 +469,9 @@ They:
 5. **Keep racism alive.** Progressive myths keep race salient in the public view, encouraging people to identify with their race and as an enemy of other races. They also “promote anti-white racism” (p.227), a minor theme in the book that I’ve omitted for brevity.
 6. **Undermine social loyalty and trust in America.** Society functions because people believe in its laws and institutions. By claiming that these are racist (read: evil), people lose trust in them, leading to a breakdown of society:
 
-    The progressive myths we have discussed are not random errors. They are parts of an overall narrative designed to convince us that our society is fundamentally evil and unworthy of preservation. (p.231)
+The progressive myths we have discussed are not random errors. They are parts of an overall narrative designed to convince us that our society is fundamentally evil and unworthy of preservation. (p.231)
 
-    This is Huemer’s strongest point of advocacy. He explains that those who want to destroy American institutions, that believe it would be _good_ to do so, are either ignorant of what life was like for most of human history (horrible) and how exceptional life in America is by that standard, or of what happened when Marxists tried it elsewhere (starvation and mass murder).
+This is Huemer’s strongest point of advocacy. He explains that those who want to destroy American institutions, that believe it would be _good_ to do so, are either ignorant of what life was like for most of human history (horrible) and how exceptional life in America is by that standard, or of what happened when Marxists tried it elsewhere (starvation and mass murder).
 
 ## Strengths and Weaknesses
 

@@ -802,7 +802,7 @@ Menenius has gamed the fable. He exposes this when he has the belly answer its a
 >
 > Whereby they live.
 
-The food, when it moves, goes “_through the rivers of your blood_” first “_to the court, the heart, to th’ seat o’ th’ brain_.” The ruling faculties go first; the rest follow—”_the strongest nerves and small inferior vein_s.” The language here subtly changes. The brain and the heart receive from the belly as partners in a common enterprise. But the rest, in contrast, receive only “_that natural competency, whereby they live_.” The brain partners. The other organs take what the belly decides to send. Menenius has swapped the fable’s _mutually participate_ for _from me receive_.
+The food, when it moves, goes “_through the rivers of your blood_” first “_to the court, the heart, to th’ seat o’ th’ brain_.” The ruling faculties go first; the rest follow—”*the strongest nerves and small inferior vein*s.” The language here subtly changes. The brain and the heart receive from the belly as partners in a common enterprise. But the rest, in contrast, receive only “_that natural competency, whereby they live_.” The brain partners. The other organs take what the belly decides to send. Menenius has swapped the fable’s _mutually participate_ for _from me receive_.
 
 Then Menenius drops the pretense of mutuality:
 

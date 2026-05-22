@@ -191,7 +191,7 @@ Middle school readers of the world, revolt! You have nothing to lose but your in
 
 [2] My favorite example of this is how Ray Bradbury argued stridently in his later years that _Fahrenheit 451_ was [not a story about censorship](https://www.laweekly.com/ray-bradbury-fahrenheit-451-misinterpreted/).
 
-[3] T_he Fellowship of the Ring_ was first published in 1954, but it only hit its stride in the US after the 1960s paperback versions were released. American readers in 1961 would have been much more familiar with _Atlas Shrugged._
+[3] T*he Fellowship of the Ring* was first published in 1954, but it only hit its stride in the US after the 1960s paperback versions were released. American readers in 1961 would have been much more familiar with _Atlas Shrugged._
 
 [4] Possibly not a literal billionaire, since this was written back in the days when such tycoons were rare.
 

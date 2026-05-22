@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T18:37:17.000Z'
 slug: planecrash-es-yudwkosky
-wordCount: 5309
+wordCount: 5307
 readingTimeMinutes: 24
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Philosophy
   - Technology
 ---
-
-planecrash review
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/1217d8e74d553578.png)
 

@@ -118,7 +118,7 @@ And it wasn’t just her face that she had to guard. If a man paid a woman a vis
 
 <figcaption>
 
-_Heian women playing music on the veranda while a man peeps through the fence (__[Tosa Mitsusada, 1738-1806](https://www.metmuseum.org/art/collection/search/45427)__)_
+_Heian women playing music on the veranda while a man peeps through the fence ([Tosa Mitsusada, 1738-1806](https://www.metmuseum.org/art/collection/search/45427))_
 
 </figcaption>
 
@@ -186,7 +186,7 @@ In case you were wondering how the hell he managed to get away with all this, th
 
 <figcaption>
 
-_Genji and Murasaki together, selecting clothing to be sent as New Year’s gifts to all the ladies in Genji’s household, which the servant women are packing up for delivery. Murasaki is in charge of maintaining the household’s clothing storage, and she is uncommonly skilled at dyeing fabrics in vibrant colours. Genji thinks he couldn’t have found a better wife. (__[Tosa Mitsuyoshi, 1539-1613](https://www.metmuseum.org/art/collection/search/53245)__)_
+_Genji and Murasaki together, selecting clothing to be sent as New Year’s gifts to all the ladies in Genji’s household, which the servant women are packing up for delivery. Murasaki is in charge of maintaining the household’s clothing storage, and she is uncommonly skilled at dyeing fabrics in vibrant colours. Genji thinks he couldn’t have found a better wife. ([Tosa Mitsuyoshi, 1539-1613](https://www.metmuseum.org/art/collection/search/53245))_
 
 </figcaption>
 
@@ -265,7 +265,7 @@ He: “Oh snap. Wyd tonight”
 
 <figcaption>
 
-_[A Heian-era poem by Fujiwara no Sadanobu (1088–1156)](https://commons.wikimedia.org/wiki/File:Fujiwara-no-Sadanobu_-_FRAMGENT_ISHIYAMA-GIRE_-_Google_Art_Project.jpg)__, showing calligraphy in the kana style similar to what would have been used in love letters and personal correspondence in The Tale of Genji._
+_[A Heian-era poem by Fujiwara no Sadanobu (1088–1156)](https://commons.wikimedia.org/wiki/File:Fujiwara-no-Sadanobu_-_FRAMGENT_ISHIYAMA-GIRE_-_Google_Art_Project.jpg), showing calligraphy in the kana style similar to what would have been used in love letters and personal correspondence in The Tale of Genji._
 
 </figcaption>
 

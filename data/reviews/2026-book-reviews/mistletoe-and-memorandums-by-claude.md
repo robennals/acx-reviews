@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T06:42:02.000Z'
 slug: mistletoe-and-memorandums-by-claude
-wordCount: 10485
+wordCount: 10479
 readingTimeMinutes: 47
 source: gdoc
 tags:
@@ -61,15 +61,15 @@ Each of these tiers has a unique impact on the reader:
 * **Manipulation of Knowledge** - Writing manipulates knowledge by adding, subtracting, or revising the facts within a reader's brain. This is the simplest and easiest tier to accomplish as a writer. A researcher can write a paper on lattice cryptography, you can consume that paper, and your knowledge of cryptography has been directly altered by their words.
 * **Manipulation of Emotion** - Writing manipulates emotion by changing the emotional state of a reader during or after the consumption of words. A description of a homeless child can trigger sadness. An article about a crime can trigger fear and anger. A novel that describes a wedding can trigger joy, or perhaps jealousy, or maybe yearning.
 
-> To change a reader’s emotions, a writer must manipulate knowledge in a calculated way that triggers feelings. For example, the statement “Pit bulls have a strong bite” conveys the same warning as “A pit bull attacked my sister and tore off half her face.” But the first statement merely manipulates knowledge, while the second statement manipulates your emotions by using a gory description and the emotional pull of family.
->
-> The second statement will also cause far better knowledge retention. The writer is able to use the distress and disgust triggered by the words as emotional sandbags that anchor the knowledge firmly in the reader’s brain. This is the goal of emotion manipulation: not just to randomly trigger feelings, but to trigger feelings _toward_ a piece of knowledge and cause both the knowledge and emotions to linger.
+    To change a reader’s emotions, a writer must manipulate knowledge in a calculated way that triggers feelings. For example, the statement “Pit bulls have a strong bite” conveys the same warning as “A pit bull attacked my sister and tore off half her face.” But the first statement merely manipulates knowledge, while the second statement manipulates your emotions by using a gory description and the emotional pull of family.
+
+    The second statement will also cause far better knowledge retention. The writer is able to use the distress and disgust triggered by the words as emotional sandbags that anchor the knowledge firmly in the reader’s brain. This is the goal of emotion manipulation: not just to randomly trigger feelings, but to trigger feelings _toward_ a piece of knowledge and cause both the knowledge and emotions to linger.
 
 * **Manipulation of Action** - Writing manipulates actions by convincing a reader to complete–or refrain from–an activity. Some very simple actions are driven purely by knowledge, such as taking Tylenol after reading it’s the best painkiller for headaches. However, triggering more complex actions requires both imparting knowledge _and_ activating a sustained emotional response.
 
-> For example, an article about a local food bank may impart a heartwarming feeling and also inform the reader of an upcoming fundraiser, and this combination of emotional pull and knowledge may convince the reader to attend the event. Similarly, a book about fentanyl may impart knowledge about opioid addictions, and the reader’s fear of becoming an addict may cause them to refuse to ever take OxyContin.
->
-> Manipulating a reader’s actions is difficult, due to readers having limited time, energy, and attention to react to the words they consume. Writers must precisely calibrate their usage of knowledge and emotion manipulation in order to achieve a desired action from a reader.
+    For example, an article about a local food bank may impart a heartwarming feeling and also inform the reader of an upcoming fundraiser, and this combination of emotional pull and knowledge may convince the reader to attend the event. Similarly, a book about fentanyl may impart knowledge about opioid addictions, and the reader’s fear of becoming an addict may cause them to refuse to ever take OxyContin.
+
+    Manipulating a reader’s actions is difficult, due to readers having limited time, energy, and attention to react to the words they consume. Writers must precisely calibrate their usage of knowledge and emotion manipulation in order to achieve a desired action from a reader.
 
 * **Manipulation of Beliefs -** Writing manipulates beliefs when it is able to alter a core truth that shapes a reader’s reality. Perhaps an article on factory farming turns someone into a staunch vegan. Or maybe reading the Koran causes a religious awakening in a former atheist. Altering beliefs requires immense skill at using all three of the lower tiers of manipulation, and it remains a distant goal for many writers.
 

@@ -63,7 +63,7 @@ II
 >
 > _Yours faithfully, Dr Adam Kay”_
 
-**A:** Adam Kay went to medical school at Imperial College London and qualified in 2004. He did his House Officer year (corresponding to intern in US parlance), his Senior House Officer rotations, then specialised into obstetrics and gynaecology and worked his way up to Senior Registrar (resident to senior resident), the grade immediately below consultant (attending). In December 2010, after a clinical incident I'll come back to, he resigned from medicine. He spent the following years as a comedy writer and stand-up. In 2017, Picador published his diaries from those six years as T_his Is Going To Hurt_. The book sold a million copies in the UK alone. It produced a sequel, a stage tour, and a seven-part BBC adaptation starring Ben Whishaw which aired in 2022.
+**A:** Adam Kay went to medical school at Imperial College London and qualified in 2004. He did his House Officer year (corresponding to intern in US parlance), his Senior House Officer rotations, then specialised into obstetrics and gynaecology and worked his way up to Senior Registrar (resident to senior resident), the grade immediately below consultant (attending). In December 2010, after a clinical incident I'll come back to, he resigned from medicine. He spent the following years as a comedy writer and stand-up. In 2017, Picador published his diaries from those six years as T*his Is Going To Hurt*. The book sold a million copies in the UK alone. It produced a sequel, a stage tour, and a seven-part BBC adaptation starring Ben Whishaw which aired in 2022.
 
 **B:** Don’t forget the seminal work he did writing for [Mrs Brown’s Boys.](https://en.wikipedia.org/wiki/Mrs._Brown%27s_Boys) 
 

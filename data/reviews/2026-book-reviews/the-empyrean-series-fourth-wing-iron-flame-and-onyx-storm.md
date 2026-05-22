@@ -7,16 +7,12 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T06:20:09.000Z'
 slug: the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm
-wordCount: 7976
+wordCount: 7957
 readingTimeMinutes: 36
 source: gdoc
 tags:
   - Fiction
 ---
-
-## Fourth Wing, Iron Flame, and Onyx Storm
-
-# The Empyrean Series: Fourth Wing, Iron Flame, and Onyx Storm
 
 The Empyrean books are exactly like so many books you've read before. It's set at a magical boarding school, where dueling is encouraged, and half of all entrants die before graduation. Death comes easily, and the students must be hardened to become perfect warriors. In this case, this means bonding with a dragon, gaining access to their magical abilities, and defending the brave kingdom of Navarre from the wicked kingdom of Poromiel. But as our hero progresses in her studies, she learns that the picture painted by her teachers may not be entirely truthful, and the heroic facade hides disgraceful secrets. Also, students will make an enormous amount of moon-eyes at each other, and eventually start doinking like there's no tomorrow.
 
@@ -28,7 +24,7 @@ Why the Empyrean series and not _À la recherche du temps perdu_? Well, Simone B
 
 Yarros doesn’t just execute the standard fantasy tropes, she exaggerates them. Her protagonist, Violet Sorrengail, isn't simply an underdog. She had always planned on becoming an academic (a "scribe"), but her mother forced her to enroll in dragon college. Her ankles are weak, she's not physically fit, and she knows next to nothing about what happens in the school. She's Katniss Everdeen going up against the Careers from District 2 in the Hunger Games. She's El Higgins scrambling against the enclave kids in the Scholomance. She's Harry Potter fighting against Voldemort. The other half of our enemies-to-lovers equation, Xaden, isn't just a bad boy. He's the hottest, broodingest boy in school; who saw his father executed for rebellion and has a personal vendetta against Violet's mother.
 
-The greatest strength of _Fourth_ _Wing_ is its incredible pace. The first year of school is made up of a series of milestones: entering the school, being presented to the dragons (known as threshing for some reason), choosing a dragon to bond with, and probably some others which I don't remember. None of these are simple. Entering the school isn't just walking in through a set of gates like it would be at a normal school, or some elaborate magical ritual like it would be at a normal magical boarding school. It's walking across a narrow bridge in the rain while other entrants can try to kill you. Being presented to the dragons involves a large number of students being roasted (dragons don't take kindly to disrespect, you see), and also an enormous vertical obstacle course for some reason. And the final exam involves being dropped into an active war zone.
+The greatest strength of _Fourth Wing_ is its incredible pace. The first year of school is made up of a series of milestones: entering the school, being presented to the dragons (known as threshing for some reason), choosing a dragon to bond with, and probably some others which I don't remember. None of these are simple. Entering the school isn't just walking in through a set of gates like it would be at a normal school, or some elaborate magical ritual like it would be at a normal magical boarding school. It's walking across a narrow bridge in the rain while other entrants can try to kill you. Being presented to the dragons involves a large number of students being roasted (dragons don't take kindly to disrespect, you see), and also an enormous vertical obstacle course for some reason. And the final exam involves being dropped into an active war zone.
 
 In between these milestones, where you'd expect some calmer chapters, Yarros instead just skips over the time period in between, maybe with a bare modicum of explanation of what's going to happen. A remarkably large portion of their class time is spent sparring with each other, and this being hard-ass dragon college, lots of these matches end up with someone dead. Violet isn’t physically strong enough to win her fights, but she’s able to find out who her opponent is going to be each week and subtly poison them so she wins. But the match ups are supposed to be a secret, so how does she know who her opponent will be? Oh, she has a book from her dead brother that tells her that this information is available somewhere, and then Yarros just jumps straight to the matches.
 

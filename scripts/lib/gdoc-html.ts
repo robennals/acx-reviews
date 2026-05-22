@@ -1026,6 +1026,53 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         }
       }
     });
+
+    // Merge runs of adjacent `<em>` siblings — including the case
+    // where each `<em>` sits inside its own `<span>` (gdoc emits one
+    // span per styled run, and entire-italic paragraphs land as a
+    // sequence of italic spans with no text between them). Turndown
+    // emits each `<em>` as `_..._`; consecutive close+open underscores
+    // fuse into `__` which markdown reads as BOLD. Night: a wholly-
+    // italic Orwell quote came out with `"__pacification__."` —
+    // sibling italic spans rendered as if pacification were bold.
+    // Walk the DOM, find chains of italic-only siblings (em, or span
+    // wrapping only em, with at most whitespace text between), and
+    // lift their contents into a single em.
+    const isItalicOnlySpan = (node: any): boolean => {
+      if (node.type !== 'tag' || node.name !== 'span') return false;
+      const c = $(node);
+      const kids = c.contents().toArray();
+      if (kids.length !== 1) return false;
+      return kids[0].type === 'tag' && kids[0].name === 'em';
+    };
+    const isItalicChainStart = (node: any): boolean =>
+      (node.type === 'tag' && node.name === 'em') || isItalicOnlySpan(node);
+    const innerEm = (node: any) =>
+      node.name === 'em' ? $(node) : $(node).children('em').first();
+    $('em, span').each(function () {
+      const node = this as any;
+      if (!isItalicChainStart(node)) return;
+      // Only process from the start of a run.
+      let prev = node.prev;
+      while (prev && prev.type === 'text' && !(prev.data || '').trim()) prev = prev.prev;
+      if (prev && isItalicChainStart(prev)) return; // not the head
+      const headEm = innerEm(node);
+      if (!headEm.length) return;
+      let cursor = node.next;
+      while (cursor) {
+        if (cursor.type === 'text' && !(cursor.data || '').trim()) {
+          cursor = cursor.next;
+          continue;
+        }
+        if (!isItalicChainStart(cursor)) break;
+        const followerEm = innerEm(cursor);
+        if (!followerEm.length) break;
+        headEm.append(followerEm.contents());
+        const dead = cursor;
+        cursor = cursor.next;
+        $(dead).remove();
+      }
+    });
   }
 
   // Image captions: when a `<p>` contains ONLY an `<img>` (no other
@@ -1496,6 +1543,62 @@ export function cleanupMarkdown(markdown: string): string {
   // would dedent to `# get wins`, which the H1-splitter then sees as
   // a new review boundary and splits one review into many.
   md = md.replace(/^ {4,}(?=(?:\*\*|_))/gm, '');
+
+  // Mid-word italic fix. CommonMark's underscore flanking forbids an
+  // opening `_` from being preceded by an alphanumeric AND followed by
+  // an alphanumeric (it can do neither open nor close in that position
+  // — the `_` becomes literal). Google Docs commonly emits whole-word
+  // italic adjacent to non-italic text — `It_is_ a wonder` produces
+  // a sandwiched opening `_` that renders as a literal underscore.
+  //
+  // The rule has to be VERY narrow. Only an opening `_` that has a
+  // word character on BOTH sides is broken. An `_` preceded by a word
+  // but followed by space/punctuation is a legitimate CLOSE for a
+  // previous italic; rewriting it severs that pair and damages
+  // unrelated nearby `_..._` runs (Alice in Puzzle-Land had
+  // `_Title_ ... _Other_` and a too-lax rule glued `Title_…_Other`
+  // into one bogus span).
+  //
+  // Pattern: `(?<=\w)_(\w[^_\n]*?\w)_(?!\w)` — opening `_` sandwiched
+  // between two word chars, content begins and ends with a word char,
+  // closing `_` followed by non-word (so the close is a valid right-
+  // flank). Mirror rule for `_word_text` (closing sandwiched).
+  //
+  // Mask link/image URLs first so we don't rewrite underscores INSIDE
+  // a URL (`(https://…/House_of_Leaves)` is a real link).
+  {
+    const placeholders: string[] = [];
+    let masked = md.replace(/(!?\[[^\]\n]*\]\([^)\n]+\))|(<[a-z]+:[^>]+>)/g, (m) => {
+      const i = placeholders.length;
+      placeholders.push(m);
+      return `XXLINKMASKXX${i}XXENDXX`;
+    });
+    masked = masked
+      .replace(/(?<=\w)_(\w[^_\n]*?\w)_(?!\w)/g, '*$1*')
+      .replace(/(?<!\w)_(\w[^_\n]*?\w)_(?=\w)/g, '*$1*');
+    md = masked.replace(/XXLINKMASKXX(\d+)XXENDXX/g, (_m, i) => placeholders[Number(i)]);
+  }
+
+  // Strip 4+ leading spaces from ANY prose line. Reviews never contain
+  // code — every CommonMark "indented code block" we've ever seen has
+  // been a Google Docs paragraph indent or a leftover `&nbsp;` run. The
+  // code-block render is unreadable (monospace, no wrapping). Exclude
+  // legitimate continuation contexts: list items (markers `*`/`-`/`+`/
+  // `\d+.`), blockquotes (`>`), tables (`|`), fenced code (` ``` ` /
+  // `~~~`), and headings (`#`). Anything else with that much leading
+  // whitespace is an accident.
+  md = md.replace(/^ {4,}(?![*+\-]|\d+\.|>|`{3,}|~{3,}|\||#)/gm, '');
+
+  // Strip inline `code` backticks and fenced code blocks. Reviews
+  // never contain code that needs monospace rendering; backticks in
+  // the source are almost always a Google Docs auto-format artifact
+  // around quoted text or domain terms. Inline single-backtick spans
+  // become plain text; fenced blocks have their fence lines dropped.
+  md = md
+    .replace(/`([^`\n]+)`/g, '$1')
+    .split('\n')
+    .filter(line => !/^[ \t]*(?:`{3,}|~{3,})/.test(line))
+    .join('\n');
 
   // Quote-block detection: when a run of italic-only paragraphs is
   // followed (across blank lines) by a single blockquote-list-item
@@ -2009,13 +2112,24 @@ export function cleanupMarkdown(markdown: string): string {
  * giving up.
  */
 export async function fetchGDocAsHTML(docId: string): Promise<string> {
-  const cachePath = path.join(GDOC_CACHE_DIR, `${docId}.html`);
+  // Sanitize cache filename: `e/PUBID` becomes `e_PUBID` so the slash
+  // doesn't break the path.
+  const cachePath = path.join(GDOC_CACHE_DIR, `${docId.replace('/', '_')}.html`);
   if (!GDOC_CACHE_DISABLED && fs.existsSync(cachePath)) {
     console.log(`  Reading cached: ${docId}`);
     return fs.readFileSync(cachePath, 'utf8');
   }
 
-  const url = `https://docs.google.com/document/d/${docId}/export?format=html`;
+  // Published-to-web URL form (`e/<PUB_ID>`). Authors who use File →
+  // Publish to the web submit a URL like `/document/d/e/<PUB_ID>/pub`,
+  // which has no `/export?format=html` equivalent. Fetch the `/pub`
+  // HTML directly — the rendered structure (gdoc `<style>` block with
+  // class definitions, `<span class="cN">` for inline styling) is
+  // substantially identical to the export endpoint, so our cheerio
+  // pipeline handles it without further changes.
+  const url = docId.startsWith('e/')
+    ? `https://docs.google.com/document/d/${docId}/pub`
+    : `https://docs.google.com/document/d/${docId}/export?format=html`;
   const MAX_ATTEMPTS = 5;
   const BASE_DELAY_MS = 2000;
   // Per-attempt timeout. The biggest 2025 docs are ~150–200 MB of HTML

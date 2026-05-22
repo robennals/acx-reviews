@@ -48,7 +48,7 @@ The Epic of Gilgamesh is organised into eleven Tablets (there’s a twelfth but 
 > _[He] explored everywhere the seats of [power,]_  
 > _[he knew] of everything the sum of wisdom._  
 > _He saw what was secret, discovered what was hidden,_  
-> _he brought_ _back a tale of before the Deluge._  
+> _he brought back a tale of before the Deluge._  
 
 Gilgamesh’s greatness is linked immediately to the city of Uruk, where he rules as King:
 
@@ -126,7 +126,7 @@ To say that gaps (‘lacunae’) are everywhere in Gilgamesh is to have it backw
 
 <figcaption>
 
-_A part of Tablet 11, from_ _[the British Museum](https://www.britishmuseum.org/collection/image/107404001)__. This is one of the better-preserved fragments we have - most are much smaller than this and in worse condition._
+_A part of Tablet 11, from [the British Museum](https://www.britishmuseum.org/collection/image/107404001). This is one of the better-preserved fragments we have - most are much smaller than this and in worse condition._
 
 </figcaption>
 
@@ -292,7 +292,7 @@ While we leave Gilgamesh to his grief, let’s talk about the reason you can rea
 > _Because the messenger's mouth was heavy and he couldn't repeat [the message], the Lord of Kulaba patted some clay and put words on it, like a tablet. Until then, there had been no putting words on clay._  
 > -  [Enmerkar and the Lord of Aratta](https://en.wikipedia.org/wiki/Enmerkar_and_the_Lord_of_Aratta), c. 1800 BC  
 > _Everyone knows words aren’t real. Or maybe I phrased that awkwardly, but certainly they’re not so real that if you inscribe every word ever written onto a piece of glass then the glass comes to life and kills you._  
-> - Scott Alexander*,* _[Half An Hour Before Dawn In San Francisco](https://www.astralcodexten.com/p/half-an-hour-before-dawn-in-san-francisco)_, 2023 AD  
+> - Scott Alexander*, [Half An Hour Before Dawn In San Francisco](https://www.astralcodexten.com/p/half-an-hour-before-dawn-in-san-francisco)*, 2023 AD  
 
 In case you missed it, large language models are quite the thing at the moment. ChatGPT, Claude, and Gemini are all based, at their core, on language. You train an LLM by making [a pile](https://xkcd.com/1838/) of every written word you can find, and grinding it through a [transformer decoder](https://en.wikipedia.org/wiki/Transformer_(deep_learning)) until it ~~comes to life and~~ ~~kills you~~ passes the ARC-AGI-2 benchmark. Humans talk first and then learn how to read; large language models read so much they learn how to talk - and everything else - as a side-effect. So while 'generating training data for AI' sounds very 2020s, it turns out we've been doing it since the 4th millennium BC.
 
@@ -309,7 +309,7 @@ When writing was first invented in Uruk [16], between 3500 and 2500 BC, it was f
 
 <figcaption>
 
-_A proto-cuneiform tablet, c. 3100–2900 BC (__[source](https://en.wikipedia.org/wiki/Cuneiform#/media/File:Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure,_hunting_dogs,_and_boars_MET_DT847.jpg)__)_
+_A proto-cuneiform tablet, c. 3100–2900 BC ([source](https://en.wikipedia.org/wiki/Cuneiform#/media/File:Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure,_hunting_dogs,_and_boars_MET_DT847.jpg))_
 
 </figcaption>
 
@@ -361,13 +361,13 @@ Gilgamesh meets a woman called Shiduri, who is inexplicably running a tavern at 
 > _death they dispensed to mankind,_  
 > _life they kept for themselves._  
 > _‘But you, Gilgamesh, let your belly be full,_  
-> _enjoy_ _yourself always by day_ _and by night__!_  
+> _enjoy_ _yourself always by day_ _and by night!_  
 > _Make merry each day,_  
 > _dance and play day and night!_  
 > _‘Let your clothes be clean,_  
 > _let your head be washed, may you bathe in water!_  
 > _Gaze on the child who holds your hand,_  
-> _let_ _your wife enjoy your repeated embrace!_  
+> _let your wife enjoy your repeated embrace!_  
 > _For such is the destiny [of mortal men]._  
 
 In other words: Gilgamesh you idiot, stop stressing yourself out pointlessly chasing immortality and learn to appreciate the simple joys with the time that you have.
@@ -401,7 +401,7 @@ Meanwhile, tablets in their hundreds of thousands were arriving in the universit
 
 <figcaption>
 
-_Some of the tablets found at the Library of Ashurbanipal, now in the_ _[British Museum](https://www.britishmuseum.org/blog/library-fit-king)_.
+_Some of the tablets found at the Library of Ashurbanipal, now in the [British Museum](https://www.britishmuseum.org/blog/library-fit-king)_.
 
 </figcaption>
 
@@ -546,13 +546,13 @@ Living as we do at the hinge of history, it’s tempting to reach - as Gilgamesh
 But the people of Mesopotamia, as they developed vital civilisational technologies like cities and writing, were living through their own hinge of history. I said before that Gilgamesh contains multitudes, and the clearest example is in the Old Babylonian version giving us an alternative perspective to the Standard - a perspective delivered by a woman running a tavern:
 
 > _‘But you, Gilgamesh, let your belly be full,_  
-> _enjoy_ _yourself always by day_ _and by night__!_  
+> _enjoy_ _yourself always by day_ _and by night!_  
 > _Make merry each day,_  
 > _dance and play day and night!_  
 > _‘Let your clothes be clean,_  
 > _let your head be washed, may you bathe in water!_  
 > _Gaze on the child who holds your hand,_  
-> _let_ _your wife enjoy your repeated embrace!_  
+> _let your wife enjoy your repeated embrace!_  
 
 We don’t remember Gilgamesh in the 21st century because of the walls of Uruk, which are dust now, or for his great kingship, over an impressive-for-its-time Bronze Age slave state. We remember Gilgamesh because what he did was meaningful to people. We remember him because of the _people who remembered him_, the millions of them in ancient Mesopotamia who lived and died in awe of the story that bears his name. The Epic of Gilgamesh isn’t about a man: it’s about _those people_. Those who sang about him, and wrote about him, and made art about him, yes - but also about those who listened, and read, and saw.
 

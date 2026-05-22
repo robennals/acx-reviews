@@ -16,7 +16,7 @@ tags:
   - Society
 ---
 
-> _“Someday, someone will have to explain why the most bloodthirsty terrorist group of our era was_ _led_ _by professors”_[^1]
+> _“Someday, someone will have to explain why the most bloodthirsty terrorist group of our era was led by professors”_[^1]
 
 There are not many books about how an apparently normal man becomes a killer. There are not many books that talk about an event whose details are mostly unknown within its country of origin, much less beyond its borders. And most definitely, there are not many biographies of a man who is responsible for the deaths of almost 70,000 innocent people.
 

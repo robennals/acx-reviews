@@ -24,7 +24,14 @@ async function mdToHtml(md: string): Promise<string> {
   // KaTeX, serialize. Math output is HTML containing KaTeX classes;
   // app/globals.css pulls in katex.min.css to style it.
   const result = await remark()
-    .use(math)
+    // Disable single-dollar inline math: `$54`, `$1,000`, etc. are
+    // currency in book reviews, not math. The default `$..$` syntax
+    // would swallow everything between two `$` signs (links, prose,
+    // entire paragraphs) and try to parse it as LaTeX, producing
+    // nonsense output. Only `$$..$$` (block) is honoured; the small
+    // number of authentic math expressions we have are written that
+    // way via the imageReplacements exception.
+    .use(math, { singleDollarTextMath: false })
     .use(gfm)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)

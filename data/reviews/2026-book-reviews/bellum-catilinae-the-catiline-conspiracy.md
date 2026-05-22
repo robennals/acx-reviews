@@ -7,14 +7,12 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T22:44:46.000Z'
 slug: bellum-catilinae-the-catiline-conspiracy
-wordCount: 7336
+wordCount: 7328
 readingTimeMinutes: 33
 source: gdoc
 tags:
   - History
 ---
-
-# BOOK REVIEW: The Catiline Conspiracy, by Sallust
 
 ## Why Do Roman Historians Invent Such Good Speeches for Their Enemies?
 

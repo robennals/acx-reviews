@@ -168,7 +168,7 @@ But, most importantly, they put a shit ton of hours into meeting women. Brennan 
 
 And asks some hard questions:
 
-> _**Care more about having sex than you do about other things**__. There are sexually successful men who break every other rule I laid out: who are picky or boring or high-drama or mean or needy or nonvulnerable or who hate sluts or women or people. There are even sexually successful introverts. But if you want to be a sexually successful man, you have to care a lot about having sex._
+> _**Care more about having sex than you do about other things**. There are sexually successful men who break every other rule I laid out: who are picky or boring or high-drama or mean or needy or nonvulnerable or who hate sluts or women or people. There are even sexually successful introverts. But if you want to be a sexually successful man, you have to care a lot about having sex._
 >
 > _“What?” you might say. “Obviously I care a lot about having sex. Who doesn’t?” But:_
 

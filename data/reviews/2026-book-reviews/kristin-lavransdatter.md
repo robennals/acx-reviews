@@ -58,7 +58,7 @@ Before digging in, I also recommend locating one of the rare maps online:
 
 ![image2.jpg](https://acximages.ennals.org/images/2026-book-reviews/da59dd2a950a1756.jpg)
 
-> _Source:_ _https://www.margueritereads.com/home/kristin-lavransdatter-by-sigrid-undset_
+> _Source: https://www.margueritereads.com/home/kristin-lavransdatter-by-sigrid-undset_
 
 as well as a set of family trees.
 
@@ -182,7 +182,7 @@ Due to the sinful manner in which he was conceived, Kristin is terrified her pun
 
 She soon embarks on a pilgrimage to St. Olaf’s Cathedral in Nidaros to atone for her misdeeds, at the gentle encouragement of Erlend’s priestly brother Gunnulf. The pilgrimage is a pivotal event for Kristin, and she returns home with a renewed spirit to embrace the life she has chosen, and be a dutiful and faithful mistress to her husband.
 
-> _Where housewives came together, she was taken into council; they praised her ordering of her home; she was fetched to be_ _brideswoman_ _and to be helper at births on the great manors, none made her feel that she was young and unskilled, and a new-comer to the country._
+> _Where housewives came together, she was taken into council; they praised her ordering of her home; she was fetched to be brideswoman and to be helper at births on the great manors, none made her feel that she was young and unskilled, and a new-comer to the country._
 
 She is often pregnant, and while motherhood is a constant theme of all three volumes, the second one takes an unvarnished look at motherhood in a difficult situation.
 
@@ -202,7 +202,7 @@ The years pass, with Erlend continuing to grate on Kristin, and vice-versa. Whil
 
 He accepts multiple military assignments as the captain of ships and castles (a role to which he is well suited - both his men and the regional nobles are impressed with his capabilities and daring), partially to be gone from his home. He is stir crazy, but his fractious relationship contributes mightily.
 
-> _Then belike it was true, what they had told him, the priests, that sin ate up a man’s soul like rust - for no rest, no peace was his, here with his own sweet love - he but longed to be gone from her and all that was hers… And now his one longing was to be gone to strife again. He longed wildly for that outermost barren rock, for the sea thundering round the northern forelands, for the endless coast, and mighty fjords where all manner of snares and pitfalls might await him… for war and the sea, and the song of his men’s weapons and his own__._
+> _Then belike it was true, what they had told him, the priests, that sin ate up a man’s soul like rust - for no rest, no peace was his, here with his own sweet love - he but longed to be gone from her and all that was hers… And now his one longing was to be gone to strife again. He longed wildly for that outermost barren rock, for the sea thundering round the northern forelands, for the endless coast, and mighty fjords where all manner of snares and pitfalls might await him… for war and the sea, and the song of his men’s weapons and his own._
 
 Over time, Erlend’s reputation improves, due partially to his skill in arms, but in no small part to Kristin’s improvement of his estate; he remains careless as ever. In spite of his shortcomings, he recovers some lost titles of his father, and begins to move in important political circles. During this period, Lavrans and Ragnfrid pass away. Kristin, thinking on them…
 
@@ -234,7 +234,7 @@ Important (i.e.: treacherous) letters fall out of his trousers, and though Erlen
 
 In the meantime, Simon married an older widow who passed away without leaving Simon an heir, and then re-married Kristin’s much younger sister Ramborg.
 
-> _Simon remembered the first time he had clasped hands with Lavrans on such a bargain; and his heart grew little and sore in his breast__._
+> _Simon remembered the first time he had clasped hands with Lavrans on such a bargain; and his heart grew little and sore in his breast._
 
 While Simon does care for Ramborg, and Ramborg adores Simon, he clearly marries her as much from a desire to be kin to Lavrans as anything. The two men respect each other a great deal.
 

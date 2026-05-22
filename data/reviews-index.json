@@ -10,7 +10,7 @@
     "publishedDate": "2026-05-21T18:37:17.000Z",
     "slug": "planecrash-es-yudwkosky",
     "excerpt": "In the LAB. Fluorescent output measured at sixty hertz. Dr. Dwayne Poopenhaupt III logged the frequency as an equilibrium, maintained by a band of agents operating below the detection threshold....",
-    "wordCount": 5309,
+    "wordCount": 5307,
     "readingTimeMinutes": 24,
     "source": "gdoc",
     "tags": [
@@ -128,7 +128,7 @@
     "publishedDate": "2026-05-21T07:55:13.000Z",
     "slug": "plotting-your-fantasy-novel",
     "excerpt": "Book review: Jed Herne's Plotting Your Fantasy Novel",
-    "wordCount": 5429,
+    "wordCount": 5433,
     "readingTimeMinutes": 25,
     "source": "gdoc",
     "tags": [
@@ -185,13 +185,33 @@
     "publishedDate": "2026-05-21T07:48:07.000Z",
     "slug": "summa-technologiae",
     "excerpt": "In Harry Turtledove’s lovely alternate history story, The Road Not Taken, an alien spacecraft hovering over the White House begins to strafe the building with muskets. After a brief scuffle, humanity...",
-    "wordCount": 6863,
+    "wordCount": 6809,
     "readingTimeMinutes": 31,
     "source": "gdoc",
     "tags": [
       "Technology",
       "Philosophy",
       "Science"
+    ]
+  },
+  {
+    "id": "antonio-damasios-feeling-knowing-making-minds-conscious",
+    "title": "Antonio Damasio’s Feeling & Knowing: Making Minds Conscious",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:42:34.000Z",
+    "slug": "antonio-damasios-feeling-knowing-making-minds-conscious",
+    "excerpt": "Being Conscious (Of): How Affect Aligns Humanity With AI",
+    "wordCount": 6319,
+    "readingTimeMinutes": 29,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy",
+      "Psychology"
     ]
   },
   {
@@ -204,8 +224,8 @@
     "year": 2026,
     "publishedDate": "2026-05-21T07:36:22.000Z",
     "slug": "parfit-a-philosopher-and-his-mission-to-save-morality",
-    "excerpt": "PARFIT: A PHILOSOPHER AND HIS MISSION TO SAVE MORALITY: A REVIEW",
-    "wordCount": 16978,
+    "excerpt": "Parfit: a philosopher and his mission to save morality is a work of biography, not intellectual history, but when writing about a life so devoted to the mind as Derek Parfit's this might have turned...",
+    "wordCount": 16966,
     "readingTimeMinutes": 76,
     "source": "gdoc",
     "tags": [
@@ -244,7 +264,7 @@
     "publishedDate": "2026-05-21T06:42:02.000Z",
     "slug": "mistletoe-and-memorandums-by-claude",
     "excerpt": "Mistletoe and Memorandums is a romance novel written by Coral Hart… except it’s not. Although Hart’s name is featured on the cover, it was Claude Opus 4.5 who wrote the entirety of this book.",
-    "wordCount": 10485,
+    "wordCount": 10479,
     "readingTimeMinutes": 47,
     "source": "gdoc",
     "tags": [
@@ -342,8 +362,8 @@
     "year": 2026,
     "publishedDate": "2026-05-21T06:20:09.000Z",
     "slug": "the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm",
-    "excerpt": "The Empyrean Series: Fourth Wing, Iron Flame, and Onyx Storm",
-    "wordCount": 7976,
+    "excerpt": "The Empyrean books are exactly like so many books you've read before. It's set at a magical boarding school, where dueling is encouraged, and half of all entrants die before graduation. Death comes...",
+    "wordCount": 7957,
     "readingTimeMinutes": 36,
     "source": "gdoc",
     "tags": [
@@ -1621,7 +1641,7 @@
     "publishedDate": "2026-05-19T12:30:22.000Z",
     "slug": "storm-of-steel",
     "excerpt": "All Quiet on the Western Front ranks as the definitive anti-war novel of World War I, perhaps for all wars, and to some the most important war novel of all time. It was widely banned in the inter-war...",
-    "wordCount": 8575,
+    "wordCount": 8581,
     "readingTimeMinutes": 39,
     "source": "gdoc",
     "tags": [
@@ -1789,7 +1809,7 @@
     "publishedDate": "2026-05-18T12:39:13.000Z",
     "slug": "dream-of-the-red-chamber",
     "excerpt": "Dream of the Red Chamber: The Woman Who Was Not Allowed to Collapse",
-    "wordCount": 4636,
+    "wordCount": 4629,
     "readingTimeMinutes": 21,
     "source": "gdoc",
     "tags": [
@@ -2320,7 +2340,7 @@
     "publishedDate": "2026-05-10T22:44:46.000Z",
     "slug": "bellum-catilinae-the-catiline-conspiracy",
     "excerpt": "Why Do Roman Historians Invent Such Good Speeches for Their Enemies?",
-    "wordCount": 7336,
+    "wordCount": 7328,
     "readingTimeMinutes": 33,
     "source": "gdoc",
     "tags": [
@@ -3207,7 +3227,7 @@
     "publishedDate": "2026-03-01T16:50:32.000Z",
     "slug": "trip-sitting-the-art-and-science-of-holding-psychedelic-space",
     "excerpt": "“Trip Sitting: The Art and Science of Holding Psychedelic Space”. Julian Vayne 2025",
-    "wordCount": 1115,
+    "wordCount": 1110,
     "readingTimeMinutes": 5,
     "source": "gdoc",
     "tags": [

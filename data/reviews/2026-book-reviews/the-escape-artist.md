@@ -23,7 +23,7 @@ Holocaust stories, both true and fictional, tend to repeat the same few clichés
 
 You won’t find any of these tropes in _The Escape Artist._
 
-This 2022 book by Jonathan Freedland[[1]](#ftnt1) tells the true, and largely unknown, story of one of the few Jews ever to break out of Auschwitz. The details of his improbable escape are remarkable enough, but what really makes the story fascinating is the way it so thoroughly defies every single expectation we have of a Holocaust narrative. Its deeply unlikeable protagonist eventually alienates every friend and supporter he has, and dies a bitter old man, almost completely forgotten by history. His story lacks not only good Germans, but even good _non-Germans__,_ with his harshest criticism saved not for the Nazis, not even for the dithering Allies, but for the Jewish leaders of Europe. And though one could see the story of his escape as a triumph, in his own telling, it’s a failure, for although he makes it out of Auschwitz against all odds, he fails at his larger mission: to stop the Holocaust. There’s no redemption here, no moral uplift, no lessons save for perhaps the grimmest and most nihilistic “lesson” I’ve ever encountered in any story, Holocaust-related or otherwise: that when confronted with the unthinkable, most people’s natural tendency is denial.
+This 2022 book by Jonathan Freedland[[1]](#ftnt1) tells the true, and largely unknown, story of one of the few Jews ever to break out of Auschwitz. The details of his improbable escape are remarkable enough, but what really makes the story fascinating is the way it so thoroughly defies every single expectation we have of a Holocaust narrative. Its deeply unlikeable protagonist eventually alienates every friend and supporter he has, and dies a bitter old man, almost completely forgotten by history. His story lacks not only good Germans, but even good _non-Germans,_ with his harshest criticism saved not for the Nazis, not even for the dithering Allies, but for the Jewish leaders of Europe. And though one could see the story of his escape as a triumph, in his own telling, it’s a failure, for although he makes it out of Auschwitz against all odds, he fails at his larger mission: to stop the Holocaust. There’s no redemption here, no moral uplift, no lessons save for perhaps the grimmest and most nihilistic “lesson” I’ve ever encountered in any story, Holocaust-related or otherwise: that when confronted with the unthinkable, most people’s natural tendency is denial.
 
 But we’re getting ahead of ourselves. To get out of Auschwitz, first you have to get _into_ Auschwitz…
 
@@ -149,7 +149,7 @@ Fred and Walter spend three days and three nights cramped inside the tiny, dark 
 
 <figcaption>
 
-_That’s right: Auschwitz had its own band, the_ _[Women’s Orchestra of Auschwitz](https://en.wikipedia.org/wiki/Women%27s_Orchestra_of_Auschwitz)__. The conductor was Gustav Mahler’s niece._
+_That’s right: Auschwitz had its own band, the [Women’s Orchestra of Auschwitz](https://en.wikipedia.org/wiki/Women%27s_Orchestra_of_Auschwitz). The conductor was Gustav Mahler’s niece._
 
 </figcaption>
 

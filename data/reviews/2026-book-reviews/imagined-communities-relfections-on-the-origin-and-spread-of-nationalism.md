@@ -55,7 +55,7 @@ He then goes into some more detail:
 He even addresses the common complaint on the same page:
 
 >   
-> With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it_invents_ nations where they do not exist'. The drawback to the formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'.
+> With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it*invents* nations where they do not exist'. The drawback to the formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'.
 
 ## Nationalism, a worked example
 

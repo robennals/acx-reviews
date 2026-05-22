@@ -21,7 +21,7 @@ Written by Francis Fukuyama in 1992, _The End of History and the Last Man_ conte
 
 The most common interpretation of The End of History - usually from people who haven't read it - is that the fall of the USSR ended history, and nothing interesting would ever happen again. This is how people usually describe Fukuyama. Here’s Max Brooks on Dan Carlin’s Hardcore History Addendum podcast blaming Fukuyama for the current state of our institutions:
 
-> _This notion that it is the end of history, beginning in the 1990s,_ _that the great challenges of the human race are over__, has 'f\*\*ked us'._
+> _This notion that it is the end of history, beginning in the 1990s, that the great challenges of the human race are over, has 'f\*\*ked us'._
 
 This misinterpretation has turned Fukuyama into the guy who’s “[more wrong than anyone has been before.](https://astralcodexten.substack.com/p/from-nostradamus-to-fukuyama)” Anytime anything of note occurs in the world, Fukuyama usually [catches a stray](https://www.fairobserver.com/politics/the-russia-ukraine-war-shows-history-did-not-end-ethics-did/).
 
@@ -59,7 +59,7 @@ However, similar to Marx’s critique of Christianity as “opiate of the masses
 
 Christianity had the right idea, but it was really just a coping mechanism that acted in the master’s favor to continue the pacification of the populace. Taken even further, the slaves just replaced their current master with a different one: God.
 
-> _According to Hegel, the Christian did not realize that God did not create man, but rather that man had created God._ _He created God as a kind of projection of the idea of freedom, for in the Christian God we see a being who is the perfect master of himself and of nature._ _But the Christian then proceeded to enslave himself to this God that he himself created. He reconciled himself to a life of slavery on earth in the belief that he would be redeemed later by God, when in fact he could be his own redeemer. Christianity was thus a form of alienation, that is, a new form of slavery where man enslaved himself to something that he himself created, thereby becoming divided against himself._
+> _According to Hegel, the Christian did not realize that God did not create man, but rather that man had created God. He created God as a kind of projection of the idea of freedom, for in the Christian God we see a being who is the perfect master of himself and of nature. But the Christian then proceeded to enslave himself to this God that he himself created. He reconciled himself to a life of slavery on earth in the belief that he would be redeemed later by God, when in fact he could be his own redeemer. Christianity was thus a form of alienation, that is, a new form of slavery where man enslaved himself to something that he himself created, thereby becoming divided against himself._
 
 ## III.
 

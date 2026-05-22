@@ -355,7 +355,7 @@ Signaling works on another level as well. In societies where the basic task of s
 
 Speaking of internal states, Rapaport notes that ritual serves as a form of communication to oneself:  
 
-> “Moreover, given the extent to which in solitary rituals various parts of the psyche ordinarily inaccessible to each other may be brought into touch, and given the extent to which the emotions of participants may respond to the stimuli of their own ritual acts, it is reasonable to take ritual to be auto-communicative as well as allo-communicative... Auto-communication is, I will argue, of utmost importance even in public rituals. In fact, t_he transmitters of ritual's messages are always among their most important receivers_…”
+> “Moreover, given the extent to which in solitary rituals various parts of the psyche ordinarily inaccessible to each other may be brought into touch, and given the extent to which the emotions of participants may respond to the stimuli of their own ritual acts, it is reasonable to take ritual to be auto-communicative as well as allo-communicative... Auto-communication is, I will argue, of utmost importance even in public rituals. In fact, t*he transmitters of ritual's messages are always among their most important receivers*…”
 
 Rapaport also provides a way to differentiate ritual from games, which helps explain how Huizinga’s play becomes something more. Here he draws from the first chapter of _The Savage Mind_ by Levi-Strauss:
 

@@ -43,7 +43,7 @@ It would be hard for you to imagine anything as brutal as the encounter between 
 > _‘If no man hurt thee, but the hand divine_  
 > _Inflict disease, it fits thee to resign:_  
 > _To Jove (=Zeus [6]) or to thy father Neptune (=Poseidon) pray.’_  
-> _The brethren cried, and_ _instant_ _strode away._
+> _The brethren cried, and instant strode away._
 
 The Ithacans now have a real shot at survival. When Polyphemus needs to release his herd the next morning and only has his sense of touch to control that no human escapes with them, they hide underneath the rams’ bellies - a plan which only works because Polyphemus does not have a dog. Back on his ship, Odysseus does something uncharacteristically stupid and taunts the Cyclops:
 
@@ -79,7 +79,7 @@ At least Tiresias warns him about the beeves, but the crew is not impressed by t
 > _Aims the red bolt, and hurls the writhen brand! [10]_  
 > _Slain are those herds which I with pride survey,_  
 > _When through the ports of heaven I pour the day,_  
-> _Or deep_ _in ocean_ _plunge the burning ray._  
+> _Or deep in ocean plunge the burning ray._  
 > _Vengeance, ye gods! or I the skies forego,_  
 > _And bear the lamp of heaven to shades below._
 
@@ -110,8 +110,8 @@ Should you need an example of human-made suffering, Theodicy provides many. When
 
 You may have noticed that the number of his ships sometime between the beginning of the story and their arrival on the cursed beeves island got reduced from twelve to one. For this loss of life, humans are entirely to blame. After his ill-fated visit to Polyphemus, Odysseus comes to the floating island of a man called Aeolus. Aeolus is a friend of the gods, who was made custodian of the winds by Zeus. At first, he has pity on the Ithacans and puts the winds into a bag, except the one which should carry them straight home. He hands the bag to Odysseus and tells him to release the winds again once they have reached Ithaca. This almost works, but when they can already see their native shore, the crew unties the silver thong with which Aeolus sealed the wind bag, because, not having been told about its true content, they suppose that it contains some great treasure that Odysseus wants to keep all for himself. The unleashed winds bring them to Aeolus anew, but he refuses to help again, saying:
 
-> _Vile_ _wretch, begone! this instant I command_  
-> _Thy fleet accursed to leave our_ _hallow’d_ _land._  
+> _Vile wretch, begone! this instant I command_  
+> _Thy fleet accursed to leave our hallow’d land._  
 > _His baneful suit pollutes these bless’d abodes,_  
 > _Whose fate proclaims him hateful to the gods._
 

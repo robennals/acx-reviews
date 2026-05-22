@@ -69,7 +69,7 @@ John Self is a man of his time and place, a time and place in which everything i
 
 ## 2
 
-_“__[In](https://www.asomo.co/p/the-scouring-of-middle-earth-by-palantir?utm_campaign=email-half-post&r=goli0&utm_source=substack&utm_medium=email)_ _the end, the question hanging over almost everyone in Middle Earth is which Lord will you serve?”_  
+_“[In](https://www.asomo.co/p/the-scouring-of-middle-earth-by-palantir?utm_campaign=email-half-post&r=goli0&utm_source=substack&utm_medium=email) the end, the question hanging over almost everyone in Middle Earth is which Lord will you serve?”_  
 
 People need something bigger than themselves to believe in. We need something to orient ourselves towards. Before agriculture and cities, that thing was tribe and tribal religion. “[In Java](https://walkingtheworld.substack.com/p/thick-travel), for example, the people quite flatly say, ‘To be human is to be Javanese.’” Then came polity, organized religion, nation, ideology. When these things vanish, we orient ourselves towards Money. [0]
 
@@ -112,7 +112,7 @@ Today, the idea relating to one’s nation as something bigger than oneself, as 
 
 ## 3
 
-> _[What](https://www.poetryfoundation.org/poems/49303/howl)_ _sphinx of cement and aluminum bashed open their skulls and ate up their brains and imagination?_
+> _[What](https://www.poetryfoundation.org/poems/49303/howl) sphinx of cement and aluminum bashed open their skulls and ate up their brains and imagination?_
 
 There is a phenomenon in which a bright-eyed, idealistic, anthropic young person – a person who really cares about something greater than themselves – decides that their plan will be to spend a few years making money so that they can later pursue the thing they _really_ care about more effectively. Thus they begin their journey. As the years go by and they make more and more money, their belief in this greater thing slowly erodes. Their orientation towards the greater thing initially points them towards money as a point on the path towards the ideal. As they follow the course to money, something strange happens. Money – and here we’re talking about capital-M Money – gradually, quietly, invisibly tampers with their compass. Five years go by, and the person has now made enough money to change directions according to their initial plan. But now it seems that they need a little more money before changing direction. Time passes, they make more money, and it seems once again that they would like to make a little more money. And so on and so forth. At some point, the poles complete their shift. The north star, once the very thing that illuminated this person’s life with meaning, has transformed into the luminescent lure of Money.
 
@@ -136,7 +136,7 @@ So then. Our bright-eyed, idealistic, anthropic young person has yielded to the 
 
 An acquaintance of ours once remarked that people in San Francisco don’t know the difference between socializing and networking. Indeed, dear acquaintance, indeed. Nowhere embodies the belief in Money and illustrates its effects as intensely as Silicon Valley, “Silicon Valley” being used here in the metonymic sense. San Francisco is renowned for its ~~homelessness and fentanyl zombies, massive salaries and inequality, burglaries and bips (as car break-ins are affectionately referred to by locals)~~
 
- _[Filth!](https://www.poetryfoundation.org/poems/49303/howl)_ _~~Ugliness! Ashcans and unobtainable dollars! Children screaming under the stairways! Boys sobbing in armies! Old men weeping in the parks!~~_
+ _[Filth!](https://www.poetryfoundation.org/poems/49303/howl) ~~Ugliness! Ashcans and unobtainable dollars! Children screaming under the stairways! Boys sobbing in armies! Old men weeping in the parks!~~_
 
 ~~housing policy~~
 

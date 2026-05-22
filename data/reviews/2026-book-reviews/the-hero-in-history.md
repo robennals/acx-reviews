@@ -216,9 +216,7 @@ But look more carefully at the keyhole he fit into. By 1799, revolutionary Franc
 
 * A royalist general would not be trusted by the republic.  
 
-
 * A committed republican ideologue would lack the ruthlessness to seize power.  
-
 
 * An aristocratic commander like Lafayette had already been chewed up by revolutionary politics.
 

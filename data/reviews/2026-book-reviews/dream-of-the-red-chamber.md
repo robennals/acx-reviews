@@ -7,14 +7,12 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:39:13.000Z'
 slug: dream-of-the-red-chamber
-wordCount: 4636
+wordCount: 4629
 readingTimeMinutes: 21
 source: gdoc
 tags:
   - Fiction
 ---
-
-## Dream of the Red Chamber Review
 
 Dream of the Red Chamber: The Woman Who Was Not Allowed to Collapse
 

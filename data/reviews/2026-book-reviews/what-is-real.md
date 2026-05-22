@@ -382,7 +382,7 @@ When I first learnt what follows, I almost laughed in disbelief. Here are the hi
 9. He then wrote to Everett and indicated that the thesis “must” be heavily revised in terms of “words” but not the Maths before he would recommend it for acceptance.
 10. But Everett didn’t go to meet Bohr. So, in the end, Wheeler sat down with him and “told him what to say” in his thesis. The revisions did not change the Maths/formalism but “downplayed” the many-worlds aspect of it, that is, its ontology, that is, the thing that puts the ‘many’ – also the ‘s’ – in ‘Many Worlds’.
 11. Thus, about six short months after Wheeler had first sent the thesis to Bohr, its words were in a state that Wheeler could accept.
-     1. I take it he thought that the revised thesis would not give rise to whatever downsides he had imagined the original draft would have.
+ 1. I take it he thought that the revised thesis would not give rise to whatever downsides he had imagined the original draft would have.
 
 12. The thesis was published as a paper in 1957 along with a companion paper from Wheeler saying that Everett’s work did not aim to replace CI.
 

@@ -89,11 +89,11 @@ But take a moment to consider how bizarre it is that _your skill as a parent_ is
 
 Here's one of the comments again, with minor substitutions:
 
-> _Agreed. I can count the number of times I've played music that_ _**my wife**_ _wanted to hear on one hand._
+> _Agreed. I can count the number of times I've played music that **my wife** wanted to hear on one hand._
 >
-> _Agreed. I can count the number of times I've played music that_ _**my passengers**_ _wanted to hear on one hand._
+> _Agreed. I can count the number of times I've played music that **my passengers** wanted to hear on one hand._
 >
-> _Agreed. I can count the number of times I've played music that_ _**my friends**_ _wanted to hear on one hand._
+> _Agreed. I can count the number of times I've played music that **my friends** wanted to hear on one hand._
 
 How do you feel about this guy now? To me, he comes across as an asshole. He is using his position of power to deprive his loved ones (?) of something they enjoy, and then _bragging_ about it. It only seems normal when we do this kind of thing to kids, cos we still don't really think of kids as people.
 
@@ -127,7 +127,7 @@ It was so hard for me to imagine an alternative to this that I spent a lot of ti
 
 As Stupple points out, taking your kids seriously gives them reasons to take you seriously as well:
 
-> _A crucial guard against risk is to have a trusted and knowledgeable person available for questions. This lifeline can only work if this person has the child’s best interests at heart, and_ _**only if the child believes this.**_
+> _A crucial guard against risk is to have a trusted and knowledgeable person available for questions. This lifeline can only work if this person has the child’s best interests at heart, and **only if the child believes this.**_
 
 On the rare occasions Stupple proactively offers advice to his kids, they might actually listen. In part, that's because they haven't had to learn to tune out the constant barrage of badgering and micro-management most parents subject their kids to. But it's also because they regard him as a trusted source of ideas. He doesn't judge. He's not going to punish them. They have no reason to keep anything secret from him. A lifetime of treating his children like peers, rather than adversaries, pays dividends when they come to him with a problem.
 
