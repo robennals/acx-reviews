@@ -70,6 +70,11 @@
     "History",
     "Politics"
   ],
+  "a-poor-wise-man": [
+    "Fiction",
+    "History",
+    "Politics"
+  ],
   "a-practical-guide-to-evil-book-1-by-erraticerrata": [
     "Fiction"
   ],
@@ -305,6 +310,11 @@
   ],
   "baldurs-gate-three": [
     "Philosophy"
+  ],
+  "ballpark-baseball-in-the-american-city": [
+    "History",
+    "Society",
+    "Economics"
   ],
   "battle-hymn-of-the-tiger-mother": [
     "Society",
@@ -881,6 +891,11 @@
   "ghosts": [
     "Fiction"
   ],
+  "gilead": [
+    "Fiction",
+    "Religion",
+    "Philosophy"
+  ],
   "gnomon-by-nick-harkaway": [
     "Fiction",
     "Philosophy"
@@ -1066,6 +1081,11 @@
     "Philosophy",
     "Science"
   ],
+  "into-the-universe-of-technical-images": [
+    "Philosophy",
+    "Technology",
+    "Society"
+  ],
   "inventing-temperature": [
     "Science",
     "Philosophy",
@@ -1130,6 +1150,11 @@
     "Religion",
     "History",
     "Society"
+  ],
+  "kakistocracy-by-richard-hanania": [
+    "Politics",
+    "Society",
+    "Philosophy"
   ],
   "keystroke-capitalism-by-aaron-sahr": [
     "Economics",
@@ -1322,6 +1347,11 @@
   "misbelief-what-makes-rational-people-believe-irrational-things-by-dan-ariely": [
     "Psychology"
   ],
+  "mistletoe-and-memorandums-by-claude": [
+    "Technology",
+    "Fiction",
+    "Society"
+  ],
   "moby-dick-or-the-whale": [
     "Fiction",
     "History"
@@ -1337,6 +1367,11 @@
   "montaillou-cathars-and-catholics-in-a-french-village-1294-1324": [
     "History",
     "Religion"
+  ],
+  "moral-tribes": [
+    "Philosophy",
+    "Psychology",
+    "Politics"
   ],
   "more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby": [
     "Economics",
@@ -1391,6 +1426,11 @@
   ],
   "nicotine-as-a-nootropic": [
     "Science"
+  ],
+  "night-by-elie-wiesel": [
+    "Memoir",
+    "History",
+    "Religion"
   ],
   "nightmare-pipeline-failures": [
     "History",
@@ -1500,6 +1540,10 @@
     "Philosophy",
     "Economics"
   ],
+  "parfit-a-philosopher-and-his-mission-to-save-morality": [
+    "Philosophy",
+    "Memoir"
+  ],
   "parliament-ltd-a-journey-to-the-dark-heart-of-british-politics": [
     "Politics",
     "Society",
@@ -1566,6 +1610,14 @@
   "plagues-and-peoples": [
     "History",
     "Biology"
+  ],
+  "planecrash-es-yudwkosky": [
+    "Fiction",
+    "Philosophy",
+    "Technology"
+  ],
+  "plotting-your-fantasy-novel": [
+    "Fiction"
   ],
   "plutarchs-parallel-lives-tiberius-and-gaius-gracchi": [
     "History",
@@ -1653,6 +1705,11 @@
   ],
   "python-data-science-handbook": [
     "Technology"
+  ],
+  "radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear": [
+    "Philosophy",
+    "History",
+    "Society"
   ],
   "range-why-generalists-triumph-in-a-specialized-world-by-david-epstein": [
     "Psychology",
@@ -1928,6 +1985,11 @@
     "Fiction",
     "Technology"
   ],
+  "summa-technologiae": [
+    "Technology",
+    "Philosophy",
+    "Science"
+  ],
   "summer-camp-for-sluts-young-swingers-week-at-hedonism-ii-in-negril-jamaica": [
     "Society",
     "Memoir"
@@ -1967,6 +2029,11 @@
   "testosterone": [
     "Science",
     "Biology"
+  ],
+  "that-hideous-strength": [
+    "Fiction",
+    "Religion",
+    "Technology"
   ],
   "the-accidental-superpower": [
     "Politics",
@@ -2223,6 +2290,11 @@
     "History",
     "Fiction"
   ],
+  "the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe": [
+    "History",
+    "Religion",
+    "Society"
+  ],
   "the-divine-comedy-by-dante-alighieri": [
     "Fiction",
     "Religion"
@@ -2266,6 +2338,9 @@
     "Fiction",
     "Science",
     "Biology"
+  ],
+  "the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm": [
+    "Fiction"
   ],
   "the-end-of-history-and-the-last-man": [
     "Philosophy",
@@ -2431,6 +2506,10 @@
     "Fiction",
     "History"
   ],
+  "the-inhabited-island": [
+    "Fiction",
+    "Politics"
+  ],
   "the-internationalists": [
     "History",
     "Politics"
@@ -2442,6 +2521,11 @@
   "the-internet-that-might-have-been": [
     "Technology",
     "History"
+  ],
+  "the-invention-of-science-a-new-history-of-the-scientific-revolution": [
+    "Science",
+    "History",
+    "Philosophy"
   ],
   "the-irony-of-american-history-by-reinhold-niebuhr": [
     "History",
@@ -2496,6 +2580,11 @@
     "Fiction",
     "History"
   ],
+  "the-lever-of-riches": [
+    "Economics",
+    "History",
+    "Technology"
+  ],
   "the-life-and-opinions-of-zacharias-lichter-by-matei-clinescu": [
     "Fiction",
     "Philosophy",
@@ -2548,6 +2637,11 @@
   "the-man-who-quit-money-by-mark-sundeen": [
     "Memoir",
     "Society"
+  ],
+  "the-man-who-was-thursday": [
+    "Fiction",
+    "Philosophy",
+    "Religion"
   ],
   "the-man-without-a-face-the-unlikely-rise-of-vladimir-putin": [
     "History",
@@ -2789,6 +2883,10 @@
     "Politics",
     "Philosophy"
   ],
+  "the-red-queen": [
+    "Biology",
+    "Science"
+  ],
   "the-remains-of-the-day-by-kazuo-ishiguro": [
     "Fiction"
   ],
@@ -2955,6 +3053,9 @@
     "Philosophy",
     "Psychology",
     "Society"
+  ],
+  "the-sun-also-rises": [
+    "Fiction"
   ],
   "the-sunset-limited": [
     "Fiction",
@@ -3124,6 +3225,11 @@
     "History",
     "Religion"
   ],
+  "tiger-chair": [
+    "Fiction",
+    "Politics",
+    "Technology"
+  ],
   "time-gifts": [
     "Fiction",
     "Philosophy"
@@ -3223,6 +3329,11 @@
     "Fiction"
   ],
   "very-important-people-status-and-beauty-in-the-global-party-circuit": [
+    "Society"
+  ],
+  "violence-and-the-sacred": [
+    "Religion",
+    "Philosophy",
     "Society"
   ],
   "viral": [

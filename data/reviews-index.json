@@ -1,5 +1,476 @@
 [
   {
+    "id": "planecrash-es-yudwkosky",
+    "title": "planecrash – E.S. Yudwkosky",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T18:37:17.000Z",
+    "slug": "planecrash-es-yudwkosky",
+    "excerpt": "In the LAB. Fluorescent output measured at sixty hertz. Dr. Dwayne Poopenhaupt III logged the frequency as an equilibrium, maintained by a band of agents operating below the detection threshold....",
+    "wordCount": 5309,
+    "readingTimeMinutes": 24,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-sun-also-rises",
+    "title": "The Sun Also Rises",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T13:31:28.000Z",
+    "slug": "the-sun-also-rises",
+    "excerpt": "Ernest Hemingway volunteered with the ambulance services during the Great War and was wounded by mortar fire. The shrapnel tore up his legs and put him in hospital for months.",
+    "wordCount": 2468,
+    "readingTimeMinutes": 11,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "the-lever-of-riches",
+    "title": "The Lever of Riches",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T10:35:52.000Z",
+    "slug": "the-lever-of-riches",
+    "excerpt": "That was the mindset with which a decade ago I decided to study economics.",
+    "wordCount": 11778,
+    "readingTimeMinutes": 53,
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "History",
+      "Technology"
+    ]
+  },
+  {
+    "id": "radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear",
+    "title": "Radical Hope: Ethics in the Face of Cultural Devastation by Jonathan Lear",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T08:04:57.000Z",
+    "slug": "radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear",
+    "excerpt": "Plenty Coups said that when he cut the tip off his left index finger, it didn’t bleed: “the stump of my finger was white as the finger of a dead man”. How could this be? His hands must have been...",
+    "wordCount": 9736,
+    "readingTimeMinutes": 44,
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "History",
+      "Society"
+    ]
+  },
+  {
+    "id": "violence-and-the-sacred",
+    "title": "Violence and the Sacred",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T08:00:50.000Z",
+    "slug": "violence-and-the-sacred",
+    "excerpt": "In sixth-century BC Colophon, on the coast of Asia Minor, a city performed the following ritual. Once a year, an especially ugly man was selected from the community. He was honored with a feast of...",
+    "wordCount": 13975,
+    "readingTimeMinutes": 63,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy",
+      "Society"
+    ]
+  },
+  {
+    "id": "the-invention-of-science-a-new-history-of-the-scientific-revolution",
+    "title": "The Invention of Science: A New History of the Scientific Revolution",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:56:19.000Z",
+    "slug": "the-invention-of-science-a-new-history-of-the-scientific-revolution",
+    "excerpt": "On its surface The Invention of Science defends an old-fashioned thesis: that there was a Scientific Revolution, that it was a real and transformative event, and that it happened roughly between...",
+    "wordCount": 2442,
+    "readingTimeMinutes": 11,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "History",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "plotting-your-fantasy-novel",
+    "title": "Plotting Your Fantasy Novel",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:55:13.000Z",
+    "slug": "plotting-your-fantasy-novel",
+    "excerpt": "Book review: Jed Herne's Plotting Your Fantasy Novel",
+    "wordCount": 5429,
+    "readingTimeMinutes": 25,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "the-red-queen",
+    "title": "The Red Queen",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:53:01.000Z",
+    "slug": "the-red-queen",
+    "excerpt": "Why did living things start having sex? This is the (first) question that Matt Ridley’s The Red Queen\\ attempts to answer.",
+    "wordCount": 7899,
+    "readingTimeMinutes": 36,
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Science"
+    ]
+  },
+  {
+    "id": "the-man-who-was-thursday",
+    "title": "The Man Who Was Thursday",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:50:54.000Z",
+    "slug": "the-man-who-was-thursday",
+    "excerpt": "The Man Who Was Thursday (henceforth TMWWT[1]) is a mystery novel, but its mystery unravels quickly… and then keeps unraveling for a while longer.",
+    "wordCount": 12435,
+    "readingTimeMinutes": 56,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Religion"
+    ]
+  },
+  {
+    "id": "summa-technologiae",
+    "title": "Summa Technologiae",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:48:07.000Z",
+    "slug": "summa-technologiae",
+    "excerpt": "In Harry Turtledove’s lovely alternate history story, The Road Not Taken, an alien spacecraft hovering over the White House begins to strafe the building with muskets. After a brief scuffle, humanity...",
+    "wordCount": 6863,
+    "readingTimeMinutes": 31,
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Philosophy",
+      "Science"
+    ]
+  },
+  {
+    "id": "parfit-a-philosopher-and-his-mission-to-save-morality",
+    "title": "Parfit: A Philosopher and his Mission to Save Morality",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:36:22.000Z",
+    "slug": "parfit-a-philosopher-and-his-mission-to-save-morality",
+    "excerpt": "PARFIT: A PHILOSOPHER AND HIS MISSION TO SAVE MORALITY: A REVIEW",
+    "wordCount": 16978,
+    "readingTimeMinutes": 76,
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Memoir"
+    ]
+  },
+  {
+    "id": "a-poor-wise-man",
+    "title": "A Poor Wise Man",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T07:00:07.000Z",
+    "slug": "a-poor-wise-man",
+    "excerpt": "“I saw the Chief of Police today … .says the Russians have got a lot of paid agents here.”",
+    "wordCount": 3030,
+    "readingTimeMinutes": 14,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History",
+      "Politics"
+    ]
+  },
+  {
+    "id": "mistletoe-and-memorandums-by-claude",
+    "title": "\"Mistletoe and Memorandums\" by Claude",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T06:42:02.000Z",
+    "slug": "mistletoe-and-memorandums-by-claude",
+    "excerpt": "Mistletoe and Memorandums is a romance novel written by Coral Hart… except it’s not. Although Hart’s name is featured on the cover, it was Claude Opus 4.5 who wrote the entirety of this book.",
+    "wordCount": 10485,
+    "readingTimeMinutes": 47,
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Fiction",
+      "Society"
+    ]
+  },
+  {
+    "id": "gilead",
+    "title": "Gilead",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T06:29:48.000Z",
+    "slug": "gilead",
+    "excerpt": "Gilead is a novel set in a small eponymous community in Iowa in the 1950s. It’s told as a series of journal entries written by an elderly Congregationalist minister, who is dying. You have perhaps...",
+    "wordCount": 3719,
+    "readingTimeMinutes": 17,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "ballpark-baseball-in-the-american-city",
+    "title": "Ballpark: Baseball in the American City",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T06:28:39.000Z",
+    "slug": "ballpark-baseball-in-the-american-city",
+    "excerpt": "Why do we no longer construct beautiful buildings set in walkable mixed-use neighborhoods? A century ago, we built stately brick buildings on narrow, charming streets, and the surviving examples are...",
+    "wordCount": 8544,
+    "readingTimeMinutes": 38,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society",
+      "Economics"
+    ]
+  },
+  {
+    "id": "that-hideous-strength",
+    "title": "That Hideous Strength",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T06:26:39.000Z",
+    "slug": "that-hideous-strength",
+    "excerpt": "In the novel That Hideous Strength (hereafter referred to as THS, because that title is a mouthful) C. S. Lewis depicts a future where, if the villains prevail, all of humanity will be subjugated to...",
+    "wordCount": 16903,
+    "readingTimeMinutes": 76,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-inhabited-island",
+    "title": "The Inhabited Island",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T06:23:51.000Z",
+    "slug": "the-inhabited-island",
+    "excerpt": "Funny that the work that made me think most about utopia lately",
+    "wordCount": 2812,
+    "readingTimeMinutes": 13,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics"
+    ]
+  },
+  {
+    "id": "the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm",
+    "title": "The Empyrean Series: Fourth Wing, Iron Flame, and Onyx Storm",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T06:20:09.000Z",
+    "slug": "the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm",
+    "excerpt": "The Empyrean Series: Fourth Wing, Iron Flame, and Onyx Storm",
+    "wordCount": 7976,
+    "readingTimeMinutes": 36,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "tiger-chair",
+    "title": "Tiger Chair",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T06:15:51.000Z",
+    "slug": "tiger-chair",
+    "excerpt": "Max Brooks has eclectic tastes. Writing isn’t an especially odd choice for a Hollywood nepo baby, but novels on Bigfoot and Minecraft certainly are. By far his most famous works are The Zombie...",
+    "wordCount": 1253,
+    "readingTimeMinutes": 6,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Technology"
+    ]
+  },
+  {
+    "id": "into-the-universe-of-technical-images",
+    "title": "Into the Universe of Technical Images",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T05:15:56.000Z",
+    "slug": "into-the-universe-of-technical-images",
+    "excerpt": "“From now on, concepts such as “true” and “false” refer only to unattainable horizons”",
+    "wordCount": 3144,
+    "readingTimeMinutes": 14,
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Technology",
+      "Society"
+    ]
+  },
+  {
+    "id": "night-by-elie-wiesel",
+    "title": "Night by Elie Wiesel",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T05:06:18.000Z",
+    "slug": "night-by-elie-wiesel",
+    "excerpt": "I can’t think of a statement as needlessly provocative as Oscar Wilde’s seminal proclamation that “all art is quite useless.”",
+    "wordCount": 4707,
+    "readingTimeMinutes": 21,
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "History",
+      "Religion"
+    ]
+  },
+  {
+    "id": "kakistocracy-by-richard-hanania",
+    "title": "Kakistocracy, by Richard Hanania",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T04:57:30.000Z",
+    "slug": "kakistocracy-by-richard-hanania",
+    "excerpt": "As two single women living in the populist era, we’ll start this review of Kakistocracy by Richard Hanania with a sample of people that we've dated. Identifying details have been abstracted out, but...",
+    "wordCount": 9429,
+    "readingTimeMinutes": 42,
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "moral-tribes",
+    "title": "Moral Tribes",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T04:53:12.000Z",
+    "slug": "moral-tribes",
+    "excerpt": "Joshua Greene thinks we suffer from \"The Tragedy of Commonsense Morality.\" Our moral intuition evolved to enable ingroup cooperation. But the world has changed. Modern technological societies exist...",
+    "wordCount": 2949,
+    "readingTimeMinutes": 14,
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Politics"
+    ]
+  },
+  {
+    "id": "the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe",
+    "title": "The Disciplinary Revolution: Calvinism and the Rise of the State in Early Modern Europe",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-21T04:38:23.000Z",
+    "slug": "the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe",
+    "excerpt": "You’re almost certainly familiar with the idea of the “Protestant Ethic.” It’s practically a piece of national mythology at this point: Americans work so hard because we come from those hard-working...",
+    "wordCount": 5237,
+    "readingTimeMinutes": 24,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Religion",
+      "Society"
+    ]
+  },
+  {
     "id": "candide",
     "title": "Candide",
     "author": "Unknown",
