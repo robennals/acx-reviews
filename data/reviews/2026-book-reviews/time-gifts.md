@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T23:12:48.000Z'
 slug: time-gifts
-wordCount: 4935
+wordCount: 4931
 readingTimeMinutes: 22
 source: gdoc
 tags:
@@ -31,7 +31,7 @@ The tempter, and this is, perhaps, him at his most devilish in the entire novel,
 
 The tempter, circuitously (as is the way of tempters), begins to suggest that the man has no real interest in his astrological truth. First, he claims that since the astronomer has already spoken the truth, even a renunciation could not undo it.
 
-> “The damage was done the moment you announced your discovery, and it cannot be undone. The fluttering of the butterfly’s wings should have been prevented before it initiated the storm. Even if the church made a sincere ally out of you, it would only slow down the harmful effects.”
+“The damage was done the moment you announced your discovery, and it cannot be undone. The fluttering of the butterfly’s wings should have been prevented before it initiated the storm. Even if the church made a sincere ally out of you, it would only slow down the harmful effects.”
 
 This proclamation means little to the astronomer—and this is the crucial bit we find out later—_even he believed that was true._
 
@@ -51,7 +51,7 @@ The astronomer is given one final chance to repent after all of this. Knowing no
 
 Here, Zivkovic makes a choice that will either delight or anger most readers, depending on their proclivities. The story ends with the moment of self-truth. The inquisitors (not the tempter) ask him whether or not he will recant.
 
-> “And then, finally, the royal astronomer slowly turned toward the inquisitors and gave his monosyllabic answer.”
+“And then, finally, the royal astronomer slowly turned toward the inquisitors and gave his monosyllabic answer.”
 
 Each time I read this first story, I feel differently about this ending. Unlike our astronomer, we don’t get to know whether he chooses his life or his legacy. We don’t get to know the answer. Both yes and no are monosyllables, of course. I find this kind of ambiguity in writing powerful. It encourages one to mine the previous 20 pages for psychological insight into the character, and these rereadings are rewarding because the writing is crisp, clear, lyrical, and philosophically fascinating. Still, I admit to chafing against the ambiguity myself sometimes. I wonder if that’s the point.
 
@@ -60,6 +60,8 @@ What the tempter exposes, beneath all the theological theater, is the gap betwee
 _It came to me in a dream two months before my concussion—and if it’s good enough for Kekulé, then it’s good enough for me. It, being him: handsome, made handsomer by his knowledge of this handsomeness, smooth talking, tastefully moustached, and well dressed: the tempter. We sat on a bench before a placid lake that stretched out forever._
 
 _“Do you want to be great?” he asked. “Do you want everything you say you do?”_
+
+>   
 
 _“Yes,” I answered._
 
@@ -75,7 +77,7 @@ Many of us move breezily through our days only by the good (or perhaps ruinously
 
 She goes on to answer every gentle challenge the tempter makes. What about the fact that her work led to the founding of the paleolinguistics department? A worthless department that has never had more than 8 students at a time. Her books? Aforementioned garbage. The field itself? Here, she has even harsher words.
 
-> “Paleolinguistics is not an exact science. It cannot be, since, in the strictest sense of that term, the subject of study is missing. Primeval language has been dead for a very long time. We have no direct evidence of it. . . We try to recompose a mosaic whose original appearance is unknown, and we are not even certain that we are using the right stones.”
+“Paleolinguistics is not an exact science. It cannot be, since, in the strictest sense of that term, the subject of study is missing. Primeval language has been dead for a very long time. We have no direct evidence of it. . . We try to recompose a mosaic whose original appearance is unknown, and we are not even certain that we are using the right stones.”
 
 The metaphors Zivkovic’s characters and narrator wield are deeply striking, a feat made even more impressive by the fact that they have survived translation into English.
 
@@ -107,6 +109,8 @@ _“I can give it all to you,” the stranger said to me. It was a dream, maybe,
 
 _“Then do,” I said._
 
+>   
+
 _That haughty tsking of one who knows they’re better than you felt like sandpaper in my ears._
 
 _“It’s not so simple. There’ll be a cost. Let me first tell you what you stand to gain. You will be rich, of course, and famous. Your books will be loved by audiences and read seriously by critics. Even those who write screeds against you will acknowledge your craft and skill. You will travel the world, speak inside of filled lecture halls, be interviewed by beautiful and brilliant people. You will have fans. Your writing will be taught in classrooms and passages read at weddings and funerals. You will want for nothing. It will all be given to you by your writing.”_
@@ -123,17 +127,17 @@ A watchmaker sits alone in his shop until a mysterious stranger with an old watc
 
 This is one of the most explicitly philosophical sections of the story, but in a way that (now) feels somewhat shallower than it was the first time I read this novel. The stranger speaks about time as branches on a tree rather than a straight river.
 
-> “What if there were not just one time flow, one inscription in granite? If there were several flows—countless, actually? Imagine time not as a single river but as an enormous tree with countless branches, countless forks.”
+“What if there were not just one time flow, one inscription in granite? If there were several flows—countless, actually? Imagine time not as a single river but as an enormous tree with countless branches, countless forks.”
 
 It’s a pretty image, almost Yggdrasilic, but it doesn’t do much for me as an insightful model of time. Thankfully, the story doesn’t linger on this reflection. The imagery and metaphor permeate the rest of the story, but the substance beneath the metaphor far outweighs the limited success of the actual imagery..
 
 The stranger throws the man backward in time shortly after their brief, befuddling conversation. In this alternate branch, if we take the stranger’s conception of time to be true, we meet the watchmaker’s former wife: “a whirlwind of blond curls, her long rustling dress, her smile so enchanting.” In the hazy joy of seeing her, the watchmaker slowly realizes the precise moment to which he’s been thrown. He realizes with horror, before we, the reader, understand what his gift entails.
 
-> “The sequence of events stood before him, completely clear. . . the wild music of the horse bells. . . her hurried departure onto the pavement in front of the shop as the empty carriage wildly jumped on the cobblestones. . . the horrible shock at realizing there was no way to make an escape. . . a yellow hat with a large brim and a wide ribbon tied to the bow. . . a pile of silk undergarments that certainly should not have been displayed like this—the senseless nakedness of death.”
+“The sequence of events stood before him, completely clear. . . the wild music of the horse bells. . . her hurried departure onto the pavement in front of the shop as the empty carriage wildly jumped on the cobblestones. . . the horrible shock at realizing there was no way to make an escape. . . a yellow hat with a large brim and a wide ribbon tied to the bow. . . a pile of silk undergarments that certainly should not have been displayed like this—the senseless nakedness of death.”
 
 He remembers all this in the same instant it unfolds. Only this time, he knows what waits for Mary as she exits the door. He shouts her name, and she lingers in the doorway, rather than walking into the street.
 
-> “He had to overcome the violent river to utter this word, to scrape off the previous deposit on the palimpsest with his nails, to seize hammer and chisel to write a new inscription on the virgin surface of the granite.”
+“He had to overcome the violent river to utter this word, to scrape off the previous deposit on the palimpsest with his nails, to seize hammer and chisel to write a new inscription on the virgin surface of the granite.”
 
 It works. Miracle of all miracles, it works. She stops in the doorway, and the carriage crashes farther down the block. He’s done it. He’s entered a new branch. One where Mary lives. Joy balloons in his chest. He holds her tightly, and she obliges him, a touch confused as to why he is so insistent on holding her. They talk about the ruckus caused by the crashing carriage, and in their conversation a horror—a sadness—-settles over the watchmaker.
 

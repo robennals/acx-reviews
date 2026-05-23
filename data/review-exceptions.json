@@ -49,10 +49,12 @@
     "disableItalicAsBlockquote": true
   },
   "time-gifts": {
-    "disableItalicAsBlockquote": true
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true
   },
   "siddhartha-1922-by-hermann-hesse": {
-    "disableItalicAsBlockquote": true
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true
   },
   "how-i-killed-pluto-and-why-it-had-it-coming": {
     "disableFootnotes": true

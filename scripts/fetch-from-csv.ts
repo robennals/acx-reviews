@@ -853,26 +853,24 @@ async function createMarkdownFile(
       }
       truncatedContent = out.join('\n');
     }
-    // Strip the XSTANZABREAKX sentinel lines (inserted at HTML stage
-    // to preserve empty `<p>` separators between italic siblings). The
-    // tight-stack rule above has already used their position to skip
-    // collapsing; now they can be removed. Their surrounding `>` blank
-    // lines remain in place, encoding the stanza break.
-    truncatedContent = truncatedContent
-      .split('\n')
-      .filter(l => !/^>\s*XSTANZABREAKX\s*$/.test(l))
-      .join('\n');
     // Re-run the adjacent-blockquote merge: this step ran inside
     // cleanupMarkdown but only saw blockquotes that existed at that
     // point. The italic-wrap just added more, and runs of them need
     // the same blank-`>` separator between paragraphs.
     truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
-    // Collapse consecutive blank-`>` lines into one — stripping the
-    // XSTANZABREAKX sentinel leaves doubled `>` blanks where the
-    // original empty `<p>` separator sat between the two surrounding
-    // merge-inserted blanks. CommonMark treats N consecutive blank
-    // `>` lines the same as one (paragraph break in blockquote), but
-    // matching the source's single blank line keeps the markdown clean.
+  }
+
+  // Strip the XSTANZABREAKX sentinel lines (inserted at the HTML stage
+  // by the empty-<p>-between-italic-siblings rule). Runs unconditionally
+  // — the sentinel is purely internal and must never reach output.
+  // Then collapse the resulting consecutive blank-`>` lines (one from
+  // each side of where the sentinel sat) into a single `>` so the
+  // markdown matches the source's single empty <p> separator.
+  if (truncatedContent.includes('XSTANZABREAKX')) {
+    truncatedContent = truncatedContent
+      .split('\n')
+      .filter(l => !/^(?:>\s*)?XSTANZABREAKX\s*$/.test(l))
+      .join('\n');
     truncatedContent = truncatedContent.replace(/(?:^>[ \t]*\n){2,}/gm, '>\n');
   }
 
