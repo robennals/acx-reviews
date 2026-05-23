@@ -7,28 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T07:42:34.000Z'
 slug: antonio-damasios-feeling-knowing-making-minds-conscious
-wordCount: 6319
-readingTimeMinutes: 29
+wordCount: 6268
+readingTimeMinutes: 28
 source: gdoc
 tags:
   - Science
   - Philosophy
   - Psychology
 ---
-
-Published using Google Docs
-
-[Report abuse](https://docs.google.com/document/d/e/2PACX-1vSR2ZqErj4aba3uTkoeSChS-MdNoe7QknEuaW5cKXDlBmiwvIkMy36hj_dDOed0SsD5i5iwNUrhhCFk/abuse)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
-
-Book Review: Making Minds Conscious
-
-Updated automatically every 5 minutes
-
-# Being Conscious (Of): How Affect Aligns Humanity With AI
-
-## Review and Interpretation of [Antonio Damasio](https://dornsife.usc.edu/profile/antonio-damasio/)’s [Feeling & Knowing: Making Minds Conscious](https://www.amazon.com/Feeling-Knowing-Making-Minds-Conscious/dp/1524747556)
-
-### Astral Codex Ten [2026 Book Review Contest](https://www.astralcodexten.com/p/book-review-contest-rules-2026) Submission
 
 I have always been fascinated and frustrated by philosophy. On the one hand, philosophers take on the biggest and most important questions humanity ever wrestled with: God, virtue, being, identity, politics, language… and consciousness.
 

@@ -77,6 +77,9 @@
   "into-the-universe-of-technical-images": {
     "shortLinesAsBlockquote": true
   },
+  "antonio-damasios-feeling-knowing-making-minds-conscious": {
+    "dropBeforeLineContaining": "I have always been fascinated"
+  },
   "probability-theory-the-logic-of-science": {
     "imageReplacements": {
       "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",

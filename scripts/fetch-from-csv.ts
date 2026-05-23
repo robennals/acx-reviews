@@ -188,6 +188,14 @@ interface ReviewException {
   truncateAtLineContaining?: string;
   dropBlock?: { from: string; to: string };
   dropLeadingContentLines?: number;
+  // Drop everything before the first line containing this substring
+  // (markdown formatting stripped for the match). Use when the source
+  // export has leading garbage (e.g. Google Docs "published HTML"
+  // shows "Published using Google Docs / Report abuse / Updated
+  // automatically every 5 minutes / <author title>" before the actual
+  // review starts). The matching line itself is KEPT — it's the first
+  // line of the surviving content.
+  dropBeforeLineContaining?: string;
   disableBlockquotes?: boolean;
   preserveLeadingHeading?: boolean;
   // Compact every blockquote in the file by removing intra-quote blank
@@ -425,6 +433,15 @@ function applyContentException(markdown: string, slug: string): string {
     for (let i = 0; i < lines.length; i++) {
       if (stripFormattingForMatch(lines[i]).includes(needle)) {
         lines = lines.slice(0, i);
+        break;
+      }
+    }
+  }
+  if (ex.dropBeforeLineContaining) {
+    const needle = ex.dropBeforeLineContaining.toLowerCase();
+    for (let i = 0; i < lines.length; i++) {
+      if (stripFormattingForMatch(lines[i]).includes(needle)) {
+        lines = lines.slice(i);
         break;
       }
     }
