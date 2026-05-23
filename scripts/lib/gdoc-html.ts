@@ -1302,6 +1302,24 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
           // neighbors (some `body > div > p` block between them would
           // mean we'd be picking up a non-adjacent paragraph).
           if ((head[0] as any).parent !== (next[0] as any).parent) break;
+          // Verify actual DOM adjacency between the last runMember and
+          // `next`. The candidates list contains only `<p>` elements, so
+          // intervening `<ol>`/`<ul>`/`<table>`/etc. are invisible to the
+          // loop. Walking sibling pointers catches them and prevents the
+          // merge from re-ordering content across non-`<p>` blocks
+          // (Plotting Your Fantasy Novel: indented intro paragraphs
+          // sandwiching `<ol>` numbered lists).
+          const last = runMembers[runMembers.length - 1];
+          let sib: any = (last[0] as any).next;
+          let blockedByOtherTag = false;
+          while (sib && sib !== next[0]) {
+            if (sib.type === 'tag' && sib.name !== 'p') {
+              blockedByOtherTag = true;
+              break;
+            }
+            sib = sib.next;
+          }
+          if (blockedByOtherTag) break;
           runMembers.push(next);
           j++;
         }

@@ -798,6 +798,13 @@ async function createMarkdownFile(
       inQuotedBulletRun = false;
     }
     truncatedContent = lines.join('\n');
+    // Re-run the adjacent-blockquote merge: we just prefixed bullet
+    // lines with `> `, creating new `>` runs that are still separated
+    // from the surrounding quote paragraphs by blank lines. Without
+    // the blank-`>` separator, CommonMark renders each group as its
+    // own `<blockquote>`, breaking the visual continuity the author
+    // intended (one quote containing prose + bullets + prose + bullets).
+    truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
   }
   if (slugExceptions[slug]?.quoteAfterListIsContinuation) {
     // Walk lines. Once we've seen a `* ` / `- ` / `+ ` / `\d+. `
@@ -973,6 +980,10 @@ async function main() {
   // Parse --csv and --contest flags
   const csvIdx = args.indexOf('--csv');
   const contestIdx = args.indexOf('--contest');
+  // Optional --only-slug for re-processing a single review (e.g. after
+  // a pipeline fix). Matches against the slugified CSV title.
+  const onlySlugIdx = args.indexOf('--only-slug');
+  const onlySlug = onlySlugIdx >= 0 ? args[onlySlugIdx + 1] : undefined;
 
   if (csvIdx < 0 || !args[csvIdx + 1]) {
     console.error('❌ Missing required --csv flag. Usage: npm run fetch-csv -- --csv <path> --contest <id>');
@@ -1039,6 +1050,7 @@ async function main() {
     // resolvable without fetching anything first.
     const titleForSlug = sanitizeTitle(row.title);
     const candidateSlug = slugify(titleForSlug);
+    if (onlySlug && candidateSlug !== onlySlug) continue;
     const override = candidateSlug && reviewExceptions[candidateSlug]?.docUrlOverride;
     const effectiveUrl = override || row.docUrl;
     if (override) {

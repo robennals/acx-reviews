@@ -1116,3 +1116,37 @@ test('cleanupMarkdown normalizes thematic-break paragraphs that turndown escaped
   const breaks = (out.match(/^\* \* \*$/gm) || []).length;
   assert.equal(breaks, 2, `expected two thematic-break lines; got ${breaks}: ${out}`);
 });
+
+test('convertGDocToMarkdown does not merge indented <p>s across an intervening <ol>', () => {
+  // Real example from "Plotting Your Fantasy Novel": the author wrote
+  //   <p indented>An action scene has three phases:</p>
+  //   <ol>Goal/Conflict/Outcome</ol>
+  //   <p indented>…</p>
+  //   <p indented>A response scene also has three phases:</p>
+  //   <ol>Reaction/Dilemma/Decision</ol>
+  // The HTML-stage "adjacent indented <p>" merge should NOT bridge across
+  // the intervening <ol> — otherwise it collapses all three intro <p>s
+  // into one blockquote and the two ordered lists land BELOW them, which
+  // re-orders the author's content. The pipeline must never re-order.
+  const html = [
+    '<html><head><style>',
+    '.c7{margin-left:36pt}',
+    '</style></head><body>',
+    '<p class="c7"><span>An action scene has three phases:</span></p>',
+    '<ol><li>Goal</li><li>Conflict</li><li>Outcome</li></ol>',
+    '<p class="c7"><span>…</span></p>',
+    '<p class="c7"><span>A response scene also has three phases:</span></p>',
+    '<ol><li>Reaction</li><li>Dilemma</li><li>Decision</li></ol>',
+    '</body></html>',
+  ].join('');
+
+  const md = convertGDocToMarkdown(html);
+
+  // The "Goal" item must appear BEFORE the "A response scene" intro —
+  // i.e. order is preserved from the source.
+  const idxGoal = md.indexOf('Goal');
+  const idxResponseIntro = md.indexOf('A response scene');
+  assert.ok(idxGoal > 0 && idxResponseIntro > 0, `both markers must exist; got: ${md}`);
+  assert.ok(idxGoal < idxResponseIntro,
+    `"Goal" list item must appear before "A response scene" intro; got:\n${md}`);
+});

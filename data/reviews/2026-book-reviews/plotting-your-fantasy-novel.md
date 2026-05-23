@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T07:55:13.000Z'
 slug: plotting-your-fantasy-novel
-wordCount: 5433
+wordCount: 5436
 readingTimeMinutes: 25
 source: gdoc
 tags:
@@ -96,11 +96,12 @@ Theme, Herne explains, is not merely a one-word topic like "love" or "revenge" o
 
 > Instead, it’s more useful to view Theme as a moral argument/question about how to live. Specifically, I like to consider my Theme in two ways:
 >
-> For instance, I would describe the Theme of A Game of Thrones like so:
-
 > * Thematic Statement: A moral argument about how to live.
 > * Thematic Question: A question that explores the above moral argument.
-
+>
+>   
+> For instance, I would describe the Theme of A Game of Thrones like so:
+>
 > * Thematic Statement: Honour is a foolish weakness in a world where power rewards ruthlessness and deception.
 > * Thematic Question: Can an honourable man survive in a dishonourable world?”
 
@@ -130,13 +131,14 @@ What fills the space in between?  Herne explains how to plan scenes and chapters
 
 Having seen our entire plot from a macro level, we now drill into the micro level.  Herne explains that novels are built from two types of scenes: action scenes, and response scenes.
 
-> An action scene has three phases:  
-> …  
-> A response scene also has three phases:
+> An action scene has three phases:
 
 1. **Goal:** what does your character want?
 2. **Conflict:** what's stopping them from getting what they want?
 3. **Outcome:** as a result of the goal and conflict, what happens?
+
+> …  
+> A response scene also has three phases:
 
 1. **Reaction:** how does your character feel about the outcome that just happened?
 2. **Dilemma:** what new choice do they now face?
