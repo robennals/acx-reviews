@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T17:51:49.000Z'
 slug: coriolanus
-wordCount: 28818
-readingTimeMinutes: 129
+wordCount: 28041
+readingTimeMinutes: 125
 source: gdoc
 tags:
   - Fiction
@@ -94,55 +94,55 @@ Everyone looked rather gray.
 
 A biology student spoke up.
 
-> “It isn’t a problem. The very fact that we’re talking about it is evidence it’s one that has already been solved—though we don’t realize that. Each of us here is a human.”
+“It isn’t a problem. The very fact that we’re talking about it is evidence it’s one that has already been solved—though we don’t realize that. Each of us here is a human.”
 
 “Genius,” laughed a few.
 
-> “You may laugh. But the very fact you’re here, as a human, means our evolution cracked it. The collaboration we’re after isn’t something we have to invent from scratch. The job is to tap into what evolution has already worked out and re-engineer it to fix our situation.”
->
-> “Poppycock!”
->
-> “Someone stand up and walk around, please.”
+“You may laugh. But the very fact you’re here, as a human, means our evolution cracked it. The collaboration we’re after isn’t something we have to invent from scratch. The job is to tap into what evolution has already worked out and re-engineer it to fix our situation.”
+
+“Poppycock!”
+
+“Someone stand up and walk around, please.”
 
 The poppycock-er sighed, pushed up off the sofa, and walked the length of the room.
 
-> “There. Happy?”
->
-> “Look at what you’re doing.”
->
-> “What—standing up? Done that since I remember. Nothing.”
+“There. Happy?”
+
+“Look at what you’re doing.”
+
+“What—standing up? Done that since I remember. Nothing.”
 
 “But what you did was extraordinary.” The biology student set their mug down. “Compare yourself with other mammals. Head, thorax, limbs—same as them. But we stack that skeleton in a way no other animal dares. A vertical upright column. Held up all day over our two feet.”
 
-> “Birds.”
->
-> “As a column—I said. Birds are bipeds, sure. But they don’t stack their bodies above their legs as a vertical. You do.”
->
-> “Brilliant.”
->
-> “It lets the weight of your head and thorax compress down the curve of your backbone, to your pelvis, to your knees, and to your ankles. No other animal does anything like that. Only us in this room—every one of us, every second, without thinking. Totally extraordinary if you reflect on it”
+“Birds.”
+
+“As a column—I said. Birds are bipeds, sure. But they don’t stack their bodies above their legs as a vertical. You do.”
+
+“Brilliant.”
+
+“It lets the weight of your head and thorax compress down the curve of your backbone, to your pelvis, to your knees, and to your ankles. No other animal does anything like that. Only us in this room—every one of us, every second, without thinking. Totally extraordinary if you reflect on it”
 
 The poppycock-er was still standing. They looked down at their feet.
 
-> “Bears stand up. Goats. I’ve seen monkeys and chimps do it at the zoo.”
->
-> “Only briefly. And for a reason—they hold themselves upright by muscle tension, and that costs energy. We don’t. We let the weight of our parts compress down. Energy efficient—but it puts our bodies constantly at the edge of falling.”
->
-> “No—we’re as steady as a rock.”
->
-> “But that is because our muscles, to keep our erect column in balance, outside consciousness make split second anticipatory postural adjustments. We make them even against breathing.”[^2]
+“Bears stand up. Goats. I’ve seen monkeys and chimps do it at the zoo.”
+
+“Only briefly. And for a reason—they hold themselves upright by muscle tension, and that costs energy. We don’t. We let the weight of our parts compress down. Energy efficient—but it puts our bodies constantly at the edge of falling.”
+
+“No—we’re as steady as a rock.”
+
+“But that is because our muscles, to keep our erect column in balance, outside consciousness make split second anticipatory postural adjustments. We make them even against breathing.”[^2]
 
 “Rubbish,” somebody shouted. “What about meerkats? They stand erect.”
 
-> “Meerkats cheat. They use their tails for balance—mammal tripods. And they only stand for seconds. Have you ever seen one walk or run on two legs? They don’t. But every one of us does. Scientists call us obligate bipeds.”
+“Meerkats cheat. They use their tails for balance—mammal tripods. And they only stand for seconds. Have you ever seen one walk or run on two legs? They don’t. But every one of us does. Scientists call us obligate bipeds.”
 
 Another person spoke up. “Interesting. But being an ‘obligate biped’ has nothing to do with collaboration and our situation.”
 
-> “I’m coming to that. There’s a life-threatening risk in standing, walking, and running as obligate bipeds—especially tall ones—injured joints and broken bones.”
+“I’m coming to that. There’s a life-threatening risk in standing, walking, and running as obligate bipeds—especially tall ones—injured joints and broken bones.”
 
 There were some blank faces.
 
-> “Falls.”
+“Falls.”
 
 More blank looks across the room.
 
@@ -150,21 +150,21 @@ More blank looks across the room.
 
 “Short. They’re short,” the biology student said. “Bones and joints do get strong enough as they grow to match the bigger impacts of greater size. Even [a fall from two feet—sixty centimeters—can break a wrist](https://www.sciencedirect.com/science/article/abs/pii/S0021929098001377).” And small differences in height sharply raise injury risk: men over 6’1” (1.85 m) are nearly three times more likely to break a hip than men under 5’7” (1.70 m).”[^3]
 
-> “I am not convinced. Animals injure their legs all the time and live on.”
->
-> “Quadrupeds. They can get by with three. We can’t. Lose a leg and nothing. That’s the bug of being an obligate biped—it’s an injury death trap.”
+“I am not convinced. Animals injure their legs all the time and live on.”
+
+“Quadrupeds. They can get by with three. We can’t. Lose a leg and nothing. That’s the bug of being an obligate biped—it’s an injury death trap.”
 
 “Get to the point.” The poppycock-er sat back down on the sofa. “I still haven’t heard how any of this links to collaboration.”
 
-> “The genius of our species is that evolution made our bipedal falling and getting hurt irrelevant.”
->
-> “What? How?”
->
-> “Because someone helped. Paleolithic campmates brought food and supported the fallen one until they got back on their feet.”
->
-> “So?”
->
-> “So our bodies evolved in step with a capacity to collaborate. Evolution could only select a body constantly at the edge of falling down if collaboration also existed to offer support and recovery to individuals that did.”
+“The genius of our species is that evolution made our bipedal falling and getting hurt irrelevant.”
+
+“What? How?”
+
+“Because someone helped. Paleolithic campmates brought food and supported the fallen one until they got back on their feet.”
+
+“So?”
+
+“So our bodies evolved in step with a capacity to collaborate. Evolution could only select a body constantly at the edge of falling down if collaboration also existed to offer support and recovery to individuals that did.”
 
 Silence as that thought sank in.
 
@@ -172,105 +172,105 @@ Silence as that thought sank in.
 
 Then a neuroscience student cut in.
 
-> “It’s the same story, with our brains.”
->
-> “So you’re going to tell us our big brains only arose because we collaborate?”
->
-> “Pretty much. Our brains are a gigantic energy problem.”
->
-> “Yes, I’ve heard—20% of the body’s energy.”
->
-> “That’s at rest. And only for adults. The real energy crunch is kids. A three-year-old’s brain is nearly the size it’ll be as an adult—but in a very much smaller body. Do the math. That alone raises the percentage.”
+“It’s the same story, with our brains.”
+
+“So you’re going to tell us our big brains only arose because we collaborate?”
+
+“Pretty much. Our brains are a gigantic energy problem.”
+
+“Yes, I’ve heard—20% of the body’s energy.”
+
+“That’s at rest. And only for adults. The real energy crunch is kids. A three-year-old’s brain is nearly the size it’ll be as an adult—but in a very much smaller body. Do the math. That alone raises the percentage.”
 
 Someone pulled out a phone.
 
-> “Child’s brain—6 to 8% percent of body weight. Adult, 2% percent. About three times the share.”
->
-> “Wait—it’s much worse even than that.”
->
-> “How could it be?”
->
-> “An infant brain initially develops nearly twice the number of synapses it will have as an adult only then to prune them down as a way to refine its neural circuits.”
->
-> “So?”
->
-> “Synapses burn 74% of the brain’s energy.[^4] Twice the synapses, nearly twice the energy burn. Add that to the brain’s larger share of body weight, and you’ve got an impossibility.”
+“Child’s brain—6 to 8% percent of body weight. Adult, 2% percent. About three times the share.”
+
+“Wait—it’s much worse even than that.”
+
+“How could it be?”
+
+“An infant brain initially develops nearly twice the number of synapses it will have as an adult only then to prune them down as a way to refine its neural circuits.”
+
+“So?”
+
+“Synapses burn 74% of the brain’s energy.[^4] Twice the synapses, nearly twice the energy burn. Add that to the brain’s larger share of body weight, and you’ve got an impossibility.”
 
 A pause. The room saw it.
 
-> “Same solution that made our bodies possible—collaborative support, but this time for mothers, their infants, and even adolescents. In hunter-gatherer bands they get massive transfers of food.[^5] Without that, our big brain would never have got off the evolutionary drawing board.”
->
-> “Interesting—no, fascinating—but how does any of this solve our problem with the bucket and faucet rotas? Answer that if you can.”
->
-> “It does not on its own. What it says is that the problem of collaboration isn’t the standard one taught in politics. That asks why people collaborate. That’s not the problem. To be human is already to have that built-in capacity for collaboration. The problem is to engineer that for situations very different from those in which we evolved in hunter-gatherer bands. We no longer—you might have noticed—live like them.”
->
-> “That’s not an answer.”
+“Same solution that made our bodies possible—collaborative support, but this time for mothers, their infants, and even adolescents. In hunter-gatherer bands they get massive transfers of food.[^5] Without that, our big brain would never have got off the evolutionary drawing board.”
+
+“Interesting—no, fascinating—but how does any of this solve our problem with the bucket and faucet rotas? Answer that if you can.”
+
+“It does not on its own. What it says is that the problem of collaboration isn’t the standard one taught in politics. That asks why people collaborate. That’s not the problem. To be human is already to have that built-in capacity for collaboration. The problem is to engineer that for situations very different from those in which we evolved in hunter-gatherer bands. We no longer—you might have noticed—live like them.”
+
+“That’s not an answer.”
 
 #### Language, gaze, and gossip
 
-> “You’re right. We’re unique in a third way that makes collaboration possible—language. We communicate.”
->
-> “No answer, as other animals do that.”
->
-> “Not with descriptive detail.”
->
-> “They do. Vervet monkeys have three reference calls—leopard, eagle, snake. Add visual signals and you’re near 40 meanings.”
->
-> “The work suggesting that is now questioned. Also no syntax.”
->
-> “Birdsong has syntax.”
->
-> “It’s combinatorial. We use hierarchical recursion.”
->
-> “So?”
->
-> “That lets us make descriptions—not just of the external world but also the one we create amongst ourselves and what happens in it including collaboration.”
->
-> “There is a problem here if you have not noticed. Language is more recent than the need of humans to evolve how to collaborate.”
->
-> “True. But we could describe before language.”
->
-> “How?”
->
-> “Start with bipedality. It frees our hands. Hands let us point and gesture.”
->
-> “Fine—”
->
-> “Then there’s our vocal tract. Scientists have tried and failed to get chimps to speak. Chimps do many things. [Ride bicycles, skate, thread needles](https://en.wikipedia.org/wiki/Peter_(chimpanzee)), point to lexigram boards or make signs from American Sign Language. But they won’t—can’t—talk”
->
-> “Perhaps, they fear what would happen to them if they did.”
->
-> “No, be serious. It’s because of what our vocal tracts lack and theirs possess.”
->
-> “I thought human evolution added. You are saying it was as important in what it removed?”
->
-> “Yes. The vibrations coming up from our vocal cords, unlike those of chimps, are ‘clean.’ Other primates dirty them up acoustically to make themselves sound big. The laryngeal sacs and flaps above their vocal cords disrupt airflow, adding chaotic noise to them.”[^6]
->
-> “I thought they could not talk because they could not control their breathing and tongues.”
->
-> “That is true, but even if they could, the acoustic mess created by their flaps and sacs would stop them.”
->
-> “Perhaps speech and the loss of these laryngeal flaps and sacs evolved together. There is not much point in evolving a capacity for pronouncing a rich variety of sounds and phones if you adulterate your voice with chaotic noise. But once vocal cords make a clean sound, voice becomes something selection can work on.”
+“You’re right. We’re unique in a third way that makes collaboration possible—language. We communicate.”
+
+“No answer, as other animals do that.”
+
+“Not with descriptive detail.”
+
+“They do. Vervet monkeys have three reference calls—leopard, eagle, snake. Add visual signals and you’re near 40 meanings.”
+
+“The work suggesting that is now questioned. Also no syntax.”
+
+“Birdsong has syntax.”
+
+“It’s combinatorial. We use hierarchical recursion.”
+
+“So?”
+
+“That lets us make descriptions—not just of the external world but also the one we create amongst ourselves and what happens in it including collaboration.”
+
+“There is a problem here if you have not noticed. Language is more recent than the need of humans to evolve how to collaborate.”
+
+“True. But we could describe before language.”
+
+“How?”
+
+“Start with bipedality. It frees our hands. Hands let us point and gesture.”
+
+“Fine—”
+
+“Then there’s our vocal tract. Scientists have tried and failed to get chimps to speak. Chimps do many things. [Ride bicycles, skate, thread needles](https://en.wikipedia.org/wiki/Peter_(chimpanzee)), point to lexigram boards or make signs from American Sign Language. But they won’t—can’t—talk”
+
+“Perhaps, they fear what would happen to them if they did.”
+
+“No, be serious. It’s because of what our vocal tracts lack and theirs possess.”
+
+“I thought human evolution added. You are saying it was as important in what it removed?”
+
+“Yes. The vibrations coming up from our vocal cords, unlike those of chimps, are ‘clean.’ Other primates dirty them up acoustically to make themselves sound big. The laryngeal sacs and flaps above their vocal cords disrupt airflow, adding chaotic noise to them.”[^6]
+
+“I thought they could not talk because they could not control their breathing and tongues.”
+
+“That is true, but even if they could, the acoustic mess created by their flaps and sacs would stop them.”
+
+“Perhaps speech and the loss of these laryngeal flaps and sacs evolved together. There is not much point in evolving a capacity for pronouncing a rich variety of sounds and phones if you adulterate your voice with chaotic noise. But once vocal cords make a clean sound, voice becomes something selection can work on.”
 
 Everyone thought that was an interesting idea.
 
 A person who had not spoken got out their phone and clicked a YouTube video of someone imitating bird songs.
 
-> “Our vocal abilities might have evolved to mimic animal calls—that would aid hunting—some hunters still do that to catch prey.”
->
-> “That’s a good idea. But better than that, you could mimic animal sounds in place of having a word for them and aid communication about your hunting.”
+“Our vocal abilities might have evolved to mimic animal calls—that would aid hunting—some hunters still do that to catch prey.”
+
+“That’s a good idea. But better than that, you could mimic animal sounds in place of having a word for them and aid communication about your hunting.”
 
 “Cuckoo, cuckoo; cuckoo, cuckoo," someone sing-songed.
 
-> “And while you vocally imitate, you can mime with hands and body how they reacted to your hunting them.”
+“And while you vocally imitate, you can mime with hands and body how they reacted to your hunting them.”
 
 Someone got on the floor on all fours and knuckle-walked like a chimp and did a few pant-hoots.
 
-> “And there’s a third aid—again, because we differ by lacking what other primates have. Our eyes and their movements are easy to see. Other primates pigment the conjunctiva membrane over the sclera; it camouflages the eye and where it looks. We don’t. The whiteness of the sclera shows through, making each other’s gaze easy to spot. We have also helped that by expanding the area of the eye visible to others.”[^7]
+“And there’s a third aid—again, because we differ by lacking what other primates have. Our eyes and their movements are easy to see. Other primates pigment the conjunctiva membrane over the sclera; it camouflages the eye and where it looks. We don’t. The whiteness of the sclera shows through, making each other’s gaze easy to spot. We have also helped that by expanding the area of the eye visible to others.”[^7]
 
 “Theory of mind,” someone said. “Blind children, who can’t see gaze, delay the social-inference skills sighted children pick up early. They catch up only when language begins to fill the gap.”[^8]
 
-> “The light of the body is the eye, I recall from Sunday school.”
+“The light of the body is the eye, I recall from Sunday school.”
 
 “Matthew,” someone added.
 
@@ -278,39 +278,39 @@ Someone got on the floor on all fours and knuckle-walked like a chimp and did a 
 
 It had now become competitive.
 
-> “Careful control of the eyes. For as the face is the image of the soul, so are the eyes its interpreters. Cicero.”
->
-> “Emerson. The eyes of men converse as much as their tongues, with the advantage that the ocular dialect needs no dictionary, but is understood all the world over.”[^9]
+“Careful control of the eyes. For as the face is the image of the soul, so are the eyes its interpreters. Cicero.”
+
+“Emerson. The eyes of men converse as much as their tongues, with the advantage that the ocular dialect needs no dictionary, but is understood all the world over.”[^9]
 
 “Stop. Stop,” said a frustrated voice. “So we can ‘talk’ with our eyes. How does that lead to collaboration?”
 
-> “What do we talk about? Each other. We gossip. Who’s pulling their weight? Who’s taking more than their share?”
+“What do we talk about? Each other. We gossip. Who’s pulling their weight? Who’s taking more than their share?”
 
 An anthropology student then spoke up.
 
-> “Last week, a teacher mentioned that in one hunter-gatherer band, over half of conversations were about enforcing norms. Half of these criticized how people shared or fulfilled obligations.”
+“Last week, a teacher mentioned that in one hunter-gatherer band, over half of conversations were about enforcing norms. Half of these criticized how people shared or fulfilled obligations.”
 
 They then took out their phone, flicked to some notes and showed them.
 
 > “Of those: twenty-two percent mocking, joking, or pantomime. Forty-one percent outright complaint or criticism. Thirty-five percent harsh criticism. Two percent actual violence.” [10 ]
->
-> “No. No—this is getting us nowhere. If talking solved our problem, we wouldn’t be here sorting out rotas we know we can’t enforce.”
->
-> “We could refuse to talk to anyone skipping bucket duty, or turning on their faucet as they pleased.”
->
-> “They could ignore that.”
->
-> “And you’re forgetting—we aren’t Paleolithic hunter-gatherers. We’re a bunch of strangers, interdependent in a multioccupancy house because of water pressure and a drought.”
->
-> “It is more than that. Our ancestors were born into a band where everyone knew everyone else intimately, daily, from birth to death. They had what we lack—a lifelong stake in each other’s survival.”
+
+“No. No—this is getting us nowhere. If talking solved our problem, we wouldn’t be here sorting out rotas we know we can’t enforce.”
+
+“We could refuse to talk to anyone skipping bucket duty, or turning on their faucet as they pleased.”
+
+“They could ignore that.”
+
+“And you’re forgetting—we aren’t Paleolithic hunter-gatherers. We’re a bunch of strangers, interdependent in a multioccupancy house because of water pressure and a drought.”
+
+“It is more than that. Our ancestors were born into a band where everyone knew everyone else intimately, daily, from birth to death. They had what we lack—a lifelong stake in each other’s survival.”
 
 “You’re right,” said another, “we have bank accounts. Pensions. Health insurance. A whole institutional world to fall back on.”
 
-> “They had only each other, and what they could forage.”
+“They had only each other, and what they could forage.”
 
 Someone then observed:
 
-> “They were each other’s plumbing.”
+“They were each other’s plumbing.”
 
 ### Stakes and the mutual-information math
 
@@ -318,25 +318,25 @@ Someone then observed:
 
 Another voice, quiet until now, spoke up.
 
-> “What we’re talking about is Roberts’ equation.”
->
-> “Roberts who?”
->
-> “Gilbert Roberts.”
+“What we’re talking about is Roberts’ equation.”
+
+“Roberts who?”
+
+“Gilbert Roberts.”
 
 They pulled a printout from their bag—[Cooperation through interdependence](https://scholar.google.com/scholar?cluster=17317938478518022819&hl=en&as_sdt=0,5).[^11]—crossed to the communal whiteboard, uncapped a marker, and wrote:
 
 >  sb − c > 0
->
-> “s is the stake individuals share.”
->
-> “What’s a stake?”
->
-> “How the fitness of one individual changes with that of another. No stake—your survival doesn’t depend on theirs. Coupled—you share a stake—your fates are yoked like Siamese twins.”
->
-> “And b and c?”
->
-> “b is the benefit one gains from the act of another. c is what the act costs. The formula says: when individuals share a stake, one will give a benefit to the other so long as the stake times the benefit, minus the cost, stays above zero.”
+
+“s is the stake individuals share.”
+
+“What’s a stake?”
+
+“How the fitness of one individual changes with that of another. No stake—your survival doesn’t depend on theirs. Coupled—you share a stake—your fates are yoked like Siamese twins.”
+
+“And b and c?”
+
+“b is the benefit one gains from the act of another. c is what the act costs. The formula says: when individuals share a stake, one will give a benefit to the other so long as the stake times the benefit, minus the cost, stays above zero.”
 
 They took the article and read:
 
@@ -345,34 +345,34 @@ They took the article and read:
 > … there is not a simple trade of benefits, nor is there direct self-interest, but rather benefits come secondarily through benefiting others. … it need not involve the “score keeping” that is inherent in reciprocity …
 >
 > Rather, it involves investing in others in whom one has a stake … focusing on the stake that individuals have in others shows how contributing, rather than free-riding, can be in one’s own long-term best interests. Stakeholder altruism can therefore potentially provide a much sought-after mechanism for achieving cooperation without relatedness, reciprocation, punishment or policing.
->
-> “Here’s our problem. The house plumbing gives us a common stake. Its water pressure makes us interdependent. If we don’t add buckets to the tank—or if we all turn on the faucet at the same time—we all die. Well, maybe not that—but we’ll definitely be smelly.”
+
+“Here’s our problem. The house plumbing gives us a common stake. Its water pressure makes us interdependent. If we don’t add buckets to the tank—or if we all turn on the faucet at the same time—we all die. Well, maybe not that—but we’ll definitely be smelly.”
 
 The biology student looked up. “The pipes are doing to us what our easily injured erect skeletons did. By yoking fates, they have made us into one body.”
 
 A skeptic spoke up. “We may all be yoked together by plumbing and water pressure. But the equation doesn’t tell us how to collaborate. It only states the problem. It doesn’t solve it.”
 
-> “Correct. But it does tell us our Paleolithic ancestors, in the same kind of fix, found a solution. Whatever they did, it had something to do with language. We have to engineer that ‘something’—however different our circumstances.”
+“Correct. But it does tell us our Paleolithic ancestors, in the same kind of fix, found a solution. Whatever they did, it had something to do with language. We have to engineer that ‘something’—however different our circumstances.”
 
 #### Stones, talk, and exit
 
 Someone at the back picked up the earlier point about gossip.
 
-> “Hunter-gatherers debate. Temporary leaders emerge from that talk. Language lets us judge who is trustworthy—and reject who is not.”
->
-> “Isn’t that dangerous? Anyone given temporary authority can abuse it to keep themselves in power. That’s what our ape ancestors do. Dominance hierarchies. Alphas bullying subordinates. War against everyone. The Hobbesian stuff.”
->
-> “Obligate bipedalism stopped that. With hands freed all the time, we got good at throwing stones. Other apes lob them; we target. One strong ape can intimidate a group; several humans stoning together can overcome any oppressor. If a would-be alpha arose, they would get cut down.”
+“Hunter-gatherers debate. Temporary leaders emerge from that talk. Language lets us judge who is trustworthy—and reject who is not.”
+
+“Isn’t that dangerous? Anyone given temporary authority can abuse it to keep themselves in power. That’s what our ape ancestors do. Dominance hierarchies. Alphas bullying subordinates. War against everyone. The Hobbesian stuff.”
+
+“Obligate bipedalism stopped that. With hands freed all the time, we got good at throwing stones. Other apes lob them; we target. One strong ape can intimidate a group; several humans stoning together can overcome any oppressor. If a would-be alpha arose, they would get cut down.”
 
 Another added: “And the foraging skills that kept hunter-gatherers alive let them walk away from anyone trying to rule them. Dominance over a group could not stick as people could escape.”
 
 The one at the whiteboard capped the marker.
 
-> “We can’t leave. The plumbing traps us.”
+“We can’t leave. The plumbing traps us.”
 
 Then there was a shout.
 
-> “Stone the free riders!”
+“Stone the free riders!”
 
 No one could tell whether this was in jest or serious.
 
@@ -384,183 +384,183 @@ Silence, again.
 
 After a time, a quiet voice spoke.
 
-> “Stones and walking out only work for a band that already knows its members. How do strangers turn into a band?”
->
-> “We know who we are—we share plumbing.”
->
-> “The plumbing may yoke us. But it doesn’t identify who we are.”
->
-> “Translate that.”
->
-> “A wolf pack. A chimp troop. They know one another by scent, by face, by who suckled whom. That works for a dozen, maybe forty individuals.”
->
-> “Not Dunbar’s 150 number.”
->
-> “That kind of ceiling. And the identity stays close to an individual’s body. A wolf can’t pass its pack-scent to a cub born elsewhere. A chimp can’t pass its troop-ID to a one across the river.”
->
-> “And we can?”
->
-> “We name. Personal names. Group names. And both link and bind an individual to a larger interdependency.”
+“Stones and walking out only work for a band that already knows its members. How do strangers turn into a band?”
+
+“We know who we are—we share plumbing.”
+
+“The plumbing may yoke us. But it doesn’t identify who we are.”
+
+“Translate that.”
+
+“A wolf pack. A chimp troop. They know one another by scent, by face, by who suckled whom. That works for a dozen, maybe forty individuals.”
+
+“Not Dunbar’s 150 number.”
+
+“That kind of ceiling. And the identity stays close to an individual’s body. A wolf can’t pass its pack-scent to a cub born elsewhere. A chimp can’t pass its troop-ID to a one across the river.”
+
+“And we can?”
+
+“We name. Personal names. Group names. And both link and bind an individual to a larger interdependency.”
 
 A student who had not yet spoken—who turned out to be reading classics—sat up.
 
-> “Look at how an ancient Greek got named. Periklês Xanthippou Cholargeús. Pericles. Son of Xanthippus. Of Cholargos. Three names. The first picks him out. The second names his father—the family line he came from. The third his deme—the village put on his roll after Cleisthenes redrew the books in 508. There were 139 of them. Person. Kin. Polis. Three connections in three words.”
+“Look at how an ancient Greek got named. Periklês Xanthippou Cholargeús. Pericles. Son of Xanthippus. Of Cholargos. Three names. The first picks him out. The second names his father—the family line he came from. The third his deme—the village put on his roll after Cleisthenes redrew the books in 508. There were 139 of them. Person. Kin. Polis. Three connections in three words.”
 
 The anthropology student broke in.
 
-> “What about kin terms? Uncle. Aunt. Mother’s brother. Cross-cousin. Every society has them. But they differ from one society to the next—Hawaiian, Iroquois, Crow, Omaha, Sudanese. They place a child in a network and genealogy. And how they do that makes each society different in how it describes and creates its interdependence”
->
-> “So we have names. So what?”
+“What about kin terms? Uncle. Aunt. Mother’s brother. Cross-cousin. Every society has them. But they differ from one society to the next—Hawaiian, Iroquois, Crow, Omaha, Sudanese. They place a child in a network and genealogy. And how they do that makes each society different in how it describes and creates its interdependence”
+
+“So we have names. So what?”
 
 The one at the whiteboard turned around.
 
-> “So Roberts can function. The equation says people who share a stake will offer benefits to one another as long as sb − c stays positive. But between whom? Wolves, insofar as their noses can tell who is in their pack. We do it across thousands—those we have met and those we have yet to. A name can be learned, and passed down to our children. It can let you know your relationship to someone even if you have never met. That lets Roberts’ equation work at the scale of a polis. The Athenian deme rolls held the names of thirty thousand citizens, each ending with their deme. No wolf-pack could be thirty thousand strong.”
->
-> “The bands of our Paleolithic ancestors were smaller than thirty thousand.”
->
-> “Smaller. But still larger than scent could identify. A band that names itself, names its dead, names its newborn, names its in-laws across the next valley—that band has a ledger of interdependent linked obligations and entitlements that could bind no chimp group.”
+“So Roberts can function. The equation says people who share a stake will offer benefits to one another as long as sb − c stays positive. But between whom? Wolves, insofar as their noses can tell who is in their pack. We do it across thousands—those we have met and those we have yet to. A name can be learned, and passed down to our children. It can let you know your relationship to someone even if you have never met. That lets Roberts’ equation work at the scale of a polis. The Athenian deme rolls held the names of thirty thousand citizens, each ending with their deme. No wolf-pack could be thirty thousand strong.”
+
+“The bands of our Paleolithic ancestors were smaller than thirty thousand.”
+
+“Smaller. But still larger than scent could identify. A band that names itself, names its dead, names its newborn, names its in-laws across the next valley—that band has a ledger of interdependent linked obligations and entitlements that could bind no chimp group.”
 
 The skeptic was still skeptical.
 
 #### Mutual information and leaders
 
-> “Let’s get back to the issue. We cannot keep chatting. Pick one of us to draw up the rotas. They will do it for a month and then we select again. Let’s do that NOW.”
+“Let’s get back to the issue. We cannot keep chatting. Pick one of us to draw up the rotas. They will do it for a month and then we select again. Let’s do that NOW.”
 
 Someone objected. “But that person could game the role—favor themselves and their friends. Worse, they could make their control permanent. If that happens, are we supposed to stone them?”
 
-> “But we will pick someone honest. And then we will arrange things so that even if they’re tempted, they stay honest.”
->
-> “How do you engineer that ‘arranging of things’? I don’t see how.”
+“But we will pick someone honest. And then we will arrange things so that even if they’re tempted, they stay honest.”
+
+“How do you engineer that ‘arranging of things’? I don’t see how.”
 
 The person at the whiteboard raised their hand to speak.
 
 The look around the room said: not more math.
 
-> “We’re facing here the problem of engineering autonomy.”
->
-> “What on Earth is that?”
->
-> “It’s about arranging things so they aren’t informationally coupled. So knowing one does not give information about the other. In the case of the rotas, they create a ledger of inputs and outputs about individuals—including the person drawing up the rotas. Looking at that ledger, it should not ‘leak’ any information from the rota assignments that lets us identify who created it.”
->
-> “How does this link to honesty?”
->
-> “Imagine they gamed it—gave themselves less bucket carrying and more faucet usage. Looking at the input and output ledger and its names, you could identify from mutual information that they were the individual creating the rotas.”
->
-> “What if they scrupulously gave rotas to themselves like everyone else but gamed it for their friends?”
->
-> “A more difficult case, since instead of the ledger leaking information about them, it would now leak information about their social network. That would now identify them.”
->
-> “You said autonomy? What do you mean by that?”
->
-> “It’s when knowing one thing tells you nothing about another—they exist informationally ‘autonomous’ from each other. Let me explain.”
+“We’re facing here the problem of engineering autonomy.”
+
+“What on Earth is that?”
+
+“It’s about arranging things so they aren’t informationally coupled. So knowing one does not give information about the other. In the case of the rotas, they create a ledger of inputs and outputs about individuals—including the person drawing up the rotas. Looking at that ledger, it should not ‘leak’ any information from the rota assignments that lets us identify who created it.”
+
+“How does this link to honesty?”
+
+“Imagine they gamed it—gave themselves less bucket carrying and more faucet usage. Looking at the input and output ledger and its names, you could identify from mutual information that they were the individual creating the rotas.”
+
+“What if they scrupulously gave rotas to themselves like everyone else but gamed it for their friends?”
+
+“A more difficult case, since instead of the ledger leaking information about them, it would now leak information about their social network. That would now identify them.”
+
+“You said autonomy? What do you mean by that?”
+
+“It’s when knowing one thing tells you nothing about another—they exist informationally ‘autonomous’ from each other. Let me explain.”
 
 Everyone feared another equation was going to be written on the whiteboard.
 
 But this did not happen. Instead, they talked about the history of science and rationality.
 
-> “Think about the biggest revolution in science—Copernicus. What did he do? He took the geocentric astronomy that put Earth at the center of the universe and replaced it with the Sun.”
->
-> “How can that be science’s biggest revolution—when he got it wrong?”
->
-> “How?”
->
-> “The Sun isn’t the center of the universe—and even his model had it moving with ‘epicycles.’ It was only Kepler who got things roughly right.”
->
-> “But Copernicus did to astronomy what makes science science. His revolution was not putting the Sun at the center of the universe. It was removing the Earth from that center.”
->
-> “What has that to do with autonomy?”
->
-> “Theories shouldn’t contain information about the observer and their location. They should be autonomous from where they observe. Geocentrism contains information about the astronomers making it—their existence on planet Earth.”
->
-> “I see what you mean. Martians would create a different astronomy—one that put Mars instead at the center. Copernicus ended that.”
->
-> “That is the revolution. Knowledge cannot be local—it aims to be universal to all possible knowers, not just those in a particular place. Put the Sun at the center, and the information in the theories that observers are on Earth ceases. The same astronomical equations can be used on Earth and Mars—and all around the solar system. There is no mutual information between science and scientists, knowers and known. It was the start of scientific astronomy. Making science autonomous is its essence.”
->
-> “Are you saying the essence of science is to cut out mutual information?”
->
-> “Yes. And the essence of rationality, too. You can’t begin to be rational if what you take to be reasoning hides a bias linked to you as the thinker. Priors must exist independent of the Bayesian reasoner and not be contaminated by what conclusions they seek to support.”
->
-> “I thought if you did that the Reverend Thomas Bayes struck you with a thunderbolt from the logos cloud in Heaven. Bayes’ Rule is a rule and those surreptitiously not obeying it while claiming they do end up rotting in the circle of false thinkers in Hell.”
->
-> “I get your point. Bayesian inference lacks enforcement. But that’s irrelevant to our situation.”
->
-> “But it is the point of our situation. What’s true of science and rationality is also true of the collaboration without which humanity could not exist. It must be robust against mutual information arising where it should not—the task of autonomy engineering.”
+“Think about the biggest revolution in science—Copernicus. What did he do? He took the geocentric astronomy that put Earth at the center of the universe and replaced it with the Sun.”
+
+“How can that be science’s biggest revolution—when he got it wrong?”
+
+“How?”
+
+“The Sun isn’t the center of the universe—and even his model had it moving with ‘epicycles.’ It was only Kepler who got things roughly right.”
+
+“But Copernicus did to astronomy what makes science science. His revolution was not putting the Sun at the center of the universe. It was removing the Earth from that center.”
+
+“What has that to do with autonomy?”
+
+“Theories shouldn’t contain information about the observer and their location. They should be autonomous from where they observe. Geocentrism contains information about the astronomers making it—their existence on planet Earth.”
+
+“I see what you mean. Martians would create a different astronomy—one that put Mars instead at the center. Copernicus ended that.”
+
+“That is the revolution. Knowledge cannot be local—it aims to be universal to all possible knowers, not just those in a particular place. Put the Sun at the center, and the information in the theories that observers are on Earth ceases. The same astronomical equations can be used on Earth and Mars—and all around the solar system. There is no mutual information between science and scientists, knowers and known. It was the start of scientific astronomy. Making science autonomous is its essence.”
+
+“Are you saying the essence of science is to cut out mutual information?”
+
+“Yes. And the essence of rationality, too. You can’t begin to be rational if what you take to be reasoning hides a bias linked to you as the thinker. Priors must exist independent of the Bayesian reasoner and not be contaminated by what conclusions they seek to support.”
+
+“I thought if you did that the Reverend Thomas Bayes struck you with a thunderbolt from the logos cloud in Heaven. Bayes’ Rule is a rule and those surreptitiously not obeying it while claiming they do end up rotting in the circle of false thinkers in Hell.”
+
+“I get your point. Bayesian inference lacks enforcement. But that’s irrelevant to our situation.”
+
+“But it is the point of our situation. What’s true of science and rationality is also true of the collaboration without which humanity could not exist. It must be robust against mutual information arising where it should not—the task of autonomy engineering.”
 
 #### The ledger forgets names
 
-> “So interdependent collaboration works when engineering creates an indifferent ledger.”
->
-> “That’s it. Shared-stake collaboration works when the ledger forgets everyone’s name.”
->
-> “Actually, it happens at two places—it is not just about the information between the ledger and the person making it, but also within it, between inputs and outputs.”
->
-> “Wait. A minute ago you had names putting us on the ledger. Now they come off.”
->
-> “Both. The names stay—they identify who is one of us. Inside the ledger, the names go. Names tell us who is inside the interdependence and its ledger—who has a shared stake.”
->
-> “So they create its boundary.”
->
-> “That’s it.”
->
-> “But if humans in shared-stake collaboration remove the mutual information between who incurs a cost and who gets a benefit, someone might end up doing all the work and getting nothing in return.”
->
-> “Correct—but that is not necessarily bad. Look at what we noted earlier about our bipedality. No one knows when they might fall, injure themselves, and need support. They might spend their lives never getting injured while always helping others. But they still gain—if they had such an injury, they would get that help.”
->
-> “Like paying insurance premiums and never making a claim?”
->
-> “That’s one way to think about it. But remember also the transfer of food energy to the young. Everyone was once a pregnancy, a babe suckling milk, an infant then a child and often an adolescent totally dependent on others. The support we got came from those giving, not thinking about what they might take out—the ledger works across generations.”
->
-> “So you are saying humans, if they share a stake, support each other independently of any return. The help we give isn’t a debt to be repaid. There’s no I-do-a-favor-for-you-and-you-do-one-back-to-me.”
->
-> “Exactly.”
+“So interdependent collaboration works when engineering creates an indifferent ledger.”
+
+“That’s it. Shared-stake collaboration works when the ledger forgets everyone’s name.”
+
+“Actually, it happens at two places—it is not just about the information between the ledger and the person making it, but also within it, between inputs and outputs.”
+
+“Wait. A minute ago you had names putting us on the ledger. Now they come off.”
+
+“Both. The names stay—they identify who is one of us. Inside the ledger, the names go. Names tell us who is inside the interdependence and its ledger—who has a shared stake.”
+
+“So they create its boundary.”
+
+“That’s it.”
+
+“But if humans in shared-stake collaboration remove the mutual information between who incurs a cost and who gets a benefit, someone might end up doing all the work and getting nothing in return.”
+
+“Correct—but that is not necessarily bad. Look at what we noted earlier about our bipedality. No one knows when they might fall, injure themselves, and need support. They might spend their lives never getting injured while always helping others. But they still gain—if they had such an injury, they would get that help.”
+
+“Like paying insurance premiums and never making a claim?”
+
+“That’s one way to think about it. But remember also the transfer of food energy to the young. Everyone was once a pregnancy, a babe suckling milk, an infant then a child and often an adolescent totally dependent on others. The support we got came from those giving, not thinking about what they might take out—the ledger works across generations.”
+
+“So you are saying humans, if they share a stake, support each other independently of any return. The help we give isn’t a debt to be repaid. There’s no I-do-a-favor-for-you-and-you-do-one-back-to-me.”
+
+“Exactly.”
 
 “So no one keeps a score?” said someone.
 
 Another added, “Still, that is a situation ripe for being ripped off.”
 
-> “Not so. It depends on need and the capacity to give. The Maasai have a system called osotua—it’s their word for umbilical cord. In this, help is given because a person needs it. And those who give it do so because they can. They’re independent entries on an in-and-out ledger that doesn’t record debt.”
->
-> “So you are suggesting no mutual information between what someone gives and what they take. People add according to their abilities. Take according to their needs. Knowing one tells you nothing about the other. No mutual information.”
+“Not so. It depends on need and the capacity to give. The Maasai have a system called osotua—it’s their word for umbilical cord. In this, help is given because a person needs it. And those who give it do so because they can. They’re independent entries on an in-and-out ledger that doesn’t record debt.”
+
+“So you are suggesting no mutual information between what someone gives and what they take. People add according to their abilities. Take according to their needs. Knowing one tells you nothing about the other. No mutual information.”
 
 “Commie!” someone shouted.
 
 Then someone added in a mock German accent: “Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen.” And, in stately tones: “From each according to his ability, to each according to his needs.” Changing back to their own voice, they added, “That’s Marx.”
 
-> “What’s your problem? Humans may have done that each from his abilities to their needs in the Paleolithic. But look what happened when Marxists tried it in the 20th century—they ended up—”
+“What’s your problem? Humans may have done that each from his abilities to their needs in the Paleolithic. But look what happened when Marxists tried it in the 20th century—they ended up—”
 
 A voice cut in. “Marxists never built institutions that blocked the mutual information between the Party’s decisions and the Party’s interests.”
 
-> “The Marxists didn’t engineer institutions that eliminated it. They engineered the opposite—the party commissars decided what the proletariat needed and nothing stopped the commissars from benefiting themselves.”
->
-> “So how do we engineer ourselves in this common room so that never happens to whoever sets the rotas?”
+“The Marxists didn’t engineer institutions that eliminated it. They engineered the opposite—the party commissars decided what the proletariat needed and nothing stopped the commissars from benefiting themselves.”
+
+“So how do we engineer ourselves in this common room so that never happens to whoever sets the rotas?”
 
 ### Engineering the loan
 
 #### Selecting leaders
 
-> “Pick someone whose decision-making will lack any information about themselves. A leader coordinating a group has to make all sorts of decisions like the rotas. Look at those decisions from the outside. Do they identify the leader?”
->
-> “So what you want is someone who decides in a way as if their own interests do not exist.”
+“Pick someone whose decision-making will lack any information about themselves. A leader coordinating a group has to make all sorts of decisions like the rotas. Look at those decisions from the outside. Do they identify the leader?”
+
+“So what you want is someone who decides in a way as if their own interests do not exist.”
 
 Someone uttered, “Like a blind trust.”
 
-> “Yes. Much like that. What you want is blind decision-making. Individuals must decide with no information coupling with their interests.”
->
-> “Give an example of such indifference.”
->
-> “Look at our plumbing. The pipes, joints, and roof tank are independent of water pressure. They have to exist for it to reach our faucets. But informationally, they are invisible. They’re cogs. Means. Devices that do what they were engineered to do. They have no interests that might make them act to favor one faucet over another.”
->
-> “You mean they cannot be bribed?”
->
-> “Precisely. They don’t seek opportunities to further their interests because, being matter, they have none. Humans do, and they have intents to further themselves. We seek opportunities, and if we exploit them, when given control over others mutual information appears between us and our decisions over them.”
+“Yes. Much like that. What you want is blind decision-making. Individuals must decide with no information coupling with their interests.”
+
+“Give an example of such indifference.”
+
+“Look at our plumbing. The pipes, joints, and roof tank are independent of water pressure. They have to exist for it to reach our faucets. But informationally, they are invisible. They’re cogs. Means. Devices that do what they were engineered to do. They have no interests that might make them act to favor one faucet over another.”
+
+“You mean they cannot be bribed?”
+
+“Precisely. They don’t seek opportunities to further their interests because, being matter, they have none. Humans do, and they have intents to further themselves. We seek opportunities, and if we exploit them, when given control over others mutual information appears between us and our decisions over them.”
 
 Someone exclaimed, “I can see now—that link is our problem. How do we select someone to organize us who won’t abuse the control we lend to them? We don’t want them to capture what’s given temporarily so they end up owning us—it’s a loan, not a slavery bond.”
 
 Another queried, “So you’re saying we don’t engineer for an honest leader. We engineer, instead, for one whose decisions aren’t informative about themselves. We engineer defensively—against the existence of mutual information where there shouldn’t be any.”
 
-> “Yes, that way you get honesty—after all, what do we mean by that except the absence of dishonesty? It is hard to know when someone is honest except when they are not.”
->
-> “This all seems rather circular. You have described mutual information and how it links to a ledger of inputs and outputs, both between them and in how they link to mutual information between the ledger and the person deciding how to draw it up. But where is this going?”
+“Yes, that way you get honesty—after all, what do we mean by that except the absence of dishonesty? It is hard to know when someone is honest except when they are not.”
+
+“This all seems rather circular. You have described mutual information and how it links to a ledger of inputs and outputs, both between them and in how they link to mutual information between the ledger and the person deciding how to draw it up. But where is this going?”
 
 The person next to the whiteboard said, “To the mutual information that might arise between us and the selection of that person.” But no one heard them.
 
@@ -576,33 +576,33 @@ They were about to start when a hand went up. “And who decides which shout is 
 
 “Good idea,” said another voice.
 
-> “I don’t like that. We can all see who raised a hand for whom. Whoever wins will know who backed them and who didn’t—and whoever wins hands out the bucket duties and the faucet time. I don’t trust that. Some of us will raise a hand out of fear. Some out of hope of later reward. Either way, it isn’t what we privately want. Write the names on slips instead, and put them in a hat. That’s anonymous.”
+“I don’t like that. We can all see who raised a hand for whom. Whoever wins will know who backed them and who didn’t—and whoever wins hands out the bucket duties and the faucet time. I don’t trust that. Some of us will raise a hand out of fear. Some out of hope of later reward. Either way, it isn’t what we privately want. Write the names on slips instead, and put them in a hat. That’s anonymous.”
 
 A round of nods.
 
-> “Stop. The hat isn’t anonymous either. The winner can go through the wastebasket afterward and identify handwriting.”
->
-> “I suggest we instead print a list of names with a box by each. That tells us nothing about who made it.”
->
-> “But that is inflexible—someone might decide to be a candidate after it is printed.”
+“Stop. The hat isn’t anonymous either. The winner can go through the wastebasket afterward and identify handwriting.”
+
+“I suggest we instead print a list of names with a box by each. That tells us nothing about who made it.”
+
+“But that is inflexible—someone might decide to be a candidate after it is printed.”
 
 A voice then tried to make sense of the argument. “Whatever we do, will have trade-offs. A friendly shout among us costs nothing—if the stakes are low and a wrong pick doesn’t matter, use the shout. When it matters, we need something better. But no method will be incorruptible. Whoever we lend control to will spend their time working out how to use the assignment of bucket duties and faucet time we handed them to find ways to game the next election.”
 
-> “You’re right—we are not handing it over. We are lending it. We still own it. We need to be able to get it back.”
->
-> “But in giving them control, they will get the means to stop that”
->
-> “How?”
->
-> “They might use their control to bribe the person who throws away what is in the bucket. Or pressure people not to put their names forward. Or those counting ballots to be inaccurate.”
->
-> “But we can engineer against that.”
->
-> “But they can counter-engineer against checks that might stop them.”
+“You’re right—we are not handing it over. We are lending it. We still own it. We need to be able to get it back.”
+
+“But in giving them control, they will get the means to stop that”
+
+“How?”
+
+“They might use their control to bribe the person who throws away what is in the bucket. Or pressure people not to put their names forward. Or those counting ballots to be inaccurate.”
+
+“But we can engineer against that.”
+
+“But they can counter-engineer against checks that might stop them.”
 
 “Red Queen.” Someone slid into a high voice. “It takes all the running you can do, to keep in the same place.”
 
-> “Quite. However well we build the delegation of control to another, the ones we lend it to will find ways to game it—to favor themselves, which is abuse, or to capture what is lent to make it permanently theirs.”
+“Quite. However well we build the delegation of control to another, the ones we lend it to will find ways to game it—to favor themselves, which is abuse, or to capture what is lent to make it permanently theirs.”
 
 #### Adults
 
@@ -610,37 +610,37 @@ Then the voice that had shouted “Mutual information!” asked for a pause.
 
 “Look at what we’re doing. Count it on your fingers.” They held up their hands.
 
-> “One. The schedule on the wall. Read it cold, without knowing who wrote it. Can you tell? If its creator has been cheating, the pattern identifies them. The schedule has to look the same whoever drew it up.”
+“One. The schedule on the wall. Read it cold, without knowing who wrote it. Can you tell? If its creator has been cheating, the pattern identifies them. The schedule has to look the same whoever drew it up.”
 
 A finger went down.
 
-> “Two. Who carries water and who turns the faucet. These don’t pair up. Whoever has the strength to carry buckets carries them. Whoever needs to wash washes. The row in the carrying-in book doesn’t match the row in the taking-out book. Ability gives, need takes—and the two ledgers don’t inform on each other.”
+“Two. Who carries water and who turns the faucet. These don’t pair up. Whoever has the strength to carry buckets carries them. Whoever needs to wash washes. The row in the carrying-in book doesn’t match the row in the taking-out book. Ability gives, need takes—and the two ledgers don’t inform on each other.”
 
 Another finger.
 
-> “Three. Beyond the schedule itself, the day-to-day rulings. Disputes settled, exceptions granted, priorities ranked. Watch the choices over a month. Do they favor whoever’s making them, or their circle? They should look the same regardless of whose turn it is to rule.”
->
-> “Four. The ballot. Pick one out of the box. Whose hand marked it? If you can answer that, the winner can thank their friends and punish their critics—and the vote was never actually ours.”
+“Three. Beyond the schedule itself, the day-to-day rulings. Disputes settled, exceptions granted, priorities ranked. Watch the choices over a month. Do they favor whoever’s making them, or their circle? They should look the same regardless of whose turn it is to rule.”
+
+“Four. The ballot. Pick one out of the box. Whose hand marked it? If you can answer that, the winner can thank their friends and punish their critics—and the vote was never actually ours.”
 
 They closed their hands.
 
-> “Four severings, one principle. The schedule from its creator. The giving from the getting. The ruler from their rulings. The vote from its voter.”
+“Four severings, one principle. The schedule from its creator. The giving from the getting. The ruler from their rulings. The vote from its voter.”
 
 Someone interrupted, “I suppose you are going to say being an adult is defined by mutual information.”
 
-> “You read my mind. Consider what being an adult is—it’s not being a child. But what is a child? Someone whose decisions are made for them. And that creates mutual information between that person and the child. You can gain information about what a child does by understanding not that child but the person making decisions on their behalf.”
->
-> “So what?”
->
-> “Being an adult is having no mutual information between what you do and others. An adult is responsive only to their own judgments.”
->
-> “What about slaves—sorry, enslaved persons?”
->
-> “Here is obscenity in causation. Slavery is the state of mutual information existing between an owner and what an enslaved person does. Their actions are not their own. To be an adult is to be free and autonomous. You respect a person as an adult when you recognize their freedom to be who they seek to be, rather than control that.”
->
-> “What does that have to do with threats and favors in elections?”
->
-> “They take away the anonymity of voting and voters cease to be autonomous in their voting decisions—instead, they reflect the ability of someone to threaten or promise them favors. The voters cease to be free adults and become individuals with managed voting ‘choices’.”
+“You read my mind. Consider what being an adult is—it’s not being a child. But what is a child? Someone whose decisions are made for them. And that creates mutual information between that person and the child. You can gain information about what a child does by understanding not that child but the person making decisions on their behalf.”
+
+“So what?”
+
+“Being an adult is having no mutual information between what you do and others. An adult is responsive only to their own judgments.”
+
+“What about slaves—sorry, enslaved persons?”
+
+“Here is obscenity in causation. Slavery is the state of mutual information existing between an owner and what an enslaved person does. Their actions are not their own. To be an adult is to be free and autonomous. You respect a person as an adult when you recognize their freedom to be who they seek to be, rather than control that.”
+
+“What does that have to do with threats and favors in elections?”
+
+“They take away the anonymity of voting and voters cease to be autonomous in their voting decisions—instead, they reflect the ability of someone to threaten or promise them favors. The voters cease to be free adults and become individuals with managed voting ‘choices’.”
 
 Sour faces. None of them liked what they had heard.
 
@@ -672,13 +672,13 @@ Enter Coriolanus
 
 Another voice said.
 
-> "Then everything we've just said describes what is in Coriolanus."
->
-> "How so?"
+"Then everything we've just said describes what is in Coriolanus."
+
+"How so?"
 
 "Coriolanus is about fitness interdependence and legitimacy. The patricians and plebeians share a stake in Rome's survival. They live in one body. As we do here. One stake is defense—if Rome falls, they fall together. The faucets all run dry. Another is distribution. Everyone has to eat. Corn has to be shared out. Someone has to decide what's put in and what's taken out.
 
-> "Rome's shared stake runs on a circulation. Rome has rules and rulers—laws and a Senate. Without legitimacy in them, it falls into anarchy. Or gets captured by an autocrat. As it was under the Tarquin kings—and as it will be under the Emperors."
+"Rome's shared stake runs on a circulation. Rome has rules and rulers—laws and a Senate. Without legitimacy in them, it falls into anarchy. Or gets captured by an autocrat. As it was under the Tarquin kings—and as it will be under the Emperors."
 
 They left, went to their rooms, and read Shakespeare's play.
 
@@ -1287,75 +1287,75 @@ The week after the housemates sorted out their plumbing rota, they met at a bar.
 
 One of them plunked a stack of books, borrowed from a college library, on the table.
 
-> “I see you’ve got quite a pile.”[^12]
+“I see you’ve got quite a pile.”[^12]
 
 A hand reached out and picked up _Dictatorship Made Easy_. Another grabbed _Autocracy for Dummies_.
 
 Another took _Everything You Always Wanted to Know About Taking Over a Democracy (But Were Afraid to Ask)_ and commented, “I see you’ve got the Newly Revised and Updated edition.”
 
-> “A bit of a damp squib. The really good one is _The Joy of Tyranny, Deluxe Edition_. That one was a national Caligula’s Book Club Pick and a #1 New York Times Bestseller too.”
->
-> “I see _Autocracy for Dummies_ won a Sauron Book Award and _Dictatorship Made Easy_ is not only Mordor Book of the Year but also is going to be a Netflix series.”
->
-> “You’ve got a lot of homework. Learned anything?”
->
-> “Oh yes. Becoming an autocrat is easy once you know how.”
->
-> “Any tips? It looks like a good way to make billions.”
+“A bit of a damp squib. The really good one is _The Joy of Tyranny, Deluxe Edition_. That one was a national Caligula’s Book Club Pick and a #1 New York Times Bestseller too.”
+
+“I see _Autocracy for Dummies_ won a Sauron Book Award and _Dictatorship Made Easy_ is not only Mordor Book of the Year but also is going to be a Netflix series.”
+
+“You’ve got a lot of homework. Learned anything?”
+
+“Oh yes. Becoming an autocrat is easy once you know how.”
+
+“Any tips? It looks like a good way to make billions.”
 
 #### The Three Moves
 
-> “It’s all about the loan. You first have to get temporary power. Once you have that, it’s a whizz. You see, once you’ve been given control of something on the understanding that it’ll be given back, you can treat that as talk you can forget—provided you make the right moves.”
->
-> “But I thought democracies were engineered to stop that.”
+“It’s all about the loan. You first have to get temporary power. Once you have that, it’s a whizz. You see, once you’ve been given control of something on the understanding that it’ll be given back, you can treat that as talk you can forget—provided you make the right moves.”
+
+“But I thought democracies were engineered to stop that.”
 
 “No.” Waving _Tips, Tricks, and Hacks for Despots_, which had a bright sticker claiming “Over One Million Copies Sold.”
 
-> “According to this, you need to make the three moves.”
->
-> “What, like chess?”
->
-> “No—it’s more like bomb defusing—you have to reverse engineer what stops you tampering.”
+“According to this, you need to make the three moves.”
+
+“What, like chess?”
+
+“No—it’s more like bomb defusing—you have to reverse engineer what stops you tampering.”
 
 “Except,” someone added, “in this case you blow up something—the hand back to democracy.”
 
-> “First, there is lock-switching.”
->
-> “Lock-switching?”
->
-> “Once you’ve got temporary control, change the locks. The classic case is a temporarily elected war-chief who raises soldiers to defend his people, then turns them on those who oppose him.”
->
-> “You said three—what’s the second one?”
->
-> “Loan-rewriting.”
->
-> “Which is?”
+“First, there is lock-switching.”
+
+“Lock-switching?”
+
+“Once you’ve got temporary control, change the locks. The classic case is a temporarily elected war-chief who raises soldiers to defend his people, then turns them on those who oppose him.”
+
+“You said three—what’s the second one?”
+
+“Loan-rewriting.”
+
+“Which is?”
 
 “Redraft the loan. They lent you the car for school runs; as its new driver you run a taxi service and call it “expanded educational access”. Men leave to fight enemies and end up guarding the food to ‘protect’ it. The thing you lent now has different purposes.”
 
-> “And the third?”
->
-> “Domain extension. You ask for more control to be lent. They lent you a car—now you claim you need its garage. Then its driveway. And then, in case of emergency their house keys. The trick is to make each step small and ‘temporary’ enough not to cause alarm. It’s about expanding the loan.”
->
-> “A bit like boiling a frog. You raise the heat slowly so they don’t jump out while they still can.”
->
-> “Folk myth. Frogs get agitated and try to get out. But it catches something real. Often small changes do not get detected until they have built up too late to escape.”
+“And the third?”
+
+“Domain extension. You ask for more control to be lent. They lent you a car—now you claim you need its garage. Then its driveway. And then, in case of emergency their house keys. The trick is to make each step small and ‘temporary’ enough not to cause alarm. It’s about expanding the loan.”
+
+“A bit like boiling a frog. You raise the heat slowly so they don’t jump out while they still can.”
+
+“Folk myth. Frogs get agitated and try to get out. But it catches something real. Often small changes do not get detected until they have built up too late to escape.”
 
 Someone picked up a book that no one had touched: “_The Authoritarian Cookbook_.”
 
-> “This says the real craft is to do all three at once.”
->
-> “Let me look—why ‘Cookbook’?”
->
-> “Lots of recipes. Step-by-step guides. Equipment lists. Common mistakes. Habits of the successful. Taking power looks easy from the outside, but it’s a skill that must be done the right way. No room for amateurs.”
->
-> “So the lenders don’t catch on?”
->
-> “Yes, that’s the stumbling block many would-be autocrats trip up on. Lock-switching is the bluntest move, and lenders quickly learn to watch for it. So you shift to loan-rewriting, which slips under the radar. And if lenders pick up on that, you shift to domain extension.”
->
-> “So turning a democracy into an autocracy is a skill.”
->
-> “Very much so—it should have its own Olympic event.”
+“This says the real craft is to do all three at once.”
+
+“Let me look—why ‘Cookbook’?”
+
+“Lots of recipes. Step-by-step guides. Equipment lists. Common mistakes. Habits of the successful. Taking power looks easy from the outside, but it’s a skill that must be done the right way. No room for amateurs.”
+
+“So the lenders don’t catch on?”
+
+“Yes, that’s the stumbling block many would-be autocrats trip up on. Lock-switching is the bluntest move, and lenders quickly learn to watch for it. So you shift to loan-rewriting, which slips under the radar. And if lenders pick up on that, you shift to domain extension.”
+
+“So turning a democracy into an autocracy is a skill.”
+
+“Very much so—it should have its own Olympic event.”
 
 The group briefly chatted about how turning democracies into autocracies might be made a competitive sport—and thought it might have some difficulties. There was almost sadness for autocrats never getting the chance to be recognized for their anti-democratic craft.
 
@@ -1363,65 +1363,65 @@ But then the person with the pile of books said, “Getting total power is only 
 
 The person with the pile waved another book: _The Strongman Bible_. It had a sticker reading “Translated into 27 Languages.”
 
-> “This has the lowdown.”
->
-> “So I’ve got myself a nice little autocracy—what do I do?”
+“This has the lowdown.”
+
+“So I’ve got myself a nice little autocracy—what do I do?”
 
 #### Devil’s Inverted Golden Rule
 
-> “It’s almost religious. You have to think, breathe, and dream the Devil’s Inverted Golden Rule.”
->
-> “What’s that—a new ethical principle?”
->
-> “No, the unholy dictum: ‘_Do unto others what they cannot do back unto you_.”
->
-> “Am I mishearing you? I thought it was ‘Do unto others as you would have them do unto you.’”
->
-> “Don’t be naive. Autocrats aren’t in the saint’s business. They’re in the survival one. The rule goes back half a billion years.”
->
-> “You’re kidding. Autocrats in the Cambrian?”
->
-> “Very much so. The logic of autocracy is the logic of life itself when it started to see other life as a meal to stomach.”
->
-> “Spell it out. You’re saying something very weird.”
->
-> “Survival is about asymmetry of causation—and spotting it. Think about predators. They have a problem. They need to catch dinner, but dinner doesn’t like that, so their next meal does everything it can to stay off their plate. So predators don’t see prey as just food; they see that food as having options—escape routes, hiding places, and ways to fight back. A successful predator has to know those options and work out how to block them.”
->
-> “I see—so prey, I guess, does the reverse: it spots the options the predator can’t frustrate in an attempt to stay off the menu.”
->
-> “Precisely. Autocrats have to think like predators. What options do my opponents have? What can I do to them that they can’t do back to me, so I keep my control?”
+“It’s almost religious. You have to think, breathe, and dream the Devil’s Inverted Golden Rule.”
+
+“What’s that—a new ethical principle?”
+
+“No, the unholy dictum: ‘_Do unto others what they cannot do back unto you_.”
+
+“Am I mishearing you? I thought it was ‘Do unto others as you would have them do unto you.’”
+
+“Don’t be naive. Autocrats aren’t in the saint’s business. They’re in the survival one. The rule goes back half a billion years.”
+
+“You’re kidding. Autocrats in the Cambrian?”
+
+“Very much so. The logic of autocracy is the logic of life itself when it started to see other life as a meal to stomach.”
+
+“Spell it out. You’re saying something very weird.”
+
+“Survival is about asymmetry of causation—and spotting it. Think about predators. They have a problem. They need to catch dinner, but dinner doesn’t like that, so their next meal does everything it can to stay off their plate. So predators don’t see prey as just food; they see that food as having options—escape routes, hiding places, and ways to fight back. A successful predator has to know those options and work out how to block them.”
+
+“I see—so prey, I guess, does the reverse: it spots the options the predator can’t frustrate in an attempt to stay off the menu.”
+
+“Precisely. Autocrats have to think like predators. What options do my opponents have? What can I do to them that they can’t do back to me, so I keep my control?”
 
 A new person looked up. “It’s a thick book. Any more?”
 
-> “Tons. Autocrats face the problem that the people they control look for workarounds, to get free—ways out from under their power. Being a tyrant is no easy career. If you’re a strongman, you have to stay awake at night—you’ve got to be ever vigilant.”
->
-> “Why vigilant?”
->
-> “To nip problems in the bud before they grow and can undermine your control.”
->
-> “So autocracy is whack-a-mole.”
->
-> “Right. That’s the very word the book uses. It warns would-be autocrats that they’re taking on an exhausting labor. Fortunately it offers lots of suggestions to make staying in control easier—”
->
-> “Bribery.”
->
-> “There’s much more than crude bribery. Get people in your debt by cutting tax inspectors. Watch how many of them then prefer their books stay unaudited with you in power. You haven’t paid them a cent, and they’re guarding your back.”
->
-> “And the lost revenue?”
->
-> “A loan, like all the others. They owe you. You collect later—in favors, in silence, in votes.”
+“Tons. Autocrats face the problem that the people they control look for workarounds, to get free—ways out from under their power. Being a tyrant is no easy career. If you’re a strongman, you have to stay awake at night—you’ve got to be ever vigilant.”
+
+“Why vigilant?”
+
+“To nip problems in the bud before they grow and can undermine your control.”
+
+“So autocracy is whack-a-mole.”
+
+“Right. That’s the very word the book uses. It warns would-be autocrats that they’re taking on an exhausting labor. Fortunately it offers lots of suggestions to make staying in control easier—”
+
+“Bribery.”
+
+“There’s much more than crude bribery. Get people in your debt by cutting tax inspectors. Watch how many of them then prefer their books stay unaudited with you in power. You haven’t paid them a cent, and they’re guarding your back.”
+
+“And the lost revenue?”
+
+“A loan, like all the others. They owe you. You collect later—in favors, in silence, in votes.”
 
 #### Crippling the Language
 
-> “But that’s minor. The key, above all, is stopping opponents from working together. To do that you need to paralyze language. An autocrat who doesn’t is just tempting fate to be deposed.”
->
-> “Why?”
->
-> “If people can’t name what’s happening, they can’t coordinate against it.”
->
-> “How do you do that? Autocrats can’t control what people say.”
->
-> “But they can turn public words into weasel ones.”
+“But that’s minor. The key, above all, is stopping opponents from working together. To do that you need to paralyze language. An autocrat who doesn’t is just tempting fate to be deposed.”
+
+“Why?”
+
+“If people can’t name what’s happening, they can’t coordinate against it.”
+
+“How do you do that? Autocrats can’t control what people say.”
+
+“But they can turn public words into weasel ones.”
 
 Someone shouted _Yes Minister_. Blank faces.
 
@@ -1437,43 +1437,43 @@ His minister, getting in on it:
 
 Then they all went round, making their own in funny British accents.
 
-> “I am prudent. You are frugal. She is a miser.”
->
-> “I am eloquent. You are talkative. He is a chatterbox.”
->
-> “I am cautious. You are hesitant. They are cowardly.”
->
-> “I am methodical. You are fussy. He is obsessive.”
->
-> “I am self-assured. You are overconfident. She is arrogant.”
->
-> “There you are. You can see the debasement.”
+“I am prudent. You are frugal. She is a miser.”
+
+“I am eloquent. You are talkative. He is a chatterbox.”
+
+“I am cautious. You are hesitant. They are cowardly.”
+
+“I am methodical. You are fussy. He is obsessive.”
+
+“I am self-assured. You are overconfident. She is arrogant.”
+
+“There you are. You can see the debasement.”
 
 One of them laughed. “I am providing continuity. You are clinging on. They have changed the locks.”
 
 “The same regulation is a safeguard when it protects the rule-makers and red tape when it protects anyone else.
 
-> “Language is the first casualty of autocracy.”
+“Language is the first casualty of autocracy.”
 
 A pause.
 
-> “There’s another move. Timur Kuran wrote about it in his book, _Private Truths, Public Lies_. People can’t coordinate against power if each one thinks they are alone. So the successful autocrat makes sure every word spoken in public differs from that said in a person’s own head. Privately they think the king is mad; publicly they cry long live the king. Each assumes the others mean it. QED they do not coordinate.”
->
-> “Ah, the Emperor’s new clothes.”
->
-> “Exactly. Autocracy is a Met Gala where attendees get praised or denounced on social media — with no one commenting that they are all in the buff.”
->
-> “And one more trick according to _The Authoritarian Cookbook_. Pronoun shifting. Make subjects identify with the ruler. They say ‘we’ and mean ‘I’—the royal ‘we.’ ‘We’ did this. ‘Our nation’ acts. The royal ‘we’ turns subjects into an extension of the ruler’s person. Or do the opposite—split them off. Pronouns sort the loyal from the disloyal. And he puts his own name onto everything.”
->
-> “What, like how the dictator Rafael Trujillo renamed the highest peak in the Caribbean ‘Pico Trujillo’ and the capital of the Dominican Republic ‘Ciudad Trujillo’?”
->
-> “Do not forget Papa Doc, next door—he went further. He declared he was Haiti, the Haitian flag, an immaterial being; the Lord’s Prayer began, ‘Our Doc, who art in the National Palace.’”
->
-> “Yes, they all shrink the plural to themselves and then make those they control an extension of themselves—the autocrat’s name binds everyone to them.”
+“There’s another move. Timur Kuran wrote about it in his book, _Private Truths, Public Lies_. People can’t coordinate against power if each one thinks they are alone. So the successful autocrat makes sure every word spoken in public differs from that said in a person’s own head. Privately they think the king is mad; publicly they cry long live the king. Each assumes the others mean it. QED they do not coordinate.”
+
+“Ah, the Emperor’s new clothes.”
+
+“Exactly. Autocracy is a Met Gala where attendees get praised or denounced on social media — with no one commenting that they are all in the buff.”
+
+“And one more trick according to _The Authoritarian Cookbook_. Pronoun shifting. Make subjects identify with the ruler. They say ‘we’ and mean ‘I’—the royal ‘we.’ ‘We’ did this. ‘Our nation’ acts. The royal ‘we’ turns subjects into an extension of the ruler’s person. Or do the opposite—split them off. Pronouns sort the loyal from the disloyal. And he puts his own name onto everything.”
+
+“What, like how the dictator Rafael Trujillo renamed the highest peak in the Caribbean ‘Pico Trujillo’ and the capital of the Dominican Republic ‘Ciudad Trujillo’?”
+
+“Do not forget Papa Doc, next door—he went further. He declared he was Haiti, the Haitian flag, an immaterial being; the Lord’s Prayer began, ‘Our Doc, who art in the National Palace.’”
+
+“Yes, they all shrink the plural to themselves and then make those they control an extension of themselves—the autocrat’s name binds everyone to them.”
 
 Someone asked, “Is there a way out?”
 
-> “Every culture at least initially tries engineering against takeover.”
+“Every culture at least initially tries engineering against takeover.”
 
 ### Engineering Against the Loan
 
@@ -1565,25 +1565,25 @@ A biology student waved their hands to get a word in. “The loan trap is older 
 
 “What is the biology here?
 
-> “When single-celled organisms joined into multicellular bodies, each cell handed over the right to divide. In return, the organism replicated its DNA through gamete reproduction. Cells lend autonomy; the body returns hereditary continuity.”
->
-> “No autocrats there?”
->
-> “But DNA mutates, and now and then a mutation lets a cell thrive at the body’s expense.”
->
-> “So biological autocracy exists and it is what we call cancer?”
->
-> “Yes, and evolution selected bioengineering to stop that takeover—it gave each cell a ‘guardian of the genome.’”
->
-> “What, each of those cells has elections. Don’t be absurd.”
+“When single-celled organisms joined into multicellular bodies, each cell handed over the right to divide. In return, the organism replicated its DNA through gamete reproduction. Cells lend autonomy; the body returns hereditary continuity.”
+
+“No autocrats there?”
+
+“But DNA mutates, and now and then a mutation lets a cell thrive at the body’s expense.”
+
+“So biological autocracy exists and it is what we call cancer?”
+
+“Yes, and evolution selected bioengineering to stop that takeover—it gave each cell a ‘guardian of the genome.’”
+
+“What, each of those cells has elections. Don’t be absurd.”
 
 “No but they have a specialist protein called p53. It counteracts mutation.
 
 p53 tries to stop the damage before it occurs. For example, if UV risks damaging your skin cells’ DNA? p53 triggers your skin to tan to block UV. If mutations occur? p53 detects that and sends in the DNA repair crews. If the damage is too much to mend? p53 locks the cell down—alive but unable to divide, in what biologists call senescence. And if that fails? p53 presses the cell’s self-dismantle button: apoptosis.”
 
-> “Why do we get cancer then?”
->
-> “Because p53 can fail. Mutations can even knock p53 out so it flips into a turncoat that aids what it evolved to stop.”
+“Why do we get cancer then?”
+
+“Because p53 can fail. Mutations can even knock p53 out so it flips into a turncoat that aids what it evolved to stop.”
 
 ## Act 5: Kayfabocracy: A Wee Short Introduction
 
@@ -1595,73 +1595,73 @@ Last orders were about to be called.
 
 The one who had sat saying nothing now spoke.
 
-> “_The Strongman Bible_—that pile of books. They’re all out of date.”
+“_The Strongman Bible_—that pile of books. They’re all out of date.”
 
 A new book was put on the table: _Kayfabocracy: A Wee Short Introduction_. [13] “It’s just out. I bought it before coming here.”
 
-> “I did not know that ‘Wee Short Introductions’ had a new title.”
->
-> “It has and it changed how I think about autocracy. I suggest you buy it—it won’t be in the library yet.”
->
-> “Why?”
->
-> “What?”
->
-> “Getting elected has never been easier for an autocrat. And one reason is that those defending democracies are blind to democracy’s legitimacy plumbing. They cannot see how, when it fails, it creates the opportunity for would-be autocrats.”
->
-> “Don’t talk rot. Never has there been a time when so many departments of political science have James Webb Space Telescopes on what might threaten democracies. They are not blind.”
->
-> “But according to this Wee Short Introduction, they are. Everyone can see autocrats and their rise. But not the red carpet rolled out for them to walk on. Political scientists look through their James Webb Space Telescopes but not the legitimacy that has died under their very feet.”
+“I did not know that ‘Wee Short Introductions’ had a new title.”
+
+“It has and it changed how I think about autocracy. I suggest you buy it—it won’t be in the library yet.”
+
+“Why?”
+
+“What?”
+
+“Getting elected has never been easier for an autocrat. And one reason is that those defending democracies are blind to democracy’s legitimacy plumbing. They cannot see how, when it fails, it creates the opportunity for would-be autocrats.”
+
+“Don’t talk rot. Never has there been a time when so many departments of political science have James Webb Space Telescopes on what might threaten democracies. They are not blind.”
+
+“But according to this Wee Short Introduction, they are. Everyone can see autocrats and their rise. But not the red carpet rolled out for them to walk on. Political scientists look through their James Webb Space Telescopes but not the legitimacy that has died under their very feet.”
 
 #### Does He Take Sugar
 
 The person who brought the book opened it at a chapter titled “Does He Take Sugar?”
 
-> “Look, here it explains how modern democracy creates what lets autocrats get elected. This chapter details the first stage, the ‘Does he take sugar?’ one.”
->
-> “Wasn’t that a phrase used by disability campaigners, and an old BBC radio program?”
->
-> “Correct. The phrase describes how well-meant sincerity can be demeaning.”
->
-> “ Demeaning how?”
->
-> “A disabled person sits in a room. Someone asks how they like their tea. But instead of asking them, they ask their carer. ‘Does he take sugar?’ They sincerely want to help the disabled person—the phrase catches that—but in doing so they deny what every human person needs—respect. The person is present, but they get treated as if they do not exist.”
->
-> “Oh, so it’s back to the common room discussion about the autonomy of adults.”
->
-> “Indeed, to be a human adult is not to be a child. And that needs us to be recognized as capable of responsible judgment and decision. Not in some vague way but actively incorporated into decisions that affect us. Here it is not about asking whether or not you like sugar in your tea.”
->
-> “I get it. It’s about making them party to what happens to them.”
->
-> “So ‘does he take sugar’ is about how even sincere people can insult citizens’ agency.”
->
-> “It is more than that. It happens even if it is in their own interest. The carer may actually know what the disabled person likes better than they do.”
->
-> “How?”
->
-> “They might have observed them in the past, and the disabled person may not understand the choices being given to them. Such understanding, however, well-intentioned, still robs the disabled person.”
->
-> “I agree. The default always should be that someone knows better about themselves than someone else does. They have skin in the game—it is, after all, their pleasure and suffering. No one, however sincere, lives that.”
+“Look, here it explains how modern democracy creates what lets autocrats get elected. This chapter details the first stage, the ‘Does he take sugar?’ one.”
+
+“Wasn’t that a phrase used by disability campaigners, and an old BBC radio program?”
+
+“Correct. The phrase describes how well-meant sincerity can be demeaning.”
+
+“ Demeaning how?”
+
+“A disabled person sits in a room. Someone asks how they like their tea. But instead of asking them, they ask their carer. ‘Does he take sugar?’ They sincerely want to help the disabled person—the phrase catches that—but in doing so they deny what every human person needs—respect. The person is present, but they get treated as if they do not exist.”
+
+“Oh, so it’s back to the common room discussion about the autonomy of adults.”
+
+“Indeed, to be a human adult is not to be a child. And that needs us to be recognized as capable of responsible judgment and decision. Not in some vague way but actively incorporated into decisions that affect us. Here it is not about asking whether or not you like sugar in your tea.”
+
+“I get it. It’s about making them party to what happens to them.”
+
+“So ‘does he take sugar’ is about how even sincere people can insult citizens’ agency.”
+
+“It is more than that. It happens even if it is in their own interest. The carer may actually know what the disabled person likes better than they do.”
+
+“How?”
+
+“They might have observed them in the past, and the disabled person may not understand the choices being given to them. Such understanding, however, well-intentioned, still robs the disabled person.”
+
+“I agree. The default always should be that someone knows better about themselves than someone else does. They have skin in the game—it is, after all, their pleasure and suffering. No one, however sincere, lives that.”
 
 #### The Adult Default
 
 The person with the book moved on a few pages.
 
-> “Respect for adults is two-sided. It is not just that we all want our capacity for judgment and decision-making respected. The external world is built on it.”
->
-> “What? Are you thinking of our laws?”
->
-> “Yes, contract law takes it that two parties are able to make judgments and decisions about bargains they enter and will be responsible to honor their commitments. Tort law treats people as responsible for understanding how their decisions might or might not harm others. The legal default is that adults are capable of judging and acting as responsible adults. Circumstances of diminished responsibility, it recognizes, may exist—but if so, they need first to be proved.”
+“Respect for adults is two-sided. It is not just that we all want our capacity for judgment and decision-making respected. The external world is built on it.”
+
+“What? Are you thinking of our laws?”
+
+“Yes, contract law takes it that two parties are able to make judgments and decisions about bargains they enter and will be responsible to honor their commitments. Tort law treats people as responsible for understanding how their decisions might or might not harm others. The legal default is that adults are capable of judging and acting as responsible adults. Circumstances of diminished responsibility, it recognizes, may exist—but if so, they need first to be proved.”
 
 “So the law parallels on the outside, our inside need to be respected as adults. We want to be recognized as having agency about what happens to us. And the law says, ‘You can think and decide—and the default is that you have the agency to do them responsibly.’“
 
-> “The book observes that the jury system also is built on this respect. Any random adult, after swearing an oath, is presumed, unless shown otherwise, to be able to hear two sides of argument made in court and make a responsible judgment.”
->
-> “That is real respect. Jurors’ verdicts can result in a person going to prison, paying a big fine—or going free, and if the freed person had in fact done it, walking, able to repeat their crime.”
->
-> “Yes, modern society is built on respecting adults as adults—the law, the courts. But that respect no longer exists for citizens in modern democracies.”
->
-> “RUBBISH.”
+“The book observes that the jury system also is built on this respect. Any random adult, after swearing an oath, is presumed, unless shown otherwise, to be able to hear two sides of argument made in court and make a responsible judgment.”
+
+“That is real respect. Jurors’ verdicts can result in a person going to prison, paying a big fine—or going free, and if the freed person had in fact done it, walking, able to repeat their crime.”
+
+“Yes, modern society is built on respecting adults as adults—the law, the courts. But that respect no longer exists for citizens in modern democracies.”
+
+“RUBBISH.”
 
 #### Does He Take Sugar? Again
 
@@ -1671,61 +1671,61 @@ It started with a question: “What would it be like for a polity that called it
 
 “That’s not novel,” someone objected. “If that happens it would not be a democracy but an oligarchy or an autocracy—rule by a few in the first, rule by one over the rest in the second.”
 
-> “The novelty of the kayfabocracy book is that it suggests it can happen inside a democracy if the majority feels it is being ‘ruled’ by a minority.”
->
-> “That’s nonsense. In a democracy, citizens have the vote. It’s about people power—the opposite of oligarchy and autocracy. Citizens elect representatives. That stops there being internal colonization. To imply otherwise is bunk.”
->
-> “But suppose the citizens in a democracy felt they were living inside one giant ‘does he take sugar.’ That their vote gave them no agency.”
->
-> “That is impossible. No one votes for them. They have real agency at the ballot box—no one there grabs hold of their hands forcing a particular vote. There is no ‘does he take sugar. Elections are the way democracies show respect to their citizens.”
->
-> “But agency depends on choice being informative.”
->
-> “What do you mean?”
->
-> “Suppose I offer you a cube of sugar for your tea, or a teaspoon of it. Two options. Both sugar. Tweedledum and Tweedledee.”
->
-> “But candidates in elections are very different. Voters have a real choice.”
->
-> “Different. Not always a choice. The disabled person may not want sugar. They may want honey. Or Earl Grey. Or a black coffee. Agency is not about picking between any two options. It is about exercising choice on the ones you want.”
->
-> “Standard political theory. Electors cannot have all the choices they want. The world is messy. Some options contradict each other. You cannot have low taxes and high spending. Budgetary arithmetic stops it.”
->
-> “People know that. That is why modern democracy runs through representatives. You elect someone to make the trade-offs. The book says the missing agency lies elsewhere.”
->
-> “Are you talking about gerrymandering, where voters go to the polls knowing the result has been pre-decided by redistricting? The terms swing states and marginal constituencies admit not every vote counts equally?”
+“The novelty of the kayfabocracy book is that it suggests it can happen inside a democracy if the majority feels it is being ‘ruled’ by a minority.”
+
+“That’s nonsense. In a democracy, citizens have the vote. It’s about people power—the opposite of oligarchy and autocracy. Citizens elect representatives. That stops there being internal colonization. To imply otherwise is bunk.”
+
+“But suppose the citizens in a democracy felt they were living inside one giant ‘does he take sugar.’ That their vote gave them no agency.”
+
+“That is impossible. No one votes for them. They have real agency at the ballot box—no one there grabs hold of their hands forcing a particular vote. There is no ‘does he take sugar. Elections are the way democracies show respect to their citizens.”
+
+“But agency depends on choice being informative.”
+
+“What do you mean?”
+
+“Suppose I offer you a cube of sugar for your tea, or a teaspoon of it. Two options. Both sugar. Tweedledum and Tweedledee.”
+
+“But candidates in elections are very different. Voters have a real choice.”
+
+“Different. Not always a choice. The disabled person may not want sugar. They may want honey. Or Earl Grey. Or a black coffee. Agency is not about picking between any two options. It is about exercising choice on the ones you want.”
+
+“Standard political theory. Electors cannot have all the choices they want. The world is messy. Some options contradict each other. You cannot have low taxes and high spending. Budgetary arithmetic stops it.”
+
+“People know that. That is why modern democracy runs through representatives. You elect someone to make the trade-offs. The book says the missing agency lies elsewhere.”
+
+“Are you talking about gerrymandering, where voters go to the polls knowing the result has been pre-decided by redistricting? The terms swing states and marginal constituencies admit not every vote counts equally?”
 
 Another added “Or where activists in primaries put candidates on the ballot most voters do not agree with but have no choice but to vote for or against?”
 
-> “Partly. You are less likely to feel democracy is legitimate if you vote knowing it changes nothing. Or knowing other voters elsewhere, not you, will decide. Or that the choice available is not the one you would like. But that is not what turns a democracy into a kayfabocracy.”
->
-> “Then what does?”
->
-> “Think of it this way. Politics deals you a hand.”
->
-> “A hand of cards?”
->
-> “One party offers you one hand. Low taxes, small state, tight borders, hard policing, minimal welfare. The other party offers you a different one. High taxes, big state, open borders, soft policing, generous welfare. You take this hand or that hand. You cannot ask for one card from each.”
->
-> “That is just budgetary arithmetic.”
->
-> “Some of it is . Coalition arithmetic packs some cards. Party machinery packs others. The result is that you get offered two hands. Take one or the other. No swaps between them.”
->
-> “And if neither hand has what you wanted?”
->
-> “You choose the least bad and do not feel democracy is legitimate.”
->
-> “So that is kayfabocracy.”
->
-> “No. It is only the first trouble. The second is decisive. Voters look around—at other tables, where other citizens play the same game. They watch them. And they seem to keep getting better cards. The dealer appears to be slipping them aces. You as a citizen in a democracy begin to wonder whether your democracy is honest.”
->
-> “You think the dealer is bent.”
->
-> “You may be right. You may be wrong. Correctness is not what matters here. What does is how it looks. From your table, does it appear that the dealer is giving aces at one table and twos to yours?”
->
-> “So the question is no longer the hand.”
->
-> “No. The question is the dealer. Who chose the deck? Who shuffles? Who deals which cards to which table? The cube and the teaspoon still sit in front of you. But now you are asking who put them there—who left the honey, the Earl Grey, the coffee off the menu—and who is being served what you cannot order.”
+“Partly. You are less likely to feel democracy is legitimate if you vote knowing it changes nothing. Or knowing other voters elsewhere, not you, will decide. Or that the choice available is not the one you would like. But that is not what turns a democracy into a kayfabocracy.”
+
+“Then what does?”
+
+“Think of it this way. Politics deals you a hand.”
+
+“A hand of cards?”
+
+“One party offers you one hand. Low taxes, small state, tight borders, hard policing, minimal welfare. The other party offers you a different one. High taxes, big state, open borders, soft policing, generous welfare. You take this hand or that hand. You cannot ask for one card from each.”
+
+“That is just budgetary arithmetic.”
+
+“Some of it is . Coalition arithmetic packs some cards. Party machinery packs others. The result is that you get offered two hands. Take one or the other. No swaps between them.”
+
+“And if neither hand has what you wanted?”
+
+“You choose the least bad and do not feel democracy is legitimate.”
+
+“So that is kayfabocracy.”
+
+“No. It is only the first trouble. The second is decisive. Voters look around—at other tables, where other citizens play the same game. They watch them. And they seem to keep getting better cards. The dealer appears to be slipping them aces. You as a citizen in a democracy begin to wonder whether your democracy is honest.”
+
+“You think the dealer is bent.”
+
+“You may be right. You may be wrong. Correctness is not what matters here. What does is how it looks. From your table, does it appear that the dealer is giving aces at one table and twos to yours?”
+
+“So the question is no longer the hand.”
+
+“No. The question is the dealer. Who chose the deck? Who shuffles? Who deals which cards to which table? The cube and the teaspoon still sit in front of you. But now you are asking who put them there—who left the honey, the Earl Grey, the coffee off the menu—and who is being served what you cannot order.”
 
 #### The Kayfabocracy
 
@@ -1742,288 +1742,288 @@ The book was held up. Some definitions were read out.
 >  [^3] **The democratic paradox.** The dealer and their friends cry ‘foul.’ The entrepreneur is a cheat. They are right, the entrepreneur does want to take over democracy. But every such cry seems to come from the establishment dealing the hands and so provides proof that supports the entrepreneur.
 >
 >  [^4] **The democratic tragedy.** The problem is not the entrepreneur but the legitimacy gap they exploit. But while everyone fights the would-be autocrat they fail to fix the plumbing of democratic legitimacy that would take the wind out of the entrepreneur’s electoral sails.
->
-> “So kayfabocracy is about optics that end up killing democracy’s legitimacy in the eyes of voters. The disconnect may be real or imagined. But if voters experience that legitimacy has stopped circulating between them and their government—that creates an opening for entrepreneurs to offer to fix it.”
->
-> “Yes, and the book points out the irony is that no one looks at the plumbing.”
->
-> “That is it in a nutshell.”
->
-> “But why kayfabocracy?”
+
+“So kayfabocracy is about optics that end up killing democracy’s legitimacy in the eyes of voters. The disconnect may be real or imagined. But if voters experience that legitimacy has stopped circulating between them and their government—that creates an opening for entrepreneurs to offer to fix it.”
+
+“Yes, and the book points out the irony is that no one looks at the plumbing.”
+
+“That is it in a nutshell.”
+
+“But why kayfabocracy?”
 
 #### The Entrepreneur Sandblaster
 
-> “Have you ever watched professional wrestling?”
->
-> “No—but my mum does.”
->
-> “Wrestling used to be a real sport. Two fighters, a real struggle, one winner. But promoters found they drew bigger crowds when the matches were scripted, with storylines. At first, they kept the scripting secret. Then it leaked.”
->
-> “And the fans walked away.”
->
-> “They did not mind.”
->
-> “But surely it insulted them—they are being conned with made-up stuff?”
->
-> “The opposite happened. The fans got a kind of ironic self-respect from being in on the secret. The joke was not on them but on outsiders who still took the bouts to be real ones.”
->
-> “So kayfabocracy arises when this experience happens to politics?”
->
-> “That is the link. But politics differs. Elections are consequential. The stakes do not change. What changes is how they are experienced. Voters no longer feel the vote connects them to their government—that the legitimacy link has been scripted. That is an opportunity. An entrepreneur comes along.”
->
-> “To do what?”
->
-> “To canvass: ‘You know this is fake. I know this is fake. Let’s stop pretending.’ The entrepreneur runs as a sandblaster against the establishment dealing out the cards and scripting it as done honestly in its norms of civility, process, deference to expertise.”
->
-> “Ah, so they say elections are scripted nonsense.”
->
-> “No! They honor democracy in words. The ring stays. The crowd stays. What gets questioned is what happens inside the ring. The entrepreneur says it is kayfabe. And let’s have fun pulling the pretense. Stop the joke being on you. Let’s make it on the establishment that thought you couldn’t see them stacking the odds. Vote for me and you can respect yourself again.”
->
-> “So the entrepreneur turns democratic legitimacy against itself.”
->
-> “And here is the paradox. The defenders of democratic institutions cry out that the entrepreneur is a threat to democracy. But every cry confirms what the entrepreneur says—the establishment is running a con on them. Look, they are protesting to keep that trick on you going. Ironically, every cry of ‘autocrat’ just gets heard as proof.”
->
-> “ Voters feel, finally—someone who is not performing. If the foxes running the henhouse are squawking, the entrepreneur must be getting at the truth.”
+“Have you ever watched professional wrestling?”
+
+“No—but my mum does.”
+
+“Wrestling used to be a real sport. Two fighters, a real struggle, one winner. But promoters found they drew bigger crowds when the matches were scripted, with storylines. At first, they kept the scripting secret. Then it leaked.”
+
+“And the fans walked away.”
+
+“They did not mind.”
+
+“But surely it insulted them—they are being conned with made-up stuff?”
+
+“The opposite happened. The fans got a kind of ironic self-respect from being in on the secret. The joke was not on them but on outsiders who still took the bouts to be real ones.”
+
+“So kayfabocracy arises when this experience happens to politics?”
+
+“That is the link. But politics differs. Elections are consequential. The stakes do not change. What changes is how they are experienced. Voters no longer feel the vote connects them to their government—that the legitimacy link has been scripted. That is an opportunity. An entrepreneur comes along.”
+
+“To do what?”
+
+“To canvass: ‘You know this is fake. I know this is fake. Let’s stop pretending.’ The entrepreneur runs as a sandblaster against the establishment dealing out the cards and scripting it as done honestly in its norms of civility, process, deference to expertise.”
+
+“Ah, so they say elections are scripted nonsense.”
+
+“No! They honor democracy in words. The ring stays. The crowd stays. What gets questioned is what happens inside the ring. The entrepreneur says it is kayfabe. And let’s have fun pulling the pretense. Stop the joke being on you. Let’s make it on the establishment that thought you couldn’t see them stacking the odds. Vote for me and you can respect yourself again.”
+
+“So the entrepreneur turns democratic legitimacy against itself.”
+
+“And here is the paradox. The defenders of democratic institutions cry out that the entrepreneur is a threat to democracy. But every cry confirms what the entrepreneur says—the establishment is running a con on them. Look, they are protesting to keep that trick on you going. Ironically, every cry of ‘autocrat’ just gets heard as proof.”
+
+“ Voters feel, finally—someone who is not performing. If the foxes running the henhouse are squawking, the entrepreneur must be getting at the truth.”
 
 #### Voters are not idiots
 
-> “But those defending democratic institutions are right. An entrepreneur that sandblasts the norms of civility, honesty, and good manners is a threat, and once in office will demolish every restraint that stands in their way.”
->
-> “It is almost baked in that this will happen.”
->
-> “Not necessarily—democratic institutions may still hold—democracy is a tough old bird where it has been established for hundreds of years. But it will still be touch and go.”
->
-> “But the entrepreneur promises reform by sandblasting the establishment?”
->
-> “All they do is change the locks while saying they are making new ones. The sandblaster replaces the establishment with whatever they want as the new owners.”
->
-> “That’s awful. Did not Churchill warn that ‘Democracy is the worst form of Government except for all those other forms that have been tried from time to time.’?”
->
-> “So kayfabocracy is standard autocratic takeover by a new route. Once the entrepreneur gains office, democratic institutions get sandblasted out into Potemkin facades. Elections still get held but the result is foregone. Everything pretty much described in _Autocracy for Dummies_ and the other books.”
+“But those defending democratic institutions are right. An entrepreneur that sandblasts the norms of civility, honesty, and good manners is a threat, and once in office will demolish every restraint that stands in their way.”
+
+“It is almost baked in that this will happen.”
+
+“Not necessarily—democratic institutions may still hold—democracy is a tough old bird where it has been established for hundreds of years. But it will still be touch and go.”
+
+“But the entrepreneur promises reform by sandblasting the establishment?”
+
+“All they do is change the locks while saying they are making new ones. The sandblaster replaces the establishment with whatever they want as the new owners.”
+
+“That’s awful. Did not Churchill warn that ‘Democracy is the worst form of Government except for all those other forms that have been tried from time to time.’?”
+
+“So kayfabocracy is standard autocratic takeover by a new route. Once the entrepreneur gains office, democratic institutions get sandblasted out into Potemkin facades. Elections still get held but the result is foregone. Everything pretty much described in _Autocracy for Dummies_ and the other books.”
 
 #### Voters and optics
 
-> “So those voting for them are idiots.”
->
-> “They are anything but. They are sensible citizens who judge and decide at the polling stations in a mature and responsible way.”
->
-> “How can you say that?”
->
-> “The entrepreneur is an entrepreneur—they spotted an opening. They responded to something real. You may judge they made the wrong voting decision. But they would reply: what is the alternative?”
->
-> “You’ve gone crazy. Nothing is worse than an autocrat.”
->
-> “What if you think democracy is already against you—and here is the one candidate offering a fix?”
->
-> “I do not understand.”
->
-> “Let me argue what I do not necessarily agree with. This is not about making verdicts—but showing how people may reasonably come to feel that government done in their name is done against them. Consider 2008.”
->
-> “The year Lehman Brothers went bankrupt.”
->
-> “Congress bailed out American banks with $700 billion of taxpayers’ money. Many executives at the rescued institutions drew large bonuses from those bailout funds. Iceland jailed its bankers. America jailed its bankers after earlier banking crashes. After 2008, not one.”
->
-> “That was wrong.”
->
-> “Not necessarily. A rational government may have had no other option. I am not judging.”
->
-> “Then what are you saying?”
->
-> “How does that look to the get-out-of-bed American who earns just enough to get by? Nearly half of Americans have a family member who has done time. No one should break the law. But ordinary people know that those like them, especially when young, make mistakes. In some states, stealing goods worth $200 can put you in a cell. In others, possession of less than 10 grams of cocaine might get you 18 months—five years for more. What do such people see? One table got dealt $700 billion and a clean slate. Their table got dealt 18 months for 10 grams of cocaine.”
->
-> “That was outrageous.”
->
-> “Not necessarily. Keep on the optics. The bailout may have been needed. No crimes may have been committed. But the hands, even if they are not, have the appearance of being uneven.”
->
-> “There are others.”
->
-> “Such as?”
->
-> “Trade agreements like NAFTA and China’s entry into the WTO. Consider what Larry Summers said to Congress.”
+“So those voting for them are idiots.”
+
+“They are anything but. They are sensible citizens who judge and decide at the polling stations in a mature and responsible way.”
+
+“How can you say that?”
+
+“The entrepreneur is an entrepreneur—they spotted an opening. They responded to something real. You may judge they made the wrong voting decision. But they would reply: what is the alternative?”
+
+“You’ve gone crazy. Nothing is worse than an autocrat.”
+
+“What if you think democracy is already against you—and here is the one candidate offering a fix?”
+
+“I do not understand.”
+
+“Let me argue what I do not necessarily agree with. This is not about making verdicts—but showing how people may reasonably come to feel that government done in their name is done against them. Consider 2008.”
+
+“The year Lehman Brothers went bankrupt.”
+
+“Congress bailed out American banks with $700 billion of taxpayers’ money. Many executives at the rescued institutions drew large bonuses from those bailout funds. Iceland jailed its bankers. America jailed its bankers after earlier banking crashes. After 2008, not one.”
+
+“That was wrong.”
+
+“Not necessarily. A rational government may have had no other option. I am not judging.”
+
+“Then what are you saying?”
+
+“How does that look to the get-out-of-bed American who earns just enough to get by? Nearly half of Americans have a family member who has done time. No one should break the law. But ordinary people know that those like them, especially when young, make mistakes. In some states, stealing goods worth $200 can put you in a cell. In others, possession of less than 10 grams of cocaine might get you 18 months—five years for more. What do such people see? One table got dealt $700 billion and a clean slate. Their table got dealt 18 months for 10 grams of cocaine.”
+
+“That was outrageous.”
+
+“Not necessarily. Keep on the optics. The bailout may have been needed. No crimes may have been committed. But the hands, even if they are not, have the appearance of being uneven.”
+
+“There are others.”
+
+“Such as?”
+
+“Trade agreements like NAFTA and China’s entry into the WTO. Consider what Larry Summers said to Congress.”
 
 The book was opened again and the following read out.
 
 > It has sometimes been remarked that asking five economists a question will generate ten different answers. On this issue there has been only one answer: that welcoming China into the global economic system is right for the American economy
->
-> “Larry Summers—was he not the Harvard President who was buddies with Jeffrey Epstein from 1998 to 2019? He even asked Epstein, a day before his arrest, how to pursue a sexual relationship with a woman he described as a ‘mentee.’”
->
-> “That is so. But be careful. Summers’ toxic relationship with Epstein does not mean he was wrong about open trade agreements.”
->
-> “But he was wrong—the evidence is all the factories that closed, and the jobs gone.”
->
-> “Not so. It may be that without the trade agreements, America would have been much poorer. The issue is not whether he was right or wrong—it is what it looks like outside Wall Street and in economics departments, on Main Street and in the gig work economy. People can see someone unlike them arguing for free trade, and then the factories where they and their friends and relatives once had good-paying jobs, gone. Same deck. But Wall Street’s hand gets aces, while factory towns get shutdown signs.”
->
-> “So it is like the politicians who broke COVID restrictions and partied. Factually, they might have been within the lockdown rules and so done nothing wrong. But explain that to mourners banned from attending the funerals of their loved ones.”
->
-> “Absolutely. Same deck. The politicians got the party hand. The mourners got the locked door.”
->
-> “Absolutely.”
->
-> “Or with immigrants. CEOs get bonuses and Wall Street profits from them as cheaper labor. And the rich benefit from paying less for nannies and cleaners. But it is also possible that immigration also leaves everyone better off. But that gain is not visible.”
->
-> “So what ordinary people see—or think they see—is immigrants competing with them for jobs.”
->
-> “The positive reality may be hidden—it might be that immigrants take jobs no one wants and that they increase, through the taxes they pay, everyone’s wealth. As a result, decisions are felt to be made against the ‘little person’ and for the rich. Same deck. The CEO’s hand: bonuses and a cheaper nanny. The worker’s hand: a rival for getting work.”
->
-> “But remember, the issue is not whether economists are right or wrong. The gut reactions of ordinary people may be the correct ones. What would have happened if trade policy had been done differently can never be known. However, the issue is not that but perceptions—and they matter—because it is perceptions that shape how people vote. If voters feel a disconnect that will change what they do at the voting machine.”
->
-> “So modern democracies are doomed to go through a stage of kayfabocracy and end up autocracies.”
->
-> “R.I.P. western democracy.”
+
+“Larry Summers—was he not the Harvard President who was buddies with Jeffrey Epstein from 1998 to 2019? He even asked Epstein, a day before his arrest, how to pursue a sexual relationship with a woman he described as a ‘mentee.’”
+
+“That is so. But be careful. Summers’ toxic relationship with Epstein does not mean he was wrong about open trade agreements.”
+
+“But he was wrong—the evidence is all the factories that closed, and the jobs gone.”
+
+“Not so. It may be that without the trade agreements, America would have been much poorer. The issue is not whether he was right or wrong—it is what it looks like outside Wall Street and in economics departments, on Main Street and in the gig work economy. People can see someone unlike them arguing for free trade, and then the factories where they and their friends and relatives once had good-paying jobs, gone. Same deck. But Wall Street’s hand gets aces, while factory towns get shutdown signs.”
+
+“So it is like the politicians who broke COVID restrictions and partied. Factually, they might have been within the lockdown rules and so done nothing wrong. But explain that to mourners banned from attending the funerals of their loved ones.”
+
+“Absolutely. Same deck. The politicians got the party hand. The mourners got the locked door.”
+
+“Absolutely.”
+
+“Or with immigrants. CEOs get bonuses and Wall Street profits from them as cheaper labor. And the rich benefit from paying less for nannies and cleaners. But it is also possible that immigration also leaves everyone better off. But that gain is not visible.”
+
+“So what ordinary people see—or think they see—is immigrants competing with them for jobs.”
+
+“The positive reality may be hidden—it might be that immigrants take jobs no one wants and that they increase, through the taxes they pay, everyone’s wealth. As a result, decisions are felt to be made against the ‘little person’ and for the rich. Same deck. The CEO’s hand: bonuses and a cheaper nanny. The worker’s hand: a rival for getting work.”
+
+“But remember, the issue is not whether economists are right or wrong. The gut reactions of ordinary people may be the correct ones. What would have happened if trade policy had been done differently can never be known. However, the issue is not that but perceptions—and they matter—because it is perceptions that shape how people vote. If voters feel a disconnect that will change what they do at the voting machine.”
+
+“So modern democracies are doomed to go through a stage of kayfabocracy and end up autocracies.”
+
+“R.I.P. western democracy.”
 
 ### The Plumbing
 
 #### America’s Unused Plumbing
 
-> “The answer lies in _Coriolanus_.”
->
-> “But that was written four hundred years ago about a polity two millennia before that.”
->
-> “What can Shakespeare say that might help stop a kayfabocracy?”
->
-> “Remember the scene where Coriolanus refuses to stop his plan to sack Rome. Cominius fails. Menenius tries. Only one thing stops him. A reconnection. Democracy fails the same way. Its institutions stop connecting electors with their government. They cease to circulate legitimacy between voters and how they are governed. That disconnect, and the opening it gives to entrepreneurs, is what ends them. The answer to kayfabocracy is to reconnect people to Congress.”
->
-> “Oh, you are going now to give a pie-in-the-sky reform of democracy. Sorry, they all need constitutional amendments, and among other hurdles, ratification by three-fourths of the states. That’s never going to happen. It’s best to defend existing democratic institutions.”
->
-> “You’re right—people look at American democracy, see faults, and say ‘we need X.’ And X has a hailstone-in-hell chance of happening. But what if American democracy once did something? And it could be returned to do it without any constitutional amendments?”
->
-> “But still it will need Congressional agreement. And you know Congress has nearly ceased passing laws.”
->
-> “What if individual states slotted something into their existing democratic institutions? Once electors saw it work at state level or even in other countries, candidates to Congress would feel they had to put it on their ticket?”
->
-> “You are teasing me.”
->
-> “Let me start with Woodrow Wilson’s observation: ‘Congress in its committee-rooms is Congress at work.’ From that you would imagine the US Constitution laid down that Congress should have committees. But read it—the word ‘committee’ is AWOL.”
->
-> “As with ‘slaves’ and ‘democracy.’”
->
-> “That omission is doubly odd, because the Constitution itself was drafted by two of them—the Committee of Detail and the Committee of Style and Arrangement. The drafters wrote a skeleton. They left to future Americans to add the flesh needed to give it life.”
->
-> “So constitutional space exists for extra legitimacy plumbing.”
->
-> “You just have to find a way to slot it into what already once existed and turn it on again—new tech might make that doable in ways that had not been earlier possible.”
->
-> “Still—you said the plumbing once existed. I do not yet see any unused pipes lying around that could connect voters back to their government.”
+“The answer lies in _Coriolanus_.”
+
+“But that was written four hundred years ago about a polity two millennia before that.”
+
+“What can Shakespeare say that might help stop a kayfabocracy?”
+
+“Remember the scene where Coriolanus refuses to stop his plan to sack Rome. Cominius fails. Menenius tries. Only one thing stops him. A reconnection. Democracy fails the same way. Its institutions stop connecting electors with their government. They cease to circulate legitimacy between voters and how they are governed. That disconnect, and the opening it gives to entrepreneurs, is what ends them. The answer to kayfabocracy is to reconnect people to Congress.”
+
+“Oh, you are going now to give a pie-in-the-sky reform of democracy. Sorry, they all need constitutional amendments, and among other hurdles, ratification by three-fourths of the states. That’s never going to happen. It’s best to defend existing democratic institutions.”
+
+“You’re right—people look at American democracy, see faults, and say ‘we need X.’ And X has a hailstone-in-hell chance of happening. But what if American democracy once did something? And it could be returned to do it without any constitutional amendments?”
+
+“But still it will need Congressional agreement. And you know Congress has nearly ceased passing laws.”
+
+“What if individual states slotted something into their existing democratic institutions? Once electors saw it work at state level or even in other countries, candidates to Congress would feel they had to put it on their ticket?”
+
+“You are teasing me.”
+
+“Let me start with Woodrow Wilson’s observation: ‘Congress in its committee-rooms is Congress at work.’ From that you would imagine the US Constitution laid down that Congress should have committees. But read it—the word ‘committee’ is AWOL.”
+
+“As with ‘slaves’ and ‘democracy.’”
+
+“That omission is doubly odd, because the Constitution itself was drafted by two of them—the Committee of Detail and the Committee of Style and Arrangement. The drafters wrote a skeleton. They left to future Americans to add the flesh needed to give it life.”
+
+“So constitutional space exists for extra legitimacy plumbing.”
+
+“You just have to find a way to slot it into what already once existed and turn it on again—new tech might make that doable in ways that had not been earlier possible.”
+
+“Still—you said the plumbing once existed. I do not yet see any unused pipes lying around that could connect voters back to their government.”
 
 #### Advisory Juries
 
-> “There is one. Juries. They once connected voters to their government and were seen as key to democracy in America. Alexis de Tocqueville wrote about them, in a book aptly titled _Democracy in America_.”
+“There is one. Juries. They once connected voters to their government and were seen as key to democracy in America. Alexis de Tocqueville wrote about them, in a book aptly titled _Democracy in America_.”
 
 A page was opened, and a passage read out:
 
 > The jury is, above all, a political institution, and it must be regarded in this light in order to be duly appreciated. By the jury I mean a certain number of citizens chosen by lot and invested with a temporary right of judging. … it places the real direction of society in the hands of the governed, or of a portion of the governed, and not in that of the government. Chapter XVI
->
-> “Democracy is not just elections. Juries are also part of it.”
->
-> “But haven’t you forgotten something? In modern courts, juries deal only with civil and criminal cases. Yes, in Athens, in the dikasterion, citizens also dealt with political issues, and in the _Nomothetai_ they reviewed and passed new laws. But that is not how a modern democracy works.”
->
-> “I will answer—”
+
+“Democracy is not just elections. Juries are also part of it.”
+
+“But haven’t you forgotten something? In modern courts, juries deal only with civil and criminal cases. Yes, in Athens, in the dikasterion, citizens also dealt with political issues, and in the _Nomothetai_ they reviewed and passed new laws. But that is not how a modern democracy works.”
+
+“I will answer—”
 
 A second voice cut in. “Even if juries once played that role, they could not do that now without extensive legislation. And, to contradict you, without constitutional and fundamental change that would be politically impossible.”
 
-> “To both of you: the book has an answer. We don’t need to rebuild the dikasterion, and we don’t need much new legislation. Few people realize it, but modern American courts do not always empanel juries to give legally binding verdicts. The Federal Rules of Civil Procedure, Rule 39(c), let federal judges in civil cases empanel advisory juries. Their job, in the law’s own words is ‘to enlighten the conscience of the court.’”
+“To both of you: the book has an answer. We don’t need to rebuild the dikasterion, and we don’t need much new legislation. Few people realize it, but modern American courts do not always empanel juries to give legally binding verdicts. The Federal Rules of Civil Procedure, Rule 39(c), let federal judges in civil cases empanel advisory juries. Their job, in the law’s own words is ‘to enlighten the conscience of the court.’”
 
 At this, the speaker pulled out a printout from the _Harvard Law Review_.
 
-> “I was reading this before I came. The article is titled ‘[Practice and Potential of the Advisory Jury](https://www.jstor.org/stable/1341163).’”
+“I was reading this before I came. The article is titled ‘[Practice and Potential of the Advisory Jury](https://www.jstor.org/stable/1341163).’”
 
 They then read out several passages from it:
 
 > [a judge may] appoint at his discretion an advisory jury “to enlighten the conscience of the court.” … Few formal constraints limit the modern trial judge’s use of the advisory jury. (100 Harv. L. Rev. 1363).
->
-> “The key phrase is ‘enlighten the conscience.’ The jury does not bind the judge, who can ignore its assessment. On appeal, the judge’s findings override whatever the advisory jury concluded.”
->
-> “But why do judges seek advice they can throw out? It seems like a waste of everyone’s time.”
->
-> “The article explains. A judge who empanels an advisory jury does so to listen:”
->
+
+“The key phrase is ‘enlighten the conscience.’ The jury does not bind the judge, who can ignore its assessment. On appeal, the judge’s findings override whatever the advisory jury concluded.”
+
+“But why do judges seek advice they can throw out? It seems like a waste of everyone’s time.”
+
+“The article explains. A judge who empanels an advisory jury does so to listen:”
+
 > In practice, however, a judge who believes it worthwhile to empanel such a jury will likely find it worthwhile to listen to what that jury has to say. … the advisory verdict is like an additional piece of evidence: the verdict “is only part of the data taken into consideration in arriving at the court’s independent conclusion.”
 
 “Advisory juries widen the circle of who gets to shape how law is applied. They let community norms enter legal judgment”:
 
 > [t]his participation can restrain the impact of class biases on the legal order through the influence of broader community norms. … Like the jury by right, the advisory jury expands community participation in the application of the law. As one commentator has stated: “The jury system . . . engrafts community values onto our law … It is difficult to conceive of a better mechanism than the jury for mirroring community values and establishing standards to which members of the community must conform … [T]he jury is an instrument of participatory democracy.”
->
-> “Judges, after all, don’t mirror the communities they serve. They are often white, male, middle-aged, affluent, and formally educated.”
->
+
+“Judges, after all, don’t mirror the communities they serve. They are often white, male, middle-aged, affluent, and formally educated.”
+
 > … judges poorly reflect the broader community. Judges are far more consistently white, formally educated, male, middle aged, and affluent than the broader community that sits on juries. Judges’ narrow backgrounds inevitably create biases.
->
-> “Well, that is all very interesting. But it is not plumbing. You promised pipes that once connected citizens to the government.”
+
+“Well, that is all very interesting. But it is not plumbing. You promised pipes that once connected citizens to the government.”
 
 #### Grand Juries
 
-> “Grand juries.”
->
-> “But those have nothing to do with politics. They are just a pretrial procedure before federal prosecutions, as they remain in about half the states.”
->
-> “Correct—for today, that is so. But go back in a time-machine to the colonial period and the first decades of the 19th century, and they dealt with political issues. It is only since then that their function has been cut down to a pretrial procedure. The democracy that came from England to America originally included—like the ancient Greeks—a jury circulation between citizens, randomly selected, and their government.”
->
-> “Here is an example. In 1681, King Charles II sought to get a grand jury to indict Anthony Ashley Cooper, first Earl of Shaftesbury, for treason. Shaftesbury led the opposition to the King—the charge was political. The grand jurors refused to indict.”
+“Grand juries.”
+
+“But those have nothing to do with politics. They are just a pretrial procedure before federal prosecutions, as they remain in about half the states.”
+
+“Correct—for today, that is so. But go back in a time-machine to the colonial period and the first decades of the 19th century, and they dealt with political issues. It is only since then that their function has been cut down to a pretrial procedure. The democracy that came from England to America originally included—like the ancient Greeks—a jury circulation between citizens, randomly selected, and their government.”
+
+“Here is an example. In 1681, King Charles II sought to get a grand jury to indict Anthony Ashley Cooper, first Earl of Shaftesbury, for treason. Shaftesbury led the opposition to the King—the charge was political. The grand jurors refused to indict.”
 
 Someone produced a printout—John Somers’s [The Security of Englishmen’s Lives: or the Trust, Power, and Duty of Grand Juries of England Explained](https://babel.hathitrust.org/cgi/pt?id=mdp.35112104639101&seq=1). Actually there were two copies. But only the top was seen by the others.
 
-> “I cannot read that—it’s got all those ‘f’ spellings of the letter ‘s’ you get in 17th‑century printing. I can see on the cover _Englifh_, _Firft_, _oppofite_, and _houfe_.”
->
-> “That is why I gave it to an LLM and asked it to turn its pages into readable output. I will read one paragraph.”
->
+“I cannot read that—it’s got all those ‘f’ spellings of the letter ‘s’ you get in 17th‑century printing. I can see on the cover _Englifh_, _Firft_, _oppofite_, and _houfe_.”
+
+“That is why I gave it to an LLM and asked it to turn its pages into readable output. I will read one paragraph.”
+
 > Grand juries are our only security, in as much as our lives cannot be drawn into jeopardy by all the malicious crafts of the devil, unless such a number of our honest countrymen shall be satisfied in the truth of the accusations.
->
-> “I bet Somers got jailed for writing that.”
->
-> “No. He ended up Lord Chancellor, then was President of the Royal Society—you might have heard of the guy that followed him—Isaac Newton.”
->
-> “Impressive.”
->
-> “Somers also helped draft the English Bill of Rights of 1689, which shaped both the U.S. Constitution and the U.S. Bill of Rights. The Fifth Amendment’s grand jury clause—’No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury’—comes from that. As does ‘subjects … may have arms for their defence’—the origin of the ‘right to bear arms’ of the Second Amendment”
+
+“I bet Somers got jailed for writing that.”
+
+“No. He ended up Lord Chancellor, then was President of the Royal Society—you might have heard of the guy that followed him—Isaac Newton.”
+
+“Impressive.”
+
+“Somers also helped draft the English Bill of Rights of 1689, which shaped both the U.S. Constitution and the U.S. Bill of Rights. The Fifth Amendment’s grand jury clause—’No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury’—comes from that. As does ‘subjects … may have arms for their defence’—the origin of the ‘right to bear arms’ of the Second Amendment”
 
 #### New England’s Civic Backbone: Citizens Inspect the Machine
 
-> “But Somers is not describing grand juries as a means by which citizens connect with government—only a means to stop government, using prosecution to persecute its opponents.”
->
-> “I have an answer for that.”
+“But Somers is not describing grand juries as a means by which citizens connect with government—only a means to stop government, using prosecution to persecute its opponents.”
+
+“I have an answer for that.”
 
 A library book was taken out of a bag—Richard Younger’s _The People’s Panel: The Grand Jury in the United States_, 1634–1941 (Brown University Press, 1963).
 
-> “Grand juries started fifteen years after the Mayflower—in the Massachusetts Bay Colony, March 1635. New Plymouth followed the next year. They connected citizens to government of their own lives.”
+“Grand juries started fifteen years after the Mayflower—in the Massachusetts Bay Colony, March 1635. New Plymouth followed the next year. They connected citizens to government of their own lives.”
 
 The following was read from the book:
 
 > seventeen grand jurors attended the March session of the General Court of New Plymouth. As in Massachusetts, they had been elected by the town meetings. Governor William Bradford charged the jurymen that they “must enquire of all abuses within the body of the government,”
->
-> “But that is still not about connecting citizens to their government.”
->
-> “Did you not hear? _All abuses within the body of the government_. That gave ordinary citizens as a jury the right—to check up on how their town was run, and to identify government abuse.”
+
+“But that is still not about connecting citizens to their government.”
+
+“Did you not hear? _All abuses within the body of the government_. That gave ordinary citizens as a jury the right—to check up on how their town was run, and to identify government abuse.”
 
 They then read another passage:
 
 > In 1638, a grand jury rebuked the Town of Sandwich “for not having their swine ringed,” complained of the lack of surveyors for repairing the highway. … In 1654, a jury condemned the condition of the highway between Plymouth and Sandwich and inquired why nothing had been done to repair the Jones River and South River bridges presented by previous grand juries. In 1655, jurors objected that the Town of Plymouth had no standards of measure. … In 1690, the General Court ordered each juryman to visit families in his town whom he suspected of neglecting the order to teach all children to read.
->
-> “Look, grand juries were not just about prosecution. They were about roads, pigs, honest weights, children taught to read—the working of a juror’s own town.”
+
+“Look, grand juries were not just about prosecution. They were about roads, pigs, honest weights, children taught to read—the working of a juror’s own town.”
 
 #### Grand Juries in California
 
-> “I stand corrected. American democracy did have juries that dealt with political issues.”
+“I stand corrected. American democracy did have juries that dealt with political issues.”
 
 A second voice added. “Grand juries still have that role in California.”
 
-> “You are right—but they are not proper juries. Nobody gets randomly picked. People volunteer. Judges vet them and create a short list. A random selection is made from that short list.”
->
-> “Does that matter?”
+“You are right—but they are not proper juries. Nobody gets randomly picked. People volunteer. Judges vet them and create a short list. A random selection is made from that short list.”
+
+“Does that matter?”
 
  “It does if you want legitimacy. Democratic legitimacy by jury comes from knowing their verdicts come from the electorate in statistical miniature. California’s volunteers are not that. And there are at most only 23 of them on any jury. You also did not mention why they have to be volunteers—the commitment is 20 to 25 hours a week, for a year. And while they might deal with some issues of government, they are restricted to the running of local authority bodies.”
 
-> “So there is nothing here to build new legitimacy plumbing.”
+“So there is nothing here to build new legitimacy plumbing.”
 
 Another person agreed. “The California grand jury gains its authority from the court that impanels it. This is not like the Athenian dikasterion jury court, which drew its authority from being, in miniature, the citizenship. Juries are a good idea but a dead end.”
 
-> “The book suggests otherwise. It suggests building on the idea of ‘enlighten the conscience’ and applying it to Congress and any other body that legislates—that is, passes laws or makes rules.”
->
-> “What—state legislatures? Down to school boards?”
->
-> “Yes. And not just the United States—any country with elected bodies—Knesset, Bundestag, Riksdag, and the National Assemblies and Parliaments of other democracies. Even bodies that are appointed, not elected.”
->
-> “You have me intrigued. What magic source is proposed?”
->
-> “All legislatures appoint committees, and those committees make reports after hearing expert advice. This is the slot-in. At present one source of advice is missing—what a random sample of ordinary citizens might judge on the issues in that report. Ordinary legislation, not constitutional amendments could create them.”
+“The book suggests otherwise. It suggests building on the idea of ‘enlighten the conscience’ and applying it to Congress and any other body that legislates—that is, passes laws or makes rules.”
+
+“What—state legislatures? Down to school boards?”
+
+“Yes. And not just the United States—any country with elected bodies—Knesset, Bundestag, Riksdag, and the National Assemblies and Parliaments of other democracies. Even bodies that are appointed, not elected.”
+
+“You have me intrigued. What magic source is proposed?”
+
+“All legislatures appoint committees, and those committees make reports after hearing expert advice. This is the slot-in. At present one source of advice is missing—what a random sample of ordinary citizens might judge on the issues in that report. Ordinary legislation, not constitutional amendments could create them.”
 
 ## Extra Act: The Doggy Bag
 
@@ -2063,13 +2063,13 @@ Ten more questions followed.
 
 “Wow,” someone exclaimed. “AI could reinvigorate democratic legitimacy.”
 
-> “That’s the idea. LLMs can turn committee reports—read by almost nobody—into questions any citizen might vote on. The votable questions have always existed, but extracting them meant someone reading hundreds of pages, identifying contested issues, phrasing questions neutrally, and compiling arguments. That made it impracticable.”
->
-> “LLMs could, therefore, reinvigorate democracy by opening up a new pipe of legitimacy.”
->
-> “Notice the opportunity. Committees are already set up to get expert advice. This is just another source—one arguably more important than any other—what ordinary people might think about the proposed legislation. It is not replacing anything that already exists. It’s about enhancing it.”
->
-> “So how would it work?”
+“That’s the idea. LLMs can turn committee reports—read by almost nobody—into questions any citizen might vote on. The votable questions have always existed, but extracting them meant someone reading hundreds of pages, identifying contested issues, phrasing questions neutrally, and compiling arguments. That made it impracticable.”
+
+“LLMs could, therefore, reinvigorate democracy by opening up a new pipe of legitimacy.”
+
+“Notice the opportunity. Committees are already set up to get expert advice. This is just another source—one arguably more important than any other—what ordinary people might think about the proposed legislation. It is not replacing anything that already exists. It’s about enhancing it.”
+
+“So how would it work?”
 
 The person who bought _Kayfabocracy: A Wee Short Introduction_ then read parts of its last chapter while summarizing them.
 
