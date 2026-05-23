@@ -1070,9 +1070,14 @@ async function createMarkdownFile(
   if (imageReplacements) {
     for (const [key, replacement] of Object.entries(imageReplacements)) {
       const escaped = key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      // Use a function replacement so `$$` / `$&` etc. in the
+      // configured value are inserted literally — String.replace with
+      // a string replacement interprets `$$` as a single `$`, which
+      // silently corrupted display-math (`$$…$$`) substitutions into
+      // inline-math (`$…$`).
       processedContent = processedContent.replace(
         new RegExp(`!\\[[^\\]]*\\]\\([^)]*${escaped}[^)]*\\)`, 'g'),
-        replacement
+        () => replacement
       );
     }
   }
