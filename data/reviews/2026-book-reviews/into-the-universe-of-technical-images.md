@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T05:15:56.000Z'
 slug: into-the-universe-of-technical-images
-wordCount: 3144
-readingTimeMinutes: 14
+wordCount: 3203
+readingTimeMinutes: 15
 source: gdoc
 tags:
   - Philosophy
@@ -61,46 +61,29 @@ Just as AI image models haphazardly transform text prompts and directions into l
 In Flusser’s words:  
 
 
-“For example, if we look at the gesture of a
-
-photographer with his camera and compare it with the movements
-
-of a fully automatic camera (as in a satellite), we are tempted to
-
-underestimate the task. For it looks as though the fully automatic
-
-camera is always tripped by chance, whereas the photographer
-
-only presses the release when he approaches a situation that cor-
-
-responds to his intentions. But if we look more closely, we can
-
-confirm that the photographic gesture, in fact, does somehow carry
-
-out the apparatus’s inner instructions. The apparatus does as the
-
-photographer desires, but the photographer can only desire what
-
-the apparatus can do”  
+> “For example, if we look at the gesture of a
+> photographer with his camera and compare it with the movements
+> of a fully automatic camera (as in a satellite), we are tempted to
+> underestimate the task. For it looks as though the fully automatic
+> camera is always tripped by chance, whereas the photographer
+> only presses the release when he approaches a situation that cor-
+> responds to his intentions. But if we look more closely, we can
+> confirm that the photographic gesture, in fact, does somehow carry
+> out the apparatus’s inner instructions. The apparatus does as the
+> photographer desires, but the photographer can only desire what
+> the apparatus can do”
 
 Flusser proposes the existence of “envisioners,” a new class of creators who use all forms of apparatuses to create technical images:  
 
 
-“These are people who press the keys of an apparatus to make it stop at an
-
-intentionally informative situation, people determined to control the apparatus
-
-in spite of its tendency to become more and more automated and
-
-so to preserve human judgment over the machine. Envisioners
-
-are people who try to turn an automatic apparatus against its own
-
-condition of being automatic. They cannot create illusions without
-
-the automatic apparatus, for the stuff to be envisioned, the particles,
-
-are neither visible nor graspable nor comprehensible”  
+> “These are people who press the keys of an apparatus to make it stop at an
+> intentionally informative situation, people determined to control the apparatus
+> in spite of its tendency to become more and more automated and
+> so to preserve human judgment over the machine. Envisioners
+> are people who try to turn an automatic apparatus against its own
+> condition of being automatic. They cannot create illusions without
+> the automatic apparatus, for the stuff to be envisioned, the particles,
+> are neither visible nor graspable nor comprehensible”
 
 
 In other words, Envisioners are the people who “see past” the apparatuses, and the objects produced by apparatuses, and who use the apparatus as a tool to secure desirable outcomes from the raw material of the possible.  
@@ -114,29 +97,18 @@ In other words, Envisioners are the people who “see past” the apparatuses, a
 What makes an outcome desirable? Flusser proposes that the primary criterion should be an axis between the _redundant_ and the _meaningful_. An object is completely redundant if no new information can be gleaned from it.  
 
 
-“One can perhaps classify these images according to
-
-what level of information they contain: whether they are more or
-
-less informative, surprising, predictable images. I could say of a
-
-photograph of the cathedral in Florence, for example, that I had
-
-seen similar things many times before and that the image means
-
-almost nothing to me, and I may be able to say of a computerized
-
-image of a four-dimensional cube that I had seen nothing of the
-
-kind before and that the image was therefore meaningful; that is,
-
-I cannot distinguish between depictions and models, but I can
-
-distinguish redundant from informative images. Of course, I have
-
-not said what but only how the images mean—and that is the ap-
-
-propriate way to look at technical images”
+> “One can perhaps classify these images according to
+> what level of information they contain: whether they are more or
+> less informative, surprising, predictable images. I could say of a
+> photograph of the cathedral in Florence, for example, that I had
+> seen similar things many times before and that the image means
+> almost nothing to me, and I may be able to say of a computerized
+> image of a four-dimensional cube that I had seen nothing of the
+> kind before and that the image was therefore meaningful; that is,
+> I cannot distinguish between depictions and models, but I can
+> distinguish redundant from informative images. Of course, I have
+> not said what but only how the images mean—and that is the ap-
+> propriate way to look at technical images”
 
 Because of the impossibility of determining the means by which an image was produced, the only criteria we can evaluate an image by are the criteria pertaining to our experience of the image. Even Flusser’s example here feels like an incomplete exploration of this idea. It’s not sufficient to simply compare the contents of a technical image, you have to compare its effect on its receiver. Did _this particular image of a cathedral, seen at this particular moment by this particular person_ trigger a cascade of meaning, a reframing of implicit rules? Or did it slide right over their awareness, triggering nothing? Importantly, the informational and cultural context frames the object. This means that the same object, seen again in a new light, can take on new meaning.
 
@@ -149,31 +121,21 @@ When Pierre Menard produced his _Quixote_, he had to adopt an entirely different
 One of Flusser’s main concerns is that these new technical methods of visualizing substances which were previously “neither visible nor graspable nor comprehensible” would necessarily reorganize society, the same way that text reorganized society around rules, codes and laws. Flusser foresees a society in which raw conceptual material is easily, quickly, and automatically visualized, disseminated, and responded to. The result is a society in which information traverses cleanly through all previously understood boundaries. Class, nation, location, and language will provide no obstacle to the reorganization of society around imagery. A society governed by technical images trends naturally towards a structure of senders and receivers, in which the senders provide the receivers with a constant stream of increasingly stale and meaningless information. This will result in ubiquitous social isolation:  
 
 
-“A technical image radiates, and at the tip
-
-of each ray sits a receiver, on his own. In this way, technical images
-
-disperse society into corners.”
+> “A technical image radiates, and at the tip
+> of each ray sits a receiver, on his own. In this way, technical images
+> disperse society into corners.”
 
 As well as a pervasive sense of emptiness:
 
-“Everyone all over the world will shortly be accessible to us;
-
-we’ll be playing chess with someone in the Antipodes and spending
-
-an amusing evening with geographically scattered friends around
-
-an electronic round table. Only, what will we talk about with these
-
-people, when we all have the same, centrally programmed informa-
-
-tion? When we are served by the same central memory? And when
-
-we are so neutralized that even as our interests appear to conflict,
-
-the conflict has been fed into us from the central memory? Even
-
-our arguments are empty chatter”
+> “Everyone all over the world will shortly be accessible to us;
+> we’ll be playing chess with someone in the Antipodes and spending
+> an amusing evening with geographically scattered friends around
+> an electronic round table. Only, what will we talk about with these
+> people, when we all have the same, centrally programmed informa-
+> tion? When we are served by the same central memory? And when
+> we are so neutralized that even as our interests appear to conflict,
+> the conflict has been fed into us from the central memory? Even
+> our arguments are empty chatter”
 
 This is what Flusser describes as a “discursive” as opposed to a “dialogic” society. In the discursive mode, information primarily radiates from a few central locations, “the sources of information threaten to dry up from an absence of dialogue, and the society is threatened with entropy.”  
 
@@ -194,37 +156,22 @@ Etymologically speaking, utopia means “no place.” This is the definition mos
 The experience of reading this section was eerily similar to the experience of reading Dougal Dixon’s _Man After Man,_ a “speculative anthropology” book which imagines the genetically-engineered descendants of humanity far into the future. The future humans in _Man After Man_ seem somehow degraded and diminished, despite their improved adaptation to their environment, and I can’t help but feel the same way about passages such as:  
 
 
-“Telematic society is a unique sort of ant colony: an ant colony be-
-
-cause it has a mosaic-like structure in which all functions interact
-
-cybernetically, and unique because rather than working, a telematic
-
-ant will sit in its cell and spin apparitions, technical images, pure
-
-art. There will be brains that are linked through a dream-secreting
-
-superbrain to each other and to artificial brains. And yet there will
-
-be bodies attached, like anachronisms, to these brains, bodies that
-
-demand to be nourished, to reproduce, and to die: spoilsports.
-
-These bodies, these spoilsports, these pretelematic participants
-
-in the telematic game must be pushed to the margins of view, behind
-
-the back of the player staring at the screen, because they cannot
-
-be completely eliminated. And this consideration for bodies, this
-
-regard for them, this looking back to pretelematic conditions will
-
-make them appear continually smaller, less interesting. They will
-
-shrink. Everything physical, everything voluminous is already
-
-beginning to atrophy”
+> “Telematic society is a unique sort of ant colony: an ant colony be-
+> cause it has a mosaic-like structure in which all functions interact
+> cybernetically, and unique because rather than working, a telematic
+> ant will sit in its cell and spin apparitions, technical images, pure
+> art. There will be brains that are linked through a dream-secreting
+> superbrain to each other and to artificial brains. And yet there will
+> be bodies attached, like anachronisms, to these brains, bodies that
+> demand to be nourished, to reproduce, and to die: spoilsports.
+> These bodies, these spoilsports, these pretelematic participants
+> in the telematic game must be pushed to the margins of view, behind
+> the back of the player staring at the screen, because they cannot
+> be completely eliminated. And this consideration for bodies, this
+> regard for them, this looking back to pretelematic conditions will
+> make them appear continually smaller, less interesting. They will
+> shrink. Everything physical, everything voluminous is already
+> beginning to atrophy”
 
 I feel pretty strongly that the human experience of well-being, the experience of embodied personhood, is linked not only to the brain and central nervous system, but to the health and integrity of the entire body. Linking myself as a “brain” into a “dream-secreting superbrain” feels unnatural and perverse in a way that’s hard to describe. The last third of this book is a pretty wild ride with a lot of interesting science-fiction speculation on the reorganization of society.
 

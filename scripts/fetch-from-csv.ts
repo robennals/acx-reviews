@@ -273,6 +273,17 @@ interface ReviewException {
   // Plotting Your Fantasy Novel, which mixes quote-internal bullet
   // lists with top-level bullet lists in the same essay.
   bulletsAfterQuoteAreQuoted?: boolean;
+  // Wrap runs of consecutive short paragraphs (≥ 3 paragraphs, each
+  // ≤ 100 chars, separated by exactly ONE blank line) as a single
+  // blockquote. Used for docs where the author marks quotes by
+  // visually stacking short lines tight in the gdoc (no empty
+  // separator paragraph between them), using only the body
+  // first-line-indent for indentation — too shallow for the normal
+  // indent-based blockquote detector. The single-blank-line gap (vs.
+  // double-blank for regular body paragraphs) is the structural
+  // signal. Used for "Into the Universe of Technical Images".
+  // Not safe in general — opt in per slug.
+  shortLinesAsBlockquote?: boolean;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -811,6 +822,72 @@ async function createMarkdownFile(
     // own `<blockquote>`, breaking the visual continuity the author
     // intended (one quote containing prose + bullets + prose + bullets).
     truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
+  }
+  if (slugExceptions[slug]?.shortLinesAsBlockquote) {
+    // Wrap runs of ≥3 consecutive short content lines (each ≤ SHORT_MAX
+    // chars) separated by single blank lines as a single multi-line
+    // blockquote — BUT only when the whole run is wrapped in quotation
+    // marks (first line starts with an opening quote glyph, last line
+    // ends with a closing quote glyph). The quote-wrapping constraint
+    // is what makes the rule safe: a run of short author-interjection
+    // lines (no quote marks around them) won't get wrapped. Used for
+    // "Into the Universe of Technical Images", where the gdoc author
+    // marks long book excerpts by stacking visually-short lines tight
+    // (no empty paragraph between) and always wraps the whole excerpt
+    // in quotes.
+    const SHORT_MAX = 100;
+    const RUN_MIN = 3;
+    // Opening quote glyphs at start-of-line (allow optional leading
+    // whitespace). Closing quote glyphs at end-of-line (allow optional
+    // trailing whitespace/punctuation: a few common terminators after
+    // the close quote — period, comma, semicolon — though authors
+    // usually put those INSIDE the quote).
+    const OPEN_QUOTE_RE = /^\s*[“"‘']/;
+    const CLOSE_QUOTE_RE = /[”"’'][.,;:!?]?\s*$/;
+    const lines = truncatedContent.split('\n');
+    const isShort = (idx: number) => {
+      if (idx < 0 || idx >= lines.length) return false;
+      const l = lines[idx];
+      if (l.trim() === '') return false;
+      if (l.length > SHORT_MAX) return false;
+      if (/^[>#|]/.test(l)) return false;
+      if (/^[*+\-]\s|^\d+\.\s/.test(l)) return false;
+      if (/^!\[/.test(l)) return false;
+      if (/^\s*```/.test(l)) return false;
+      return true;
+    };
+    const wrapped: boolean[] = new Array(lines.length).fill(false);
+    const dropBlank: boolean[] = new Array(lines.length).fill(false);
+    let i = 0;
+    while (i < lines.length) {
+      if (!isShort(i)) { i++; continue; }
+      // Only start a run on a line that opens with a quote glyph. The
+      // quote-wrapping constraint is the safety guard that distinguishes
+      // book-excerpt runs (worth wrapping) from accidental sequences of
+      // short author paragraphs.
+      if (!OPEN_QUOTE_RE.test(lines[i])) { i++; continue; }
+      const runIdxs: number[] = [i];
+      let closed = CLOSE_QUOTE_RE.test(lines[i]);
+      let j = i + 1;
+      while (!closed && j + 1 < lines.length && lines[j].trim() === '' && isShort(j + 1)) {
+        runIdxs.push(j + 1);
+        if (CLOSE_QUOTE_RE.test(lines[j + 1])) closed = true;
+        j += 2;
+      }
+      if (closed && runIdxs.length >= RUN_MIN) {
+        for (const idx of runIdxs) wrapped[idx] = true;
+        for (let k = 0; k < runIdxs.length - 1; k++) {
+          dropBlank[runIdxs[k] + 1] = true;
+        }
+      }
+      i = j;
+    }
+    const outLines: string[] = [];
+    for (let k = 0; k < lines.length; k++) {
+      if (dropBlank[k]) continue;
+      outLines.push(wrapped[k] ? `> ${lines[k].trim()}` : lines[k]);
+    }
+    truncatedContent = outLines.join('\n');
   }
   if (slugExceptions[slug]?.quoteAfterListIsContinuation) {
     // Walk lines. Once we've seen a `* ` / `- ` / `+ ` / `\d+. `

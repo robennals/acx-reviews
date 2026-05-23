@@ -74,6 +74,9 @@
   "planecrash-es-yudwkosky": {
     "disableQuotedParagraphAsBlockquote": true
   },
+  "into-the-universe-of-technical-images": {
+    "shortLinesAsBlockquote": true
+  },
   "probability-theory-the-logic-of-science": {
     "imageReplacements": {
       "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",
