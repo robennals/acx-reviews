@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-13T09:29:03.000Z'
 slug: aesopian-language-in-russian-literature
-wordCount: 6734
+wordCount: 6666
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -46,21 +46,15 @@ Readers and critics alike praised Clifford’s brave ballads about war and autho
 Here are a few excerpts from “Squares”:
 
 > _And yet the order of things is surreal._
->
 > _All of you—those baking loaves,_
->
 > _Spinning threads, smelting steel,—_
->
 > _someone shamelessly ripped you off._
 
 _[...]_
 
 > _You riot and shout: "They’re robbers!"_
->
 > _Feeling fooled and betrayed._
->
 > _And then they send to you talkers_
->
 > _People who know how to persuade._
 
 _[...]_
@@ -70,15 +64,10 @@ _But if you choose to persist:_
 _- No, you can't take my will!_
 
 > _They'll quietly emerge from the mist,_
->
 > _People who know how to kill._
->
 > _Tasting the acrid, you'll swallow your woe,_
->
 > _While in your window, like in a dream,_
->
 > _crossing the sky, black squares will show_
->
 > _you the sun's disconsolate gleam._
 
 (Translation by Vanya Bagayev and Oleg.)
@@ -128,7 +117,6 @@ _He was the slave of a tenacious,_
 a restless urge for change of place
 
 > _(an attribute that's quite vexatious,_
->
 > _though some support it with good grace)._
 
 (from the translation by Charles H. Johnston)
@@ -200,43 +188,24 @@ _Where in thesauruses the topic_
 _Of blizzard isn't granted room,_
 
 > _Can, in the lands, where skies are azure_
->
 > _And forecasts cannot go awry,_
->
 > _Where summer never stops to pleasure_
->
 > _The body and amuse the eye,_
->
 > _Can ever they, let for an instant,_
->
 > _In dreams, if even indistinct,_
->
 > _Let inadvertently, by instinct,_
->
 > _Grasp what it means to think of spring,_
->
 > _What means, in March, when almost freezes_
->
 > _The air, and terror holds its grip,_
->
 > _To hope, for almost no reason,_
->
 > _For river ice to start its trip._
->
 > _And we've such vintage winters known,_
->
 > _Such sorts of cold had to abide,_
->
 > _That there remained nor grief nor groan,_
->
 > _But only poverty and pride._
->
 > _And bitter little human beings_
->
 > _Blindfolded by the snow sting,_
->
 > _We could foresee, while hardly seeing,_
->
 > _That overwhelming green of spring._
 
 (Translation by Alexander Givental and Elysee Wilson-Egolf.)
@@ -310,21 +279,15 @@ _Wolves eat wolves on sight._
 [...]
 
 > _But when they see those whiskers wave,_
->
 > _Oh, dear me!_
->
 > _Not a single beast is brave._
->
 > _Oh, dear me!_
 
 [...]
 
 > _Cock-the-Roach was named the Victor Great and Grand,_
->
 > _King of Field and Forest, Lord of All the Land._
->
 > _Ginger-Whiskers ruled—life was at its worst,_
->
 > _Birds and beasts were fooled. (May his name be cursed!)_
 
 (All the lines above are taken from the translation by Tom Botting.)
@@ -342,51 +305,28 @@ Another example is “Hide and Seek in the Dusk” (1973), a little poem by the 
 _Hide and Seek in the Dusk_
 
 > _When evening poured its honey light_
->
 > _Across the garden, warm and bright,_
->
 > _The children cried, “Now count to ten!”_
->
 > _And vanished in the dusk again._
->
 > _Blue-eyed kids slipped behind the sky,_
->
 > _Where sleepy clouds went drifting by._
->
 > _Green-eyed ones nestled under trees,_
->
 > _As soft as secrets held by bees;_
->
 > _Brown-eyed ones crouched by bark and loam,_
->
 > _Like acorns finding autumn home;_
->
 > _They curled beside the garden stones,_
->
 > _As still as earth, as hushed as bones._
->
 > _Then came the seekers, bright and gay,_
->
 > _With lantern looks and eyes of hay;_
->
 > _They searched the hedge, they swept the ground,_
->
 > _They chased each whisper, leaf, and sound._
->
 > _They peered beneath the lilac petals,_
->
 > _They shook the shadows from the nettles;_
->
 > _They asked the moon, they tapped the tree,_
->
 > _“Now tell us where those hiders be!”_
->
 > _They found some deep in the night,_
->
 > _Behind a leaf, beneath a light;_
->
 > _But even hay-eyed seekers clever_
->
 > _Could not find everyone, however._
 
 (Translation by Igor Condratievich Efimov and Nina Semenovna Aleksandrova.)
@@ -400,21 +340,13 @@ _Macbeth_ is especially suitable for this. For instance, in Act IV, Scene 3, lin
 _Alas, poor country!_
 
 > _Almost afraid to know itself. It cannot_
->
 > _Be call’d our mother, but our grave; where nothing,_
->
 > _But who knows nothing, is once seen to smile;_
->
 > _Where sighs, and groans, and shrieks that rent the air_
->
 > _Are made, not mark’d; where violent sorrow seems_
->
 > _A modern ecstasy: the dead man’s knell_
->
 > _Is there scarce ask’d for who; and good men’s lives_
->
 > _Expire before the flowers in their caps._
->
 > _Dying or ere they sicken._
 
 This was already close enough to Pasternak’s reality. To strengthen this effect, he renders the passage subdued and less flowery, in contrast with the surrounding text. Where Shakespeare’s Ross says that Scotland is a place “_where sighs, and groans, and shrieks that rent the air / Are made, not mark’d,_” Pasternak’s Ross says simply, “_We've gotten used to tears; we don't even notice them anymore._” Where Shakespeare continues, “_where violent sorrow seems / A modern ecstasy,_” Pasternak plainly states: “_They regard the frequent storms / As mere everyday occurrences._”

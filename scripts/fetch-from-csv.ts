@@ -797,6 +797,41 @@ async function createMarkdownFile(
   // contests have already-stable content we don't want to re-flow.
   if (contestId === '2026-book-reviews' && !slugExceptions[slug]?.disableItalicAsBlockquote) {
     truncatedContent = wrapItalicParagraphsAsBlockquotes(truncatedContent);
+    // Tight-stack consecutive short italic-quote `> _..._` lines as
+    // poetry. wrapItalicParagraphsAsBlockquotes wraps each italic
+    // source paragraph individually; when the gdoc author had verse
+    // lines stacked tight (consecutive `<p>`s with no empty separator),
+    // turndown emits each `<p>` with `\n\n` between, and the merge
+    // regex below would turn each one into its own paragraph in the
+    // blockquote with vertical space between. For short verse lines
+    // we want one tight stanza (consecutive `> ` lines render as one
+    // CommonMark paragraph inside the blockquote). Aesopian Language's
+    // "Squares" excerpts are the canonical case. Heuristic: both
+    // adjacent lines must be wholly italic (`> _…_`) and short.
+    {
+      const POETRY_LINE_MAX = 100;
+      const ITALIC_QUOTE_LINE = /^>\s+_[^_]+_\s*$/;
+      const lines = truncatedContent.split('\n');
+      const out: string[] = [];
+      let i = 0;
+      while (i < lines.length) {
+        out.push(lines[i]);
+        if (
+          i + 2 < lines.length &&
+          ITALIC_QUOTE_LINE.test(lines[i]) &&
+          lines[i].length <= POETRY_LINE_MAX &&
+          lines[i + 1].trim() === '' &&
+          ITALIC_QUOTE_LINE.test(lines[i + 2]) &&
+          lines[i + 2].length <= POETRY_LINE_MAX
+        ) {
+          // Drop the blank line so the two `>` lines stack tight.
+          i += 2;
+        } else {
+          i += 1;
+        }
+      }
+      truncatedContent = out.join('\n');
+    }
     // Re-run the adjacent-blockquote merge: this step ran inside
     // cleanupMarkdown but only saw blockquotes that existed at that
     // point. The italic-wrap just added more, and runs of them need
