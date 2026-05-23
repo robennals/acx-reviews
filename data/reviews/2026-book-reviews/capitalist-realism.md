@@ -7,15 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T15:45:49.000Z'
 slug: capitalist-realism
-wordCount: 6579
+wordCount: 6576
 readingTimeMinutes: 30
 source: gdoc
 tags:
   - Philosophy
   - Society
 ---
-
-## Tab 1
 
 ## Claude Mythos made me think about declining birth rates
 

@@ -32,7 +32,8 @@
     "removeBlanksBeforeMatching": "^>\\s*\\(Act "
   },
   "capitalist-realism": {
-    "disableItalicAsBlockquote": true
+    "disableItalicAsBlockquote": true,
+    "dropLeadingContentLines": 1
   },
   "coriolanus": {
     "disableItalicAsBlockquote": true
