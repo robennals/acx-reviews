@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T20:23:00.000Z'
 slug: tortilla-flat-by-john-steinbeck
-wordCount: 5959
+wordCount: 6009
 readingTimeMinutes: 27
 source: gdoc
 tags:
@@ -55,39 +55,25 @@ The Californios: a Spanish-Mexican-Native population of California, not too many
 
 The first thing to note is that Steinbeck explicitly states that his group in question is most definitely the remnant population descended from the original Californios. It’s worth quoting the preface at length:
 
-Monterey sits on the slope of a hill, with a blue bay below it and with
-
-a forest of tall dark pine trees at its back. The lower parts of the
-
-town are inhabited by Americans, Italians, catchers and canners of fish.
-
-But on the hill where the forest and the town intermingle, where the
-
-streets are innocent of asphalt and the corners free of street lights,
-
-the old inhabitants of Monterey are embattled as the Ancient Britons are
-
-embattled in Wales. These are the paisanos.
+> Monterey sits on the slope of a hill, with a blue bay below it and with  
+> a forest of tall dark pine trees at its back. The lower parts of the  
+> town are inhabited by Americans, Italians, catchers and canners of fish.  
+> But on the hill where the forest and the town intermingle, where the  
+> streets are innocent of asphalt and the corners free of street lights,  
+> the old inhabitants of Monterey are embattled as the Ancient Britons are  
+> embattled in Wales. These are the paisanos.
 
 _[...]_
 
-What is a paisano? He is a mixture of Spanish, Indian, Mexican, and
-
-assorted Caucasian bloods. His ancestors have lived in California for a
-
-hundred or two years. He speaks English with a paisano accent and
-
-Spanish with a paisano accent. When questioned concerning his race, he
-
-indignantly claims pure Spanish blood and rolls up his sleeve to show
-
-that the soft inside of his arm is nearly white. His color, like that of
-
-a well-browned meerschaum pipe, he ascribes to sunburn. He is a paisano,
-
-and he lives in the up-hill district above the town of Monterey called
-
-Tortilla Flat, although it isn’t a flat at all.
+> What is a paisano? He is a mixture of Spanish, Indian, Mexican, and  
+> assorted Caucasian bloods. His ancestors have lived in California for a  
+> hundred or two years. He speaks English with a paisano accent and  
+> Spanish with a paisano accent. When questioned concerning his race, he  
+> indignantly claims pure Spanish blood and rolls up his sleeve to show  
+> that the soft inside of his arm is nearly white. His color, like that of  
+> a well-browned meerschaum pipe, he ascribes to sunburn. He is a paisano,  
+> and he lives in the up-hill district above the town of Monterey called  
+> Tortilla Flat, although it isn’t a flat at all.
 
 That’s an explicit avowal of a distinct ethnic inheritance, an embattled racial group in a land that has been swallowed up by conquerors like the Britons. Monterey was the capital of pre-American California and really its only important town. Steinbeck would have been aware of books like Gertrude Atherton’s The Splendid Idle Forties, (1902) which contains stories of Californio life in the era just before takeover by the USA. Most are set in Monterey and focus on high society grandmothers, debutantes, military governors, American officers, Californio horsemen, etc. Steinbeck himself first wrote a collection of short stories called The Pastures of Heaven (1932) about a valley just inland from Monterey. The book opens with a long-ago prelude set in mission times complete with enslaved natives and a romantic yet violent Spanish corporal. These previous gauzy looks at Californio life made for a counterpoint to Steinbeck’s decidedly unaristocratic bunch.
 
@@ -109,15 +95,11 @@ Dana devotes great detail to the fantastical (to him) Californio custom of treat
 
 This is Dana in Chapter XVIII describing Easter Sunday ashore in San Diego
 
-In a few minutes the man made his appearance, and apologized for having nothing to entertain us with, saying that he had had a fandango at his house the night before, and the people had eaten and drunk up everything.
-
-"Oh yes!" said I, "Easter holydays?"
-
-"No!" said he, with a singular expression to his face; "I had a little daughter die the other day, and that's the custom of the country."
-
-Here I felt a little strangely, not knowing what to say, or whether to offer consolation or no, and was beginning to retire, when he opened a side door and told us to walk in. Here I was no less astonished; for I found a large room, filled with young girls, from three or four years of age up to fifteen and sixteen, dressed all in white, with wreaths of flowers on their heads, and bouquets in their hands. Following our conductor through all these girls, who were playing about in high spirits, we came to a table, at the end of the room, covered with a white cloth, on which lay a coffin, about three feet long, with the body of his child. The coffin was lined on the outside with white cloth, and on the inside with white satin, and was strewed with flowers. Through an open door we saw, in another room, a few elderly people in common dresses; while the benches and tables thrown up in a corner, and the stained walls, gave evident signs of the last night's "high go." Feeling, like Garrick, between tragedy and comedy, an uncertainty of purpose and a little awkwardness, I asked the man when the funeral would take place, and being told that it would move toward the mission in about an hour, took my leave.
-
-[...] From the beach we returned to the town, and finding that the funeral procession had moved, rode on and overtook it, about half-way to the mission. Here was as peculiar a sight as we had seen before in the house; the one looking as much like a funeral procession as the other did like a house of mourning. The little coffin was borne by eight girls, who were continually relieved by others, running forward from the procession and taking their places. Behind it came a straggling company of girls, dressed as before, in white and flowers, and including, I should suppose by their numbers, nearly all the girls between five and fifteen in the place. They played along on the way, frequently stopping and running all together to talk to some one, or to pick up a flower, and then running on again to overtake the coffin. There were a few elderly women in common colors; and a herd of young men and boys, some on foot and others mounted, followed them, or walked or rode by their side, frequently interrupting them by jokes and questions. But the most singular thing of all was, that two men walked, one on each side of the coffin, carrying muskets in their hands, which they continually loaded, and fired into the air. Whether this was to keep off the evil spirits or not, I do not know. It was the only interpretation that I could put upon it.
+> In a few minutes the man made his appearance, and apologized for having nothing to entertain us with, saying that he had had a fandango at his house the night before, and the people had eaten and drunk up everything.  
+> "Oh yes!" said I, "Easter holydays?"  
+> "No!" said he, with a singular expression to his face; "I had a little daughter die the other day, and that's the custom of the country."  
+> Here I felt a little strangely, not knowing what to say, or whether to offer consolation or no, and was beginning to retire, when he opened a side door and told us to walk in. Here I was no less astonished; for I found a large room, filled with young girls, from three or four years of age up to fifteen and sixteen, dressed all in white, with wreaths of flowers on their heads, and bouquets in their hands. Following our conductor through all these girls, who were playing about in high spirits, we came to a table, at the end of the room, covered with a white cloth, on which lay a coffin, about three feet long, with the body of his child. The coffin was lined on the outside with white cloth, and on the inside with white satin, and was strewed with flowers. Through an open door we saw, in another room, a few elderly people in common dresses; while the benches and tables thrown up in a corner, and the stained walls, gave evident signs of the last night's "high go." Feeling, like Garrick, between tragedy and comedy, an uncertainty of purpose and a little awkwardness, I asked the man when the funeral would take place, and being told that it would move toward the mission in about an hour, took my leave.  
+> [...] From the beach we returned to the town, and finding that the funeral procession had moved, rode on and overtook it, about half-way to the mission. Here was as peculiar a sight as we had seen before in the house; the one looking as much like a funeral procession as the other did like a house of mourning. The little coffin was borne by eight girls, who were continually relieved by others, running forward from the procession and taking their places. Behind it came a straggling company of girls, dressed as before, in white and flowers, and including, I should suppose by their numbers, nearly all the girls between five and fifteen in the place. They played along on the way, frequently stopping and running all together to talk to some one, or to pick up a flower, and then running on again to overtake the coffin. There were a few elderly women in common colors; and a herd of young men and boys, some on foot and others mounted, followed them, or walked or rode by their side, frequently interrupting them by jokes and questions. But the most singular thing of all was, that two men walked, one on each side of the coffin, carrying muskets in their hands, which they continually loaded, and fired into the air. Whether this was to keep off the evil spirits or not, I do not know. It was the only interpretation that I could put upon it.
 
 This detail of firing guns over the body of the deceased is also echoed by Steinbeck, once in foreshadowing when Danny speaks of his eventual death and then once with an actual fandango-esque funeral procession which recalls Dana’s description:
 
@@ -125,7 +107,7 @@ Chapter X: “We too have been soldiers,” said Danny. “When we die, we will 
 
 Chapter XVII: “The friends could hear the music and the shrill drone of the service. From their vantage point they saw the cavalry arrive, and the band with muffled drums, and the firing squad, and the caisson with its three pairs of horses, and a cavalry-man on the near horse of each pair. The mournful clop-clop of shod horses on asphalt put despair in the hearts of the friends. Helplessly they watched the casket carried out and laid on the caisson, and the flag draped over it. The officer blew his whistle, raised his hand and threw it forward. The squadron moved, the firing squad dropped its rifles. The drums thundered their
 
-heartbreaking, slow rhythm. The band played its sodden march. The caisson moved. The people walked majestically behind, men straight and stern, women daintily holding their skirts up out of the indelible trail of the cavalry. Everyone was there, … The service was short and military. The casket was lowered; the rifles cracked; the bugle sang taps…
+> heartbreaking, slow rhythm. The band played its sodden march. The caisson moved. The people walked majestically behind, men straight and stern, women daintily holding their skirts up out of the indelible trail of the cavalry. Everyone was there, … The service was short and military. The casket was lowered; the rifles cracked; the bugle sang taps…
 
 Another explicit Californio callout is the characters’ cultic version of Catholicism, which was a motif of the nonfiction account of Dana and various other fictional treatments that Steinbeck would have been aware of, like _Ramona_ and especially Atherton’s collection. The one time the main troupe rise above petty thievery is in the case of “The Pirate,” a mentally challenged semi-homeless paisano who lives with a bunch of dogs. Every day “The Pirate” cuts firewood which he sells for a quarter but begs all his food and sleeps rough in an abandoned shed. The gang reason that he must be banking those quarters and resolve to steal his horde. But in their efforts to winkle the secret out of The Pirate he reveals that he had a vision of St Francis who healed one of his dogs. After the vision The Pirate has devoted himself to saving up 1000 quarters in order to buy a golden candlestick for the church in St Francis’s honor.
 
@@ -205,45 +187,34 @@ Steinbeck deals with this in a disturbing chapter where the paisano gang encount
 
 I like this passage because Steinbeck elegantly shows the language bridges between Anglophone cop, bilingual Californio-accented Jesus Maria and the migrant boy who only speaks Mexican Spanish:
 
-One day when he had leaned against the post office for two hours with
-
-very little success, he was witness to a pitiful scene. A policeman came
-
-along the sidewalk leading a young boy of about sixteen, and the boy
-
-carried a little baby wrapped in a piece of gray blanket.
-
-The policeman was saying, “I don’t care if I can’t understand you. You
-
-can’t sit in the gutter all day. We’ll find out about you.”
-
-And the boy, in Spanish with a peculiar inflection, said, “But, señor, I
-
-do nothing wrong. Why do you take me away?”
-
-The policeman saw Jesus Maria. “Hey, paisano,” he called. “What’s this
-
-\_cholo\_ talking about?”
-
-Jesus Maria stepped out and addressed the boy. “Can I be of service to
-
-you?”
-
-The boy broke into a relieved flood. “I came here to work. Some Mexican
-
-men said there would be work here, and there was none. I was sitting
-
-down resting when this man came to me and dragged me away.”
-
-Jesus Maria nodded and turned back to the policeman. “Has he done some
-
-crime, this little one?”
-
-“No, but he’s been sitting in the gutter on Alvarado Street for about
-
-three hours.”
-
-“He is a friend of mine,” Jesus Maria said. “I will take care of him.”
+> One day when he had leaned against the post office for two hours with  
+> very little success, he was witness to a pitiful scene. A policeman came  
+> along the sidewalk leading a young boy of about sixteen, and the boy  
+> carried a little baby wrapped in a piece of gray blanket.
+>
+> The policeman was saying, “I don’t care if I can’t understand you. You  
+> can’t sit in the gutter all day. We’ll find out about you.”
+>
+> And the boy, in Spanish with a peculiar inflection, said, “But, señor, I  
+> do nothing wrong. Why do you take me away?”
+>
+> The policeman saw Jesus Maria. “Hey, paisano,” he called. “What’s this  
+> \_cholo\_ talking about?”
+>
+> Jesus Maria stepped out and addressed the boy. “Can I be of service to  
+> you?”
+>
+> The boy broke into a relieved flood. “I came here to work. Some Mexican  
+> men said there would be work here, and there was none. I was sitting  
+> down resting when this man came to me and dragged me away.”
+>
+> Jesus Maria nodded and turned back to the policeman. “Has he done some  
+> crime, this little one?”
+>
+> “No, but he’s been sitting in the gutter on Alvarado Street for about  
+> three hours.”
+>
+> “He is a friend of mine,” Jesus Maria said. “I will take care of him.”
 
 Though the gang have the best intentions they are deeply unprepared to be parents and the baby eventually dies in their care. (This is a concrete example of the childless dead-end that is low-status male existence.)
 

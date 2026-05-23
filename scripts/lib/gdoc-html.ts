@@ -166,6 +166,12 @@ interface GDocStyleMap {
   // has margin-right:33.1pt is visually a both-sides-indented blockquote,
   // even though neither class alone meets the indent-on-its-own threshold.
   classMargins: Map<string, ClassMargins>;
+  // Per-class font-family (raw CSS value, e.g. `"Arial"` or
+  // `"Times New Roman"`). Used by the minority-font-as-blockquote
+  // exception (Tortilla Flat) to detect paragraphs whose font differs
+  // from the body's dominant family — the author's signal for a
+  // visually-set-off quote block.
+  classFontFamily: Map<string, string>;
 }
 
 // Threshold check on margins. A paragraph counts as "indented"
@@ -250,9 +256,10 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
   const centeredClasses = new Set<string>();
   const indentClasses = new Set<string>();
   const classMargins = new Map<string, ClassMargins>();
+  const classFontFamily = new Map<string, string>();
 
   const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
-  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins };
+  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily };
 
   const styleText = styleMatch[1];
 
@@ -340,9 +347,13 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
         indentClasses.add(cls);
       }
     }
+    const fontFamilyMatch = props.match(/font-family\s*:\s*"([^"]+)"/);
+    if (fontFamilyMatch) {
+      classFontFamily.set(cls, fontFamilyMatch[1]);
+    }
   }
 
-  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins };
+  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily };
 }
 
 // True if every substantive (non-empty) span in the paragraph carries an
@@ -1485,6 +1496,13 @@ export interface CleanupMarkdownOptions {
   // planecrash, where every dialogue line is wrapped in quotes but
   // belongs as body prose, not as a visual block).
   disableQuotedParagraphAsBlockquote?: boolean;
+  // Wrap paragraphs whose substantive spans all use a font-family
+  // different from the body's dominant font as blockquotes. Used for
+  // Tortilla Flat, where the author set off long passages from
+  // Steinbeck and Dana in Times New Roman while the body is in Arial
+  // (same point size; Times New Roman is visually smaller). Not safe
+  // in general — opt in per slug.
+  minorityFontAsBlockquote?: boolean;
 }
 
 /**
@@ -2315,6 +2333,99 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
       el.replaceWith(el.text());
     }
   });
+
+  // Minority-font-as-blockquote pass (per-slug exception). Detect the
+  // dominant font-family among substantive spans, then group runs of
+  // consecutive `<p>` siblings whose spans all use a non-dominant font
+  // into stanzas (with empty `<p>` separators marking stanza breaks).
+  // Merge each stanza into one `<p>` with `<br>` between lines and
+  // wrap in `<blockquote>`. Same shape as a poetry stanza — each
+  // stanza becomes a tight multi-line blockquote, stanzas separated
+  // by `>` blank lines downstream. Used for Tortilla Flat (Steinbeck
+  // and Dana excerpts in Times New Roman vs. Arial body).
+  if (options.minorityFontAsBlockquote && styles.classFontFamily.size > 1) {
+    // Count substantive characters per font-family across all spans.
+    const familyChars = new Map<string, number>();
+    $('span').each(function () {
+      const el = $(this);
+      const text = el.text().trim();
+      if (!text) return;
+      const classes = (el.attr('class') || '').split(/\s+/);
+      let family: string | undefined;
+      for (const c of classes) {
+        const f = styles.classFontFamily.get(c);
+        if (f) family = f;
+      }
+      if (!family) return;
+      familyChars.set(family, (familyChars.get(family) || 0) + text.length);
+    });
+    let dominantFamily: string | undefined;
+    let dominantChars = 0;
+    for (const [family, chars] of familyChars) {
+      if (chars > dominantChars) {
+        dominantFamily = family;
+        dominantChars = chars;
+      }
+    }
+    if (dominantFamily) {
+      const isMinorityFontParagraph = (el: ReturnType<typeof $>): boolean => {
+        const spans = el.find('span').toArray();
+        if (spans.length === 0) return false;
+        let sawSubstantive = false;
+        for (const s of spans) {
+          const t = $(s).text();
+          if (!t.trim()) continue;
+          sawSubstantive = true;
+          const classes = ($(s).attr('class') || '').split(/\s+/);
+          let family: string | undefined;
+          for (const c of classes) {
+            const f = styles.classFontFamily.get(c);
+            if (f) family = f;
+          }
+          if (!family || family === dominantFamily) return false;
+        }
+        return sawSubstantive;
+      };
+      const candidates = $('body > p').toArray();
+      let i = 0;
+      while (i < candidates.length) {
+        const el = $(candidates[i]);
+        if (!isMinorityFontParagraph(el)) { i++; continue; }
+        const stanzas: ReturnType<typeof $>[][] = [];
+        let currentStanza: ReturnType<typeof $>[] = [el];
+        let lastMinority = i;
+        let j = i + 1;
+        while (j < candidates.length) {
+          const nextEl = $(candidates[j]);
+          const nextEmpty = !nextEl.text().trim() && !nextEl.find('img').length;
+          const nextMinority = !nextEmpty && isMinorityFontParagraph(nextEl);
+          if (nextMinority) {
+            currentStanza.push(nextEl);
+            lastMinority = j;
+            j++;
+          } else if (nextEmpty) {
+            if (currentStanza.length > 0) stanzas.push(currentStanza);
+            currentStanza = [];
+            j++;
+          } else {
+            break;
+          }
+        }
+        if (currentStanza.length > 0) stanzas.push(currentStanza);
+        for (const stanza of stanzas) {
+          if (stanza.length === 0) continue;
+          const head = stanza[0];
+          for (let k = 1; k < stanza.length; k++) {
+            head.append('<br>');
+            head.append(stanza[k].contents());
+            stanza[k].remove();
+          }
+          head.wrap('<blockquote></blockquote>');
+        }
+        i = lastMinority + 1;
+      }
+    }
+  }
 
   // Get the body content
   const body = $('body');

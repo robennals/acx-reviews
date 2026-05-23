@@ -228,6 +228,11 @@ interface ReviewException {
   // not intend them as visual block quotes (planecrash uses this
   // convention throughout).
   disableQuotedParagraphAsBlockquote?: boolean;
+  // Wrap paragraphs whose substantive spans use a font-family other
+  // than the body's dominant family as blockquotes. Used for Tortilla
+  // Flat, where the author sets off long Steinbeck/Dana excerpts in
+  // Times New Roman while the body is in Arial.
+  minorityFontAsBlockquote?: boolean;
   // Promote bold-only lines to headings even when they end in
   // sentence punctuation. The default reject-trailing-punct rule
   // protects reviews like Son Also Rises that use bold sentences
@@ -1273,6 +1278,10 @@ async function main() {
       const markdown = convertGDocToMarkdown(html, {
         disableQuotedParagraphAsBlockquote:
           candidateSlug && reviewExceptions[candidateSlug]?.disableQuotedParagraphAsBlockquote
+            ? true
+            : false,
+        minorityFontAsBlockquote:
+          candidateSlug && reviewExceptions[candidateSlug]?.minorityFontAsBlockquote
             ? true
             : false,
       });

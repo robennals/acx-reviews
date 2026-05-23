@@ -35,6 +35,9 @@
     "disableItalicAsBlockquote": true,
     "dropLeadingContentLines": 1
   },
+  "tortilla-flat-by-john-steinbeck": {
+    "minorityFontAsBlockquote": true
+  },
   "coriolanus": {
     "disableItalicAsBlockquote": true,
     "disableQuotedParagraphAsBlockquote": true
