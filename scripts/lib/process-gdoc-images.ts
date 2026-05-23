@@ -10,8 +10,39 @@
  */
 
 import crypto from 'crypto';
+import fs from 'fs';
+import path from 'path';
 import sharp from 'sharp';
 import { uploadIfMissing } from './r2-client';
+
+// Persistent cache: maps the source URL of a remote image (currently used
+// only for Google Drawings) to the final R2 URL after upload. Re-runs of
+// the fetch pipeline skip the network fetch entirely on cache hit. Google
+// rate-limits the drawings endpoint per IP per day, so without this every
+// re-run repeats hundreds of identical requests and eventually 429s.
+const IMAGE_CACHE_PATH = path.join(process.cwd(), '.image-cache.json');
+let imageCache: Record<string, string> | null = null;
+function loadImageCache(): Record<string, string> {
+  if (imageCache) return imageCache;
+  try {
+    if (fs.existsSync(IMAGE_CACHE_PATH)) {
+      imageCache = JSON.parse(fs.readFileSync(IMAGE_CACHE_PATH, 'utf8'));
+    } else {
+      imageCache = {};
+    }
+  } catch {
+    imageCache = {};
+  }
+  return imageCache!;
+}
+function saveImageCache() {
+  if (!imageCache) return;
+  try {
+    fs.writeFileSync(IMAGE_CACHE_PATH, JSON.stringify(imageCache, null, 2));
+  } catch {
+    // best-effort cache write; never fail the pipeline on it
+  }
+}
 
 /**
  * Some Google Docs images come out of the export with a large block of
@@ -46,6 +77,37 @@ async function trimImageWhitespace(buffer: Buffer, mime: string): Promise<Buffer
   } catch {
     // If sharp can't decode the image for any reason (corrupt header,
     // unsupported subformat), fall back to the original bytes.
+    return buffer;
+  }
+}
+
+/**
+ * Google Docs exports embedded math equations as tiny PNGs (e.g. 52×22)
+ * — rendered at the inline font size, not at display size. They look
+ * fine in the gdoc UI (where the surrounding text is also small) but
+ * appear ~4× too small on a typical web page. Upscale small images
+ * with Lanczos3 so the served PNG is itself larger; the browser then
+ * renders at natural size and the equation looks proportionate.
+ *
+ * Heuristic: width ≤ 300 AND height ≤ 100. Captures math equations
+ * without sweeping in normal figures (which are typically much
+ * wider/taller). The 4× factor matches the visual gap the user
+ * reported.
+ */
+const MATH_UPSCALE_FACTOR = 4;
+async function upscaleMathImage(buffer: Buffer, mime: string): Promise<Buffer> {
+  if (!TRIMMABLE_MIMES.has(mime)) return buffer;
+  try {
+    const meta = await sharp(buffer).metadata();
+    if (!meta.width || !meta.height) return buffer;
+    if (meta.width > 300 || meta.height > 100) return buffer;
+    const out = await sharp(buffer)
+      .resize(meta.width * MATH_UPSCALE_FACTOR, meta.height * MATH_UPSCALE_FACTOR, {
+        kernel: 'lanczos3',
+      })
+      .toBuffer();
+    return out;
+  } catch {
     return buffer;
   }
 }
@@ -136,7 +198,8 @@ export async function processImages(
 
     const ext = MIME_TO_EXT[match.mime] ?? match.subtype;
     const rawBuffer = Buffer.from(match.base64, 'base64');
-    const buffer = await trimImageWhitespace(rawBuffer, match.mime);
+    const trimmed = await trimImageWhitespace(rawBuffer, match.mime);
+    const buffer = await upscaleMathImage(trimmed, match.mime);
     const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
     const key = `images/${contestId}/${hash}.${ext}`;
 
@@ -155,10 +218,63 @@ export async function processImages(
     rewritten = rewritten.split(full).join(replacement);
   }
 
+  // Second pass: Google Drawings images. Some gdoc authors embed a
+  // Google Drawing (`docs.google.com/drawings/d/.../image?...`) instead
+  // of a regular inline image. The HTML export emits an `<img src="…">`
+  // pointing to Google's server, not a base64 data URI; without this
+  // step the markdown points at a URL that 404s or requires auth when
+  // viewed cross-origin from the public site. Fetch each one, upload
+  // to R2 (content-addressed, same as inline images), and rewrite.
+  const DRAWING_RE =
+    /!\[([^\]]*)\]\((https:\/\/docs\.google\.com\/drawings\/[^)]+)\)/g;
+  const drawingMatches: Array<{ full: string; alt: string; url: string }> = [];
+  for (const m of rewritten.matchAll(DRAWING_RE)) {
+    drawingMatches.push({ full: m[0], alt: m[1], url: m[2] });
+  }
+  const cache = loadImageCache();
+  const drawingReplacements = new Map<string, string>();
+  let cacheDirty = false;
+  for (const match of drawingMatches) {
+    if (drawingReplacements.has(match.full)) continue;
+    const cached = cache[match.url];
+    if (cached) {
+      reusedCount++;
+      drawingReplacements.set(match.full, `![${match.alt}](${cached})`);
+      continue;
+    }
+    try {
+      const res = await fetch(match.url);
+      if (!res.ok) {
+        console.warn(`  ⚠️  Skipping unreachable drawing ${res.status}: ${match.url}`);
+        continue;
+      }
+      const mime = (res.headers.get('content-type') || 'image/png').split(';')[0].trim();
+      const ext = MIME_TO_EXT[mime] ?? mime.replace('image/', '');
+      const arrayBuffer = await res.arrayBuffer();
+      const rawBuffer = Buffer.from(arrayBuffer);
+      const trimmed = await trimImageWhitespace(rawBuffer, mime);
+      const buffer = await upscaleMathImage(trimmed, mime);
+      const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
+      const key = `images/${contestId}/${hash}.${ext}`;
+      const { url, uploaded } = await uploadIfMissing(key, buffer, mime);
+      if (uploaded) uploadedCount++;
+      else reusedCount++;
+      drawingReplacements.set(match.full, `![${match.alt}](${url})`);
+      cache[match.url] = url;
+      cacheDirty = true;
+    } catch (err) {
+      console.warn(`  ⚠️  Failed to fetch drawing: ${match.url} - ${err}`);
+    }
+  }
+  if (cacheDirty) saveImageCache();
+  for (const [full, replacement] of drawingReplacements) {
+    rewritten = rewritten.split(full).join(replacement);
+  }
+
   return {
     markdown: rewritten,
     uploadedCount,
     reusedCount,
-    totalImages: matches.length,
+    totalImages: matches.length + drawingMatches.length,
   };
 }

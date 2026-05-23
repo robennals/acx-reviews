@@ -46,8 +46,10 @@ export async function getReviewBySlug(
 
   try {
     const fileContents = fs.readFileSync(filePath, 'utf8');
-    const { content } = parseMarkdown(fileContents);
-    const { html: contentHtml, footnotes } = await markdownToHtml(content);
+    const { content, frontmatter } = parseMarkdown(fileContents);
+    const { html: contentHtml, footnotes } = await markdownToHtml(content, {
+      disableFootnotes: frontmatter?.disableFootnotes === true,
+    });
 
     return {
       ...review,
