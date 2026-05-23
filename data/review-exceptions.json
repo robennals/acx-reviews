@@ -10,8 +10,7 @@
     "forcePoetryQuotes": true
   },
   "aesopian-language-in-russian-literature": {
-    "dropLeadingContentLines": 2,
-    "disableBlockquotes": true
+    "dropLeadingContentLines": 2
   },
   "summa-technologiae": {
     "disableBlockquotes": true
