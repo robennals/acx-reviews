@@ -1458,9 +1458,21 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
 }
 
 /**
+ * Options for tuning markdown cleanup behavior per-review.
+ */
+export interface CleanupMarkdownOptions {
+  // Disable the "single-paragraph pull-quote becomes blockquote" rule
+  // (lines that start and end with `"…"`/`“…”` get a `> ` prefix). Use
+  // for docs where fully-quoted dialogue lines are not pull quotes (e.g.
+  // planecrash, where every dialogue line is wrapped in quotes but
+  // belongs as body prose, not as a visual block).
+  disableQuotedParagraphAsBlockquote?: boolean;
+}
+
+/**
  * Clean up markdown output
  */
-export function cleanupMarkdown(markdown: string): string {
+export function cleanupMarkdown(markdown: string, options: CleanupMarkdownOptions = {}): string {
   let md = markdown
     // Normalize non-breaking spaces to regular spaces. Google Docs inserts
     // `&nbsp;` (U+00A0) around italicized/bolded runs to prevent awkward
@@ -1695,7 +1707,7 @@ export function cleanupMarkdown(markdown: string): string {
   // Risk of false positives is low — paragraph-shaped lines that open
   // AND close on a quotation, with nothing outside the quotes other than
   // a citation, are essentially always pull-quotes.
-  {
+  if (!options.disableQuotedParagraphAsBlockquote) {
     const OPEN_QUOTE = /[“"]/;
     // Match optional trailing `_` or `*` after the closing quote — Google
     // Docs sometimes wraps the close-quote glyph in an italic span (the
@@ -2218,7 +2230,7 @@ export async function fetchGDocAsHTML(docId: string): Promise<string> {
  * Not exported — callers should use convertGDocToMarkdown which handles
  * the full doc (with automatic chunking for large composite docs).
  */
-function convertHtmlChunk(html: string, bodySizeHint?: number): string {
+function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupMarkdownOptions = {}): string {
   // Parse CSS class→style mappings BEFORE loading into Cheerio and removing <style>.
   const styles = parseGDocStyles(html, bodySizeHint);
 
@@ -2291,7 +2303,7 @@ function convertHtmlChunk(html: string, bodySizeHint?: number): string {
 
   // Convert to markdown
   const rawMarkdown = turndownService.turndown(body.html() || '');
-  return cleanupMarkdown(rawMarkdown);
+  return cleanupMarkdown(rawMarkdown, options);
 }
 
 /**
@@ -2336,16 +2348,16 @@ const CHUNK_THRESHOLD_BYTES = 5 * 1024 * 1024;
  * to the largest single review rather than the whole document. This avoids
  * the GC-thrash / OOM problem when processing 100MB+ source docs.
  */
-export function convertGDocToMarkdown(html: string): string {
+export function convertGDocToMarkdown(html: string, options: CleanupMarkdownOptions = {}): string {
   if (html.length < CHUNK_THRESHOLD_BYTES) {
-    return convertHtmlChunk(html);
+    return convertHtmlChunk(html, undefined, options);
   }
 
   const { style, body } = extractStyleAndBody(html);
   const h1Positions = findH1Boundaries(body);
 
   // Fallback: no H1 boundaries, nothing to split on.
-  if (h1Positions.length === 0) return convertHtmlChunk(html);
+  if (h1Positions.length === 0) return convertHtmlChunk(html, undefined, options);
 
   // Compute body font size ONCE across the whole document. Without
   // this hint, each chunk would compute its own — and a chunk that
@@ -2370,7 +2382,7 @@ export function convertGDocToMarkdown(html: string): string {
     // Wrap in a minimal HTML shell so the style block is visible to our
     // CSS-class detection and so Cheerio has a well-formed document.
     const shell = `<!DOCTYPE html><html><head>${style}</head><body>${chunkBody}</body></html>`;
-    parts.push(convertHtmlChunk(shell, bodySizeHint));
+    parts.push(convertHtmlChunk(shell, bodySizeHint, options));
   }
 
   // Concatenating cleaned chunks may produce 4+ consecutive blank lines at

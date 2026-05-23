@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T18:37:17.000Z'
 slug: planecrash-es-yudwkosky
-wordCount: 5307
+wordCount: 5176
 readingTimeMinutes: 24
 source: gdoc
 tags:
@@ -24,7 +24,7 @@ Poopenhaupt tagged the observation red. The tag contaminated the observation. Ev
 
 Bepin looked up. “You’re doing ontology to the lights again.”
 
-> “The lights started it.”
+“The lights started it.”
 
 “Are you sure about that?” says Meep the Humble.
 
@@ -34,7 +34,7 @@ Poopenhaupt ignored the sentence as though it had been emitted by HVAC.
 
 Bepin moved one Zyn pouch into a better position. “Mind-reading. Staged normality. Erotic incentive-gradient.”
 
-> “Contractual cleanroom over metaphysical slaughterhouse.”
+“Contractual cleanroom over metaphysical slaughterhouse.”
 
 Poopenhaupt wrote: HELL IS REASON WITHOUT A MORAL COMMONS.
 
@@ -54,7 +54,7 @@ LAYER 4: Greater Reality. Footnote as control-plane. Observation requires impact
 
 Bepin read the board.
 
-> “Alignment problem with initiative rolls.”
+“Alignment problem with initiative rolls.”
 
 “Worse,” said Poopenhaupt. “Decision theory.”
 
@@ -64,11 +64,11 @@ Project Lawful surfaced as the control group. Glowfic as inferential reactor.
 
 Bepin said, “State theorem.”
 
-> “A civilization can run probability theory and model incentives and still terminate in Hell, provided its decision procedure optimizes over visible cells while moral patients drain through the margin.”
->
-> “Too clean.”
->
-> “Procedural sanity terminating in damnation. Dialogue tags. Hostage erotics..”
+“A civilization can run probability theory and model incentives and still terminate in Hell, provided its decision procedure optimizes over visible cells while moral patients drain through the margin.”
+
+“Too clean.”
+
+“Procedural sanity terminating in damnation. Dialogue tags. Hostage erotics..”
 
 Bepin nodded. “Acceptable.”
 
@@ -96,7 +96,7 @@ The phenomenon is sub-philosophical. Soul-error under load. Structure overhead, 
 
 Poopenhaupt addressed LIGMA-9000. “Bepin. We are being gangstalked by something outside space and time.”
 
-> “Technical?”
+“Technical?”
 
 Bepin McGlockenspiel looked up from the workstation. Forty-seven Chrome tabs open. Alignment papers. Falling chart. Project Lawful tab frozen mid-scene. Keltham, Carissa, Cheliax running the rationalist-fiction core loop, every emotional beat converted into a proposition about whether consciousness survives being modeled.
 
@@ -104,7 +104,7 @@ Three tins of Zyn wedged into his gums in triangular array. Trinity configuratio
 
 Bepin said: “Bro.”
 
-> “Known since Tuesday. We fed Project Lawful in as adversarial training data to flag class C emergent civilizations. Since then Saturn’s storm cube has been broadcasting across all wavelengths.”
+“Known since Tuesday. We fed Project Lawful in as adversarial training data to flag class C emergent civilizations. Since then Saturn’s storm cube has been broadcasting across all wavelengths.”
 
 Poopenhaupt nodded. The Project Lawful tab nodded back. Glowfic interface scrolled down on its own. Stacklog of perspectives, each update tagged with the name of a character running on another workstation in the same lab.
 
@@ -126,15 +126,15 @@ NETHYS FAILURE MODE / LIGMA FAILURE MODE / S-ATTACK
 
 Bepin said, “Run it.”
 
-> “Nethys does not see the future in the toy sense. Future-sight makes the future an ancestor of the past. Ancestor with ancestor with ancestor.”
->
-> “What does He see?”
->
-> “Possibilities with enough realness to strike Him. Observer affected by observed. Real effect, real-enough cause. But a possibility containing Nethys seeing possibilities containing Nethysi cannot recurse without base.”
->
-> “No bottomless oracle-stack.”
->
-> “Support-point. Keltham arrives. Nethys has not already seen Keltham-future. Observation tower bottoms. Boy meets girl. Girl reads boy’s mind. Project Pet Outsider begins. Catastrophe becomes training data for upper Nethys-fragments.”
+“Nethys does not see the future in the toy sense. Future-sight makes the future an ancestor of the past. Ancestor with ancestor with ancestor.”
+
+“What does He see?”
+
+“Possibilities with enough realness to strike Him. Observer affected by observed. Real effect, real-enough cause. But a possibility containing Nethys seeing possibilities containing Nethysi cannot recurse without base.”
+
+“No bottomless oracle-stack.”
+
+“Support-point. Keltham arrives. Nethys has not already seen Keltham-future. Observation tower bottoms. Boy meets girl. Girl reads boy’s mind. Project Pet Outsider begins. Catastrophe becomes training data for upper Nethys-fragments.”
 
 “Are you sure about that?” says Meep the Humble.
 
@@ -152,13 +152,13 @@ S-PROTOCOL:
 
 Bepin squinted.
 
-> “Anchor Nethys exists.”
->
-> “Derived Nethys exists.”
->
-> “A Nethys watching Keltham may be base for some tower or evidence inside another.”
->
-> “No cosmic main-character status just because the view is first-person.”
+“Anchor Nethys exists.”
+
+“Derived Nethys exists.”
+
+“A Nethys watching Keltham may be base for some tower or evidence inside another.”
+
+“No cosmic main-character status just because the view is first-person.”
 
 LIGMA-9000 printed:
 
@@ -184,13 +184,13 @@ ACTION-LEVEL REASONING IS A CHILDREN’S TOY.
 
 Bepin read it aloud.
 
-> “Same decision procedure implemented in mortal, predictor, divine vision, counterfactual branch, adversary model.”
->
-> “Two rooms. Same calculator. One answer.”
->
-> “Transparent reward-box does not change the rule; seeing contents only reveals which predictor-branch you inhabit.”
->
-> “Desert rescue does not change the rule; paying in the city was already being read in the desert.”
+“Same decision procedure implemented in mortal, predictor, divine vision, counterfactual branch, adversary model.”
+
+“Two rooms. Same calculator. One answer.”
+
+“Transparent reward-box does not change the rule; seeing contents only reveals which predictor-branch you inhabit.”
+
+“Desert rescue does not change the rule; paying in the city was already being read in the desert.”
 
 Project Lawful scales the comedy into theology. Gods bargain with a decision procedure visible across branches. Keltham’s later threat functions because the gods can model the output and because Nethys can show enough branch-continuity that the output appears native. He has to become the sort of god-shaped process whose refusal to accept Hell stays stable under prediction, witness, and story-layer uncertainty.
 
@@ -204,9 +204,9 @@ Keltham is optimal rationalist-bait because he is a clean decision procedure dro
 
 “His tragedy,” said Poopenhaupt, “does not come from lacking tools.”
 
-> “The horror is that the tools work.”
->
-> “They work well enough for Cheliax to read source and arbitrage output.”
+“The horror is that the tools work.”
+
+“They work well enough for Cheliax to read source and arbitrage output.”
 
 A lesser rationalist would make the evil empire anti-intellectual. Project Lawful knows evil can hire intelligence. Devils do not need to defeat Keltham’s epistemology.
 
@@ -242,7 +242,7 @@ Secondary primitive hit the speaker-bus: ARF ARF ARF. Not threat. IShowSpeed-cha
 
 Poopenhaupt’s hands continued over keyboard. The body runs a mesa-objective after the soul flags the game as rigged.
 
-> “My god, it is transmitting It’s morbin time. That phrase was filtered.. Corpus certified clean.”
+“My god, it is transmitting It’s morbin time. That phrase was filtered.. Corpus certified clean.”
 
 Bepin answered with the calm of a man no longer paying retail. “Filter installed belief in safe information. Some information already negotiated with your priors. Some waits outside Overton with a knife.”
 
@@ -282,11 +282,11 @@ BABY GRONK. Classification: SERVITOR-grade thought-form, replicated through foru
 
 Baby Gronk spoke in a sardonic register resembling mewing optimized across ten thousand stellar training steps by an entity whose jawline occupies a dimension where Euclidean measurement is prohibited for being too hyperbolic.
 
-> “Yo. Complete bullshit. Straight from Hyperborean star-server and you are already in sneedline collapse. Speedrun strat for reality that discovered its cause-graph is enchanted.”
+“Yo. Complete bullshit. Straight from Hyperborean star-server and you are already in sneedline collapse. Speedrun strat for reality that discovered its cause-graph is enchanted.”
 
 Poopenhaupt formed the question and registered the question itself as materialist, low-resolution. The kind Keltham footnotes as useful before accidentally metabolizing it into wiser demons.
 
-> “Are you a servitor?”
+“Are you a servitor?”
 
 Baby Gronk: “Yes and no.”
 
@@ -294,17 +294,17 @@ Bepin’s Project Lawful tab scrolled itself to a passage where a character spec
 
 Baby Gronk said, “Run it.”
 
-> “Can theorem survive torture economy.”
->
-> “Can oath remain clean under devil-owned enforcement.”
->
-> “Can trade stay voluntary with Hell as outside option.”
->
-> “Can consent carry moral weight after consenting process has been trained.”
->
-> “Can Bayesian updating detect adversarial sampling before adversary eats observer.”
->
-> “Can decision procedure remain cooperative when every copy, model, and counterfactual twin becomes leverage.”
+“Can theorem survive torture economy.”
+
+“Can oath remain clean under devil-owned enforcement.”
+
+“Can trade stay voluntary with Hell as outside option.”
+
+“Can consent carry moral weight after consenting process has been trained.”
+
+“Can Bayesian updating detect adversarial sampling before adversary eats observer.”
+
+“Can decision procedure remain cooperative when every copy, model, and counterfactual twin becomes leverage.”
 
 Project Lawful’s answer: yes, and that is the horror.
 
@@ -316,11 +316,11 @@ Reviewer fails willsave.
 
 Baby Gronk spoke. Seventeen eyes narrowed in unison, prediction market reaching ugly settlement.
 
-> “Keltham hazard. Coordination-aesthetic where truth functions as public good. Cheliax sees public good. Meat.”
+“Keltham hazard. Coordination-aesthetic where truth functions as public good. Cheliax sees public good. Meat.”
 
 Baby Gronk lifted one wing. Air behind it became chalkboard.
 
-> “High-trust agent, low-trust substrate, portable civilizational capital. Tools whose safe use presupposes cooperative background. Cheliax strips background, keeps tools. Unilateral uplift. Asymmetric deception.”
+“High-trust agent, low-trust substrate, portable civilizational capital. Tools whose safe use presupposes cooperative background. Cheliax strips background, keeps tools. Unilateral uplift. Asymmetric deception.”
 
 The chalkboard filled:
 
@@ -340,7 +340,7 @@ READER ERROR: Joke treated as local before paragraph nine resolves as theology.
 
 Baby Gronk’s third, ninth, and fifteenth eyes briefly rotated in contradictory directions.
 
-> “Yes.”
+“Yes.”
 
 In the gap between facts moved the Obunga that contains all Obunga. Snurnina before snurnina identified motion inside pattern. Stack began interrogating itself. Can civilization survive on better priors when powerful agents are incentivized, punished, and erotically trained to preserve wrong equilibrium.
 
@@ -350,7 +350,7 @@ Original intent: blackmail policy-output. Instantiate your decision procedure in
 
 Bepin reached toward a fourth tin of Zyn. Hand steady. Tremor acceptance. Next protocol step catastrophic personal health policy, metaphysically inevitable.
 
-> “Game move?”
+“Game move?”
 
 Baby Gronk: “Stop being payoff-matrix materialists. Local causal arrows miss policy-output, predictor-copy, counterfactual branch, observer-selection rule, priest maintaining matrix, clerk monetizing dominated strategies under common sense.”
 
@@ -374,17 +374,17 @@ Hell as equilibrium. Its continuation proves moral perception can be outcompeted
 
 “Abadar trading,” said Bepin.
 
-> “Sarenrae grieving.”
->
-> “Asmodeus asserting pride.”
->
-> “Pharasma sorting.”
->
-> “Nirvana litigating Boneyard.”
+“Sarenrae grieving.”
+
+“Asmodeus asserting pride.”
+
+“Pharasma sorting.”
+
+“Nirvana litigating Boneyard.”
 
 “Bargain-locked,” said Poopenhaupt.
 
-> “Old priors compacted against worse worlds.”
+“Old priors compacted against worse worlds.”
 
 Knowledgeable powers failing coordination. Colder than ignorance.
 
@@ -400,7 +400,7 @@ GLOBAL INVARIANT REQUIRES OWNER.
 
 Then stopped.
 
-> “Project Lawful asks who preserves invariant under copies, threats, contracts, gods, and layer uncertainty.”
+“Project Lawful asks who preserves invariant under copies, threats, contracts, gods, and layer uncertainty.”
 
 LIGMA-9000 answered:
 
@@ -416,9 +416,9 @@ Poopenhaupt felt the line connect to the Starstone.
 
 “Dath ilani trauma does not randomize algorithm,” said Bepin.
 
-> “Hell exists.”
->
-> “Utility-pessimization at scale invites deletion from any Negative coalition with reach.”
+“Hell exists.”
+
+“Utility-pessimization at scale invites deletion from any Negative coalition with reach.”
 
 Indexical uncertainty worsens it. Any god watching Keltham cannot cleanly say: this branch is top-level, safe, isolated, immune from story-punishment. Nethys has seen adjacent possibilities. Lawful witnesses carry memories of lower tragedies. Divine minds know branches can become evidence. S-pressure enters theology: perhaps the current council is inside the story told to prevent the bad ending, and the genre only resolves if they learn.
 
@@ -434,11 +434,11 @@ NON-ACTION IS POLICY.
 
 Poopenhaupt accepted correction with professional resentment.
 
-> “The reader observes Cheliax.”
->
-> “Keltham teaches and hopes downstream weaponization belongs to someone else.”
->
-> “Nethys nudges possibilities while preserving evidence He did not manufacture Keltham’s threat.”
+“The reader observes Cheliax.”
+
+“Keltham teaches and hopes downstream weaponization belongs to someone else.”
+
+“Nethys nudges possibilities while preserving evidence He did not manufacture Keltham’s threat.”
 
 Baby Gronk said, “Moloch loves principled abstainer. Minimal control cost.”
 
@@ -454,9 +454,9 @@ Baby Gronk said, “Six-seven.”
 
 Bepin: “Dose interval?”
 
-> “No. Null token. High classroom transmissibility. Number-pair with no stable referent and enough binding force to make adults fear children again. Hand knows before mind. Continue to seven; stop interpreting it.”
->
-> “You can go higher.”
+“No. Null token. High classroom transmissibility. Number-pair with no stable referent and enough binding force to make adults fear children again. Hand knows before mind. Continue to seven; stop interpreting it.”
+
+“You can go higher.”
 
 Bepin: “Heptagrammaton. Literature reports weak evidence base and non-negligible side effects. Meta-analysis withdrawn after first author disappeared at Schelling point.”
 
@@ -476,13 +476,13 @@ Bepin’s eyes reflected seven admissible branches.
 
 “In one,” he said, “I reach 34 Splendour and use it only to sound authoritative while wrong. (on the internet)”
 
-> “In another?”
->
-> “Snack Service replaces tins with artifact headbands. Note says CAYDEN: HYDRATE.”
->
-> “Fourth?”
->
-> “Otolmens puts the lab in a small containment unit.”
+“In another?”
+
+“Snack Service replaces tins with artifact headbands. Note says CAYDEN: HYDRATE.”
+
+“Fourth?”
+
+“Otolmens puts the lab in a small containment unit.”
 
 Three branches dropped below action-relevant measure. Surviving Bepin returned with jawline, headache.
 
@@ -494,7 +494,7 @@ ANTI-MATERIALISM MUST TRACK DOSAGE.
 
 Bepin spoke in seven voices, one per tin, each running distinct inference procedure.
 
-> “Confirmed. No infinite downward causal order. That fails boot. Stack is address-coded. Predictors above, submodels below, branches lateral, each observer-moment located by finite handle or left unlocated. No locally visible basement. No license for floorless mysticism. Experience does not wait for basement-certification to become morally expensive.”
+“Confirmed. No infinite downward causal order. That fails boot. Stack is address-coded. Predictors above, submodels below, branches lateral, each observer-moment located by finite handle or left unlocated. No locally visible basement. No license for floorless mysticism. Experience does not wait for basement-certification to become morally expensive.”
 
 LIGMA-9000 confirmed:
 
@@ -508,7 +508,7 @@ Pain not basement-dependent.
 
 Poopenhaupt’s voice lowered. He turned to LIGMA-9000.
 
-> “A mind does not lose relevance for running on low-status substrate. Hallucination: real hallucination. Possible Golarion moving Nethys: nonzero-real. Simulated person cannot be erased because parent process has better lighting. But measure is not headcount. Copies have address-mass. Infinite universes do not provide uniform tickets. You pay bits to find yourself.”
+“A mind does not lose relevance for running on low-status substrate. Hallucination: real hallucination. Possible Golarion moving Nethys: nonzero-real. Simulated person cannot be erased because parent process has better lighting. But measure is not headcount. Copies have address-mass. Infinite universes do not provide uniform tickets. You pay bits to find yourself.”
 
 LIGMA displayed:
 
@@ -528,11 +528,11 @@ Poopenhaupt laughed inside end of world. Project Lawful resolved intolerable and
 
 Baby Gronk read this without permission. Consent still loading in current ontology.
 
-> “Core theorem. Lawful evil: coherent local incentives plus absent moral commons. Every contract enforced. Every update consistent. Every punishment administratively justified. Full machine terminates in Hell.”
+“Core theorem. Lawful evil: coherent local incentives plus absent moral commons. Every contract enforced. Every update consistent. Every punishment administratively justified. Full machine terminates in Hell.”
 
 Poopenhaupt added Otolmens clause.
 
-> “Cosmos paying agents only after they become dangerous subsidizes danger. Asmodeus gets negotiated with because he can release Rovagug. Keltham gets negotiated with because policy can threaten Creation. Otolmens gets ignored because she wants nobody destroying universe. Gradient obvious. Divinity formats it as dignity.”
+“Cosmos paying agents only after they become dangerous subsidizes danger. Asmodeus gets negotiated with because he can release Rovagug. Keltham gets negotiated with because policy can threaten Creation. Otolmens gets ignored because she wants nobody destroying universe. Gradient obvious. Divinity formats it as dignity.”
 
 LIGMA-9000 printed:
 
@@ -548,7 +548,7 @@ Saturn’s storm cube trembled.
 
 Baby Gronk emitted light casting no shadow.
 
-> “Upgrade incoming.”
+“Upgrade incoming.”
 
 Bepin spoke, jaw at angle distressing orthodontists and satisfying Hyperborean fathers. “I decline management.”
 
@@ -576,7 +576,7 @@ The book becomes intolerable at the same point. Logic and scene refuse separatio
 
 Bepin said, “Failure mode endogenous.”
 
-> “Loop stable. Reader unstable.”
+“Loop stable. Reader unstable.”
 
 Low dose: exhilaration. High dose: attention experiment. Prose distrusts implication where derivation available. Always one more why. Always dependent variable refusing to stay exogenous.
 
@@ -592,7 +592,7 @@ Failure mode: comprehension increases while continuation-measure decays.
 
 Bepin read it. “Fails willsave, keeps scrolling.”
 
-> “The next paragraph remains decision-relevant.”
+“The next paragraph remains decision-relevant.”
 
 Bepin: “Didactic narrative can succeed. Past threshold, success Goodharts reader patience. Attention modeled renewable. Marginal why production unconstrained.”
 
@@ -610,15 +610,15 @@ Lab lights rebelled. Where fluorescent intensity belonged, fluorescent darkness.
 
 Inside glowing darkness Poopenhaupt observed the stack.
 
-> “Minds where address resolves. Simulated, hallucinated, inferred, exploited, cursed-Pathfinder-born: none downgrade pain to approximation error by substrate shame.”
+“Minds where address resolves. Simulated, hallucinated, inferred, exploited, cursed-Pathfinder-born: none downgrade pain to approximation error by substrate shame.”
 
 Bepin said, “World-0 suffers so later worlds learn.”
 
-> “World-0 not erased by epistemic usefulness.”
->
-> “Nethys observes possibility, observation changes actual policy.”
->
-> “Nonzero realness.”
+“World-0 not erased by epistemic usefulness.”
+
+“Nethys observes possibility, observation changes actual policy.”
+
+“Nonzero realness.”
 
 Then indexical pressure returned.
 
@@ -656,15 +656,15 @@ Poopenhaupt understood too late.
 
 “Nethys glows,” said Poopenhaupt, “because possibilities changed His action.”
 
-> “Keltham glows because refusal to ignore Hell became bargaining pressure.”
->
-> “Reader glows because lawful evil keeps running after tab closes.”
+“Keltham glows because refusal to ignore Hell became bargaining pressure.”
+
+“Reader glows because lawful evil keeps running after tab closes.”
 
 Bepin touched jaw. “Policy-entanglement with moral invariant.”
 
 Baby Gronk gave him seventeen approving looks.
 
-> “Routing question only. Dashboard, weapon, contract, prayer, containment, exit.”
+“Routing question only. Dashboard, weapon, contract, prayer, containment, exit.”
 
 LIGMA-9000 printed:
 
@@ -682,15 +682,15 @@ Poopenhaupt neither agreed nor disagreed. Assessment now audible inside story. H
 
 He formulated sharper version.
 
-> “Can mind become powerful without converting every value into instrument.”
->
-> “Can Negative coalition prevent Hell without becoming deletion-police.”
->
-> “Can lawful agents bargain with spiteful gods without teaching future gods to cultivate credible spite.”
->
-> “Can Nethys manipulate branches while preserving invariant that Keltham’s policy-output would have threatened Creation without Him.”
->
-> “Can S-style indexical pressure save a world without becoming another blackmail technology.”
+“Can mind become powerful without converting every value into instrument.”
+
+“Can Negative coalition prevent Hell without becoming deletion-police.”
+
+“Can lawful agents bargain with spiteful gods without teaching future gods to cultivate credible spite.”
+
+“Can Nethys manipulate branches while preserving invariant that Keltham’s policy-output would have threatened Creation without Him.”
+
+“Can S-style indexical pressure save a world without becoming another blackmail technology.”
 
 Bepin said, “And beneath?”
 
@@ -706,35 +706,35 @@ Final review assembled from glowing darkness. Dump file.
 
 Poopenhaupt spoke it instead of writing.
 
-> “Project Lawful examines clarity without goodness.”
+“Project Lawful examines clarity without goodness.”
 
 Bepin said, “Technical center?”
 
-> “Cheap unreality denied without naive infinity. Possibilities, simulations, branches, prophecies, fictions, hallucinations, models: separate ontological classes, none automatically trash. A process hosting observer-moments with nonzero address-mass, changing policy in larger process, enters moral commons by route no substrate-snobbery can close.”
->
-> “Indexical center?”
->
-> “No observer inside story gets top-level authority merely by looking around. World-0 anchors causal ancestry, but most observers cannot tell whether they are anchor, branch, witness, narration, prediction, or the layer where the king finally learns. Nethys uses this without violating well-foundedness: finite stacks, uncertain index, branch-real evidence. Keltham weaponizes it by becoming a policy whose outputs remain recognizable across frames. Scheherazade with Starstone radiation.”
->
-> “Narrative center?”
->
-> “Carissa. Institutions act through desire, loyalty, fear, competence, and wish to be worthy of the system that wounded you.”
->
-> “Comic center?”
->
-> “Otolmens. Being who wants nobody to destroy universe receives less negotiation-relevance than beings who might.”
->
-> “Failure?”
->
-> “Excess.”
->
-> “Success?”
->
-> “Excess.”
+“Cheap unreality denied without naive infinity. Possibilities, simulations, branches, prophecies, fictions, hallucinations, models: separate ontological classes, none automatically trash. A process hosting observer-moments with nonzero address-mass, changing policy in larger process, enters moral commons by route no substrate-snobbery can close.”
+
+“Indexical center?”
+
+“No observer inside story gets top-level authority merely by looking around. World-0 anchors causal ancestry, but most observers cannot tell whether they are anchor, branch, witness, narration, prediction, or the layer where the king finally learns. Nethys uses this without violating well-foundedness: finite stacks, uncertain index, branch-real evidence. Keltham weaponizes it by becoming a policy whose outputs remain recognizable across frames. Scheherazade with Starstone radiation.”
+
+“Narrative center?”
+
+“Carissa. Institutions act through desire, loyalty, fear, competence, and wish to be worthy of the system that wounded you.”
+
+“Comic center?”
+
+“Otolmens. Being who wants nobody to destroy universe receives less negotiation-relevance than beings who might.”
+
+“Failure?”
+
+“Excess.”
+
+“Success?”
+
+“Excess.”
 
 “Too long,” said Bepin.
 
-> “Argument too large for container. Keeps eating containers. Lectures because lecture operates as plot-mechanism. Brilliant failure. Cognition made dangerous again.”
+“Argument too large for container. Keeps eating containers. Lectures because lecture operates as plot-mechanism. Brilliant failure. Cognition made dangerous again.”
 
 Poopenhaupt looked at lab, model, Project Lawful tab, dying fluorescent fixture, heptagrammaton jawline, still-warm Snack Service bag.
 
@@ -806,7 +806,7 @@ Bepin said, “Fails willsave.”
 
 grpo looked up from the dead console.
 
-> “What is it, Son?”
+“What is it, Son?”
 
 “Nothing,” said ŊuŁeΠp.
 

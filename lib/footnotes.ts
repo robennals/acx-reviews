@@ -383,20 +383,22 @@ function extractPandoc(md: string): ExtractedFootnotes {
       if (current) items.push(current);
       current = { id: m[1], raw: [m[2]] };
     } else if (current) {
-      // Continuation: indented line, or blank between paragraphs of the
-      // same def. A line with content at column 0 ends the current def
-      // (and the run of defs, since defs must be contiguous at the
-      // bottom of the doc).
+      // Continuation: indented line, blank between paragraphs of the
+      // same def, OR a column-0 non-def line (e.g. a `>`-blockquote the
+      // author typed without indenting it under the footnote). Once we
+      // enter the footnotes section (first `[^N]:` detected), every
+      // subsequent line up to EOF or the next `[^M]:` belongs to the
+      // current footnote — otherwise hand-formatted multi-paragraph
+      // footnotes lose every def after the un-indented continuation.
+      // Brook Farm is the canonical example: `[^6]:` ends with "Turner
+      // writes:" then a column-0 `> ...` blockquote, then `[^7]:` /
+      // `[^8]:`. Treating the `>` as a section-terminator dropped 7/8.
       if (lines[i].trim() === '') {
         current.raw.push('');
       } else if (/^[ \t]/.test(lines[i])) {
         current.raw.push(lines[i].replace(/^[ \t]+/, ''));
       } else {
-        // Column-0 non-blank, non-def: definitions block ended above.
-        // Push the current def and stop scanning.
-        items.push(current);
-        current = null;
-        break;
+        current.raw.push(lines[i]);
       }
     }
   }

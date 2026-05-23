@@ -214,6 +214,12 @@ interface ReviewException {
   // reviews where the author uses italics for emphasis or other
   // non-quote purposes that would be wrongly wrapped.
   disableItalicAsBlockquote?: boolean;
+  // Opt out of the "single-paragraph pull-quote becomes blockquote"
+  // rule that fires inside cleanupMarkdown. Use for docs where every
+  // dialogue line is wrapped in quotation marks and the author does
+  // not intend them as visual block quotes (planecrash uses this
+  // convention throughout).
+  disableQuotedParagraphAsBlockquote?: boolean;
   // Promote bold-only lines to headings even when they end in
   // sentence punctuation. The default reject-trailing-punct rule
   // protects reviews like Son Also Rises that use bold sentences
@@ -1095,7 +1101,12 @@ async function main() {
     // the latest content rather than skipping by publishedDate.
     try {
       const html = await fetchGDocAsHTML(docId);
-      const markdown = convertGDocToMarkdown(html);
+      const markdown = convertGDocToMarkdown(html, {
+        disableQuotedParagraphAsBlockquote:
+          candidateSlug && reviewExceptions[candidateSlug]?.disableQuotedParagraphAsBlockquote
+            ? true
+            : false,
+      });
 
       const title = sanitizeTitle(row.title);
       let slug = slugify(title);

@@ -515,6 +515,32 @@ test('plain: bare-digit fallback catches mid-sentence refs (letter + digit)', ()
   assert.ok(r.body.includes('data-fn-id="3"'));
 });
 
+test('pandoc: extracts all defs even when an un-indented blockquote sits between them', () => {
+  // Real example from "Brook Farm: The Dark Side of Utopia": footnote 6's
+  // content includes a quoted blockquote that the author typed at column 0
+  // (not indented under the footnote). The extractor must NOT stop scanning
+  // for subsequent [^N]: defs just because it sees a column-0 non-def line
+  // — that would drop footnotes 7 and 8 entirely.
+  const input = [
+    'Body text with refs [^1] and [^2] and [^3].',
+    '',
+    '[^1]: First footnote.',
+    '',
+    '[^2]: Second footnote, ends with: writes:',
+    '',
+    '> Quoted continuation typed at column 0 (not indented).',
+    '',
+    '[^3]: Third footnote that should still be extracted.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+
+  assert.equal(r.footnotes.length, 3,
+    `expected 3 footnotes; got ${r.footnotes.length}: ${JSON.stringify(r.footnotes.map(f => f.id))}`);
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '3']);
+});
+
 test('plain: bare-digit fallback skips version numbers like 2.0.1', () => {
   // File has def [1] but body contains `version 2.0.1`. The trailing "1" should
   // not be rewritten because it's part of a decimal.
