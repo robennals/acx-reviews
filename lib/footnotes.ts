@@ -68,9 +68,17 @@ function detectFormat(md: string): Format {
   // in that walk, this is plain format.
   const lines = md.split('\n');
   const hasBracketed = lines.some(l => /^\[\d+\][ \t]/.test(l));
+  // Bare-digit def forms (only when no bracketed defs exist anywhere):
+  //   - `N` on its own line (Nick-Chater style)
+  //   - `N content` with the content on the same line (Mother of
+  //     Learning style). Restrict to ≤3-digit numbers to keep
+  //     "1981 was a year of…" body text from being mis-detected.
   const isDefStart = hasBracketed
     ? (s: string) => /^\[\d+\][ \t]/.test(s)
-    : (s: string) => /^\[\d+\][ \t]/.test(s) || /^\d+[ \t]*$/.test(s);
+    : (s: string) =>
+        /^\[\d+\][ \t]/.test(s) ||
+        /^\d+[ \t]*$/.test(s) ||
+        /^\d{1,3}[ \t]+\S/.test(s);
   const defLineIndices: number[] = [];
   for (let k = 0; k < lines.length; k++) {
     if (isDefStart(lines[k])) defLineIndices.push(k);
@@ -462,6 +470,11 @@ function extractPlain(md: string): ExtractedFootnotes {
     if (hasBracketed) return null;
     const m2 = /^(\d+)[ \t]*$/.exec(s);
     if (m2) return { id: m2[1], inline: '' };
+    // `N content` form (Mother of Learning). Restrict id to ≤3 digits
+    // so body lines like "1981 was a year of…" don't trip the
+    // detector (must be paired with the trailing-region walk above).
+    const m3 = /^(\d{1,3})[ \t]+(\S.*)$/.exec(s);
+    if (m3) return { id: m3[1], inline: m3[2] };
     return null;
   };
   const isDefStart = (s: string) => matchDefStart(s) !== null;

@@ -194,6 +194,35 @@ test('plain: detects bracketed defs even when the last def is multi-paragraph (A
   assert.ok(result.footnotes[1].raw.includes('blockquote line'), `fn 2 should include the blockquote; got: ${result.footnotes[1].raw}`);
 });
 
+test('plain: handles bare-number + space + content footnote-def lines (Mother-of-Learning-style)', () => {
+  // Real example: footnote defs are `N content` on a single line — bare
+  // digit, space, then the footnote text. Inline refs in the body are
+  // also bare digits adjacent to a sentence-ending character.
+  const input = [
+    'Body text ending in a citation.1  Continues with more text.2',
+    '',
+    'Another paragraph with a ref.3',
+    '',
+    '## Footnotes',
+    '',
+    '1 First footnote content.',
+    '',
+    '2 Second footnote content here.',
+    '',
+    '3 Third footnote content here.',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 3,
+    `expected 3 footnotes; got ${r.footnotes.length}: ${JSON.stringify(r.footnotes.map(f => f.id))}`);
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '3']);
+  assert.ok(r.footnotes[0].raw.includes('First footnote content'), `fn1 content; got: ${r.footnotes[0].raw}`);
+  // Body refs should be rewritten to <sup>.
+  assert.ok(r.body.includes('data-fn-id="1"'), `body should have fn-1 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="2"'), `body should have fn-2 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="3"'), `body should have fn-3 ref; got: ${r.body}`);
+});
+
 test('plain: handles bare-number footnote-def lines (Nick-Chater-style)', () => {
   // Real example from "The Mind is Flat": the author put each footnote
   // number on its own line, followed by content paragraphs, instead of
