@@ -803,9 +803,11 @@ async function createMarkdownFile(
     // lines stacked tight (consecutive `<p>`s with no empty separator),
     // turndown emits each `<p>` with `\n\n` between, and the merge
     // regex below would turn each one into its own paragraph in the
-    // blockquote with vertical space between. For short verse lines
-    // we want one tight stanza (consecutive `> ` lines render as one
-    // CommonMark paragraph inside the blockquote). Aesopian Language's
+    // blockquote with vertical space between. We want one tight stanza
+    // with the line breaks preserved — so drop the blank line AND
+    // append a CommonMark hard-line-break marker (trailing two spaces)
+    // to the previous verse line so each line still renders as its
+    // own line inside the blockquote paragraph. Aesopian Language's
     // "Squares" excerpts are the canonical case. Heuristic: both
     // adjacent lines must be wholly italic (`> _…_`) and short.
     {
@@ -815,7 +817,6 @@ async function createMarkdownFile(
       const out: string[] = [];
       let i = 0;
       while (i < lines.length) {
-        out.push(lines[i]);
         if (
           i + 2 < lines.length &&
           ITALIC_QUOTE_LINE.test(lines[i]) &&
@@ -824,9 +825,12 @@ async function createMarkdownFile(
           ITALIC_QUOTE_LINE.test(lines[i + 2]) &&
           lines[i + 2].length <= POETRY_LINE_MAX
         ) {
-          // Drop the blank line so the two `>` lines stack tight.
+          // Append `  ` (hard line break) to current line, drop the
+          // blank, advance to the next verse line.
+          out.push(lines[i].replace(/\s*$/, '') + '  ');
           i += 2;
         } else {
+          out.push(lines[i]);
           i += 1;
         }
       }
