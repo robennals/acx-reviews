@@ -1369,12 +1369,30 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         // long paragraphs and don't need this marker; the markdown
         // merge step already produces a `>` paragraph-break that
         // renders correctly.
-        if (prev && next && isElementIndented(prev) && isElementIndented(next)) {
+        if (prev && next) {
           const POETRY_LINE_MAX = 100;
           const prevText = prev.text().trim();
           const nextText = next.text().trim();
-          if (prevText.length <= POETRY_LINE_MAX && nextText.length <= POETRY_LINE_MAX) {
-            el.html('<br>');
+          const bothShort =
+            prevText.length <= POETRY_LINE_MAX && nextText.length <= POETRY_LINE_MAX;
+          const bothIndented = isElementIndented(prev) && isElementIndented(next);
+          // Italic-only neighbors are downstream-wrapped as blockquotes
+          // by cleanupMarkdown's italic-run rule; we need the same
+          // empty-<p>→`> `-marker treatment so the source's stanza
+          // breaks survive turndown (otherwise the markdown-stage merge
+          // adds a `>` blank between EVERY adjacent italic-quote pair,
+          // losing the within-stanza vs between-stanza distinction).
+          const bothItalic =
+            isParagraphAllItalic($, prev, styles.italicClasses) &&
+            isParagraphAllItalic($, next, styles.italicClasses);
+          if (bothShort && (bothIndented || bothItalic)) {
+            // Use a text sentinel inside the <br>s so the marker
+            // survives turndown intact. A bare `<br>` inside an empty
+            // `<p>` inside `<blockquote>` collapses to nothing — losing
+            // the stanza-break signal. The markdown stage recognizes
+            // `XSTANZABREAKX` lines and strips them after the tight-
+            // stack rule has used their position to skip collapsing.
+            el.html('<br>XSTANZABREAKX<br>');
             el.wrap('<blockquote></blockquote>');
           }
         }
@@ -1436,90 +1454,6 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         if (hasFtntDefAnchor) continue;
         el.wrap('<blockquote></blockquote>');
       }
-    }
-  }
-
-  // Italic-run blockquote pass: detect runs of consecutive italic-only
-  // `<p>` siblings (with possible empty `<p>` separators between them
-  // for stanza breaks). Group the italic `<p>`s into "stanzas" — runs
-  // separated by empty `<p>`s in the source. For each stanza, merge
-  // its `<p>`s into ONE `<p>` with `<br>` between verse lines, then
-  // wrap each merged stanza-`<p>` in its own `<blockquote>`. Turndown
-  // emits each stanza as a tight `> verse  \n> verse  \n> verse` block;
-  // turndown drops the empty separator `<p>`s; cleanupMarkdown's
-  // adjacent-blockquote merge then inserts `>` between adjacent
-  // stanza blockquotes — giving the rendered shape of the original
-  // poem (lines tight within a stanza, blank between stanzas). Real
-  // example: Aesopian Language's "Northern Spring" poem.
-  if (styles.italicClasses.size > 0) {
-    const PADDING_TIGHT_MAX = 3;
-    const paragraphPaddingBottom = (p: ReturnType<typeof $>) => {
-      const classes = (p.attr('class') || '').split(/\s+/);
-      let pb = 0;
-      for (const c of classes) {
-        const m = styles.classMargins.get(c);
-        if (m) pb += m.paddingBottom;
-      }
-      return pb;
-    };
-    const candidates = $('body > p').toArray();
-    const ITALIC_RUN_MIN_SUBSTANTIVE = 3;
-    let i = 0;
-    while (i < candidates.length) {
-      const el = $(candidates[i]);
-      if (!isParagraphAllItalic($, el, styles.italicClasses)) { i++; continue; }
-      // Walk forward, building a list of stanzas (each stanza is a
-      // list of consecutive italic <p>s with no stanza break between
-      // them). A stanza break is signaled by EITHER an empty `<p>`
-      // separator OR the previous member having non-zero
-      // padding-bottom (the gdoc author styled it with a visual gap
-      // — e.g. a poem title that sits above the first stanza with
-      // extra padding rather than an empty separator paragraph).
-      const stanzas: ReturnType<typeof $>[][] = [];
-      let currentStanza: ReturnType<typeof $>[] = [el];
-      let lastItalic = i;
-      let j = i + 1;
-      while (j < candidates.length) {
-        const nextEl = $(candidates[j]);
-        const nextEmpty = !nextEl.text().trim() && !nextEl.find('img').length;
-        const nextItalic = !nextEmpty && isParagraphAllItalic($, nextEl, styles.italicClasses);
-        if (nextItalic) {
-          // Padding-bottom check on the previous stanza member: if
-          // it carries a visible gap-after, close the current stanza
-          // before adding nextEl as the start of a new one.
-          if (currentStanza.length > 0) {
-            const prev = currentStanza[currentStanza.length - 1];
-            if (paragraphPaddingBottom(prev) > PADDING_TIGHT_MAX) {
-              stanzas.push(currentStanza);
-              currentStanza = [];
-            }
-          }
-          currentStanza.push(nextEl);
-          lastItalic = j;
-          j++;
-        } else if (nextEmpty) {
-          if (currentStanza.length > 0) stanzas.push(currentStanza);
-          currentStanza = [];
-          j++;
-        } else {
-          break;
-        }
-      }
-      if (currentStanza.length > 0) stanzas.push(currentStanza);
-      const substantiveCount = stanzas.reduce((s, st) => s + st.length, 0);
-      if (substantiveCount >= ITALIC_RUN_MIN_SUBSTANTIVE) {
-        for (const stanza of stanzas) {
-          if (stanza.length === 0) continue;
-          const head = stanza[0];
-          for (let k = 1; k < stanza.length; k++) {
-            head.append('<br>');
-            head.append(stanza[k].contents());
-            stanza[k].remove();
-          }
-          head.wrap('<blockquote></blockquote>');
-        }
-      }
-      i = lastItalic + 1;
     }
   }
 

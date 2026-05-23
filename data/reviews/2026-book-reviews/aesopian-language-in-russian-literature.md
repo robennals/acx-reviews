@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-13T09:29:03.000Z'
 slug: aesopian-language-in-russian-literature
-wordCount: 6713
+wordCount: 6710
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -111,8 +111,7 @@ _He was the slave of a tenacious,_
 
 a restless urge for change of place
 
-> _(an attribute that's quite vexatious,_
->
+> _(an attribute that's quite vexatious,_  
 > _though some support it with good grace)._
 
 (from the translation by Charles H. Johnston)
@@ -163,8 +162,7 @@ The best way to demonstrate it is through an example. Arkhipova discusses “The
 
 Read it “as is” first, and then I will add context.
 
-> _“The Northern Spring”_
->
+> _“The Northern Spring”_  
 > _Can ever children of the tropics,_  
 > _Where in December roses bloom,_  
 > _Where in thesauruses the topic_  
@@ -280,8 +278,7 @@ His mustache was one of his defining features and a common shorthand for him. Co
 
 Another example is “Hide and Seek in the Dusk” (1973), a little poem by the lesser-known Soviet poet Andrey Georgievich Ivanov. It was written during the so-called Era of Stagnation, which followed the Thaw. The poem is a little creepy until you parse its Aesopian meaning, and then it’s plenty creepy.
 
-> _Hide and Seek in the Dusk_
->
+> _Hide and Seek in the Dusk_  
 > _When evening poured its honey light_  
 > _Across the garden, warm and bright,_  
 > _The children cried, “Now count to ten!”_  

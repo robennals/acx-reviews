@@ -798,18 +798,22 @@ async function createMarkdownFile(
   if (contestId === '2026-book-reviews' && !slugExceptions[slug]?.disableItalicAsBlockquote) {
     truncatedContent = wrapItalicParagraphsAsBlockquotes(truncatedContent);
     // Tight-stack consecutive short italic-quote `> _..._` lines as
-    // poetry. wrapItalicParagraphsAsBlockquotes wraps each italic
-    // source paragraph individually; when the gdoc author had verse
-    // lines stacked tight (consecutive `<p>`s with no empty separator),
-    // turndown emits each `<p>` with `\n\n` between, and the merge
-    // regex below would turn each one into its own paragraph in the
-    // blockquote with vertical space between. We want one tight stanza
-    // with the line breaks preserved — so drop the blank line AND
-    // append a CommonMark hard-line-break marker (trailing two spaces)
-    // to the previous verse line so each line still renders as its
-    // own line inside the blockquote paragraph. Aesopian Language's
-    // "Squares" excerpts are the canonical case. Heuristic: both
-    // adjacent lines must be wholly italic (`> _…_`) and short.
+    // poetry. By this point, both cleanupMarkdown's italic-run wrap
+    // AND its adjacent-blockquote merge have already run; consecutive
+    // wrapped italics are separated by EITHER a true blank line (the
+    // wrapItalicParagraphsAsBlockquotes pass above wrapped them just
+    // now) or a `>` blank-quote line (cleanupMarkdown's merge already
+    // added it). For tight-stacking we collapse a single such gap
+    // between two short italic-quote lines, replacing it with a
+    // CommonMark hard line break (trailing `  `) so the lines render
+    // tight inside one blockquote paragraph. The number of `>` blanks
+    // between matters: ONE `>` came from the merge over a single source
+    // paragraph break (tight stanza neighbors); TWO `>` came from the
+    // merge over a stanza-break marker (an empty `<p>` separator in
+    // source that the HTML stage preserved as `<blockquote><br></bq>`)
+    // — leave those alone, they encode the author's stanza break.
+    // Aesopian Language's "Squares" and "Northern Spring" are the
+    // canonical cases.
     {
       const POETRY_LINE_MAX = 100;
       const ITALIC_QUOTE_LINE = /^>\s+_[^_]+_\s*$/;
@@ -817,6 +821,7 @@ async function createMarkdownFile(
       const out: string[] = [];
       let i = 0;
       while (i < lines.length) {
+        // Pattern A: italic-quote, true blank, italic-quote.
         if (
           i + 2 < lines.length &&
           ITALIC_QUOTE_LINE.test(lines[i]) &&
@@ -825,22 +830,50 @@ async function createMarkdownFile(
           ITALIC_QUOTE_LINE.test(lines[i + 2]) &&
           lines[i + 2].length <= POETRY_LINE_MAX
         ) {
-          // Append `  ` (hard line break) to current line, drop the
-          // blank, advance to the next verse line.
           out.push(lines[i].replace(/\s*$/, '') + '  ');
           i += 2;
-        } else {
-          out.push(lines[i]);
-          i += 1;
+          continue;
         }
+        // Pattern B: italic-quote, single `>` blank-quote, italic-quote.
+        // Distinguish from stanza break (2+ `>` blanks in a row).
+        if (
+          i + 2 < lines.length &&
+          ITALIC_QUOTE_LINE.test(lines[i]) &&
+          lines[i].length <= POETRY_LINE_MAX &&
+          lines[i + 1].trim() === '>' &&
+          ITALIC_QUOTE_LINE.test(lines[i + 2]) &&
+          lines[i + 2].length <= POETRY_LINE_MAX
+        ) {
+          out.push(lines[i].replace(/\s*$/, '') + '  ');
+          i += 2;
+          continue;
+        }
+        out.push(lines[i]);
+        i += 1;
       }
       truncatedContent = out.join('\n');
     }
+    // Strip the XSTANZABREAKX sentinel lines (inserted at HTML stage
+    // to preserve empty `<p>` separators between italic siblings). The
+    // tight-stack rule above has already used their position to skip
+    // collapsing; now they can be removed. Their surrounding `>` blank
+    // lines remain in place, encoding the stanza break.
+    truncatedContent = truncatedContent
+      .split('\n')
+      .filter(l => !/^>\s*XSTANZABREAKX\s*$/.test(l))
+      .join('\n');
     // Re-run the adjacent-blockquote merge: this step ran inside
     // cleanupMarkdown but only saw blockquotes that existed at that
     // point. The italic-wrap just added more, and runs of them need
     // the same blank-`>` separator between paragraphs.
     truncatedContent = truncatedContent.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
+    // Collapse consecutive blank-`>` lines into one — stripping the
+    // XSTANZABREAKX sentinel leaves doubled `>` blanks where the
+    // original empty `<p>` separator sat between the two surrounding
+    // merge-inserted blanks. CommonMark treats N consecutive blank
+    // `>` lines the same as one (paragraph break in blockquote), but
+    // matching the source's single blank line keeps the markdown clean.
+    truncatedContent = truncatedContent.replace(/(?:^>[ \t]*\n){2,}/gm, '>\n');
   }
 
   if (slugExceptions[slug]?.bulletsAfterQuoteAreQuoted) {
