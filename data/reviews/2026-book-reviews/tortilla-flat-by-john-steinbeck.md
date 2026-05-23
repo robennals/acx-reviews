@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T20:23:00.000Z'
 slug: tortilla-flat-by-john-steinbeck
-wordCount: 6009
+wordCount: 6013
 readingTimeMinutes: 27
 source: gdoc
 tags:
@@ -95,10 +95,14 @@ Dana devotes great detail to the fantastical (to him) Californio custom of treat
 
 This is Dana in Chapter XVIII describing Easter Sunday ashore in San Diego
 
-> In a few minutes the man made his appearance, and apologized for having nothing to entertain us with, saying that he had had a fandango at his house the night before, and the people had eaten and drunk up everything.  
-> "Oh yes!" said I, "Easter holydays?"  
-> "No!" said he, with a singular expression to his face; "I had a little daughter die the other day, and that's the custom of the country."  
-> Here I felt a little strangely, not knowing what to say, or whether to offer consolation or no, and was beginning to retire, when he opened a side door and told us to walk in. Here I was no less astonished; for I found a large room, filled with young girls, from three or four years of age up to fifteen and sixteen, dressed all in white, with wreaths of flowers on their heads, and bouquets in their hands. Following our conductor through all these girls, who were playing about in high spirits, we came to a table, at the end of the room, covered with a white cloth, on which lay a coffin, about three feet long, with the body of his child. The coffin was lined on the outside with white cloth, and on the inside with white satin, and was strewed with flowers. Through an open door we saw, in another room, a few elderly people in common dresses; while the benches and tables thrown up in a corner, and the stained walls, gave evident signs of the last night's "high go." Feeling, like Garrick, between tragedy and comedy, an uncertainty of purpose and a little awkwardness, I asked the man when the funeral would take place, and being told that it would move toward the mission in about an hour, took my leave.  
+> In a few minutes the man made his appearance, and apologized for having nothing to entertain us with, saying that he had had a fandango at his house the night before, and the people had eaten and drunk up everything.
+>
+> "Oh yes!" said I, "Easter holydays?"
+>
+> "No!" said he, with a singular expression to his face; "I had a little daughter die the other day, and that's the custom of the country."
+>
+> Here I felt a little strangely, not knowing what to say, or whether to offer consolation or no, and was beginning to retire, when he opened a side door and told us to walk in. Here I was no less astonished; for I found a large room, filled with young girls, from three or four years of age up to fifteen and sixteen, dressed all in white, with wreaths of flowers on their heads, and bouquets in their hands. Following our conductor through all these girls, who were playing about in high spirits, we came to a table, at the end of the room, covered with a white cloth, on which lay a coffin, about three feet long, with the body of his child. The coffin was lined on the outside with white cloth, and on the inside with white satin, and was strewed with flowers. Through an open door we saw, in another room, a few elderly people in common dresses; while the benches and tables thrown up in a corner, and the stained walls, gave evident signs of the last night's "high go." Feeling, like Garrick, between tragedy and comedy, an uncertainty of purpose and a little awkwardness, I asked the man when the funeral would take place, and being told that it would move toward the mission in about an hour, took my leave.
+>
 > [...] From the beach we returned to the town, and finding that the funeral procession had moved, rode on and overtook it, about half-way to the mission. Here was as peculiar a sight as we had seen before in the house; the one looking as much like a funeral procession as the other did like a house of mourning. The little coffin was borne by eight girls, who were continually relieved by others, running forward from the procession and taking their places. Behind it came a straggling company of girls, dressed as before, in white and flowers, and including, I should suppose by their numbers, nearly all the girls between five and fifteen in the place. They played along on the way, frequently stopping and running all together to talk to some one, or to pick up a flower, and then running on again to overtake the coffin. There were a few elderly women in common colors; and a herd of young men and boys, some on foot and others mounted, followed them, or walked or rode by their side, frequently interrupting them by jokes and questions. But the most singular thing of all was, that two men walked, one on each side of the coffin, carrying muskets in their hands, which they continually loaded, and fired into the air. Whether this was to keep off the evil spirits or not, I do not know. It was the only interpretation that I could put upon it.
 
 This detail of firing guns over the body of the deceased is also echoed by Steinbeck, once in foreshadowing when Danny speaks of his eventual death and then once with an actual fandango-esque funeral procession which recalls Dana’s description:

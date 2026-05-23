@@ -136,6 +136,11 @@ interface ClassMargins {
   // 0pt padding) vs. essay paragraphs with a normal gap (e.g. Pluto
   // quote with 10pt padding).
   paddingBottom: number;
+  // CSS `padding-top` on the class (in pt). Symmetric counterpart to
+  // paddingBottom — some authors use TOP padding instead of (or in
+  // addition to) bottom padding to mark a visual gap before this
+  // paragraph (Tortilla Flat's c8 quote-style uses both).
+  paddingTop: number;
 }
 
 interface GDocStyleMap {
@@ -337,13 +342,15 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
     const marginRightMatch = props.match(/margin-right\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const textIndentMatch = props.match(/text-indent\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const paddingBottomMatch = props.match(/padding-bottom\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const paddingTopMatch = props.match(/padding-top\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const ml = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
     const mr = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
     const ti = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
     const pb = paddingBottomMatch ? parseFloat(paddingBottomMatch[1]) : 0;
-    if (ml || mr || ti || pb) {
-      classMargins.set(cls, { marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb });
-      if (marginsAreIndented({ marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb })) {
+    const pt = paddingTopMatch ? parseFloat(paddingTopMatch[1]) : 0;
+    if (ml || mr || ti || pb || pt) {
+      classMargins.set(cls, { marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb, paddingTop: pt });
+      if (marginsAreIndented({ marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb, paddingTop: pt })) {
         indentClasses.add(cls);
       }
     }
@@ -2386,6 +2393,25 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
         }
         return sawSubstantive;
       };
+      const PADDING_TIGHT_MAX = 3;
+      const paragraphPaddingBottom = (p: ReturnType<typeof $>) => {
+        const classes = (p.attr('class') || '').split(/\s+/);
+        let pb = 0;
+        for (const c of classes) {
+          const m = styles.classMargins.get(c);
+          if (m) pb += m.paddingBottom;
+        }
+        return pb;
+      };
+      const paragraphPaddingTop = (p: ReturnType<typeof $>) => {
+        const classes = (p.attr('class') || '').split(/\s+/);
+        let pt = 0;
+        for (const c of classes) {
+          const m = styles.classMargins.get(c);
+          if (m) pt += m.paddingTop;
+        }
+        return pt;
+      };
       const candidates = $('body > p').toArray();
       let i = 0;
       while (i < candidates.length) {
@@ -2400,6 +2426,21 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
           const nextEmpty = !nextEl.text().trim() && !nextEl.find('img').length;
           const nextMinority = !nextEmpty && isMinorityFontParagraph(nextEl);
           if (nextMinority) {
+            // Visual-gap check: close the current stanza before adding
+            // nextEl if the gap between them is non-trivial. The gap
+            // is the sum of the previous paragraph's padding-bottom
+            // and nextEl's padding-top — the gdoc author can mark a
+            // stanza break with either (or both) instead of an empty
+            // `<p>` separator (Tortilla Flat's Dana quote uses c8 with
+            // both padding-top:12pt AND padding-bottom:12pt).
+            if (currentStanza.length > 0) {
+              const prev = currentStanza[currentStanza.length - 1];
+              const gap = paragraphPaddingBottom(prev) + paragraphPaddingTop(nextEl);
+              if (gap > PADDING_TIGHT_MAX) {
+                stanzas.push(currentStanza);
+                currentStanza = [];
+              }
+            }
             currentStanza.push(nextEl);
             lastMinority = j;
             j++;
