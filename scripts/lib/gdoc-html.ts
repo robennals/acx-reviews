@@ -177,6 +177,16 @@ interface GDocStyleMap {
   // from the body's dominant family — the author's signal for a
   // visually-set-off quote block.
   classFontFamily: Map<string, string>;
+  // Per-class font-size (raw pt value). Paired with classFontFamily
+  // for the minority-font-as-blockquote rule, which treats EITHER a
+  // different family OR a smaller size as the author's signal for a
+  // visually-set-off quote block (Der Untergang uses 10pt vs the 11pt
+  // body in the same Arial family).
+  classFontSize: Map<string, number>;
+  // Dominant body font-size in pt (computed across all spans, weighted
+  // by character count). Used as the baseline for the smaller-font
+  // signal in minority-font-as-blockquote.
+  bodyFontSize: number;
 }
 
 // Threshold check on margins. A paragraph counts as "indented"
@@ -262,9 +272,10 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
   const indentClasses = new Set<string>();
   const classMargins = new Map<string, ClassMargins>();
   const classFontFamily = new Map<string, string>();
+  const classFontSize = new Map<string, number>();
 
   const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
-  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily };
+  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily, classFontSize, bodyFontSize: bodySizeHint ?? 11 };
 
   const styleText = styleMatch[1];
 
@@ -326,8 +337,12 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
       italicClasses.add(cls);
     }
     const fontSizeMatch = props.match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
-    if (fontSizeMatch && parseFloat(fontSizeMatch[1]) >= largeFloor) {
-      largeFontClasses.add(cls);
+    if (fontSizeMatch) {
+      const fs = parseFloat(fontSizeMatch[1]);
+      classFontSize.set(cls, fs);
+      if (fs >= largeFloor) {
+        largeFontClasses.add(cls);
+      }
     }
     if (/text-decoration\s*:\s*underline/.test(props)) {
       underlineClasses.add(cls);
@@ -360,7 +375,7 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
     }
   }
 
-  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily };
+  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily, classFontSize, bodyFontSize: bodySize };
 }
 
 // True if every substantive (non-empty) span in the paragraph carries an
@@ -2344,13 +2359,14 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
   // Minority-font-as-blockquote pass (per-slug exception). Detect the
   // dominant font-family among substantive spans, then group runs of
   // consecutive `<p>` siblings whose spans all use a non-dominant font
-  // into stanzas (with empty `<p>` separators marking stanza breaks).
-  // Merge each stanza into one `<p>` with `<br>` between lines and
-  // wrap in `<blockquote>`. Same shape as a poetry stanza — each
-  // stanza becomes a tight multi-line blockquote, stanzas separated
-  // by `>` blank lines downstream. Used for Tortilla Flat (Steinbeck
-  // and Dana excerpts in Times New Roman vs. Arial body).
-  if (options.minorityFontAsBlockquote && styles.classFontFamily.size > 1) {
+  // (different family OR smaller size than the body) into stanzas
+  // (with empty `<p>` separators marking stanza breaks). Merge each
+  // stanza into one `<p>` with `<br>` between lines and wrap in
+  // `<blockquote>`. Same shape as a poetry stanza — each stanza
+  // becomes a tight multi-line blockquote, stanzas separated by `>`
+  // blank lines downstream. Used for Tortilla Flat (Times New Roman
+  // vs. Arial body) and Der Untergang (10pt vs. 11pt body).
+  if (options.minorityFontAsBlockquote) {
     // Count substantive characters per font-family across all spans.
     const familyChars = new Map<string, number>();
     $('span').each(function () {
@@ -2374,7 +2390,26 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
         dominantChars = chars;
       }
     }
-    if (dominantFamily) {
+    const bodySize = styles.bodyFontSize;
+    const spanSize = (s: any): number | undefined => {
+      const classes = ($(s).attr('class') || '').split(/\s+/);
+      let size: number | undefined;
+      for (const c of classes) {
+        const v = styles.classFontSize.get(c);
+        if (v !== undefined) size = v;
+      }
+      return size;
+    };
+    const spanFamily = (s: any): string | undefined => {
+      const classes = ($(s).attr('class') || '').split(/\s+/);
+      let family: string | undefined;
+      for (const c of classes) {
+        const f = styles.classFontFamily.get(c);
+        if (f) family = f;
+      }
+      return family;
+    };
+    {
       const isMinorityFontParagraph = (el: ReturnType<typeof $>): boolean => {
         const spans = el.find('span').toArray();
         if (spans.length === 0) return false;
@@ -2383,13 +2418,14 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
           const t = $(s).text();
           if (!t.trim()) continue;
           sawSubstantive = true;
-          const classes = ($(s).attr('class') || '').split(/\s+/);
-          let family: string | undefined;
-          for (const c of classes) {
-            const f = styles.classFontFamily.get(c);
-            if (f) family = f;
-          }
-          if (!family || family === dominantFamily) return false;
+          const family = spanFamily(s);
+          const size = spanSize(s);
+          // Minority signal: family differs from dominant, OR size is
+          // strictly smaller than the body's dominant size. Either
+          // alone is the author's "this is a quote" cue.
+          const familyDiffers = !!dominantFamily && !!family && family !== dominantFamily;
+          const sizeSmaller = size !== undefined && size < bodySize;
+          if (!familyDiffers && !sizeSmaller) return false;
         }
         return sawSubstantive;
       };

@@ -38,6 +38,10 @@
   "tortilla-flat-by-john-steinbeck": {
     "minorityFontAsBlockquote": true
   },
+  "der-untergang-des-abendlandes": {
+    "disableItalicAsBlockquote": true,
+    "minorityFontAsBlockquote": true
+  },
   "coriolanus": {
     "disableItalicAsBlockquote": true,
     "disableQuotedParagraphAsBlockquote": true

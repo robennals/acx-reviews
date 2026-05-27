@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T09:10:12.000Z'
 slug: der-untergang-des-abendlandes
-wordCount: 6546
+wordCount: 6557
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -20,12 +20,12 @@ tags:
 ## Book Review: Der Untergang des Abendlandes by Oswald Spengler
 
 > _“Before I draw nearer to that stone to which you point," said Scrooge, "answer me one question. Are these the shadows of the things that Will be, or are they shadows of things that May be, only?”_
-
-_A Christmas Carol_ by Charles Dickens
-
+>
+> _A Christmas Carol_ by Charles Dickens
+>
 > _Their view; it is cosmic. Not a man here, a child there, but an abstraction [...] (T)he abstract is real, the actual is invisible to them._
-
-_The Man in the High Castle_ by Philip K. Dick
+>
+> _The Man in the High Castle_ by Philip K. Dick
 
 ## 0. Prelude
 
@@ -77,9 +77,9 @@ Why? To paraphrase Spengler, world history is city history, and the World Cities
 
 New York in fact shows all three signs of the World City: a constant hunger for growth, a tendency towards infertility and last but not least a penchant for robbing nearby urban centres and rural outskirts of their own gravity. In every country the process is different – remember, everyone ages differently! – but the direction is clear. The World Cities pull the rest of human society into their orbit, and soon everything exists _only in relation to them._ Spengler’s dark portrayal of the World City and the “spiritual nomads” drifting through them  is full of delicious German _Geist_, and worth quoting extensively.
 
-“Yet no misery, no force, not even clear insight into the insanity of this design lessens the attraction of these demonic constructs. The wheel of fate rolls towards the end: the birth of the city comes with death in tow. Beginning and end, farmerhouses and houseblocks, are like soul and intelligence, like blood and stone. Yet ‘time’ is nothing but a word for the fact of irreversibility. Here there exists only a forwards, and no backwards. The farmer once gave birth to the market, the country-town, and nourished it with the best blood he could muster. Now these World Cities suck the land dry, insatiable, ceaselessly demanding and devouring new people, until they at last tire in the midst of a barely populated desert, and subsequently die.
-
-A man who has once been spellbound by the sinful splendor of this last historical wonder can never wrest himself free again. Native people can unroot themselves from the land and wander afar. The spiritual nomad cannot. The homesick longing for the great cities is stronger than perhaps any other. To them, home is any one of these megacities, but foreign is the next village over. They would rather die in the gutter of the World City than return to the land. And even the revulsion before this splendor, the growing exhaustion with these lights of a thousand colors, the _taedium vitae_, that begins to take hold of many, does not bring liberation. They will carry the city with them into the mountains and to the banks of the sea. They have lost the land inside themselves, and they can never again find it outside. [^5]
+> “Yet no misery, no force, not even clear insight into the insanity of this design lessens the attraction of these demonic constructs. The wheel of fate rolls towards the end: the birth of the city comes with death in tow. Beginning and end, farmerhouses and houseblocks, are like soul and intelligence, like blood and stone. Yet ‘time’ is nothing but a word for the fact of irreversibility. Here there exists only a forwards, and no backwards. The farmer once gave birth to the market, the country-town, and nourished it with the best blood he could muster. Now these World Cities suck the land dry, insatiable, ceaselessly demanding and devouring new people, until they at last tire in the midst of a barely populated desert, and subsequently die.
+>
+> A man who has once been spellbound by the sinful splendor of this last historical wonder can never wrest himself free again. Native people can unroot themselves from the land and wander afar. The spiritual nomad cannot. The homesick longing for the great cities is stronger than perhaps any other. To them, home is any one of these megacities, but foreign is the next village over. They would rather die in the gutter of the World City than return to the land. And even the revulsion before this splendor, the growing exhaustion with these lights of a thousand colors, the _taedium vitae_, that begins to take hold of many, does not bring liberation. They will carry the city with them into the mountains and to the banks of the sea. They have lost the land inside themselves, and they can never again find it outside. [^5]
 
 ## Truth and fact
 
@@ -93,13 +93,10 @@ Spengler is, in a nutshell, exceedingly negative to intellectuals, and derides t
 
 Truth and abstraction are in fact worse than useless, and act as a dangerous poison to late-stage civilization. World Cities cut their inhabitants off from facts, enabling them to exist in a fantasy-world of total abstraction. This is crucial, because the distinction between truth and fact has a vital socioeconomic dimension. _Money is to truth as goods are to fact._ That is to say, money represents the _abstract_ capability of acquiring _concrete_ goods. This however obscures the reality that goods must always be produced before they can be consumed. As the reign of truth waxes the power of money grows, and eventually the ability to even conceive of economy in terms of goods becomes hazy. Vast amounts of purchasing power can then, and only then, begin to softly yet swiftly recirculate from productive citizens to moochers. Or, to lend a stanza from Rudyard Kipling’s famous Gods of the Copybook Headings:
 
-In the Carboniferous Epoch we were promised abundance for all,
-
-By robbing selected Peter to pay for collective Paul;
-
-> _But, though we had plenty of money, there was nothing our money could buy_,
-
-And the Gods of the Copybook Headings said: "If you don't work you die."
+> In the Carboniferous Epoch we were promised abundance for all,  
+> By robbing selected Peter to pay for collective Paul;  
+> _But, though we had plenty of money, there was nothing our money could buy_,  
+> And the Gods of the Copybook Headings said: "If you don't work you die."
 
 Last but not least, Spengler posits that the growing abstraction of society induces another important and primarily migration-related component of decay: the disintegration of _unified_ peoples (“_Völker_”) into formless populations (“_Bevölkerungen_”). Instead of a Roman Rome filled with Romans, we have a cosmopolitan World City in Italy bereft of Roman virtue. Instead of an Arab Caliphate we get a Mamluk-ish hodge-podge of different tribes without _asabiyyah_. Instead of European nation states, we get multicultural societies without shared destiny and history. This results in further upheaval, but also undermines attempts at correcting course when problems become apparent. Long before Rome fell to the barbarians, barbarians made up most of Rome. This segways nicely into our next topic…
 
