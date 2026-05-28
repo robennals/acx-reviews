@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T21:13:30.000Z'
 slug: the-book-of-abraham
-wordCount: 14272
+wordCount: 14256
 readingTimeMinutes: 64
 source: gdoc
 tags:
@@ -45,32 +45,19 @@ Which sounds deranged today, but isn’t really: status signals are somewhat arb
 
 Among other brave endeavors, they would ground the mummies into a fine powder and [consume it as medicine](https://en.wikipedia.org/wiki/Mummia) even though cannibalism was generally considered to be _gravely_ sinful. Mummy powder was also used as an aphrodisiac. Reading all this, I couldn’t help but reflect a bit on that famous Percy Shelley poem:
 
-> _I met a traveller from an antique land,_
->
-> _Who said: “Two vast and trunkless legs of stone_
->
-> _Stand in the desert. . . . Near them, on the sand,_
->
-> _Half sunk a shattered visage lies, whose frown,_
->
-> _And wrinkled lip, and sneer of cold command,_
->
-> _Tell that its sculptor well those passions read_
->
-> _Which yet survive, stamped on these lifeless things,_
->
-> _The hand that mocked them, and the heart that fed:_
->
-> _And on the pedestal, these words appear:_
->
-> _My name is Ozymandias, king of kings:_
->
-> _Look on my works, ye mighty, and despair!”_
->
-> _Nothing beside remains. Round the decay_
->
-> _Of that colossal wreck, boundless and bare_
->
+> _I met a traveller from an antique land,_  
+> _Who said: “Two vast and trunkless legs of stone_  
+> _Stand in the desert. . . . Near them, on the sand,_  
+> _Half sunk a shattered visage lies, whose frown,_  
+> _And wrinkled lip, and sneer of cold command,_  
+> _Tell that its sculptor well those passions read_  
+> _Which yet survive, stamped on these lifeless things,_  
+> _The hand that mocked them, and the heart that fed:_  
+> _And on the pedestal, these words appear:_  
+> _My name is Ozymandias, king of kings:_  
+> _Look on my works, ye mighty, and despair!”_  
+> _Nothing beside remains. Round the decay_  
+> _Of that colossal wreck, boundless and bare_  
 > _The lone and level sands stretch far away._
 
 One day you’re Ozymandias, king of kings, the next you’re smeared on some guy’s dick to help get him hard. What to do.
@@ -175,12 +162,9 @@ In November 1912, Spalding published their responses in a widely circulated pamp
 
 Spalding’s pamphlet is impressively empathetic and carefully crafted. To me it reads like a banger substack post except in slightly dated prose. The opening dedication goes:
 
-> _“To my many Mormon friends — who_
->
-> _are as honest searchers after the truth_
->
-> _as he hopes he is himself — this book_
->
+> _“To my many Mormon friends — who_  
+> _are as honest searchers after the truth_  
+> _as he hopes he is himself — this book_  
 > _is dedicated by the author.”_
 
 Then he begins the pamphlet with “_If the Book of Mormon is true, it is, next to the Bible, the most important book in the world._” and then continues for a few pages talking about the importance of the Book of Mormon… if it were true. Then he empathizes with the unfair treatment of Mormon apologists in the public discourse:

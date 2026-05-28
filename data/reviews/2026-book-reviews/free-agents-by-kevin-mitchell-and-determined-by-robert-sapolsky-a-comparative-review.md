@@ -140,42 +140,51 @@ appreciate a good list, here are Sapolsky’s ten factors:
 1. What was happening in your brain a split-second to seconds before you make the decision? E.g.
 
 > activity of your brain cells that indicates an intended action, which can be detected up to 10  
-> seconds prior to you realizing you’ve decided to do it.  
-> region of your brain, which were unconsciously triggered by what was going on in your sensory  
-> environment.  
-> activity and make you more prone to certain types of behavior.  
-> your neurons branch and form connections over time, transforming brain regions and adjusting the  
-> thresholds for your emotional and behavioral responses.  
-> frontal cortex, which plays a central role in things like long-term planning, impulse control and  
-> emotional regulation.  
-> personality – are shaped by things like parenting styles, peer groups, your environment, your  
-> culture, diet, trauma, etc.  
-> that were circulating through your mother’s system and affected the development of your fetal  
-> brain, potentially making you more prone to depression, aggression, alcoholism, poor emotion  
-> regulation, schizophrenia, etc.  
-> determine what proteins to produce in order to make all the cells in your body and determine  
-> everything they do, which in turn affects who you are and everything you do.  
-> practices of the family and community into which you were born evolved over centuries and  
-> influenced how you were raised, what values you hold and what you think of as normal behavior.  
-> have evolved to behave differently from marmosets, oak trees and whatnot.
+> seconds prior to you realizing you’ve decided to do it.
 
 2. What was happening seconds to minutes before? E.g. the emotional responses in the amygdala
 
+> region of your brain, which were unconsciously triggered by what was going on in your sensory  
+> environment.
+
 3. Minutes to days before, e.g. the hormones circulating in your bloodstream that affect your brain
+
+> activity and make you more prone to certain types of behavior.
 
 4. Weeks to years before, e.g. things like stress, trauma, depression and parenting affect the way
 
+> your neurons branch and form connections over time, transforming brain regions and adjusting the  
+> thresholds for your emotional and behavioral responses.
+
 5. What happened to you during your adolescence, when your experiences shape your developing
+
+> frontal cortex, which plays a central role in things like long-term planning, impulse control and  
+> emotional regulation.
 
 6. During your childhood, when everything else in your developing brain – and by extension your
 
+> personality – are shaped by things like parenting styles, peer groups, your environment, your  
+> culture, diet, trauma, etc.
+
 7. What was going on while you were in the womb, e.g. the hormones, nutrients, toxins, drugs, etc.
+
+> that were circulating through your mother’s system and affected the development of your fetal  
+> brain, potentially making you more prone to depression, aggression, alcoholism, poor emotion  
+> regulation, schizophrenia, etc.
 
 8. The genes you received from your parents, which interact with environmental factors to
 
+> determine what proteins to produce in order to make all the cells in your body and determine  
+> everything they do, which in turn affects who you are and everything you do.
+
 9. The type of culture your ancestors lived in centuries ago, because the cultural values and
 
+> practices of the family and community into which you were born evolved over centuries and  
+> influenced how you were raised, what values you hold and what you think of as normal behavior.
+
 10. The whole course of biological evolution, because you’re (presumably) a human, and humans
+
+> have evolved to behave differently from marmosets, oak trees and whatnot.
 
 There you have the core of Sapolsky’s argument against free will: ten causal factors from different
 

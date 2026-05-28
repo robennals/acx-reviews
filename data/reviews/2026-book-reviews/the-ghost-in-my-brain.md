@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T01:44:24.000Z'
 slug: the-ghost-in-my-brain
-wordCount: 4216
+wordCount: 4199
 readingTimeMinutes: 19
 source: gdoc
 tags:
@@ -95,7 +95,7 @@ Her intervention is simple: she gives him geometric puzzles to solve, specifical
 
 Markus also refers Elliott to her colleague Deborah Zelinsky, a neuro-optometrist.  
 
-## Bells and Whistles
+## Bells and Prisms
 
 Zelinsky's diagnostic method is a little more involved. The patient closes their eyes, and the examiner rings a small bell at various positions in space. The patient must reach out to touch the bell. The patient will often fail this test, revealing a “visual-auditory mismatch.” Zelinsky will then try different prism lens combinations _while the patient's eyes are closed_ and ask them to do the bell test again. I repeat, the patient’s eyes remain fully closed. The entire time. She then prescribes the lenses that improve the patient’s performance. ![](https://acximages.ennals.org/images/2026-book-reviews/6a169717f797f134.png)
 
@@ -119,7 +119,7 @@ But within a year of meeting Markus and Zelinsky, Elliott has experienced massiv
 
 Let’s take a look at the evidence, starting with Markus. Markus belongs to a fairly large tradition of “cognitive training interventions” for PCS for which there’s some evidence. A 2016 meta-analysis looking at 14 studies on cognitive training in post-acute TBI found a small effect on overall improvement in cognitive function (Hallock et al., 2016).  
 
-Unfortunately, “cognitive rehabilitation" is an enormous umbrella and Markus's specific protocol isn't in the meta-analysis. Markus published her own protocol in 2007, describing the puzzle-based mediation technique she used on Elliott, but it’s more of a “how I do it” piece, not a controlled trial. The trail of scientific evidence dries up there.  
+Unfortunately, “cognitive rehabilitation" is an enormous umbrella and Markus's specific protocol isn't in the meta-analysis. Markus published her own protocol in 2007, describing the puzzle-based technique she used on Elliott, but it’s more of a “how I do it” piece, not a controlled trial. The trail of scientific evidence dries up there.  
 
 Okay, what about Zelinsky? Do the bells work? There’s a 2019 paper that tried to find out. First author: Clark Elliott.  
 
@@ -139,7 +139,7 @@ Elliott is writing the book fifteen years after the accident, and the recovery h
 
 A skeptical explanation might be that Elliott was desperate and ripe for placebo effect. Receiving intense attention from clinicians who believed they could help him after years of failed encounters with doctors might have been sufficient to shift his symptoms. Elliott's recovery was staged over five years with iterative adjustments, which is exactly the protocol that would maintain a placebo effect, and the base rate of spontaneous recovery in chronic PCS is non-zero. So can we be sure that any of these treatments did anything other than give him a pat on the back as the concussion worked itself out?
 
-I think a case can be made for at least some real intervention. While the evidence for Zelinsky’s closed-eye method in particular is thin, the general “prescribe new lenses” approach looks much more promising. And there’s a reasonable causal mechanism on offer.  
+I think a case can be made for at least some real intervention. While the evidence for Zelinsky’s closed-eye method in particular is thin, the general “prescribe new lenses” approach looks much more promising. There’s even a reasonable causal mechanism on offer.  
 
 
 If you hold up your thumb in front of your face, and then easily switch between looking at something on the wall and your thumb, congrats - your accommodation triad is working. The accommodation triad is the trio of ocular functions that enable close-up vision. In many PCS patients, this system goes awry, resulting in a suite of vision complications. In a study of adolescent patients (n=116), Wiecek et al (2021) found that ~60% of patients had deficits in near point of convergence after concussion. Prism lenses can reduce eye strain by shifting the image on the retina so the eyes don’t have to work as hard to converge, and magnifying lenses reduce accommodation demand.
@@ -148,7 +148,7 @@ A year into my concussion, and partially inspired by Elliott, I asked my neuro-o
 
 It’s possible that Zelinsky’s method actually does work, but not for the reason she thinks. The bell ceremony might just be an unusually elaborate way to arrive at a genuinely useful prescription.
 
-This would explain both her rave reviews and the lack of scientific support. Her Z-bell tinkering isn’t doing much, but the broader lens intervention sometimes works—some percent of the time, prism glasses and magnifying lenses actually do improve people’s concussion symptoms. Of course, this will result in a hit-or-miss treatment, but you can’t tell because none of the duds post a review.
+This would explain both her rave reviews and the lack of scientific support. Her Z-bell tinkering isn’t doing much, but the broader lens intervention sometimes works—some percent of the time, prism glasses and magnifying lenses actually _do_ improve people’s concussion symptoms. (Of course, this will result in a hit-or-miss treatment, but you can’t tell because none of the duds post a review).
 
 ## When averages fail
 
@@ -160,7 +160,7 @@ Perhaps the real mystery is: why is it so hard to treat concussions?
 
 One reason is that concussions resist mainstream medical intervention. Clinical instruments can’t catch the microscopic damage common to PCS, and randomized controlled trials (RCTs) struggle to identify treatments when the population is heterogeneous and the symptoms are varied and subjective. So it takes months to get a PCS diagnosis, and even when you do, many clinicians have no idea what to do with you.
 
-PCS treatment is hard because concussion does not damage an abstract, average brain. It damages _your_ brain, with your particular foibles and weak spots. Specialist concussion medicine has identified roughly six clinical phenotypes, but even when correctly type-cast, each patient responds differently. Clark Elliott and I both had vision issues, but he responded to prisms while I responded to magnifying lenses. PCS may be less like a single disease than a family resemblance category, with wildly different failures compressed into one diagnosis.
+PCS treatment is hard because concussion does not damage an abstract, average brain. It damages _your_ brain, with your particular foibles and weak spots. Specialist concussion medicine has identified roughly six clinical phenotypes, but even when correctly type-cast, each patient responds differently. Clark Elliott and I both had vision issues, but he responded to prisms while magnifying lenses worked for me. PCS may be less like a single disease than a family resemblance category with wildly different failures compressed into one diagnosis.
 
 RCTs are the “medical gold standard.” But perhaps idiosyncratic medical maladies are where the standard hierarchy of evidence breaks down a little. Philosopher of science Nancy Cartwright has argued that RCTs answer a narrower question than clinical practice needs: they tell you that a treatment, on average, produced a particular outcome in a trial population. They don’t tell you whether it will work for _you in particular._
 
@@ -173,29 +173,29 @@ But what if you don’t have a mature theory yet?
 ## Z-bell tests and Fijian reef fish
  
 
-As a species, we’ve been solving problems we don’t understand for a long time. In Fiji’s Yasawan Islands, pregnant and breastfeeding women observe taboos against eating certain species of reef fish. When Natalie and Joseph Henrich investigated in 2010, they found that the taboo species mapped onto the fish most likely to carry ciguatera toxin, a naturally occurring marine toxin that’s particularly dangerous to fetuses and nursing infants. Local variation combined with the selective pressures of fitness and social learning can surface solutions long before the mechanism is understood. (The trade-off is that sometimes they suggest you try bloodletting or child sacrifice).  
+As a species, we’ve been solving problems we don’t understand for a long time. On Fiji’s Yasawa Island, pregnant and breastfeeding women observe taboos against eating certain species of reef fish. When Natalie and Joseph Henrich investigated in 2010, they found that the taboo species mapped onto the fish most likely to carry ciguatera toxin, a naturally occurring marine toxin that’s particularly dangerous to fetuses and nursing infants. Local variation combined with fitness-relevant outcomes and social learning can surface solutions long before the mechanism is understood. (The trade-off is that sometimes they suggest you try bloodletting or child sacrifice).  
 
 For poorly understood chronic conditions, treatment often looks less like applying established science and more like janky cultural learning. PCS communities generate variation, share outcomes online, and copy apparently successful interventions.
 
-The problem is that cultural transmission operates best over long timescales with strong fitness-relevant feedback mechanisms. The PCS testimonial ecosystem has neither of those features. It’s susceptible to all the usual suspects: there’s serious survivorship bias; PCS sometimes resolves on its own, leading people to overindex on whatever they were trying at the point of recovery; pretty often, someone is trying to sell you something. The same dynamics that make it kind of reasonable to try Zelinsky’s Z-bell test might push you toward forty sessions of hyperbaric oxygen at $200 a pop.
+But what makes the Fijian case work is that there’s a real selector pulling signal out of the noise. Toxic fish made people visibly sick, and useful taboos could be reinforced across generations. The PCS testimonial ecosystem has no comparably reliable selector; variants can propagate just because they’re dramatic or recent or someone’s trying to sell you something. The same dynamics that make it kind of reasonable to try Zelinsky’s Z-bell test might push you toward forty sessions of hyperbaric oxygen at $200 a pop.
 
-Another drawback is that cultural transmission is good at producing outcomes, but overimitates methods. The Z-bell case is actually a nice illustration. Even if Zelinsky's lenses help some patients, the community's causal story (closed-eye retinal stimulation) might be totally wrong. Cultural transmission will faithfully convey the bells-and-mathemagic ritual along with whatever genuinely works.  
+Another drawback is that cultural transmission is good at producing outcomes, but overimitates methods. The Z-bell case is actually a nice illustration. Even if Zelinsky's lenses actually help some patients, the community's causal story (closed-eye retinal stimulation) might be totally wrong. Cultural transmission will faithfully convey the bells-and-mathemagic ritual along with whatever genuinely works.  
 
-Okay, clearly we can’t just trust the forums. In an ideal world, we would build in the feedback mechanisms the forums currently lack. Something that capitalizes on the strengths of patient communities (lots of people trying lots of things) and combines it with rigorous testing.  
+Alright, clearly we can’t just trust the forums. In an ideal world, we’d capitalize on the strengths of patient communities (lots of people trying lots of things) and combine it with some kind of rigorous selection mechanism.  
 
-Luckily, there's already a proof of concept for this. In 2020, the Body Politic COVID support group pioneered a novel idea: ask patients stuff. They created the Patient-Generated Hypotheses Journal (PGHJ) and began advising (and funding) major research efforts. Their flagship peer-reviewed paper (Davis et al, 2021), an online survey of 3,762 people across 56 countries, found that Long COVID affected multiple organ systems, that symptoms persisted well past acute infection, and that recovery often took many months (all borne out by subsequent research).
+Luckily, there's already a proof of concept for this. In 2020, the Body Politic COVID support group pioneered a novel idea: ask patients stuff. They created the Patient-Generated Hypotheses Journal (PGHJ) and began advising (and funding) major research efforts. Their flagship peer-reviewed paper (Davis et al, 2021), an online survey of 3,762 people drawn from support groups across 56 countries, found that Long COVID affected multiple organ systems, that symptoms persisted well past acute infection, and that recovery often took many months (all borne out by subsequent research).
 
-Some community-amplified hypotheses may not hold up—great, that’s what science is for! At the least, the PGHJ demonstrates that heterogenous patient communities can do more than swap miracle stories; they can generate structured observations and funnel hypotheses toward controlled studies. For example, do prism glasses actually improve general cognitive functioning in PCS patients with convergence issues? Despite Elliott’s popularization, as far as I can tell there are _literally no controlled RCTs testing this._
+Some community-amplified hypotheses won’t hold up—great, that’s what science is for! At the least, the PGHJ demonstrates that heterogenous patient communities can do more than swap miracle stories; they can generate structured observations and funnel hypotheses toward controlled studies. For example, do prism glasses actually improve general cognitive functioning in PCS patients with convergence issues? Despite Elliott’s popularization, as far as I can tell there are _literally no RCTs testing this._
 
-For medical orphans like PCS, the evidence hierarchy is doing the right things in the wrong order. Population-wide RCTs belong at the top once we know what outcome we care about and what mechanism we’re targeting. Until then, structured patient case registries may be a good way to figure out what actually deserves a trial.
+For medical orphans like PCS, the evidence hierarchy is doing the right things in the wrong order. Population-wide RCTs belong at the top once we know what outcome we care about and what mechanism we’re targeting. Until then, structured patient case registries could help us figure out what actually deserves a trial.
 
 ## Getting out of the parking lot
 
-Two years ago, if someone asked me how to navigate PCS, I would have said, “only pursue treatments with clear, scientifically-backed benefits.”
+Two years ago, if someone asked me how to navigate PCS, I would have said, “Uh, only pursue treatments with clear, scientifically-backed benefits.”
 
 And at first, that’s what I did. My path to recovery started with best-evidenced treatments. But as the months dragged on without improvement, I found myself in testimonial-land—trying things based on Google Maps reviews, and reading this book.
 
-As a concussion roadmap, _The Ghost in My Brain_ is frustrating. Elliott is too ready to accept his clinicians’ explanations and treats his recovery path as way more generalizable than it is. But as phenomenology, it’s excellent. It does a great job of conveying what it _feels like_ when your brain breaks. If you’re intrigued by the extreme edges of human experience, this is for you. If you’re looking for a guidebook, sorry, there isn’t one (yet).
+As a concussion roadmap, _The Ghost in My Brain_ is pretty frustrating. Elliott is too ready to accept his clinicians’ explanations and treats his recovery path as way more generalizable than it is. But as phenomenology, it’s excellent. It does a great job of conveying what it _feels like_ when your brain breaks. If you’re intrigued by the extreme edges of human experience, this is for you. If you’re looking for a guidebook, sorry, there isn’t one (yet).
 
 For conditions like severe, persistent PCS, the patients who recover often fall into two groups: the ones who are lucky enough to find clinicians willing to iterate with them, and the ones who have the time and money to experiment on themselves. That’s a small slice of the population.
 

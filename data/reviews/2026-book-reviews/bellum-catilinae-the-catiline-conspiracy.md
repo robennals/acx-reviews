@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T22:44:46.000Z'
 slug: bellum-catilinae-the-catiline-conspiracy
-wordCount: 7328
+wordCount: 7326
 readingTimeMinutes: 33
 source: gdoc
 tags:
@@ -304,10 +304,8 @@ It's an odd segment for Sallust to include. He describes Sempronia in more detai
 
 Caesar was a little older than the principals of the last Republican generation. A bit punk rock, he trimmed his toga with lace and wore it “loosely belted.” A bit outside normal gender conventions, too, what with those rumors of losing his virginity to the king of Bithynia. A poem, chanted by Caesar’s legionnaires during his triumph, went:
 
-> _Gallias Caesar subegit, Nicomedes Caesarem:_
->
-> _Ecce Caesar nunc triumphat qui subegit Gallias,_
->
+> _Gallias Caesar subegit, Nicomedes Caesarem:_  
+> _Ecce Caesar nunc triumphat qui subegit Gallias,_  
 > _Nicomedes non triumphat qui subegit Caesarem._
 
 Caesar mounted all of Gaul, Nicomedes Caesar

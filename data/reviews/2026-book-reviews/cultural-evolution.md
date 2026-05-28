@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-31T15:53:29.000Z'
 slug: cultural-evolution
-wordCount: 6567
+wordCount: 6612
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -24,7 +24,7 @@ Ronald Inglehart, who died in 2021, spent his career studying the changes in peo
 
 Most people’s survival was not secure for most of human history. Surrounded by persistent disease, hunger, and war, ensuring one’s own and one’s children’s survival was the driving force of most people’s lives. But as economies have ballooned in the decades since World War II and incomes have risen, living conditions have changed drastically — and are still changing drastically — for many people. Rising incomes let people afford nutritious food, healthcare, safer housing, transportation, education, even longer lives. As agrarian economies become manufacturing economies, and ever more people become physically and financially secure, an increasing share of the global population grows up with no reason to doubt its continued survival. Once this condition is met, people consistently turn their attention to other goals, and their moral values change in consistent ways.
 
-Inglehart called this Evolutionary Modernization Theory. To test it, he and his collaborators established the World Values Survey. For the past forty-five years, it has conducted hundreds of thousands of interviews with representative sample populations in “more than 100 countries containing over 90 percent of the world’s population.” The researchers used this quasi-longitudinal data to track how the values in each country have been changing over the decades. Here’s their [most recent snapshot](https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=Findings) of the world’s moral values, from 2017-2022:
+Inglehart called this Evolutionary Modernization Theory. To test it, he and his collaborators established the World Values Survey. For the past forty-five years, it has conducted hundreds of thousands of interviews with representative sample populations in “more than 100 countries containing over 90 percent of the world’s population.” The researchers used this quasi-longitudinal data to track how the values in each country have been changing over the decades. Here’s their [most recent snapshot](https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=Findings) of the world’s moral values, from 2017-2022, which you’ve probably seen before floating around on the internet:
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/f0ac6af53cb0561d.jpg)
 
@@ -218,7 +218,7 @@ The economic inequality that makes people in wealthy countries feel as if their 
 
 So in any country, rich or poor, Inglehart’s solution to the authoritarian resurgence is to make people’s well-being more secure and less precarious. This is what will safeguard democracy in the long run — much more so than any policing of misinformation, public shaming of authoritarian populists, unfocused protests, symbolic summits, or dead-on-arrival democratic reform bills. Resources and social capital should be spent on interventions that are actually effective, and preferably ones that impact the root causes of democratic backsliding.
 
-Left-wing political parties in particular would benefit from deemphasizing “emotionally hot cultural issues that enable conservative politicians to win the support of low-income voters” and reemphasizing economic issues. This may not pay off in any given election cycle, but will move society toward Self-expression values in the long run. Retreating from the fight for those emotionally hot cultural issues may paradoxically accelerate the very cultural shifts left-wing parties are hoping for.
+Left-wing political parties in particular would benefit from deemphasizing “emotionally hot cultural issues that enable conservative politicians to win the support of low-income voters” and reemphasizing economic issues. This may not pay off in any given election cycle, but will move society toward Self-expression values in the long run. Retreating from the fight for those emotionally hot cultural issues may paradoxically accelerate the very cultural shifts left-wing parties are hoping for. Also, catastrophizers who like to paint modernity as crisis after crisis in order to motivate political action may want to think twice about how wise it is to make people, especially young people, feel unsafe.
 
 Inglehart also points out:
 

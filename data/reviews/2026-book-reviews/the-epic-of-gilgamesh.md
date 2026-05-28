@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-15T23:10:39.000Z'
 slug: the-epic-of-gilgamesh
-wordCount: 12092
+wordCount: 12087
 readingTimeMinutes: 54
 source: gdoc
 tags:
@@ -36,8 +36,6 @@ Its longevity isn’t because it was made of durable rock, and it’s not becaus
 That's what I am in awe of whenever I read this book: the age, the scale, the importance. Like a rock formation, it was here long before I was, and will be here long after I'm dead.
 
 ### Prologue: Uruk
-
-Gilgamesh is a bad king.
 
 The Epic of Gilgamesh is organised into eleven Tablets (there’s a twelfth but it’s not really part of the story and seems to have been tacked on by tradition). Tablet 1 begins with an introduction to our hero, Gilgamesh [2]:
 

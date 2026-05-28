@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T15:12:16.000Z'
 slug: cry-havoc
-wordCount: 7289
+wordCount: 7332
 readingTimeMinutes: 33
 source: gdoc
 tags:
@@ -45,7 +45,7 @@ The rest of this review goes through a number of theories that are plausible but
 Mann is very eager to impress on the reader that this plan was their Plan E, and they had a lot of better plans that they could not go ahead with. Better, however, does not imply good:
 
 * Plan A involves buying a second hand cargo ship, filling it up with Liberians and artillery, sending the Liberians to shore in Malabo in RHIBs, and then… something happens? I'm not sure exactly what. That plan falls apart when the American navy turns up in the area for unrelated reasons, and Mann thinks it is ill-advised to be carrying a cargo of Liberian mercenaries about under their noses. So that is cancelled.
-* Plan B plays on the greed of President Obiang, who can't resist a gift. Mann's mercenary buddy, Niek du Toit, has already been on the ground in EG on some fake business pretext, and has met with Obiang personally a few times. He will say "my friend Mister President, come to the airport, I have a special gift of four Toyota Land Cruisers for you!" Mister President goes to the airport, and out of the plane come 70 Afrikaner mercenaries. "Beware Afrikaners bearing gifts" writes Mann. But the Land Cruiser dosh doesn't arrive in time, so that plan is called off.
+* Plan B plays on the greed of President Obiang, who can't resist a gift. Mann's mercenary buddy, Niek du Toit, has already been on the ground in EG on some fake business pretext, and has met with Obiang personally a few times. He will say "my friend Mister President, come to the airport, I have a special gift of four Toyota Land Cruisers for you!" Mister President goes to the airport, and out of the plane come 70 Afrikaner mercenaries. "Beware Afrikaners bearing gifts" writes Mann. But the Land Cruiser dosh doesn't arrive in time, so that plan is called off. (Mann is largely reliant for money on a shadowy organiser he calls “The Boss” - probably Ely Calil - who keeps changing his mind on whether the plan should stop or go ahead, and making promises that the money will be coming soon.)
 * Plan C is similar to plan A, but just involves the Afrikaners and no Liberians. They will go ashore in Malabo via helicopter and boat, and then something will happen. But that is called off: the money, again, doesn't arrive in time, and the Afrikaners don't like small boats.
 * Plan D looks very similar to Plan E, where armed men turn up in Malabo via a weapons pickup stop Zimbabwe. The exact difference isn't really discussed, this one just happens to be Plan D and the actual plan is Plan E. However, this one is scuppered after their plane goes missing. The problem was that when the flight crew landed to refuel at Douala in Cameroon, they broke the nose wheel, were delayed finding a new one, then when they were flying over the DRC air traffic control forced them to land and demanded they pay a bribe they didn't have the money for.
 

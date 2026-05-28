@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T23:17:12.000Z'
 slug: the-knowledge-machine
-wordCount: 8434
+wordCount: 8479
 readingTimeMinutes: 38
 source: gdoc
 tags:
@@ -75,8 +75,7 @@ Science instruction has drifted away from the pure ideal. And if Strevens is tak
 
 The book’s introduction begins with these two questions:
 
-> _Why is science so powerful?_
->
+> _Why is science so powerful?_  
 > _Why did it take so long to arrive?_
 
 The second question is by far the more interesting one. Why didn’t the Greeks, Romans, Chinese, or Arabs create modern science? And why does Strevens claim modern science is fundamentally irrational? (An assertion he felt so strongly about that it ended up in the subtitle.) Isn’t science the height of rationality?
@@ -187,8 +186,7 @@ You’ll perhaps forgive me if I see parallels between this and my father’s ex
 
 Returning to Strevens’ initial questions:
 
-> _Why is science so powerful?_
->
+> _Why is science so powerful?_  
 > _Why did it take so long to arrive?_
 
 I’m far more interested in the second question than the first, but there’s going to be some overlap. I’m particularly interested in how modern science works to channel incentives.
@@ -311,7 +309,7 @@ Those are all big and important questions, and neither the book nor I have any s
 
 * * *
 
-[1] Richard Feynman once opined that physics should not be taught in high school because high school teachers screwed it up so badly that kids only learned to hate physics instead of seeing its beauty. My father’s hope is that when he meets Feynman in the hereafter, that he will allow that, perhaps, my father was an exception to this rule.
+[1] Richard Feynman once opined that physics should not be taught in high school because high school teachers screwed it up so badly that kids only learned to hate physics instead of seeing its beauty. My father’s hope is that when he meets Feynman in the hereafter, that he will allow that, perhaps, my father was an exception to this rule. (My father’s memory was not 100% accurate, here’s what Feynman [really said](https://x.com/NobelPrize/status/2023053733291024887): “Anytime you try to teach the subjects without teachers who love the subject, it is doomed to failure and is a foolish thing to do.” Hopefully my father counts as someone who loves the subject.)
 
 [2] Pyrodex is a modern, safer substitute for black powder.
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:52:56.000Z'
 slug: dont-bang-denmark
-wordCount: 3368
+wordCount: 3364
 readingTimeMinutes: 15
 source: gdoc
 tags:
@@ -140,14 +140,10 @@ Towards the latter quarter of the book, Roosh writes about his “approach index
 
 > _My approach index states how many girls an average-looking guy with decent game has to approach before he’s likely to bang a cute girl (not including Internet approaches). Since there are so many variables involved, the index is best used to compare easiness of one country with another. First let me share the numbers from previous countries, from easiest to hardest:_
 >
-> _Iceland: 40_
->
-> _United States: 45_
->
-> _Brazil: 50_
->
-> _Colombia: 60_
->
+> _Iceland: 40_  
+> _United States: 45_  
+> _Brazil: 50_  
+> _Colombia: 60_  
 > _Argentina: 90_
 >
 > _From these numbers, we can conclude that a man has to do twice as many approaches to get laid in Argentina than the United States. I attempted to count how many approaches to get my first bang in Denmark, but I stopped counting at around 50. I estimate I didn’t fuck until approach 70 or so, which for a liberal Scandinavian country is contrary to what you’d expect._

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T11:51:13.000Z'
 slug: fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states
-wordCount: 9741
+wordCount: 9723
 readingTimeMinutes: 44
 source: gdoc
 tags:
@@ -16,38 +16,23 @@ tags:
   - Society
 ---
 
-> _'Tis not too late to seek a newer world._
->
-> _Push off, and sitting well in order smite_
->
-> _The sounding furrows; for my purpose holds_
->
-> _To sail beyond the sunset, and the baths_
->
-> _Of all the western stars, until I die._
->
-> _It may be that the gulfs will wash us down;_
->
-> _It may be we shall touch the Happy Isles,_
->
-> _And see the great Achilles, whom we knew._
->
-> _Though much is taken, much abides; and though_
->
-> _We are not now that strength which in old days_
->
-> _Moved earth and heaven, that which we are, we are,_
->
-> _One equal temper of heroic hearts,_
->
-> _Made weak by time and fate, but strong in will_
->
-> _To strive, to seek, to find, and not to yield._
->
+> _'Tis not too late to seek a newer world._  
+> _Push off, and sitting well in order smite_  
+> _The sounding furrows; for my purpose holds_  
+> _To sail beyond the sunset, and the baths_  
+> _Of all the western stars, until I die._  
+> _It may be that the gulfs will wash us down;_  
+> _It may be we shall touch the Happy Isles,_  
+> _And see the great Achilles, whom we knew._  
+> _Though much is taken, much abides; and though_  
+> _We are not now that strength which in old days_  
+> _Moved earth and heaven, that which we are, we are,_  
+> _One equal temper of heroic hearts,_  
+> _Made weak by time and fate, but strong in will_  
+> _To strive, to seek, to find, and not to yield._  
 > _— Ulysses by Alfred, Lord Tennyson_
 >
-> _“If I showed my true feelings I would cry; it’s the best country I have been in.”_
->
+> _“If I showed my true feelings I would cry; it’s the best country I have been in.”_  
 > _— George Bernard Shaw, on New Zealand_
 
 Suppose you are the British Empire and you have already made one America.
@@ -132,8 +117,7 @@ But the question of who New Zealanders are cannot be answered without reference 
 >
 > _“[T]his here harpooneer I have been tellin’ you of has just arrived from the South Seas, where he bought up a lot of ‘balmed New Zealand heads (great curios, you know), and he’s sold all on ‘em but one…”_
 >
-> _“For all his tattooings he was on the whole a clean, comely looking cannibal.”_
->
+> _“For all his tattooings he was on the whole a clean, comely looking cannibal.”_  
 > _— Moby Dick_
 
 The British were not the first people to settle New Zealand.
@@ -208,10 +192,8 @@ The seeds of Australia were established just prior to this wave of noblesse acro
 >
 > _“If Dunedin is a stolid, wholesome Scots lassie, Christchurch a hockey captain-type of English girl, Wellington a slightly dowdy secretary, modern Auckland is a perky gold-digger, over-talkative but full of ideas, mildly interested in the arts and much in love with life.”_
 >
-> _— John Cowie Reid, 1964_
->
-> _“My efforts are aimed at establishing the Kingdom of God upon Earth.”_
->
+> _— John Cowie Reid, 1964_  
+> _“My efforts are aimed at establishing the Kingdom of God upon Earth.”_  
 > _— New Zealand Prime Minister Michael Savage_
 
 In 1838, just prior to sanctioned settlement, there were some two thousand English-speaking peoples on the islands. They were mainly dregs — escaped convicts, sealers, whalers, and other ne’er-do-wells, including traders benefitting from the Māori Musket Wars raging since 1806. A French adventurer arrived with colonists in 1837 claiming to be the Feudal Proprietor of New Zealand.

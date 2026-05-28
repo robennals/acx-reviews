@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T17:50:38.000Z'
 slug: catullus-16
-wordCount: 4268
-readingTimeMinutes: 19
+wordCount: 4317
+readingTimeMinutes: 20
 source: gdoc
 tags:
   - Fiction
@@ -16,7 +16,7 @@ tags:
 
 Neoteric poetry was a movement of Roman poetry in the first century BC that, in opposition to the epic poetry that had dominated popular Latin composition to that point, focused on tightly-crafted language and more personal topics.  In the case of Catullus, the most well-known neoteric poet, his poetry touched on such topics as his fierce love for his beloved Lesbia, the everyday life of a Roman aristocrat, and **threats to sodomize his critics**_._  This last topic is the theme of “Catullus 16”, perhaps the most obscene poem ever written in any language.  Let’s dive in.
 
-First, a warning.  There are interpretations of this poem in which it is obscene not just in language but in moral content. If you have any reservations about reading about sexual assault, please feel free to skip this review.  I am not endorsing any of the actions described in the poem in this review and condemn them in the harshest possible terms, even if I do not stop each time the opportunity arises to repeat my condemnation.
+First, a warning.  There are interpretations of this poem in which it is obscene not just in language but in moral content. If you have any reservations about reading about sexual assault, please feel free to skip this review.  I am not endorsing any of the actions described in the poem in this review and condemn them in the harshest possible terms, even if I do not stop each time the opportunity arises to repeat my condemnation.  Catullus, as far as we know, never acted out any of the actions he threatens in this poem, and I plan to address it as a work of art rather than a criminal confession.
 
 With the disclaimer out of the way, below is the poem in three forms.  One is the original Latin, one is a relatively literal translation from Wikipedia (surprisingly one of the few to faithfully represent the infamous _irrumabo_ of the first line), and one is a more inventive translation by Zukofsky.  The Zukofsky is what’s known as a _homophonic_ translation, which intends to maintain the sound of the original Latin.  I recommend you read it out loud (unless you are in a public place, in which case _please do not read it out loud_).
 
@@ -183,7 +183,7 @@ Catullus wrote most of his poems in the hendecasyllabic meter, which had exactin
 
 ### Final Thoughts
 
-Diss track, friendly banter, or perfectly constructed basketball team -- whatever Catullus 16 is, it makes a hell of an impression.  More than content or meaning, Catullus and his fellow neoteric poets would have been interested in how a poem sounds, how it fits together, how it makes you laugh or shudder.  His poems often have the tossed-off vibe of a tweet until you read them a few times and realize just how tightly crafted they are, how there’s nothing left to add but also “nothing left to take away,” as the old saying about perfection goes.  
+Diss track, friendly banter, or perfectly constructed basketball team -- whatever Catullus 16 is, it makes a hell of an impression.  Its content is shocking and, even with a more generous interpretation, morally questionable.  Catullus and his fellow neoteric poets, though, would have been less concerned with the meaning of the poem as how it sounds, how it fits together, how it makes you laugh or shudder.  His poems often have the tossed-off vibe of a tweet until you read them a few times and realize just how tightly crafted they are, how there’s nothing left to add but also “nothing left to take away,” as the old saying about perfection goes.  
 
 So I’d recommend you scroll up to the top of the review and give one of the three versions of the poem (or all of them) another read, and hopefully something new, something I haven’t even mentioned in this rambling review fifty times the length of the poem, will jump out at you.  That’ll be Catullus’s talent shining across language and millennia.  One of his most famous quotes, other than the one about face-fucking, is from the same Catullus 5 that started his beef with Aurelius and Furius:
 

@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T04:24:33.000Z'
 slug: great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness
-wordCount: 13362
-readingTimeMinutes: 60
+wordCount: 19408
+readingTimeMinutes: 87
 source: gdoc
 tags:
   - Psychology
@@ -20,33 +20,33 @@ tags:
 
 Surgery for the soul required a sharp, eight-inch-long instrument—one time, an ice pick from the Uline Ice Company was used—and not much else. It did not require anesthesia or gloves, and the sharp instrument (either a _leucotome_ or the sturdier _orbitoclast_) was not necessarily sterilized. It took less than ten minutes.
 
-The first step was to shock the patient until they lost consciousness. This eliminated the need for anesthesia, since there would be at least a few minutes until the patient regained consciousness, and also made the procedure more flexible; it did not require a surgeon, and did not have to be performed in a well-equipped hospital.
+The first step was to shock the patient until they lost consciousness. This eliminated the need for anesthesia, since there would be at least a few minutes until the patient regained consciousness, and also made the procedure more flexible; it did not require a surgeon, and did not even have to be performed in a hospital.
 
-The second step was to insert the sharp, eight-inch-long instrument into the brain. In most versions of the procedure, surgeons drilled holes into the skull, and inserted the leucotome through those holes. An added benefit of this way of doing things is that the surgeon could see what they were cutting. But the abbreviated procedure used a shortcut.
+The second step was to insert the sharp, eight-inch-long instrument into the brain. In most versions of the procedure, surgeons drilled holes into the skull and inserted the leucotome through those holes. Surgeons preferred an approach that allowed them to see where in the brain they were cutting. But the abbreviated procedure used a shortcut.
 
-If you dig your finger into the corner of your eye closest to your nose … The bone there is weak. With enough force, the leucotome can be driven through that bone and into the frontal lobes of the brain. The sound produced when the instrument fractures the orbit has caused at least one experienced clinician to faint.
+Just above and behind the eye is a thin plate of bone that forms the roof of the eye socket. With enough force, the leucotome can be driven through that bone and into the frontal lobes of the brain. The cracking sound produced when the instrument fractures the orbital roof has caused at least one experienced clinician to faint.
 
-Once the instrument was inside, completing the surgery was simply a matter of rotating the tool left and right, hoping to sever sufficiently many nerve fibers. Some thought that the procedure might work by severing fibers which maintained certain fixed distorted thought patterns; by destroying them, patients might be freed from the grip of their mental illness.
+Once the instrument was inside, completing the surgery was simply a matter of rotating the tool left and right. The goal was to cut a large number of nerve fibers. Some thought that the procedure might work by severing fibers which maintained certain fixed distorted thought patterns; by destroying them, patients might be freed from the grip of their mental illness. But there wasn’t agreement among practitioners regarding why the procedure might work.
 
 This is the _transorbital lobotomy_. Around 50,000 people received lobotomies in the United States in the 1940s and early 1950s; approximately 10,000 used the transorbital method I just described, with the others using approaches surgeons would be more likely to approve of (e.g., using anesthesia, gloves, being able to see where you’re cutting…).
 
 It was billed as a cure for all sorts of mental illnesses, including schizophrenia, depression, and anxiety. And while some called it a method of last resort—a procedure which should only be used after every other conceivable method had failed—it was often used on people who did _not_ have serious mental problems, and who had _not_ tried less serious treatments.
 
-In a particularly egregious case, a twelve year-old boy received a lobotomy, essentially because his stepmother did not like him. Here is the before, during, and after picture of his surgery:
+In a particularly egregious case, a twelve year-old boy received a lobotomy, essentially because his stepmother did not like him. Here he is before, during, and after his surgery:
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/455d19c4e820c862.jpg)![](https://acximages.ennals.org/images/2026-book-reviews/611863c637d92ea1.jpg)![](https://acximages.ennals.org/images/2026-book-reviews/a9ea56daa01c0f23.jpg)
 
-The black eyes are because the metal leucotome had been shoved into the eye sockets and through the orbits in order to reach the brain. This boy survived, had an extremely difficult life, and decades later wrote a memoir called _[My Lobotom](https://www.goodreads.com/en/book/show/503248.My_Lobotomy)y_. Here’s an excerpt from the notes of the doctor that performed the procedure:
+He has black eyes in the ‘after’ picture because the metal leucotome had been shoved into his eye sockets, and through the bony orbits, in order to reach his brain. This boy survived, had an extremely difficult life, and decades later wrote a memoir called _[My Lobotom](https://www.goodreads.com/en/book/show/503248.My_Lobotomy)y_. Here’s an excerpt from the notes of the doctor that performed the procedure:
 
 > He came around quickly after the first shock and I eventually gave him 4, after which he was quite slow in recovering, with some cyanosis and rattling in the chest. I think it was one more than necessary. I introduced the orbitoclasts under the eyelids 3 cm from the midline, aimed them parallel with the nose and drove them to a depth of 5 cm. I pulled the handles laterally, returned them half way and drove them 2 cm deeper. Here I touched the handles over the nose, separated them 45 degrees and elevated them 50 degrees, bringing them parallel for photography before removal. There was an escape of a small amount of blood-stained fluid from each side. Howard did not get much swelling or discoloration from the eyelids; however, he did have a considerable amount of vomiting during the night and I prescribed dramamine 50 mg for its control. When I saw him this morning he recognized me but thought he was on Orange Street and that the day was Monday instead of Saturday. He did not know that anything particular had happened to him. He'd been incontinent once during the night. He resisted efforts to get his eyes open and complained about the needles that were being given him. His temperature, pulse and respiration were quite normal, and the neurologic picture was OK.
 
-It is surprising that the results of the surgery were not _universally_ negative. Some people really did claim to have been helped by the procedure. Some were able to return to society and work real jobs. (example) But most were not. If the surgery did nothing, you were lucky—and it often resulted in serious incapacitation. Patients were no longer able to take care of themselves. Their personalities were destroyed. Some spark which constitutes a fundamental part of what makes us human had been lost. The light was gone.
+It is surprising that the results of the surgery were not _universally_ negative. Some people really did claim to have been helped by the procedure. Some were able to return to society and work real jobs. But most were not. If the surgery did nothing, you were lucky, since it often resulted in serious incapacitation. Patients were no longer able to take care of themselves. Their personalities were destroyed. Some vibrant spark which formed a core part of their humanity was lost in the process of surgery for the soul.
 
-The lobotomy may be the most harmful, infamous, horrifically evil “treatment” in the modern history of medicine. _Why was it allowed to happen? Why would anyone ever think it was a good idea?_
+The lobotomy may be the most harmful, infamous, evil ‘treatment’ in the history of modern medicine. _Why was it allowed to happen? Why would anyone ever think it was a good idea?_
 
 ## II. SYMPATHY FOR THE DEVIL
 
-The mission of _[Great and Desperate Cures](https://www.goodreads.com/en/book/show/1242376.Great_and_Desperate_Cures)_ (1986), a book by the psychologist and neuroscientist [Elliot Valenstein](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/faculty-memorial---elliot-valenstein--1923-2023-.html), is to provide a thorough answer to these questions. It’s a weird book: it’s not a dumbed-down popular science book, and one gets the impression that little effort was made to make the content palatable to a wider audience. It feels like Valenstein doesn’t really care if _anyone_ reads the book. He just wants to get to the bottom of this. _Why was this allowed to happen?_
+The mission of _[Great and Desperate Cures](https://www.goodreads.com/en/book/show/1242376.Great_and_Desperate_Cures)_ (1986), a book by the psychologist and neuroscientist [Elliot Valenstein](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/faculty-memorial---elliot-valenstein--1923-2023-.html), is to provide a thorough answer to these questions. It’s a weird book: it’s not a dumbed-down popular science book, and while Valenstein clearly made _some_ effort to make the content palatable to a wider audience, entertainment is not his main or even secondary objective. In some places it feels like Valenstein doesn’t really care if _anyone_ reads the book. He just wants to get to the bottom of this. _Why was this allowed to happen?_
 
 <figure>
 
@@ -54,7 +54,7 @@ The mission of _[Great and Desperate Cures](https://www.goodreads.com/en/book/sh
 
 <figcaption>
 
-_The cover of the book is also very cool._
+_Also, the cover of the book is cool._
 
 </figcaption>
 
@@ -62,45 +62,75 @@ _The cover of the book is also very cool._
 
 _The illustration recalls [Saturn Devouring His Son](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) by Goya._
 
-The reasons Valenstein comes up with are not extremely surprising. They might be summarized as demand, glory, and bad world modeling. But the details are compelling. They are insane. I have never read anything quite like this.
+The reasons Valenstein comes up with are not extremely surprising. There are six:
 
-The thesis of _Great and Desperate Cures_ is that there is something banal about the lobotomy, and efforts in _psychosurgery_—physically intervening on the brain in order to treat mental illness—more generally. Brains were mutilated not through the schemes of rogue physicians with kooky ideas, but by decorated, well-informed, and talented physicians who based their work on then-current theories of the brain. To be sure, the story is full of colorful and shady characters whose desire for fame led them to play fast and loose with the lives of their patients. It is true that their efforts at promoting themselves, and surgeries like the lobotomy that they were associated with, played a role in the spread and normalization of psychosurgery. But one gets the sense from Valenstein that in an alternate universe where things happened differently, perhaps because one of the key players never existed, the situation would not have been _that_ different. Someone would have done it. The demand was too great and the safeguards were too few.
+(i) **desperate patients and families**, who were open to anything that might help;
 
-The most effective illustration of this, I think, is the reason lobotomies stopped. Despite the horrors of the procedure, and despite the mixed-to-negative outcomes—in tens of thousands of cases—they only really stopped because they were _replaced_. In 1955, the antipsychotic drug [chlorpromazine](https://en.wikipedia.org/wiki/Chlorpromazine) became widely available, and was reasonably effective at … . Lobotomies stopped not because there was some huge reckoning within the medical community, but because they were effectively _outcompeted_ by a simpler, cheaper, less permanent treatment option.
+(ii) the pull of “**fame and name**” for ambitious physicians;
 
-I want to go through these details at length. I will also discuss _My Lobotomy_, the only memoir written by someone who had a lobotomy, which provides a different angle on some of the relevant issues.
+(iii) the **uncritical acceptance by clinicians** of lobotomy-related claims;
 
-picked up the mantle.
+(iv) the **uncritical acceptance by the media** of lobotomy-related claims and the subsequent overenthusiastic promotion of lobotomy;
 
- In hindsight, they are kind of obvious:
+(v) **territorial disputes** between competing subfields with different views on how mental illness ought to be conceived; and
 
-chlorpromazine (Thorine)
+(vi) **coldblooded economics**, especially regarding the cost of patient care in overcrowded and underfunded state hospitals for the mentally ill.
+
+But the details are compelling. They are insane. I have never read anything quite like this.
+
+The thesis of _Great and Desperate Cures_ is that there is something banal about the lobotomy, and efforts in _psychosurgery_—physically intervening on the brain in order to treat mental illness—more generally. Brains were mutilated not through the schemes of rogue physicians with kooky ideas, but by decorated, well-informed, and talented physicians who (at least in some cases) based their work on then-current theories of the brain. To be sure, the story is full of colorful and shady characters whose desire for “fame and name” led them to play fast and loose with the lives of their patients. It is true that their efforts at promoting themselves, and surgeries like the lobotomy that they were associated with, played a role in the spread and normalization of psychosurgery.
+
+But one gets the sense from Valenstein that in an alternate universe where things happened differently, perhaps because one of the key players never existed or became a painter instead of a physician, the situation would not have been _that_ different. Someone would have done it. The demand was too great and the safeguards were too few.
+
+The most effective illustration of this, I think, is the reason lobotomies stopped. Despite the horrors of the procedure, and despite the mixed-to-negative outcomes—in tens of thousands of cases—they only really stopped because they were _replaced_. In 1954, the antipsychotic drug [chlorpromazine](https://en.wikipedia.org/wiki/Chlorpromazine) was approved by the Food and Drug Administration and became widely available for physicians to prescribe. Although they could not address _every_ problem proponents of psychosurgery claimed to be able to address, the overlap between use cases was still fairly high. Lobotomies stopped not because there was some huge reckoning within the medical community, but because they were effectively _outcompeted_ by a simpler, cheaper, less permanent treatment option.
+
+_Great and Desperate Cures_ was released in 1986. Forty years later, in 2026, how relevant are the factors Valenstein identified? Could anything like a lobotomy happen today? Let’s go through them, one at a time, to see.
+
+I also just want an excuse to talk about some of the history discussed in this book. It is insane. I have never read anything quite like this. I have to say that a second time so you know I really mean it.
 
 ## III. DESPERATION
 
-Anyone attempting to sympathize with the perpetrators of the lobotomy must place it in its proper historical context. The leucotomy—a precursor of the lobotomy whose difference in name is more branding than anything else—was first performed on patients in 1935, nearly a hundred years ago. As mysterious as the brain is now, it was significantly more mysterious in the 1930s. This was a time well before any theories of neural computation, before our understanding of the structure of DNA and molecular biology, and still two decades before the first psychoactive drugs. Freudian psychoanalysis was still a dominant force in shaping the way clinicians thought about mental illness, but it would be more accurate to say that many things affected people’s views; there was no single overwhelmingly successful paradigm.
+Anyone attempting to sympathize with the perpetrators of the lobotomy must place it in its proper historical context. The _leucotomy_—the direct precursor of the lobotomy whose difference in name is more branding than anything else—was first performed on patients in 1935, nearly a hundred years ago. As mysterious as the brain is now, it was significantly more mysterious in the 1930s. This was a time well before any theories of neural computation, before our understanding of the structure of DNA and molecular biology, and still two decades before the first psychoactive drugs. Freudian psychoanalysis was still a dominant force in shaping the way clinicians thought about mental illness, but it would be more accurate to say that many things affected people’s views; there was no single overwhelmingly successful paradigm.
 
-Mental illness, both in the early twentieth century and now, is a major problem. Millions of people are violent, self-destructive, delusional, incoherent, unable to take care of themselves, or some combination of those things. In the 1930s, when the lobotomy was conceived and first performed, the United States was still dotted with insane asylums. These were government solutions to a social problem: they offered a ‘home’ for mentally ill people with no other place to go. Famously, the conditions in many of these places were deplorable. They were dirty, loud, cramped, and sick and vulnerable patients were not always treated with kindness and gentleness.
+Mental illness, both in the early twentieth century and now, is a major problem. Millions of people are violent, self-destructive, delusional, incoherent, unable to take care of themselves, or some combination of those things. In the 1930s, when the lobotomy was conceived and first performed, the United States was still dotted with insane asylums. These were government solutions to a social problem: they offered a ‘home’ for mentally ill people with no other place to go. Famously, the conditions in many of these places were deplorable. They were dirty, loud, cramped, understaffed, and sick and vulnerable patients were not always treated with kindness and gentleness.
 
-check description of hospital states pg 174, add something
+<figure>
 
-A given asylum might have hundreds of patients or more. In an ideal world, professional physicians with credentials from the world’s best medical schools, and researchers who had tirelessly worked to decode the mysteries of the human brain, would work together to understand and treat the illnesses that kept patients in beds. But this isn’t what happened. Brain ‘science’ was still in an aspirational stage; despite the knowledge that had been collected, and despite the prestige of the many physicians dedicated to understanding mental illness, not much progress had been made. There were no cures and few treatments. People felt helpless and hopeless.
+![](https://acximages.ennals.org/images/2026-book-reviews/c33d7325bffa360d.png)
 
-In such an environment, there is a very human urge to do _something_. If there is something that works sometimes, we should try it again; if our knowledge of the brain suggests something, we should try that. But if we have neither empirical success nor any theoretical ground to stand on, we still want to do _something_. And in the absence of strong safeguards, physicians seeking glory—and, to be fair to them, hoping to help the legions of sick patients, whose number only seemed to be growing as the years wore on—would simply _try things_. Sometimes these attempts were based on vague hunches about the brain, and sometimes they didn’t seem to be based on anything at all.
+<figcaption>
 
-Acute demand inspired many dubious attempts to develop treatment. Valenstein discusses three which were developed in the same decade, the 1930s, as the lobotomy: insulin coma, metrazol coma, and electroshock therapy.
+_Image from a May 6, 1946 expose in Life magazine. ([source](https://books.google.com/books?id=BlUEAAAAMBAJ&pg=PA102&source=gbs_toc_r&cad=2#v=onepage&q&f=false))_
 
-The theoretical underpinnings of these therapies all seemed about the same. Maybe the brain is like a car engine or computer that doesn’t work: if you hit it a few times, then maybe it will reset and work better somehow.
+</figcaption>
 
-It must be emphasized that these treatments were not beyond the pale of normal medicine. They _were_ normal medicine. Consider that Wagner-Jauregg’s treatment for neurosyphilis—which was to inject patients with malaria-infected blood to give them fevers, in the hopes that they could “sweat the illness out”---[received the Nobel Prize](https://www.nobelprize.org/prizes/medicine/1927/wagner-jauregg/facts/) in 1927!
+</figure>
 
-(Incidentally, the treatment did work, although its fatality rate was high. The extreme fever killed the bacteria responsible for neurosyphilis. The malaria could then be treated with quinine.)
+Valenstein explains: (ch. 9, pp. 175-177)
 
-Cotton, pg 42
+> The American Psychiatric Association estimated overcrowding in mental hospitals even in 1948 to be in excess of 50 percent. More than 230,000 hospital beds for the mentally ill were judged to be substandard, and many more people needed hospitalization. William Menninger reported that there were 700,000 beds for mental patients in the United States; but that hospitalization of everyone needing intensive psychiatric care would require 1,500,000 beds. The Central Inspection Board of the American Psychiatric Association found that twenty-nine mental hospitals had no psychiatrist at all; and that of the 300,000 registered nurses in the country, only 1,200 were directly involved in psychiatric nursing, even though 55 percent of all hospital beds were occupied by the mentally ill.
+
+But the situation was even worse than just a resource problem. In an ideal world, professional physicians with credentials from the world’s best medical schools, and researchers who had tirelessly worked to decode the mysteries of the human brain, would work together to understand and treat the illnesses that kept patients in beds. But this isn’t what happened. Brain ‘science’ was still in an aspirational stage; despite the knowledge that had been collected, and despite the prestige of the many physicians dedicated to understanding mental illness, not much progress had been made. There were no cures and few treatments. People felt helpless and hopeless. As Valenstein says, “Almost any proposed treatment was considered worth trying, as long as it did not require much money or large numbers of skilled personnel.” (ch. 9, p. 177)
+
+In such an environment, there is a very human urge to do _something_. If there is something that works sometimes, we should try it again. If our knowledge of the brain suggests something, we should try it. But if we have neither empirical success nor any theoretical ground to stand on, we still want to do _something_. And in the absence of strong safeguards, physicians seeking glory—and, to be fair to them, hoping to help the legions of sick patients, whose number only seemed to be growing as the years wore on—would simply _try things_. Sometimes these attempts were based on vague hunches about the brain, and sometimes they didn’t seem to be based on anything at all.
+
+Acute demand inspired many dubious attempts to develop treatment. In Chapter 2, Valenstein focuses on three which were developed in the same decade, the 1930s, as the lobotomy: insulin coma, metrazol coma, and electroshock therapy. The last one is exactly what it sounds like (shock patients to deliberately induce seizures), and the first two literally involve deliberately putting patients into comas. The theoretical underpinnings of these therapies all seemed about the same. Maybe the brain is like a car engine or computer that doesn’t work: if you hit it a few times, then maybe it will reset and work better somehow. These therapies were dangerous and generally ineffective. (But more on electroshock therapy later.)
+
+It must be emphasized that these treatments were not beyond the pale of normal medicine. They _were_ normal medicine. Many similar treatments, which generally had little or no serious theoretical justification, were tried. Consider that Wagner-Jauregg’s treatment for neurosyphilis—which was to inject patients with malaria-infected blood to give them fevers, in the hopes that they could ‘sweat the illness out’—[received the Nobel Prize](https://www.nobelprize.org/prizes/medicine/1927/wagner-jauregg/facts/) in 1927!
+
+(Incidentally, the treatment did work, although its fatality rate was high. The extreme fever killed or damaged the bacteria responsible for neurosyphilis. The malaria could then be treated with quinine.)
+
+One of the worst ‘treatments’ was due to Henry Cotton, who thought that bacterial infections in the body caused mental illnesses: (ch. 2, p. 42)
 
 > We have estimated that about 80% of the so-called functional type of mental disorders are due not only to infected teeth and tonsils, but also to congenital malformations of the colon, or large intestines. …
 >
 > … Relics of medical superstition and barbarism are being supplanted by up-to-date conceptions as to the true relation of structure and function. The inhuman neglect that has resulted from the old discredited philosophical dualism is being overcome by the idea of a unified mind and body.
+
+It is extremely funny and sad that he thought his views supplanted “superstition and barbarism”.
+
+The natural course of action, he thought, would be to remove infected parts of the body: teeth, the tonsils, parts of the cervix, parts of the colon, and more. The mortality rate for these procedures was extremely high (for colon resection, around 30 percent) and they obviously did not seriously help patients. I can’t imagine much worse than being extremely mentally ill, and then having a bunch of random body parts removed.
+
+One dramatic therapy after another was tried and then mostly failed. This incentivized physicians seeking “fame and name” to try to make their mark by developing therapies which were still more dramatic. Perhaps what the treatment of mental illness needed was not conservatism, but even more daring.
 
 ## IV. FAME AND NAME: THE CASE OF EGAS MONIZ
 
@@ -111,6 +141,18 @@ Egas Moniz was the kind of man who regularly exaggerated his accomplishments. Co
 He did it because he wanted recognition; he wanted to be viewed as smart, creative, and pioneering. Motivated by “fame and name” as much as anyone else has ever been, he became infamous for his 1935 invention of the _prefrontal leucotomy_, the precursor to the lobotomy.
 
 Originally António Caetano de Abreu Freire, he was born in Avanca, Portugal in 1874. He was the eldest son of an aristocratic family that traced its lineage back to a twelfth-century folk hero named Egas Moniz who helped repel Moor invaders; “Egas Moniz” was added at to the end of his name at his christening, but as a boy he talked so much about the folk hero that people started calling him “Moniz”. Eventually, he just went by “Egas Moniz”, becoming the modern incarnation of the legendary hero.
+
+<figure>
+
+![](https://acximages.ennals.org/images/2026-book-reviews/9be53d7d40724dd5.jpg)
+
+<figcaption>
+
+_Egas Moniz, the inventor of the prefrontal leucotomy._
+
+</figcaption>
+
+</figure>
 
 Valenstein does not like Moniz, or at the very least thinks his fame-grubbing is kind of pathetic. He tries to correct the record wherever he can. For example, in a footnote he observes that: (ch. 4, p. 64)
 
@@ -124,7 +166,7 @@ Valenstein makes clear that Moniz was _okay_ as a scientist and clinician, but m
 
 Valenstein describes a book Moniz wrote around this time—on the neurology of traumatic war injuries—as “not an original contribution” with “little influence”. (ch. 4, p. 67)
 
-Moniz’s political career was fairly successful. He helped negotiate concessions for Portugal after World War I ended and he was the dean of the University of Lisbon’s medical school for a time. He remained active in Portuguese politics and in Portugal’s parliament for years, and remained well-connected with a good reputation despite considerable political tumult. But his political aspirations petered out when the Salazar dictatorship began in 1926.
+Moniz’s political career was fairly successful. He helped negotiate concessions for Portugal after World War I ended and he was the dean of the University of Lisbon’s medical school for a time. He remained active in Portuguese politics and in Portugal’s parliament for years, and remained well-connected with a good reputation despite considerable political tumult. But his political aspirations petered out after a military coup in 1926, which a few years later led to the Salazar dictatorship.
 
 Moniz was fifty-two then. By that time he had enjoyed a successful political career, had established a successful private practice, and had a middling career as an academic neurologist. Valenstein says that although some “would be content to rest on their laurels,” Moniz was dissatisfied: (ch. 4, p. 69)
 
@@ -199,6 +241,20 @@ The task of spreading and refining psychosurgery was left to others. Impressed b
 If Egas Moniz wrote the Old Testament of psychosurgery, Walter Freeman wrote the New Testament. If you subscribe to any flavor of the Great Man theory of history, he is The Man. Moniz may have ‘invented’ psychosurgery, but Freeman ‘perfected’ it. No man deserves more credit for its rise and infamy than him.
 
 Depending on your perspective, he is either our story’s determined protagonist or its monstrous antagonist.
+
+<figure>
+
+![](https://acximages.ennals.org/images/2026-book-reviews/ce5968e0bd571a56.jpg)
+
+<figcaption>
+
+_Walter Freeman, the inventor of the prefrontal lobotomy (with James Watts)_
+
+</figcaption>
+
+</figure>
+
+> _and the most effective popularizer of psychosurgery._
 
 Like Moniz, Walter Freeman came from a distinguished family and had a famous relative. His maternal grandfather was William Williams Keen, a leading surgeon and “one of the first brain surgeons in the United States.” (ch. 7, p. 122) Consider this episode from Keen’s career: (ch. 7, p. 123)
 
@@ -312,7 +368,7 @@ _The cover of the first (1942) edition of Freeman and Watts’ Psychosurgery._
 
 <figcaption>
 
-_The skull on the cover._
+_The skull on the cover. Note the black butterflies._
 
 </figcaption>
 
@@ -326,7 +382,7 @@ There were two problems. One is that the Freeman-Watts standard lobotomy could p
 
 Freeman’s answer was what he called the _transorbital lobotomy_, which he conceived in 1945 and first started using on patients in early 1946. This version of the procedure adapted the approach Amarro Fiamberti used to access the brain: behind the eyeball, through the eye socket. It was lower-tech than the standard lobotomy because one did not need to drill holes through the skull. This came with the added benefits of (i) not requiring a neurosurgeon, and (ii) greatly reducing recovery time. Freeman envisioned training psychiatrists (generally with no experience doing brain surgery!) across the country to do the procedure, especially in state hospitals that could not previously ‘benefit’ from the lobotomy. He began a serious, yearslong campaign to realize this dream.
 
-To prove the technique was ‘portable’, he performed the initial transorbital lobotomies in his office rather than in a hospital operating room. The first procedure used an ice pick from the Uline Ice Company.
+To prove the technique was ‘portable’, he performed the initial transorbital lobotomies in his office rather than in a hospital operating room. The first procedure used an ice pick from the Uline Ice Company. To show off, he would sometimes simultaneously manipulate two instruments inside a patient’s head at once, just as he had earlier written on blackboards with two hands at once in front of his students.
 
 Many clinicians were horrified at Freeman’s new version of the lobotomy, despite the fact that most of them believed in the utility of the standard version. John Fulton wrote Freeman in disbelief: (ch. 10, p. 205)
 
@@ -393,21 +449,75 @@ If you, like me, didn’t know much about lobotomy, you may have thought it was 
 
 This is almost certainly _crazy and wrong_, but it was the thinking at the time, at least among proponents of psychosurgery.
 
-Valenstein positions his book as a history of _psychosurgery_ rather than as a history of the _lobotomy_, probably for the reason that the lobotomy is a more specific term that does not describe everything that was tried.
+In any case, what is a lobotomy? There were several types.
 
-Throughout his book, Valenstein favors the term psychosurgery
+The initial kind, the **leucotomy** developed by Moniz and Lima, had a few variants. They first tried destroying tissue by squirting alcohol through holes in the skull rather than by physically cutting the brain. Only after they had operated on a few patients did they begin physically cutting tissue, again through holes in the skull, using a sharp instrument they called a _leucotome_. The holes were usually drilled into the top of the skull.
 
-pg 143
+The later **Freeman-Watts** **‘standard’ lobotomy** continued using a leucotome to physically cut through tissue, but involved drilling holes into the sides of the skull rather than the top. Freeman and Watts found that this change helped them reduce variation in where they ended up cutting.
 
-We wish to emphasize also that indiscriminate use of the procedure could result in vast harm. Prefrontal leucotomy should at present be reserved for a small group of specially selected cases in which conservative methods of treatment have not yielded satisfactory results.
+The third major type, the **Lylerly-Poppens lobotomy**, came to be preferred by neurosurgeons. Like the Moniz-Lima leucotomy, it involves accessing the skull from above, but uses larger openings made with the help of a long tweezers-like “speculum” tool. The larger openings made it effectively ‘open’, rather than ‘closed’: surgeons could see into the brain, which in principle allowed them to be more careful.
 
-pg 183, watts quote on patients of lobotomy
+The final major kind, the **transorbital lobotomy**, was the low-tech version developed by Freeman. This one is the most different, since it involves drilling no holes through the skull. Instead, it involves pushing a sharp instrument through the bony orbit behind the eye, usually with the help of a mallet. (Imagine hammering a nail into someone’s head.) Freeman initially used the same leucotome he had used when doing standard lobotomies, but found that they had a propensity to break off inside people’s heads; this motivated him to construct a sturdier sharp object that he called an _orbitoclast_, which was around eight inches long and shaped like an ice pick.
+
+<figure>
+
+![](https://acximages.ennals.org/images/2026-book-reviews/cf2f574b02cd5814.jpg)
+
+<figcaption>
+
+_Freeman’s tools. As Valenstein says (ch. 11, p. 230), these are the “leucotomes and the orbitoclasts in the case that Freeman carried in the pocket of his suit jacket.”_
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+![](https://acximages.ennals.org/images/2026-book-reviews/5a39c2a19f2eb1b9.jpg)
+
+<figcaption>
+
+_A transorbital lobotomy in progress. Note the orbitoclasts, which have been driven through the skull via the eye socket. Note also that Freeman is manipulating two of them at once._
+
+</figcaption>
+
+</figure>
+
+The lobotomy was originally advertised as a method of last resort. As James Watts explained:  (ch. 9, p. 183)
+
+> … patients with involutional or agitated depression with feelings of guilt who pace the floor, wringing their hands, mourning and crying. Still others with schizophrenia are confined to strong rooms because of their abusive assaultive behavior. If given a bed, they pull it apart and assault attendants with the pieces. They are often naked, refusing to wear clothes, urinate and defecate in the corner. … Food is poked through a crack in the door like feeding an animal in a cage. …
+>
+> Following lobotomy, even the worst improve enough so that they live on an open ward, wear clothes, go to the dining room with other people, and get out in the sunshine.
+>
+> Some members of the panel have suggested that we wait until they develop some form of therapy more to their liking. Perhaps I am a bit impatient at times. A woman 65 years old with agitated depression does not have but so long she can wait; and a man with dementia precox confined to a strong room for 5 years has already waited long enough.
+
+But many of the tens of thousands of United States patients it was used on aren’t like those described in the above passage. Later, Freeman thought that the lobotomy should be used more liberally, since he thought that the outcome would be better before illness had progressed.
+
+Valenstein positions his book as a history of _psychosurgery_ rather than as a history of the _lobotomy_, probably for the reason that the lobotomy is a more specific term that does not describe everything that was tried. In the wake of the ‘success’ of the lobotomy, people tried targeting other brain regions, like the amygdala and other targets within the temporal lobes. These other operations had different results, but did not substantially differ in their ability to successfully treat mental illness—that is, they mostly didn’t work.
 
 ## VII. INTERLUDE: CONSEQUENCES OF LOBOTOMY
 
-werwrwe
+Not all people that got lobotomies became zombies. Freeman bragged about patients who were ‘success stories’: (ch. 14, p. 282)
 
-Freemand and Watts’ first patient: pg 142
+> … a psychiatrist who, after a transorbital lobotomy, had become chief of clinical service in his own private clinic; another lobotomized physician who had subsequently married, had children, established a ten-man medical clinic, and **flew his own plane**; a violinist in a metropolitan symphony orchestra; and a college graduate who had become chief construction engineer for a major corporation.
+
+Who says lobotomized people can’t be good pilots?
+
+But these patients were of course not representative. Most lobotomized patients developed serious deficits: they became unmotivated, dull, and lacking in judgment. And these are the ‘good’ outcomes. Many patients simply died, further deteriorated, or developed serious epileptic seizures. As a superintendent of one state hospital said, (ch. 13, p. 255)
+
+> I am sorry to say that even when they improved they are nothing to brag about. ... These patients have not been completely restored and some of their families are extremely disappointed.
+
+Or as the director of a major psychiatric institute said: (ch. 13, p. 255)
+
+> Is the quieting of the patient a cure? Perhaps all it accomplishes is to make things more convenient for the people who have to nurse them. ... The patients become rather childlike. ... They act like they have been hit over the head with a club and are as dull as blazes. ... It disturbs me to see the number of zombies that these operations turn out. I would guess that lobotomies going on all over the world have caused more mental invalids than they've cured. ... I think it should be stopped before we dement too large a section of the population.
+
+The “zombie” assessment was sometimes fair, but the overall outlook was more complicated. Valenstein thinks: (ch. 12, p. 252)
+
+> Following a lobotomy, many agitated and anxious patients did experience a striking relief from their most troublesome symptoms. In the best cases, this led to a normalization of their behavior. In the worst cases, they became either thoughtlessly impulsive or almost insert, seldom talking and completely lacking in spontaneity. The latter cases justified the accusation that lobotomies were producing "zombies." Some patients became careless, indifferent to errors, and generally slovenly. Motivation and drive were often decreased, as were insight and foresight. Behavior tended to be more concrete, and patients were less capable of dealing with abstract ideas.
+
+Part of the problem was that the ‘effectiveness’ of the lobotomy depended strongly on the patient’s illness. Over time, Freeman found that it did not do much for schizophrenics, but sort of worked on patients with affective disorders (e.g., extreme anxiety) since it could ‘flatten out’ their emotions.
+
+Valenstein discusses a number of patient outcomes in the book. First, there are the historically significant patients, like the ones who Moniz and Lima or Freeman and Watts first operated on. Apparently Freeman and Watts’ first patient had this to say after her lobotomy: (ch. 8, p. 142)
 
 > **FREEMAN:** “Are you happy?”  
 > **PATIENT:** “Yes.”  
@@ -416,13 +526,65 @@ Freemand and Watts’ first patient: pg 142
 > **FREEMAN:** “What was it all about?”  
 > **PATIENT:** “I don’t know. I seem to have forgotten. It doesn’t seem important now.”
 
-Valenstein adds that Freeman wrote:
+He adds ominously that “She greeted her husband with a peaceful smile.” This outcome was so encouraging that it caused Freeman and Watts to rush ahead with doing more lobotomies and quickly publish their results.
 
-> Watts and I were so sure of ourselves that we really rushed into print with our first case.
+Then there are patients whose long-term study allowed Valenstein to discuss their outcomes in more detail. In Chapter 12, he considers two such patients, who are known by the pseudonyms Carolyn W. and J.S.
 
-The most important myth to dispel is that not all people that got lobotomies became zombies, or zombie-like.
+Carolyn W. was the daughter of a wealthy family who had a psychotic break after her parents, who didn’t approve of her marriage, had it annulled against her wishes. She became psychotic and suicidal, and had to be moved to a private sanatorium for care. Her doctors tried everything, with no success: (ch. 12, p. 243)
 
-But this doesn’t mean that the prognosis was _good_. Death wasn’t uncommon. In one harrowing incident while Freeman was on his road trip: (ch. 11, p. 231)
+> She was given all the available therapies for schizophrenia, including insulin coma, electroshock treatment, sedatives (antipsychotic drugs were still in the future), hydrotherapy, and wet packs; when there was a danger she would injure herself, she was placed in seclusion, sometimes in a straitjacket for restraint. No treatment produced any lasting improvement.
+
+Other options having been exhausted, it was eventually suggested that she should have a standard Freeman-Watts lobotomy. This didn’t work, so (if at first you don’t succeed…) she was given a _second_, ‘radical’ prefrontal lobotomy, which involved more cutting than the original version. Unsurprisingly, this operation “markedly subdued” Carolyn and made her childlike: (ch. 12, p. 244)
+
+> Initially, the job was almost like caring for a child; Carolyn had to be brought to the bathroom and essentially toilet-trained. It was also necessary to supervise all her routine activities, even dressing, eating, and bathing. She seemed to be indifferent to pain and once stepped into scalding bath water, severely burning her foot. Like many of the early lobotomized patients, she had bulimia and ate voraciously: it is believed that the frontal lobes normally suppress "lower centers" in the hypothalamus and other areas in the brain that stimulate appetite; following destruction of the frontal lobes, or its exiting fibers, it was not uncommon for patients to gain more than fifty pounds. **She also had a tendency to start fires in her room during the first six months after her discharge from the hospital.**
+
+What an ending!
+
+Her family’s wealth enabled her to receive the highest levels of care in the years since her operation. She was not kept idle, but constantly given lessons, taken on trips, and otherwise stimulated. While this produced some improvement, (ch. 12, p. 244)
+
+> … she is not able to take care of herself and has required full-time caretakers. She is usually able to verbalize what she should do, but there is no guarantee that she will do it. Even though she could state what bus she should take to get to her art teacher, Carolyn took the first bus that came along and had to be rescued at different locations around the city when she was given several opportunities to make the trip alone. She is now always accompanied when she travels.
+
+One of the weirdest things about Carolyn W. and other lobotomy patients is that their IQs are not necessarily low: hers is between 115 and 120. Valenstein says that “people meeting her for the first time usually do not detect any abnormality and consider her a proper, affable, well dressed, and somewhat taciturn lady.” (ch. 12, p. 245) But she clearly has major deficits, and these become obvious to anyone that spends more time around her.
+
+It is apparently difficult to quantify these deficits in psychological tests, despite the fact that these patients exhibit horrendous judgment and require full-time caretakers. The results of IQ tests come out in the normal-to-bright range, and so do the results of many similar tests. One that Carolyn W. apparently struggles with is the [Wisconsin Card Sorting Test](https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test), which measures “flexibility in thinking”. The subject originally sorts cards depicting some number of colored shapes (e.g., two red triangles) according to one feature, like shape, and then later is asked to switch to sorting based on a different feature. Patients like Carolyn have a hard time shifting strategies. This seems to accord reasonably well with what is known about the prefrontal cortex’s role in accommodating context information during context-sensitive decisions.
+
+Muddying the waters a bit is that Valenstein doesn’t seem to be sure that all of Carolyn’s deficits are due to her (two!) lobotomies, since she also spent considerable time in an institution and received many other dangerous therapies: (ch. 12, p. 246)
+
+> Her limitations make it easy to criticize those responsible for the decision to perform the lobotomies. At the time, however, most psychiatrists considered it almost a certainty that any schizophrenic patient hospitalized for more than ten years would only deteriorate further. Carolyn seemed destined to spend her remaining years locked in a mental institution. Today, we might wonder whether some of her limitations were not the result of fourteen years of confinement in a mental institution where more electroconvulsive shock was surely administered than would now be considered safe.
+
+But overall, Valenstein thinks Carolyn’s outcome, which has reduced her to a dull, dependent, childlike woman, is relatively good. Without the constant enrichment in the years following her operation, she likely would have become worse.
+
+He contrasts her case with that of J.S., a sexual deviant who received a lobotomy after going to prison for sex crimes. He lived with his mother and had an Oedipus complex _par excellence_: (ch. 12, p. 247)
+
+> J.S. thought he had been spoiled as a child. He was very fond of his mother even though she was strong-willed and domineering. She had punished him physically for the slightest offense, beating him "with a strap, or birch switch, or with her hands on his bare buttocks." These beatings usually produced an erection and often ended with J.S. ejaculating and his mother kissing him. This behavior continued for about two or three times a week until he was sixteen.
+
+Later, he became obsessed with the pleasure he derived from the beatings he had received as a child, and tried to get others to help him act out his sexual fantasies. Since people his own age wouldn’t help, he started trying to get children involved: (ch. 12, pp. 247-248)
+
+> His strategy was to start talking to young boys and quickly direct the conversation to questions about how their parents punished them. He would tell them that he liked it when he was beaten as a boy, and would make up a game where the boys acted as his parents and would have to punish him.
+
+This escalated in a predictable bad way, and he was caught and imprisoned. In prison, he became obsessed with the idea that his obsession would lead him to commit even worse sexual and violent acts. J.S.’s high anxiety surrounding this is what led his psychiatrist to seek a lobotomy for him. The outcome did not initially seem good, but later improved: (ch. 12, pp. 248-249)
+
+> Immediately afterward, J.S. was confused, disoriented, and incontinent. He masturbated and kept placing his finger in his rectum and then in his mouth. After several days, however, he regained control of his anal sphincter; and by the tenth postoperative day, the confusion was said to have completely cleared up. Two to three weeks after the operation, all of the undesirable effects were said to have disappeared entirely. Although J.S. remained under observation in the prison hospital for six months, he was able to resume secretarial duties throughout most of this period.
+
+Later, a journal article championed him as an example of the positive effects of the lobotomy. He was considered reformed, and gave a statement recanting his past deviant behavior. In 1942, one year after his lobotomy, he was released from prison.
+
+He seemed to be on good behavior for a while, and regularly reported to his parole officer, but in 1944 stopped contacting him after he moved to Chicago. Then things got much worse: (ch. 12, p. 250)
+
+> Shortly after the lobotomy, J.S. appeared to have undergone rapid improvement, followed by a year-long period of stabilization and then a period of progressive decline. He was not able to hold a job for more than a few weeks before he was fired, because he was "undependable in every way" and did not seem "to know what he was doing." His judgment was childish, he had no insight into his behavior, and he became progressively confused. His memory was very bad, and almost nothing he said about previous events was found, when checked, to be accurate. He was often incontinent, and his buttocks were grossly contaminated with fecal matter. He exuded a profound stench and was covered with bedbug sores.
+
+Even worse, he was still a pedophile, albeit an extremely incompetent one: (ch. 12, p. 250)
+
+> Earlier, the parole officer had given J.S. "a clean slate," reporting that he was "completely free of abnormal desires." In actuality, J.S. continued secretly to practice his perversions in Chicago. In his suitcase were found obscene handwritten propositions on slips of paper, which he handed out to boys in the parks he frequented.
+
+Valenstein thinks that J.S. suffered from at least two problems. First, the lobotomy did not remove the obsessional desires that were consuming him, even if they apparently briefly quieted them. Second, lobotomized patients, which generally lacked the good judgment and mental adeptness to make it in the world without significant help, should not be left to their own devices. J.S. should have received some form of support in order to avoid relapsing and deteriorating.
+
+Valenstein’s overall conclusion is that lobotomized patients were generally semi-competent, and in the best cases could get by with social support and by compensating for what they had lost: (ch. 12, p. 252)
+
+> In most cases, the impairment was at some intermediate level. Thus, there was some helpful reduction in the most troublesome symptoms—but at the price of reducing potential motivation to excel and the capacity for thinking abstractly, for imagination, for emotional experience, for spontaneity, for planning ability, for insight, and for social judgment. In the best cases, these deficits were not great, and, postoperatively, patients could make a good adjustment by compensating for the loss by using remaining abilities resourcefully, much as some elderly people are capable of doing.
+
+But overall, he unsurprisingly does not think that the benefits of the lobotomy outweighed the risks, especially when it was not used as a method of last resort.
+
+It is worth keeping in mind how dangerous the operation is. Death wasn’t uncommon. In one harrowing incident during one of Freeman’s road trips: (ch. 11, p. 231)
 
 > On the 1951 trip, there were four deaths from the surgery. The experience at the Cherokee State Hospital in Iowa was the worst: three of the twenty-five patients died either during or shortly after surgery. Two deaths were caused by hemorrhage, and one by an accident that caught Freeman completely by surprise. Normally it took a certain force to drive the leucotome through the bony orbit, but in this patient, the bone was so thin that the leucotome went through with hardly a touch from the mallet. When Freeman, as was his custom, stepped back to photograph the leucotome in place, it sank a full two inches farther into the brain up to the hilt of the handle. This patient never regained consciousness; and when the brain was later autopsied, the tip was found to have gone far beyond the frontal lobes, extending deep into the midbrain: indeed, the tip had penetrated the basal ganglia, skirting the hypothalamus and ending near the red nucleus.
 
@@ -430,43 +592,76 @@ In other words, _a patient died because Freeman stopped to take a picture_. Vale
 
 > Freeman would not allow himself to be emotionally drained by guilt when things went wrong. He had the attitude of a general conducting a military campaign: losses would have to be incurred on the way to ultimate victory.
 
-Carolyn W., J.S.
-
-Mention some patients from the NPR story
-
-Regarding Moniz’s original patients (seven cures, seven improvements, six unchanged), Valenstein thinks people’s embrace of his claims is a classic case of _not actually reading his book_. Fulton, an influential figure, repeatedly claimed that the evidence Moniz presented was solid, but his comments suggested he was either misinformed or uninformed about Moniz’s cases.
+This attitude drove many proponents of psychosurgery to continue even in the face of many middling and poor results.
 
 ## VIII. UNCRITICAL RESEARCHERS
 
-wre
+The peak years of psychosurgery occurred before we had good, widely-used models of how neurons in the brain process information, and before we had any serious knowledge of molecular biology. We were still in something of a dark age of neuroscience.
 
-pg 183
+There was no agreed-upon way of thinking about the brain, so many different ways coexisted. And some of them were extremely strange. A particularly weird episode of the book involves the critique a Freudian psychoanalyst has of lobotomies. He thinks everyone should be aware that the compulsions associated with some mental illnesses (obviously) relate to an _anal sensory perception area_: (ch. 9, p. 183)
 
 > If we accept the general Freudian formula, and I see no reason not to, then the compulsion neurosis uses the mechanism of displacement from early erotic fixations. … Psychoanalytic psychiatry has pointed very clearly to a highly important organ libido investment in the “compulsion neurosis.” This is the cathexis of the anal sadistic with its massive hostility drive. This **anal sensory perception elaborating area**, Dr. Penfield I think partly localized at our 1934 meeting.
 
-Emphasis mine.
+The (obvious) consequence of this is that lobotomies can only be successful if they sever “only the fibers connecting the frontal lobe with the brain area that receives sensory information from the anus”. (ch. 9, p. 184) These comments are so weird that a different prominent psychoanalyst feels compelled to speak against them: (ch. 9, p. 184)
 
-pg 184
+> I cannot understand why such ideas are brought here, and much less the fantastic conclusions drawn from them by some of the discussers. I suppose we are so polite that anything may be ventured with impunity. … The whole presentation reminds me of a time when they used to treat homosexuality by prostatic massage. … I asked him how he expected to cure homosexuality by prostatic massage. He thought the massage might rub out the homosexual cells and that they would be replaced by heterosexual cells …
 
-> Jelliffe argued that what was needed was a more selective lobotomy severing only the fibers connecting the frontal lobe wih the brain area that receives sensory information from the anus
+Ouch!
 
-Valenstein titles this chapter, subtly, “The Emperor Has No Clothes”. Nice.
+Anyway, that was the state of some discussions of the brain: “anything may be ventured with impunity.” Valenstein asks: given this deep and substantial ignorance of the brain, should the proponents of psychosurgery have known better? He argues that the answer is yes.
 
-- moniz’s bad theory
+First, even then a nontrivial amount of information was known about the anatomy and function of the frontal lobes. Valenstein points out that, in 1861 or possibly earlier, Pierre Paul Broca (of [Broca’s area](https://en.wikipedia.org/wiki/Broca%27s_area) fame) thought that the frontal lobes had something to do with Man’s “higher faculties”: (ch. 5, p. 89)
 
-- fulton’s neglect
+> The majesty of the human being is owing to the superior faculties which do not exist or are very rudimentary in all other animals; judgment, comparison, reflection, invention, and above all the faculty of abstraction, exist in man only. The whole of these higher faculties constitute the intellect, or, properly called, understanding, and it is this part of the cerebral functions that we place in the anterior lobes of the brain.
 
-- general ignorance of frontal lobes, localization
+Work by many others, from then until the dawn of psychosurgery during the following century, established that the frontal lobes mostly consisted of neither sensory nor motor areas, but something else related to abstraction and problem-solving—and for this reason, the frontal lobes were sometimes called “association” areas.
 
-- mention of feyerabend, kuhn
+The story of [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage), the construction foreman whose frontal lobes were severely damaged by a long tamping rod after an accidental explosion, was well-known. He exhibited severe deficits, including poor judgment and self-control. Moreover, similar deficits were observed in World War I veterans whose frontal lobes had been damaged.
 
-and to be fair to them, most medical treatments are incompletely understood, or even not really understood at all. Electroconvulsive therapy is still used for treatment-resistant depression and catatonia, despite the fact that we don’t know why it works.
+It was known, but perhaps not widely appreciated, that patients whose frontal lobes had been deliberately damaged during surgery (e.g., to remove a tumor) _also_ exhibited serious deficits. Moniz, who explicitly referenced some of these patients in his writings, apparently did not understand or ignored the severity of these deficits. He ought to have known that frontal lobe damage was likely to destroy something precious to human intelligence.
 
-quote about aspirin
+Valenstein’s other points concern the nature of the empirical evidence. The N = 2 chimpanzee study presented by John Fulton and Carlyle Jacobsen at the 1935 International Congress of Neurology was frequently either accidentally or fraudulently misrepresented, especially by Moniz. Moniz and others—including Fulton!—often claimed that _both_ animals became more placid and agreeable after surgery. But this is exactly the opposite of what happened. One of them did—Jacobsen described the change by saying it is as if she joined a “happiness cult” (ch. 5, p. 96)—but the other one experienced the _complete opposite trajectory!_ The other animal, who initially performed well, began making many errors and became prone to having temper tantrums. At least for her, damaging the frontal lobes _created_ a kind of personality issue. Hence, the Fulton-Jacobsen study provided no evidence that frontal lobe damage reduces or eliminates neuroses.
 
-pg 171
+As Valenstein observes, even the Nobel Committee made this error: (ch. 13, pp. 266-267)
+
+> Fulton's repeated distortion of the chimpanzee experiment came to be so widely accepted that when the Nobel Committee, in their citation of Moniz's award, traced the lines of thought that led to the discovery of prefrontal leucotomy, they perpetuated this error …
+
+Valenstein rips apart Moniz’s ‘theoretical’ motivation for psychosurgery in a chapter aptly titled “The Emperor’s New Clothes: Moniz’s Theoretical Justification for Psychosurgery”. The first funny part of this chapter is that Moniz apparently had a history of lying about his justification for trying psychosurgery. Since, even then, using sharp objects to cut through people’s brains seemed a bit cavalier, especially in the absence of a concrete reason like a tumor, Moniz claimed that he had thought _very hard_ about the whole thing. He had thought for _years_ and had _strong theoretical reasons_ to do what he did.
+
+But that was a complete fabrication!
+
+He claimed to have secret discussions with collaborators, but there is no written record of these discussions, and these collaborators could not remember them when asked years later. As Valenstein observes, you would think that they would remember them given the later infamy of psychosurgery. When he _did_ disclose his theoretical motivation, long after the first operations had been done, it was pretty shallow. Valenstein calls it “not much of a theory at all”. (ch. 5, p. 84) It went something like this: (ch. 5, p. 84)
+
+> Moniz’s argument for prefrontal leucotomy was based solely on a series of general, loosely connected, and essentially untestable statements. First, he asserted that the frontal lobes are the seat of man’s “psychic activity,” and that thoughts and ideas are somehow stored in the nerve-fiber connections between brain cells. Moniz then stated that all serious mental disorders are the result of “fixed” thoughts that interfere with normal mental life. … Moniz argued that “fixed thoughts” are maintained by nerve pathways in the frontal lobes which have become pathologically “fixed” or “stabilized”. Effective therapy, according to Moniz, required the destruction of these abnormally “stabilized” pathways in the frontal lobes.
+
+Among other problems, “fixed” thought patterns are a problem in some mental illnesses (like hysteria) but not others. And even if Moniz were right, it doesn’t follow that an untargeted operation involving sticking a knife into someone’s brain will address the problematic patterns!
+
+Many of the early pioneers of psychosurgery expressed reservations with Moniz’s ideas, and were mainly motivated by (what they viewed to be) the empirically good outcomes. When Freeman and Watts published the first edition of their psychosurgery bible in 1942, part of what they offered was an alternative, more acceptable explanation for why psychosurgery ‘worked’, which helped others become more comfortable with it. As Valenstein explains, (ch. 9, p. 171)
 
 > What was most influential in _Psychosurgery_, however, was the theory that specific brain pathways between the frontal lobes and the thalamus regulate the intensity of the emotions invested in ideas. This was widely and uncritically accepted as the most promising scientific justification for psychosurgery.
+
+Explaining its ‘success’ in terms of specific anatomical connections seemed at least more respectable than Moniz’s ‘fixed ideas’ framework. Still, like Moniz’s hypothesis, Freeman and Watts’ hypothesis has obvious problems: for one, not every serious mental illness they treated using psychosurgery involved intensely dysregulated emotions.
+
+But perhaps these researchers and clinicians can be forgiven for not understanding the brain back in the 1940s. Their more serious, avoidable error concerned their liberal interpretation of experimental results. The twenty patients Moniz discussed in his original monograph did not provide good evidence that psychosurgery was effective. As Valenstein notes, (ch. 6, p. 108)
+
+> _In four of the seven “cured” patients, the last observation Moniz recorded in the monograph was less than eleven days after the operation!_
+
+Additionally, the information collected and provided about patient outcomes seems to have been fairly limited. No quantitative tests were administered and no detailed notes were taken; only brief observations by a psychiatrist, which were from not long after the surgery, were included. The evidence base Moniz presented was totally inadequate, especially given the obvious dangers of brain surgery.
+
+Worst, influential neurologists and psychiatrists like John Fulton of Yale began to uncritically repeat the claim that Moniz’s evidence base was _solid_. This seems to be a case of someone saying it once, and then everyone else repeating it without ever actually reading Moniz’s book.
+
+Later, Freeman was more scrupulous about following up with his patients, even after many years. But Freeman also did not usually administer psychological tests and was probably too invested in the success of his procedures. He tried to report outcomes honestly, but he also saw what he wanted to see; confirmation bias was a huge issue.
+
+Given the sorry initial state of many of the patients who underwent psychosurgery, it was hard for physicians to assess outcomes. If someone who was initially violent and incoherent became dull and placid, and at the very least no longer needed to be restrained, did that count as an improvement? The experimental evidence was hard to evaluate, and there did not seem to be any large-scale attempt to compare outcomes to those of an appropriate control group.
+
+There are two final interesting ingredients worth mentioning. One is that Moniz and Freeman were both respected senior researchers and physicians when they began psychosurgery; this helped insulate them from criticism. Influential senior people spoke up for them and repeatedly gave them the benefit of the doubt, even when what they were doing was poorly motivated and sometimes crazy.
+
+The other was a tendency toward incremental change. When people criticized psychosurgery, especially once it became popular and widespread, it was not on its _fundamentals_—rather, it was on the details of an approach. It was assumed that if it was ever ineffective, the fix was to refine and improve the procedure rather than to abandon it entirely. This situation makes me imagine some exchange like this:
+
+> **PERSON A:** Maybe we should blow up the entire world.  
+> **PERSON B:** That’s _preposterous_. We need to be _extremely careful_. What if we just blew up 99% of the world?
+
+Once psychosurgery gained momentum, it was hard to get rid of it entirely. People were too invested in it and had too many ideas about how to ‘get it to work’. In some sense we are lucky that psychoactive drugs came when they did and worked as well as they did. Otherwise, we may have been stuck toying with psychosurgery approaches for much longer.
 
 ## IX. UNCRITICAL MEDIA
 
@@ -494,7 +689,7 @@ Here’s a selection of fawning small-town newspaper headlines Valenstein lists 
 >   
 > **NO WORSE THAN REMOVING TOOTH**
 
-_Life_ magazine ran articles filled with whimsical cartoons whose goal was to explain the lobotomy. This one explained in terms of the Freudian concepts of the id, ego, and superego:
+_Life_ magazine ran articles filled with whimsical cartoons whose goal was to explain the lobotomy. This one explained it in terms of the Freudian concepts of the id, ego, and superego:
 
 <figure>
 
@@ -509,6 +704,7 @@ _From the March 3, 1947 issue of Life. In a healthy man,_
 </figure>
 
 > _the various Freudian sub-entities are harmoniously balanced._
+>
 
 <figure>
 
@@ -522,8 +718,7 @@ _From the March 3, 1947 issue of Life. In a mentally ill man, the superego_
 
 </figure>
 
-> _is out of control! They claim that the lobotomy makes him shut up._
->
+> _is out of control! They claim that the lobotomy makes him shut up._  
 > _But I’m not sure where they got this explanation from._
 
 Side note, the same article also depicts _graphic images of brain surgery_ next to an ad for shoes:
@@ -540,6 +735,10 @@ _Get yourself a magazine that can do both._
 
 </figure>
 
+Different popular accounts of the lobotomy were not generally consistent with one another: (ch. 9, p. 180)
+
+> Thus, while _Life_ described the effects of lobotomy as destroying the superego, _Time_ implied that the operation created a superego where apparently there had been none before.
+
 The hype was also not limited to media aimed at laypeople. Even the prestigious _New England Journal of Medicine_ joined in: (ch. 10, p. 199)
 
 > A new psychiatry may be said to have been born in 1935, when Moniz took his first bold step.
@@ -550,45 +749,51 @@ Or consider a 1941 editorial in the _Journal of the American Medical Association
 
 And of course, the _Nobel Prize_ was the biggest rubber stamp of all!
 
-pg 160
+A substantial chunk of this hype was either encouraged by or directly produced by Freeman, who had a penchant for showmanship and a love for the limelight. For example, Freeman and Watts maintained a “psychosurgery exhibit” in the exhibit hall of the American Medical Association’s annual meeting from 1936 to 1946, the prime years of their collaboration. Watts recalled that: (ch. 8, p. 160)
 
 > He would stand by his exhibit, and as people approached, he had a clicker which made a sharp staccato noise. When they stopped he would begin to talk like a barker at a carnival. Then a crowd would gather and before they moved on they had heard the story of dramatic relief of emotional tension, depression, suicidal ideas, had seen pre- and post-operative photographs, x-rays and sketches of the lobotomy operation.
 
-pg 161
+Freeman didn’t care if his fellow physicians found his approach—that is, the enthusiastic promotion of a dangerous and incompletely understood brain surgery—distasteful. He blamed his colleagues for being unfair, and spun his behavior as being due to a concern for patients’ wellbeing: (ch. 8, p. 161)
 
-When it is a question of overcoming inertia and taking part in the pressure of the public upon politicians, and particularly upon hospital administrators at least to give the method described a fair trial, then I think that the doctor with a clear conscience can discuss his research with newspaper reporters and undergo the ensuing censure from his colleagues with equanimity. He realizes that something is being done to apply his discovery to the welfare of suffering patients.
+> When it is a question of overcoming inertia and taking part in the pressure of the public upon politicians, and particularly upon hospital administrators at least to give the method described a fair trial, then I think that the doctor with a clear conscience can discuss his research with newspaper reporters and undergo the ensuing censure from his colleagues with equanimity. He realizes that something is being done to apply his discovery to the welfare of suffering patients.
+
+With the media portraying brain surgery as ‘trendy’, even famous and wealthy people sought lobotomies for their families, with the most famous (horrific) example being [Rosemary Kennedy](https://en.wikipedia.org/wiki/Rosemary_Kennedy), whose politically famous family lobotomized her in part because her antics publicly embarrassed them. She never recovered from her lobotomy, and spent most of the rest of her life in an institution.
 
 ## X. TERRITORIAL DISPUTES
 
-werwer
+I used to be confused about something extremely basic. Why are there so many professions dedicated to the brain? There are psychologists, cognitive scientists, neuroscientists, psychiatrists, neurologists, and neurosurgeons, among others. And these are all obviously different, but also somehow kind of the same.
 
-I used to be confused about something extremely basic. Why are there so many professional roles which concern the brain? There are psychologists, cognitive scientists, neuroscientists, psychiatrists, neurologists, and neurosurgeons, among others. And these are all different, but somehow also kind of the same.
+This is partly due to a difference in commitments. For example, a cognitive scientist is interested in understanding not every aspect of the brain, but most particularly the aspects important for cognition and intelligence. They acknowledge that the brain is composed of biological ‘stuff’, like neurons, but think it may be more fruitful to view the brain more abstractly as performing computations in order to solve survival-relevant problems. A molecular neuroscientist, meanwhile, is intensely interested in the specifics of the molecular biology of neurons, and tends to think that this low-level biology will tell us something important about how the brain works. It’s like the standard joke about the elephant: we’re all blind men touching different parts of the same thing.
 
-This is partly due to a difference in commitments. For example, a cognitive scientist is interested in understanding not every aspect of the brain, but most particularly the aspects important for cognition and intelligence. They acknowledge that the brain is composed of biological ‘stuff’, like neurons, but think it may be more fruitful to view the brain more abstractly, as performing computations in order to solve survival-relevant problems. A molecular neuroscientist, meanwhile, is intensely interested in the molecular biology of neurons, and tends to think that this low-level biology will tell us something important about how the brain works. It’s like the standard joke about the elephant: we’re all blind men touching different parts of the same thing:
+But I don’t think the difference in commitments is the full story. The many professions are also in part due to what one might call _territorial disputes_ that play out over decades. Why does the ‘psychiatric nurse practitioner’, who in many places can do most of the things an MD psychiatrist can do, exist? Because there are groups of people fighting each other for patients and legitimacy!
 
-But I don’t think the difference in commitments is the full story. It is also in part due to quirks of history. Why are there professional nurse psychiatrists which can in many places do almost the same things an MD psychiatrist can do? Because there are groups of people fighting each other!
+Valenstein thinks that a few territorial disputes explain some of the dynamics of the history of psychosurgery. The most important is the clash between those who subscribe to a _functional_ theory of mental illness, which suggests it is primarily due to life experience, and the _organicists_ who think it is mostly due to biological factors. In addition to each group having different beliefs, they also both wanted professional clout and access to patients. But if you believe your rivals have a totally wrongheaded view of mental illness, why should they get recognition? Why should they be the first line of attack? Conflict is inevitable.
 
-Relevant to this story is a fight between those who think mental illnesses have an “organic” origin (the neurologists) and those who think they have a “psychic” origin (the psychiatrists). Each group fought the other for prestige and access to patients.
+He traces some of this history in the very first chapter of the book. Early in the twentieth century, there was a heated battle between the _neurologists_, who mostly took an organic view of illness, and the _psychiatrists_, who after Freud largely subscribed to a functional view. The neurologists were losing this battle for patients and prestige when psychosurgery began in 1935, and the victory was essentially complete by the end of World War II. Some of the details of the dispute are funny: for example, when a joint certification board was established, some were angry that “Psychiatry” preceded “Neurology” in its name, “in spite of the argument that _n_ precedes _p_ in the alphabet.” (ch. 1, p. 22) Neurologists were also squeezed out of their turf by neurosurgeons, since they had to refer patients to them to do the ‘real’ work, e.g., operating to remove brain tumors. Some pejoratively called them the “pimps of neurosurgeons”. (ch. 1, p. 17)
 
-To prove that they partook in ‘real’ medicine, and not just metaphysics, psychiatrists became increasingly invested in ‘somatic’ therapies: therapies which physically affected the body in some way.
+But then the psychiatrists became threatened by the unwashed (or at least, not medically trained) hordes of _psychologists_, who could also do talk therapy. It was to the disadvantage of the psychiatrists that the popular Freudian methods did not really require much training to do, even if they could argue substantial training was required to do them well. This led psychiatrists to try to distinguish themselves from the psychologists, and one of the ways this happened was by embracing _somatic therapies_: therapies which involved physically manipulating the body, like insulin coma and electroshock therapy. Clearly their use was a sign that psychiatry was ‘real medicine’, and not just talk therapy plus metaphysics. Ironically, this professional attack from psychologists pushed many psychiatrists closer to an organic view of mental illness, since the ‘success’ of the somatic therapies was thought to have a biological explanation. For example, spinning patients around in a whirling chair was thought to improve brain circulation, and hence (hopefully) do something to combat mental illness.
+
+This embrace of somatic therapies is in part what made psychosurgery popular. It was understood that talk therapy, which could require many sessions over weeks or months, did not scale to the setting of the overcrowded state hospitals. And furthermore, it wasn’t thought to be effective on many of those patients. Psychosurgery was ‘real’ medicine, and seemed to work.
+
+Another relevant dispute is the one between the somatic-therapy-embracing psychiatrists and the neurosurgeons. Once he began advocating for the transorbital lobotomy, Walter Freeman suggested that psychiatrists in state hospitals across the country should be trained to perform lobotomies. Moreover, he thought they did not need the help of neurosurgeons, who were too expensive and generally required resources these hospitals did not have.
+
+Predictably, neurosurgeons both viewed this as unsafe (see earlier comments about a lack of gloves and anesthesia) and as an encroachment upon their turf. Valenstein argues that the vocal resistance of many neurosurgeons to the transorbital lobotomy contributed to more widespread concerns that _all lobotomies_ were dangerous and should not be used—which is ironic considering that neurosurgeons usually only had a problem with the transorbital variant performed by psychiatrists. An internal dispute grew out of control and threw a shroud of disrepute over the whole business.
 
 ## XI. ECONOMICS
 
-werwer
+This reason Valenstein gives for the prevalence of psychosurgery might be the easiest to understand of all. _Yes_, people wanted to cure the sick. But realistically, it was unlikely that most severely mentally ill patients would significantly improve. If they could not be cured, perhaps they could be made more agreeable—and hence easier and cheaper to care for.
 
-- necessary because state hospitals were overcrowded; would be a godsend to the staff and government if even ten percent of patients could be sent home. Would also be nice if patients were less violent, or if patients did not need to be restrained.
+State hospitals were horrendously overcrowded. If lobotomy truly treated patients, they could be sent home (which reduces costs). If it _didn’t_ treat them, but merely _incapacitated_ them, that was still a net benefit from the hospital’s point of view: formerly violent patients would no longer need to be restrained (which reduces costs). If it killed them, that would be cheaper still.
 
-- psychosurgery lost because of psychoactive drugs, which filled a similar niche but were much cheaper (and had less bad side effects)
+In 1941, the superintendent of Delaware State Hospital spoke out in favor of psychosurgery during a panel discussion at an American Medical Association meeting. He lays out this logic in a fairly straightforward, if cold, fashion: (ch. 8, p. 154)
 
-- Same reason for its adoption led to its undoing! Outcompeted!
+> From an economic point of view I should like to give some figures as to what this may mean to the public. We have come to the following conclusion with regards to our own cases: In our hospital there are 1,250 cases and of these about 180 would be suitable for such an operation. In our hospital these patients could be operated on for $250 per case. That will constitute a sum of $45,000 for 180 patients. Of these we will consider that 10 percent, or 18, will die, and a minimum of 50 percent of the remaining, or 81 patients, will become well enough to go home or to be discharged. The remaining 81 will be much better and more easily cared for in the hospital. Thus the hospital will be relieved of the care of 99 patients. **That will mean a saving of $351,000 in a period of ten years.** I believe that, these figures being for the small state of Delaware, you can visualize what this could mean in larger states and in the country as a whole.
 
-pg 154
-
-> From an economic point of view I should like to give some figures as to what this may mean to the public. We have come to the following conclusion with regards to our own cases: In our hospital there are 1,250 cases and of these about 180 would be suitable for such an operation. In our hospital these patients could be operated on for $250 per case. That will constitute a sum of $45,000 for 180 patients. Of these we will consider that 10 percent, or 18, will die, and a minimum of 50 percent of the remaining, or 81 patients, will become well enough to go home or to be discharged. The remaining 81 will be much better and more easily cared for in the hospital. Thus the hospital will be relieved of the care of 99 patients. That will mean a saving of $351,000 in a period of ten years. I believe that, these figures being for the small state of Delaware, you can visualize what this could mean in larger states and in the country as a whole.
-
-Valenstein adds:
+Valenstein adds: (ch. 8, p. 154)
 
 > This economic argument was frequently raised throughout the period of expansion of lobotomy. In 1948, John Fulton remarked that if only 10 percent of the patients occupying neuropsychiatric beds could be sent home, “it would mean a savings to the American taxpayer of nearly a million dollars a day.”
+
+Interestingly, this dimension of Valenstein’s argument also explains psychosurgery’s decline. It arguably did not decline for moral reasons, since the obvious objections had been raised and debated for well over a decade; instead, it declined because it was _outcompeted_. Psychoactive drugs were cheaper, safer, and required much less training than brain surgery. The timing of psychosurgery’s decline precisely coincides with their introduction.
 
 ## XII. DO NO HARM
 
@@ -640,7 +845,7 @@ In any case, years of research has also shown that ECT can help patients with tr
 
 How invasive brain surgery impacts cognition is an interesting question for neuroscientists, psychologists, and cognitive scientists. Why psychosurgery persisted in spite of its obvious harms is an interesting question for sociologists and historians. And whether it was ultimately right or wrong is an interesting question for philosophers. For example, would a utilitarian [approve of the lobotomy](https://link.springer.com/article/10.1007/s11019-013-9519-8)? What must their utility function look like in order for them to approve?
 
-But we ought to remember that this dark and shameful history is not abstract. Real people suffered as a result of the decision to perform psychosurgery. Let us now return to the case of Howard Dully, who was lobotomized at twelve years old by Walter Freeman.
+But we ought to remember that this dark and shameful history is not abstract. Real people suffered as a result of the decision to perform psychosurgery. Let us now return to the case of Howard Dully, who I mentioned in passing in the introduction. Freeman lobotomized him when he was twelve years old. (Freeman also operated on a number of slightly older children, which did not help his public relations efforts.)
 
 Dully’s memoir, _[My Lobotomy](https://www.goodreads.com/en/book/show/503248.My_Lobotomy)_, tells his story. It is one of the most heart-wrenching, depressing stories I have ever read. Dully’s mother died during childbirth when he was six years old. His father, Ronald Dully, went on to marry a woman that hated Howard. Not only was she a poor stand-in for his mother, denying him basic affection and support, but she mentally and physically abused him for years. Any child would have had a difficult time adjusting to that sort of treatment.
 
@@ -680,7 +885,7 @@ _Not everyone liked the memoir. Some Goodreads reviewers think_
 
 > _lobotomy victims ought to take more personal responsibility._
 
-The arc of the memoir is to claim that, despite everything he had gone through, Howard came out the other side okay. He had kids; he had a wife that loved him; he finally got a job he enjoyed; and he found peace. In some ways these things are true, but Howard’s life was far from normal, and was disastrous in almost every sense one could imagine. His kids were unplanned, his good second marriage followed a terrible first marriage, and his bus driving job is not the one he was hoping for; he went to school later in life hoping to get a computer-related job. Even after NPR covered his story, he continued to have financial problems and health challenges.
+The arc of the memoir is to claim that, despite everything he had gone through, Howard came out the other side okay. He had kids; he had a wife that loved him; he finally got a job he enjoyed; and he found peace. In some ways these things are true, but Howard’s life was far from normal, and was disastrous in almost every sense one could imagine. His kids were unplanned, his good second marriage followed a terrible first marriage, and his bus driving job is not the one he was hoping for; he went to school later in life hoping to get a computer-related job. Even after NPR [covered his story](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey), he continued to have financial problems and health challenges.
 
 Despite his presumably noble intentions, I think it’s fair to say that Freeman literally ruined Howard’s life. Similar consequences follow other interventions gone wrong. Whenever we reflect on the power and promise of science and medicine, this simple fact is worth keeping in mind.
 
@@ -723,4 +928,4 @@ In 1933, the same year he finished a book on neuropathology, and a few years bef
 > And self-control  
 > Are centered …”
 
-![](https://acximages.ennals.org/images/2026-book-reviews/de1ec9db08abb311.png)![](https://acximages.ennals.org/images/2026-book-reviews/d824d86f881c9d97.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/e08b94b03b8a494f.jpg)

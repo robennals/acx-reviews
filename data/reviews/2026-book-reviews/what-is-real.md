@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T14:44:56.000Z'
 slug: what-is-real
-wordCount: 10151
+wordCount: 10149
 readingTimeMinutes: 46
 source: gdoc
 tags:
@@ -550,7 +550,7 @@ But two steps forward were matched by approximately two steps back when one of t
 
 Skipping over some material, we then arrive at the introduction of another ontology – this is different from Bohm’s and Everett’s – named ‘Spontaneous Collapse’. I won’t get into details here, but it is one of the ontologies that Becker lists towards the end of the book when he claims agnosticism about which one is right, while also unshyly stating that CI is untenable.
 
-Bell died in 1990 of a stroke, never having a won a Nobel, but having done work which clearly deserved a Nobel. More importantly, he displayed a courage and a commitment to where his curiosity took him that many contemporaries, including various Nobels, never did. He wasn’t a Nobel, but he was more: a Noble.
+Bell died in 1990 of a stroke, never having won a Nobel, but having done work which clearly deserved one. More importantly, he displayed a courage and a commitment to where his curiosity took him that many contemporaries, including various Nobels, never did. He wasn’t a Nobel, but he was more: a Noble.
 
 ## 4.12 The Bigger Picture Informs the Smallest
 
@@ -584,7 +584,7 @@ He explains that CI receives a plurality of votes when physicists are now asked 
 
 He mentions that philosophers of Physics are almost unanimous that CI is wrong, but leading physicists seem ignorant of philosophy and are quite happy to go with CI. It seems like a hopeless situation. And it is – in our short run.
 
-Things will not change tomorrow, nor tomorrow’s tomorrow, but they _will_ change. Petty as the pace of change is, it is greater than it used to be.
+Things will not change tomorrow, nor tomorrow’s tomorrow, but they _will_ change. Petty as the pace of change is, it is positive and the effects will cumulate.
 
 **Let CI strut and fret its remaining hours upon the stage, on the way to dusty death, to then be heard no more.**
 

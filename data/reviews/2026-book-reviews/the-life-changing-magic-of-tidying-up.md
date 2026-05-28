@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T04:05:14.000Z'
 slug: the-life-changing-magic-of-tidying-up
-wordCount: 5820
+wordCount: 5661
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -321,9 +321,13 @@ This part, more than ever, is why it's so important to hold the item close to yo
 
 You're telling me that in today's age of unfathomable material abundance, nobody sells screwdrivers with a handle in your favorite color?
 
-I had a disabled classmate in high school who used crutches to get around. Instead of a boring metallic medical grey, he spray painted flames on them. You're telling me there's nothing you can do to dress up your functional items? You can't use paint or colored duct tape? Skill issue.
+I had a classmate in high school who used crutches to get around. Instead of keeping them a boring metallic medical grey, he spray painted flames on them. You're telling me there's nothing you can do to dress up your functional items? You can't use paint or colored duct tape? Skill issue.
 
-But I get it. I really does make a difference when your function tools spark joy. For example, I was recently in the market for a new extension pole. It was one of those 4ft poles that telescopes out, with a screw thread on the end for attaching a paint roller. Both [Home Depot](https://www.homedepot.com/p/Wooster-Sherlock-4-ft-8-ft-Adjustable-Extension-Pole-00R0550000/100187725) and [Lowe's](https://www.lowes.com/pd/4-ft-to-8-ft-Telescoping-Threaded-Extension-Pole/1001314970) sell the same locking fiberglass extension pole. However, the one from Home Depot is tan, and the one from Lowe's is deep blue. I bought the blue one, and it makes me smile every time I pick it up and admire the variegated flecks of color you get in a piece of fiberglass.
+If that's still not enough, Kondo advises "talking up" your functional items. Think about how much easier these tools make your life. How affordable it was, what a great job it does. As dumb as it sounds, that 100% worked for me, and I store my tools with pride. I'm not thrilled about the fact that my [Ryobi power tools](https://www.homedepot.com/b/Tools-Power-Tools-Power-Tool-Combo-Kits/RYOBI/N-5yc1vZc2ecZm5d) are lime green, but I sure do love that they're a quarter the cost of blue Makita tools.
+
+If you still don't like your functional items, then this is the perfect opportunity to start hunting for functional items that _do_ spark joy. It's ok to keep things for now, acknowledge that they're not ideal, and plan to replace them soon. Again, you live in an age of unfathomable material abundance.
+
+For example, I was recently in the market for a new extension pole. It was one of those 4ft poles that telescopes out, with a screw thread on the end for attaching a paint roller. Both [Home Depot](https://www.homedepot.com/p/Wooster-Sherlock-4-ft-8-ft-Adjustable-Extension-Pole-00R0550000/100187725) and [Lowe's](https://www.lowes.com/pd/4-ft-to-8-ft-Telescoping-Threaded-Extension-Pole/1001314970) sell the same locking fiberglass extension pole. However, the one from Home Depot is tan, and the one from Lowe's is deep blue. I bought the blue one, and it makes me smile every time I pick it up and admire the variegated flecks of color in the fiberglass.
 
 <figure>
 
@@ -337,10 +341,6 @@ So pretty.
 
 </figure>
 
-Kondo advises "talking up" your functional items. Instead of only caring about aesthetics, think about how much easier these tools make your life. How affordable it was to buy, what a great job it does. As dumb as it sounds, that 100% worked for me, and I store my tools with pride. I'm not thrilled about the fact that my [Ryobi power tools](https://www.homedepot.com/b/Tools-Power-Tools-Power-Tool-Combo-Kits/RYOBI/N-5yc1vZc2ecZm5d) are lime green, but I sure do love that they're a quarter the cost of blue Makita tools.
-
-If you still don't like your functional items, then this is the perfect opportunity to start hunting for functional items that _do_ spark joy. It's ok to keep things for now, acknowledge that they're not ideal, and plan to replace them soon. Again, you live in an age of unfathomable material abundance.
-
 **What about gifts?**
 
 The point of receiving a gift is the _receiving_. The gift-giver already got their warm fuzzies from _giving_ it to you. You are under no obligation to keep a gift that you don't want anymore.
@@ -349,9 +349,9 @@ The point of receiving a gift is the _receiving_. The gift-giver already got the
 
 I know it looks like a lot. I get it. But you're not going to save the planet by keeping trash in your home instead of the landfill.
 
-If you were out cleaning up litter in the woods, and you packed that many bags of garbage, how would you feel at the end of the day? Would you second guess yourself, and dump it back out onto the ground? Or would you marvel at the mountain of trash you just pulled out of the environment and feel proud that you've cleaned up a little corner of the world?
+If you were out cleaning up litter in the woods, and you packed that many bags of garbage, how would you feel at the end of the day? Would you second guess yourself and dump it back out onto the ground? Or would you marvel at the mountain of trash you just pulled out of the environment and feel proud that you cleaned up a little corner of the world?
 
-Treat your home the same way. You deserve a clean place to live just as much as the birds do.
+Treat your home the same way. You deserve a tidy and clean place to live just as much as the birds do.
 
 **No Regrets?**
 
@@ -361,7 +361,7 @@ And those items that I regret discarding? I could have re-acquired them at any t
 
 **No Relapses?**
 
-I would say no, I haven't relapsed. It's been six years. I only had to put my childhood possessions in order once. Unless somebody invents a time machine, I can't go back and generate new items with new memories attached to them.
+It's been six years, and I haven't relapsed. I only had to put my childhood possessions in order once. Unless somebody invents a time machine, I can't go back and generate new items with new memories attached to them.
 
 **Surely you must disagree with Kondo on some things, though, right?**
 
@@ -383,23 +383,17 @@ Recall that she makes a distinction between the big tidying festival and daily t
 
 And I say, good for her! I am glad she isn't quite so neurotic anymore.
 
-**But seriously, I have kids. It sounds like this method only works for single, childless people.**
-
-Do you, as a parent, not still own personal items from before you had kids? Do you not have a bookshelf full of books and a closet full of clothes that you might want to declutter? Do you not have sentimental items that you want to put in order? Do you, as the adult in the house, not control how many dishes the family owns?
-
-If you plan to teach your children how to cook, clean, and do laundry as they get older, then you should also teach them how to tidy. Neither your parents nor mine taught us how to tidy—but that's because _nobody_ knew how to tidy back when we were all children. We can do better.
-
 **Is it a good idea to tell people to discard a huge chunk of their stuff, with the expectation that if anything needed to be replaced, they could afford to buy it again? In 2026, with everything going on?**
 
 I did my tidying festival in _2020_, when I had just lost my job. You think I wasn't worried about finances? You think times were _certain_ back then???
 
-I moved for a new opportunity shortly after finishing my tidying festival. Let me tell you: moving with only half the stuff I used to own made everything so much easier. When times are tough and uncertain, it's best to carry as little baggage as possible.
+I moved shortly after finishing my tidying festival. Let me tell you: moving with only half the stuff I used to own made everything so much easier. When times are tough and uncertain, it's best to carry as little baggage as possible.
 
 # Final Thoughts
 
 Marie Kondo was the first decluttering guru to realize that clutter is an entropy and decision fatigue problem, not a logistics problem. To solve clutter, you must leap across the clutter entropy threshold instead of slowly approach it. Using a two-step decision process and sorting by category will make it easy to discard enough items to reach this threshold. She pointed out that having a "perfectly tidy" home was, contrary to what people thought at the time, straightforward and achievable.
 
-Separately, people have a lot of emotional turmoil around their stuff. For that, she focuses on sparking joy and being happy. As far as self help literature goes, it certainly helped me heal my relationship with my stuff, and it might work for you.
+Separately, people have a lot of emotional turmoil around their stuff. For that, she focuses on items that spark joy and make you happy. As far as self help literature goes, it certainly helped me heal my relationship with my stuff, and it might work for you.
 
 Due to my current living situation, most of my stuff has been in storage for a year and a half. I haven't seen my knick-knacks in ages. My life has been pared down to just the essentials, and it's... kind of sad, to be honest. I miss my stuff.
 

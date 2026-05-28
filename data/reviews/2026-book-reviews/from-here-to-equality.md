@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:42:25.000Z'
 slug: from-here-to-equality
-wordCount: 10324
+wordCount: 10332
 readingTimeMinutes: 46
 source: gdoc
 tags:
@@ -305,7 +305,7 @@ If you can’t find your specific string, you can either pick one which sort of 
     * Multiply by ‘T’ (0.47) because median wealth is the default number used by researchers = $6.56tn
     * Multiply by ‘A’ (0.59) because regression is the correct methodology to adjust for household age differences = $3.86tn
     * Multiply by ‘L’ (1.00) because net worth is the default instrument used by researchers = $3.86tn
-    * Mulltiply by ‘O’ (1.00) because there’s no default methodology for calculating who is owed reparations, I reckon D&M are experts on the topic and they say ‘O’ = $3.86tn
+    * Multiply by ‘O’ (1.00) because there’s no default methodology for calculating who is owed reparations, I reckon D&M are experts on the topic and they say ‘O’ = $3.86tn
     * Multiply by ‘S’ (0.83) because I’m British and His Majesty insists that I use a 3.5% social time preference rate = $3.21tn
 
 * End with $3.21tn, which divided across 342m Americans is a payment of $9,377 per American.
@@ -358,4 +358,4 @@ My stated goal of this review was to act as something of a ‘tax on bullshit’
 
 Of course, there’s an escape from the dilemma, but you might not like it: a common conservative belief about reparations is that advocates are fundamentally unserious. They might feel strong emotions that reparations should be paid, but the amounts they are asking for are so ridiculously foolish that it is the duty of the adults in the room (conservatives) to prevent them from causing such economic harm to the nation. Rejecting this dilemma turns that belief on its head; in fact, _conservatives_ are the ones who are refusing an economically efficient deal, because of strong emotive beliefs about some sacred value they are unwilling to trade. This is a complete reversal of the way reparations are usually discussed. It is also, as far as I can see, the price of escaping the dilemma my reading of _FHtE_ eventually presents.
 
-In conclusion, my reading of _From Here to Equality_ is that it largely succeeds at being a pro-reparations argument, even when subjected to the Procrustean treatment I have given it in this review. D&M believe that all Americans should support reparations because reparations are morally right, and I agree that all Americans should support reparations because they are a Pareto optimal welfare-enhancement under the _FHtE_ framework. Both D&M and myself believe everyone can be made better off by paying reparations, and nobody needs to be made worse off. I hope this review has been helpful in raising the issue in a way you might not have considered before, and I would be absolutely delighted to read a published response to _From Here to Equality_ from the conservative side, setting out what they see as the most robust possible case for a low negotiated reparation bill in exchange for an end to all race-based policies that they dislike. I am confident D&M they would agree with this conclusion – they say that they are “hungry for a serious conversation” about reparations (_FHtE,_ pp26) and I believe the ball is now in the conservative court to give it to them.
+In conclusion, my reading of _From Here to Equality_ is that it largely succeeds at being a pro-reparations argument, even when subjected to the Procrustean treatment I have given it in this review. D&M believe that all Americans should support reparations because reparations are morally right, and I agree that all Americans should support reparations because they are a Pareto optimal welfare-enhancement under the _FHtE_ framework. Both D&M and myself believe everyone can be made better off by paying reparations, and nobody needs to be made worse off. I hope this review has been helpful in raising the issue in a way you might not have considered before, and I would be absolutely delighted to read a published response to _From Here to Equality_ from the conservative side, setting out what they see as the most robust possible case for a low negotiated reparation bill in exchange for an end to all race-based policies that they dislike. I am confident D&M would agree with this conclusion despite the nonstandard approach I took to reach it – they say that they are “hungry for a serious conversation” about reparations (_FHtE,_ pp26) and I believe the ball is now in the conservative court to give it to them.

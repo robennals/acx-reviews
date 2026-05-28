@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T22:58:09.000Z'
 slug: the-tale-of-genji
-wordCount: 9995
+wordCount: 9993
 readingTimeMinutes: 45
 source: gdoc
 tags:
@@ -134,7 +134,7 @@ In general, the hypocrisy of men was a constant, and it was seemingly impossible
 * One man tells a woman she should come and talk to him directly through the screen, that it’s rude to have a servant mediate the discussion. When she does come closer and replies to him directly, he is shocked that she would reveal her voice to a man just like that.
 * One man assaults a woman in her bedchamber, and gets into trouble for it later. He proceeds to blame her for not taking better care not to get assaulted.
 
-If it seems the men in _Genji_ are all cut from the same cloth, I initially also thought the female characters were quite boring and indistinguishable from one another. But when I was reading Norma Field’s _The Splendor of Longing in the Tale of Genji_, which examines the story through the central female characters, I realised I hadn’t given them enough credit. The male characters seem to talk about most of the women in very similar ways, describing the beauty of each woman, how adorable and small and helpless she is, how long and shiny and black her hair is, how gentle her manner, how heart-wrenching her poetry, and they seem to generally prefer whichever woman they are currently with. But just because the men see the women that way, doesn’t mean that’s all they are. Thinking about it more, it’s clear that some of _Genji’s_ women have way more agency than others, some are particularly skilled or educated, some are gentle and pliable while others are strong, some are helpless and others pragmatic. Some make ambitious political moves, some are bitter and vindictive because their ambitions failed. Some are jealous, some have no expectations. Some of them are passive in relationships, some actively pursue them, and others completely resist men’s advances.
+If it seems the men in _Genji_ are all cut from the same cloth, I initially also thought the female characters were quite boring and indistinguishable from one another. But when I was reading Norma Field’s _The Splendor of Longing in the Tale of Genji_ (1987), which examines the story through the central female characters, I realised I hadn’t given them enough credit. The male characters seem to talk about most of the women in very similar ways, describing the beauty of each woman, how adorable and small and helpless she is, how long and shiny and black her hair is, how gentle her manner, how heart-wrenching her poetry, and they seem to generally prefer whichever woman they are currently with. But just because the men see the women that way, doesn’t mean that’s all they are. Thinking about it more, it’s clear that some of _Genji’s_ women have way more agency than others, some are particularly skilled or educated, some are gentle and pliable while others are strong, some are helpless and others pragmatic. Some make ambitious political moves, some are bitter and vindictive because their ambitions failed. Some are jealous, some have no expectations. Some of them are passive in relationships, some actively pursue them, and others completely resist men’s advances.
 
 A few concrete examples of women acting with agency in a world that mostly kept them hidden and passive:
 
@@ -202,8 +202,7 @@ While _Genji_ is a work of prose, it contains nearly 800 poems, simply because t
 
 Here’s an example of an exchange between a high-ranking man and a woman he has been seeing for a while, mostly in secret and definitely without him taking the relationship very seriously. Her parents are dead and her life is difficult, and the man visits her only rarely. She sends him the following poem in a letter:
 
-> _Yes, ruin has come to the mountain’s rustic hedge, but now and again_
->
+> _Yes, ruin has come to the mountain’s rustic hedge, but now and again_  
 > _O let your compassion touch this little pink with fresh dew!_
 
 The “mountain’s rustic hedge” means her difficult living circumstances and “little pink,” a wildflower, refers to their shared young daughter. Basically she’s saying: “I’m living in poverty, please help, don’t forget you have a child here.” He recognises this as a cry for help and goes to her immediately. Sitting in the untended garden with her, he consoles her by coming up with the following poem:
@@ -213,8 +212,7 @@ The “mountain’s rustic hedge” means her difficult living circumstances and
 
 “Gillyflower” refers to the woman he is talking to, and he implies that she is even more important to him than the child. In addition, he assures her that he will visit more often. In turn, she replies with another poem:
 
-> _To a gillyflower brushing a deserted bed with her dewy sleeves,_
->
+> _To a gillyflower brushing a deserted bed with her dewy sleeves,_  
 > _autumn has come all too soon, and the sorrows of its storms._
 
 Dewy, damp and wet sleeves are a very common motif in _Genji_, and it means weeping, since sleeves were used to wipe away one’s tears. A deserted bed means exactly what you would expect: her lover doesn’t visit often. Even though the woman is crying, the man thinks she doesn’t seem particularly angry, so he does what anyone would do in his situation: goes his merry way and doesn’t visit the woman and their daughter for a long time. In the meantime, she vanishes with the child without a trace. He thinks she should have acted more lovingly towards him when he showed up, so that he might have treated her better.
@@ -286,8 +284,7 @@ What’s Genji’s deal with curtains? He’s just imposed on someone else’s h
 > _Curtains hanging from the ceiling_  
 > _divide my house into rooms -_  
 > _come visit me, prince,_  
-> _I will make you my son-in-law._
->
+> _I will make you my son-in-law._  
 > _What would go well_  
 > _with wine?_  
 > _Abalone? Turban snail?_  

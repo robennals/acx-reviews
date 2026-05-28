@@ -96,6 +96,7 @@ And thus: settlement of space, utilization of ever-greater amounts of resources,
 
 What are problems that we can’t solve with more power?
 
+
 **II: Homeostats, Or: AI Safety Discourse, Circa 1964**  
 What _can’t_ power do?
 
@@ -245,6 +246,7 @@ A civilization can choose how to progress, if it exerts agency over its future. 
 One option is to fight Nature “to a draw” by directly focusing the attack. A civilization might focus on controlling the incoming information, progressing all elements of the technology tree equally, even if it does so ever more slowly. This is better than a defeat, and more likely to allow a civilization to survive.
 
 But Lem teases that there is an option for a victory, instead.
+
 
 **IV. Borges’s Library, Or: It’s So Hard To Find Good Novels These Days**  
 It is time to automate science.

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T06:52:29.000Z'
 slug: more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby
-wordCount: 16860
+wordCount: 16857
 readingTimeMinutes: 75
 source: gdoc
 tags:
@@ -409,12 +409,9 @@ Of course, someone only makes profit on these sorts of trades when someone is lo
 
 I think it’s kind of funny how when these banks start running out of money, they get to hit up the government like I would hit up my cousin:
 
-> _“Hey, could you spot me a hundred?”_
->
-> _“A hundred bucks? Sure, I guess.”_
->
-> _“No, a hundred million.”_
->
+> _“Hey, could you spot me a hundred?”_  
+> _“A hundred bucks? Sure, I guess.”_  
+> _“No, a hundred million.”_  
 > _“Uh…”_
 
 At least it makes a certain kind of sense for the US government to look after US banks. For Russia, George Soros was the cousin…

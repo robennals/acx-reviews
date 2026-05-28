@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T10:03:56.000Z'
 slug: religion-for-atheists
-wordCount: 5690
+wordCount: 5776
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -36,7 +36,7 @@ De Botton observes that we typically cluster into groups of people that have a s
 
 As we focus on personal relationships in ever shrinking groups, de Botton notices a growing interest for romantic relationships with “that one person who can save us the trouble of meeting other people”. This, in de Botton’s view, puts more pressure on romantic relationships than ever before.
 
-Then de Botton argues that religious institutions address these issues by how the places of worship look and what rules they establish for behavior. All buildings allow their owners the opportunity to shape the expectations of visitors and establish specific rules for behavior. A church “allows us to say hi to a stranger without fear of being considered an aggressor or a madman.” A church gathers people of different ages, races, professions, the only criteria for selection being the values they hold in common.
+Then he argues that religious institutions address these issues by how the places of worship look and what rules they establish for behavior. All buildings allow their owners the opportunity to shape the expectations of visitors and establish specific rules for behavior. A church “allows us to say hi to a stranger without fear of being considered an aggressor or a madman.” A church gathers people of different ages, races, professions, the only criteria for selection being the values they hold in common.
 
 De Botton sees modern politicians paying homage to the family as being the essence of community. But he thinks Christianity is wiser and less sentimental in considering that the attachment to our families can narrow the circle of those receiving our affection
 
@@ -64,7 +64,7 @@ De Botton also looks at how certain are used dishes to represent abstract concep
 * Crushed apples mixed with nuts in the Jewish Pesach(Passover) -> the mortar used by ancestors to build the granaries of Egypt
 * Cups with filled with infusions(in Zen Buddhism) -> the transient nature of happiness in a floating world
 
-Tangentially related: I’m reminded of how Yann LeCun used the Black Forest cake to show which kind of machine learning provides more information to a learning algorithm
+Tangentially related: Yann LeCun used the Black Forest cake to show which kind of machine learning provides more information to a learning algorithm
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/79ba9395703a70fc.png)
 
@@ -109,7 +109,7 @@ The benefit of the doctrine of original sin is seen by de Botton to be the reali
 > “Who are you to tell me what to do?”  
 > “A sinner just like you.”
 
-De Botton sees the modern state getting involved too late, after the damage was done and ignoring the contribution of subtle offenses to the serious crimes.
+De Botton sees the modern state getting involved too late, after the damage was done and ignoring the contribution of subtle offenses to the serious crimes. Could he have predicted how Western cultures regard for microagressions would make many walk on eggshells a few years later? He didn’t detail his vision much, but I think it would be excessive to assume that’s what he had in mind at the time.
 
 ## Art
 
@@ -130,6 +130,18 @@ The fact that we more often think about “lemon scented hardwood wax or pepper 
 De Botton then looks at how Catholicism manages our entourage by showing believers a wide range of people they consider the most virtuous people who ever lived. As children talk to their stuffed toys, adults too may consult representations of saints. While talking with a plastic figure of Saint Francis of Asisi, we could imagine it replying with advice for talking to an angry spouse or hysterical children.
 
 He proposes that in the secular world we could be inspired by imaginary conversations with mute representations of people who are more balanced, braver and more altruistic than ourselves - Abraham Lincoln, Walt Whitman, Winston Churchill, Stendhal, Warren Buffer - and rediscover our noble and respectable side.
+
+<figure>
+
+![](https://acximages.ennals.org/images/2026-book-reviews/2cd60efca7838f63.png)
+
+<figcaption>
+
+“Humility is not thinking less of yourself, it’s thinking of yourself less.” Rick Warren
+
+</figcaption>
+
+</figure>
 
 Maybe you’ve sometimes sought guidance from Rationalist Saints [[13]](https://www.astralcodexten.com/p/lives-of-the-rationalist-saints).
 
@@ -204,7 +216,7 @@ These examples are used by de Botton to show that, unlike modern universities, r
 
 ## Pessimism
 
-I remember feeling cheated about the promise at finding peace by listening to a sermon and instead being troubled by how preachers always caution that the end is near. But de Botton proposes that a well calibrated pessimistic view has its merits
+I remember feeling cheated about the promise of finding peace by listening to a sermon and instead being troubled by how preachers always caution that the end is near. But de Botton proposes that a well calibrated pessimistic view has its merits.
 
 Blaise Pascal had a lot of faith in God, but very little in people. His bleak view of human nature is on display in _Pensées_:
 
@@ -236,9 +248,9 @@ For a similar effect, de Botton recommends that we should be interested in scien
 
 ## The new cathedrals
 
-In de Botton’s view, it’s no conIn 1972, 3 days after the revolutionary government in France declared the separation of the state from the Catholic Church, the Louvre museum was inaugurated. Museums have become the new cathedrals.
+In de Botton’s view, it’s no coincidence that in 1972, 3 days after the revolutionary government in France declared the separation of the state from the Catholic Church, the Louvre museum was inaugurated. Museums have become the new cathedrals.
 
-For Christianity, the purpose of art is to remind us of the things that matter. De Botton asks us to consider the series _The Seven Sorrows of the Virgin_ by Bernard von Orley and Pedro Compana. Then he encourages us to imagine what the following collections might look like: _The Twelve Sorrows of Adolescence_. Other proposals: _The Seven Sorrows of Being a Parent_, _The Twenty One Sorrows of Divorce_
+For Christianity, the purpose of art is to remind us of the things that matter. De Botton asks us to consider the series _The Seven Sorrows of the Virgin_ by Bernard von Orley and Pedro Compana. Then he encourages us to imagine what the following collections might look like: _The Twelve Sorrows of Adolescence_. Other proposals: _The Seven Sorrows of Being a Parent_, _The Twenty One Sorrows of Divorce_.
 
 Another example is _The Fourteen Stations of the Cross_ by Eric Gill at Westminster Abbey, which displays what Jesus suffered on his way to being crucified. De Boton hopes to see the creation of a secular equivalent titled _The Twelve Stations of Old Age_.
 
@@ -246,7 +258,7 @@ Another example is _The Fourteen Stations of the Cross_ by Eric Gill at Westmins
 
 To de Botton, the true difficulty of communicating ideas through art is that the ideas being communicated appear obvious. That’s why it’s necessary to find new ways to attract attention to “ideas that are tiringly familiar but essential”.
 
-I’m reminded of reading a story about Bill Murray coming out the other end of a troubling period in his life after stopping by the Art Institute of  Chicago and seeing the painting “The Song of the Lark” by Jules Breton. [[15]](https://www.deviantart.com/techgnotic/journal/Bill-Murray-Can-A-Painting-Save-A-Life-490500677)
+Bill Murray would tell you about time he came out the other end of a troubling period in his life after stopping by the Art Institute of  Chicago and seeing the painting “The Song of the Lark” by Jules Breton. [[15]](https://www.deviantart.com/techgnotic/journal/Bill-Murray-Can-A-Painting-Save-A-Life-490500677)
 
 <figure>
 
@@ -291,7 +303,9 @@ The Living Architecture project includes 6 other houses you can book, as well as
 
 Looking at travel destinations for Christian tourists, de Botton notices the Temples for Genus Loci(local guardian spirits). To this day it is considered that touching the remains of Saint Donatus, renowned for easing the fear of fire and explosives, would be recommended to those afraid of lightning and willing to travel to Bad Münstereifel in Germany, where the remains are located today.
 
-This inspires de Botton to propose a therapeutic travel agency, which would match mental issues with parts of the planet most likely to treat them. For example:
+This inspires de Botton to propose a therapeutic travel agency, which would match mental issues with parts of the planet most likely to treat them.
+
+For example:
 
 | Defence mechanism | Destination |
 | --- | --- |
@@ -333,13 +347,13 @@ Institutions with deep pockets can attract those in search of both a comfortable
 
 The lower rungs of Maslow’s pyramid are tended to by extremely well run companies. The needs of the psyche are left to disorganized and unpredictable local actors.
 
-Religions have understood that we are truly impacted by ideas when we receive them not just through books, lectures or newspapers, but those ideas are also reflected in what we wear, eat, decorate our homes with or bathe with.”
+Religions have understood that we are truly impacted by ideas when we receive them not just through books, lectures or newspapers, but those ideas are also reflected in what we wear, eat, decorate our homes with or bathe with.
 
 The concept of saleability is seen as having its place in spiritual matters. Consider, de Botton says, _tsukimi_, the ritual that brought saleability to gazing at the Moon. It takes place on the 15th day of the 8th month of the Japanese calendar and gathers Buddhists around special conic platforms, where, for a few hours, prayers that use the Moon as a springboard to reflect on the Zen ideas are read out loud. Candles are lit and special rice dumplings called _tsukimi dango_ are shared with strangers in a friendly ambiance.
 
 Another example brought forth by de Botton is from Judaism. In spring, at the first burgeoning of the trees, Jews urged to gather outside and together with Rabbi recite _Birkat Ilanot_ -  a Jewish prayer praising the hand that made the flower.
 
-For an event to qualify as an experience, it should aim to be as Maslow-complete and address several different levels of need.
+For an event to qualify as an experience, it should aim to be Maslow-complete and address several different levels of need.
 
 ## The first Religion of Humanity
 
@@ -377,6 +391,6 @@ The School of Life, founded in 2008, could be seen as Alain de Botton’s attemp
 
 The Sunday Assembly, not affiliated with The School of Life, also tries to provide a nonreligious spirituality. There are claimed to be over 40 independently operated Sunday Assemblies around the world that gather people to “sing, hear inspiring talks, and create community together”[[21]](https://sundayassembly.com/about/). Their Youtube Channel currently has only 150 subscribers and 3 videos, all posted 11 years ago. They have no Instagram channel.
 
-When asked about the Sunday Assembly, Alain de Botton was concerned that its lackluster sermons might irredeemably disappoint those forming an image of secular spirituality[[22]](https://www.vice.com/en/article/no-god-no-problem-0000206-v21n1/). However,  a few recent studies suggest that the Sunday Assembly’s secular rituals lead to an increase in social bonding comparable to religious rituals [[23]](https://www.researchgate.net/publication/312316636_Can_the_Secular_Be_the_Object_of_Belief_and_Belonging_The_Sunday_Assembly) and have positive effects on mental health[[24]](https://www.tandfonline.com/doi/full/10.1080/17482631.2021.2021618#abstract).
+When asked about the Sunday Assembly, Alain de Botton was concerned that its lackluster sermons might irredeemably disappoint those forming an image of secular spirituality[[22]](https://www.vice.com/en/article/no-god-no-problem-0000206-v21n1/). However,  a few recent studies suggest that the Sunday Assembly’s secular rituals lead to an increase in social bonding comparable to religious rituals [[23]](https://www.researchgate.net/publication/312316636_Can_the_Secular_Be_the_Object_of_Belief_and_Belonging_The_Sunday_Assembly) and have positive effects on mental health[[24]](https://www.tandfonline.com/doi/full/10.1080/17482631.2021.2021618#abstract). I haven’t been able to find any similar studies done for anything that the Schools of Life gatherings.
 
-There doesn't seem to be much data available for the impact of the Secular Solstice gatherings organized by the Rationalist community, but I suspect they're a timid step in the right direction.
+There doesn't seem to be much data available for the impact of the Secular Solstice gatherings organized by the Rationalist community[[25]](https://www.secularsolstice.com/), but I suspect they're a timid step in the right direction. As for individual needs, the Hammertime sequence[[26]](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj) is much welcomed.

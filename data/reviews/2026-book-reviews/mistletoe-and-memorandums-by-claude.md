@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T06:42:02.000Z'
 slug: mistletoe-and-memorandums-by-claude
-wordCount: 10479
+wordCount: 10477
 readingTimeMinutes: 47
 source: gdoc
 tags:
@@ -177,8 +177,7 @@ Instead, _Mistletoe and Memorandums_ offers what sounds like a painfully drawn-o
 
 Several paragraphs later, Claude ups the spice level by delving into trauma theory:
 
-> _“Those aren’t truths. They’re trauma responses.”_
->
+> _“Those aren’t truths. They’re trauma responses.”_  
 > _“What’s the difference?”_
 >
 > _“Truth is what actually happened. Trauma response is the story your brain created to protect you from it happening again.”_ _He leans forward slightly_. _“I hurt you. That’s truth. But the story that everyone will hurt you? That’s trauma trying to keep you safe by keeping you isolated.”_
@@ -295,8 +294,7 @@ Claude does not seem to understand _any of this_. In _Mistletoe and Memorandums,
 
 For example, in the scene below, Maren must tell her best friend that she’s not romantically interested in him, despite him being madly in love with her. This scene is loaded with micro-promises to the reader: they will get to see Maren struggle with distress and guilt, watch Derek’s despair and resentment, and see whether Maren will ever earn forgiveness after years of taking Derek’s support for granted. Let’s take a look at how Claude handles these promises:
 
-> _“I need to tell you something,” I say._
->
+> _“I need to tell you something,” I say._  
 > _Derek goes very still. “Okay.”_
 >
 > _I force myself to meet his eyes, to give him the honesty he deserves. “You’ve been incredible to me for three years. Patient and kind and present in ways I didn’t know how to appreciate. And I’m so grateful for your friendship.”_

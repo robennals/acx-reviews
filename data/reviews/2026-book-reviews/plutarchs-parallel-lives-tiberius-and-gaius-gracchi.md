@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T01:06:16.000Z'
 slug: plutarchs-parallel-lives-tiberius-and-gaius-gracchi
-wordCount: 4903
-readingTimeMinutes: 22
+wordCount: 5096
+readingTimeMinutes: 23
 source: gdoc
 tags:
   - History
@@ -17,11 +17,11 @@ tags:
 
 ## “Let no one enter who has not read Plutarch”
 
-The Greek Historian Plutarch, writing in the 1st century A.D. produced the most influential catalogue of non-religious role models in history. This man, who in his lifetime won recognition from the emperors Hadrian and Trajan for his work, enjoyed his greatest influence 1700 odd years later, during the fervour of the enlightenment. You cannot read about the Founding Fathers or the French revolutionaries without tripping over references to the _Parallel Lives_:
+Plutarch, writing in the 1st century A.D. produced the most influential catalogue of non-religious role models in history. He was both a philosopher and a historian, and, in an extremely rare feat for either field, he had an enormous and enduring impact on the real world. In his lifetime he won recognition from the emperors Hadrian and Tranjan, but his real peak came 1700 odd years later, during the enlightenment. His _Parallel Lives_ provided a common corpus of heroes and villains from Greece and Rome - founders of states, republican martyrs, tyrants who overthrew democracies, and great conquerors - to the educated. In an era where no-one had ever experienced anything but monarchy, he brought the ancient republics vividly to life, and made them so real in their minds that bringing about new republics and new orders became conceivable. I challenge you to read about the Founding Fathers or the French Revolutionaries without tripping over references to his _Parallel Lives_.
 
 Jean-Jacques Rousseau’s father read Plutarch’s _Lives_ to him as bed time stories from the age of seven. At the age of nine Manon Philipon brought Plutarch to church with her; “It was from that moment that I felt the impressions and ideas that were to make me a republican.” Charlotte Corday, who assassinated radical republican terrorist pamphleteer Marat, spent the day before the killing reading Plutarch.
 
-Robespierre was Brutus in his own eyes, slayer of tyrants. On the day of his downfall he was compared to Pisistratus, tyrant of Athens, a knockout line in the national assembly, where all the deputies were steeped in the _Lives_  - “Let no one enter who has not read Plutarch,” declared Jean-Louis David. Corsican rebel Pasquale Paoli said to Napoleon, the ultimate Neo-Plutarchian hero “There is nothing modern in you; you are entirely out of Plutarch.”
+Robespierre was Brutus in his own eyes, slayer of tyrants. On the day of his downfall he was compared to Pisistratus, tyrant of Athens, a knockout line in the national assembly, where all the deputies were steeped in the _Lives;_ “Let no one enter who has not read Plutarch,” declared Jean-Louis David. Corsican rebel Pasquale Paoli said to Napoleon, the ultimate Neo-Plutarchian hero “There is nothing modern in you; you are entirely out of Plutarch.”
 
 Stateside, Charles Lee knew when his republicanism began: “ever from the first time I read Plutarch been an Enthusiastick for liberty … and for liberty in a republican garb… It is natural to a young person whose chief companions are the Greek and Roman Historians and Orators to be dazzled with the splendid picture.” Franklin, Hamilton, Jefferson and more adored him. During the revolutionary war Hamilton kept with him a pay book with 112 pages of notes. On 51 of those pages he had transcribed sections of Plutarch. Unsurprisingly, Plutarch was the most quoted ancient historian in the federalist papers.
 
@@ -31,27 +31,27 @@ Earlier, Shakespeare took the plots for _Julius Caesar_, _Antony and Cleopatra,_
 
 ## Who was Plutarch.
 
-Plutarch was a Greek, born in the 1st century AD, after they had been eclipsed by the Romans. He was born to a good family in an obscure town, and though his admiration for the great statesmen of the past was boundless, he did not have a chance to be one. Instead he wrote about them - a lot. He wrote 48 biographies, referred to as “Lives,” of the exemplary statesmen of Greece and Republican Rome. A handful of these lives are lost, but considering the attrition rates of ancient literature an unusually high number survived the dark ages, a testament to their brilliance.
+Plutarch, a Greek, was born in the 1st century AD, after they had been eclipsed by the Romans. He was born to a good family in an obscure town, and though his admiration for the great statesmen of the past was boundless, he did not have a chance to be one. Instead he wrote about them - a lot. He wrote 48 biographies, referred to as “Lives,” of the exemplary statesmen of Greece and Republican Rome. A handful of these lives are lost, but considering the attrition rates of ancient literature, an unusually high number survived the dark ages, a testament to their brilliance.
 
-He intended his _Lives_ not primarily as works of history, but as works of philosophical, moral instruction. He intended his works to instruct and moderate the conduct of ambitious young men (that some dangerous young women, like Corday and Philipon might millenia later take inspiration from his works, probably did not occur to him) and to instill virtue in his readers.
+He intended his _Lives_ not primarily as works of history, but as works of philosophical, moral instruction. He wanted to instruct and moderate the conduct of ambitious young men (that some dangerous young women, like Corday and Philipon might millenia later take inspiration from his works, probably did not occur to him) and to instill virtue in his readers.
 
 Plutarch explained his method thusly:
 
 > _“I am not writing history but biography, and the most outstanding exploits do not always have the property of revealing the goodness or badness of the agent; often in fact, a casual action, the odd phrase, or a jest reveals character better than battles involving the loss of thousands upon thousands of lives… I must be allowed to devote more time to those aspects which indicate a person’s mind and to use these to portray the life of each of my subjects.”_
 
-The problem from the perspective of moral instruction is that the stories are rip-roaring good fun. Even when Plutarch rationally condemns characters, Caesar for his ambition, for example, which plunged his country into brutal civil war, Plutarch cannot help admiring him, and instilling that admiration in us.
+The problem from the perspective of moral instruction is that the stories are rip-roaring good fun. Even when the author condemns characters for their behaviour, for example Caesar, whose ambition plunged his country into a brutal civil war, destroyed the republic, and took the lives and liberty of millions of Gauls, Plutarch cannot help admiring him, and instilling that admiration in us.
 
-One challenge when reading Plutarch today is that there are often substantial gaps in context where he assumes the reader already knows what happened at some important event - the way a contemporary writer might refer to Jim Crow or the New Deal and expect you to know what he means. That is just a bullet the modern reader will have to bite, but aside from that his narratives are extremely lively, his characterisation is sublime and he has an unmatched eye for a revealing anecdote. These are not stuffy works.
+One challenge when reading Plutarch today is that there are often substantial gaps in context where he assumes the reader already knows what happened at some important event - the way a contemporary writer might refer to Jim Crow or the New Deal and expect you to know what he means. That is just a bullet the modern reader will have to bite, but aside from that his narratives are extremely lively, his characterisation is sublime and he has an unmatched eye for a revealing anecdote. These are not stuffy works, in a more refined cutlure they were once bedtime stories for children!
 
-I am going to try and persuade you to take them on by presenting and reviewing one of the lives, that of the brothers Gracchi, Tiberius and Gaius. This biography is unusual in Plutarch’s oeuvre because it puts two individuals together in one work. I chose it because (a) it is in Oxford's collection of nine roman lives, which I have with me on holiday, (b) it's super juicy, (c) there are some nice parallels, both revealing and deceptive, that we can draw with our situation today.
+I am going to try and persuade you to take them on, if I have not already, by presenting and reviewing one of the lives, that of the brothers Gracchi, Tiberius and Gaius. This biography is unusual in Plutarch’s oeuvre because it puts two individuals together in one work. I chose it because (a) it is in Oxford's collection of nine roman lives, which I have with me on holiday, (b) it's super juicy, (c) there are some nice parallels, both revealing and deceptive, that we can draw with our situation today.
 
 It is a story of high drama, of populism, war heroes, the violence of the mob, a repressive elite, greed, civil strife, and massacres which leave the river Tiber clogged with corpses. It’s even got ghosts.
 
-But before we can get onto that, we need to examine the socio-economic situation in Rome in the mid to late second century B.C.
+But before we can get onto that, we need to examine the socio-economic situation in Rome in the mid-to-late second century B.C.
 
 ## The Situation
 
-The events of this story took place after Rome had defeated Hannibal (the elephant guy) and Carthage in the Second Punic War. Carthage still existed but only as a rump state. Rome was the uncontested dominant power in the Mediterranean. She had spent around five hundred years expanding from a small city state to ruling most of Italy, and then, in around half a century she conquered most of France, Spain, Sicily, Macedonia, and North Africa. This sudden explosion meant massive amounts of wealth flooded into Rome, in loot, in taxation from these new provinces, and in human chattel. This wealth accrued overwhelmingly to the upper classes, while all the new slaves suppressed demand for the labour of the free lower classes and produce from the provinces reduced demand for the produce of the small farmer. How could a man tilling his own fields compete on price with an aristocrat who owned hundreds of slaves?
+The events of this story took place after Rome had defeated Hannibal (elephants, Alps) and Carthage in the Second Punic War. Carthage still existed but only as a rump state. Rome was the uncontested dominant power in the Mediterranean. She had spent around five hundred years expanding from a small city state to ruling most of Italy, and then, in around half a century she conquered most of France, Spain, Sicily, Macedonia, and North Africa. This sudden explosion meant massive amounts of wealth flooded into Rome, in loot, in taxation from these new provinces, and in human chattel. This wealth accrued overwhelmingly to the upper classes, while all the new slaves suppressed demand for the labour of the free lower classes and produce from the provinces reduced demand for the produce of the small farmer. How could a man tilling his own fields compete on price with an aristocrat who owned hundreds of slaves?
 
 He could not. He sold his land to the aristocrat at a suppressed price and moved - sometimes to the frontiers of the empire - but more often internally to Rome. This being the early iron age there was very little in the way of industry. If he was very lucky he found a trade, more often he did not and had to get by on some combination of handouts and whatever irregular work he could find. He became dependent. He could not support his family. He became desperate, disillusioned and angry. What had he fought for?
 
@@ -105,15 +105,15 @@ Tiberus had not made it to thirty.
 
 Gaius was barely an adult when his brother was murdered. He managed to escape the slaughter of his brother's allies, left the city, and as his brother had, set about distinguishing himself in military service. Life in the army suited him because it meant he could avoid politics, and it suited his brother's old enemies, because it kept him out of politics.
 
-However, Gaius was developing into an even more capable operator than his brother. In the provinces:
+Unfortunately for them, Gaius was developing into an even more capable operator than his brother. In the provinces:
 
 > _“Gaius gave clear evidence of all-round excellence. No one else his age could come close to him when it came to confronting the enemy, or to fairness in dealing with subject peoples, or to loyalty and respect for the proconsul, and he surpassed even his elders in self-restraint, frugality and diligent determination.”_
 
-In Rome he appeared in the law courts, and his oratory “made the other speakers look like mere children,” surpassing even his late brothers’ talents and reawakening “the fear of the powerful men of rome… There was a great deal of talk in their circles about how they had to stop Gaius attaining the rank of tribune.”
+More concerningly, back in Rome he appeared in the law courts, where opponents tried to tie him up with frivolous law suits, and his oratory “made the other speakers look like mere children,” surpassing even his late brothers’ talents and reawakening “the fear of the powerful men of rome… There was a great deal of talk in their circles about how they had to stop Gaius attaining the rank of tribune.”
 
 Gaius spent the best part of a decade deciding on whether he should embark on a political career. On the one hand he had the example of his ancestors to live up to, he was bored by private life, “a life of feeble inactivity, filled with parties and commerce” and found “the appeals of the Roman people and his friends increasingly impossible to resist.” And yet, his brother had ended up a corpse in the river with three hundred others. Was that the path to follow?
 
-Plutarch believes that ultimately “Gaius’ involvement in politics came about through a kind of necessity, rather than through choice.” He reports that Gaius had chosen to live a quiet life when his brother visited him in his dream, “Why are you hesitating, Gaius? There’s no escape. Both of us are destined to live the same kind of life, and to die the same kind of death, as champions of the people.”
+Plutarch believes that ultimately “Gaius’ involvement in politics came about through a kind of necessity, rather than through choice.” Gaius made his decision when his brother visited him in a dream - a supernatural event for the Romans, not the working of the subconscious as it would be for us - “Why are you hesitating, Gaius? There’s no escape. Both of us are destined to live the same kind of life, and to die the same kind of death, as champions of the people.”
 
 Gaius stood for election to the tribunate.
 
@@ -131,17 +131,17 @@ When Gaius "Proposed a bill to found two colonies… they accused him of curryin
 
 Astonishingly this worked. “The Roman people were reconciled to a certain extent with the senate, and whereas earlier they had regarded the men of distinction in Rome with suspicion and loathing, Livius did succeed in dispelling their memories of past grievances and toning down this bitterness”
 
-Ultimately, it was a much more straightforward type of politics which did Gaius out of his position. His enemies rigged the next election, his third, and even though he won a majority of the vote, he was out of office.
+Ultimately, it was a much more straightforward type of politics which did Gaius out of his position. His enemies stole the next election, his third, and even though he won a majority of the vote, the count was rigged and he was out of office.
 
-Immediately his opponents set about repealing his reforms. They would need to win a vote of the people, and to prevent the work his brother had died for and he had dedicated himself to being undone, Gaius corralled his supporters to vote against the repeals. Two mobs stood opposed. An insult from a reactionary “make way, scum, for good Romans” provoked a fight. The man who made the comment was stabbed to death with long writing styluses. Gaius fell immediately into a deep despair. He knew his supporters had just given his enemies the excuse they needed to wipe them out.
+Immediately his opponents set about repealing his reforms. They would need to win a vote of the people, and to prevent the work his brother had died for and he had dedicated himself to being undone, Gaius corralled his supporters to vote against the repeals. Two mobs stood opposed in the forum. An insult from a reactionary, “make way, scum, for good Romans,” provoked a fight. The man who made the comment was stabbed to death with long writing styluses. Gaius fell immediately into a deep despair. He knew his supporters had just given his enemies the excuse they needed to wipe them out.
 
 > _**War, Horrible War, and the Tiber foaming with Rivers of blood.**_
 
-For the first, and tragically not the last, time in Roman history, the Senate formally passed a decree _“ordering the consul, Opimus, to use all the means at his disposal to preserve the city and put down the tyrants. He warned his fellow senators that they should arm themselves, and he gave notice that every one of the knights was to assemble the next morning and bring two armed slaves with him. Fulvius_ [Gaius’ no.1 ally] _responded by mustering and organising a mob, but Gaius stopped on his way out of the forum by his father’s statue and looked at it for a long time in silence, weeping and sighing.”_
+For the first, and tragically not the last, time in Roman history, the Senate formally passed a decree “ordering the consul, Opimus, to use all the means at his disposal to preserve the city and put down the tyrants. He warned his fellow senators that they should arm themselves, and he gave notice that every one of the knights was to assemble the next morning and bring two armed slaves with him. Fulvius [Gaius’ no.1 ally] responded by mustering and organising a mob, but Gaius stopped on his way out of the forum by his father’s statue and looked at it for a long time in silence, weeping and sighing.”
 
-The forces of the senate were properly equipped with arms and armour, the forces of the populists were mere rioters. It was a bloodbath. Gaius understood he was soon to be martyred, refused armour. He sent heralds to the senate in a desperate attempt to broker a truce, but negotiations failed. The Republic, previously famous for its practicality and ability to compromise in internal matters, was setting a template it was to follow many times in the future.
+The forces of the senate were properly equipped with arms and armour, the forces of the populists were mere rioters. It was a bloodbath. Gaius understood he was soon to be martyred. His allies sent heralds to the senate in a desperate attempt to broker a truce, but negotiations failed. The Roman Republic, previously famous for its practicality and ability to compromise in internal matters, had crossed an irreversible threshold - if only there were a succinct idiom to express this, perhaps from Roman history - and after half a millennia of peace, the next century would be defined by a series of civil wars.
 
-“Gaius conspicuously took no part in the fighting, but withdrew to the sanctuary of Diana, stricken with grief at the turn of events.” after his comrades prevented him from committing suicide [an honourable ending for a Roman sure of defeat, akin to Japanese traditions] “he fell to his knees and, with hands outstretched towards the goddess, prayed that the Roman people might pay for their ingratitude and treachery with continual slavery, since it was clear that most ofthem were taking advantage of the amnesty that had been declared to change sides.”
+“Gaius conspicuously took no part in the fighting, but withdrew to the sanctuary of Diana, stricken with grief at the turn of events.” After his comrades prevented him from committing suicide (an honourable ending for a Roman sure of defeat, akin to Japaneese traditions) “he fell to his knees and, with hands outstretched towards the goddess, prayed that the Roman people might pay for their ingratitude and treachery with continual slavery, since it was clear that most of them were taking advantage of the amnesty that had been declared to change sides.”
 
 There was a general slaughter, some three thousand of Gaius’ supporters were murdered and their bodies, again, were disposed of in the Tiber. Further indignity awaited Gaius. A prize had been put on his head; whoever brought it to Optimus would receive its weight in gold. His head was hacked off his corpse, and his cunning assailant removed his brain and poured molten lead into the cavity, to increase his reward.  
 
@@ -161,21 +161,23 @@ This is part of the fun of engaging with a near two thousand year old political 
 
 This is only one of 48 surviving lives by Plutarch, and he tells the story much better than I have. All together the _Lives_ are thousands of pages long, so the modern convention has been to chop them up and group them by theme in individual paperbacks. Penguin’s _The Rise and Fall of Athens,_ Penguin’s _Age of Alexander_ and Oxford University Press_’ Roman Lives_ are all very good.The University of Chicago has an excellent website where you can read them all for free. Caesar and Alexander are obvious places to start, but if you are prepared to dive in the deep end and revel in the profound, alien strangeness of the ancient world, start with Themistocles or Alcibiades.
 
-Resources and Sources.
+## Resources and Sources.
 
 You can find all the surviving lives here, starting with my favourite:  
 
 [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Themistocles\*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Themistocles*.html)
 
-> _Background on Plutarchs influence on american and french revolutions:_
+> _Background on Plutarchs influence on American and French Revolutions:_
 
-Citizens by simon shama,
+Citizens, Simon Shama,
 
-The Fall of Robespierre: 24 hours in revolutionary paris by Colin Jones
+The Fall of Robespierre: 24 hours in revolutionary Paris, Colin Jones
 
 Hamilton, Ron Chernow
 
-Books on the period:
+Plutarch and the Early American Republic, Carl J. Richard
+
+> _Great Books on the fall of the Republic:_
 
 The Roman Revolution, Ronald Syme
 

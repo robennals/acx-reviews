@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T03:35:15.000Z'
 slug: 17776-by-jon-bois
-wordCount: 3044
+wordCount: 3146
 readingTimeMinutes: 14
 source: gdoc
 tags:
@@ -18,11 +18,11 @@ tags:
 
 [17776](https://www.sbnation.com/a/17776-football) is a work of multimedia fiction about the future of American football, created by Jon Bois in 2017.
 
-Now, you might read that and think: _“Football? Not for me.”_ But 17776 is probably not what you’d expect. It uses football as a lens to explore what humanity would be like without death or disease, why we play games, and the ultimate purpose of life.
+Now, if you’re a gray-triber reading this blog, you might see that and think: _“Football? Not for me.”_ But 17776 is more sci-fi than sports. It uses football as a lens to explore what humanity would be like without death or disease, why we play games, and the ultimate purpose of life.
 
-Bois tells human stories using sports as a medium. Mostly, he makes videos, but he’s also done some creative writing and journalism. His surreal humor and philosophical bent make him a singular figure in the sports media world, where most content is just hot takes, memes, and betting tips. And 17776 is unique even for Bois.
+Jon Bois tells human stories using sports as his raw material. Mostly, he makes videos, but he’s also done some creative writing and journalism. His dry, surreal humor and philosophical bent make him unique in the sports media world, where most content is just hot takes, memes, and betting tips. And 17776 is singular even for Bois.
 
-Football is at a weird crossroads. We’ve learned a lot about the [troubling effects of repeated head impacts](https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy), even for athletes who don’t get officially diagnosed with a concussion. Former players are behaving chaotically, leading to death [as soon as their 30s](https://en.wikipedia.org/wiki/List_of_NFL_players_with_chronic_traumatic_encephalopathy). Some are [retiring after only a few seasons](https://www.espn.com/espn/otl/story/_/id/12496480/san-francisco-49ers-linebacker-chris-borland-retires-head-injury-concerns) in order to protect their brains and their bodies. [Rules are being changed](https://operations.nfl.com/the-rules/rules-changes/dynamic-kickoff-rule-explainer/) to try and prevent head impacts. More and more parents are [choosing not to let their kids play the sport](https://www.chop.edu/news/should-parents-let-their-child-play-football-weighing-pros-and-cons).
+Football is at a weird crossroads. We’ve learned a lot about the [troubling effects of repeated head impacts](https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy), even for athletes who don’t get officially diagnosed with a concussion. Former players are behaving chaotically, with many dying [as young as their 30s](https://en.wikipedia.org/wiki/List_of_NFL_players_with_chronic_traumatic_encephalopathy). Some are [retiring after only a few seasons](https://www.espn.com/espn/otl/story/_/id/12496480/san-francisco-49ers-linebacker-chris-borland-retires-head-injury-concerns) in order to protect their brains and their bodies. The NFL is [changing the rules](https://operations.nfl.com/the-rules/rules-changes/dynamic-kickoff-rule-explainer/) to try and prevent head impacts. More and more parents are [choosing not to let their kids play the sport](https://www.chop.edu/news/should-parents-let-their-child-play-football-weighing-pros-and-cons).
 
 It’s telling that in order to write a story about the future of football, Bois had to envision nanobots that magically protect humans from all injuries. (By the way, this is all leaving out the troubling societal effects of online gambling, which was not nearly as prevalent back when 17776 was written.)
 
@@ -38,23 +38,25 @@ I’d recommend 17776 if you’re interested in that last paragraph, but also if
 
 What is a “book”, anyway? (After all, this is a _book_ review contest.)
 
-By far the most notable thing about 17776 is its multimedia format. It’s worth checking out the first chapter [here](https://www.sbnation.com/a/17776-football/chapter-1) to get a taste of the style.
+By far the most notable thing about 17776 is its multimedia web format. It’s worth checking out the first chapter [here](https://www.sbnation.com/a/17776-football/chapter-1) to get a taste of the style.
 
-…
+…did you read some of it? You’re back now?
 
 With very few words spread across dozens of calendar pages, Bois expresses a deep sense of loneliness and the crushing passage of time in a unique way I’d never seen before.
 
 A physical book would be limiting for something like this. You could use 50 mostly-blank pages to do the same thing, but it would be sort of a waste of paper, your book would be 50 pages longer, it would cost more to print, and so on. An ebook might work better, but you’d still run into issues with different screen sizes, fonts, etc. On the web, it's no problem at all, and scrolling seems to make the effect work.
 
-But that effect is just one taste of how 17776 uses the web as a creative storytelling medium. The 3D maps and visualizations create a rich atmosphere. Bois uses videos to accompany the text with music and sound, but also to dictate dialogue pacing, creating dramatic pauses and punchlines. The piece starts off looking like a typical web article before disintegrating into blackness, which is a powerful and jarring beginning. (Unfortunately the original landing page seems to be offline, but you can see an archived version [here](https://web.archive.org/web/20180706035842/https://www.sbnation.com/a/17776-football).)
+But that effect is just one taste of how 17776 uses the web as a creative storytelling medium. The 3D maps and visualizations create a rich atmosphere. Bois uses videos to accompany the text with music and sound, but also to dictate dialogue pacing, adding dramatic pauses and punchlines. The piece starts off looking like a typical web article before disintegrating into blackness, which is a powerful and jarring beginning. (Unfortunately the original landing page seems to be offline, but you can see an archived version [here](https://web.archive.org/web/20180706035842/https://www.sbnation.com/a/17776-football).)
 
-His experiments don't always work – one page in particular uses some creative text routing that I'd say is more confusing than engaging. But hey, at least he's trying something unique!
+His experiments don't always work – one page in particular uses some creative text routing that I'd say is more confusing than engaging. But hey, at least he's trying something unique.
 
-I love the way Bois uses the multimedia experience to create a rich, emotional world. So my question becomes: _why isn't anyone else writing like this??_ 
+I love the rich, emotional world Bois is able to build in this fashion. And it’s not just me; 17776 is popular and award-winning. So my question becomes: _why isn't anyone else writing like this??_ 
 
-Our culture has been radically transformed by technology and the Internet. Back in the mid-to-late 20th century, futurists envisioned electronic books that would use hypertext for innovative branching structure or include shared margin notes. But as far as I can tell, most authors are still writing books of a few hundred pages, broken into chapters, paragraphs, and sentences. 
+Our culture has been radically transformed by technology and the Internet. Back in the mid-to-late 20th century, futurists envisioned electronic books that would use hypertext for innovative branching structures and include interactive features like shared margin notes. But as far as I can tell, most authors are still writing books of a few hundred pages, broken into chapters, paragraphs, and sentences.
 
-So what happened? Why isn't more modern creative writing like 17776? I want to consider a few possible reasons:
+So what happened? Why isn't more modern creative writing like 17776?
+
+I want to consider a few possible reasons:
 
 > I. People are writing like this and I’m just not aware of it
 >
@@ -101,13 +103,13 @@ Let’s say you have an awesome idea for a book. You talk to some agents and pub
 
 “What are you talking about?” they might say. “I need something we can put in airport bookstores and make into an ebook for people to buy on their Kindles. I can’t sell a website.”
 
-Publishers distribute work through existing channels to get it in front of large, established audiences. So if you’re an aspiring author, you might not even consider creating outside of those channels.
+Publishers distribute work through existing channels to get it in front of large, established audiences. So if you’re an aspiring author, you might not even consider creating outside of those channels, since that’s where the money is. (Presumably this is also one reason so many movies have the same [“Save the Cat!”](https://www.jessicabrody.com/2020/11/how-to-write-your-novel-using-the-save-the-cat-beat-sheet/) style story beats: it’s a formula that works with mass audiences.)
 
-With all this in mind, it makes sense that 17776 was written while Bois worked at SB Nation. The existing systems for publishing and sharing literary work just aren’t really set up for multimedia web content; the incentives are much better for a web media business that’s trying to drive traffic.
+With all this in mind, it makes sense that 17776 was written while Bois worked at SB Nation. The existing systems for publishing and sharing literary work just aren’t really set up for multimedia content; the incentives are much better for a web-native media business that’s trying to drive traffic.
 
-It’s not just book publishers, though. Someone (not me) in the pre-contest thread [asked Scott if they could submit their review as a website](https://open.substack.com/pub/astralcodexten/p/book-review-contest-rules-2026?utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=217184680), since they wanted to write something "in an interactive format” that wouldn’t work in Google Docs. Scott replied that he needed to run the contest through Google Docs and post the finalists on his blog, so “anything which is too complicated to work in those places” wouldn’t work.
+It’s not just monetary pressure, though. Someone (not me) in the pre-contest thread [asked Scott if they could submit their review as a website](https://open.substack.com/pub/astralcodexten/p/book-review-contest-rules-2026?utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=217184680), since they wanted to write something "in an interactive format” that wouldn’t work in Google Docs. Scott replied that he needed to run the contest through Google Docs and post the finalists on his blog, so “anything which is too complicated to work in those places” wouldn’t work.
 
-There’s clearly a tension here. Plain text is easier to replicate in different channels, but comes at the cost of artistic expression.
+There’s clearly a tension here. Plain text is easier to replicate in different channels, but comes at the cost of artistic expression. You couldn’t make 17776 into an audiobook, for instance.
 
 Overall, I guess I’m surprised there hasn’t been more innovation in this space. After all, news companies have figured out how to paywall their websites. Plenty of creators use sites like Patreon and Gumroad to sell digital products. And 17776 is both popular and critically-acclaimed, so it seems like there should be a market for more work like it. Why isn’t there some kind of “web fiction store” where the platform takes a 30% cut?
 
@@ -115,11 +117,11 @@ Overall, I guess I’m surprised there hasn’t been more innovation in this spa
 
 Maybe the ultimate limitation is having the idea for what to make in the first place.
 
-Most people seem to create within existing “formats”. Fiction authors write short stories or novels. Musicians make 3-4 minute songs and release ~8-12 song albums. Streaming services pump out TV shows with consistent 30- or 60-minute episodes, even though they’re no longer restricted by a broadcast schedule.
+Most creators seem to work within existing “formats”. Fiction authors write short stories or novels. Musicians make 3-4 minute songs and release ~8-12 song albums. Streaming services pump out TV shows with consistent 30- or 60-minute episodes, even though they’re no longer restricted by a broadcast schedule.
 
 This must be partly because of how people are exposed to the work in the first place. You grow up reading novels, and then one day you decide you want to write a novel yourself. And it’s probably partly caused by the platform pressures described in part III above – if publishers are looking for novels, that’s what people will write.
 
-But I believe there’s a subtler effect at play, too. The more you create in a certain format, the more you internalize it as a part of your creative process.
+But I believe there’s another, subtler effect at play. The more you create in a certain format, the more you internalize it as a part of your creative process.
 
 I’m not much of a blogger, but I write a few posts a year. And after writing enough posts, I’ve started to internalize my style. Sometimes an idea will come to me, and it will arrive with the basic outline already sketched out in my mind – how I’ll set up the narrative, where the interesting or surprising bits will come in, even large sections of the prose itself. These posts are very easy to write. In fact, it’s become hard to write about anything that doesn’t arrive in my mind partially-formed like this.
 
@@ -130,11 +132,13 @@ So if you’ve not only spent years reading only novels, short stories, and essa
 On the other hand, Bois has spent years making videos with many of the same visual storytelling tools he uses in 17776. Maybe that’s made him uniquely positioned to express his ideas in this particular hybrid format.
 
 _ _ _
-The thing is, it’s not just fiction writers who are stuck in a few standard formats. The example that bothers me most is (ironically) Substack. You can make almost anything on the web, but these days it seems like almost everyone who decides to start blogging just fires up a Substack.
+These patterns repeat across all kinds of media. I mentioned TV shows above – people have tried to make new streaming formats, but so far they [haven’t stuck](https://en.wikipedia.org/wiki/Quibi). AI image generation lets people visualize anything in the world, but it turns out they mostly just Ghiblify pictures of their kids.
 
-The factors mentioned above all apply here, too. You have to know a bit about web development to make your own blog, but Substack doesn’t require any technical skills. Substack also comes with built-in distribution and monetization, and offers bigger names incentives to publish on their platform. There are plenty of people making more creative blogs, but they tend to be niche. There’s a tradeoff where you give up some creative flexibility in exchange for the technical and distribution benefits, and that’s fine as far as it goes.
+The example that bothers me most is (ironically) Substack. You can make almost anything on the web, but these days it seems like everyone who decides to start blogging just fires up a Substack.
 
-But the thing I worry about is the fourth factor – that people will read a bunch of Substacks, and maybe start writing their own, and internalize the format. They’ll start creating for Substack, rather than using Substack to create. They’ll forget they could make anything they want.
+It makes perfect sense. You have to know a bit about web development to make your own blog, but Substack doesn’t require any technical skills. Substack also comes with built-in distribution and monetization, and offers bigger names incentives to publish on their platform. There are definitely people making more creative blogs, but they tend to be niche. There’s a tradeoff where you give up some creative flexibility in exchange for the technical and distribution benefits, and that’s fine as far as it goes.
+
+But the thing I worry about is the fourth factor above – that people will read a bunch of Substacks, and maybe start writing their own, and internalize the format. They’ll start creating in the Substack “style”, rather than using Substack to share original work. They’ll forget they could make anything they want.
 
 ## 3. The Gestalt
 

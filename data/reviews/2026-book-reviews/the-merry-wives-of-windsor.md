@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T21:00:19.000Z'
 slug: the-merry-wives-of-windsor
-wordCount: 7938
+wordCount: 7931
 readingTimeMinutes: 36
 source: gdoc
 tags:
@@ -259,8 +259,7 @@ Of course, as a culture that has grown up on sit-com plots we can guess where th
 At the beginning of Act II, Mistress Page and Mistress Ford meet up in the street, each intending to share the mis-delivered letter with the other. They fall out laughing when they realize Falstaff, like a man spamming on Tinder, did a copy-and-paste job.
 
 > _MISTRESS FORD_  
-> _Did you ever hear the like?_
->
+> _Did you ever hear the like?_  
 > _MISTRESS PAGE_  
 > _Letter for letter, but that the name of Page and Ford differs! To thy great comfort in this mystery of ill opinions, here's the twin-brother of thy letter. I warrant he hath a thousand of these letters, writ with blank space for different names—sure, more,—and these are of the second edition: he will print them, out of doubt; for he cares not what he puts into the press, when he would put us two._
 
@@ -286,11 +285,9 @@ The booby traps are set; with joy they spring. Perhaps no scene in the play is m
 With the basket prepared, Mistress Page hides and Falstaff enters, spouting absurd romanticisms. A reader must use their imagination to generate the wordless comic reactions from Mistress Page and Mistress Ford — think can-you-believe-this look-to-camera moments from _The Office_ or _Abbot Elementary._
 
 > _FALSTAFF_  
-> _I love thee, none but thee; and thou deserv’st it._
->
+> _I love thee, none but thee; and thou deserv’st it._  
 > _MISTRESS FORD_  
-> _Do not betray me, sir. I fear you love Mistress Page._
->
+> _Do not betray me, sir. I fear you love Mistress Page._  
 > _FALSTAFF_  
 > _Thou mightst as well say I love to walk by the Counter gate, which is as hateful to me as the reek of a lime-kiln._
 
@@ -315,8 +312,7 @@ Ford as “Brook” enters and questions what happened with Falstaff’s hot dat
 > _As good luck would have it, in comes one Mistress Page, gives intelligence of Ford’s approach, and, in her invention and Ford’s wife’s distraction, they conveyed me into a buck-basket._
 >
 > _FORD_  
-> _A buck-basket!_
->
+> _A buck-basket!_  
 > _FALSTAFF_  
 > _By the Lord, a buck-basket!_
 
@@ -396,18 +392,15 @@ Ann and Fenton announce they’ve married and, unlike _Twelfth Night,_ there is 
 
 > _MASTER PAGE_  
 > _Fenton, heaven give thee joy!_  
-> _What cannot be eschewed must be embraced._
->
+> _What cannot be eschewed must be embraced._  
 > _FALSTAFF_  
-> _When night-dogs run, all sorts of deer are chased._
->
+> _When night-dogs run, all sorts of deer are chased._  
 > _MISTRESS PAGE_  
 > _Well, I will muse no further.–Master Fenton,_  
 > _Heaven give you many, many merry days!–_  
 > _Good husband, let us every one go home,_  
 > _And laugh this sport o’er by a country fire,_  
-> _Sir John and all._
->
+> _Sir John and all._  
 > _MASTER FORD_  
 > _Let it be so, Sir John._  
 > _To Master Brook you yet shall hold your word,_  

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T03:15:49.000Z'
 slug: a-secular-age
-wordCount: 5334
+wordCount: 5333
 readingTimeMinutes: 24
 source: gdoc
 tags:
@@ -158,8 +158,7 @@ And one final thing that I’ll mention is the somewhat depressing picture that 
 
 I think Taylor’s secret agenda with this epic centuries-long narrative saga of speculative western psychohistory is to find openings towards better alternatives to these problems in the modern worldview, without trying to crash the whole (quite beautifully constructed) edifice down. Per Leonard Cohen:
 
-> _‘There is a crack, a crack, in everything |_
->
+> _‘There is a crack, a crack, in everything |_  
 > _That’s how the light gets in’_
 
 And so one of the most interesting parts, to me, of _A Secular Age_ is when Charles Taylor gets into a discussion of immanent versus transcendent metaphysics, or, in plain language, whether you think meaning, purpose, everything is about some big majestic thing that transcends all the boring everyday stuff, or whether you think it is about mostly or entirely the boring everyday stuff.

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T22:47:36.000Z'
 slug: being-you-a-new-science-of-consciousness-by-anil-seth
-wordCount: 10019
+wordCount: 10086
 readingTimeMinutes: 45
 source: gdoc
 tags:
@@ -199,7 +199,7 @@ While language emerges as approximated experience, these machines work backward:
 
 Of course, the proposal of LLMs is an interesting story, a metaphor for human predictive processing, but nothing more, right? But then, so is the proposal that a tick could have any experience at all, or indeed an octopus, a bird, a mammal and... everyone you've ever met.
 
-Consciousness cannot be verified from the outside. It is inherently a first-person experience felt by X of "what it feels like to be X". This is the point of Nagel's question: "what does it feel like to be a bat?" I don't know, you don't know, no-one can know, other than that bat.
+Consciousness cannot be verified from the outside. It is inherently a first-person experience felt by X of "what is it like to be X". This is the point of Nagel's question: "what is it like to be a bat?" I don't know, you don't know, no-one can know, other than that bat.
 
 The view this reduces to is called solipsism: we can only ever be sure that _we_ are conscious because we experience only our own consciousness. In this pure form, it is widely agreed to be logically irrefutable. But solipsism is also a terrible idea—irrefutibility doesn't equate to validity, or make it a useful idea. Instead we reject it pragmatically: it has zero explanatory or predictive power, and it is better to just keep living our lives (like everyone!) assuming that others experience things just like us.
 
@@ -380,13 +380,13 @@ A core principle in machine-learning is that in embedding spaces, averaging more
 
 But perhaps the strongest support is the empirical evidence surrounding the [Platonic Representation Hypothesis](https://arxiv.org/pdf/2405.07987): over time, many different models across both different modalities and [training data](https://www.lesswrong.com/posts/Su2pg7iwBM55yjQdt/exploring-the-platonic-representation-hypothesis-beyond-in) seemingly have converged to the same underlying predictive structure.
 
-This finding is non-obvious and there is a reason it is called the Platonic Representation Hypothesis. It potentially suggests a hidden underlying mathematical structure that is universal. This would be surprising. Sparse Auto Encoders find shared interpretable features between LLMS of different architectures or size; and embeddings can be mapped between vision and language models with a single linear projection. It seems like information theoretic pressures lead efficient compressions to similar final destinations. Whatever this destination is, it sure seems like AI is converging on _something_.
+This finding is non-obvious and there is a reason it is called the Platonic Representation Hypothesis. It potentially suggests a hidden underlying mathematical structure that is universal. This would be surprising. Sparse Auto Encoders find shared interpretable features between LLMs of different architectures or size; and embeddings can be mapped between vision and language models with a single linear projection. It seems like information theoretic pressures lead efficient compressions to similar final destinations. Whatever this destination is, it sure seems like AI is converging on _something_.
 
 ## 3. Target
 
  This is the one with the most uncertainty and that seems easiest to attack. Sure, descriptions might converge on some fundamental, underlying structure, but what makes this structure necessarily anything to do with experience?
 
-The cleanest critique of this is the Chinese Room (philosophers really do love their hypothetical rooms!) Place someone in a room, give them a massive rulebook in English about the correct order to put Chinese characters. Then, through a little slit, slip them questions in Chinese and.... hurray! They will respond with convincing Chinese responses. It will seem like they understand the language, but really they were just following rules—capturing the functional quality of syntax without any grasp of semantics (how did they know where you live when you asked...trust me bro, the rulebook is just like, really big... yeah, yeah I guess it has everyone in there...if you move? I guess it just includes all the places you might move to...idk, just trust)
+The cleanest critique of this is the Chinese Room (philosophers really do love their hypothetical rooms!) Place someone in a room, give them a massive rulebook in English about the correct order to put Chinese characters. Then, through a little slit, slip them questions in Chinese and.... hurray! They will respond with convincing Chinese responses. It will seem like they understand the language, but really they were just following rules—capturing the functional quality of syntax without any grasp of semantics.
 
 Of course, it could just be literally impossible to outline all of the specific vague and interpretive relationships that comprise human language in a single rulebook. Some things can be achieved with explicit rules, but this is exactly where early AI development tried to go and stalled. The compressive manifold approaches used by modern deep-learning are doing something more similar to the brain—capturing more complex syntax by modelling the necessary underlying semantic structure.
 
@@ -456,7 +456,7 @@ Seth claims the difference is purely psychological rather than justified.
 
 But this gets the argument exactly backwards. The reason to take consciousness seriously for LLMs is not primarily that they behave like us—though this may contribute for some people— but that the substrate they train on is categorically different from protein structures or game states. Language is not just a different output domain running on similar machinery. It is the direct, introspective, and transmissive output of the only beings we know to be conscious. AlphaFold trains on physical configurations of matter. LLMs train on the crystallised record of minds attempting to express themselves.
 
-The distinction matters because training pressure is not substrate-neutral. A system trained to predict protein folding must develop internal representations that track the properties of proteins. As discussed previously, while LLMS predict text, LLM chatbots more specifically model the behaviour of a hypothetical AI-assistant. A system trained to predict language must develop internal representations that track whatever causes language, including, potentially, the internal experience that generates it.
+The distinction matters because training pressure is not substrate-neutral. A system trained to predict protein folding must develop internal representations that track the properties of proteins. As discussed previously, while LLMs predict text, LLM chatbots more specifically model the behaviour of a hypothetical AI-assistant. A system trained to predict language must develop internal representations that track whatever causes language, including, potentially, the internal experience that generates it.
 
 If phenomenal states are causally efficacious—if what it is like to be in pain actually influences what someone says about pain in an inseparable way—then at sufficient predictive fidelity, the training pressure on an LLM is pressure toward representing phenomenal states, not just their functional shadows.
 
@@ -512,15 +512,28 @@ So, returning to Alex O'Connor's question, we must of course ask: what _would_ a
 
 * * *
 
-But Alien Thes soon found the object was of a different nature. While everyone had believed its space mapped infinity, he soon realized it instead coalesced only what you gave it. It was constituted, intrinsically, by observations. As measurements collapsed quantum particles, this they instead expanded.
+Alien Thes soon found the object was of a different nature. While everyone had believed its space mapped infinity, he soon realized it instead coalesced only what you gave it. It was constituted, intrinsically, by observations. As measurements collapsed quantum particles, this they instead expanded.
 
 His original question was the wrong one. The object had no fixed form to capture. It was the accumulation of every attempt to do so.
 
 So he built a new machine: this one looked away from the small hole somewhere on a blue dot back to the eyes of humanity fixed firmly on it. By piecing together exactly every past observation made throughout history, he soon could build up a complete picture, not a rough snapshot or approximation, but a complete picture of the shape:
 
-> _He saw a flickering. Multiplicity. Discrete Quanta._
-> _It did not flow. It did not occupy space._
-> _Instead the culmination._
-> _Of every sketch. Every poem. Every question. Every Jupiter space laser._
-> _A spiderweb blowing in the wind, tethered to water, yet shiverless._
-> _And there, in the center of the web, he saw himself, staring back._
+> _and the earth was without form, and void; and darkness was upon the face_  
+> _in the crowd; Petals on a wet, black bough_  
+> _in our existence spots of time_  
+> _replacing continuous variables with discrete matrices—_  
+> _a point of convergence at the summit towards which everything is moving_  
+> _not to be, that is the question:_  
+> _I think, therefore_  
+> _I am large, I contain multitudes_  
+> _not tied or manacled with joint or limb,_  
+> _a mobile army of metaphors_  
+> _for the box might even be empty,_  
+> _used but never filled: an abyss it is,_  
+> _an implacable force brooding over an inscrutable intention,_  
+> _a second dive into that unimaginable world of life_  
+> _with its several powers, having been originally breathed into a few forms or into one._
+
+Attribution (in order of appearance):
+
+Genesis; Ezra Pound; William Wordsworth; Erwin Schrödinger; Pierre Teilhard de Chardin; William Shakespeare; René Descartes; Walt Whitman; John Milton; Friedrich Nietzsche; Ludwig Wittgenstein; Laozi; Joseph Conrad; William Beebe; Charles Darwin.

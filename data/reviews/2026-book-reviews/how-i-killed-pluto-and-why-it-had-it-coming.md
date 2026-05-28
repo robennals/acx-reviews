@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-20T06:54:25.000Z'
 slug: how-i-killed-pluto-and-why-it-had-it-coming
-wordCount: 12865
+wordCount: 12866
 readingTimeMinutes: 58
 source: gdoc
 disableFootnotes: true
@@ -483,7 +483,7 @@ Brown is still a Professor of Planetary Science in Caltech’s Division of Geolo
 
 There’s an online version of his “Science of the Solar System” course available via [Coursera](https://www.coursera.org/learn/solar-system) or from [Brown’s faculty website](https://mikebrown.caltech.edu/teaching/science-solar-system/lectures). I’ve been gradually working through this and like it very much so far. The accessibility level is an advanced High School or introductory College class, but the subject matter goes into quite a bit of detail into not just what we know about various planets and small solar system bodies but also how we figured it out. If you’re interested in knowing why we’re pretty sure Jupiter has a solid inner core inside a layer of liquid metallic hydrogen, or precisely how KBOs inform our knowledge of the formation of the solar system, or how we first measured the surface temperature of Mars long before we were able to send landers or even orbiters there, this course will answer your questions.
 
-My eight year old daughter has been watching the lectures with me. It’s accessible enough to mostly keep her interest, even though some of the crunchier details are likely going over her head, and one piece of mathematically demanding lectures (working through the derivation of how dense Jupiter should be if it didn’t have a solid core) seems to temporarily have lost her interest.
+My eight year old daughter has been watching the lectures with me. It’s accessible enough to mostly keep her interest, even though some of the crunchier details are likely going over her head, and one section of mathematically demanding lectures (working through the derivation of how dense Jupiter should be if it didn’t have a solid core) seems to be a little much for her.
 
 ## Pool Bears
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T18:40:53.000Z'
 slug: the-history-and-adventures-of-an-atom-by-tobias-smollett
-wordCount: 6002
+wordCount: 6004
 readingTimeMinutes: 27
 source: gdoc
 tags:
@@ -22,7 +22,7 @@ I find, Gentlemen, when you read with me in private, that nine out of ten of you
 
 All eighteenth-century novels are weird in one way or another, if only because the novelists of the time didn’t yet know a standard by which to make them not-weird. _Robinson Crusoe_ (1719) famously has no chapter breaks. _Tristram Shandy_ (1767) famously contains a blank page, with instructions for readers to “call for pen and ink” and hack out a portrait of one of the characters on their own. _The Man of Feeling_ (1771) is hardly a novel at all: An anonymous “editor” explains how a fat curate of his acquaintance had used torn pages from a small memorandum book as wadding paper while hunting; the few surviving pages of that memorandum, representing the scattered observations of an eccentric parishioner, make up the slim novel _The Man of Feeling_. It’s pretty weird.
 
-But one eighteenth-century novel is weirder than the rest. It is, in fact, by my estimation, weirder than any book written before twentieth-century Modernists started pushing the (_riverrun, past Eve and Adam’s, from swerve of shore to bend of bay_) weird envelope. That champion is Tobias Smollett’s 1769 _The History and Adventures of an Atom_, a book of exquisite beauty and mind-numbing tedium, of obscurity and libel, featuring some top-notch humorous set-pieces and also really a lot of gratuitous filth.
+But one eighteenth-century novel is weirder than the rest. It is, in fact, by my estimation, weirder than any book written before Modernists of the twentieth-century started pushing the (_riverrun, past Eve and Adam’s, from swerve of shore to bend of bay_) weird envelope. That champion is Tobias Smollett’s 1769 _The History and Adventures of an Atom_, a book of exquisite beauty and mind-numbing tedium, of obscurity and libel, featuring some top-notch humorous set-pieces and also really a lot of gratuitous filth.
 
 In the course of this review I’d like to step back and see how novels in general had reached a point at which _Atom_ became possible; quickly touch upon Smollett’s career to find why he found _Atom_ necessary; and only then delve into what makes _Atom_ so weird. If you have no interest in the history of the novel, or of one random Scotsman, but you do want to learn about what it was like inside a medieval Japanese politician’s butthole, skip to **part 3**. That’s where the _Atom_ resides.
 

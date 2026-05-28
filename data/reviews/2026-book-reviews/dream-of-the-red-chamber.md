@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T12:39:13.000Z'
 slug: dream-of-the-red-chamber
-wordCount: 4629
+wordCount: 4627
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -98,8 +98,7 @@ The evidence is not in the dramatic set pieces. It’s in the way Cao Xueqin wri
 
 In Chapter Eight, Cao Xueqin gives Baochai her first formal entrance description. The opening lines run through the conventional beauty tropes of a classical Chinese set piece — the kind of stock phrases used for any well-born young woman, individuating nothing. Then the brush turns, and he gives her sixteen characters that do something else entirely:
 
-> _“Sparing of words — others say she conceals her cleverness;_
->
+> _“Sparing of words — others say she conceals her cleverness;_  
 > _yielding to circumstance — she herself calls it keeping her plainness.”_
 
 Inside these sixteen characters is the book’s verdict on the entire character.
@@ -242,8 +241,7 @@ Early in the novel, in Chapter Five, Baoyu has a dream in which he wanders into 
 
 The shared verse, in David Hawkes’s translation:
 
-> _\*Buried in snow the broken golden hairpin,\*_
->
+> _\*Buried in snow the broken golden hairpin,\*_  
 > _\*And hanging in the wood the belt of jade.\*_
 
 Both names are encoded inside the prophecy. “Wood” (林, \*lin\*) is Daiyu’s surname — Lin Daiyu, “forest” Daiyu. “Snow” (雪, \*xue\*) is a homophone for Baochai’s surname Xue (薛); “golden hairpin” (钗, \*chai\*) is the character in her given name, Baochai. From the moment they first appear, their endings are already written into their own names.

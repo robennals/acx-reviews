@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-17T18:50:32.000Z'
 slug: chuang-tzu-the-inner-chapters-by-a-c-graham
-wordCount: 7203
+wordCount: 7403
 readingTimeMinutes: 33
 source: gdoc
 tags:
@@ -277,11 +277,19 @@ This is perhaps the devastating critique of altruism in the entire book. Hundun 
 
 Graham's ‘Chuang-Tzu’ runs to 290 pages in the Hackett edition. The introduction comprises some 38 pages and the seven Inner Chapters take us up to page 100. In the remaining two-thirds of the book, he goes on to translate and discuss substantial portions of the Outer and Miscellaneous Chapters, identifying the different schools and voices at work, and tracing the ways in which later followers developed, simplified or distorted Zhuangzi's original insights.
 
-The Primitivist chapters are the most politically radical, arguing for a return to a pre-civilisational simplicity in which the imposition of culture, knowledge and moral categories on human life is itself the primary source of suffering. They are cruder than the Inner Chapters, less philosophically nuanced, but they articulate with great force and personality the anti-progressive dimension of the Zhuangzi tradition.
+The dialogues of Confucius with ‘Old Tan’ are intriguing, not least because Old Tan alone of all the characters in the book has the authority to talk to Confucius. Historically, Old Tan is identified with Lao-Tzu, the presumed author of the classic ‘Tao Te Ching’, which appeared around 250 BCE. Graham argues that this identification is a case of philosophical appropriation by later Taoists seeking to push the origins of their school back to Confucian times.
 
-The four chapters of the ‘Yangist miscellany’ seem not to be Taoist at all, but by later followers of the ‘preserving life’ school identified with Yang Chu. Writing during the violent upheavals of the warring states and Chin periods, they advocate prudent calculation of benefits and harms, keeping out of trouble and ‘protecting one’s genuineness’. The final Syncretist chapters attempt to reconcile Zhuangzi with Confucianism and Legalism, producing a more politically useful but philosophically blander synthesis. They are, in Graham's account, the work of later scholars.
+In the Chuang-Tzu dialogues, Old Tan is introduced as an archivist and expert in the rites from Chou, the reduced kingdom whose glories Confucius sought to restore. He would therefore be a very proper person for Confucius to consult, but Zhuangzhi is playing fast and loose by making Old Tan a spokesperson for his own positions. Graham suggests that adopting the authority able to condescend to Confucius as a proto-Taoist, and later as the author of ‘Tao Te Ching’, written centuries later, is typical philosophical gamesmanship.
 
-The most important additional material for the themes of this review is the collection of anecdotes about Zhuangzi himself: the conversation with the skull, the singing at his wife's death, the refusal of the prime ministership, and the dialogue with Huizi about the happiness of fish on the bridge at Hao, quoted earlier. These passages, whether historically authentic or not, constitute a portrait of a philosophical life, a demonstration of what it might actually look like to live in the way that the Inner Chapters describe.
+> ‘Goodwill and Duty are the grass huts of the former kings; you may put up in them for a night, but not settle in them for too long; and the longer you are noticed in them, the more will be demanded of you.’  
+
+The ‘Primitivist’ chapters are the most politically radical, arguing for a return to a simplicity that existed before civilization imposed culture, knowledge and moral categories on human life. They are cruder than the Inner Chapters, less philosophically nuanced, but they articulate with great force and personality the anti-progressive dimension of the Zhuangzi tradition.
+
+The four chapters of the ‘Yangist miscellany’ seem not to be Taoist at all, but by later followers of the ‘preserving life’ school identified with Yang Chu. Writing during the violent upheavals of the warring states and Chin periods, they advocate prudent calculation of benefits and harms, keeping out of trouble and ‘protecting one’s genuineness’.
+
+The final Syncretist chapters attempt to reconcile Zhuangzi with Confucianism and Legalism, producing a more politically useful but philosophically blander synthesis. They are, in Graham's account, the work of later scholars.
+
+Perhaps the most important additional material for the themes of this review is the collection of anecdotes about Zhuangzi himself: the conversation with the skull, the singing at his wife's death, the refusal of the prime ministership, and the dialogue with Huizi about the happiness of fish on the bridge at Hao, quoted earlier. These passages, whether historically authentic or not, constitute a portrait of a philosophical life, a demonstration of what it might actually look like to live in the way that the Inner Chapters describe.
 
 It is a life characterised by lightness, wit, a refusal of solemnity, an indifference to reputation and legacy, and a deep, unsentimental attentiveness to the natural world. It produced a book, or contributed to a book, that has been read for two and a half thousand years, which may be worth something, though Zhuangzi himself would probably decline to quantify it.
 
@@ -291,4 +299,4 @@ Graham's translation, notes, philosophical commentary and careful sorting of the
 
 * * *
 
-Note: this review was written with some editorial assistance from Claude Sonnet 4.6 (free version). Any errors, hallucinations and flights of fancy are the author’s.
+Note: this review was written with some editorial assistance from Claude Sonnet 4.6 (free version). Any errors, hallucinations, fallacies and flights of fancy are the author’s.

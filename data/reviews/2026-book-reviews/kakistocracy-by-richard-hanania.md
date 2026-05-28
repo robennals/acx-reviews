@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-21T04:57:30.000Z'
 slug: kakistocracy-by-richard-hanania
-wordCount: 9429
+wordCount: 9425
 readingTimeMinutes: 42
 source: gdoc
 tags:
@@ -156,7 +156,7 @@ While women and men both complain online about being single, the men are general
 
 The grievances of the woke right often stem from their own inability to join the institutions they now deride. It’s the classic mentality of incels: they’re so beside themselves at being rejected by the women they desire, that they claim women are worthless and worthy of scorn. Populism is a form of grievance politics, which can swirl around socio-economic status, social class, and the difficulties of modern males. It’s no surprise that online, populists and crusaders against women’s rights are increasingly the same group.
 
-Remember the men we mentioned at the start of this essay? Strangely, they were high-status meaning maximizers—organic elites—who adopted the same grievances as men far less successful than them. They didn’t angrily lament their dating prospects, but they seemed to have insecurities that they weren’t as successful as they should have been, and were driven to rage by the same foul internet. While friends hope that this is just a phase, their respect has already been lost. They saw themselves as lower-status than anybody else seemed to, and they dragged down their behavior to match. While this hasn’t changed
+Remember the men we mentioned at the start of this essay? Strangely, they were high-status meaning maximizers—organic elites—who adopted the same grievances as men far less successful than them. They didn’t angrily lament their dating prospects, but they seemed to have insecurities that they weren’t as successful as they should have been, and were driven to rage by the same foul internet. While friends hope that this is just a phase, their respect has already been lost. They saw themselves as lower-status than anybody else seemed to, and they dragged down their behavior to match.
 
 # Summary of Kakistocracy’s Main Arguments (pt. 2)
 
