@@ -7,15 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-18T09:10:12.000Z'
 slug: der-untergang-des-abendlandes
-wordCount: 6557
+wordCount: 6554
 readingTimeMinutes: 30
 source: gdoc
 tags:
   - History
   - Philosophy
 ---
-
-## Flik 1
 
 ## Book Review: Der Untergang des Abendlandes by Oswald Spengler
 

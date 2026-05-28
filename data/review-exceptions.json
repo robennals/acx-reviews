@@ -40,7 +40,8 @@
   },
   "der-untergang-des-abendlandes": {
     "disableItalicAsBlockquote": true,
-    "minorityFontAsBlockquote": true
+    "minorityFontAsBlockquote": true,
+    "dropLeadingContentLines": 1
   },
   "coriolanus": {
     "disableItalicAsBlockquote": true,
