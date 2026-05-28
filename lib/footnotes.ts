@@ -71,14 +71,18 @@ function detectFormat(md: string): Format {
   // Bare-digit def forms (only when no bracketed defs exist anywhere):
   //   - `N` on its own line (Nick-Chater style)
   //   - `N content` with the content on the same line (Mother of
-  //     Learning style). Restrict to ≤3-digit numbers to keep
-  //     "1981 was a year of…" body text from being mis-detected.
+  //     Learning style)
+  //   - `N. content` numbered-list form (Application for Release
+  //     from the Dream — defs styled as a markdown ordered list)
+  // Restrict to ≤3-digit numbers to keep "1981 was a year of…" body
+  // text from being mis-detected.
   const isDefStart = hasBracketed
     ? (s: string) => /^\[\d+\][ \t]/.test(s)
     : (s: string) =>
         /^\[\d+\][ \t]/.test(s) ||
         /^\d+[ \t]*$/.test(s) ||
-        /^\d{1,3}[ \t]+\S/.test(s);
+        /^\d{1,3}[ \t]+\S/.test(s) ||
+        /^\d{1,3}\.[ \t]+\S/.test(s);
   const defLineIndices: number[] = [];
   for (let k = 0; k < lines.length; k++) {
     if (isDefStart(lines[k])) defLineIndices.push(k);
@@ -470,11 +474,16 @@ function extractPlain(md: string): ExtractedFootnotes {
     if (hasBracketed) return null;
     const m2 = /^(\d+)[ \t]*$/.exec(s);
     if (m2) return { id: m2[1], inline: '' };
+    // `N. content` numbered-list form (Application for Release from
+    // the Dream). Check before the bare-number form so the `.` isn't
+    // captured into the content.
+    const m3 = /^(\d{1,3})\.[ \t]+(\S.*)$/.exec(s);
+    if (m3) return { id: m3[1], inline: m3[2] };
     // `N content` form (Mother of Learning). Restrict id to ≤3 digits
     // so body lines like "1981 was a year of…" don't trip the
     // detector (must be paired with the trailing-region walk above).
-    const m3 = /^(\d{1,3})[ \t]+(\S.*)$/.exec(s);
-    if (m3) return { id: m3[1], inline: m3[2] };
+    const m4 = /^(\d{1,3})[ \t]+(\S.*)$/.exec(s);
+    if (m4) return { id: m4[1], inline: m4[2] };
     return null;
   };
   const isDefStart = (s: string) => matchDefStart(s) !== null;

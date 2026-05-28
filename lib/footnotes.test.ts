@@ -194,6 +194,26 @@ test('plain: detects bracketed defs even when the last def is multi-paragraph (A
   assert.ok(result.footnotes[1].raw.includes('blockquote line'), `fn 2 should include the blockquote; got: ${result.footnotes[1].raw}`);
 });
 
+test('plain: handles "N. content" numbered-list footnote-def lines (Application-for-Release-style)', () => {
+  // Footnote defs styled as a markdown ordered list under a Footnotes
+  // heading. Body refs are bracketed `[N]`.
+  const input = [
+    'Body text with a ref[1] and another[2].',
+    '',
+    '# Footnotes',
+    '',
+    '1. First footnote content.',
+    '2. Second footnote content here.',
+    '3. Third footnote, mentioned only here.',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 3,
+    `expected 3 footnotes; got ${r.footnotes.length}: ${JSON.stringify(r.footnotes.map(f => f.id))}`);
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '3']);
+  assert.ok(r.body.includes('data-fn-id="1"'), `body should have fn-1 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="2"'), `body should have fn-2 ref; got: ${r.body}`);
+});
+
 test('plain: handles bare-number + space + content footnote-def lines (Mother-of-Learning-style)', () => {
   // Real example: footnote defs are `N content` on a single line — bare
   // digit, space, then the footnote text. Inline refs in the body are
