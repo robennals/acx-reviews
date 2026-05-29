@@ -320,12 +320,11 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
           ACX Review Archive
         </h1>
         <p className="text-lg text-muted-foreground max-w-2xl leading-relaxed">
-          A browsable archive of all book and non-book reviews from the annual Astral Codex Ten review contest.
-          This archive is maintained by{' '}
+          A browsable archive of all book and non-book reviews from the annual <a href="https://astralcodexten.com" target="_blank" rel="noopener noreferrer" className="text-link hover:underline">Astral Codex Ten</a> review contest.
+          This site is maintained by{' '}
           <a href="https://robennals.org" target="_blank" rel="noopener noreferrer" className="text-link hover:underline">
             Rob Ennals
-          </a>{' '}
-          and is not officially endorsed by either Astral Codex Ten or the authors of the reviews.
+          </a>. Contact Rob if you find any issues with this site.
         </p>
       </header>
 
@@ -422,13 +421,10 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
           <button
             onClick={handleRandom}
             disabled={filteredReviews.length === 0}
-            className="flex items-center gap-1.5 px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
+            className="px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
             aria-label="Open a random review from the current selection"
           >
-            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5" />
-            </svg>
-            <span>Surprise me</span>
+            Surprise me
           </button>
         </div>
       </div>
