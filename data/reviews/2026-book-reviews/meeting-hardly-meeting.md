@@ -1,66 +1,49 @@
 ---
 title: Meeting, Hardly Meeting
 author: Unknown
-reviewAuthor: Anonymous
+reviewAuthor: Inbar Marmelshtein
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T19:47:04.000Z'
 slug: meeting-hardly-meeting
-wordCount: 5636
+wordCount: 5800
 readingTimeMinutes: 26
 source: gdoc
+originalUrl: https://docs.google.com/document/d/1qtVbwsedqZUwUKsS7Hm3Qg7qxM5ghVpkXjwm1ED47_M
 tags:
   - Fiction
 ---
 
-As a dream: it’s all – different, different
-
-To a nameless shore we take flight
-
-You and I all alone upon the Kinneret
-
-in a boat with sails glowing white.
-
-From the rays of the moon we have weaved us a chain
-
-binding one to another since yore.
-
-Still our dream have not failed – we remain, we remain
-
-in its golden road walking once more.
-
-Recollections past flowing like water from fountain
-
-cold and quenching on days hot and dry.
-
-But one night and its moon – with its light to brighten
-
-all the days that have since gone by. (1)
-
-כַּחֲלוֹם: הַכֹּל – אַחֶרֶת, אַחֶרֶת
-
-וְאֶל חוֹף לֹא-נוֹדָע טָסִים
-
-אָנֹכִי וְאַתָּה עַל פְּנֵי הַכִּנֶּרֶת
-
-בְּסִירָה לִבְנַת מִפְרָשִׂים.
-
-מִקַּרְנֵי הַיָּרֵחַ שָׁזַרְנוּ שְׁנֵינוּ
-
-אֶת הַפְּתִיל הַקּוֹשְׁרֵנוּ מֵאָז.
-
-לֹא כִּזֵּב הַחֲלוֹם – הֵן עוֹדֵנוּ, עוֹדֵנוּ
-
-מְהַלְּכִים בִּשְׁבִילוֹ הַמּוּפָז.
-
-הֵן זִכְרוֹ הָרָחוֹק כְּמֵימֵי הַמַּבּוּעַ
-
-הַמַּרְוִים-צוֹנְנִים בַּשָּׁרָב.
-
-לֵיל יָרֵח אֶחָד – וְאוֹרוֹ זָרוּעַ
-
-עַל יָמִים רַבִּים אַחֲרָיו.
+> As a dream: it’s all – different, different  
+> To a nameless shore we take flight  
+> You and I all alone upon the Kinneret  
+> in a boat with sails glowing white.
+>
+> From the rays of the moon we have weaved us a chain  
+> binding one to another since yore.  
+> Still our dream have not failed – we remain, we remain  
+> in its golden road walking once more.
+>
+> Recollections past flowing like water from fountain  
+> cold and quenching on days hot and dry.  
+> But one night and its moon – with its light to brighten  
+> all the days that have since gone by. (1)
+>
+> כַּחֲלוֹם: הַכֹּל – אַחֶרֶת, אַחֶרֶת  
+> וְאֶל חוֹף לֹא-נוֹדָע טָסִים  
+> אָנֹכִי וְאַתָּה עַל פְּנֵי הַכִּנֶּרֶת  
+> בְּסִירָה לִבְנַת מִפְרָשִׂים.
+>
+> מִקַּרְנֵי הַיָּרֵחַ שָׁזַרְנוּ שְׁנֵינוּ  
+> אֶת הַפְּתִיל הַקּוֹשְׁרֵנוּ מֵאָז.  
+> לֹא כִּזֵּב הַחֲלוֹם – הֵן עוֹדֵנוּ, עוֹדֵנוּ  
+> מְהַלְּכִים בִּשְׁבִילוֹ הַמּוּפָז.
+>
+> הֵן זִכְרוֹ הָרָחוֹק כְּמֵימֵי הַמַּבּוּעַ  
+> הַמַּרְוִים-צוֹנְנִים בַּשָּׁרָב.  
+> לֵיל יָרֵח אֶחָד – וְאוֹרוֹ זָרוּעַ  
+> עַל יָמִים רַבִּים אַחֲרָיו.
 
 ## Legecy
 
@@ -96,55 +79,37 @@ Soon enough Rachel came into contact with the pioneers of Israel. Those were peo
 
 ## And Perhaps…
 
-And perhaps it all never occurred,
-
-Perhaps
-
-I have never drawn bread from the field
-
-by the sweat of my brow?
-
-Have I never, on harvesting days
-
-hot and long,
-
-high atop a cart heavy with wheat
-
-raised my voice in a song?
-
-I was never cleansed in the pure blue
-
-of the stream
-
-of my Kinneret… my Kinneret,
-
-were you but a dream?
+> And perhaps it all never occurred,  
+> Perhaps  
+> I have never drawn bread from the field  
+> by the sweat of my brow?
+>
+> Have I never, on harvesting days  
+> hot and long,  
+> high atop a cart heavy with wheat  
+> raised my voice in a song?
+>
+> I was never cleansed in the pure blue  
+> of the stream  
+> of my Kinneret… my Kinneret,  
+> were you but a dream?
 
 ## ואולי לא היו הדברים…
 
-וְאוּלַי לֹא הָיוּ הַדְּבָרִים מֵעוֹלָם,
-
-אוּלַי
-
-מֵעוֹלָם לֹא הִשְׁכַּמְתִּי עִם שַׁחַר לַגָּן,
-
-לְעָבְדוֹ בְּזֵעַת-אַפָּי?
-
-מֵעוֹלָם, בְּיָמִים אֲרֻכִּים וְיוֹקְדִים
-
-שֶׁל קָצִיר,
-
-בִּמְרוֹמֵי עֲגָלָה עֲמוּסַת אֲלֻמּוֹת
-
-לֹא נָתַתִּי קוֹלִי בְּשִׁיר?
-
-מֵעוֹלָם לֹא טָהַרְתִּי בִּתְכֵלֶת שׁוֹקְטָה
-
-וּבְתֹם
-
-שֶׁל כִּנֶּרֶת שֶׁלִּי… הוֹי, כִּנֶּרֶת שֶׁלִּי,
-
-הֶהָיִית, אוֹ חָלַמְתִּי חֲלוֹם?
+> וְאוּלַי לֹא הָיוּ הַדְּבָרִים מֵעוֹלָם,  
+> אוּלַי  
+> מֵעוֹלָם לֹא הִשְׁכַּמְתִּי עִם שַׁחַר לַגָּן,  
+> לְעָבְדוֹ בְּזֵעַת-אַפָּי?
+>
+> מֵעוֹלָם, בְּיָמִים אֲרֻכִּים וְיוֹקְדִים  
+> שֶׁל קָצִיר,  
+> בִּמְרוֹמֵי עֲגָלָה עֲמוּסַת אֲלֻמּוֹת  
+> לֹא נָתַתִּי קוֹלִי בְּשִׁיר?
+>
+> מֵעוֹלָם לֹא טָהַרְתִּי בִּתְכֵלֶת שׁוֹקְטָה  
+> וּבְתֹם  
+> שֶׁל כִּנֶּרֶת שֶׁלִּי… הוֹי, כִּנֶּרֶת שֶׁלִּי,  
+> הֶהָיִית, אוֹ חָלַמְתִּי חֲלוֹם?
 
 ## Half a meeting
 
@@ -152,37 +117,25 @@ The name of this anthology is taken from one of Rachel’s own poems. It is not 
 
 Let’s read it:
 
-To meet, to meet in part, a glance returning swift,
-
-dull fragments of a talk — that’s all…
-
-Again it’s all aflood, again it’s all adrift
-
-the pain and beauty of your thrall
-
-A lone forgetting dam — that I had built as shield —
-
-has quickly fallen to decay.
-
-And with the raging water all around I kneeled
-
-at last to drink my thirst away!
-
-פְּגִישָׁה, חֲצִי פְּגִישָׁה, מַבָּט אֶחָד מָהִיר,
-
-קִטְעֵי נִיבִים סְתוּמִים – זֶה דַי...
-
-וְשׁוּב הֵצִיף הַכֹּל, וְשׁוּב הַכֹּל הִסְעִיר
-
-מִשְׁבַּר הָאשֶׁר וְהַדְוָי
-
-אַף סֶכֶר שִׁכְחָה – בָּנִיתִי לִי מָגֵן –
-
-הִנֵה הָיָה כְּלֹא הָיָה.
-
-וְעַל בִּרְכַּי אֶכְרַע עַל שְׂפַת אֲגַם סוֹאֵן
-
-לִשְׁתּוֹת מִמֶנוּ לִרְוָיָה!
+> To meet, to meet in part, a glance returning swift,  
+> dull fragments of a talk — that’s all…  
+> Again it’s all aflood, again it’s all adrift  
+> the pain and beauty of your thrall
+>
+> A lone forgetting dam — that I had built as shield —  
+> has quickly fallen to decay.  
+> And with the raging water all around I kneeled  
+> at last to drink my thirst away!
+>
+> פְּגִישָׁה, חֲצִי פְּגִישָׁה, מַבָּט אֶחָד מָהִיר,  
+> קִטְעֵי נִיבִים סְתוּמִים – זֶה דַי...  
+> וְשׁוּב הֵצִיף הַכֹּל, וְשׁוּב הַכֹּל הִסְעִיר  
+> מִשְׁבַּר הָאשֶׁר וְהַדְוָי
+>
+> אַף סֶכֶר שִׁכְחָה – בָּנִיתִי לִי מָגֵן –  
+> הִנֵה הָיָה כְּלֹא הָיָה.  
+> וְעַל בִּרְכַּי אֶכְרַע עַל שְׂפַת אֲגַם סוֹאֵן  
+> לִשְׁתּוֹת מִמֶנוּ לִרְוָיָה!
 
 This poem is a good representation of her sensibilities as a poet: The straightforward language for her time, the succinctness of the poem, her attention to the natural world as expressed by the water metaphor, the lost love.
 
@@ -222,9 +175,8 @@ One anecdote describes Rachel as sweeping after her two separate farms in a danc
 
 “The first thing I heard was: a wonderful choir of songbirds conducted afar by a great, charming, clear and commending Hebrew language - I stood still. And here the gate opened and from the yard exhausted a flock of geese, pouring with an uproar into the hill, and behind the flock - a tall shepherdess, blue eyed and white dressed, light as a doe and beautiful as the Kinneret. In her hand a branch of dates, and with this specter and with a warm and young voice, with her flexible and soaring back she controls the noise, with softness and might, and at dawn. With flowing Hebrew, she takes the flock of geese from the yard of the farm of the Kinneret to the pasture.
 
-I hid with bated breath behind a fence, until the pureness left.
-
-That shepherdess was the poet Rachel.”
+> I hid with bated breath behind a fence, until the pureness left.  
+> That shepherdess was the poet Rachel.”
 
 For a time it was so beautiful and so alive. And though Rachel didn’t know it then, it would be lost.
 
@@ -236,55 +188,37 @@ This poem, composed into one of Israel’s most well known love songs, is widely
 
 ## A Tender Song
 
-Will you hear my voice, my own distant one,
-
-Will you hear my voice, at what land you are –
-
-Voice a-singing strong, voice a-crying wan,
-
-And a blessing sent from a time afar?
-
-In a world immense full of countless trails,
-
-They might meet an hour, then forever cross.
-
-One may seek and tread, yet his power fails,
-
-One can never find the thing that was lost.
-
-My last day is perhaps nearly about,
-
-Soon the day of parting will rise above,
-
-I will wait for you till my life go out,
-
-Like Rachel awaits her beloved.
+> Will you hear my voice, my own distant one,  
+> Will you hear my voice, at what land you are –  
+> Voice a-singing strong, voice a-crying wan,  
+> And a blessing sent from a time afar?
+>
+> In a world immense full of countless trails,  
+> They might meet an hour, then forever cross.  
+> One may seek and tread, yet his power fails,  
+> One can never find the thing that was lost.
+>
+> My last day is perhaps nearly about,  
+> Soon the day of parting will rise above,  
+> I will wait for you till my life go out,  
+> Like Rachel awaits her beloved.
 
 ## זֶמֶר נוּגֶה
 
-הֲתִשְׁמַע קוֹלִי, רְחוֹקִי שֶׁלִּי,
-
-הֲתִשְׁמַע קוֹלִי, בַּאֲשֶׁר הִנְּךָ –
-
-קוֹל קוֹרֵא בְּעֹז, קוֹל בּוֹכֶה בִּדְמִי
-
-וּמֵעַל לַזְּמַן מְצַוֶּה בְּרָכָה?
-
-תֵּבֵל זוֹ רַבָּה וּדְרָכִים בָּה רַב,
-
-נִפְגָּשׁוֹת לְדַק, נִפְרָדוֹת לָעַד.
-
-מְבַקֵּשׁ אָדָם, אַךְ כּוֹשְׁלוֹת רַגְלָיו,
-
-לֹא יוּכַל לִמְצֹא אֶת אֲשֶׁר אָבַד.
-
-אַחֲרוֹן יָמַי כְּבָר קָרוֹב אוּלַי,
-
-כְּבָר קָרוֹב הַיּוֹם שֶׁל דִּמְעוֹת פְּרֵדָה,
-
-אֲחַכֶּה לְךָ עַד יִכְבּוּ חַיַּי,
-
-כְּחַכּוֹת רָחֵל לְדוֹדָהּ.
+> הֲתִשְׁמַע קוֹלִי, רְחוֹקִי שֶׁלִּי,  
+> הֲתִשְׁמַע קוֹלִי, בַּאֲשֶׁר הִנְּךָ –  
+> קוֹל קוֹרֵא בְּעֹז, קוֹל בּוֹכֶה בִּדְמִי  
+> וּמֵעַל לַזְּמַן מְצַוֶּה בְּרָכָה?
+>
+> תֵּבֵל זוֹ רַבָּה וּדְרָכִים בָּה רַב,  
+> נִפְגָּשׁוֹת לְדַק, נִפְרָדוֹת לָעַד.  
+> מְבַקֵּשׁ אָדָם, אַךְ כּוֹשְׁלוֹת רַגְלָיו,  
+> לֹא יוּכַל לִמְצֹא אֶת אֲשֶׁר אָבַד.
+>
+> אַחֲרוֹן יָמַי כְּבָר קָרוֹב אוּלַי,  
+> כְּבָר קָרוֹב הַיּוֹם שֶׁל דִּמְעוֹת פְּרֵדָה,  
+> אֲחַכֶּה לְךָ עַד יִכְבּוּ חַיַּי,  
+> כְּחַכּוֹת רָחֵל לְדוֹדָהּ.
 
 What do we lose when we travel from Hebrew to English?
 
@@ -292,11 +226,9 @@ First of all, an entire world of substance that cannot be properly translated. I
 
 How can we be sure that Rachel the poet has the biblical story in mind? By the specific Hebrew word she uses for ‘beloved’. That word is דודה - doda - which in modern Hebrew means ‘her uncle’. But in biblical Hebrew, its meaning was one of romantic love. Every Hebrew reader, even now but especially a hundred years in the past, would have thought about the Bible as she read that line, about Song of Songs, chapter six:
 
-I am my beloved's, and my beloved is mine, who grazes among the roses.
-
-אֲנִ֤י לְדוֹדִי֙ וְדוֹדִ֣י לִ֔י הָֽרוֹעֶ֖ה בַּשּֽׁוֹשַׁנִּֽים:
-
-Ani ledodi vedodi lee haroea bashoshanim.
+> I am my beloved's, and my beloved is mine, who grazes among the roses.  
+> אֲנִ֤י לְדוֹדִי֙ וְדוֹדִ֣י לִ֔י הָֽרוֹעֶ֖ה בַּשּֽׁוֹשַׁנִּֽים:  
+> Ani ledodi vedodi lee haroea bashoshanim.
 
 In Hebrew the mythology of the past is so near, you can almost touch it.
 
@@ -312,17 +244,13 @@ The problem, the thing that makes the art of translating poetry both riveting an
 
 Hebrew’s nature is expressed in a myriad of ways: one syllable words are less common, verbs carry more information about the relevant party, conjunctives tend to exist not as separate words, but as letters to be added. For example, you can add the letter Yud - י - to the end of a word to denote possession, or the letter Hey - ה - to turn a phrase into a question.
 
-Rachel does both, turning:
-
- האם תשמע את הקול שלי?
-
-Haeem tishma et hakol sheli?
-
-To:
-
- התשמע קולי?
-
-Hatishma kolee?
+> Rachel does both, turning:  
+>  האם תשמע את הקול שלי?  
+> Haeem tishma et hakol sheli?
+>
+> To:  
+>  התשמע קולי?  
+> Hatishma kolee?
 
 Both phrases mean “will you hear my voice?” but the second one is both more condensed and more lyrical.
 
@@ -370,53 +298,34 @@ After years, salvation! The British, now in control of Israel, opened its gates,
 
 ## Nevo
 
-Only my story I know how to tell.
-
-Small is my world like the world of an ant,
-
-like her I carry a burden immense
-
-resting on shoulders too meager and scant.
-
-So have my way – as her way to the tree top –
-
-treacherous way of toil long braced,
-
-was by a giant’s hand, wicked and mirthful,
-
-was by a mocking hand laid to waste.
-
-All of my efforts wept for and broken
-
-Fear of a giant’s hand had filled my nights.
-
-Why have you called me, you shores of mystique?
-
-Why have you failed me, faraway lights?
-
-רַק עַל עַצְמִי לְסַפֵּר יָדַעְתִּי.
-
-צַר עוֹלָמִי כְּעוֹלַם נְמָלָה,
-
-גַּם מַשָּׂאִי עָמַסְתִּי כָּמוֹהָ
-
-רַב וְכָבֵד מִכְּתֵפִי הַדַּלָּה.
-
-גַּם אֶת דַּרְכִּי – כְּדַרְכָּהּ אֶל צַמֶּרֶת –
-
-דֶּרֶך מַכְאוֹב וְדֶרֶךְ עָמָל,
-
-יַד עֲנָקִים זְדוֹנָה וּבוֹטַחַת,
-
-יַד מִתְבַּדַּחַת שָׂמָה לְאַל.
-
-כָּל אָרְחוֹתַי הִלִּיז וְהִדְמִיע
-
-פַּחַד טָמִיר מִיַּד עֲנָקִים.
-
-לָמָּה קְרָאתֶם לִי, חוֹפֵי הַפֶּלֶא?
-
-לָמָּה כְּזַבְתֶּם, אוֹרוֹת רְחוֹקִים?
+> Only my story I know how to tell.  
+> Small is my world like the world of an ant,  
+> like her I carry a burden immense  
+> resting on shoulders too meager and scant.
+>
+> So have my way – as her way to the tree top –  
+> treacherous way of toil long braced,  
+> was by a giant’s hand, wicked and mirthful,  
+> was by a mocking hand laid to waste.
+>
+> All of my efforts wept for and broken  
+> Fear of a giant’s hand had filled my nights.  
+> Why have you called me, you shores of mystique?  
+> Why have you failed me, faraway lights?  
+> רַק עַל עַצְמִי לְסַפֵּר יָדַעְתִּי.  
+> צַר עוֹלָמִי כְּעוֹלַם נְמָלָה,  
+> גַּם מַשָּׂאִי עָמַסְתִּי כָּמוֹהָ  
+> רַב וְכָבֵד מִכְּתֵפִי הַדַּלָּה.
+>
+> גַּם אֶת דַּרְכִּי – כְּדַרְכָּהּ אֶל צַמֶּרֶת –  
+> דֶּרֶך מַכְאוֹב וְדֶרֶךְ עָמָל,  
+> יַד עֲנָקִים זְדוֹנָה וּבוֹטַחַת,  
+> יַד מִתְבַּדַּחַת שָׂמָה לְאַל.
+>
+> כָּל אָרְחוֹתַי הִלִּיז וְהִדְמִיע  
+> פַּחַד טָמִיר מִיַּד עֲנָקִים.  
+> לָמָּה קְרָאתֶם לִי, חוֹפֵי הַפֶּלֶא?  
+> לָמָּה כְּזַבְתֶּם, אוֹרוֹת רְחוֹקִים?
 
 The above poem opens Rachel’s last book, Nevo, the one published after her death. According to the bible, Navo was the mountain on which Moses stood and saw the promised land, the same land he could not enter. Rachel used Nevo as a metaphor for disappointment that is bound to happen in one of her poems, ‘From Across’.
 
@@ -454,41 +363,30 @@ On 16.4.1931 she passed away in a hospital. She was buried in the Kinneret cemet
 
 A hand written page, containing the following poem, was found on the dresser in her room the day of her death. This is the poem that ended ‘Nevo’, as well.
 
-## My Dead
-
-> "The dead alone will not die"
-
-Y.S.K
-
-Just they are left to me, ones who will not fade
-
-Only they alone can flee death’s sharpest blade.
-
-Along the twisting path, at the end of day
-
-silently surround me, walk me on my way.
-
-A bond everlasting, loyal souls entwine
-
-only what I have lost, is forever mine.
-
-## מֵתַי
-
-> “רק המתים לא ימותו”
-
-י.ש.ק.
-
-הֵם בִּלְבַד נוֹתְרוּ לִי, רַק בָּהֶם בִּלְבַד
-
-לֹא יִנְעַץ הַמָּוֶת סַכִּינוֹ הַחַד.
-
-בְּמִפְנֵה הַדֶּרֶךְ, בַּעֲרֹב הַיּוֹם
-
-יַקִּיפוּנִי חֶרֶשׁ, יְלַוּוּנִי דֹם.
-
-בְּרִית אֱמֶת הִיא לָנוּ, קֶשֶׁר לֹא נִפְרָד
-
-רַק אֲשֶׁר אָבַד לִי – קִנְיָנִי לָעַד.
+> My Dead  
+> "The dead alone will not die"  
+> Y.S.K
+>
+> Just they are left to me, ones who will not fade  
+> Only they alone can flee death’s sharpest blade.
+>
+> Along the twisting path, at the end of day  
+> silently surround me, walk me on my way.
+>
+> A bond everlasting, loyal souls entwine  
+> only what I have lost, is forever mine.  
+> מֵתַי  
+> “רק המתים לא ימותו”  
+> י.ש.ק.
+>
+> הֵם בִּלְבַד נוֹתְרוּ לִי, רַק בָּהֶם בִּלְבַד  
+> לֹא יִנְעַץ הַמָּוֶת סַכִּינוֹ הַחַד.
+>
+> בְּמִפְנֵה הַדֶּרֶךְ, בַּעֲרֹב הַיּוֹם  
+> יַקִּיפוּנִי חֶרֶשׁ, יְלַוּוּנִי דֹם.
+>
+> בְּרִית אֱמֶת הִיא לָנוּ, קֶשֶׁר לֹא נִפְרָד  
+> רַק אֲשֶׁר אָבַד לִי – קִנְיָנִי לָעַד.
 
 #
 

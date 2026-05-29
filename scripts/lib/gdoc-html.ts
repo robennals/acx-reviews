@@ -1525,6 +1525,20 @@ export interface CleanupMarkdownOptions {
   // (same point size; Times New Roman is visually smaller). Not safe
   // in general — opt in per slug.
   minorityFontAsBlockquote?: boolean;
+  // Merge runs of consecutive non-empty `<p>` siblings into one
+  // paragraph, treating only empty `<p>` tags as paragraph separators.
+  // Used for docs where the source had hard line-end breaks at each
+  // visual line (so every wrapped line becomes its own `<p>`), and the
+  // author used an empty `<p>` between real paragraphs as the only
+  // intended break. Free Agents / Determined comparative review.
+  joinAdjacentParagraphs?: boolean;
+  // Group runs of consecutive short (≤80 char) non-empty `<p>`
+  // siblings into stanzas: merge each run into one `<p>` with `<br>`
+  // line breaks and wrap in `<blockquote>`. Empty `<p>` tags or any
+  // non-`<p>` element separate stanzas. Used for docs that intersperse
+  // short poetic lines with regular prose paragraphs (Meeting, Hardly
+  // Meeting). Not safe in general — opt in per slug.
+  shortLinesAsPoetryStanzas?: boolean;
 }
 
 /**
@@ -2308,6 +2322,101 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
       el.remove();
     }
   });
+
+  // Join adjacent <p> siblings (per-slug exception). When the source doc
+  // has hard line-end breaks at each visual line (every wrapped line
+  // becomes its own non-empty <p>, with empty <p> tags marking the
+  // intended paragraph breaks), merge consecutive non-empty <p>
+  // siblings into a single paragraph. Only empty <p> tags act as
+  // paragraph separators. Used for docs pasted from a source with hard
+  // line wraps (Free Agents / Determined comparative review).
+  if (options.joinAdjacentParagraphs) {
+    const isEmptyP = (el: ReturnType<typeof $>): boolean => {
+      if (!el.is('p')) return false;
+      if (el.find('img').length) return false;
+      return !el.text().trim();
+    };
+    $('body').each(function () {
+      let child = $(this).children().first();
+      while (child.length) {
+        if (child.is('p') && !isEmptyP(child)) {
+          let next = child.next();
+          while (next.length && next.is('p') && !isEmptyP(next)) {
+            const nextHtml = next.html() || '';
+            const curHtml = child.html() || '';
+            child.html(curHtml + ' ' + nextHtml);
+            const toRemove = next;
+            next = next.next();
+            toRemove.remove();
+          }
+          child = next;
+        } else {
+          child = child.next();
+        }
+      }
+    });
+    // Then absorb any non-empty <p> that immediately follows an <ol> or
+    // <ul> containing a single <li> into that <li>'s content. The list
+    // item's visual wrap continued past the </li></ol> in the source
+    // HTML, so the continuation lines were emitted as separate <p>
+    // siblings instead of being part of the list item.
+    $('body > ol, body > ul').each(function () {
+      const list = $(this);
+      const items = list.children('li');
+      if (items.length !== 1) return;
+      const li = items.first();
+      let next = list.next();
+      while (next.length && next.is('p') && !isEmptyP(next)) {
+        const nextHtml = next.html() || '';
+        const liHtml = li.html() || '';
+        li.html(liHtml + ' ' + nextHtml);
+        const toRemove = next;
+        next = next.next();
+        toRemove.remove();
+      }
+    });
+  }
+
+  // Group consecutive short non-empty <p> siblings into stanzas wrapped
+  // in <blockquote>. Used for docs that intersperse short poetic lines
+  // with regular prose paragraphs (Meeting, Hardly Meeting). Each
+  // stanza becomes one <p> with <br> between lines; empty <p> tags
+  // or any non-<p> element end the stanza.
+  if (options.shortLinesAsPoetryStanzas) {
+    const SHORT_MAX = 80;
+    const MIN_STANZA = 2;
+    const isShortP = (el: ReturnType<typeof $>): boolean => {
+      if (!el.is('p')) return false;
+      if (el.find('img').length) return false;
+      const text = el.text().trim();
+      return text.length > 0 && text.length <= SHORT_MAX;
+    };
+    $('body').each(function () {
+      let stanza: ReturnType<typeof $>[] = [];
+      const finishStanza = () => {
+        if (stanza.length >= MIN_STANZA) {
+          const head = stanza[0];
+          for (let k = 1; k < stanza.length; k++) {
+            head.append('<br>');
+            head.append(stanza[k].contents());
+            stanza[k].remove();
+          }
+          head.wrap('<blockquote></blockquote>');
+        }
+        stanza = [];
+      };
+      const children = $(this).children().toArray();
+      for (const c of children) {
+        const el = $(c);
+        if (isShortP(el)) {
+          stanza.push(el);
+        } else {
+          finishStanza();
+        }
+      }
+      finishStanza();
+    });
+  }
 
   // Apply semantic tags (bold→<strong>, italic→<em>, indent→<blockquote>)
   // before Turndown conversion so it can recognize the formatting.
