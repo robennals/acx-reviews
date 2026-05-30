@@ -71,14 +71,19 @@ function detectFormat(md: string): Format {
   // Bare-digit def forms (only when no bracketed defs exist anywhere):
   //   - `N` on its own line (Nick-Chater style)
   //   - `N content` with the content on the same line (Mother of
-  //     Learning style). Restrict to ≤3-digit numbers to keep
-  //     "1981 was a year of…" body text from being mis-detected.
+  //     Learning style)
+  //   - `N. content` numbered-list form (Application for Release
+  //     from the Dream — defs styled as a markdown ordered list)
+  // Restrict to ≤3-digit numbers to keep "1981 was a year of…" body
+  // text from being mis-detected.
   const isDefStart = hasBracketed
     ? (s: string) => /^\[\d+\][ \t]/.test(s)
     : (s: string) =>
         /^\[\d+\][ \t]/.test(s) ||
         /^\d+[ \t]*$/.test(s) ||
-        /^\d{1,3}[ \t]+\S/.test(s);
+        /^\d{1,3}[ \t]+\S/.test(s) ||
+        /^\d{1,3}\.[ \t]+\S/.test(s) ||
+        /^\(\d{1,3}\)[ \t]+\S/.test(s);
   const defLineIndices: number[] = [];
   for (let k = 0; k < lines.length; k++) {
     if (isDefStart(lines[k])) defLineIndices.push(k);
@@ -464,17 +469,30 @@ function extractPlain(md: string): ExtractedFootnotes {
   // The exclusivity guard matches detectFormat above and prevents bare
   // table-cell values from being mis-detected as footnote defs.
   const hasBracketed = lines.some(l => /^\[\d+\][ \t]/.test(l));
+  let sawParenForm = false;
   const matchDefStart = (s: string): { id: string; inline: string } | null => {
     const m1 = /^\[(\d+)\][ \t](.*)$/.exec(s);
     if (m1) return { id: m1[1], inline: m1[2] };
     if (hasBracketed) return null;
     const m2 = /^(\d+)[ \t]*$/.exec(s);
     if (m2) return { id: m2[1], inline: '' };
+    // `N. content` numbered-list form (Application for Release from
+    // the Dream). Check before the bare-number form so the `.` isn't
+    // captured into the content.
+    const m3 = /^(\d{1,3})\.[ \t]+(\S.*)$/.exec(s);
+    if (m3) return { id: m3[1], inline: m3[2] };
+    // `(N) content` parenthesized form (Meeting, Hardly Meeting).
+    // Check before the bare-number form so the parens aren't captured
+    // into the content. Body refs for this form are also written as
+    // `(N)` in prose; tracked via sawParenForm so we know to rewrite
+    // them downstream.
+    const m5 = /^\((\d{1,3})\)[ \t]+(\S.*)$/.exec(s);
+    if (m5) { sawParenForm = true; return { id: m5[1], inline: m5[2] }; }
     // `N content` form (Mother of Learning). Restrict id to ≤3 digits
     // so body lines like "1981 was a year of…" don't trip the
     // detector (must be paired with the trailing-region walk above).
-    const m3 = /^(\d{1,3})[ \t]+(\S.*)$/.exec(s);
-    if (m3) return { id: m3[1], inline: m3[2] };
+    const m4 = /^(\d{1,3})[ \t]+(\S.*)$/.exec(s);
+    if (m4) return { id: m4[1], inline: m4[2] };
     return null;
   };
   const isDefStart = (s: string) => matchDefStart(s) !== null;
@@ -605,6 +623,22 @@ function extractPlain(md: string): ExtractedFootnotes {
         `(?<!\\d\\.)(?<=[A-Za-z.!?”’")])(${idsRegex})(?=[\\s,;:)]|$)`,
         'g'
       ),
+      (full, id: string) => {
+        if (!defById.has(id)) return full;
+        const first = !seen.has(id);
+        seen.add(id);
+        return REF_MARKER(id, first);
+      }
+    );
+  }
+  // Parenthesized fallback: when the defs themselves were `(N) content`,
+  // body refs are written `(N)` (Meeting, Hardly Meeting). Limited to
+  // IDs that actually have a matching def, so stray parenthesized
+  // numbers in prose ("(1) the first thing") won't be rewritten unless
+  // they happen to collide with a def id.
+  if (seen.size === 0 && sawParenForm) {
+    bodyWithMarkers = bodyWithMarkers.replace(
+      new RegExp(`\\((${idsRegex})\\)`, 'g'),
       (full, id: string) => {
         if (!defById.has(id)) return full;
         const first = !seen.has(id);

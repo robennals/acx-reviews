@@ -297,6 +297,16 @@ interface ReviewException {
   // signal. Used for "Into the Universe of Technical Images".
   // Not safe in general — opt in per slug.
   shortLinesAsBlockquote?: boolean;
+  // Merge runs of consecutive non-empty `<p>` siblings into one
+  // paragraph at the HTML stage. Use for docs whose source had hard
+  // line-end breaks (every visual line becomes its own `<p>`, with
+  // empty `<p>` tags marking the intended paragraph breaks).
+  joinAdjacentParagraphs?: boolean;
+  // Group consecutive short (≤80 char) non-empty `<p>` siblings into
+  // stanzas wrapped in `<blockquote>` at the HTML stage. Use for docs
+  // that intersperse short poetic lines with regular prose paragraphs
+  // (Meeting, Hardly Meeting).
+  shortLinesAsPoetryStanzas?: boolean;
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -1282,6 +1292,14 @@ async function main() {
             : false,
         minorityFontAsBlockquote:
           candidateSlug && reviewExceptions[candidateSlug]?.minorityFontAsBlockquote
+            ? true
+            : false,
+        joinAdjacentParagraphs:
+          candidateSlug && reviewExceptions[candidateSlug]?.joinAdjacentParagraphs
+            ? true
+            : false,
+        shortLinesAsPoetryStanzas:
+          candidateSlug && reviewExceptions[candidateSlug]?.shortLinesAsPoetryStanzas
             ? true
             : false,
       });

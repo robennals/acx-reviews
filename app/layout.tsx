@@ -109,14 +109,6 @@ export default async function RootLayout({
                   </Link>
 
                   <nav className="flex items-center gap-6">
-                    <a
-                      href="https://www.astralcodexten.com"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-sm text-muted-foreground hover:text-foreground transition-colors no-underline"
-                    >
-                      Astral Codex Ten
-                    </a>
                     <UserMenu isAdmin={isAdmin} authAvailable={isAuthConfigured} />
                   </nav>
                 </div>

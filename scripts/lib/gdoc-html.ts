@@ -177,6 +177,16 @@ interface GDocStyleMap {
   // from the body's dominant family — the author's signal for a
   // visually-set-off quote block.
   classFontFamily: Map<string, string>;
+  // Per-class font-size (raw pt value). Paired with classFontFamily
+  // for the minority-font-as-blockquote rule, which treats EITHER a
+  // different family OR a smaller size as the author's signal for a
+  // visually-set-off quote block (Der Untergang uses 10pt vs the 11pt
+  // body in the same Arial family).
+  classFontSize: Map<string, number>;
+  // Dominant body font-size in pt (computed across all spans, weighted
+  // by character count). Used as the baseline for the smaller-font
+  // signal in minority-font-as-blockquote.
+  bodyFontSize: number;
 }
 
 // Threshold check on margins. A paragraph counts as "indented"
@@ -262,9 +272,10 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
   const indentClasses = new Set<string>();
   const classMargins = new Map<string, ClassMargins>();
   const classFontFamily = new Map<string, string>();
+  const classFontSize = new Map<string, number>();
 
   const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
-  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily };
+  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily, classFontSize, bodyFontSize: bodySizeHint ?? 11 };
 
   const styleText = styleMatch[1];
 
@@ -326,8 +337,12 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
       italicClasses.add(cls);
     }
     const fontSizeMatch = props.match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
-    if (fontSizeMatch && parseFloat(fontSizeMatch[1]) >= largeFloor) {
-      largeFontClasses.add(cls);
+    if (fontSizeMatch) {
+      const fs = parseFloat(fontSizeMatch[1]);
+      classFontSize.set(cls, fs);
+      if (fs >= largeFloor) {
+        largeFontClasses.add(cls);
+      }
     }
     if (/text-decoration\s*:\s*underline/.test(props)) {
       underlineClasses.add(cls);
@@ -360,7 +375,7 @@ function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
     }
   }
 
-  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily };
+  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily, classFontSize, bodyFontSize: bodySize };
 }
 
 // True if every substantive (non-empty) span in the paragraph carries an
@@ -1510,6 +1525,20 @@ export interface CleanupMarkdownOptions {
   // (same point size; Times New Roman is visually smaller). Not safe
   // in general — opt in per slug.
   minorityFontAsBlockquote?: boolean;
+  // Merge runs of consecutive non-empty `<p>` siblings into one
+  // paragraph, treating only empty `<p>` tags as paragraph separators.
+  // Used for docs where the source had hard line-end breaks at each
+  // visual line (so every wrapped line becomes its own `<p>`), and the
+  // author used an empty `<p>` between real paragraphs as the only
+  // intended break. Free Agents / Determined comparative review.
+  joinAdjacentParagraphs?: boolean;
+  // Group runs of consecutive short (≤80 char) non-empty `<p>`
+  // siblings into stanzas: merge each run into one `<p>` with `<br>`
+  // line breaks and wrap in `<blockquote>`. Empty `<p>` tags or any
+  // non-`<p>` element separate stanzas. Used for docs that intersperse
+  // short poetic lines with regular prose paragraphs (Meeting, Hardly
+  // Meeting). Not safe in general — opt in per slug.
+  shortLinesAsPoetryStanzas?: boolean;
 }
 
 /**
@@ -2294,6 +2323,101 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
     }
   });
 
+  // Join adjacent <p> siblings (per-slug exception). When the source doc
+  // has hard line-end breaks at each visual line (every wrapped line
+  // becomes its own non-empty <p>, with empty <p> tags marking the
+  // intended paragraph breaks), merge consecutive non-empty <p>
+  // siblings into a single paragraph. Only empty <p> tags act as
+  // paragraph separators. Used for docs pasted from a source with hard
+  // line wraps (Free Agents / Determined comparative review).
+  if (options.joinAdjacentParagraphs) {
+    const isEmptyP = (el: ReturnType<typeof $>): boolean => {
+      if (!el.is('p')) return false;
+      if (el.find('img').length) return false;
+      return !el.text().trim();
+    };
+    $('body').each(function () {
+      let child = $(this).children().first();
+      while (child.length) {
+        if (child.is('p') && !isEmptyP(child)) {
+          let next = child.next();
+          while (next.length && next.is('p') && !isEmptyP(next)) {
+            const nextHtml = next.html() || '';
+            const curHtml = child.html() || '';
+            child.html(curHtml + ' ' + nextHtml);
+            const toRemove = next;
+            next = next.next();
+            toRemove.remove();
+          }
+          child = next;
+        } else {
+          child = child.next();
+        }
+      }
+    });
+    // Then absorb any non-empty <p> that immediately follows an <ol> or
+    // <ul> containing a single <li> into that <li>'s content. The list
+    // item's visual wrap continued past the </li></ol> in the source
+    // HTML, so the continuation lines were emitted as separate <p>
+    // siblings instead of being part of the list item.
+    $('body > ol, body > ul').each(function () {
+      const list = $(this);
+      const items = list.children('li');
+      if (items.length !== 1) return;
+      const li = items.first();
+      let next = list.next();
+      while (next.length && next.is('p') && !isEmptyP(next)) {
+        const nextHtml = next.html() || '';
+        const liHtml = li.html() || '';
+        li.html(liHtml + ' ' + nextHtml);
+        const toRemove = next;
+        next = next.next();
+        toRemove.remove();
+      }
+    });
+  }
+
+  // Group consecutive short non-empty <p> siblings into stanzas wrapped
+  // in <blockquote>. Used for docs that intersperse short poetic lines
+  // with regular prose paragraphs (Meeting, Hardly Meeting). Each
+  // stanza becomes one <p> with <br> between lines; empty <p> tags
+  // or any non-<p> element end the stanza.
+  if (options.shortLinesAsPoetryStanzas) {
+    const SHORT_MAX = 80;
+    const MIN_STANZA = 2;
+    const isShortP = (el: ReturnType<typeof $>): boolean => {
+      if (!el.is('p')) return false;
+      if (el.find('img').length) return false;
+      const text = el.text().trim();
+      return text.length > 0 && text.length <= SHORT_MAX;
+    };
+    $('body').each(function () {
+      let stanza: ReturnType<typeof $>[] = [];
+      const finishStanza = () => {
+        if (stanza.length >= MIN_STANZA) {
+          const head = stanza[0];
+          for (let k = 1; k < stanza.length; k++) {
+            head.append('<br>');
+            head.append(stanza[k].contents());
+            stanza[k].remove();
+          }
+          head.wrap('<blockquote></blockquote>');
+        }
+        stanza = [];
+      };
+      const children = $(this).children().toArray();
+      for (const c of children) {
+        const el = $(c);
+        if (isShortP(el)) {
+          stanza.push(el);
+        } else {
+          finishStanza();
+        }
+      }
+      finishStanza();
+    });
+  }
+
   // Apply semantic tags (bold→<strong>, italic→<em>, indent→<blockquote>)
   // before Turndown conversion so it can recognize the formatting.
   applySemanticTags($, styles);
@@ -2344,13 +2468,14 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
   // Minority-font-as-blockquote pass (per-slug exception). Detect the
   // dominant font-family among substantive spans, then group runs of
   // consecutive `<p>` siblings whose spans all use a non-dominant font
-  // into stanzas (with empty `<p>` separators marking stanza breaks).
-  // Merge each stanza into one `<p>` with `<br>` between lines and
-  // wrap in `<blockquote>`. Same shape as a poetry stanza — each
-  // stanza becomes a tight multi-line blockquote, stanzas separated
-  // by `>` blank lines downstream. Used for Tortilla Flat (Steinbeck
-  // and Dana excerpts in Times New Roman vs. Arial body).
-  if (options.minorityFontAsBlockquote && styles.classFontFamily.size > 1) {
+  // (different family OR smaller size than the body) into stanzas
+  // (with empty `<p>` separators marking stanza breaks). Merge each
+  // stanza into one `<p>` with `<br>` between lines and wrap in
+  // `<blockquote>`. Same shape as a poetry stanza — each stanza
+  // becomes a tight multi-line blockquote, stanzas separated by `>`
+  // blank lines downstream. Used for Tortilla Flat (Times New Roman
+  // vs. Arial body) and Der Untergang (10pt vs. 11pt body).
+  if (options.minorityFontAsBlockquote) {
     // Count substantive characters per font-family across all spans.
     const familyChars = new Map<string, number>();
     $('span').each(function () {
@@ -2374,7 +2499,26 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
         dominantChars = chars;
       }
     }
-    if (dominantFamily) {
+    const bodySize = styles.bodyFontSize;
+    const spanSize = (s: any): number | undefined => {
+      const classes = ($(s).attr('class') || '').split(/\s+/);
+      let size: number | undefined;
+      for (const c of classes) {
+        const v = styles.classFontSize.get(c);
+        if (v !== undefined) size = v;
+      }
+      return size;
+    };
+    const spanFamily = (s: any): string | undefined => {
+      const classes = ($(s).attr('class') || '').split(/\s+/);
+      let family: string | undefined;
+      for (const c of classes) {
+        const f = styles.classFontFamily.get(c);
+        if (f) family = f;
+      }
+      return family;
+    };
+    {
       const isMinorityFontParagraph = (el: ReturnType<typeof $>): boolean => {
         const spans = el.find('span').toArray();
         if (spans.length === 0) return false;
@@ -2383,13 +2527,14 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
           const t = $(s).text();
           if (!t.trim()) continue;
           sawSubstantive = true;
-          const classes = ($(s).attr('class') || '').split(/\s+/);
-          let family: string | undefined;
-          for (const c of classes) {
-            const f = styles.classFontFamily.get(c);
-            if (f) family = f;
-          }
-          if (!family || family === dominantFamily) return false;
+          const family = spanFamily(s);
+          const size = spanSize(s);
+          // Minority signal: family differs from dominant, OR size is
+          // strictly smaller than the body's dominant size. Either
+          // alone is the author's "this is a quote" cue.
+          const familyDiffers = !!dominantFamily && !!family && family !== dominantFamily;
+          const sizeSmaller = size !== undefined && size < bodySize;
+          if (!familyDiffers && !sizeSmaller) return false;
         }
         return sawSubstantive;
       };
