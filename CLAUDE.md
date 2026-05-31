@@ -43,10 +43,16 @@ pnpm db:studio        # Open Drizzle Studio
 - **Auth.js v5** with two providers: Google OAuth and a custom Credentials
   provider (`id: 'pin'`) backed by an `email_pins` table. Sessions are JWT.
 - **Voting** is approval-style: one row per `(user, contest, review)`. The
-  active voting period is configured via env vars (`VOTING_CONTEST_YEAR`,
-  `VOTING_CONTEST_TITLE`, `VOTING_START`, `VOTING_END`); when any are
-  missing or invalid, voting is disabled everywhere. Vote button only renders
-  when the period is open AND the review's year matches `VOTING_CONTEST_YEAR`.
+  active voting period (year, title, start/end) is defined in the committed
+  `data/voting-config.json` (read by `getVotingConfig()` in
+  `lib/server/voting-config.ts`); when missing or invalid, voting is disabled.
+  The contest is gated behind an admin **launch switch** — a `contest_live`
+  boolean in the `site_flags` table, flipped from `/admin`. Until it's live,
+  the contest's reviews are hidden from listings/sitemap and voting is off;
+  `getEffectiveVotingConfig()` (`lib/server/contest-status.ts`) returns the
+  config only when live. The vote button renders only when the period is open
+  AND the review's year matches the active contest. `/preview-2026` renders
+  the launched view regardless of the flag for pre-launch testing.
 - **Admin gating** is by env: `ADMIN_EMAILS=a@x.com,b@y.com`. `/admin` shows
   vote tallies per contest.
 - **Reading progress sync**: only `in_progress | finished` is written to the

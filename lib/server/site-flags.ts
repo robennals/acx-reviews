@@ -34,6 +34,7 @@ export const getContestLive = unstable_cache(readContestLive, ['site-flags'], {
 
 /** Upsert the singleton flag row. Admin-only callers. */
 export async function setContestLive(value: boolean): Promise<void> {
+  if (!isDbConfigured) throw new Error('DB not configured — cannot set site flags');
   await db
     .insert(siteFlags)
     .values({ id: SINGLETON_ID, contestLive: value, updatedAt: new Date() })
