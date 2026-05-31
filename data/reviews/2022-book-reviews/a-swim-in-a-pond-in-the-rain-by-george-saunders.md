@@ -9,10 +9,12 @@ publishedDate: '2026-02-06T07:24:08.688Z'
 slug: a-swim-in-a-pond-in-the-rain-by-george-saunders
 wordCount: 1520
 readingTimeMinutes: 7
-originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Fiction
+  - Philosophy
 ---
 
 Shit. What a story!

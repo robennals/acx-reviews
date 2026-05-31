@@ -4,7 +4,9 @@ import { auth } from '@/auth';
 import { isAdminEmail } from '@/lib/admin';
 import { db } from '@/lib/db/client';
 import { getAllContests, getReviewsByContest } from '@/lib/reviews';
-import { getVotingConfig } from '@/lib/voting-period';
+import { getVotingConfig } from '@/lib/server/voting-config';
+import { getContestLive } from '@/lib/server/site-flags';
+import { LaunchToggle } from '@/components/admin/launch-toggle';
 import { getPaginatedRatings, ADMIN_PAGE_SIZE } from '@/lib/api/admin-logic';
 import { tierOf, LIKERT_LABELS } from '@/lib/voting/likert';
 
@@ -27,6 +29,7 @@ export default async function AdminPage({ searchParams }: PageProps) {
   const { contest: contestParam, page: pageParam } = await searchParams;
   const contests = await getAllContests();
   const config = getVotingConfig();
+  const contestLive = await getContestLive();
   const defaultContestId =
     contestParam ??
     contests.find((c) => config && c.year === config.contestYear)?.id ??
@@ -63,6 +66,10 @@ export default async function AdminPage({ searchParams }: PageProps) {
           Visible only to admins. Most-recent rating activity first.
         </p>
       </header>
+
+      <div className="mb-6">
+        <LaunchToggle initialLive={contestLive} contestTitle={config?.contestTitle ?? null} />
+      </div>
 
       <div className="mb-4 flex flex-wrap items-center gap-3 justify-between">
         <div className="flex flex-wrap gap-2">

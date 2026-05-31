@@ -48,25 +48,14 @@ export function isReviewVotable(
   return isVotingOpen(config, now) && config!.contestYear === reviewYear;
 }
 
-let cached: { value: VotingConfig | null; envSnapshot: string } | null = null;
-function envSnapshot(): string {
-  return [
-    process.env.VOTING_CONTEST_YEAR ?? '',
-    process.env.VOTING_CONTEST_TITLE ?? '',
-    process.env.VOTING_START ?? '',
-    process.env.VOTING_END ?? '',
-  ].join('');
+/**
+ * The contest config the rest of the app should act on: the configured
+ * contest only counts as active once an admin has flipped it live.
+ */
+export function effectiveVotingConfig(
+  config: VotingConfig | null,
+  live: boolean
+): VotingConfig | null {
+  return live ? config : null;
 }
 
-export function getVotingConfig(): VotingConfig | null {
-  const snap = envSnapshot();
-  if (cached && cached.envSnapshot === snap) return cached.value;
-  const value = parseVotingConfig({
-    VOTING_CONTEST_YEAR: process.env.VOTING_CONTEST_YEAR,
-    VOTING_CONTEST_TITLE: process.env.VOTING_CONTEST_TITLE,
-    VOTING_START: process.env.VOTING_START,
-    VOTING_END: process.env.VOTING_END,
-  });
-  cached = { value, envSnapshot: snap };
-  return value;
-}

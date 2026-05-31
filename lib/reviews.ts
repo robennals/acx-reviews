@@ -46,8 +46,10 @@ export async function getReviewBySlug(
 
   try {
     const fileContents = fs.readFileSync(filePath, 'utf8');
-    const { content } = parseMarkdown(fileContents);
-    const { html: contentHtml, footnotes } = await markdownToHtml(content);
+    const { content, frontmatter } = parseMarkdown(fileContents);
+    const { html: contentHtml, footnotes } = await markdownToHtml(content, {
+      disableFootnotes: frontmatter?.disableFootnotes === true,
+    });
 
     return {
       ...review,
@@ -123,20 +125,4 @@ export async function getAllYears(): Promise<number[]> {
   const contests = await getAllContests();
   const years = contests.map(c => c.year);
   return Array.from(new Set(years)).sort((a, b) => b - a);
-}
-
-/**
- * Get all unique tags sorted alphabetically
- */
-export async function getAllTags(): Promise<string[]> {
-  const reviews = await getAllReviews();
-  const tags = new Set<string>();
-  for (const review of reviews) {
-    if (review.tags) {
-      for (const tag of review.tags) {
-        tags.add(tag);
-      }
-    }
-  }
-  return Array.from(tags).sort();
 }

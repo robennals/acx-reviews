@@ -1,1 +1,104 @@
-{}
+{
+  "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
+    "truncateAtLineContaining": "not for publication"
+  },
+  "the-sins-of-gk-chesterton": {
+    "dropBlock": {
+      "from": "Contents",
+      "to": "V - A defense of"
+    },
+    "forcePoetryQuotes": true
+  },
+  "aesopian-language-in-russian-literature": {
+    "dropLeadingContentLines": 2
+  },
+  "summa-technologiae": {
+    "disableBlockquotes": true
+  },
+  "the-pillow-book": {
+    "preserveLeadingHeading": true
+  },
+  "the-epic-of-gilgamesh": {
+    "forcePoetryQuotes": true
+  },
+  "orality-and-literacy-by-walter-ong": {
+    "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
+    "insertBlankAfter": "^\\*\\*Changes\\*\\*:"
+  },
+  "chuang-tzu-the-inner-chapters-by-a-c-graham": {
+    "forcePoetryQuotes": true
+  },
+  "the-merry-wives-of-windsor": {
+    "removeBlanksBeforeMatching": "^>\\s*\\(Act "
+  },
+  "capitalist-realism": {
+    "disableItalicAsBlockquote": true,
+    "dropLeadingContentLines": 1
+  },
+  "tortilla-flat-by-john-steinbeck": {
+    "minorityFontAsBlockquote": true
+  },
+  "der-untergang-des-abendlandes": {
+    "disableItalicAsBlockquote": true,
+    "minorityFontAsBlockquote": true,
+    "dropLeadingContentLines": 1
+  },
+  "coriolanus": {
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true
+  },
+  "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
+    "docUrlOverride": "https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI/edit",
+    "joinAdjacentParagraphs": true
+  },
+  "plutarchs-parallel-lives-tiberius-and-gaius-gracchi": {
+    "allowBoldHeadingWithPunct": true
+  },
+  "the-ghost-in-my-brain": {
+    "disableItalicAsBlockquote": true
+  },
+  "time-gifts": {
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true
+  },
+  "siddhartha-1922-by-hermann-hesse": {
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true
+  },
+  "how-i-killed-pluto-and-why-it-had-it-coming": {
+    "disableFootnotes": true
+  },
+  "the-radicalism-of-the-american-revolution": {
+    "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
+  },
+  "the-rule-of-law": {
+    "numberedListAsBullets": true
+  },
+  "the-master-margarita": {
+    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit"
+  },
+  "mistletoe-and-memorandums-by-claude": {
+    "quoteAfterListIsContinuation": true
+  },
+  "plotting-your-fantasy-novel": {
+    "bulletsAfterQuoteAreQuoted": true
+  },
+  "planecrash-es-yudwkosky": {
+    "disableQuotedParagraphAsBlockquote": true
+  },
+  "into-the-universe-of-technical-images": {
+    "shortLinesAsBlockquote": true
+  },
+  "meeting-hardly-meeting": {
+    "shortLinesAsPoetryStanzas": true
+  },
+  "antonio-damasios-feeling-knowing-making-minds-conscious": {
+    "dropBeforeLineContaining": "I have always been fascinated"
+  },
+  "probability-theory-the-logic-of-science": {
+    "imageReplacements": {
+      "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",
+      "5374534c3e17ded8": "$$\\left(\\frac{M}{N}\\right)^r$$"
+    }
+  }
+}

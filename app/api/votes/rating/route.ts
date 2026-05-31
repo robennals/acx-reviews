@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { auth } from '@/auth';
 import { db } from '@/lib/db/client';
-import { getVotingConfig } from '@/lib/voting-period';
+import { getEffectiveVotingConfig } from '@/lib/server/contest-status';
 import { getReviewsByContest } from '@/lib/reviews';
 import { setRating, clearRating } from '@/lib/api/votes-logic';
 
@@ -43,7 +43,7 @@ export async function PUT(req: Request) {
     reviewId: body.reviewId,
     rating: body.rating,
     contestReviews: reviews.map((r) => ({ id: r.id, year: r.year, contestId: r.contestId })),
-    config: getVotingConfig(),
+    config: await getEffectiveVotingConfig(),
   });
 
   if (!result.ok) {
@@ -78,7 +78,7 @@ export async function DELETE(req: Request) {
     contestId,
     reviewId,
     contestReviews: reviews.map((r) => ({ id: r.id, year: r.year, contestId: r.contestId })),
-    config: getVotingConfig(),
+    config: await getEffectiveVotingConfig(),
   });
 
   if (!result.ok) {

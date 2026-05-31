@@ -194,6 +194,81 @@ test('plain: detects bracketed defs even when the last def is multi-paragraph (A
   assert.ok(result.footnotes[1].raw.includes('blockquote line'), `fn 2 should include the blockquote; got: ${result.footnotes[1].raw}`);
 });
 
+test('plain: handles "N. content" numbered-list footnote-def lines (Application-for-Release-style)', () => {
+  // Footnote defs styled as a markdown ordered list under a Footnotes
+  // heading. Body refs are bracketed `[N]`.
+  const input = [
+    'Body text with a ref[1] and another[2].',
+    '',
+    '# Footnotes',
+    '',
+    '1. First footnote content.',
+    '2. Second footnote content here.',
+    '3. Third footnote, mentioned only here.',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 3,
+    `expected 3 footnotes; got ${r.footnotes.length}: ${JSON.stringify(r.footnotes.map(f => f.id))}`);
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '3']);
+  assert.ok(r.body.includes('data-fn-id="1"'), `body should have fn-1 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="2"'), `body should have fn-2 ref; got: ${r.body}`);
+});
+
+test('plain: handles "(N) content" parenthesized footnote-def lines (Meeting-Hardly-Meeting-style)', () => {
+  // Footnote defs at the bottom are `(N) content` lines; body refs are
+  // also `(N)` parenthesized numbers. Rewrite both ends only when the
+  // ID has a matching def, so stray parenthesized prose numerals don't
+  // trip the detector.
+  const input = [
+    'Body text with a ref (1) and another (2).',
+    '',
+    'Another paragraph (3).',
+    '',
+    '(1) First footnote content.',
+    '',
+    '(2) Second footnote content here.',
+    '',
+    '(3) Third footnote content here.',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 3,
+    `expected 3 footnotes; got ${r.footnotes.length}: ${JSON.stringify(r.footnotes.map(f => f.id))}`);
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '3']);
+  assert.ok(r.footnotes[0].raw.includes('First footnote content'), `fn1 content; got: ${r.footnotes[0].raw}`);
+  assert.ok(r.body.includes('data-fn-id="1"'), `body should have fn-1 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="2"'), `body should have fn-2 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="3"'), `body should have fn-3 ref; got: ${r.body}`);
+});
+
+test('plain: handles bare-number + space + content footnote-def lines (Mother-of-Learning-style)', () => {
+  // Real example: footnote defs are `N content` on a single line — bare
+  // digit, space, then the footnote text. Inline refs in the body are
+  // also bare digits adjacent to a sentence-ending character.
+  const input = [
+    'Body text ending in a citation.1  Continues with more text.2',
+    '',
+    'Another paragraph with a ref.3',
+    '',
+    '## Footnotes',
+    '',
+    '1 First footnote content.',
+    '',
+    '2 Second footnote content here.',
+    '',
+    '3 Third footnote content here.',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 3,
+    `expected 3 footnotes; got ${r.footnotes.length}: ${JSON.stringify(r.footnotes.map(f => f.id))}`);
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '3']);
+  assert.ok(r.footnotes[0].raw.includes('First footnote content'), `fn1 content; got: ${r.footnotes[0].raw}`);
+  // Body refs should be rewritten to <sup>.
+  assert.ok(r.body.includes('data-fn-id="1"'), `body should have fn-1 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="2"'), `body should have fn-2 ref; got: ${r.body}`);
+  assert.ok(r.body.includes('data-fn-id="3"'), `body should have fn-3 ref; got: ${r.body}`);
+});
+
 test('plain: handles bare-number footnote-def lines (Nick-Chater-style)', () => {
   // Real example from "The Mind is Flat": the author put each footnote
   // number on its own line, followed by content paragraphs, instead of
@@ -513,6 +588,32 @@ test('plain: bare-digit fallback catches mid-sentence refs (letter + digit)', ()
   assert.equal(r.footnotes.length, 2);
   assert.ok(r.body.includes('data-fn-id="1"'));
   assert.ok(r.body.includes('data-fn-id="3"'));
+});
+
+test('pandoc: extracts all defs even when an un-indented blockquote sits between them', () => {
+  // Real example from "Brook Farm: The Dark Side of Utopia": footnote 6's
+  // content includes a quoted blockquote that the author typed at column 0
+  // (not indented under the footnote). The extractor must NOT stop scanning
+  // for subsequent [^N]: defs just because it sees a column-0 non-def line
+  // — that would drop footnotes 7 and 8 entirely.
+  const input = [
+    'Body text with refs [^1] and [^2] and [^3].',
+    '',
+    '[^1]: First footnote.',
+    '',
+    '[^2]: Second footnote, ends with: writes:',
+    '',
+    '> Quoted continuation typed at column 0 (not indented).',
+    '',
+    '[^3]: Third footnote that should still be extracted.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+
+  assert.equal(r.footnotes.length, 3,
+    `expected 3 footnotes; got ${r.footnotes.length}: ${JSON.stringify(r.footnotes.map(f => f.id))}`);
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '3']);
 });
 
 test('plain: bare-digit fallback skips version numbers like 2.0.1', () => {

@@ -1,5 +1,14 @@
 [
   {
+    "id": "2026-book-reviews",
+    "name": "2026 Book Reviews",
+    "year": 2026,
+    "type": "book",
+    "description": "Book review contest entries from 2026",
+    "reviewCount": 162,
+    "sourceType": "gdoc"
+  },
+  {
     "id": "2025-non-book-reviews",
     "name": "2025 Non-Book Reviews",
     "year": 2025,
