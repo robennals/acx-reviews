@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { redirect } from 'next/navigation';
 import { auth } from '@/auth';
 import { isVotingOpen } from '@/lib/voting-period';
-import { getVotingConfig } from '@/lib/server/voting-config';
+import { getEffectiveVotingConfig } from '@/lib/server/contest-status';
 import { getAllContests, getReviewsByContest } from '@/lib/reviews';
 import { MyVotesClient } from '@/components/my-votes-client';
 
@@ -14,7 +14,7 @@ export default async function MyRatingsPage() {
   const userId = (session?.user as { id?: string } | undefined)?.id;
   if (!userId) redirect('/');
 
-  const config = getVotingConfig();
+  const config = await getEffectiveVotingConfig();
   const now = new Date();
   const open = config !== null && isVotingOpen(config, now);
 

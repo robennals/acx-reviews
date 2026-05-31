@@ -3,7 +3,7 @@ import { and, eq } from 'drizzle-orm';
 import { auth } from '@/auth';
 import { db, isDbConfigured } from '@/lib/db/client';
 import { votes } from '@/lib/db/schema';
-import { getVotingConfig } from '@/lib/server/voting-config';
+import { getEffectiveVotingConfig } from '@/lib/server/contest-status';
 import { getAllContests } from '@/lib/reviews';
 
 export interface InitialVotesState {
@@ -17,7 +17,7 @@ export interface InitialVotesState {
 }
 
 export async function loadInitialVotes(): Promise<InitialVotesState> {
-  const config = getVotingConfig();
+  const config = await getEffectiveVotingConfig();
   const contests = await getAllContests();
   const activeContest = config
     ? contests.find((c) => c.year === config.contestYear)
