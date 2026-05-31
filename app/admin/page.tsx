@@ -4,7 +4,7 @@ import { auth } from '@/auth';
 import { isAdminEmail } from '@/lib/admin';
 import { db } from '@/lib/db/client';
 import { getAllContests, getReviewsByContest } from '@/lib/reviews';
-import { getVotingConfig } from '@/lib/voting-period';
+import { getVotingConfig } from '@/lib/server/voting-config';
 import { getPaginatedRatings, ADMIN_PAGE_SIZE } from '@/lib/api/admin-logic';
 import { tierOf, LIKERT_LABELS } from '@/lib/voting/likert';
 

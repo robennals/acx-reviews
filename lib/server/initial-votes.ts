@@ -3,7 +3,7 @@ import { and, eq } from 'drizzle-orm';
 import { auth } from '@/auth';
 import { db, isDbConfigured } from '@/lib/db/client';
 import { votes } from '@/lib/db/schema';
-import { getVotingConfig } from '@/lib/voting-period';
+import { getVotingConfig } from '@/lib/server/voting-config';
 import { getAllContests } from '@/lib/reviews';
 
 export interface InitialVotesState {

@@ -2,7 +2,8 @@ import 'server-only';
 import Link from 'next/link';
 import { redirect } from 'next/navigation';
 import { auth } from '@/auth';
-import { getVotingConfig, isVotingOpen } from '@/lib/voting-period';
+import { isVotingOpen } from '@/lib/voting-period';
+import { getVotingConfig } from '@/lib/server/voting-config';
 import { getAllContests, getReviewsByContest } from '@/lib/reviews';
 import { MyVotesClient } from '@/components/my-votes-client';
 

@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { auth } from '@/auth';
 import { db } from '@/lib/db/client';
-import { getVotingConfig } from '@/lib/voting-period';
+import { getVotingConfig } from '@/lib/server/voting-config';
 import { getReviewsByContest } from '@/lib/reviews';
 import { setRating, clearRating } from '@/lib/api/votes-logic';
 
