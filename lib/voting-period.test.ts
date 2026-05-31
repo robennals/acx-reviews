@@ -4,6 +4,7 @@ import {
   parseVotingConfig,
   isVotingOpen,
   isReviewVotable,
+  effectiveVotingConfig,
 } from './voting-period';
 
 const fullEnv = {
@@ -66,4 +67,12 @@ test('isReviewVotable requires both open and matching year', () => {
   assert.equal(isReviewVotable(c, 2024, inWindow), false);
   assert.equal(isReviewVotable(c, 2025, outOfWindow), false);
   assert.equal(isReviewVotable(null, 2025, inWindow), false);
+});
+
+test('effectiveVotingConfig returns config only when live', () => {
+  const c = parseVotingConfig(fullEnv)!;
+  assert.equal(effectiveVotingConfig(c, true), c);
+  assert.equal(effectiveVotingConfig(c, false), null);
+  assert.equal(effectiveVotingConfig(null, true), null);
+  assert.equal(effectiveVotingConfig(null, false), null);
 });

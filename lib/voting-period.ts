@@ -48,3 +48,14 @@ export function isReviewVotable(
   return isVotingOpen(config, now) && config!.contestYear === reviewYear;
 }
 
+/**
+ * The contest config the rest of the app should act on: the configured
+ * contest only counts as active once an admin has flipped it live.
+ */
+export function effectiveVotingConfig(
+  config: VotingConfig | null,
+  live: boolean
+): VotingConfig | null {
+  return live ? config : null;
+}
+
