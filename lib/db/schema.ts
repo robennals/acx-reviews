@@ -114,3 +114,12 @@ export const favorites = sqliteTable(
   },
   (t) => [primaryKey({ columns: [t.userId, t.reviewId] })]
 );
+
+// Singleton row of admin-controlled site flags. Always id = 'singleton'.
+export const siteFlags = sqliteTable('site_flags', {
+  id: text('id').primaryKey(),
+  contestLive: integer('contest_live', { mode: 'boolean' }).notNull().default(false),
+  updatedAt: integer('updated_at', { mode: 'timestamp_ms' })
+    .notNull()
+    .default(sql`(unixepoch() * 1000)`),
+});
