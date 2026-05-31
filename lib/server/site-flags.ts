@@ -8,6 +8,10 @@ export const SITE_FLAGS_TAG = 'site-flags';
 const SINGLETON_ID = 'singleton';
 
 async function readContestLive(): Promise<boolean> {
+  // Private-preview override: a deploy can hard-code the contest as live
+  // (e.g. the shared preview alias via deploy-preview.sh) without flipping
+  // the shared production DB flag. Never set in production.
+  if (process.env.PREVIEW_CONTEST_LIVE === 'true') return true;
   if (!isDbConfigured) return false;
   try {
     const rows = await db

@@ -4,25 +4,10 @@ import Link from 'next/link';
 import { useSession } from 'next-auth/react';
 import { useVotesContext } from '@/context/votes-context';
 
-export function VotingBanner({
-  year,
-  override,
-}: {
-  year?: number;
-  override?: {
-    contestYear: number;
-    contestTitle: string;
-    votingStart: string;
-    votingEnd: string;
-  };
-}) {
+export function VotingBanner({ year }: { year?: number }) {
   const { status } = useSession();
-  const ctx = useVotesContext();
-  const contestYear = override ? override.contestYear : ctx.contestYear;
-  const contestTitle = override ? override.contestTitle : ctx.contestTitle;
-  const votingStart = override ? new Date(override.votingStart) : ctx.votingStart;
-  const votingEnd = override ? new Date(override.votingEnd) : ctx.votingEnd;
-  const ratings = ctx.ratings;
+  const { contestYear, contestTitle, votingStart, votingEnd, ratings } =
+    useVotesContext();
   if (contestYear === null) return null;
   if (year !== undefined && contestYear !== year) return null;
   const now = Date.now();

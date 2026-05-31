@@ -51,8 +51,10 @@ pnpm db:studio        # Open Drizzle Studio
   the contest's reviews are hidden from listings/sitemap and voting is off;
   `getEffectiveVotingConfig()` (`lib/server/contest-status.ts`) returns the
   config only when live. The vote button renders only when the period is open
-  AND the review's year matches the active contest. `/preview-2026` renders
-  the launched view regardless of the flag for pre-launch testing.
+  AND the review's year matches the active contest. For pre-launch testing,
+  setting `PREVIEW_CONTEST_LIVE=true` on a deploy hard-codes the contest as
+  live for that deploy only (used by `deploy-preview.sh` for the private
+  shared preview alias) — without touching the shared production flag.
 - **Admin gating** is by env: `ADMIN_EMAILS=a@x.com,b@y.com`. `/admin` shows
   vote tallies per contest.
 - **Reading progress sync**: only `in_progress | finished` is written to the
