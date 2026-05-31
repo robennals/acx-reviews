@@ -70,7 +70,7 @@ The novel has two fixed points:
 
 **The setting**--an experience that will absolutely not admit interpretation or meaning
 
-**The plot--**designed to pull all the little levers in our ape brains that tell us: oh, exciting!  
+**The plot** --designed to pull all the little levers in our ape brains that tell us: oh, exciting!  
 
 
 This is a metaphor for the modern world.
