@@ -8,7 +8,7 @@ export interface ExtractedFootnotes {
   footnotes: ExtractedFootnote[];
 }
 
-type Format = 'sdfootnote' | 'ftnt' | 'fn' | 'plain' | 'none';
+type Format = 'sdfootnote' | 'ftnt' | 'fn' | 'pandoc' | 'plain' | 'bracket-colon' | 'none';
 
 const REF_MARKER = (id: string, first: boolean) =>
   first
@@ -40,6 +40,19 @@ function detectFormat(md: string): Format {
     return 'ftnt';
   }
   if (/\[\d+\]\(https?:\/\/[^)]*#fn:[^)]+\)/.test(md)) return 'fn';
+  // Pandoc / extended-markdown footnotes: `[^id]` for refs in body and
+  // `[^id]: text` definitions at line start. Require BOTH to confirm —
+  // a stray `[^id]` in code or prose isn't enough to claim the doc.
+  if (/\[\^[^\]\s]+\]/.test(md) && /^\[\^[^\]\s]+\]:[ \t]/m.test(md)) {
+    return 'pandoc';
+  }
+  // Bracket-colon: `[N: ...content... ]` defs, with body refs as plain
+  // `[N]`. Used by "Money by Martin Amis". Require 2+ definition lines
+  // so a stray editorial bracket like `[Edit: ...]` doesn't claim the
+  // doc on its own.
+  if ((md.match(/^[ \t]*\[\d+(?:\.\d+)?:[ \t]/gm) || []).length >= 2) {
+    return 'bracket-colon';
+  }
   // Plain: there's a trailing footnotes section ending at EOF. A
   // def-start is either `[N] content` (bracketed inline form) OR — if
   // the doc has NO bracketed defs at all — a bare `N` on its own line
@@ -55,9 +68,22 @@ function detectFormat(md: string): Format {
   // in that walk, this is plain format.
   const lines = md.split('\n');
   const hasBracketed = lines.some(l => /^\[\d+\][ \t]/.test(l));
+  // Bare-digit def forms (only when no bracketed defs exist anywhere):
+  //   - `N` on its own line (Nick-Chater style)
+  //   - `N content` with the content on the same line (Mother of
+  //     Learning style)
+  //   - `N. content` numbered-list form (Application for Release
+  //     from the Dream — defs styled as a markdown ordered list)
+  // Restrict to ≤3-digit numbers to keep "1981 was a year of…" body
+  // text from being mis-detected.
   const isDefStart = hasBracketed
     ? (s: string) => /^\[\d+\][ \t]/.test(s)
-    : (s: string) => /^\[\d+\][ \t]/.test(s) || /^\d+[ \t]*$/.test(s);
+    : (s: string) =>
+        /^\[\d+\][ \t]/.test(s) ||
+        /^\d+[ \t]*$/.test(s) ||
+        /^\d{1,3}[ \t]+\S/.test(s) ||
+        /^\d{1,3}\.[ \t]+\S/.test(s) ||
+        /^\(\d{1,3}\)[ \t]+\S/.test(s);
   const defLineIndices: number[] = [];
   for (let k = 0; k < lines.length; k++) {
     if (isDefStart(lines[k])) defLineIndices.push(k);
@@ -350,6 +376,92 @@ function extractFn(md: string): ExtractedFootnotes {
   return { body, footnotes };
 }
 
+function extractPandoc(md: string): ExtractedFootnotes {
+  // Pandoc-style footnotes:
+  //   body:   `prose...[^1] more prose...`
+  //   defs:   `[^1]: text continuing on subsequent indented lines`
+  // Definitions live at the bottom of the doc, each starting at column 0
+  // with `[^id]:`; continuation lines are indented by one or more spaces.
+  // The id is any run of non-`]`, non-whitespace characters (typically
+  // a number, but pandoc also allows named refs like `[^note-foo]`).
+  const lines = md.split('\n');
+  const defStart = /^\[\^([^\]\s]+)\]:[ \t]?(.*)$/;
+  const items: Array<{ id: string; raw: string[] }> = [];
+  let firstDefLine = -1;
+  let current: { id: string; raw: string[] } | null = null;
+  for (let i = 0; i < lines.length; i++) {
+    const m = defStart.exec(lines[i]);
+    if (m) {
+      if (firstDefLine < 0) firstDefLine = i;
+      if (current) items.push(current);
+      current = { id: m[1], raw: [m[2]] };
+    } else if (current) {
+      // Continuation: indented line, blank between paragraphs of the
+      // same def, OR a column-0 non-def line (e.g. a `>`-blockquote the
+      // author typed without indenting it under the footnote). Once we
+      // enter the footnotes section (first `[^N]:` detected), every
+      // subsequent line up to EOF or the next `[^M]:` belongs to the
+      // current footnote — otherwise hand-formatted multi-paragraph
+      // footnotes lose every def after the un-indented continuation.
+      // Brook Farm is the canonical example: `[^6]:` ends with "Turner
+      // writes:" then a column-0 `> ...` blockquote, then `[^7]:` /
+      // `[^8]:`. Treating the `>` as a section-terminator dropped 7/8.
+      if (lines[i].trim() === '') {
+        current.raw.push('');
+      } else if (/^[ \t]/.test(lines[i])) {
+        current.raw.push(lines[i].replace(/^[ \t]+/, ''));
+      } else {
+        current.raw.push(lines[i]);
+      }
+    }
+  }
+  if (current) items.push(current);
+
+  // De-dupe by id (keep first occurrence) and collect.
+  const seen = new Set<string>();
+  const footnotes: ExtractedFootnote[] = [];
+  for (const it of items) {
+    if (seen.has(it.id)) continue;
+    seen.add(it.id);
+    // Trim trailing blank lines from the raw block.
+    const raw = it.raw.join('\n').replace(/\s+$/g, '').trim();
+    footnotes.push({ id: it.id, raw });
+  }
+
+  // Body: everything before the first def line, with `[^id]` refs in body
+  // rewritten to numbered sup markers. If the id isn't purely numeric,
+  // assign a sequential number in order of first appearance.
+  const idToNumber = new Map<string, string>();
+  let nextNum = 1;
+  for (const fn of footnotes) {
+    if (/^\d+$/.test(fn.id)) idToNumber.set(fn.id, fn.id);
+    else idToNumber.set(fn.id, String(nextNum));
+    nextNum++;
+  }
+
+  let body = firstDefLine >= 0
+    ? lines.slice(0, firstDefLine).join('\n')
+    : md;
+  const seenInBody = new Set<string>();
+  body = body.replace(/\[\^([^\]\s]+)\]/g, (full, id: string) => {
+    const num = idToNumber.get(id);
+    if (!num) return full;
+    const first = !seenInBody.has(num);
+    seenInBody.add(num);
+    return REF_MARKER(num, first);
+  });
+
+  // Renumber footnote ids in the output so renderers can use sequential
+  // anchors that match the in-body refs.
+  const renumbered: ExtractedFootnote[] = footnotes.map(fn => ({
+    id: idToNumber.get(fn.id) ?? fn.id,
+    raw: fn.raw,
+  }));
+
+  body = body.replace(/\n{3,}$/g, '\n\n').replace(/\s+$/g, '') + '\n';
+  return { body, footnotes: renumbered };
+}
+
 function extractPlain(md: string): ExtractedFootnotes {
   const lines = md.split('\n');
   // A def-start is either `[N] content` (bracketed inline) or — if the
@@ -357,12 +469,30 @@ function extractPlain(md: string): ExtractedFootnotes {
   // The exclusivity guard matches detectFormat above and prevents bare
   // table-cell values from being mis-detected as footnote defs.
   const hasBracketed = lines.some(l => /^\[\d+\][ \t]/.test(l));
+  let sawParenForm = false;
   const matchDefStart = (s: string): { id: string; inline: string } | null => {
     const m1 = /^\[(\d+)\][ \t](.*)$/.exec(s);
     if (m1) return { id: m1[1], inline: m1[2] };
     if (hasBracketed) return null;
     const m2 = /^(\d+)[ \t]*$/.exec(s);
     if (m2) return { id: m2[1], inline: '' };
+    // `N. content` numbered-list form (Application for Release from
+    // the Dream). Check before the bare-number form so the `.` isn't
+    // captured into the content.
+    const m3 = /^(\d{1,3})\.[ \t]+(\S.*)$/.exec(s);
+    if (m3) return { id: m3[1], inline: m3[2] };
+    // `(N) content` parenthesized form (Meeting, Hardly Meeting).
+    // Check before the bare-number form so the parens aren't captured
+    // into the content. Body refs for this form are also written as
+    // `(N)` in prose; tracked via sawParenForm so we know to rewrite
+    // them downstream.
+    const m5 = /^\((\d{1,3})\)[ \t]+(\S.*)$/.exec(s);
+    if (m5) { sawParenForm = true; return { id: m5[1], inline: m5[2] }; }
+    // `N content` form (Mother of Learning). Restrict id to ≤3 digits
+    // so body lines like "1981 was a year of…" don't trip the
+    // detector (must be paired with the trailing-region walk above).
+    const m4 = /^(\d{1,3})[ \t]+(\S.*)$/.exec(s);
+    if (m4) return { id: m4[1], inline: m4[2] };
     return null;
   };
   const isDefStart = (s: string) => matchDefStart(s) !== null;
@@ -501,6 +631,22 @@ function extractPlain(md: string): ExtractedFootnotes {
       }
     );
   }
+  // Parenthesized fallback: when the defs themselves were `(N) content`,
+  // body refs are written `(N)` (Meeting, Hardly Meeting). Limited to
+  // IDs that actually have a matching def, so stray parenthesized
+  // numbers in prose ("(1) the first thing") won't be rewritten unless
+  // they happen to collide with a def id.
+  if (seen.size === 0 && sawParenForm) {
+    bodyWithMarkers = bodyWithMarkers.replace(
+      new RegExp(`\\((${idsRegex})\\)`, 'g'),
+      (full, id: string) => {
+        if (!defById.has(id)) return full;
+        const first = !seen.has(id);
+        seen.add(id);
+        return REF_MARKER(id, first);
+      }
+    );
+  }
 
   const orderedIds: string[] = [];
   const orderSeen = new Set<string>();
@@ -530,6 +676,103 @@ function extractPlain(md: string): ExtractedFootnotes {
 interface CodeChunk { kind: 'code'; content: string; }
 interface TextChunk { kind: 'text'; content: string; }
 type Chunk = CodeChunk | TextChunk;
+
+/**
+ * Bracket-colon format: definitions look like `[N: content content content]`
+ * with the closing bracket potentially many lines below. Body refs are plain
+ * `[N]`. Content may include nested `[…]` (editorial inserts in quotations,
+ * markdown link refs like `[text](url)`) — so we bracket-balance forward
+ * from each opener.
+ */
+function extractBracketColon(md: string): ExtractedFootnotes {
+  type Def = { id: string; content: string; start: number; end: number };
+  const defs: Def[] = [];
+  // Anchor each def-start to the beginning of a line. A body-internal
+  // `[Edit: ...]` inside a sentence wouldn't be flagged here, only ones
+  // sitting on their own line.
+  const startRe = /^[ \t]*\[(\d+(?:\.\d+)?):[ \t]+/gm;
+  let m: RegExpExecArray | null;
+  while ((m = startRe.exec(md)) !== null) {
+    const id = m[1];
+    // Bracket-balance forward to find the matching `]`.
+    let depth = 1;
+    let i = m.index + m[0].length;
+    while (i < md.length && depth > 0) {
+      const ch = md[i];
+      if (ch === '[') depth++;
+      else if (ch === ']') {
+        depth--;
+        if (depth === 0) break;
+      }
+      i++;
+    }
+    if (depth !== 0) continue;
+    const contentText = md.slice(m.index + m[0].length, i).trim();
+    defs.push({ id, content: contentText, start: m.index, end: i + 1 });
+    startRe.lastIndex = i + 1;
+  }
+  if (defs.length < 2) return { body: md, footnotes: [] };
+
+  // Defs must form a contiguous trailing block — only whitespace between
+  // consecutive defs. Otherwise this isn't a footnote section, just stray
+  // matches.
+  for (let k = 0; k < defs.length - 1; k++) {
+    const between = md.slice(defs[k].end, defs[k + 1].start);
+    if (between.replace(/\s/g, '') !== '') return { body: md, footnotes: [] };
+  }
+
+  // Body ends at start of first def. Strip a trailing `## Footnotes` /
+  // `## Endnotes` heading (with any preceding blanks) so the render layer
+  // can supply its own.
+  const before = md.slice(0, defs[0].start);
+  const bodyLines = before.split('\n');
+  let lastIdx = bodyLines.length - 1;
+  while (lastIdx >= 0 && bodyLines[lastIdx].trim() === '') lastIdx--;
+  if (lastIdx >= 0 && /^#{1,6}\s+(footnotes|endnotes)\s*:?\s*$/i.test(bodyLines[lastIdx])) {
+    lastIdx--;
+  }
+  const body = bodyLines.slice(0, lastIdx + 1).join('\n').replace(/\s+$/g, '') + '\n';
+
+  const defById = new Map<string, string>();
+  for (const d of defs) defById.set(d.id, d.content);
+
+  const seen = new Set<string>();
+  const idsAlt = Array.from(defById.keys())
+    .map(id => id.replace(/\./g, '\\.'))
+    .join('|');
+  const bodyWithMarkers = body.replace(
+    new RegExp(`(?<!\\[)\\[(${idsAlt})\\](?!\\()`, 'g'),
+    (full, id: string) => {
+      if (!defById.has(id)) return full;
+      const first = !seen.has(id);
+      seen.add(id);
+      return REF_MARKER(id, first);
+    }
+  );
+
+  // Order footnotes by their first appearance in body; unreferenced ones
+  // follow at the end.
+  const orderedIds: string[] = [];
+  const orderSeen = new Set<string>();
+  const orderRegex = /data-fn-id="([^"]+)"/g;
+  let mm: RegExpExecArray | null;
+  while ((mm = orderRegex.exec(bodyWithMarkers)) !== null) {
+    if (!orderSeen.has(mm[1])) {
+      orderSeen.add(mm[1]);
+      orderedIds.push(mm[1]);
+    }
+  }
+  const footnotes: ExtractedFootnote[] = [];
+  for (const id of orderedIds) {
+    const content = defById.get(id);
+    if (content !== undefined) footnotes.push({ id, raw: content });
+  }
+  for (const d of defs) {
+    if (!orderSeen.has(d.id)) footnotes.push({ id: d.id, raw: d.content });
+  }
+
+  return { body: bodyWithMarkers, footnotes };
+}
 
 function splitFencedCode(md: string): Chunk[] {
   const chunks: Chunk[] = [];
@@ -584,11 +827,36 @@ export function extractFootnotes(markdown: string): ExtractedFootnotes {
     case 'fn':
       extracted = extractFn(withPlaceholders);
       break;
+    case 'pandoc':
+      extracted = extractPandoc(withPlaceholders);
+      break;
     case 'plain':
       extracted = extractPlain(withPlaceholders);
       break;
+    case 'bracket-colon':
+      extracted = extractBracketColon(withPlaceholders);
+      break;
     default:
       return { body: markdown, footnotes: [] };
+  }
+
+  // Sanity check: if the extracted footnotes exceed *half* the doc
+  // length, the format detector probably swallowed body content. The
+  // original threshold was 20% but that misfires on legitimate
+  // citation-heavy essays — Holy Quran's 31 trailing footnotes are
+  // 40% of the doc and ARE real footnotes. The pathological cases we
+  // want to catch (How I Killed Pluto's inline-per-section pattern)
+  // sweep up so much body that extraction routinely tops 80%+.
+  //
+  // Only apply on essays large enough for the ratio to be meaningful;
+  // unit tests use tiny synthetic inputs where a 26-char footnote in
+  // a 100-char document trivially exceeds any percentage threshold.
+  if (markdown.length > 2000) {
+    const fnTotal = extracted.footnotes
+      .reduce((sum, f) => sum + (f.raw?.length || 0), 0);
+    if (fnTotal > markdown.length / 2) {
+      return { body: markdown, footnotes: [] };
+    }
   }
 
   // Strip a trailing "Footnotes" / "Endnotes" section heading from the

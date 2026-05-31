@@ -31,6 +31,33 @@ const turndownService = new TurndownService({
 // Remove Google Docs styling spans that add no value.
 // IMPORTANT: must not strip spans that wrap images, and must not strip
 // whitespace-only spans (see comment on the cheerio span cleanup).
+// Strikethrough: turn `<s>`/`<del>`/`<strike>` into markdown `~~text~~`.
+// remark-gfm parses `~~text~~` as `<del>` at render time. Without an
+// explicit rule, turndown emits the inner text and drops the tag.
+turndownService.addRule('strikethrough', {
+  filter: ['s', 'del', 'strike'],
+  replacement: (content) => content ? `~~${content}~~` : '',
+});
+
+// Preserve `<figure>` and `<figcaption>` as raw HTML wrappers around
+// markdown content. Generated upstream when we detect an image-caption
+// pair (image paragraph followed by a centered/italic paragraph). The
+// blank lines around the inner content let CommonMark parse the wrapped
+// markdown (image, italic text, links) inside the figure block.
+turndownService.addRule('figureBlock', {
+  filter: 'figure',
+  // Blank lines INSIDE the figure block are required: CommonMark only
+  // parses markdown inside a raw-HTML block when blank lines separate
+  // the inner markdown content from the surrounding tags. Without them
+  // `![](url)` immediately under `<figure>` stays raw text in the
+  // rendered output.
+  replacement: (content) => `\n\n<figure>\n\n${content.trim()}\n\n</figure>\n\n`,
+});
+turndownService.addRule('figcaption', {
+  filter: 'figcaption',
+  replacement: (content) => `\n<figcaption>\n\n${content.trim()}\n\n</figcaption>\n`,
+});
+
 turndownService.addRule('removeEmptySpans', {
   filter: (node) => {
     if (node.nodeName !== 'SPAN') return false;
@@ -39,6 +66,12 @@ turndownService.addRule('removeEmptySpans', {
     if (node.textContent) return false;
     // Preserve spans that contain any image descendant.
     if ((node as Element).querySelector?.('img')) return false;
+    // Preserve spans whose ONLY non-whitespace child is a <br> — those are
+    // standalone line-break separators that Google Docs emits between
+    // sibling spans inside one <p> (e.g. dialogue lines in Tale of Genji).
+    // Dropping the wrapper here would also drop the <br> via Turndown's
+    // empty-replacement, collapsing the line break into nothing.
+    if ((node as Element).querySelector?.('br')) return false;
     return true;
   },
   replacement: () => '',
@@ -96,11 +129,39 @@ interface ClassMargins {
   marginLeft: number;
   marginRight: number;
   textIndent: number;
+  // CSS `padding-bottom` on the class (in pt). Authors who want a
+  // visual paragraph gap set padding-bottom >0 on the paragraph style;
+  // adjacent paragraphs with padding-bottom == 0 are meant to stack
+  // tight (e.g. play-script speaker name + dialog body in Merry Wives,
+  // 0pt padding) vs. essay paragraphs with a normal gap (e.g. Pluto
+  // quote with 10pt padding).
+  paddingBottom: number;
+  // CSS `padding-top` on the class (in pt). Symmetric counterpart to
+  // paddingBottom — some authors use TOP padding instead of (or in
+  // addition to) bottom padding to mark a visual gap before this
+  // paragraph (Tortilla Flat's c8 quote-style uses both).
+  paddingTop: number;
 }
 
 interface GDocStyleMap {
   boldClasses: Set<string>;
   italicClasses: Set<string>;
+  // Classes with a font-size noticeably larger than body text. Combined
+  // with bold, this is a strong signal that a paragraph styled this way
+  // is a heading the author created without using Google Docs' built-in
+  // Heading-N styles. Threshold: >= 14pt (body text is typically 11pt).
+  largeFontClasses: Set<string>;
+  // Classes that apply text-decoration: underline. Used to detect
+  // section headings that authors styled as underlined plain text
+  // (e.g. "More Money Than God" uses underline-only for every section).
+  underlineClasses: Set<string>;
+  // Classes with `text-decoration: line-through`. Used to preserve
+  // strikethrough text as markdown `~~text~~` (turned into `<del>` by
+  // remark-gfm at render time).
+  strikethroughClasses: Set<string>;
+  // Classes with `text-align: center`. Used to detect image captions
+  // styled as centered text (the conventional Google Docs caption style).
+  centeredClasses: Set<string>;
   // Classes that ON THEIR OWN meet the indent threshold — used by the body-
   // default gate (which is per-class) and the fast-path single-class check.
   indentClasses: Set<string>;
@@ -110,6 +171,22 @@ interface GDocStyleMap {
   // has margin-right:33.1pt is visually a both-sides-indented blockquote,
   // even though neither class alone meets the indent-on-its-own threshold.
   classMargins: Map<string, ClassMargins>;
+  // Per-class font-family (raw CSS value, e.g. `"Arial"` or
+  // `"Times New Roman"`). Used by the minority-font-as-blockquote
+  // exception (Tortilla Flat) to detect paragraphs whose font differs
+  // from the body's dominant family — the author's signal for a
+  // visually-set-off quote block.
+  classFontFamily: Map<string, string>;
+  // Per-class font-size (raw pt value). Paired with classFontFamily
+  // for the minority-font-as-blockquote rule, which treats EITHER a
+  // different family OR a smaller size as the author's signal for a
+  // visually-set-off quote block (Der Untergang uses 10pt vs the 11pt
+  // body in the same Arial family).
+  classFontSize: Map<string, number>;
+  // Dominant body font-size in pt (computed across all spans, weighted
+  // by character count). Used as the baseline for the smaller-font
+  // signal in minority-font-as-blockquote.
+  bodyFontSize: number;
 }
 
 // Threshold check on margins. A paragraph counts as "indented"
@@ -121,22 +198,130 @@ interface GDocStyleMap {
 //     visual blockquote shape regardless of depth, distinct from a
 //     plain-left first-line-indent body style).
 function marginsAreIndented(m: ClassMargins): boolean {
-  if (m.marginLeft >= 36) return true;
-  if (m.textIndent >= 36) return true;
+  // Negative text-indent is the hanging-indent that Google Docs gives
+  // to list items (the bullet/number is pulled out into the indent
+  // space). Treating that as a blockquote turns numbered/bulleted
+  // lists into stray `>` lines — real-world example: Don't Bang
+  // Denmark's `1.`, `2.` enumeration uses margin-left:54pt + text-
+  // indent:-18pt and is a numbered list, not a quote.
+  if (m.textIndent <= -10) return false;
+  // 24pt covers both the full ~36pt block-indent and the half-tab
+  // ~27pt indent that some authors use for quotations (e.g. The
+  // Wisdom of Mike Mentzer's `margin-left:27pt` quote class). The
+  // body-default gate (line ~470, 90% threshold) keeps us from
+  // mis-classifying a 27pt body style as a blockquote.
+  if (m.marginLeft >= 24) return true;
+  if (m.textIndent >= 24) return true;
   if (m.marginLeft > 0 && m.marginRight > 0) return true;
   return false;
 }
 
-function parseGDocStyles(html: string): GDocStyleMap {
+/**
+ * Determine the dominant body font size for a Google Docs HTML export.
+ * Walks all substantive `<span>` text in the body, tallies chars per
+ * font-size, returns the size with the most chars. Falls back to 11pt
+ * when there's no styling info.
+ *
+ * Run once on the FULL document before chunking — splitting at <h1>
+ * boundaries produces chunks whose per-chunk size distribution can be
+ * skewed (a chunk dominated by footnote text mis-identifies the body
+ * font as the footnote size, then turns body paragraphs into headings).
+ */
+function detectBodyFontSize(html: string): number {
+  const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
+  if (!styleMatch) return 11;
+  const classFontSize = new Map<string, number>();
+  const ruleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
+  let m;
+  while ((m = ruleRe.exec(styleMatch[1])) !== null) {
+    const fs = m[2].match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
+    if (fs) classFontSize.set(m[1], parseFloat(fs[1]));
+  }
+  const sizeChars = new Map<number, number>();
+  const spanRe = /<span\s+class="([^"]+)"[^>]*>([^<]*)<\/span>/g;
+  let sm;
+  while ((sm = spanRe.exec(html)) !== null) {
+    const text = sm[2].trim();
+    if (!text) continue;
+    let size: number | undefined;
+    for (const c of sm[1].split(/\s+/)) {
+      const s = classFontSize.get(c);
+      if (s !== undefined) size = s;
+    }
+    if (size === undefined) continue;
+    sizeChars.set(size, (sizeChars.get(size) || 0) + text.length);
+  }
+  let bodySize = 11;
+  let bodyChars = 0;
+  for (const [size, chars] of sizeChars) {
+    if (chars > bodyChars) {
+      bodySize = size;
+      bodyChars = chars;
+    }
+  }
+  return bodySize;
+}
+
+function parseGDocStyles(html: string, bodySizeHint?: number): GDocStyleMap {
   const boldClasses = new Set<string>();
   const italicClasses = new Set<string>();
+  const largeFontClasses = new Set<string>();
+  const underlineClasses = new Set<string>();
+  const strikethroughClasses = new Set<string>();
+  const centeredClasses = new Set<string>();
   const indentClasses = new Set<string>();
   const classMargins = new Map<string, ClassMargins>();
+  const classFontFamily = new Map<string, string>();
+  const classFontSize = new Map<string, number>();
 
   const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
-  if (!styleMatch) return { boldClasses, italicClasses, indentClasses, classMargins };
+  if (!styleMatch) return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily, classFontSize, bodyFontSize: bodySizeHint ?? 11 };
 
   const styleText = styleMatch[1];
+
+  // Determine body font size. Caller can pass a hint to use a doc-wide
+  // value (necessary for chunked processing — see detectBodyFontSize
+  // for context). Without a hint, compute from this slice's spans.
+  let bodySize: number;
+  if (bodySizeHint !== undefined) {
+    bodySize = bodySizeHint;
+  } else {
+    const classFontSize = new Map<string, number>();
+    const sizeRuleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
+    let sm;
+    while ((sm = sizeRuleRe.exec(styleText)) !== null) {
+      const fs = sm[2].match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
+      if (fs) classFontSize.set(sm[1], parseFloat(fs[1]));
+    }
+    const sizeChars = new Map<number, number>();
+    const spanRe = /<span\s+class="([^"]+)"[^>]*>([^<]*)<\/span>/g;
+    let spanMatch;
+    while ((spanMatch = spanRe.exec(html)) !== null) {
+      const text = spanMatch[2].trim();
+      if (!text) continue;
+      const classes = spanMatch[1].split(/\s+/);
+      let size: number | undefined;
+      for (const c of classes) {
+        const s = classFontSize.get(c);
+        if (s !== undefined) size = s;
+      }
+      if (size === undefined) continue;
+      sizeChars.set(size, (sizeChars.get(size) || 0) + text.length);
+    }
+    bodySize = 11;
+    let bodyChars = 0;
+    for (const [size, chars] of sizeChars) {
+      if (chars > bodyChars) {
+        bodySize = size;
+        bodyChars = chars;
+      }
+    }
+  }
+  // "Large" = at least 2pt above body AND at least 13pt absolute. The
+  // 2pt gap filters incidental subscript/superscript-style variation;
+  // the 13pt floor preserves the old behavior for the common 11pt-body
+  // case (14pt headings still detected).
+  const largeFloor = Math.max(bodySize + 2, 13);
 
   // Match CSS rules like .c8{font-weight:700;...}
   const ruleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
@@ -151,21 +336,46 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/font-style\s*:\s*italic/.test(props)) {
       italicClasses.add(cls);
     }
-    const marginLeftMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
-    const marginRightMatch = props.match(/margin-right\s*:\s*(\d+(?:\.\d+)?)pt/);
-    const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
+    const fontSizeMatch = props.match(/font-size\s*:\s*(\d+(?:\.\d+)?)pt/);
+    if (fontSizeMatch) {
+      const fs = parseFloat(fontSizeMatch[1]);
+      classFontSize.set(cls, fs);
+      if (fs >= largeFloor) {
+        largeFontClasses.add(cls);
+      }
+    }
+    if (/text-decoration\s*:\s*underline/.test(props)) {
+      underlineClasses.add(cls);
+    }
+    if (/text-decoration\s*:\s*line-through/.test(props)) {
+      strikethroughClasses.add(cls);
+    }
+    if (/text-align\s*:\s*center/.test(props)) {
+      centeredClasses.add(cls);
+    }
+    const marginLeftMatch = props.match(/margin-left\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const marginRightMatch = props.match(/margin-right\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const textIndentMatch = props.match(/text-indent\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const paddingBottomMatch = props.match(/padding-bottom\s*:\s*(-?\d+(?:\.\d+)?)pt/);
+    const paddingTopMatch = props.match(/padding-top\s*:\s*(-?\d+(?:\.\d+)?)pt/);
     const ml = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
     const mr = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
     const ti = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
-    if (ml || mr || ti) {
-      classMargins.set(cls, { marginLeft: ml, marginRight: mr, textIndent: ti });
-      if (marginsAreIndented({ marginLeft: ml, marginRight: mr, textIndent: ti })) {
+    const pb = paddingBottomMatch ? parseFloat(paddingBottomMatch[1]) : 0;
+    const pt = paddingTopMatch ? parseFloat(paddingTopMatch[1]) : 0;
+    if (ml || mr || ti || pb || pt) {
+      classMargins.set(cls, { marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb, paddingTop: pt });
+      if (marginsAreIndented({ marginLeft: ml, marginRight: mr, textIndent: ti, paddingBottom: pb, paddingTop: pt })) {
         indentClasses.add(cls);
       }
     }
+    const fontFamilyMatch = props.match(/font-family\s*:\s*"([^"]+)"/);
+    if (fontFamilyMatch) {
+      classFontFamily.set(cls, fontFamilyMatch[1]);
+    }
   }
 
-  return { boldClasses, italicClasses, indentClasses, classMargins };
+  return { boldClasses, italicClasses, largeFontClasses, underlineClasses, strikethroughClasses, centeredClasses, indentClasses, classMargins, classFontFamily, classFontSize, bodyFontSize: bodySize };
 }
 
 // True if every substantive (non-empty) span in the paragraph carries an
@@ -234,8 +444,20 @@ function isParagraphIndented(
   }
   if (!anyKnown) return false;
 
+  // Significantly negative text-indent is the hanging-indent that
+  // Google Docs gives to list items (the bullet/number is pulled out
+  // into the indent space). Treating that as a blockquote turns
+  // numbered/bulleted lists into stray `>` lines — same logic as
+  // `marginsAreIndented` itself. Don't Bang Denmark uses `c7`
+  // (margin-left:54pt; text-indent:-18pt) for every list item.
+  if (ti <= -10) return false;
+
   // Combined-margins checks: margin-left meets threshold, OR both-sides.
-  if (ml >= 36) return true;
+  // Threshold 24pt covers both the standard ~36pt block indent and the
+  // half-tab ~27pt indent (Mentzer's quote class). The 90% body-default
+  // gate above already strips a class that's used by nearly every
+  // paragraph, so we don't sweep in body-styled docs.
+  if (ml >= 24) return true;
   if (ml > 0 && mr > 0) return true;
 
   // Text-indent path. Non-italic text-indent paragraphs are ambiguous: in
@@ -250,7 +472,7 @@ function isParagraphIndented(
   //       a quote-introducer like "Cicero at his best is lyrical:" or
   //       "Catullus then wrote,". Body false positives precede each
   //       other or other body paragraphs ending in `.`, `?`, `!`.
-  if (ti < 36) return false;
+  if (ti < 24) return false;
   if (isParagraphAllItalic($, el, styles.italicClasses)) return true;
   return precededByQuoteIntroducer($, el, styles);
 }
@@ -360,6 +582,45 @@ function precededByQuoteIntroducer(
  * 3. Wraps indented paragraphs in <blockquote>
  */
 function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
+  // Unwrap headings nested inside `<ol><li>`. Google Docs renders a
+  // numbered list whose items happen to be styled as Heading-N as
+  // `<ol><li><hN>…</hN></li></ol>` (one heading per list item). The
+  // default conversion drops the heading out of the list ("1. ##
+  // title"), which has both a numbered-list marker AND a heading on
+  // the same line — neither rendering as the author intended.
+  // Replace the whole `<ol>` with a sequence of `<hN>N. text</hN>`
+  // elements, preserving the list start index when present.
+  $('ol').each(function () {
+    const ol = $(this);
+    const items = ol.children('li').toArray();
+    if (items.length === 0) return;
+    const headings: Array<{ tag: string; html: string; n: number }> = [];
+    let counter = parseInt(ol.attr('start') || '1', 10);
+    for (const li of items) {
+      const liEl = $(li);
+      const heading = liEl.children('h1, h2, h3, h4, h5, h6').first();
+      if (heading.length === 0) return; // bail — not all items are headings
+      // Require the `<li>` to contain ONLY the heading (no sibling
+      // prose) to avoid disrupting structured lists where one item
+      // happens to start with a heading.
+      const hasOtherContent = liEl.contents()
+        .toArray()
+        .some((node: any) => {
+          if (node.type === 'tag' && node.name === heading[0].name) return false;
+          if (node.type === 'text' && !((node.data || '').trim())) return false;
+          return true;
+        });
+      if (hasOtherContent) return;
+      headings.push({ tag: heading[0].name, html: heading.html() || '', n: counter });
+      counter++;
+    }
+    if (headings.length === 0) return;
+    const replacement = headings
+      .map(h => `<${h.tag}>${h.n}. ${h.html}</${h.tag}>`)
+      .join('');
+    ol.replaceWith(replacement);
+  });
+
   // Gate against universal-body-style margin-indentation. A class like
   // `.cN{margin-left:36pt}` is a blockquote signal ONLY when it
   // distinguishes some paragraphs from the others; in a doc where
@@ -382,6 +643,8 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
   // the first place, so the body-default gate isn't needed for it.
   const totalParagraphs = $('p').length;
   if (totalParagraphs >= 10) {
+    // First, the simple per-class case: a single class used on > 90% of
+    // paragraphs is the doc's body default.
     for (const cls of [...styles.indentClasses]) {
       const usageCount = $(`p.${cls}`).length;
       if (usageCount / totalParagraphs > 0.9) {
@@ -390,6 +653,32 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         // combined-margin check doesn't re-add this class back via
         // its margin contribution.
         styles.classMargins.delete(cls);
+      }
+    }
+    // Then the multi-class case: some doc templates define THREE near-
+    // identical classes (c0/c1/c2) that share the same margin-left but
+    // differ in padding, and split body paragraphs roughly equally
+    // across them. Moby-Dick: c0/c1/c2 all carry margin-left: 42.5pt
+    // and together account for 98% of paragraphs — but no single class
+    // hits the 90% per-class gate. Bucket indent classes by their
+    // (marginLeft, marginRight) profile, and if a profile bucket
+    // covers > 90% of paragraphs collectively, drop the whole bucket.
+    const byProfile = new Map<string, string[]>();
+    for (const cls of styles.indentClasses) {
+      const margins = styles.classMargins.get(cls);
+      if (!margins) continue;
+      const key = `${margins.marginLeft}|${margins.marginRight}`;
+      if (!byProfile.has(key)) byProfile.set(key, []);
+      byProfile.get(key)!.push(cls);
+    }
+    for (const [, classes] of byProfile) {
+      if (classes.length < 2) continue;
+      const usage = classes.reduce((sum, c) => sum + $(`p.${c}`).length, 0);
+      if (usage / totalParagraphs > 0.9) {
+        for (const c of classes) {
+          styles.indentClasses.delete(c);
+          styles.classMargins.delete(c);
+        }
       }
     }
   }
@@ -472,7 +761,15 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       const parts = rawParts.filter(p => textLen(p) > 0);
       if (parts.length < 2) return;
       const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
-      const wrappers = parts.map(p => `<p${classAttr}>${p}</p>`).join('');
+      // Mark each split `<p>` with `data-split-paragraph="1"` so the
+      // adjacent-indented-paragraph merge below (which collapses
+      // padding-bottom=0 neighbours into one tight blockquote with
+      // line breaks instead of paragraph breaks) leaves these alone.
+      // The author's `<br><br>` IS a paragraph break — turning it back
+      // into a tight line break loses the blank `>` separator in the
+      // rendered markdown (Between Two Fires's "alchemy of life"
+      // quote, etc.).
+      const wrappers = parts.map(p => `<p${classAttr} data-split-paragraph="1">${p}</p>`).join('');
       el.replaceWith(wrappers);
     });
   }
@@ -519,7 +816,11 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     if (parts.length < 2) return;
     if (parts.some(p => textLen(p) < 60)) return;
     const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
-    const wrappers = parts.map(p => `<p${classAttr}>${p}</p>`).join('');
+    // Mark split-created `<p>`s so the downstream
+    // adjacent-indented-paragraph merge doesn't glue them back into
+    // one with `<br>` between. The split was made specifically to
+    // expose paragraph breaks the source faked via `<br>+nbsp` runs.
+    const wrappers = parts.map(p => `<p${classAttr} data-split-paragraph="1">${p}</p>`).join('');
     el.replaceWith(wrappers);
   });
 
@@ -543,8 +844,44 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     const el = $(this);
     let inner = el.html() || '';
     if (!/<br\s*\/?>/.test(inner)) return;
-    // Strip leading `<br>`s outright — they create empty initial spans.
-    inner = inner.replace(/^\s*(?:<br\s*\/?>\s*)+/, '');
+    // A span containing only `<br>`s + whitespace is a line-break
+    // separator between sibling content spans. Extract the `<br>`s
+    // as siblings OUTSIDE the span so turndown emits them as
+    // hard-break newlines — leaving them inside a whitespace-bearing
+    // span makes turndown collapse the `<br>` and lose the line break
+    // entirely (e.g. Tale of Genji's `<span><br>&nbsp;…</span>` poem
+    // line separators turned the whole poem into one stuck-together
+    // sentence).
+    if (!el.text().trim()) {
+      const brCount = (inner.match(/<br\s*\/?>/g) || []).length;
+      if (brCount > 0) {
+        const brs = '<br>'.repeat(brCount);
+        const remaining = inner.replace(/<br\s*\/?>/g, '');
+        const cls = el.attr('class') || '';
+        const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+        if (remaining.trim()) {
+          el.replaceWith(`${brs}<span${classAttr}>${remaining}</span>`);
+        } else {
+          el.replaceWith(brs);
+        }
+      }
+      return;
+    }
+    // Extract leading `<br>` runs. Like the trailing case, we can't
+    // just discard them — a `<br>` AT THE START of a span sits
+    // between this span and the previous sibling span. Dropping it
+    // would silently glue verse lines together (real example: Tale
+    // of Genji's poems pack each line into its own
+    // `<span class="cN"><br>&nbsp;...</span>` — stripping the
+    // leading `<br>` collapses the whole poem to one line).
+    // Re-emit it as a sibling `<br>` BEFORE the span.
+    let leadingBrs = '';
+    const leadMatch = inner.match(/^(\s*(?:<br\s*\/?>\s*)+)/);
+    if (leadMatch) {
+      const brCount = (leadMatch[0].match(/<br\s*\/?>/g) || []).length;
+      leadingBrs = '<br>'.repeat(brCount);
+      inner = inner.slice(leadMatch[0].length);
+    }
     // Extract trailing `<br>` runs. We can't just discard them: a `<br>`
     // sitting between two sibling spans inside the same `<p>` is a
     // line break that visually separates two distinct chunks (title vs
@@ -560,10 +897,10 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       inner = inner.slice(0, inner.length - trailMatch[0].length) + trailMatch[1];
     }
     if (!/<br\s*\/?>/.test(inner)) {
-      if (trailingBrs) {
+      if (leadingBrs || trailingBrs) {
         const cls = el.attr('class') || '';
         const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
-        el.replaceWith(`<span${classAttr}>${inner}</span>${trailingBrs}`);
+        el.replaceWith(`${leadingBrs}<span${classAttr}>${inner}</span>${trailingBrs}`);
       } else {
         el.html(inner);
       }
@@ -572,9 +909,108 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     const cls = el.attr('class') || '';
     const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
     const parts = inner.split(/<br\s*\/?>/);
-    const newHtml = parts.map(p => `<span${classAttr}>${p}</span>`).join('<br>') + trailingBrs;
+    const newHtml = leadingBrs + parts.map(p => `<span${classAttr}>${p}</span>`).join('<br>') + trailingBrs;
     el.replaceWith(newHtml);
   });
+
+  // Split `<p>`s at consecutive `<br>` runs (an in-source blank line
+  // inside a multi-line block). The previous span-split may leave
+  // EMPTY `<span></span>` elements between `<br>`s — those correspond
+  // to consecutive `<br>`s in the original span (e.g. Application for
+  // Release's `<span>text<br>text<br><br>text</span>`). Match
+  // `<br>` runs separated by optional empty spans and whitespace.
+  // Turndown otherwise collapses adjacent `<br>`s to a whitespace-only
+  // line which inside a blockquote prefix is a hard-break (not a
+  // paragraph break), losing the source blank.
+  $('p').each(function () {
+    const el = $(this);
+    const html = el.html() || '';
+    const SPLIT_RE = /(?:<br\s*\/?>\s*(?:<span[^>]*>\s*<\/span>\s*)*){2,}/;
+    if (!SPLIT_RE.test(html)) return;
+    if (!isParagraphIndented($, el, styles)) return;
+    const parts = html.split(new RegExp(SPLIT_RE.source, 'g'));
+    if (parts.length < 2) return;
+    if (parts.every(p => p.replace(/<[^>]+>/g, '').trim().length === 0)) return;
+    const cls = el.attr('class') || '';
+    const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+    const wrappers = parts
+      .map(p => `<p${classAttr} data-split-paragraph="1">${p}</p>`)
+      .join('');
+    el.replaceWith(wrappers);
+  });
+
+  // Heading-by-styling: a `<p>` whose ALL substantive span content is
+  // wrapped in a class that's BOTH bold AND noticeably-larger-than-body
+  // font-size is almost always a section heading the author created
+  // by manually styling text rather than using Google Docs' Heading-N
+  // styles. Same goes for a `<p>` styled entirely with underline (no
+  // hyperlink): authors sometimes use underline alone for section
+  // headings (e.g. More Money Than God lists every chapter as
+  // underlined plain text). Lift such paragraphs to <h2> so downstream
+  // Turndown emits `## …` directly — bypassing the later bold-to-H2
+  // promotion pass (which can't see font-size or underline signals).
+  if (styles.underlineClasses.size > 0) {
+    $('p').each(function () {
+      const p = $(this);
+      // Skip if the paragraph contains a hyperlink — those use
+      // underline styling by convention, and aren't headings.
+      if (p.find('a').length) return;
+      const spans = p.find('span');
+      if (spans.length === 0) return;
+      let hasSubstantive = false;
+      let allUnderline = true;
+      spans.each(function () {
+        const s = $(this);
+        if (!s.text().trim()) return;
+        hasSubstantive = true;
+        const classes = (s.attr('class') || '').split(/\s+/);
+        if (!classes.some(c => styles.underlineClasses.has(c))) {
+          allUnderline = false;
+        }
+      });
+      if (!hasSubstantive || !allUnderline) return;
+      if (p.closest('h1, h2, h3, h4, h5, h6').length) return;
+      const text = p.text().trim();
+      // Headings should be short — anything past 200 chars is almost
+      // certainly an underlined-emphasis sentence, not a section title.
+      if (!text || text.length > 200) return;
+      p.replaceWith(`<h2>${text}</h2>`);
+    });
+  }
+
+  if (styles.largeFontClasses.size > 0) {
+    $('p').each(function () {
+      const p = $(this);
+      const spans = p.find('span');
+      if (spans.length === 0) return;
+      let hasSubstantive = false;
+      let allBig = true;
+      spans.each(function () {
+        const s = $(this);
+        if (!s.text().trim()) return; // skip whitespace-only spans
+        hasSubstantive = true;
+        const classes = (s.attr('class') || '').split(/\s+/);
+        const big = classes.some(c => styles.largeFontClasses.has(c));
+        // Bold no longer required — large-font alone is enough.
+        // Authors style section headings as large + possibly bold,
+        // large + italic, or large alone (e.g. The Marriage uses
+        // 16pt non-bold for "The Pledge" / "The Carrier" headings).
+        if (!big) allBig = false;
+      });
+      if (!hasSubstantive || !allBig) return;
+      // Skip if already inside a heading.
+      if (p.closest('h1, h2, h3, h4, h5, h6').length) return;
+      // Cap length — a long large-font passage is more likely an
+      // emphasized blockquote than a heading.
+      const text = p.text().trim();
+      if (!text || text.length > 200) return;
+      // Build replacement <h2> preserving the inner text content. We
+      // pull just the text so downstream `<strong>` wrapping won't
+      // double-emphasize the heading text (markdown headings shouldn't
+      // be re-bolded — `## **Title**` renders awkwardly).
+      p.replaceWith(`<h2>${text}</h2>`);
+    });
+  }
 
   // Bold: wrap span contents in <strong> if any of its classes are bold
   if (styles.boldClasses.size > 0) {
@@ -592,6 +1028,25 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
+  // Strikethrough: wrap span contents in <s> when any class applies
+  // `text-decoration: line-through`. remark-gfm renders markdown
+  // `~~text~~` as `<del>`, which is the rendered analogue. The Marriage
+  // of Cadmus and Harmony uses strikethrough in its quotations
+  // (e.g. striking out an outdated book title) — without preservation
+  // those edits get silently dropped.
+  if (styles.strikethroughClasses.size > 0) {
+    $('span').each(function () {
+      const el = $(this);
+      const classes = (el.attr('class') || '').split(/\s+/);
+      const isStrike = classes.some(c => styles.strikethroughClasses.has(c));
+      if (isStrike && el.text().trim()) {
+        if (!el.closest('s, del, strike').length) {
+          el.wrapInner('<s></s>');
+        }
+      }
+    });
+  }
+
   // Italic: wrap span contents in <em> if any of its classes are italic
   if (styles.italicClasses.size > 0) {
     $('span').each(function () {
@@ -604,6 +1059,117 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         }
       }
     });
+
+    // Merge runs of adjacent `<em>` siblings — including the case
+    // where each `<em>` sits inside its own `<span>` (gdoc emits one
+    // span per styled run, and entire-italic paragraphs land as a
+    // sequence of italic spans with no text between them). Turndown
+    // emits each `<em>` as `_..._`; consecutive close+open underscores
+    // fuse into `__` which markdown reads as BOLD. Night: a wholly-
+    // italic Orwell quote came out with `"__pacification__."` —
+    // sibling italic spans rendered as if pacification were bold.
+    // Walk the DOM, find chains of italic-only siblings (em, or span
+    // wrapping only em, with at most whitespace text between), and
+    // lift their contents into a single em.
+    const isItalicOnlySpan = (node: any): boolean => {
+      if (node.type !== 'tag' || node.name !== 'span') return false;
+      const c = $(node);
+      const kids = c.contents().toArray();
+      if (kids.length !== 1) return false;
+      return kids[0].type === 'tag' && kids[0].name === 'em';
+    };
+    const isItalicChainStart = (node: any): boolean =>
+      (node.type === 'tag' && node.name === 'em') || isItalicOnlySpan(node);
+    const innerEm = (node: any) =>
+      node.name === 'em' ? $(node) : $(node).children('em').first();
+    $('em, span').each(function () {
+      const node = this as any;
+      if (!isItalicChainStart(node)) return;
+      // Only process from the start of a run.
+      let prev = node.prev;
+      while (prev && prev.type === 'text' && !(prev.data || '').trim()) prev = prev.prev;
+      if (prev && isItalicChainStart(prev)) return; // not the head
+      const headEm = innerEm(node);
+      if (!headEm.length) return;
+      let cursor = node.next;
+      while (cursor) {
+        if (cursor.type === 'text' && !(cursor.data || '').trim()) {
+          cursor = cursor.next;
+          continue;
+        }
+        if (!isItalicChainStart(cursor)) break;
+        const followerEm = innerEm(cursor);
+        if (!followerEm.length) break;
+        headEm.append(followerEm.contents());
+        const dead = cursor;
+        cursor = cursor.next;
+        $(dead).remove();
+      }
+    });
+  }
+
+  // Image captions: when a `<p>` contains ONLY an `<img>` (no other
+  // substantive content), and the next non-empty `<p>` is "caption-
+  // shaped" — its paragraph class has `text-align: center` OR ALL its
+  // substantive spans are italic — wrap both elements in a `<figure>`
+  // and the caption text in a `<figcaption>`. Turndown rules emit
+  // those tags as raw HTML wrappers around the markdown-converted
+  // image + caption, preserving semantic figure structure for CSS to
+  // style. Heuristic chosen after a corpus scan: 100% of italic-after-
+  // image cases were genuine captions; centered-text-after-image is
+  // the standard Google Docs caption styling.
+  {
+    const isImageOnlyP = (p: ReturnType<typeof $>) => {
+      if (!p.find('img').length) return false;
+      // Image present; require no substantive text in the paragraph.
+      const text = p.text().replace(/\s/g, '');
+      return text.length === 0;
+    };
+    const isCaptionP = (p: ReturnType<typeof $>) => {
+      const cls = (p.attr('class') || '').split(/\s+/);
+      const isCentered = cls.some(c => styles.centeredClasses.has(c));
+      if (isCentered) return true;
+      // Italic-only fallback: every substantive span carries an italic
+      // class. Useful for docs where the author didn't center captions
+      // but italicized them (kristin-lavransdatter, etc).
+      const spans = p.find('span');
+      if (!spans.length) return false;
+      let hasSubstantive = false;
+      let allItalic = true;
+      spans.each(function () {
+        const s = $(this);
+        if (!s.text().trim()) return;
+        hasSubstantive = true;
+        const sc = (s.attr('class') || '').split(/\s+/);
+        if (!sc.some(c => styles.italicClasses.has(c))) allItalic = false;
+      });
+      return hasSubstantive && allItalic;
+    };
+    $('body > p, body > div > p').each(function () {
+      const p = $(this);
+      if (!isImageOnlyP(p)) return;
+      // Find next paragraph sibling, skipping empty paragraphs.
+      let next = p.next();
+      while (next.length && next.is('p') && !next.text().replace(/\s/g, '').length) {
+        next = next.next();
+      }
+      if (!next.length || !next.is('p')) return;
+      if (!isCaptionP(next)) return;
+      // Cap on caption length to avoid sweeping up long-prose body
+      // paragraphs that happen to be centered (rare but possible).
+      const captionText = next.text().trim();
+      if (!captionText || captionText.length > 500) return;
+      // Wrap both in <figure>, and move the caption content into
+      // <figcaption>. Preserve the original markup of both elements.
+      const figure = $('<figure></figure>');
+      p.before(figure);
+      figure.append(p);
+      const figcaption = $('<figcaption></figcaption>');
+      // Move all children of the caption paragraph into figcaption.
+      figcaption.append(next.contents());
+      next.remove();
+      figure.append(figcaption);
+    });
   }
 
   // Blockquote: wrap each indented block in its own <blockquote>. Adjacent
@@ -615,7 +1181,82 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
   // docs — 2025's biggest chunk has thousands of <p> elements and caused
   // multi-minute stalls under the previous grouping approach).
   if (styles.indentClasses.size > 0 || styles.classMargins.size > 0) {
+    // Poem-run detection: a sequence of 5+ consecutive `<p>` siblings
+    // (separated only by empty `<p>` stanza-breaks) that all carry a
+    // class with margin-left in the 10pt–36pt range — i.e. a small
+    // visual indent that's below the standard blockquote threshold —
+    // is almost always a verse passage the author indented as a poetry
+    // block. CS Lewis's "A Confession" + "Joys that Sting" use 14.2pt
+    // for every line of each poem; below the default 36pt threshold,
+    // so without this detection the lines render as plain body
+    // paragraphs. Mark every <p> in such a run with a sentinel
+    // attribute so the downstream blockquote-grouper treats them as
+    // indented regardless of the per-class margin.
+    const POEM_INDENT_MIN = 10;
+    const POEM_INDENT_MAX = 36;
+    const POEM_RUN_MIN = 5;
+    const hasSmallIndent = (p: ReturnType<typeof $>) => {
+      const classes = (p.attr('class') || '').split(/\s+/);
+      let ml = 0;
+      let ti = 0;
+      for (const c of classes) {
+        const m = styles.classMargins.get(c);
+        if (!m) continue;
+        ml += m.marginLeft;
+        ti += m.textIndent;
+      }
+      // Hanging indent (negative text-indent) signals a list item —
+      // skip those, same logic as `marginsAreIndented` itself.
+      if (ti <= -10) return false;
+      return ml >= POEM_INDENT_MIN && ml < POEM_INDENT_MAX;
+    };
+    const siblings = $('body > p, body > div > p').toArray();
+    let runStart = -1;
+    let runLen = 0;
+    const flushRun = (endIdx: number) => {
+      if (runLen >= POEM_RUN_MIN) {
+        for (let k = runStart; k < endIdx; k++) {
+          $(siblings[k]).attr('data-poem-run', '1');
+        }
+      }
+      runStart = -1;
+      runLen = 0;
+    };
+    for (let i = 0; i < siblings.length; i++) {
+      const p = $(siblings[i]);
+      const isSmall = hasSmallIndent(p);
+      const isEmptyP = !p.text().trim() && !p.find('img').length;
+      if (isSmall) {
+        if (runStart < 0) runStart = i;
+        runLen++;
+      } else if (isEmptyP && runStart >= 0) {
+        // Empty paragraph inside a candidate run is a stanza break —
+        // don't reset the run.
+        continue;
+      } else {
+        flushRun(i);
+      }
+    }
+    flushRun(siblings.length);
+
+    // Single-paragraph poem-block: a single `<p>` with a small-indent
+    // class and 5+ `<br>` inside is the same author intent as a run of
+    // many sibling `<p>` poem lines — just expressed with line-break
+    // markup instead of paragraph breaks. CS Lewis's "Joys that Sting"
+    // packs the entire 14-line poem into one `<p class="c2 c17">` with
+    // `<br>` between each verse line.
+    for (const block of siblings) {
+      const p = $(block);
+      if (p.attr('data-poem-run')) continue;
+      if (!hasSmallIndent(p)) continue;
+      const brCount = p.find('br').length;
+      if (brCount >= 5) {
+        p.attr('data-poem-run', '1');
+      }
+    }
+
     const isElementIndented = (el: ReturnType<typeof $>) => {
+      if (el.attr('data-poem-run')) return true;
       return isParagraphIndented($, el, styles);
       // Note: we do NOT fall back to checking `<li>` margin on a
       // `<ul>`/`<ol>` element. Google Docs gives every `<li>` a
@@ -626,6 +1267,107 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       // indent class (or sit between other indented `<p>` elements,
       // which the markdown-phase detector handles).
     };
+
+    // Preserve source paragraph spacing inside blockquotes: when two
+    // indented `<p>`s sit directly adjacent in the source (no empty
+    // `<p>` between them), merge them into one `<p>` with `<br>` so
+    // turndown emits them as a single multi-line blockquote paragraph
+    // (no blank `>` between). When the source DID have an empty `<p>`
+    // between, leave them separate — turndown drops the empty `<p>`
+    // and the downstream merge inserts a blank `>` separator.
+    //
+    // This makes Merry Wives' MISTRESS FORD/MISTRESS PAGE blocks
+    // render consistently (the previous behavior fired poetry-
+    // compaction on short runs but not long ones, producing alternately
+    // tight and loose stacks for blocks that were structurally
+    // identical in the source).
+    {
+      // Sum padding-bottom across all classes applied to a paragraph.
+      // The gdoc author's intent: padding-bottom == 0 → next paragraph
+      // stacks tight (script-style speaker lines); > 0 → next
+      // paragraph gets a visual gap (normal prose). Tight stacking
+      // wants `<br>` merge; gappy stacking wants paragraph break.
+      const paragraphPaddingBottom = (p: ReturnType<typeof $>) => {
+        const classes = (p.attr('class') || '').split(/\s+/);
+        let pb = 0;
+        for (const c of classes) {
+          const m = styles.classMargins.get(c);
+          if (m) pb += m.paddingBottom;
+        }
+        return pb;
+      };
+      const PADDING_TIGHT_MAX = 3;
+      const candidates = $('body > p, body > div > p').toArray();
+      let i = 0;
+      while (i < candidates.length) {
+        const head = $(candidates[i]);
+        if (!isElementIndented(head)) { i++; continue; }
+        // Don't merge into paragraphs that the upstream `<br>+nbsp`
+        // splitter created — those are deliberate prose-paragraph
+        // breaks that we just unfolded out of one big `<p>`.
+        if (head.attr('data-split-paragraph')) { i++; continue; }
+        // Only merge tight when the paragraph itself has no
+        // padding-bottom — meaning the author styled it to butt up
+        // against the next line without a visual gap.
+        if (paragraphPaddingBottom(head) > PADDING_TIGHT_MAX) {
+          i++;
+          continue;
+        }
+        // Collect a run of directly-adjacent indented siblings.
+        const runMembers: ReturnType<typeof $>[] = [head];
+        let j = i + 1;
+        while (j < candidates.length) {
+          const next = $(candidates[j]);
+          // An empty `<p>` between two indented `<p>`s is a source
+          // separator; break the run so it survives as a blank `>`.
+          if (!next.text().trim() && !next.find('img').length) break;
+          if (!isElementIndented(next)) break;
+          // Same split-paragraph guard for follow-on members.
+          if (next.attr('data-split-paragraph')) break;
+          // Padding-bottom guard: if NEXT carries a visual gap, the
+          // run ends BEFORE it (next becomes its own paragraph).
+          if (paragraphPaddingBottom(next) > PADDING_TIGHT_MAX) {
+            runMembers.push(next);
+            j++;
+            break;
+          }
+          // Don't merge across siblings that aren't immediate DOM
+          // neighbors (some `body > div > p` block between them would
+          // mean we'd be picking up a non-adjacent paragraph).
+          if ((head[0] as any).parent !== (next[0] as any).parent) break;
+          // Verify actual DOM adjacency between the last runMember and
+          // `next`. The candidates list contains only `<p>` elements, so
+          // intervening `<ol>`/`<ul>`/`<table>`/etc. are invisible to the
+          // loop. Walking sibling pointers catches them and prevents the
+          // merge from re-ordering content across non-`<p>` blocks
+          // (Plotting Your Fantasy Novel: indented intro paragraphs
+          // sandwiching `<ol>` numbered lists).
+          const last = runMembers[runMembers.length - 1];
+          let sib: any = (last[0] as any).next;
+          let blockedByOtherTag = false;
+          while (sib && sib !== next[0]) {
+            if (sib.type === 'tag' && sib.name !== 'p') {
+              blockedByOtherTag = true;
+              break;
+            }
+            sib = sib.next;
+          }
+          if (blockedByOtherTag) break;
+          runMembers.push(next);
+          j++;
+        }
+        if (runMembers.length >= 2) {
+          // Append each subsequent paragraph's contents to the first
+          // with a `<br>` between, then remove the now-empty originals.
+          for (let k = 1; k < runMembers.length; k++) {
+            head.append('<br>');
+            head.append(runMembers[k].contents());
+            runMembers[k].remove();
+          }
+        }
+        i = j;
+      }
+    }
 
     const allBlocks = $('body > p, body > ul, body > ol, body > div > p, body > div > ul, body > div > ol').toArray();
     for (let bi = 0; bi < allBlocks.length; bi++) {
@@ -660,12 +1402,30 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         // long paragraphs and don't need this marker; the markdown
         // merge step already produces a `>` paragraph-break that
         // renders correctly.
-        if (prev && next && isElementIndented(prev) && isElementIndented(next)) {
+        if (prev && next) {
           const POETRY_LINE_MAX = 100;
           const prevText = prev.text().trim();
           const nextText = next.text().trim();
-          if (prevText.length <= POETRY_LINE_MAX && nextText.length <= POETRY_LINE_MAX) {
-            el.html('<br>');
+          const bothShort =
+            prevText.length <= POETRY_LINE_MAX && nextText.length <= POETRY_LINE_MAX;
+          const bothIndented = isElementIndented(prev) && isElementIndented(next);
+          // Italic-only neighbors are downstream-wrapped as blockquotes
+          // by cleanupMarkdown's italic-run rule; we need the same
+          // empty-<p>→`> `-marker treatment so the source's stanza
+          // breaks survive turndown (otherwise the markdown-stage merge
+          // adds a `>` blank between EVERY adjacent italic-quote pair,
+          // losing the within-stanza vs between-stanza distinction).
+          const bothItalic =
+            isParagraphAllItalic($, prev, styles.italicClasses) &&
+            isParagraphAllItalic($, next, styles.italicClasses);
+          if (bothShort && (bothIndented || bothItalic)) {
+            // Use a text sentinel inside the <br>s so the marker
+            // survives turndown intact. A bare `<br>` inside an empty
+            // `<p>` inside `<blockquote>` collapses to nothing — losing
+            // the stanza-break signal. The markdown stage recognizes
+            // `XSTANZABREAKX` lines and strips them after the tight-
+            // stack rule has used their position to skip collapsing.
+            el.html('<br>XSTANZABREAKX<br>');
             el.wrap('<blockquote></blockquote>');
           }
         }
@@ -749,9 +1509,42 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
 }
 
 /**
+ * Options for tuning markdown cleanup behavior per-review.
+ */
+export interface CleanupMarkdownOptions {
+  // Disable the "single-paragraph pull-quote becomes blockquote" rule
+  // (lines that start and end with `"…"`/`“…”` get a `> ` prefix). Use
+  // for docs where fully-quoted dialogue lines are not pull quotes (e.g.
+  // planecrash, where every dialogue line is wrapped in quotes but
+  // belongs as body prose, not as a visual block).
+  disableQuotedParagraphAsBlockquote?: boolean;
+  // Wrap paragraphs whose substantive spans all use a font-family
+  // different from the body's dominant font as blockquotes. Used for
+  // Tortilla Flat, where the author set off long passages from
+  // Steinbeck and Dana in Times New Roman while the body is in Arial
+  // (same point size; Times New Roman is visually smaller). Not safe
+  // in general — opt in per slug.
+  minorityFontAsBlockquote?: boolean;
+  // Merge runs of consecutive non-empty `<p>` siblings into one
+  // paragraph, treating only empty `<p>` tags as paragraph separators.
+  // Used for docs where the source had hard line-end breaks at each
+  // visual line (so every wrapped line becomes its own `<p>`), and the
+  // author used an empty `<p>` between real paragraphs as the only
+  // intended break. Free Agents / Determined comparative review.
+  joinAdjacentParagraphs?: boolean;
+  // Group runs of consecutive short (≤80 char) non-empty `<p>`
+  // siblings into stanzas: merge each run into one `<p>` with `<br>`
+  // line breaks and wrap in `<blockquote>`. Empty `<p>` tags or any
+  // non-`<p>` element separate stanzas. Used for docs that intersperse
+  // short poetic lines with regular prose paragraphs (Meeting, Hardly
+  // Meeting). Not safe in general — opt in per slug.
+  shortLinesAsPoetryStanzas?: boolean;
+}
+
+/**
  * Clean up markdown output
  */
-export function cleanupMarkdown(markdown: string): string {
+export function cleanupMarkdown(markdown: string, options: CleanupMarkdownOptions = {}): string {
   let md = markdown
     // Normalize non-breaking spaces to regular spaces. Google Docs inserts
     // `&nbsp;` (U+00A0) around italicized/bolded runs to prevent awkward
@@ -770,6 +1563,28 @@ export function cleanupMarkdown(markdown: string): string {
     // setext-heading underline, which includes mid-line contexts like
     // "summary: \- The Ottoman Empire ...".
     .replace(/\\-/g, '-')
+    // Collapse multiple whitespace after a numbered- or bulleted-list
+    // marker. Google Docs sometimes uses a span with 5+ nbsps between
+    // the bullet/number and the content (visual hanging indent that
+    // replaces the standard list-item indent). After nbsp→space
+    // normalization those become 5+ regular spaces, and CommonMark
+    // treats the content as an INDENTED CODE BLOCK inside the list
+    // item — rendering "Peacocking" etc as monospace gray. Don't Bang
+    // Denmark is the canonical example. Collapse to a single space
+    // so the list item stays a normal list item.
+    .replace(/^(\s*(?:\*\*)?(?:\d+\.|[-*•])(?:\*\*)?) {2,}(?=\S)/gm, '$1 ')
+    // Restore escaped blockquote markers at the start of a line. Turndown
+    // emits `\>` when a `>`-character text fragment sits at the start of
+    // a paragraph and could be mistaken for a blockquote marker. The
+    // italic-wrapped variant `_\> ... _` happens when the whole paragraph
+    // carried italic styling — Google Docs sometimes italicizes
+    // typewriter-style quoted excerpts (e.g. Orality and Literacy
+    // quoting Homer with `_> ..._`). In both cases the author meant a
+    // real blockquote; convert to `> ...`. The italic wrapper is
+    // dropped — `>` itself can't be italicized in markdown and the
+    // visual effect of italic-on-quoted-prose isn't load-bearing.
+    .replace(/^_\\>\s*(.+?)_\s*$/gm, '> $1')
+    .replace(/^\\>/gm, '>')
     // Clean up multiple consecutive blank lines
     .replace(/\n{4,}/g, '\n\n\n')
     // Remove escaped asterisks at line starts (but preserve ** for bold)
@@ -783,7 +1598,22 @@ export function cleanupMarkdown(markdown: string): string {
     // when sandwiched between non-whitespace characters; a `****` line by
     // itself is a thematic break and must be preserved.
     .replace(/(?<=\S)\*\*\*\*(?=\S)/g, '')
-    .replace(/(?<=\S)____(?=\S)/g, '');
+    .replace(/(?<=\S)____(?=\S)/g, '')
+    // Repair broken italic across a non-italic span (typically a book
+    // title set in roman inside italic prose):
+    //   `_X_ Y_punct...rest_` → `_X_ Y*punct...rest*`
+    // CommonMark's `_` flanking rules disallow `_` from opening when
+    // preceded by an alphanumeric and followed by punctuation (e.g.
+    // `Karamazov_.`), so the second italic chunk renders as literal
+    // underscores. `*` has more lenient flanking and opens cleanly
+    // before punctuation. Constrained to: a balanced `_X_`, then space,
+    // then a non-italic chunk, then an italic run that STARTS with
+    // punctuation — that combination is exactly the "italic / roman
+    // title / italic-resumed" pattern and is otherwise unambiguous.
+    .replace(
+      /(_[^_\n]+?_)(\s+)([^_\n]+?)_([.,;:][^_\n]*?)_/g,
+      '$1$2$3*$4*'
+    );
 
   // Dedent italic-only lines that start with significant leading
   // whitespace. Some authors indent poem lines via &nbsp; runs for
@@ -815,6 +1645,62 @@ export function cleanupMarkdown(markdown: string): string {
   // would dedent to `# get wins`, which the H1-splitter then sees as
   // a new review boundary and splits one review into many.
   md = md.replace(/^ {4,}(?=(?:\*\*|_))/gm, '');
+
+  // Mid-word italic fix. CommonMark's underscore flanking forbids an
+  // opening `_` from being preceded by an alphanumeric AND followed by
+  // an alphanumeric (it can do neither open nor close in that position
+  // — the `_` becomes literal). Google Docs commonly emits whole-word
+  // italic adjacent to non-italic text — `It_is_ a wonder` produces
+  // a sandwiched opening `_` that renders as a literal underscore.
+  //
+  // The rule has to be VERY narrow. Only an opening `_` that has a
+  // word character on BOTH sides is broken. An `_` preceded by a word
+  // but followed by space/punctuation is a legitimate CLOSE for a
+  // previous italic; rewriting it severs that pair and damages
+  // unrelated nearby `_..._` runs (Alice in Puzzle-Land had
+  // `_Title_ ... _Other_` and a too-lax rule glued `Title_…_Other`
+  // into one bogus span).
+  //
+  // Pattern: `(?<=\w)_(\w[^_\n]*?\w)_(?!\w)` — opening `_` sandwiched
+  // between two word chars, content begins and ends with a word char,
+  // closing `_` followed by non-word (so the close is a valid right-
+  // flank). Mirror rule for `_word_text` (closing sandwiched).
+  //
+  // Mask link/image URLs first so we don't rewrite underscores INSIDE
+  // a URL (`(https://…/House_of_Leaves)` is a real link).
+  {
+    const placeholders: string[] = [];
+    let masked = md.replace(/(!?\[[^\]\n]*\]\([^)\n]+\))|(<[a-z]+:[^>]+>)/g, (m) => {
+      const i = placeholders.length;
+      placeholders.push(m);
+      return `XXLINKMASKXX${i}XXENDXX`;
+    });
+    masked = masked
+      .replace(/(?<=\w)_(\w[^_\n]*?\w)_(?!\w)/g, '*$1*')
+      .replace(/(?<!\w)_(\w[^_\n]*?\w)_(?=\w)/g, '*$1*');
+    md = masked.replace(/XXLINKMASKXX(\d+)XXENDXX/g, (_m, i) => placeholders[Number(i)]);
+  }
+
+  // Strip 4+ leading spaces from ANY prose line. Reviews never contain
+  // code — every CommonMark "indented code block" we've ever seen has
+  // been a Google Docs paragraph indent or a leftover `&nbsp;` run. The
+  // code-block render is unreadable (monospace, no wrapping). Exclude
+  // legitimate continuation contexts: list items (markers `*`/`-`/`+`/
+  // `\d+.`), blockquotes (`>`), tables (`|`), fenced code (` ``` ` /
+  // `~~~`), and headings (`#`). Anything else with that much leading
+  // whitespace is an accident.
+  md = md.replace(/^ {4,}(?![*+\-]|\d+\.|>|`{3,}|~{3,}|\||#)/gm, '');
+
+  // Strip inline `code` backticks and fenced code blocks. Reviews
+  // never contain code that needs monospace rendering; backticks in
+  // the source are almost always a Google Docs auto-format artifact
+  // around quoted text or domain terms. Inline single-backtick spans
+  // become plain text; fenced blocks have their fence lines dropped.
+  md = md
+    .replace(/`([^`\n]+)`/g, '$1')
+    .split('\n')
+    .filter(line => !/^[ \t]*(?:`{3,}|~{3,})/.test(line))
+    .join('\n');
 
   // Quote-block detection: when a run of italic-only paragraphs is
   // followed (across blank lines) by a single blockquote-list-item
@@ -884,6 +1770,35 @@ export function cleanupMarkdown(markdown: string): string {
     md = lines.join('\n');
   }
 
+  // Convert single-paragraph pull-quotes to blockquotes. Pattern: a line
+  // that STARTS with `"` or `"` and ENDS with `"` or `"` (optionally
+  // followed by a parenthesized citation like `(intro)`, `(189-90)`, or
+  // ` [1]`), with no intervening quote marks. This catches the common
+  // convention of setting off a long quoted passage as its own paragraph
+  // (Affluent Society uses this for every excerpt from Galbraith).
+  // Risk of false positives is low — paragraph-shaped lines that open
+  // AND close on a quotation, with nothing outside the quotes other than
+  // a citation, are essentially always pull-quotes.
+  if (!options.disableQuotedParagraphAsBlockquote) {
+    const OPEN_QUOTE = /[“"]/;
+    // Match optional trailing `_` or `*` after the closing quote — Google
+    // Docs sometimes wraps the close-quote glyph in an italic span (the
+    // gdoc author hit italic mid-line), so the line ends with e.g.
+    // `…holiday.**_”_` instead of `…holiday."`. Accept that variant so
+    // the line still counts as a single-paragraph pull quote.
+    const QUOTE_PARA_RE =
+      /^[“"][^“”"\n]+[”"][_*]?(?:\s*\([^)\n]+\))?(?:\s*\[\d+\])?\s*$/;
+    md = md
+      .split('\n')
+      .map(line => {
+        if (!OPEN_QUOTE.test(line[0] || '')) return line;
+        if (line.startsWith('> ')) return line; // already a blockquote
+        if (!QUOTE_PARA_RE.test(line)) return line;
+        return `> ${line}`;
+      })
+      .join('\n');
+  }
+
   // Merge adjacent blockquote paragraphs separated by a single blank line
   // into a single multi-paragraph blockquote. We emit one <blockquote> per
   // indented block (to avoid O(N²) DOM moves during the GDoc→HTML pass);
@@ -892,125 +1807,47 @@ export function cleanupMarkdown(markdown: string): string {
   // global match is non-overlapping, so a single pass merges chains.
   md = md.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
 
-  // Poetry-compaction pass for blockquotes. A multi-paragraph
-  // blockquote whose every text paragraph is a single short line
-  // (≤80 plain-text chars) is almost always poetry / song lyrics /
-  // short verse-like content. Render those compactly:
-  //   - Each non-last short text paragraph gets a trailing two-space
-  //     hard line break instead of a blank-`>` separator.
-  //   - The result is one multi-line paragraph inside the blockquote
-  //     (rendered with `<br>` between lines) — the visual rhythm of
-  //     verse is preserved without huge per-line vertical gaps.
-  //
-  // List items, nested blockquotes, and headings inside the
-  // blockquote (e.g. a `> *   _Source_` attribution) are passed
-  // through unchanged. If the blockquote contains ANY long text
-  // paragraph or any multi-line text paragraph, we leave the whole
-  // thing alone — prose blockquotes should keep their paragraph
-  // structure.
+  // (Poetry-compaction pass removed.) Source-paragraph spacing is now
+  // preserved by the HTML-stage adjacent-`<p>` merge: paragraphs the
+  // author wrote as adjacent siblings (no empty `<p>` between) are
+  // glued into one `<p>` with `<br>` so they emit as a single multi-
+  // line blockquote paragraph; paragraphs separated by an empty `<p>`
+  // stay separate and the markdown-stage blockquote-merge inserts the
+  // blank `>` between them. The old poetry-compaction had to guess
+  // from line length and produced inconsistent output (e.g. Merry
+  // Wives' short FORD/Did pair tightened while the long PAGE/Letter
+  // pair stayed loose, despite identical source structure).
+
+  // Convert hard-break joins between prose paragraphs (outside any
+  // blockquote) into proper paragraph breaks. Some gdocs use `<br>`
+  // between sibling paragraphs inside one `<p>` instead of separate
+  // `<p>` elements; turndown emits `  \n` (trailing two-space hard
+  // break) between them, and the renderer shows them as a single
+  // paragraph with line-breaks instead of multiple paragraphs.
+  // Outside blockquotes (where `  ` is usually a verse-line marker),
+  // hard-break-joined prose is almost always a paragraph-break
+  // formatting error in the source.
   {
-    const POETRY_THRESHOLD = 80;
-    const isQuotePrefix = (s: string) => /^>/.test(s);
-    const isQuoteBlank = (s: string) => /^>\s*$/.test(s);
-    // A "stanza marker" is a `>` line with 2+ trailing whitespace chars.
-    // It's produced upstream from an empty `<p><br></p>` between two
-    // indent-classed paragraphs (a stanza break that the author wrote
-    // as a fully-blank paragraph between verse stanzas). Distinguished
-    // from the bare `>` paragraph-break that the markdown-merge inserts
-    // between adjacent blockquoted paragraphs — those should NOT count
-    // as stanza breaks.
-    const isStanzaMarker = (s: string) => /^>\s{2,}$/.test(s);
-    const isQuoteListItem = (s: string) => /^>\s*([-*]\s|\d+\.\s)/.test(s);
-    const isQuoteNested = (s: string) => /^>\s*>/.test(s);
-    const isQuoteHeading = (s: string) => /^>\s*#/.test(s);
-    const isQuoteText = (s: string) =>
-      isQuotePrefix(s) &&
-      !isQuoteBlank(s) &&
-      !isQuoteListItem(s) &&
-      !isQuoteNested(s) &&
-      !isQuoteHeading(s);
-    const plainTextLen = (s: string) =>
-      s.replace(/^>\s*/, '').replace(/[*_~`]/g, '').trim().length;
-    // Sentinel value used to mark blank-`>` paragraph-break lines that
-    // poetry compaction wants to delete. Filtered out after the
-    // outer-loop pass completes.
-    const POETRY_DEL = "__POETRY_LINE_DEL__";
-
     const lines = md.split('\n');
-    let i = 0;
-    while (i < lines.length) {
-      if (!isQuotePrefix(lines[i])) { i++; continue; }
-      // Find the extent of this blockquote group (maximal run of `>` lines).
-      const groupStart = i;
-      while (i < lines.length && isQuotePrefix(lines[i])) i++;
-      const groupEnd = i - 1;
-
-      // Within the group, find contiguous spans of text-paragraphs
-      // (each span = consecutive text-paragraphs separated by single
-      // blank-`>` lines). Each text paragraph must be a SINGLE line —
-      // a multi-line paragraph (consecutive non-blank-`>` lines) is
-      // left untouched.
-      let g = groupStart;
-      while (g <= groupEnd) {
-        if (!isQuoteText(lines[g])) { g++; continue; }
-        // Try to extend a run starting at g.
-        const runIdxs: number[] = [];
-        let h = g;
-        while (h <= groupEnd) {
-          if (!isQuoteText(lines[h])) break;
-          // Require this text line to be followed (within the group)
-          // by either a blank-`>` line, the end of the group, or a
-          // non-text quote line (list/nested/heading). If followed by
-          // another text line, it's a multi-line paragraph — abort.
-          const nextIsBlank = h + 1 > groupEnd || isQuoteBlank(lines[h + 1]);
-          const nextIsBoundary = h + 1 > groupEnd ||
-            isQuoteListItem(lines[h + 1]) ||
-            isQuoteNested(lines[h + 1]) ||
-            isQuoteHeading(lines[h + 1]);
-          if (!nextIsBlank && !nextIsBoundary) {
-            // Multi-line paragraph — skip the whole paragraph and
-            // abandon this run.
-            runIdxs.length = 0;
-            while (h <= groupEnd && isQuoteText(lines[h])) h++;
-            break;
-          }
-          runIdxs.push(h);
-          h++;
-          // Walk past bare `>` paragraph-break separators (still the
-          // same stanza), but STOP at a stanza marker (a `>` line with
-          // trailing whitespace, produced upstream from a fully-blank
-          // `<p>` between indented paragraphs). The outer loop will
-          // pick up a fresh run after the marker.
-          while (h <= groupEnd && isQuoteBlank(lines[h]) && !isStanzaMarker(lines[h])) h++;
-          if (h <= groupEnd && isStanzaMarker(lines[h])) break;
-        }
-
-        // Compact runs of 2+ short text paragraphs.
+    const out: string[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      const l = lines[i];
+      if (l.endsWith('  ') && !l.startsWith('>')) {
+        const next = lines[i + 1];
         if (
-          runIdxs.length >= 2 &&
-          runIdxs.every(idx => {
-            const L = plainTextLen(lines[idx]);
-            return L > 0 && L <= POETRY_THRESHOLD;
-          })
+          next !== undefined &&
+          next.trim() !== '' &&
+          !next.startsWith('>') &&
+          !next.startsWith('![')
         ) {
-          // For every non-last entry: add trailing two spaces (hard
-          // line break) and blank out any bare-`>` paragraph-break
-          // lines between this and the next entry (so the lines are
-          // contiguous in the rendered blockquote). The last entry
-          // stays as-is. Stanza markers were excluded from the run
-          // already, so we never delete those.
-          for (let k = 0; k < runIdxs.length - 1; k++) {
-            if (!/  $/.test(lines[runIdxs[k]])) lines[runIdxs[k]] = `${lines[runIdxs[k]]}  `;
-            for (let b = runIdxs[k] + 1; b < runIdxs[k + 1]; b++) {
-              lines[b] = POETRY_DEL;
-            }
-          }
+          out.push(l.replace(/\s+$/, ''));
+          out.push('');
+          continue;
         }
-        g = h;
       }
-      // Continue scanning past this group.
+      out.push(l);
     }
-    md = lines.filter(l => l !== POETRY_DEL).join("\n");
+    md = out.join('\n');
   }
 
   // Collapse consecutive blank-`>` lines in a blockquote into a single
@@ -1039,161 +1876,33 @@ export function cleanupMarkdown(markdown: string): string {
     }
   );
 
-  // Promote bold-only short standalone lines to H2 subheadings. Some
-  // authors style their subheadings as bold (sometimes also underlined
-  // or larger font) instead of using a proper Heading-2 style in
-  // Google Docs. Turndown drops the visual styling, leaving "**Title**"
-  // on a line by itself — which renders as a quiet inline bold span
-  // rather than the prominent section break the author intended.
-  //
-  // Heuristics (all must hold to promote):
-  //   1. The document doesn't already use any `#`-style ATX headings.
-  //      If the author used proper Heading-N styles anywhere, they
-  //      would have used them everywhere — so a bold-only line in such
-  //      a doc is emphasis, not a section title.
-  //   2. The entire line is wrapped in `**...**` and the inner text is
-  //      short (≤100 chars).
-  //   3. The text doesn't end with sentence punctuation
-  //      (`.`, `!`, `?`, `:`, `,`, `;`) — those cases are almost always
-  //      a bold sentence-fragment for emphasis, not a section title.
-  //   4. The line is flanked on BOTH sides (after skipping blank lines)
-  //      by a substantive non-bold-only paragraph (>=50 chars of plain
-  //      text). This rules out tier-list patterns like Bronze/Silver/Gold
-  //      where bold labels are stacked with short data values between
-  //      them — that's a list, not a section break.
-  //
-  // A leading ATX heading at the very start of the doc is almost always
-  // the doc's title (the gdoc author used a Heading-1 / Heading-2 style
-  // for the title even though the rest of their structure is bold-only).
-  // It doesn't count as evidence that the doc uses proper headings
-  // throughout, so we look past it.
-  const atxHeadingLines = ((md.split('\n').map((l, i) => ({l, i}))
-    .filter(({l}) => /^#{1,6}\s+\S/.test(l))) || []);
-  const titleAtTop = atxHeadingLines.length > 0 && (() => {
-    const firstIdx = atxHeadingLines[0].i;
-    const linesArr = md.split('\n');
-    for (let i = 0; i < firstIdx; i++) {
-      if (linesArr[i].trim()) return false; // some content precedes — not a title
-    }
-    return true;
-  })();
-  const nonTitleHeadingCount = atxHeadingLines.length - (titleAtTop ? 1 : 0);
-  if (nonTitleHeadingCount === 0) {
+  // Promote bold-only short standalone lines to H2. Simplest possible
+  // rule (per user feedback after the older heuristic-stack got too
+  // fragile): a line that is ENTIRELY `**…**` and short (≤120 chars
+  // inside the delimiters) becomes a heading. Skip lines that are
+  // clearly NOT headings:
+  //   • Sentence-fragment punctuation at the end (`,` / `;`) — those
+  //     are bold emphasis runs inside a paragraph.
+  //   • A leading em/en-dash — almost always a bold attribution after
+  //     a quote (`**— Author**`), not a section title.
+  // A trailing `.`/`?`/`:` is FINE — titles like `The Pledge.` and
+  // `What about X?` are common.
+  {
     const lines = md.split('\n');
-    const isBoldOnly = (s: string) => /^\*\*[^*\n]{1,100}\*\*[ \t]*$/.test(s);
-    const SUBSTANTIVE_CHARS = 50;
-    // "Transparent" lines that we walk past while looking for the
-    // substantive prose flanking a candidate heading: blanks, italic-only
-    // quote lines, and blockquote lines. These commonly sit between a
-    // section heading and the prose that follows (e.g. an italic-quoted
-    // epigraph), so they shouldn't block the substantive-context check.
-    const isTransparent = (s: string) => {
-      const t = s.trim();
-      if (!t) return true;
-      if (/^_[^_\n]{1,200}_[ \t]*$/.test(t)) return true; // italic-only line
-      if (/^>/.test(t)) return true; // blockquote (incl. blockquote-list items)
-      return false;
-    };
-    const walkAbove = (i: number) => {
-      let j = i - 1;
-      while (j >= 0 && isTransparent(lines[j])) j--;
-      return j;
-    };
-    const walkBelow = (i: number) => {
-      let j = i + 1;
-      while (j < lines.length && isTransparent(lines[j])) j++;
-      return j < lines.length ? j : -1;
-    };
-    const isSubstantivePara = (idx: number) => {
-      if (idx < 0) return false;
-      const l = lines[idx];
-      if (isBoldOnly(l)) return false;
-      const text = l
-        .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
-        .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
-        .replace(/[*_~`>#]/g, '')
-        .trim();
-      return text.length >= SUBSTANTIVE_CHARS;
-    };
-    const nearestNonBlankAbove = (i: number) => {
-      let j = i - 1;
-      while (j >= 0 && lines[j].trim() === '') j--;
-      return j;
-    };
-    const isItalicOnly = (s: string) => /^_[^_\n]{1,200}_[ \t]*$/.test(s.trim());
-
-    // Section-numbered prefix: optional word ("Part", "Chapter", "Section",
-    // "Step", "Volume", "Book"), then a Roman numeral / digit / single capital
-    // letter, optionally a period (possibly turndown-escaped as `\.`), then
-    // whitespace, end-of-line, or a `?`/`:` (which the author often uses to
-    // lead into the section title or body). Covers:
-    //   `**I.**`, `**II. Why so secular?**`, `**0.5. Subtopic**`,
-    //   `**IV. Archimedes Chronophone, revisited:**`, `**Part 2: …**`,
-    //   `**Chapter 3**`, `**A. Background**`, `**1\. Systems of …**`
-    //   (turndown escapes `N.` at line start as `N\.` to prevent CommonMark
-    //   from reading it as a numbered-list marker).
-    const SECTION_NUMBERED_RE =
-      /^(?:(?:Part|Chapter|Section|Step|Volume|Book)\s+)?(?:[IVXLCDM]+|\d+(?:\.\d+)?|[A-Z])\\?\.?(?:\s|$|[?:])/i;
-
-    // First pass: collect indices of bold-only lines whose text matches the
-    // section-numbered pattern. If 3+ such lines exist in the doc, we treat
-    // them as a "group" and promote them all — even if individual ones fail
-    // the substantive-prose-flanking check (e.g. one of N sections happens
-    // to be sandwiched between very short paragraphs).
-    const sectionNumberedIdx: number[] = [];
     for (let i = 0; i < lines.length; i++) {
-      const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
-      if (!m) continue;
-      const t = m[1].trim();
-      if (SECTION_NUMBERED_RE.test(t)) sectionNumberedIdx.push(i);
-    }
-    const sectionGroupActive = sectionNumberedIdx.length >= 3;
-    const sectionGroupSet = new Set(sectionNumberedIdx);
-
-    for (let i = 0; i < lines.length; i++) {
-      const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
+      const m = /^\*\*([^*\n]{1,120})\*\*[ \t]*$/.exec(lines[i]);
       if (!m) continue;
       const text = m[1].trim();
       if (!text) continue;
-      const isSectionNumbered = sectionGroupSet.has(i);
-      // End-punctuation: a section title is rarely a sentence fragment ending
-      // in `.`, `!`, `,`, or `;`. For section-numbered headings (Roman numerals,
-      // `Part N:`, `0.5.`, etc.), the trailing `.`, `?`, or `:` is part of the
-      // title pattern, so we allow those.
-      if (isSectionNumbered) {
-        if (/[!;,]$/.test(text)) continue;
-      } else {
-        if (/[.!?:;,]$/.test(text)) continue;
-      }
-      // A line that starts or ends with an em/en-dash (or stray hyphen)
-      // is almost always either a quote attribution (`– Author Name`)
-      // or a trailing sentence fragment, not a section title.
+      // Reject bold lines that end with any sentence punctuation. Real
+      // titles usually don't end in `.!?:;,` — and reviews like The Son
+      // Also Rises use bold-sentence emphasis whose every instance ends
+      // in `.`, which we don't want sweeping into the heading tree.
+      // Headings styled with a TRUE Heading-N style or with large-font
+      // styling are handled separately in the HTML-stage pass.
+      if (/[.!?:;,]$/.test(text)) continue;
       if (/^[-–—]|[-–—]$/.test(text)) continue;
-      // If the line immediately above (no walking) is an italic-only
-      // quote line, the bold line is almost always an attribution to
-      // that quote, even when the dash convention isn't used.
-      const immAbove = nearestNonBlankAbove(i);
-      if (immAbove >= 0 && isItalicOnly(lines[immAbove])) continue;
-      // EITHER side must have substantive prose nearby (after walking past
-      // transparent quote/blockquote lines). Both-sides-substantive was too
-      // strict: section headings often introduce a quote block before any
-      // prose. Either-side is permissive enough to catch those without
-      // letting tier-list patterns through — tier labels are flanked by
-      // short non-italic non-blockquote data values, which the walk stops
-      // on (and which fail the substantiveness check).
-      //
-      // Override: when the doc has 3+ section-numbered bold-only lines, we
-      // treat them as a confirmed group and promote them all, regardless of
-      // per-line context. This handles inconsistent surrounding paragraph
-      // lengths within an otherwise-clearly-structured doc.
-      if (!(sectionGroupActive && isSectionNumbered)) {
-        const aboveSub = isSubstantivePara(walkAbove(i));
-        const belowSub = isSubstantivePara(walkBelow(i));
-        if (!aboveSub && !belowSub) continue;
-      }
-      // Strip turndown's `\.` escape when emitting the heading: inside `## …`
-      // the period is no longer at line start so the escape would just render
-      // as a literal backslash in some markdown renderers.
+      // Strip turndown's `\.` escape; inside `## …` it's not needed.
       const headingText = text.replace(/(\d)\\\./g, '$1.');
       lines[i] = `## ${headingText}`;
     }
@@ -1209,7 +1918,10 @@ export function cleanupMarkdown(markdown: string): string {
   // bracketed `[N] content` form so extractPlain picks them up and uses
   // its bare-digit fallback to rewire the body refs.
   //
-  // Heuristic: walk back from EOF, collecting consecutive "N   content"
+  // Also handles the `N: content` form (colon separator, no extra
+  // whitespace) used by docs like A Residence of Twenty-One Years.
+  //
+  // Heuristic: walk back from EOF, collecting consecutive numbered-def
   // lines (allowing blank lines between). Require 2+ such lines to avoid
   // converting a single coincidentally numbered tail paragraph.
   {
@@ -1217,9 +1929,23 @@ export function cleanupMarkdown(markdown: string): string {
     let i = lines.length - 1;
     while (i >= 0 && lines[i].trim() === '') i--;
     const defIndices: number[] = [];
+    // Match trailing footnote defs in any of these shapes:
+    //   `N   content`     — two-space gap
+    //   `N: content`      — colon
+    //   `[N]: content`    — bracketed + colon (looks like a markdown
+    //                      link-reference def, but with prose content,
+    //                      not a URL, it's a footnote def)
+    //   `**N**. content`  — bold number + period (Mentzer style)
+    //   `**N**: content`  — bold number + colon
+    // For the bracketed form, exclude lines whose content is a URL
+    // (those ARE link-reference defs).
+    const TAIL_DEF_RE =
+      /^(?:\d+(?:\s{2,}|:\s+)|\[\d+\]:\s+|\*\*\d+\*\*[.:]\s+)\S/;
+    const isLinkRefDef = (line: string) =>
+      /^\[\d+\]:\s+<?https?:\/\//.test(line);
     while (i >= 0) {
       const line = lines[i];
-      if (/^\d+\s{2,}\S/.test(line)) {
+      if (TAIL_DEF_RE.test(line) && !isLinkRefDef(line)) {
         defIndices.push(i);
         i--;
         continue;
@@ -1232,9 +1958,226 @@ export function cleanupMarkdown(markdown: string): string {
     }
     if (defIndices.length >= 2) {
       for (const idx of defIndices) {
-        lines[idx] = lines[idx].replace(/^(\d+)\s{2,}/, '[$1] ');
+        lines[idx] = lines[idx]
+          .replace(/^(\d+)\s{2,}/, '[$1] ')
+          .replace(/^(\d+):\s+/, '[$1] ')
+          .replace(/^\[(\d+)\]:\s+/, '[$1] ')
+          .replace(/^\*\*(\d+)\*\*[.:]\s+/, '[$1] ');
       }
       md = lines.join('\n');
+    }
+  }
+
+  // Numbered footnote defs after a "Footnotes" / "Footnote" marker.
+  // Some gdoc authors title a section "Footnotes" (or "Footnote:" for a
+  // single one) and then list defs as plain numbered paragraphs
+  // `N. text` (turndown sometimes escapes the period as `N\.` when N
+  // could otherwise start a numbered list). Body refs use the
+  // convention `[N]` (a bare bracketed digit, often preceded by a
+  // space).
+  //
+  // Rewrite both to pandoc-style `[^N]` so lib/footnotes.ts picks them
+  // up via the `pandoc` format. The explicit Footnotes marker (heading
+  // or plain `Footnote:` paragraph) is a strong enough signal that we
+  // allow 1+ matching def lines — Hero in History has just one footnote.
+  {
+    // Match the Footnotes/Notes section marker. Variants accepted:
+    //   `## Footnotes`, `### Notes:`, `## Note`
+    //   `**Footnotes:**`, `**Notes:**`
+    //   plain `Footnotes`, `Notes:`, etc.
+    const KEY = '(?:Footnotes?|Notes?)';
+    const markerRe = new RegExp(
+      `^(?:#{2,4}[ \\t]+${KEY}:?[ \\t]*|\\*\\*${KEY}:?\\*\\*[ \\t]*|${KEY}[ \\t]*:?[ \\t]*)$`,
+      'm'
+    );
+    const markerMatch = markerRe.exec(md);
+    if (markerMatch) {
+      const before = md.slice(0, markerMatch.index);
+      const markerLine = markerMatch[0];
+      const after = md.slice(markerMatch.index + markerLine.length);
+      const afterLines = after.split('\n');
+      // Identify numbered-def lines and their ids in order. Accept
+      // any of `N.`, `N\.`, `N:`, `(N)`, or `[N]` as the leading
+      // marker. Optional `>` blockquote prefix — some authors style
+      // the footnotes block as a blockquoted indented passage
+      // (Sovereign Child does this for its `Notes:` section).
+      const defLineRe =
+        /^>?\s*(?:\*\*)?(?:\[(\d+)\]|\((\d+)\)|(\d+)\\?[.:])(?:\*\*)?[ \t]+(.*)$/;
+      const ids: string[] = [];
+      const rewrittenAfter = afterLines.map(line => {
+        const m = defLineRe.exec(line);
+        if (m) {
+          const id = m[1] ?? m[2] ?? m[3];
+          ids.push(id);
+          return `[^${id}]: ${m[4]}`;
+        }
+        return line;
+      });
+      if (ids.length >= 1) {
+        // Promote a plain `Footnote:` / `Footnotes:` paragraph marker to
+        // an actual `## Footnotes` heading so it renders as a real
+        // section divider.
+        const isHeading = /^##/.test(markerLine);
+        const normalizedMarker = isHeading ? markerLine : '## Footnotes';
+        // Rewrite body refs to `[^N]` for the ids we found. Accept
+        // either `[N]` (bracketed) or `(N)` (parenthesized — used by
+        // docs like Bickerstaff that use parens consistently). Only
+        // when not already a link / image reference (so a `[N]` glued
+        // to `(http…)` or `:url` stays untouched).
+        const idSet = new Set(ids);
+        const reBody = /(\s?)\[(\d+)\](?![(:])/g;
+        const reBodyParen = /(\s)\((\d+)\)/g;
+        const newBefore = before
+          .replace(reBody, (full, sp, n: string) => {
+            if (!idSet.has(n)) return full;
+            return `[^${n}]`;
+          })
+          .replace(reBodyParen, (full, sp, n: string) => {
+            if (!idSet.has(n)) return full;
+            // Preserve the leading space (it sat between a sentence
+            // and the parenthesized ref); pandoc renderers join `[^N]`
+            // tightly to surrounding text.
+            return `${sp}[^${n}]`;
+          });
+        md = newBefore + normalizedMarker + rewrittenAfter.join('\n');
+      }
+    }
+  }
+
+  // Normalize heading depth. Some authors style every section with the
+  // Heading-4 style in Google Docs (`####`) but use no Heading-2 — the
+  // result is sections that render as tiny, weak headings in the
+  // reader's typography (`<h4>` is typically much smaller than `<h2>`).
+  // When the doc has H3-or-deeper headings but NO H2, shift every
+  // heading shallower so the shallowest H-level becomes H2. Examples:
+  //   • Gilgamesh has only `####` → all `####` become `##`
+  //   • A doc using `###` + `####` has `###` → `##` and `####` → `###`
+  // We deliberately skip H1 in this calculation: H1 is usually the
+  // document title (one per file) and shouldn't change depth.
+  {
+    const lines = md.split('\n');
+    const headingRe = /^(#{1,6})\s/;
+    // Ignore H1 entirely — those are title/byline lines (Google Docs
+    // Heading-1 style), and they'll be stripped by stripLeadingTitle.
+    // Only consider H2-H6 when deciding the shallowest section depth.
+    let shallowest = 7;
+    for (let i = 0; i < lines.length; i++) {
+      const m = headingRe.exec(lines[i]);
+      if (m) {
+        const level = m[1].length;
+        if (level < 2) continue;
+        if (level < shallowest) shallowest = level;
+      }
+    }
+    if (shallowest > 2 && shallowest <= 6) {
+      const shift = shallowest - 2;
+      for (let i = 0; i < lines.length; i++) {
+        const m = headingRe.exec(lines[i]);
+        if (m) {
+          const level = m[1].length;
+          if (level < 2) continue; // leave H1 alone
+          const newLevel = Math.max(2, level - shift);
+          lines[i] = '#'.repeat(newLevel) + lines[i].slice(m[1].length);
+        }
+      }
+      md = lines.join('\n');
+    }
+  }
+
+  // Anchor-id footnote format. Google Docs exports its native footnote
+  // feature as:
+  //   body:  …text[N](#id.xxxxx)…
+  //   defs:  N. footnote text…[↩︎](#id.yyyyy)
+  // The defs sit at the doc tail as a numbered list (separated from
+  // body by a thematic break). Neither format is recognized by any
+  // standard footnote extractor — without rewriting, the body refs
+  // render as plain links that point at nonexistent in-document
+  // anchors, and the def list renders as an unrelated ordered list.
+  //
+  // Rewrite: each `[N](#id.xxx)` body ref → `[^N]`; each tail def line
+  // strips its trailing `[↩︎](#id.yyy)` return arrow and becomes
+  // `[^N]: …`. Lib/footnotes.ts then picks up the pandoc form.
+  {
+    const refRe = /\[(\d+)\]\(#id\.[a-z0-9]+\)/g;
+    // Find ordered-list def lines anchored to a return-arrow link. Both
+    // `1. text [↩︎](#id.xxx)` and `1\. text [↩︎](#id.xxx)` (turndown
+    // sometimes escapes the period to prevent list interpretation) are
+    // accepted. The return arrow glyph is `↩︎` but we accept any
+    // character set inside `[...]` to be lenient.
+    const defRe = /^(\d+)\\?\.[ \t](.*?)\[[^\]]*\]\(#id\.[a-z0-9]+\)[ \t]*$/;
+    const lines = md.split('\n');
+    const defIndices: number[] = [];
+    for (let k = 0; k < lines.length; k++) {
+      if (defRe.test(lines[k])) defIndices.push(k);
+    }
+    const bodyRefMatches = md.match(refRe);
+    if (defIndices.length >= 2 && bodyRefMatches && bodyRefMatches.length >= 2) {
+      // Rewrite def lines.
+      for (const idx of defIndices) {
+        const m = defRe.exec(lines[idx]);
+        if (!m) continue;
+        lines[idx] = `[^${m[1]}]: ${m[2].trim()}`;
+      }
+      md = lines.join('\n');
+      // Rewrite body refs.
+      md = md.replace(refRe, (_full, n: string) => `[^${n}]`);
+    }
+  }
+
+  // `FOOTNOTE N` keyword-style footnotes (Der Untergang format). Body
+  // refs appear as `[FOOTNOTE N]` or `(FOOTNOTE N)`; definitions at
+  // the tail are `FOOTNOTE N` (with optional trailing colon) headers
+  // followed by body paragraph(s). Rewrite to pandoc.
+  //
+  // Multi-paragraph footnote bodies are joined into a single
+  // `[^N]: …` def line by indenting continuation paragraphs (pandoc's
+  // syntax). Only fires when 2+ such headers exist, so we don't
+  // mis-fire on a stray "FOOTNOTE 1" line in some other context.
+  {
+    const headerRe = /^FOOTNOTE\s+#?(\d+):?\s*$/m;
+    const lines = md.split('\n');
+    const headerIdxs: number[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      if (headerRe.test(lines[i])) headerIdxs.push(i);
+    }
+    if (headerIdxs.length >= 2) {
+      // Process from last to first so indices stay valid.
+      const ids: string[] = [];
+      for (let h = headerIdxs.length - 1; h >= 0; h--) {
+        const startIdx = headerIdxs[h];
+        const endIdx = h + 1 < headerIdxs.length
+          ? headerIdxs[h + 1]
+          : lines.length;
+        const m = headerRe.exec(lines[startIdx])!;
+        const id = m[1];
+        ids.push(id);
+        // Skip blanks immediately after header.
+        let bodyStart = startIdx + 1;
+        while (bodyStart < endIdx && lines[bodyStart].trim() === '') bodyStart++;
+        if (bodyStart >= endIdx) {
+          // No body — replace header alone.
+          lines.splice(startIdx, endIdx - startIdx, `[^${id}]: `);
+          continue;
+        }
+        // First body line gets the `[^N]:` prefix. Remaining non-blank
+        // lines get a 4-space indent so the pandoc extractor reads
+        // them as continuation lines of the same def.
+        const replacement: string[] = [`[^${id}]: ${lines[bodyStart]}`];
+        for (let k = bodyStart + 1; k < endIdx; k++) {
+          if (lines[k].trim() === '') {
+            replacement.push('');
+          } else {
+            replacement.push(`    ${lines[k]}`);
+          }
+        }
+        lines.splice(startIdx, endIdx - startIdx, ...replacement);
+      }
+      const idSet = new Set(ids);
+      md = lines.join('\n')
+        .replace(/\[FOOTNOTE\s+#?(\d+)\]/g, (full, n: string) =>
+          idSet.has(n) ? `[^${n}]` : full)
+        .replace(/(\s)\(FOOTNOTE\s+#?(\d+)\)/g, (full, sp, n: string) =>
+          idSet.has(n) ? `${sp}[^${n}]` : full);
     }
   }
 
@@ -1271,13 +2214,24 @@ export function cleanupMarkdown(markdown: string): string {
  * giving up.
  */
 export async function fetchGDocAsHTML(docId: string): Promise<string> {
-  const cachePath = path.join(GDOC_CACHE_DIR, `${docId}.html`);
+  // Sanitize cache filename: `e/PUBID` becomes `e_PUBID` so the slash
+  // doesn't break the path.
+  const cachePath = path.join(GDOC_CACHE_DIR, `${docId.replace('/', '_')}.html`);
   if (!GDOC_CACHE_DISABLED && fs.existsSync(cachePath)) {
     console.log(`  Reading cached: ${docId}`);
     return fs.readFileSync(cachePath, 'utf8');
   }
 
-  const url = `https://docs.google.com/document/d/${docId}/export?format=html`;
+  // Published-to-web URL form (`e/<PUB_ID>`). Authors who use File →
+  // Publish to the web submit a URL like `/document/d/e/<PUB_ID>/pub`,
+  // which has no `/export?format=html` equivalent. Fetch the `/pub`
+  // HTML directly — the rendered structure (gdoc `<style>` block with
+  // class definitions, `<span class="cN">` for inline styling) is
+  // substantially identical to the export endpoint, so our cheerio
+  // pipeline handles it without further changes.
+  const url = docId.startsWith('e/')
+    ? `https://docs.google.com/document/d/${docId}/pub`
+    : `https://docs.google.com/document/d/${docId}/export?format=html`;
   const MAX_ATTEMPTS = 5;
   const BASE_DELAY_MS = 2000;
   // Per-attempt timeout. The biggest 2025 docs are ~150–200 MB of HTML
@@ -1348,9 +2302,9 @@ export async function fetchGDocAsHTML(docId: string): Promise<string> {
  * Not exported — callers should use convertGDocToMarkdown which handles
  * the full doc (with automatic chunking for large composite docs).
  */
-function convertHtmlChunk(html: string): string {
+function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupMarkdownOptions = {}): string {
   // Parse CSS class→style mappings BEFORE loading into Cheerio and removing <style>.
-  const styles = parseGDocStyles(html);
+  const styles = parseGDocStyles(html, bodySizeHint);
 
   const $ = cheerio.load(html);
 
@@ -1369,6 +2323,101 @@ function convertHtmlChunk(html: string): string {
     }
   });
 
+  // Join adjacent <p> siblings (per-slug exception). When the source doc
+  // has hard line-end breaks at each visual line (every wrapped line
+  // becomes its own non-empty <p>, with empty <p> tags marking the
+  // intended paragraph breaks), merge consecutive non-empty <p>
+  // siblings into a single paragraph. Only empty <p> tags act as
+  // paragraph separators. Used for docs pasted from a source with hard
+  // line wraps (Free Agents / Determined comparative review).
+  if (options.joinAdjacentParagraphs) {
+    const isEmptyP = (el: ReturnType<typeof $>): boolean => {
+      if (!el.is('p')) return false;
+      if (el.find('img').length) return false;
+      return !el.text().trim();
+    };
+    $('body').each(function () {
+      let child = $(this).children().first();
+      while (child.length) {
+        if (child.is('p') && !isEmptyP(child)) {
+          let next = child.next();
+          while (next.length && next.is('p') && !isEmptyP(next)) {
+            const nextHtml = next.html() || '';
+            const curHtml = child.html() || '';
+            child.html(curHtml + ' ' + nextHtml);
+            const toRemove = next;
+            next = next.next();
+            toRemove.remove();
+          }
+          child = next;
+        } else {
+          child = child.next();
+        }
+      }
+    });
+    // Then absorb any non-empty <p> that immediately follows an <ol> or
+    // <ul> containing a single <li> into that <li>'s content. The list
+    // item's visual wrap continued past the </li></ol> in the source
+    // HTML, so the continuation lines were emitted as separate <p>
+    // siblings instead of being part of the list item.
+    $('body > ol, body > ul').each(function () {
+      const list = $(this);
+      const items = list.children('li');
+      if (items.length !== 1) return;
+      const li = items.first();
+      let next = list.next();
+      while (next.length && next.is('p') && !isEmptyP(next)) {
+        const nextHtml = next.html() || '';
+        const liHtml = li.html() || '';
+        li.html(liHtml + ' ' + nextHtml);
+        const toRemove = next;
+        next = next.next();
+        toRemove.remove();
+      }
+    });
+  }
+
+  // Group consecutive short non-empty <p> siblings into stanzas wrapped
+  // in <blockquote>. Used for docs that intersperse short poetic lines
+  // with regular prose paragraphs (Meeting, Hardly Meeting). Each
+  // stanza becomes one <p> with <br> between lines; empty <p> tags
+  // or any non-<p> element end the stanza.
+  if (options.shortLinesAsPoetryStanzas) {
+    const SHORT_MAX = 80;
+    const MIN_STANZA = 2;
+    const isShortP = (el: ReturnType<typeof $>): boolean => {
+      if (!el.is('p')) return false;
+      if (el.find('img').length) return false;
+      const text = el.text().trim();
+      return text.length > 0 && text.length <= SHORT_MAX;
+    };
+    $('body').each(function () {
+      let stanza: ReturnType<typeof $>[] = [];
+      const finishStanza = () => {
+        if (stanza.length >= MIN_STANZA) {
+          const head = stanza[0];
+          for (let k = 1; k < stanza.length; k++) {
+            head.append('<br>');
+            head.append(stanza[k].contents());
+            stanza[k].remove();
+          }
+          head.wrap('<blockquote></blockquote>');
+        }
+        stanza = [];
+      };
+      const children = $(this).children().toArray();
+      for (const c of children) {
+        const el = $(c);
+        if (isShortP(el)) {
+          stanza.push(el);
+        } else {
+          finishStanza();
+        }
+      }
+      finishStanza();
+    });
+  }
+
   // Apply semantic tags (bold→<strong>, italic→<em>, indent→<blockquote>)
   // before Turndown conversion so it can recognize the formatting.
   applySemanticTags($, styles);
@@ -1385,9 +2434,13 @@ function convertHtmlChunk(html: string): string {
   // whitespace-only spans — Google Docs now puts run-boundary spaces in their
   // own spans (e.g. "<span>the</span><span> </span><span>Arab Spring</span>"),
   // and removing the space-span glues words together ("theArab Spring").
+  // We also preserve spans containing a `<br>` — those are standalone
+  // line-break separators between sibling spans inside one `<p>`
+  // (e.g. dialogue lines in Tale of Genji); removing them collapses the
+  // dialogue into a single run-on line.
   $('span').each(function() {
     const el = $(this);
-    if (!el.text() && !el.find('img').length) {
+    if (!el.text() && !el.find('img').length && !el.find('br').length) {
       el.remove();
     }
   });
@@ -1412,12 +2465,160 @@ function convertHtmlChunk(html: string): string {
     }
   });
 
+  // Minority-font-as-blockquote pass (per-slug exception). Detect the
+  // dominant font-family among substantive spans, then group runs of
+  // consecutive `<p>` siblings whose spans all use a non-dominant font
+  // (different family OR smaller size than the body) into stanzas
+  // (with empty `<p>` separators marking stanza breaks). Merge each
+  // stanza into one `<p>` with `<br>` between lines and wrap in
+  // `<blockquote>`. Same shape as a poetry stanza — each stanza
+  // becomes a tight multi-line blockquote, stanzas separated by `>`
+  // blank lines downstream. Used for Tortilla Flat (Times New Roman
+  // vs. Arial body) and Der Untergang (10pt vs. 11pt body).
+  if (options.minorityFontAsBlockquote) {
+    // Count substantive characters per font-family across all spans.
+    const familyChars = new Map<string, number>();
+    $('span').each(function () {
+      const el = $(this);
+      const text = el.text().trim();
+      if (!text) return;
+      const classes = (el.attr('class') || '').split(/\s+/);
+      let family: string | undefined;
+      for (const c of classes) {
+        const f = styles.classFontFamily.get(c);
+        if (f) family = f;
+      }
+      if (!family) return;
+      familyChars.set(family, (familyChars.get(family) || 0) + text.length);
+    });
+    let dominantFamily: string | undefined;
+    let dominantChars = 0;
+    for (const [family, chars] of familyChars) {
+      if (chars > dominantChars) {
+        dominantFamily = family;
+        dominantChars = chars;
+      }
+    }
+    const bodySize = styles.bodyFontSize;
+    const spanSize = (s: any): number | undefined => {
+      const classes = ($(s).attr('class') || '').split(/\s+/);
+      let size: number | undefined;
+      for (const c of classes) {
+        const v = styles.classFontSize.get(c);
+        if (v !== undefined) size = v;
+      }
+      return size;
+    };
+    const spanFamily = (s: any): string | undefined => {
+      const classes = ($(s).attr('class') || '').split(/\s+/);
+      let family: string | undefined;
+      for (const c of classes) {
+        const f = styles.classFontFamily.get(c);
+        if (f) family = f;
+      }
+      return family;
+    };
+    {
+      const isMinorityFontParagraph = (el: ReturnType<typeof $>): boolean => {
+        const spans = el.find('span').toArray();
+        if (spans.length === 0) return false;
+        let sawSubstantive = false;
+        for (const s of spans) {
+          const t = $(s).text();
+          if (!t.trim()) continue;
+          sawSubstantive = true;
+          const family = spanFamily(s);
+          const size = spanSize(s);
+          // Minority signal: family differs from dominant, OR size is
+          // strictly smaller than the body's dominant size. Either
+          // alone is the author's "this is a quote" cue.
+          const familyDiffers = !!dominantFamily && !!family && family !== dominantFamily;
+          const sizeSmaller = size !== undefined && size < bodySize;
+          if (!familyDiffers && !sizeSmaller) return false;
+        }
+        return sawSubstantive;
+      };
+      const PADDING_TIGHT_MAX = 3;
+      const paragraphPaddingBottom = (p: ReturnType<typeof $>) => {
+        const classes = (p.attr('class') || '').split(/\s+/);
+        let pb = 0;
+        for (const c of classes) {
+          const m = styles.classMargins.get(c);
+          if (m) pb += m.paddingBottom;
+        }
+        return pb;
+      };
+      const paragraphPaddingTop = (p: ReturnType<typeof $>) => {
+        const classes = (p.attr('class') || '').split(/\s+/);
+        let pt = 0;
+        for (const c of classes) {
+          const m = styles.classMargins.get(c);
+          if (m) pt += m.paddingTop;
+        }
+        return pt;
+      };
+      const candidates = $('body > p').toArray();
+      let i = 0;
+      while (i < candidates.length) {
+        const el = $(candidates[i]);
+        if (!isMinorityFontParagraph(el)) { i++; continue; }
+        const stanzas: ReturnType<typeof $>[][] = [];
+        let currentStanza: ReturnType<typeof $>[] = [el];
+        let lastMinority = i;
+        let j = i + 1;
+        while (j < candidates.length) {
+          const nextEl = $(candidates[j]);
+          const nextEmpty = !nextEl.text().trim() && !nextEl.find('img').length;
+          const nextMinority = !nextEmpty && isMinorityFontParagraph(nextEl);
+          if (nextMinority) {
+            // Visual-gap check: close the current stanza before adding
+            // nextEl if the gap between them is non-trivial. The gap
+            // is the sum of the previous paragraph's padding-bottom
+            // and nextEl's padding-top — the gdoc author can mark a
+            // stanza break with either (or both) instead of an empty
+            // `<p>` separator (Tortilla Flat's Dana quote uses c8 with
+            // both padding-top:12pt AND padding-bottom:12pt).
+            if (currentStanza.length > 0) {
+              const prev = currentStanza[currentStanza.length - 1];
+              const gap = paragraphPaddingBottom(prev) + paragraphPaddingTop(nextEl);
+              if (gap > PADDING_TIGHT_MAX) {
+                stanzas.push(currentStanza);
+                currentStanza = [];
+              }
+            }
+            currentStanza.push(nextEl);
+            lastMinority = j;
+            j++;
+          } else if (nextEmpty) {
+            if (currentStanza.length > 0) stanzas.push(currentStanza);
+            currentStanza = [];
+            j++;
+          } else {
+            break;
+          }
+        }
+        if (currentStanza.length > 0) stanzas.push(currentStanza);
+        for (const stanza of stanzas) {
+          if (stanza.length === 0) continue;
+          const head = stanza[0];
+          for (let k = 1; k < stanza.length; k++) {
+            head.append('<br>');
+            head.append(stanza[k].contents());
+            stanza[k].remove();
+          }
+          head.wrap('<blockquote></blockquote>');
+        }
+        i = lastMinority + 1;
+      }
+    }
+  }
+
   // Get the body content
   const body = $('body');
 
   // Convert to markdown
   const rawMarkdown = turndownService.turndown(body.html() || '');
-  return cleanupMarkdown(rawMarkdown);
+  return cleanupMarkdown(rawMarkdown, options);
 }
 
 /**
@@ -1462,16 +2663,25 @@ const CHUNK_THRESHOLD_BYTES = 5 * 1024 * 1024;
  * to the largest single review rather than the whole document. This avoids
  * the GC-thrash / OOM problem when processing 100MB+ source docs.
  */
-export function convertGDocToMarkdown(html: string): string {
+export function convertGDocToMarkdown(html: string, options: CleanupMarkdownOptions = {}): string {
   if (html.length < CHUNK_THRESHOLD_BYTES) {
-    return convertHtmlChunk(html);
+    return convertHtmlChunk(html, undefined, options);
   }
 
   const { style, body } = extractStyleAndBody(html);
   const h1Positions = findH1Boundaries(body);
 
   // Fallback: no H1 boundaries, nothing to split on.
-  if (h1Positions.length === 0) return convertHtmlChunk(html);
+  if (h1Positions.length === 0) return convertHtmlChunk(html, undefined, options);
+
+  // Compute body font size ONCE across the whole document. Without
+  // this hint, each chunk would compute its own — and a chunk that
+  // happens to be dominated by footnote text (smaller font) would mis-
+  // identify the body font, then sweep real body paragraphs into the
+  // "large font = heading" rule. Dictator Book Club exhibited this:
+  // a chunk where 10pt footnote text outweighed 13pt body text re-
+  // classified 13pt body paragraphs as headings.
+  const bodySizeHint = detectBodyFontSize(html);
 
   // Build chunks: [preamble, h1-section, h1-section, ...]
   const ranges: Array<[number, number]> = [];
@@ -1487,7 +2697,7 @@ export function convertGDocToMarkdown(html: string): string {
     // Wrap in a minimal HTML shell so the style block is visible to our
     // CSS-class detection and so Cheerio has a well-formed document.
     const shell = `<!DOCTYPE html><html><head>${style}</head><body>${chunkBody}</body></html>`;
-    parts.push(convertHtmlChunk(shell));
+    parts.push(convertHtmlChunk(shell, bodySizeHint, options));
   }
 
   // Concatenating cleaned chunks may produce 4+ consecutive blank lines at
