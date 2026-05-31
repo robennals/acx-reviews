@@ -8,10 +8,6 @@ export const SITE_FLAGS_TAG = 'site-flags';
 const SINGLETON_ID = 'singleton';
 
 async function readContestLive(): Promise<boolean> {
-  // Private-preview override: a deploy can hard-code the contest as live
-  // (e.g. the shared preview alias via deploy-preview.sh) without flipping
-  // the shared production DB flag. Never set in production.
-  if (process.env.PREVIEW_CONTEST_LIVE === 'true') return true;
   if (!isDbConfigured) return false;
   try {
     const rows = await db
@@ -27,10 +23,15 @@ async function readContestLive(): Promise<boolean> {
 }
 
 /**
- * Cached read of the contest-live flag. Tagged so the admin toggle can
- * invalidate it (and every route that consumed it) with revalidateTag.
- * Keeps the home page (dynamic) off Turso on every request and lets the
- * SSG review pages + sitemap bake the value at generation time.
+ * Cached read of the RAW contest-live flag from the database. Tagged so the
+ * admin toggle can invalidate it (and every route that consumed it) with
+ * revalidateTag. Keeps the home page (dynamic) off Turso on every request and
+ * lets the SSG review pages + sitemap bake the value at generation time.
+ *
+ * This is the source of truth the admin panel displays — it deliberately does
+ * NOT honor the PREVIEW_CONTEST_LIVE override. That override lives in
+ * getContestStatus() and only affects the public-facing experience, so a
+ * forced-live preview never misreports the real production flag in /admin.
  */
 export const getContestLive = unstable_cache(readContestLive, ['site-flags'], {
   tags: [SITE_FLAGS_TAG],

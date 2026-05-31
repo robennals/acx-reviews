@@ -9,8 +9,9 @@
 # NEXTAUTH_URL explicitly via --env and --build-env.
 #
 # PREVIEW_CONTEST_LIVE=true hard-codes the contest as launched for THIS private
-# preview deploy only (getContestLive() honors it), so we can share the
-# launched view without flipping the shared production site_flags flag.
+# preview deploy only — it affects the public-facing view (listing/banner/voting)
+# via getContestStatus(), so we can share the launched view without flipping the
+# shared production site_flags flag. The /admin panel still shows the real DB flag.
 
 set -euo pipefail
 

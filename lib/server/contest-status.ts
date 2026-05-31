@@ -10,7 +10,13 @@ export interface ContestStatus {
 }
 
 export async function getContestStatus(): Promise<ContestStatus> {
-  const live = await getContestLive();
+  // `live` drives the PUBLIC-facing experience (home listing, sitemap, banner,
+  // voting). It is the real DB flag OR the per-deploy PREVIEW_CONTEST_LIVE
+  // override — the override lets a private preview render the launched view
+  // without flipping the shared production flag. The admin panel reads the
+  // raw getContestLive() directly, so it always reflects true production state.
+  const dbLive = await getContestLive();
+  const live = dbLive || process.env.PREVIEW_CONTEST_LIVE === 'true';
   return { config: getVotingConfig(), live };
 }
 
