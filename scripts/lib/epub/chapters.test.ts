@@ -124,6 +124,31 @@ test('buildChapterBody renders orphan footnote without backlink anchor', () => {
   assert.ok(!body.includes('href="#fnref-9"'), 'no backlink to nonexistent fnref-9');
 });
 
+// Issue 5: RSC-012 — Google Docs-style #id.xxx fragment links that have no
+// corresponding anchor in the rendered HTML must be stripped (unwrapped to
+// their text content) so epubcheck doesn't report RSC-012 errors.
+test('stripBrokenFragmentLinks unwraps links whose fragment target is absent', () => {
+  // Import inline since we're adding the export now.
+  const { stripBrokenFragmentLinks } = require('./chapters');
+  const html =
+    '<p>text <a href="#id.abc123">¹</a> more</p>' +
+    '<p><a href="#fn-1">back</a></p>' +
+    '<p id="fn-1">note</p>';
+  const out = stripBrokenFragmentLinks(html);
+  // The #id.abc123 link has no target → should be unwrapped
+  assert.ok(!out.includes('href="#id.abc123"'), 'broken link should be stripped');
+  assert.ok(out.includes('¹'), 'link text should be preserved');
+  // The #fn-1 link has a matching id → should be kept
+  assert.ok(out.includes('href="#fn-1"'), 'valid link should be kept');
+});
+
+test('stripBrokenFragmentLinks keeps links whose fragment target exists', () => {
+  const { stripBrokenFragmentLinks } = require('./chapters');
+  const html = '<p><a href="#my-section">link</a></p><h2 id="my-section">Section</h2>';
+  const out = stripBrokenFragmentLinks(html);
+  assert.ok(out.includes('href="#my-section"'), 'link with present target should be kept');
+});
+
 // Issue 4: rewriteImageSrcs single-pass
 test('rewriteImageSrcs single-pass: replaces all mapped srcs in one pass', () => {
   const map = new Map([

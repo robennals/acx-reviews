@@ -39,6 +39,29 @@ export function chapterFilename(index: number, slug: string): string {
 // attribute order: a <sup> carrying data-fn-id.
 const FN_SUP_RE = /<sup\b[^>]*\bdata-fn-id="([^"]+)"[^>]*>(\[[^\]]*\])<\/sup>/g;
 
+/**
+ * Strip (unwrap) anchor links whose href points to a fragment ID that doesn't
+ * exist anywhere in the same HTML string. This handles Google Docs-exported
+ * markdown where footnote superscripts use `[¹](#id.xxx)` links but the
+ * target `id="id.xxx"` anchor is never emitted by the renderer.
+ *
+ * Valid in-document links (e.g. `#fn-1`, `#fnref-1`) are left untouched.
+ * External links (no leading `#`) are also left untouched.
+ */
+export function stripBrokenFragmentLinks(html: string): string {
+  // Collect all id="..." values present in the document.
+  const presentIds = new Set<string>();
+  for (const m of html.matchAll(/\bid="([^"]+)"/g)) {
+    presentIds.add(m[1]);
+  }
+  // Replace <a href="#missing-id">text</a> with just the text content.
+  return html.replace(/<a\b[^>]*\bhref="(#[^"]+)"[^>]*>([\s\S]*?)<\/a>/g, (match, href: string, inner: string) => {
+    const fragment = href.slice(1); // strip leading '#'
+    if (presentIds.has(fragment)) return match; // target exists — keep
+    return inner; // target missing — unwrap to text
+  });
+}
+
 export function buildChapterBody(opts: {
   title: string;
   html: string;
