@@ -10,6 +10,7 @@ slug: the-pre-training-data
 wordCount: 3102
 readingTimeMinutes: 14
 source: gdoc
+disableFootnotes: true
 tags:
   - Technology
   - Philosophy

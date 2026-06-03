@@ -71,6 +71,21 @@
   "the-gods-themselves": {
     "disableFootnotes": true
   },
+  "the-sun-also-rises": {
+    "disableFootnotes": true
+  },
+  "the-pre-training-data": {
+    "disableFootnotes": true
+  },
+  "the-son-also-rises": {
+    "disableFootnotes": true
+  },
+  "a-poor-wise-man": {
+    "disableFootnotes": true
+  },
+  "progressive-myths": {
+    "disableFootnotes": true
+  },
   "the-radicalism-of-the-american-revolution": {
     "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
   },
@@ -78,7 +93,8 @@
     "numberedListAsBullets": true
   },
   "the-master-margarita": {
-    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit"
+    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit",
+    "disableFootnotes": true
   },
   "mistletoe-and-memorandums-by-claude": {
     "quoteAfterListIsContinuation": true

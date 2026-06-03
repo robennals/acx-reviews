@@ -10,6 +10,7 @@ slug: the-sun-also-rises
 wordCount: 2468
 readingTimeMinutes: 11
 source: gdoc
+disableFootnotes: true
 tags:
   - Fiction
 ---
