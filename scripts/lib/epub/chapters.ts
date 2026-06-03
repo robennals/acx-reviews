@@ -23,12 +23,12 @@ export function collectImageUrls(html: string): string[] {
   return urls;
 }
 
+// rehype-stringify always emits double-quoted attributes, so matching src="…" is safe.
 export function rewriteImageSrcs(html: string, urlToLocal: Map<string, string>): string {
-  let out = html;
-  for (const [url, local] of urlToLocal) {
-    out = out.split(`src="${url}"`).join(`src="${local}"`);
-  }
-  return out;
+  return html.replace(/src="(https?:\/\/[^"]+)"/g, (m, url: string) => {
+    const local = urlToLocal.get(url);
+    return local ? `src="${local}"` : m;
+  });
 }
 
 export function chapterFilename(index: number, slug: string): string {
@@ -44,21 +44,42 @@ export function buildChapterBody(opts: {
   html: string;
   footnotes: ReviewFootnote[];
 }): string {
-  const content = opts.html.replace(
-    FN_SUP_RE,
-    (_m, id: string, label: string) =>
-      `<a class="fn-ref" id="fnref-${id}" epub:type="noteref" href="#fn-${id}"><sup>${label}</sup></a>`
-  );
+  // Issue 1: track seen fnref ids so each id="fnref-N" is emitted only once.
+  const seenFnrefIds = new Set<string>();
+  // Also collect every referenced id to detect orphan footnotes (Issue 3).
+  const referencedIds = new Set<string>();
+
+  const content = opts.html.replace(FN_SUP_RE, (_m, id: string, label: string) => {
+    referencedIds.add(id);
+    const idAttr = seenFnrefIds.has(id) ? '' : ` id="fnref-${id}"`;
+    seenFnrefIds.add(id);
+    return `<a class="fn-ref"${idAttr} epub:type="noteref" href="#fn-${id}"><sup>${label}</sup></a>`;
+  });
 
   let notes = '';
   if (opts.footnotes.length > 0) {
-    const asides = opts.footnotes
-      .map(
-        (fn) =>
+    // Issue 2: the upstream extractor makes no uniqueness guarantee on footnote ids;
+    // de-dupe by id, keeping first occurrence to avoid duplicate XML ids.
+    const seen = new Set<string>();
+    const uniqueFootnotes = opts.footnotes.filter((fn) => {
+      if (seen.has(fn.id)) return false;
+      seen.add(fn.id);
+      return true;
+    });
+
+    const asides = uniqueFootnotes
+      .map((fn) => {
+        // Issue 3: orphan footnotes (no matching sup in body) must not emit a
+        // dangling backlink to a nonexistent anchor.
+        const label = referencedIds.has(fn.id)
+          ? `<p class="fn-label"><a href="#fnref-${fn.id}">[${fn.id}]</a></p>`
+          : `<p class="fn-label">[${fn.id}]</p>`;
+        return (
           `<aside id="fn-${fn.id}" epub:type="footnote" class="footnote">\n` +
-          `<p class="fn-label"><a href="#fnref-${fn.id}">[${fn.id}]</a></p>\n` +
+          `${label}\n` +
           `${fn.html}\n</aside>`
-      )
+        );
+      })
       .join('\n');
     notes = `\n<section class="footnotes" epub:type="footnotes">\n<h2>Notes</h2>\n${asides}\n</section>`;
   }

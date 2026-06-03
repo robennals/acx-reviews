@@ -122,6 +122,4 @@ a.fn-ref { text-decoration: none; }
 section.footnotes { margin-top: 2em; border-top: 1px solid #999; font-size: 0.9em; }
 aside.footnote { margin: 0.8em 0; }
 p.fn-label { font-weight: bold; margin-bottom: 0.2em; }
-p.cover-title { font-size: 2em; text-align: center; margin-top: 30%; }
-p.cover-sub { text-align: center; font-size: 1.2em; }
 `;
