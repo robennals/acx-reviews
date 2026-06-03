@@ -35,7 +35,10 @@ for (const file of fs.readdirSync(DIR).filter(f => f.endsWith('.md')).sort()) {
     rows.push({ slug: `${slug} (disabled)`, fnCount: 0, fnChars: 0, docChars: content.length, ratio: 0, orphanIds: [], refdIds: [], maxFnChars: 0, maxFnId: '', flags: [] });
     continue;
   }
-  const { body, footnotes } = extractFootnotes(content);
+  const { body, footnotes } = extractFootnotes(
+    content,
+    data.superscriptFootnotes === true ? { forceFormat: 'superscript' } : {}
+  );
   if (footnotes.length === 0) continue;
 
   const refd = new Set<string>();

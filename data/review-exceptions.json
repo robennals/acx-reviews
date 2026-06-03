@@ -78,7 +78,7 @@
     "disableFootnotes": true
   },
   "the-son-also-rises": {
-    "disableFootnotes": true
+    "superscriptFootnotes": true
   },
   "a-poor-wise-man": {
     "disableFootnotes": true

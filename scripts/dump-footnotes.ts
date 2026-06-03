@@ -11,8 +11,11 @@ const DIR = path.join(__dirname, '..', 'data', 'reviews', '2026-book-reviews');
 
 for (const slug of process.argv.slice(2)) {
   const raw = fs.readFileSync(path.join(DIR, `${slug}.md`), 'utf8');
-  const { content } = matter(raw);
-  const { body, footnotes } = extractFootnotes(content);
+  const { content, data } = matter(raw);
+  const { body, footnotes } = extractFootnotes(
+    content,
+    data.superscriptFootnotes === true ? { forceFormat: 'superscript' } : {}
+  );
   console.log(`\n========== ${slug} ==========`);
   console.log(`--- last 400 chars of extracted body ---`);
   console.log(body.slice(-400));
