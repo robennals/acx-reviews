@@ -159,6 +159,55 @@ test('cleanupMarkdown does not rewrite lone "N text" lines that look like footno
   assert.ok(!out.includes('[1]'), `mid-doc N-text line should NOT be rewritten; got: ${out}`);
 });
 
+test('cleanupMarkdown rewrites a [N] body ref even when a prose colon follows (Christmas Carol footnote 3)', () => {
+  // A Christmas Carol writes "my money is on Marley being in Hell[3]:"
+  // — the bracketed ref introduces a blockquote, so a sentence colon
+  // sits right after the `]`. The old guard `(?![(:])` read that colon
+  // as a link-reference-definition signal and skipped the rewrite,
+  // leaving a dead non-clickable "[3]" in the rendered page. Same bug
+  // hit Fear and Trembling's "(NLT) [2]:".
+  const input = [
+    'My money is on Marley being in Hell[3]:',
+    '',
+    '> An infernal atmosphere of its own.',
+    '',
+    'Another paragraph references footnote one.[1]',
+    '',
+    '## Footnotes',
+    '',
+    '1. First footnote def.',
+    '',
+    '3. Third footnote def.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(out.includes('Hell[^3]:'), `colon-followed ref should be rewritten; got: ${out}`);
+  assert.ok(out.includes('one.[^1]'), `plain ref should still be rewritten; got: ${out}`);
+});
+
+test('cleanupMarkdown leaves a real [N]: url link-reference definition untouched', () => {
+  // The colon guard exists to protect markdown link-reference defs.
+  // Narrowing it to colon-plus-URL must keep these intact.
+  const input = [
+    'Body text cites a source[1] and uses a numbered link [2](https://example.com/page).',
+    '',
+    '[2]: https://example.com/referenced',
+    '',
+    '## Footnotes',
+    '',
+    '1. First footnote def.',
+    '',
+    '2. Second footnote def.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(out.includes('[2]: https://example.com/referenced'), `link-ref def should be untouched; got: ${out}`);
+  assert.ok(out.includes('[2](https://example.com/page)'), `inline link should be untouched; got: ${out}`);
+  assert.ok(out.includes('source[^1]'), `plain ref should still be rewritten; got: ${out}`);
+});
+
 test('cleanupMarkdown does not rewrite a single trailing "N text" line', () => {
   // A single line could easily be a coincidence rather than a real footnote
   // def. Require 2+ to trigger the rewrite.
