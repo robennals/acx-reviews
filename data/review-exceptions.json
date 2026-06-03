@@ -71,6 +71,9 @@
   "the-gods-themselves": {
     "disableFootnotes": true
   },
+  "the-son-also-rises": {
+    "superscriptFootnotes": true
+  },
   "the-radicalism-of-the-american-revolution": {
     "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
   },

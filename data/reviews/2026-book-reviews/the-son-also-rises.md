@@ -10,6 +10,7 @@ slug: the-son-also-rises
 wordCount: 7679
 readingTimeMinutes: 35
 source: gdoc
+superscriptFootnotes: true
 tags:
   - Science
   - Society

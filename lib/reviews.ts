@@ -49,6 +49,7 @@ export async function getReviewBySlug(
     const { content, frontmatter } = parseMarkdown(fileContents);
     const { html: contentHtml, footnotes } = await markdownToHtml(content, {
       disableFootnotes: frontmatter?.disableFootnotes === true,
+      superscriptFootnotes: frontmatter?.superscriptFootnotes === true,
     });
 
     return {

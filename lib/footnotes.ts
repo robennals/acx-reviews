@@ -8,7 +8,21 @@ export interface ExtractedFootnotes {
   footnotes: ExtractedFootnote[];
 }
 
-type Format = 'sdfootnote' | 'ftnt' | 'fn' | 'pandoc' | 'plain' | 'bracket-colon' | 'none';
+type Format =
+  | 'sdfootnote'
+  | 'ftnt'
+  | 'fn'
+  | 'pandoc'
+  | 'plain'
+  | 'bracket-colon'
+  | 'superscript'
+  | 'none';
+
+/**
+ * Formats that are never auto-detected — only applied when a per-slug
+ * exception forces them (via `extractFootnotes`'s `forceFormat` opt).
+ */
+export type ForcedFormat = 'superscript';
 
 const REF_MARKER = (id: string, first: boolean) =>
   first
@@ -673,6 +687,133 @@ function extractPlain(md: string): ExtractedFootnotes {
   return { body: bodyWithMarkers, footnotes };
 }
 
+const SUP_DIGITS: Record<string, string> = {
+  '⁰': '0', '¹': '1', '²': '2', '³': '3', '⁴': '4',
+  '⁵': '5', '⁶': '6', '⁷': '7', '⁸': '8', '⁹': '9',
+};
+const SUP_DIGIT_RUN = '[⁰¹²³⁴⁵⁶⁷⁸⁹]+';
+
+function supToAscii(s: string): string {
+  return Array.from(s).map(ch => SUP_DIGITS[ch] ?? ch).join('');
+}
+
+/**
+ * Superscript format ("The Son Also Rises"): in-text refs are markdown
+ * links whose text is a unicode superscript number pointing at a gdoc
+ * anchor (`[¹](#id.scnk5fol0smp)`), and defs sit in a trailing block
+ * after a `_ _ _` rule as `¹ content` lines, with continuation
+ * paragraphs (including column-0 blockquotes and bare URLs) running
+ * until the next superscript def-start.
+ *
+ * NEVER auto-detected — superscript digits also appear in prose as
+ * exponents, so this only runs when forced via the per-slug
+ * `superscriptFootnotes` exception.
+ */
+function extractSuperscript(md: string): ExtractedFootnotes {
+  const lines = md.split('\n');
+  const defStartRe = new RegExp(`^(${SUP_DIGIT_RUN})[ \\t]+(\\S.*)$`);
+  const matchDefStart = (s: string) => defStartRe.exec(s);
+
+  const defLineIndices: number[] = [];
+  for (let i = 0; i < lines.length; i++) {
+    if (matchDefStart(lines[i])) defLineIndices.push(i);
+  }
+  if (defLineIndices.length === 0) {
+    return { body: md, footnotes: [] };
+  }
+
+  // Find the trailing def region — same walk as extractPlain: skip
+  // trailing blanks/rules, then walk back keeping def-starts, blanks,
+  // and continuation lines (non-blank non-def lines with a def above).
+  let endIdx = lines.length - 1;
+  while (endIdx >= 0 && isTrailingSeparator(lines[endIdx])) endIdx--;
+  let firstDefIdx = -1;
+  for (let i = endIdx; i >= 0; i--) {
+    if (matchDefStart(lines[i])) {
+      firstDefIdx = i;
+      continue;
+    }
+    if (lines[i].trim() === '') continue;
+    if (defLineIndices.some(idx => idx < i)) continue;
+    break;
+  }
+  if (firstDefIdx < 0) {
+    return { body: md, footnotes: [] };
+  }
+
+  // Collect defs, concatenating continuation lines up to the next
+  // def-start (or end of region).
+  const defs: Array<{ id: string; content: string }> = [];
+  let k = firstDefIdx;
+  while (k <= endIdx) {
+    const m = matchDefStart(lines[k]);
+    if (m) {
+      const contentLines: string[] = [m[2]];
+      let n = k + 1;
+      while (n <= endIdx && !matchDefStart(lines[n])) {
+        contentLines.push(lines[n]);
+        n++;
+      }
+      while (
+        contentLines.length > 1 &&
+        contentLines[contentLines.length - 1].trim() === ''
+      ) {
+        contentLines.pop();
+      }
+      defs.push({ id: supToAscii(m[1]), content: contentLines.join('\n').replace(/\s+$/, '') });
+      k = n;
+    } else {
+      k++;
+    }
+  }
+
+  // Body ends before the defs; also strip the separator rule (`_ _ _`)
+  // and blanks the author used to divide body from footnotes — the
+  // render layer adds its own "Footnotes" heading.
+  let bodyEndIdx = firstDefIdx;
+  while (bodyEndIdx > 0 && isTrailingSeparator(lines[bodyEndIdx - 1])) bodyEndIdx--;
+  const body = lines.slice(0, bodyEndIdx).join('\n').replace(/\s+$/g, '') + '\n';
+
+  const defById = new Map<string, string>();
+  for (const d of defs) defById.set(d.id, d.content);
+
+  // Rewrite in-text refs `[¹](#anchor)` whose number has a matching
+  // def. Orphans pass through untouched.
+  const seen = new Set<string>();
+  const bodyWithMarkers = body.replace(
+    new RegExp(`\\[(${SUP_DIGIT_RUN})\\]\\(#[^)]*\\)`, 'g'),
+    (full, sup: string) => {
+      const id = supToAscii(sup);
+      if (!defById.has(id)) return full;
+      const first = !seen.has(id);
+      seen.add(id);
+      return REF_MARKER(id, first);
+    }
+  );
+
+  // Order footnotes by first in-body appearance; unreferenced defs follow.
+  const orderedIds: string[] = [];
+  const orderSeen = new Set<string>();
+  const orderRegex = /data-fn-id="(\d+)"/g;
+  let om: RegExpExecArray | null;
+  while ((om = orderRegex.exec(bodyWithMarkers)) !== null) {
+    if (!orderSeen.has(om[1])) {
+      orderSeen.add(om[1]);
+      orderedIds.push(om[1]);
+    }
+  }
+  const footnotes: ExtractedFootnote[] = [];
+  for (const id of orderedIds) {
+    const content = defById.get(id);
+    if (content !== undefined) footnotes.push({ id, raw: content });
+  }
+  for (const d of defs) {
+    if (!orderSeen.has(d.id)) footnotes.push({ id: d.id, raw: d.content });
+  }
+
+  return { body: bodyWithMarkers, footnotes };
+}
+
 interface CodeChunk { kind: 'code'; content: string; }
 interface TextChunk { kind: 'text'; content: string; }
 type Chunk = CodeChunk | TextChunk;
@@ -792,14 +933,17 @@ function splitFencedCode(md: string): Chunk[] {
   return chunks;
 }
 
-export function extractFootnotes(markdown: string): ExtractedFootnotes {
+export function extractFootnotes(
+  markdown: string,
+  opts: { forceFormat?: ForcedFormat } = {}
+): ExtractedFootnotes {
   const chunks = splitFencedCode(markdown);
   const textOnly = chunks
     .filter((c): c is TextChunk => c.kind === 'text')
     .map((c) => c.content)
     .join('');
 
-  const format = detectFormat(textOnly);
+  const format = opts.forceFormat ?? detectFormat(textOnly);
   if (format === 'none') {
     return { body: markdown, footnotes: [] };
   }
@@ -835,6 +979,9 @@ export function extractFootnotes(markdown: string): ExtractedFootnotes {
       break;
     case 'bracket-colon':
       extracted = extractBracketColon(withPlaceholders);
+      break;
+    case 'superscript':
+      extracted = extractSuperscript(withPlaceholders);
       break;
     default:
       return { body: markdown, footnotes: [] };
