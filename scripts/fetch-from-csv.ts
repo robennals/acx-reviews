@@ -244,6 +244,12 @@ interface ReviewException {
   // confuses the heuristic — e.g. "How I Killed Pluto" formats
   // footnotes inline per section rather than as a trailing block.
   disableFootnotes?: boolean;
+  // Force the unicode-superscript footnote format at render time. Use
+  // for reviews whose in-text refs are superscript-digit links
+  // (`[¹](#id.xxx)`) with trailing `¹ content` defs — never
+  // auto-detected because superscript digits also appear in prose as
+  // exponents ("The Son Also Rises" uses this format).
+  superscriptFootnotes?: boolean;
   // Replace the submission's docUrl with this Google Doc URL. Used
   // when the CSV row points at a PDF / Google Drive file that the
   // pipeline can't read, and the content has been rehosted as a real
@@ -1128,6 +1134,8 @@ async function createMarkdownFile(
   // Surface the disable-footnotes flag into frontmatter so the render
   // layer (lib/reviews.ts) can read it and skip footnote extraction.
   if (slugExceptions[slug]?.disableFootnotes) fm.disableFootnotes = true;
+  // Same surfacing for the forced superscript-footnote format.
+  if (slugExceptions[slug]?.superscriptFootnotes) fm.superscriptFootnotes = true;
   // Preserve any previously-assigned tags. Tags are manual annotations
   // so they shouldn't disappear when a re-import pulls fresh content.
   if (data.existingTags && data.existingTags.length > 0) {

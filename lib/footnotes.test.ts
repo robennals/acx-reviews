@@ -632,3 +632,71 @@ test('plain: bare-digit fallback skips version numbers like 2.0.1', () => {
   // No fn-ref markers should be added.
   assert.ok(!r.body.includes('data-fn-id'));
 });
+
+test('superscript: forced format extracts unicode-superscript footnotes', () => {
+  // "The Son Also Rises" format: in-text refs are markdown links whose text
+  // is a unicode superscript number (`[¹](#id.xxx)`), defs sit after a
+  // `_ _ _` rule as `¹ content` lines. Only used when forced via the
+  // per-slug exception — never auto-detected.
+  const input = [
+    'Claim one.[¹](#id.abc123) And claim ten.[¹⁰](#id.def456)',
+    '',
+    'More body text.',
+    '',
+    '_ _ _',
+    '¹ First note.',
+    '',
+    'Continuation paragraph of note one.',
+    '',
+    'https://example.com/img',
+    '',
+    '¹⁰ Tenth note with a quote:',
+    '',
+    '> Quoted continuation typed at column 0.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input, { forceFormat: 'superscript' });
+
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '10']);
+  assert.ok(
+    r.body.includes('<sup class="fn-ref" data-fn-id="1" id="fn-ref-1">[1]</sup>'),
+    'ref ¹ should become a numbered marker'
+  );
+  assert.ok(
+    r.body.includes('<sup class="fn-ref" data-fn-id="10" id="fn-ref-10">[10]</sup>'),
+    'ref ¹⁰ should become a two-digit marker'
+  );
+  assert.ok(!r.body.includes('#id.abc123'), 'gdoc anchor links should be gone');
+  assert.ok(!r.body.includes('¹ First note'), 'defs should be removed from body');
+  assert.ok(!/_ _ _\s*$/.test(r.body), 'trailing separator rule should be stripped from body');
+  assert.ok(r.footnotes[0].raw.includes('First note.'));
+  assert.ok(r.footnotes[0].raw.includes('Continuation paragraph'));
+  assert.ok(r.footnotes[0].raw.includes('https://example.com/img'));
+  assert.ok(r.footnotes[1].raw.includes('Quoted continuation'));
+});
+
+test('superscript: orphan refs without defs pass through unchanged', () => {
+  const input = [
+    'Squared.[²](#id.nodef) Body.',
+    '',
+    '_ _ _',
+    '¹ Only note one exists.',
+    '',
+  ].join('\n');
+  const r = extractFootnotes(input, { forceFormat: 'superscript' });
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1']);
+  assert.ok(r.body.includes('[²](#id.nodef)'), 'orphan ref should be untouched');
+});
+
+test('superscript: format is never auto-detected', () => {
+  const input = [
+    'Claim.[¹](#id.abc) Text.',
+    '',
+    '_ _ _',
+    '¹ A note.',
+    '',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.deepEqual(r.footnotes, []);
+});
