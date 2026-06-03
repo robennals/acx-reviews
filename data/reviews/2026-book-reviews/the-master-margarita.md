@@ -10,6 +10,7 @@ slug: the-master-margarita
 wordCount: 3790
 readingTimeMinutes: 17
 source: gdoc
+disableFootnotes: true
 tags:
   - Fiction
   - Religion
