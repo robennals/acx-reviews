@@ -7,9 +7,17 @@
 import type { ReviewFootnote } from '../../../lib/types';
 import { escapeXml } from './xhtml';
 
+// Strip quote characters (straight + curly) from the sort key so quoted
+// titles interleave alphabetically. Quotes only — `ignorePunctuation`
+// would also ignore spaces, turning word-by-word order into
+// letter-by-letter ("Aesopian" before "A Game").
+function sortKey(title: string): string {
+  return title.replace(/["'‘’“”]/g, '');
+}
+
 export function sortEntries<T extends { title: string }>(entries: T[]): T[] {
   return [...entries].sort((a, b) =>
-    a.title.localeCompare(b.title, 'en', { sensitivity: 'base', ignorePunctuation: true })
+    sortKey(a.title).localeCompare(sortKey(b.title), 'en', { sensitivity: 'base' })
   );
 }
 
