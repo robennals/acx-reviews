@@ -10,6 +10,7 @@ slug: progressive-myths
 wordCount: 8079
 readingTimeMinutes: 36
 source: gdoc
+disableFootnotes: true
 tags:
   - Politics
   - Society

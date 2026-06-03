@@ -1,6 +1,7 @@
 {
   "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
-    "truncateAtLineContaining": "not for publication"
+    "truncateAtLineContaining": "not for publication",
+    "skipFetch": true
   },
   "the-sins-of-gk-chesterton": {
     "dropBlock": {
@@ -19,7 +20,8 @@
     "preserveLeadingHeading": true
   },
   "the-epic-of-gilgamesh": {
-    "forcePoetryQuotes": true
+    "forcePoetryQuotes": true,
+    "skipFetch": true
   },
   "orality-and-literacy-by-walter-ong": {
     "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
@@ -45,7 +47,8 @@
   },
   "coriolanus": {
     "disableItalicAsBlockquote": true,
-    "disableQuotedParagraphAsBlockquote": true
+    "disableQuotedParagraphAsBlockquote": true,
+    "skipFetch": true
   },
   "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
     "docUrlOverride": "https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI/edit",
@@ -66,6 +69,24 @@
     "disableQuotedParagraphAsBlockquote": true
   },
   "how-i-killed-pluto-and-why-it-had-it-coming": {
+    "skipFetch": true
+  },
+  "the-gods-themselves": {
+    "disableFootnotes": true
+  },
+  "the-sun-also-rises": {
+    "disableFootnotes": true
+  },
+  "the-pre-training-data": {
+    "disableFootnotes": true
+  },
+  "the-son-also-rises": {
+    "superscriptFootnotes": true
+  },
+  "a-poor-wise-man": {
+    "disableFootnotes": true
+  },
+  "progressive-myths": {
     "disableFootnotes": true
   },
   "the-radicalism-of-the-american-revolution": {
@@ -75,7 +96,8 @@
     "numberedListAsBullets": true
   },
   "the-master-margarita": {
-    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit"
+    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit",
+    "disableFootnotes": true
   },
   "mistletoe-and-memorandums-by-claude": {
     "quoteAfterListIsContinuation": true
@@ -100,5 +122,14 @@
       "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",
       "5374534c3e17ded8": "$$\\left(\\frac{M}{N}\\right)^r$$"
     }
+  },
+  "a-residence-of-twenty-one-years-in-the-sandwich-islands": {
+    "skipFetch": true
+  },
+  "candide": {
+    "skipFetch": true
+  },
+  "that-hideous-strength": {
+    "skipFetch": true
   }
 }

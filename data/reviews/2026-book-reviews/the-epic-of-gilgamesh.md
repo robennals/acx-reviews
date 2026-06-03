@@ -42,20 +42,21 @@ The Epic of Gilgamesh is organised into eleven Tablets (there’s a twelfth but 
 (If you’d like to hear it in the original Akkadian while you read, the [internet can provide](https://www.youtube.com/watch?v=sdBeTCjw6Lk).)
 
 > _He who saw the Deep, the country’s foundation_  
-> _[who] knew the [proper ways, was] wise in all matters!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[who] knew the [proper ways, was] wise in all matters!_  
 > _[He] explored everywhere the seats of [power,]_  
-> _[he knew] of everything the sum of wisdom._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[he knew] of everything the sum of wisdom._  
 > _He saw what was secret, discovered what was hidden,_  
-> _he brought back a tale of before the Deluge._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he brought back a tale of before the Deluge._  
 
 Gilgamesh’s greatness is linked immediately to the city of Uruk, where he rules as King:
 
 > _He built the rampart of Uruk-the-Sheepfold,_  
-> _of holy Eanna, the sacred storehouse._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_of holy Eanna, the sacred storehouse._  
 > _[...] Climb Uruk’s wall and walk back and forth!_  
-> _Survey the foundations, examine the brickwork!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Survey the foundations, examine the brickwork!_  
 > _Were its bricks not fired in an oven?_  
->    _Did the Seven Sages not lay its foundations?_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Did the Seven Sages not lay its foundations?_  
+>
 > _[A square mile is] city, [a square mile] date-grove, a square mile is clay-pit, half a square mile the temple of Ishtar: [three square miles] and a half is Uruk’s expanse._  
 
 The city of Uruk is prominent in this story, and that’s no coincidence. Mesopotamians associated it with ancient wealth and glory. They were right to venerate it: Uruk is the site of an epoch-defining shift in human history.
@@ -79,39 +80,43 @@ At least, he starts out that way. We are told he acts “like a wild bull lordin
 His people plea to the goddess Aruru to deliver them from Gilgamesh’s tyranny. She decides to help them, with an unorthodox method: she will create a new man to be Gilgamesh’s equal, distracting him from harassing his subjects.
 
 > _The goddess Aruru, she washed her hands,_  
-> _took a pinch of clay, threw it down in the wild._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_took a pinch of clay, threw it down in the wild._  
 > _In the wild she created Enkidu, the hero,_  
-> _offspring of silence, knit strong by Ninurta._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_offspring of silence, knit strong by Ninurta._  
+>
 > _All his body is matted with hair,_  
-> _he bears long tresses like those of a woman:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he bears long tresses like those of a woman:_  
 > _the locks of his hair grow thickly as barley,_  
-> _he knows not a people, nor even a country._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he knows not a people, nor even a country._  
 
 Hairy, unkempt Enkidu is initially wild like an animal, running with herds and grazing on grass. A nearby hunter notices him, and asks first his father, and then King Gilgamesh, what to do about the wild man. Both tell him to take a ‘temple harlot’ named Shamhat [5] to Enkidu so that she can seduce him.
 
 This unusual strategy is successful - a week of sex with Shamhat turns Enkidu into a tamed beast. [6]
 
 > _She treated the man to the work of a woman,_  
-> _his passion caressed and embraced her._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_his passion caressed and embraced her._  
 > _For six days and seven nights_  
-> _Enkidu was erect, as he coupled with Shamhat._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Enkidu was erect, as he coupled with Shamhat._  
+>
 > _When with her delights he was fully sated,_  
-> _he turned his gaze to his herd._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he turned his gaze to his herd._  
 > _The gazelles saw Enkidu, they started to run,_  
-> _the beasts of the field shied away from his person._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_the beasts of the field shied away from his person._  
+>
 > _Enkidu had defiled his body so pure,_  
-> _his legs stood still, though his herd was in motion._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_his legs stood still, though his herd was in motion._  
 > _Enkidu was weakened, could not run as before,_  
-> _but now he had reason and wide understanding._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_but now he had reason and wide understanding._  
 
 Having sex has both ‘defiled’ Enkidu, and also elevated him and given him reason. This juxtaposition tells us a lot about how Mesopotamians thought about the ‘pure’ existence in the wilderness versus the ‘wide understanding’ of urban life. Mesopotamian literature in general seems very aware of these two modes of living. It may have been common for individuals to move during their lives between living off the land and living in cities. Whenever I read this section about Enkidu, I keep wondering how common it was for men in particular to want to run off and live wild, but be tempted back into settled society by “the work of a woman”.
 
 After welcoming him into civilisation by giving him beer and bread, Shamhat tells Enkidu about Gilgamesh’s terrible behaviour. On hearing this, he cleans up, gets dressed, and heads to Uruk. He arrives just in time: Gilgamesh is about to have his way with a new bride. Enkidu and Gilgamesh are set up for a big fight:
 
 > _Enkidu with his foot blocked the door of the wedding house,_  
-> _not allowing Gilgamesh to enter._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_not allowing Gilgamesh to enter._  
 > _They seized each other at the door of the wedding house,_  
-> _in the street they joined combat, in the Square of the Land._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_in the street they joined combat, in the Square of the Land._  
+>
 > _The door-jambs shook, the wall did shudder._  
 
 But then, the next moment, we cut to Gilgamesh introducing Enkidu to his mother, calling him his friend. This jarring break exists because we don’t have the part of the text which tells us why or what happened in between. Here we have to acknowledge an important part of this story: the part that’s missing.
@@ -137,15 +142,17 @@ Some lacunae are easy to reconstruct, because the context makes it obvious what 
 We can get some clues to what happened from an older version of the text (the ‘Old Babylonian version’), in the Pennsylvania tablet [8]. It says:
 
 > _Gilgamesh and Enkidu took hold of each other, backs bent like a bull,_  
-> _they smashed the door-jamb, the wall did shake._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_they smashed the door-jamb, the wall did shake._  
+>
 > _Gilgamesh knelt, one foot on the ground,_  
-> _his anger subsided, he broke off from the fight._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_his anger subsided, he broke off from the fight._  
 > _After he broke off from the fight,_  
-> _said Enkidu to him, to Gilgamesh:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_said Enkidu to him, to Gilgamesh:_  
+>
 > _‘As one unique your mother bore you,_  
-> _the wild cow of the fold, the goddess Ninsun!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_the wild cow of the fold, the goddess Ninsun!_  
 > _High over warriors you are exalted,_  
-> _to be king of the people Enlil made it your destiny!’_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_to be king of the people Enlil made it your destiny!’_  
 
 In this version, during a pause in the fighting, Enkidu starts spontaneously complimenting Gilgamesh’s skill as a warrior and his singular glory as a king. This tablet also cuts out here, but maybe that’s all we need to know: they stopped fighting because their urge to bro out became too strong to resist. As we’ll see later, this wouldn’t be out of character.
 
@@ -180,7 +187,7 @@ The political situation when this version was compiled would have been shaky; wh
 With the lens of history we can tell that this Standard Babylonian Version was probably the last. Though it was copied and recopied frequently in later centuries, it doesn’t seem to have changed much. The Standard Babylonian Version makes me think of an Egyptian Pharaoh: the text has been embalmed; given gravitas and a sombre aesthetic, smartened up and prepared for its long journey into eternity.
 
 > _As for man, [his days] are numbered,_  
-> _Whatever he may do, it is but wind._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Whatever he may do, it is but wind._  
 
 Timeline (all dates are approximate and could be out by at least a century [11]):
 
@@ -204,19 +211,19 @@ Timeline (all dates are approximate and could be out by at least a century [11])
 ### Tablet 3-6: Gilgamesh’s adventures with Enkidu
 
 > _establish for ever [a fame] that endures,_  
-> _how Gilgamesh slew [ferocious] Humbaba!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_how Gilgamesh slew [ferocious] Humbaba!_  
 
 After Gilgamesh and Enkidu become Best Friends Forever, they decide to go to the Forest of Cedar, in Lebanon, to kill the monster called Humbaba (“This Humbaba, his voice is the Deluge, his speech is fire, his breath is death!”). In the Old Babylonian version, this happens because Enkidu is sad and Gilgamesh wants to cheer him up. In the Standard Babylonian version, it seems to be motivated more by a desire for fame and glory - to do something great which will echo through the ages. Gilgamesh’s mother laments his tendency to seek this kind of fame:
 
 > _Scattering incense she lifted her arms in appeal to the Sun God:_  
-> _‘Why did you afflict my son Gilgamesh with so restless a spirit?_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_‘Why did you afflict my son Gilgamesh with so restless a spirit?_  
 
 Gilgamesh and Enkidu gather their supplies and set out to the Cedar Forest. We read of their journey and their ascent to Humbaba’s mountain, on which Gilgamesh has several prophetic dreams, all of which Enkidu interprets as good omens for their quest.
 
 > _[At twenty] leagues they broke bread,_  
-> _[at] thirty leagues they pitched camp:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[at] thirty leagues they pitched camp:_  
 > _[fifty] leagues they travelled in the course of a day,_  
-> _by the third day [a march] of a month and a half;_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_by the third day [a march] of a month and a half;_  
 > _nearer they drew to Mount Lebanon._  
 
 They then reach the mountain and confront Humbaba. Humbaba turns out to be a surprisingly eloquent monster, and as soon as he perceives the fight isn’t going his way, he appeals to them - first Gilgamesh, then Enkidu - to spare him. Enkidu resists Humbaba’s charms and persuades Gilgamesh to inflict the killing blow. The triumphant heroes then gather the precious cedar wood that Humbaba was guarding, and bring it back to Uruk.
@@ -224,26 +231,29 @@ They then reach the mountain and confront Humbaba. Humbaba turns out to be a sur
 There, the goddess Ishtar is impressed by Gilgamesh’s success. She proposes marriage to him; Gilgamesh rejects her, listing the terrible fates of her previous dalliances:
 
 > _What bridegroom of yours did endure for ever?_  
-> _What brave warrior of yours went up [to the heavens?]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_What brave warrior of yours went up [to the heavens?]_  
+>
 > _‘Come, let me tell [you the tale] of your lovers:_  
-> _of ….….. his arm._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_of ….….. his arm._  
 > _Dumuzi, the husband of your youth,_  
-> _year upon year, to lamenting you doomed him._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_year upon year, to lamenting you doomed him._  
+>
 > _‘You loved the speckled hoopoe,_  
-> _but struck it down and broke its wing:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_but struck it down and broke its wing:_  
 > _now it stands in the woods crying “My wing!”_  
-> _You loved the lion, perfect in strength,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_You loved the lion, perfect in strength,_  
 > _but for it you dug seven pits and seven._  
 
 Enraged by his rejection, Ishtar persuades her father Anu to give her the Bull of Heaven - another kind of monster, best known as the constellation Taurus - so she can use it to kill Gilgamesh. The Bull of Heaven descends into Uruk and attacks. Gilgamesh and Enkidu slay it with the merest hint of tactics and the Raw Power of their Bromance. Then they crow over their victory by throwing a piece of the bull at Ishtar.
 
 > _Ishtar went up on the wall of Uruk-the-Sheepfold,_  
-> _hopping and stamping, she wailed in woe:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_hopping and stamping, she wailed in woe:_  
 > _‘Alas! Gilgamesh, who mocked me, has killed the Bull of Heaven.’_  
+>
 > _Enkidu heard these words of Ishtar,_  
-> _and tearing off the Bull’s shoulder he hurled it towards her._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_and tearing off the Bull’s shoulder he hurled it towards her._  
 > _‘Had I caught you too, I’d have treated you likewise,_  
-> _I’d have draped your arms in its guts!’_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_I’d have draped your arms in its guts!’_  
 
 A book review is meant to be about whether a book is good, but to ask that of the Epic of Gilgamesh feels beside the point [12]. It's like asking how the foundation stones of a palace compare to its towering spires. Nobody thinks the job of foundation stones is to look nice, and nobody thinks the job of the Epic of Gilgamesh is to entertain someone living four millennia later on a different continent.
 
@@ -255,7 +265,7 @@ But there’s no question modern people can find _something_ to enjoy about Gilg
 
 I also can’t miss out the [ongoing discussion](https://www.tumblr.com/sisterofiris/188682007614/so-i-just-did-a-paper-on-gilgamesh-and-enkidu) about whether Gilgamesh and Enkidu are intended to be platonic soulmates, or gay lovers who might literally fuck [14]. I’m not sure anything else so perfectly encapsulates the gulf of millennia between ancient and modern interpretations!
 
-I think Gilgamesh remains interesting in the modern age because it contains multitudes. While some of its themes (eg ‘what makes a good king’ or ‘how best to serve the gods’) aren’t very accessible in the 21st century, others are timeless, like ~~loving your best bro as a~~ ~~wife~~  deep bonds between male friends. The central theme of the Epic of Gilgamesh is _mortality_. We’re all going to die - can we stop it, and if not, how do we deal with that?
+I think Gilgamesh remains interesting in the modern age because it contains multitudes. While some of its themes (eg ‘what makes a good king’ or ‘how best to serve the gods’) aren’t very accessible in the 21st century, others are timeless, like ~~loving your best bro as a wife~~ deep bonds between male friends. The central theme of the Epic of Gilgamesh is _mortality_. We’re all going to die - can we stop it, and if not, how do we deal with that?
 
 ### Tablets 7 and 8: The death of Enkidu
 
@@ -268,18 +278,19 @@ Gilgamesh tells his friend that he will honour him with all the splendour of Uru
 Enkidu becomes ill. He goes to his deathbed, and takes twelve days to die. Afterwards, Gilgamesh spends a whole Tablet grieving him:
 
 > _He covered, like a bride, the face of his friend,_  
-> _like an eagle he circled around him._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_like an eagle he circled around him._  
 > _Like a lioness deprived of her cubs,_  
-> _he paced to and fro, this way and that._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he paced to and fro, this way and that._  
+>
 > _His curly [hair] he tore out in clumps,_  
-> _he ripped off his finery, [like] a thing taboo he cast it away._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he ripped off his finery, [like] a thing taboo he cast it away._  
 
 He throws open Uruk’s vaults, looking for suitable grave goods:
 
 > _At the very first glimmer of brightening dawn,_  
-> _[Gilgamesh arose and entered his treasury.]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[Gilgamesh arose and entered his treasury.]_  
 > _He undid its sealings, inspected the gemstones:_  
-> _obsidian, carnelian, [lapis lazuli, mother-of]-pearl, alabaster._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_obsidian, carnelian, [lapis lazuli, mother-of]-pearl, alabaster._  
 
 We are told at great length of the fine gifts Gilgamesh makes, desperate for the gods to look favourably on his friend.
 
@@ -287,12 +298,15 @@ While we leave Gilgamesh to his grief, let’s talk about the reason you can rea
 
 ### Interlude: Writing
 
-> _Because the messenger's mouth was heavy and he couldn't repeat [the message], the Lord of Kulaba patted some clay and put words on it, like a tablet. Until then, there had been no putting words on clay._  
-> -  [Enmerkar and the Lord of Aratta](https://en.wikipedia.org/wiki/Enmerkar_and_the_Lord_of_Aratta), c. 1800 BC  
-> _Everyone knows words aren’t real. Or maybe I phrased that awkwardly, but certainly they’re not so real that if you inscribe every word ever written onto a piece of glass then the glass comes to life and kills you._  
-> - Scott Alexander*, [Half An Hour Before Dawn In San Francisco](https://www.astralcodexten.com/p/half-an-hour-before-dawn-in-san-francisco)*, 2023 AD  
+> _Because the messenger's mouth was heavy and he couldn't repeat [the message], the Lord of Kulaba patted some clay and put words on it, like a tablet. Until then, there had been no putting words on clay._
+>
+> — [Enmerkar and the Lord of Aratta](https://en.wikipedia.org/wiki/Enmerkar_and_the_Lord_of_Aratta), c. 1800 BC
 
-In case you missed it, large language models are quite the thing at the moment. ChatGPT, Claude, and Gemini are all based, at their core, on language. You train an LLM by making [a pile](https://xkcd.com/1838/) of every written word you can find, and grinding it through a [transformer decoder](https://en.wikipedia.org/wiki/Transformer_(deep_learning)) until it ~~comes to life and~~ ~~kills you~~ passes the ARC-AGI-2 benchmark. Humans talk first and then learn how to read; large language models read so much they learn how to talk - and everything else - as a side-effect. So while 'generating training data for AI' sounds very 2020s, it turns out we've been doing it since the 4th millennium BC.
+> _Everyone knows words aren’t real. Or maybe I phrased that awkwardly, but certainly they’re not so real that if you inscribe every word ever written onto a piece of glass then the glass comes to life and kills you._
+>
+> — Scott Alexander, _[Half An Hour Before Dawn In San Francisco](https://www.astralcodexten.com/p/half-an-hour-before-dawn-in-san-francisco)_, 2023 AD
+
+In case you missed it, large language models are quite the thing at the moment. ChatGPT, Claude, and Gemini are all based, at their core, on language. You train an LLM by making [a pile](https://xkcd.com/1838/) of every written word you can find, and grinding it through a [transformer decoder](https://en.wikipedia.org/wiki/Transformer_(deep_learning)) until it ~~comes to life and kills you~~ passes the ARC-AGI-2 benchmark. Humans talk first and then learn how to read; large language models read so much they learn how to talk - and everything else - as a side-effect. So while 'generating training data for AI' sounds very 2020s, it turns out we've been doing it since the 4th millennium BC.
 
 The invention of writing was a process, not a moment. One of the hardest parts was just coming up with the idea.
 
@@ -332,40 +346,43 @@ This deep entanglement is what allowed modern assyriologists (with [a century of
 The death of Enkidu has left Gilgamesh a broken man. As he promised in Tablet 7, he abandons Uruk and wanders aimlessly, wearing the skin of a lion:
 
 > _For his friend Enkidu Gilgamesh_  
-> _did bitterly weep as he wandered the wild:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_did bitterly weep as he wandered the wild:_  
 > _‘I shall die, and shall I not then be as Enkidu?_  
-> _Sorrow has entered my heart!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Sorrow has entered my heart!_  
+>
 > _‘I am afraid of death, so I wander the wild,_  
-> _to find Uta-napishti, son of Ubar-Tutu._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_to find Uta-napishti, son of Ubar-Tutu._  
 
 In his reluctance to accept the death of Enkidu, Gilgamesh comes to resent and fear the idea of death itself. He begins a quest to find Uta-Napishti, a famous king living at the edge of the world. He hopes that Uta-Napishti - known to be immortal - might share his gift.
 
 Gilgamesh heads to Mount Mashu. Two ‘scorpion-men’ try to stop him going further. After a lacuna, he seems to have persuaded them to let him continue. He proceeds into a very long tunnel, and journeys through it for twenty-four hours. This tunnel is the route that the sun travels during the night: from the west back to east, so it can rise again in the morning. Gilgamesh has to hurry, but he arrives just in time to avoid being scorched by the dawn. He finds himself in a paradise:
 
 > _[at twelve double-hours Gilgamesh] emerged ahead of the Sun._  
+>
 > _.….. there was brilliance:_  
-> _he went straight, as soon as he saw them, to … the trees of the gods._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he went straight, as soon as he saw them, to … the trees of the gods._  
 > _A carnelian tree was in fruit,_  
-> _hung with bunches of grapes, lovely to look on._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_hung with bunches of grapes, lovely to look on._  
+>
 > _A lapis lazuli tree bore foliage,_  
-> _in full fruit and gorgeous to gaze on._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_in full fruit and gorgeous to gaze on._  
 
 Gilgamesh meets a woman called Shiduri, who is inexplicably running a tavern at the end of the world (god forbid a woman try a business venture). In the Standard Babylonian version, Shiduri doesn’t play much of a role - she asks him ‘why the long face’ (almost literally [20]) and then directs him on his way to Uta-napishti. But in the Old Babylonian version, she drops some gems:
 
 > _Said the tavern-keeper to him, to Gilgamesh:_  
-> _‘O Gilgamesh, where are you wandering?_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_‘O Gilgamesh, where are you wandering?_  
 > _‘The life that you seek you never will find:_  
-> _when the gods created mankind,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_when the gods created mankind,_  
 > _death they dispensed to mankind,_  
-> _life they kept for themselves._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_life they kept for themselves._  
 > _‘But you, Gilgamesh, let your belly be full,_  
-> _enjoy_ _yourself always by day_ _and by night!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_enjoy_ _yourself always by day_ _and by night!_  
 > _Make merry each day,_  
-> _dance and play day and night!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_dance and play day and night!_  
 > _‘Let your clothes be clean,_  
-> _let your head be washed, may you bathe in water!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_let your head be washed, may you bathe in water!_  
 > _Gaze on the child who holds your hand,_  
-> _let your wife enjoy your repeated embrace!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_let your wife enjoy your repeated embrace!_  
 > _For such is the destiny [of mortal men]._  
 
 In other words: Gilgamesh you idiot, stop stressing yourself out pointlessly chasing immortality and learn to appreciate the simple joys with the time that you have.
@@ -377,9 +394,9 @@ Gilgamesh pushes on. Shiduri reluctantly tells him that to find Uta-napishti he 
 We then get a strange mishap: Gilgamesh finds Ur-shanabi with some ‘Stone Ones’, which are associated somehow with his boat. Gilgamesh immediately smashes these Stone Ones in a rage; only then do he and Ur-shanabi politely introduce themselves. It turns out these Stone Ones were vitally important:
 
 > _Said Ur-shanabi to him, to Gilgamesh:_  
->    _‘Your own hands, O Gilgamesh, have hindered [your crossing:]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_‘Your own hands, O Gilgamesh, have hindered [your crossing:]_  
 > _you smashed the Stone Ones, tipped [them into the river,]_  
->    _the Stone Ones are smashed, and the pine is not [stripped.]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_the Stone Ones are smashed, and the pine is not [stripped.]_  
 
 To make up for this, Gilgamesh has to go into the forest and cut three hundred long wooden poles. This done, he and Ur-shanabi journey for three days across the sea, and then Gilgamesh, avoiding touching the Waters of Death, uses his long poles - and later an improvised sail - to propel them along. Finally, they reach land, to find Uta-napishti, the famous immortal who Gilgamesh has been seeking, watching them from the shore.
 
@@ -416,35 +433,38 @@ Long ago, during Uta-napishti’s reign as king of Shuruppak, the gods decide to
 When the boat is completed, Uta-napishti loads it up with wealth, people, and animals:
 
 > _I sent on board all my kith and kin,_  
-> _the beasts of the field, the creatures of the wild, and experts of every skill and craft._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_the beasts of the field, the creatures of the wild, and experts of every skill and craft._  
 
 Then comes the flood. The ensuing violence terrifies even the gods that brought it:
 
 > _‘The god Errakal was uprooting the mooring-poles,_  
-> _Ninurta, passing by, made the weirs overflow._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Ninurta, passing by, made the weirs overflow._  
 > _The Anunnaki gods carried torches of fire,_  
-> _scorching the country with brilliant flashes._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_scorching the country with brilliant flashes._  
+>
 > _‘The stillness of the Storm God passed over the sky,_  
-> _and all that was bright then turned into darkness._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_and all that was bright then turned into darkness._  
 > _[He] charged the land like a bull [on the rampage,]_  
-> _he smashed [it] in pieces [like a vessel of clay.]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_he smashed [it] in pieces [like a vessel of clay.]_  
+>
 > _‘For a day the gale [winds flattened the country,]_  
-> _quickly they blew, and [then came] the [Deluge.]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_quickly they blew, and [then came] the [Deluge.]_  
 > _Like a battle [the cataclysm] passed over the people._  
-> _One man could not discern another,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_One man could not discern another,_  
 > _nor could people be recognized amid the destruction._  
+>
 > _‘Even the gods took fright at the Deluge,_  
-> _they left and went up to the heaven of Anu,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_they left and went up to the heaven of Anu,_  
 > _lying like dogs curled up in the open._  
-> _The goddess cried out like a woman in childbirth,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_The goddess cried out like a woman in childbirth,_  
 > _Belet-ili wailed_  
 
 The flood ends after seven days, and Uta-napishti’s boat comes to rest on a mountain. He releases three birds: a dove and a swallow which return to him, and a raven which does not, proving that there is dry land somewhere and that the waters are finally receding. After Uta-napishti and the people he has saved emerge onto the land, the gods, already regretting their actions, are surprised and pleased to find they have not killed every human after all. Enlil, king of the gods, grants Uta-napishti and his wife immortality as penance:
 
 > _“In the past Uta-napishti was a mortal man,_  
-> _but now he and his woman shall become like us gods!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_but now he and his woman shall become like us gods!_  
 > _Uta-napishti shall dwell far away, where the rivers flow forth!”_  
-> _So far away they took me, and settled me where the rivers flow forth._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_So far away they took me, and settled me where the rivers flow forth._  
 
 Uta-napishti’s story has striking parallels with the story of Noah’s ark in Genesis, down to some precise details: one man singled out to be spared by building a boat, animals brought on board, a bird released to find dry land, and promises afterwards to never repeat the disaster. Genesis was assembled in its final form around 600 BC in Babylon. It’s abundantly clear that the authors (there in exile from Judah) incorporated the flood myth from the ambient Mesopotamian literary tradition, perhaps linking and contrasting familiar polytheistic stories as a way to sharpen their monotheistic message. There are [other less clear-cut parallels](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh#Relationship_to_the_Bible) between the stories, such as a treacherous snake (we’ll get to it!) and Enkidu’s journey from nature to self-awareness via a woman.
 
@@ -471,46 +491,50 @@ In response, Uta-napishti tells his story. Gilgamesh learns to his dismay that U
 To drive the point home, Uta-napishti challenges Gilgamesh to stay awake for seven nights - if he can’t defeat sleep, how can he even hope to defeat death? He’s so tired by his journey he falls asleep almost immediately; when he wakes up he sees that Uta-napishti’s wife has baked seven loaves of bread, one for each day he has slept, and begins to understand the futility of what he’s trying to do:
 
 > _Said Gilgamesh to him, to Uta-napishti the Distant:_  
->    _‘O Uta-napishti, what should I do and where should I go?_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_‘O Uta-napishti, what should I do and where should I go?_  
 > _A thief has taken hold of my [flesh!]_  
->    _For there in my bed-chamber Death does abide,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_For there in my bed-chamber Death does abide,_  
 > _and wherever [I] turn, there too will be Death.’_  
 
 Uta-napishti impassively tells the boatman Ur-shanabi to clean Gilgamesh up and take him back to Uruk. But as they are leaving, his wife reminds him to give Gilgamesh a final gift:
 
 > _‘There is a plant that [looks] like a box-thorn,_  
-> _it has prickles like a dog rose, and will [prick one who plucks it.]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_it has prickles like a dog rose, and will [prick one who plucks it.]_  
 > _But if you can possess this plant,_  
-> _[you’ll be again as you were in your youth.]’_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[you’ll be again as you were in your youth.]’_  
 
 Seemingly as an afterthought, he has given Gilgamesh the location of a magical underwater plant which grants eternal youth. Is eternal youth different to eternal life? Is this just another test? Gilgamesh doesn’t ponder these questions: he immediately attaches weights to his feet, and dives to retrieve the “Plant of Heartbeat”. Plant in hand, he tells Ur-shanabi that he will test it first on an old man back in Uruk.
 
 But it is not to be. On the journey back, while Gilgamesh is bathing, the magical plant is stolen by a passing snake. The snake leaves nothing but its shed skin - implying that it has gained its own youth back. So the plant _does_ work, and Gilgamesh has lost his last best chance at defeating death. This finally breaks him:
 
-> _Then Gilgamesh sat there weeping,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Then Gilgamesh sat there weeping,_  
 > _down his cheeks the tears were coursing._  
-> _… [he spoke] to Ur-shanabi the boatman:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_… [he spoke] to Ur-shanabi the boatman:_  
+>
 > _‘[For whom,] Ur-shanabi, toiled my arms so hard,_  
-> _for whom ran dry the blood of my heart?_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_for whom ran dry the blood of my heart?_  
 > _Not for myself did I find a bounty,_  
-> _[for] the “Lion of the Earth” I have done a favour! [24]_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[for] the “Lion of the Earth” I have done a favour! [24]_  
+>
 > _‘Now far and wide the tide is rising._  
-> _Having opened the channel I abandoned the tools [25]:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Having opened the channel I abandoned the tools [25]:_  
 > _what thing would I find that served as my landmark?_  
-> _Had I only turned back, and left the boat on the shore!’_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Had I only turned back, and left the boat on the shore!’_  
 
 For such an important climax in the poem, this is a hard passage to interpret precisely. Is Gilgamesh saying he has lost the source of the plant (because he didn’t leave the boat there to mark it) and can never find it again? Or is he wishing he could undo his carelessness in leaving the plant unattended - or, perhaps, undo his entire wasted journey?
 
 Right after this lament about the loss of the plant, the oldest epic poem in the world ends abruptly:
 
 > _At twenty leagues they broke bread,_  
-> _at thirty leagues they pitched camp._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_at thirty leagues they pitched camp._  
 > _When they arrived in Uruk-the-Sheepfold,_  
-> _said Gilgamesh to him, to Ur-shanabi the boatman:_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_said Gilgamesh to him, to Ur-shanabi the boatman:_  
+>
 > _‘O Ur-shanabi, climb Uruk’s wall and walk back and forth!_  
-> _Survey its foundations, examine the brickwork!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Survey its foundations, examine the brickwork!_  
 > _Were its bricks not fired in an oven?_  
-> _Did the Seven Sages not lay its foundations?_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Did the Seven Sages not lay its foundations?_  
+>
 > _A square mile is city, a square mile date-grove, a square mile is clay-pit, half a square mile the temple of Ishtar: three square miles and a half is Uruk’s expanse.’_  
 
 Three stanzas, two of them recycled from the very start of the poem, and that’s all, folks.
@@ -544,13 +568,13 @@ Living as we do at the hinge of history, it’s tempting to reach - as Gilgamesh
 But the people of Mesopotamia, as they developed vital civilisational technologies like cities and writing, were living through their own hinge of history. I said before that Gilgamesh contains multitudes, and the clearest example is in the Old Babylonian version giving us an alternative perspective to the Standard - a perspective delivered by a woman running a tavern:
 
 > _‘But you, Gilgamesh, let your belly be full,_  
-> _enjoy_ _yourself always by day_ _and by night!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_enjoy_ _yourself always by day_ _and by night!_  
 > _Make merry each day,_  
-> _dance and play day and night!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_dance and play day and night!_  
 > _‘Let your clothes be clean,_  
-> _let your head be washed, may you bathe in water!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_let your head be washed, may you bathe in water!_  
 > _Gaze on the child who holds your hand,_  
-> _let your wife enjoy your repeated embrace!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_let your wife enjoy your repeated embrace!_  
 
 We don’t remember Gilgamesh in the 21st century because of the walls of Uruk, which are dust now, or for his great kingship, over an impressive-for-its-time Bronze Age slave state. We remember Gilgamesh because what he did was meaningful to people. We remember him because of the _people who remembered him_, the millions of them in ancient Mesopotamia who lived and died in awe of the story that bears his name. The Epic of Gilgamesh isn’t about a man: it’s about _those people_. Those who sang about him, and wrote about him, and made art about him, yes - but also about those who listened, and read, and saw.
 
@@ -559,23 +583,27 @@ And when I think about this, I wonder if we can expand our definition of _making
 In the twenty-first century, where we are more connected than ever, our mark on the world may simply be our connections to others. Our writing, our children, our acts of kindness, our making of useful things, our contribution to our own busy scribal tradition of the internet - perhaps these are enough. No great deeds, no stone walls, no immortal works necessary. Like those millions of people from Mesopotamia who enjoyed clean clothes, and gazed on the child who held their hand: if you were human, if you lived, then you made it. You’re coming to the stars too.
 
 > _He came a far road, was weary, found peace,_  
-> _All his labours were [set] on a tablet of stone._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_All his labours were [set] on a tablet of stone._  
 > _He built the rampart of Uruk-the-Sheepfold,_  
-> _Of Holy Eanna, the sacred storehouse._  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Of Holy Eanna, the sacred storehouse._  
+>
 > _See its wall like a strand of wool,_  
-> _view its parapet that none could copy!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_view its parapet that none could copy!_  
 > _Take the stairway of a bygone era,_  
-> _draw near to Eanna, seat of Ishtar the goddess,_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_draw near to Eanna, seat of Ishtar the goddess,_  
 > _that no later king could ever copy!_  
+>
 > _Climb Uruk’s wall and walk back and forth!_  
-> _Survey the foundations, examine the brickwork!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Survey the foundations, examine the brickwork!_  
 > _Were its bricks not fired in an oven?_  
-> _Did the Seven Sages not lay its foundations?_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_Did the Seven Sages not lay its foundations?_  
+>
 > _[A square mile is] city, [a square mile] date-grove, a square mile is clay-pit, half a square mile the temple of Ishtar: [three square miles] and a half is Uruk’s expanse._  
+>
 > _[Find] the tablet-box of cedar,_  
-> _[release] its clasps of bronze!_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[release] its clasps of bronze!_  
 > _[Lift] the lid of its secret,_  
-> _[pick] up the tablet of lapis lazuli and read out_  
+> &nbsp;&nbsp;&nbsp;&nbsp;_[pick] up the tablet of lapis lazuli and read out_  
 > _the travails of Gilgamesh, all that he went through._  
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/7bfb40a8dbdd2252.png)

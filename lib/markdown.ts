@@ -56,11 +56,14 @@ function escapeFootnoteBangs(md: string): string {
  */
 export async function markdownToHtml(
   markdown: string,
-  opts: { disableFootnotes?: boolean } = {}
+  opts: { disableFootnotes?: boolean; superscriptFootnotes?: boolean } = {}
 ): Promise<{ html: string; footnotes: ReviewFootnote[] }> {
   const { body, footnotes } = opts.disableFootnotes
     ? { body: markdown, footnotes: [] }
-    : extractFootnotes(markdown);
+    : extractFootnotes(
+        markdown,
+        opts.superscriptFootnotes ? { forceFormat: 'superscript' } : {}
+      );
   const bodyHtml = await mdToHtml(escapeFootnoteBangs(body));
   const footnoteHtmls: ReviewFootnote[] = [];
   for (const fn of footnotes) {

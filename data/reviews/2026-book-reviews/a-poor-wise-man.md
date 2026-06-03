@@ -10,6 +10,7 @@ slug: a-poor-wise-man
 wordCount: 3030
 readingTimeMinutes: 14
 source: gdoc
+disableFootnotes: true
 tags:
   - Fiction
   - History

@@ -19,7 +19,7 @@ There is a version of Newcomb’s problem that predates the English language. A 
 
 _Fear and Trembling_ was published in 1843[^1], under the pseudonym Johannes de Silentio. Kierkegaard used pseudonyms in most of his works, sometimes using multiple personas to argue points, such as in his book most likely to concuss a passerby if dropped from a second-story window, _Either/Or_. Johannes de Silentio is a thoughtful character who admires Abraham, yet “the older he became, the more frequently his mind reverted to that story, his enthusiasm became greater and greater, and yet he was less and less able to understand the story.”
 
-To briefly review the story that so enamored Johannes, here is the Biblical account of Abraham and Isaac in Genesis 22:1-14 (NLT) [2]:
+To briefly review the story that so enamored Johannes, here is the Biblical account of Abraham and Isaac in Genesis 22:1-14 (NLT)[^2]:
 
 “Some time later God tested Abraham. He said to him, ‘Abraham!’
 

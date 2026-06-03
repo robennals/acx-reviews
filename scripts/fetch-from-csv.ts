@@ -244,6 +244,12 @@ interface ReviewException {
   // confuses the heuristic — e.g. "How I Killed Pluto" formats
   // footnotes inline per section rather than as a trailing block.
   disableFootnotes?: boolean;
+  // Force the unicode-superscript footnote format at render time. Use
+  // for reviews whose in-text refs are superscript-digit links
+  // (`[¹](#id.xxx)`) with trailing `¹ content` defs — never
+  // auto-detected because superscript digits also appear in prose as
+  // exponents ("The Son Also Rises" uses this format).
+  superscriptFootnotes?: boolean;
   // Replace the submission's docUrl with this Google Doc URL. Used
   // when the CSV row points at a PDF / Google Drive file that the
   // pipeline can't read, and the content has been rehosted as a real
@@ -272,6 +278,13 @@ interface ReviewException {
   // verbatim, so include `$…$` (inline) or `$$…$$` (display) math
   // delimiters yourself.
   imageReplacements?: Record<string, string>;
+  // Never fetch or overwrite this review again. Use when the committed
+  // markdown carries hand-corrections for author-side errors the
+  // pipeline can't infer (mis-numbered footnote markers, superscript
+  // refs that the gdoc HTML export loses). A re-fetch would silently
+  // revert those fixes; with this flag the row is skipped before the
+  // doc is even fetched, and the existing file is kept.
+  skipFetch?: boolean;
   // Treat any blockquote (`> ...`) lines immediately following a
   // bullet list as continuation paragraphs of the preceding bullet,
   // not as a separate blockquote. The source author wrote a multi-
@@ -788,6 +801,17 @@ async function createMarkdownFile(
   const contestDir = path.join(REVIEWS_DIR, contestId);
   const filePath = path.join(contestDir, `${slug}.md`);
 
+  // Never overwrite a review whose committed markdown has been
+  // hand-corrected (per-slug `skipFetch` exception). The row loop
+  // already skips these before fetching; this is a second line of
+  // defense for callers that reach writeReviewFile through a slug
+  // that differs from the CSV-derived candidate (rename rules, -N
+  // suffixes), so a hand-corrected file can never be clobbered.
+  if (loadReviewExceptions()[slug]?.skipFetch && fs.existsSync(filePath)) {
+    console.log(`  ⚠️  SKIP ${slug}: skipFetch exception — committed file is hand-corrected`);
+    return { wrote: false, totalImages: 0, uploadedImages: 0 };
+  }
+
   // Strip leading title line if it duplicates the CSV title — unless
   // the per-slug exception opts out (e.g. The Pillow Book opens with
   // "What is The Pillow Book?" which IS a real section heading even
@@ -1128,6 +1152,8 @@ async function createMarkdownFile(
   // Surface the disable-footnotes flag into frontmatter so the render
   // layer (lib/reviews.ts) can read it and skip footnote extraction.
   if (slugExceptions[slug]?.disableFootnotes) fm.disableFootnotes = true;
+  // Same surfacing for the forced superscript-footnote format.
+  if (slugExceptions[slug]?.superscriptFootnotes) fm.superscriptFootnotes = true;
   // Preserve any previously-assigned tags. Tags are manual annotations
   // so they shouldn't disappear when a re-import pulls fresh content.
   if (data.existingTags && data.existingTags.length > 0) {
@@ -1245,6 +1271,18 @@ async function main() {
     const effectiveUrl = override || row.docUrl;
     if (override) {
       console.log(`  ↪️  URL override for ${candidateSlug}: ${override}`);
+    }
+
+    // Frozen review: the committed markdown is hand-corrected (see
+    // `skipFetch` in ReviewException). Skip before fetching so the doc
+    // isn't even downloaded — the on-disk file is the source of truth.
+    if (
+      candidateSlug &&
+      reviewExceptions[candidateSlug]?.skipFetch &&
+      fs.existsSync(path.join(contestDir, `${candidateSlug}.md`))
+    ) {
+      console.log(`  ⚠️  SKIP ${candidateSlug}: skipFetch exception — committed file is hand-corrected`);
+      continue;
     }
 
     const docId = extractDocId(effectiveUrl);

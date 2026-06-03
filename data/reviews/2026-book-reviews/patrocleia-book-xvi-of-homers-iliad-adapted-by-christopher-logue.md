@@ -49,7 +49,7 @@ Logue (1926-2011) was a middle-ranking British poet and appropriately, it seems 
 Great texts are invariably translated anew for each generation, almost inevitably consigning earlier versions to slow oblivion. But Logue’s version of the Iliad will survive, precisely because it is not a translation, but a radical reimagining which nevertheless hues very close to the original in plot, content and above all in spirit. He takes enormous liberties; he invents new names for minor protagonists, and the heroes no longer orate (or rarely), but talk almost like modern officers. Here is Achilles delivering a fateful warning to Patroclus as he sets off for battle:  
 
 > **And one more thing before you go.**  
-> **Don’t overreach yourself, Patroclus.**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Don’t overreach yourself, Patroclus.**  
 > **Without me you are something, but not much.**  
 > **Let Hector be. He’s mine – God willing -**  
 > **In any case he’d make a meal of you.**  
@@ -71,22 +71,22 @@ Logue also breaks up the action with short, apparently irrelevant interpolations
 > _**Little crimson billows drift off their chops,**_  
 > _**Spreading through the water like red smoke.**_
 >
-> **Likewise the Myrmidons as they stood for Patroclus,**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Likewise the Myrmidons as they stood for Patroclus,**  
 > **While Achilles moved along their ranks; here,**  
 > **Tightening a shoulder strap; there dressing a sword.**
 
 Patroclus succeeds in defeating the Trojan attack on the Greek ships, but succumbs to the hubris Achilles warned him of.
 
 >   
-> **Nothing was left of Hector’s raid except**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Nothing was left of Hector’s raid except**  
 > **Loose smoke-swathes drifting over the Aegean like dark hair,**  
 > **And the ditch stained perfect crimson where**  
 > **Some outraged god, five miles tall, had stamped on glass.**
 >
-> **Movement in the air. Gulls lift.**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Movement in the air. Gulls lift.**  
 > **Sideslip. Land again. No more.**  
 > **Mindless of everything Achilles said**  
-> **Patroclus went for Troy.**
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Patroclus went for Troy.**
 
 
 
@@ -98,7 +98,7 @@ And then, before Patroclus meets his fate, Homer sings of the death of Sarpedon,
 > _**The heroes fought like Pharaoh’s bare-necked hens**_  
 > _**Wrangling over carrion in mid air.**_
 >
-> **Likewise the human champions,**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Likewise the human champions,**  
 > **Until Patroclus’ spear nosed past Sarpedon’s busy heart**  
 > **And the ground sense in his body seeped away.**
 >
@@ -117,21 +117,21 @@ Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-co
 > _**Sarpedon’s ruined body**_  
 > _**Until you lead the Sun away.**_
 >
-> **And Apollo, Mousegod, Lord of the Morning, He**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And Apollo, Mousegod, Lord of the Morning, He**  
 > **Whose face is brighter than a thousand suns,**  
 > **Mollified his wound with precious ointment,**  
 > **And let delight like flame rise through his loins,**  
 > **And he did more, for, as Glaucus ran to Hector,**  
 > **Aeneas, the rest, Apollo called:**  
-> **“Sun, stand thou still over Ilium,**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**“Sun, stand thou still over Ilium,**  
 > **And guard Sarpedon’s body till their blades**  
 > **Move over it like** **grasses** **over stone.”**
 >
-> Air into azure steel.  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Air into azure steel.  
 > The daylight stiffens **to translucent** **horn.**  
-> **And through it,**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And through it,**  
 > **Falling,**  
-> **One sun’s cord**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**One sun’s cord**  
 > **That opened out into**  
 > **A radiant cone around Sarpedon’s body**  
 > **And him inside it lying**  
@@ -158,7 +158,7 @@ Eventually, after hours of grim fighting and many deaths, the Greeks overcome Gl
 
 >  **It is true men are clever.**  
 > **But the least of gods is cleverer than their best.**  
-> **And it was here, before God’s hands**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And it was here, before God’s hands**  
 > **(Moons poised either side of the world’s agate)**  
 > **You overreached yourself, Patroclus.**  
 > **Not only God was out that day but Lord Apollo.**  
@@ -176,26 +176,26 @@ Eventually, after hours of grim fighting and many deaths, the Greeks overcome Gl
 
 It is now too late for the hero, as the hammer blows of Achilles’ admonitory warnings echo again like an ominous Wagnerian theme:  
 
-> **Three times Patroclus climbed Troy’s wall.**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Three times Patroclus climbed Troy’s wall.**  
 > **Three times his fingers scraped the parapet.**  
 > **Three times and every time he tried it on**  
 > **The smiling Mousegod flicked him back.**  
 > **But when he came a fourth, last time,**  
 > **The smile was gone.**  
-> **Instead, from parapet to plain to beach-head, on,**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Instead, from parapet to plain to beach-head, on,**  
 > **Across the rucked, sunlit Aegean, the Mousegod’s voice -**  
 > **Loud as ten thousand crying together -**  
-> **Cried**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cried**  
 > **“Greek,**  
->   **Get back where you belong!”**  
-> **So loud**  
+> &nbsp;&nbsp;&nbsp;**Get back where you belong!”**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**So loud**  
 > **Even the Yellow Judges passing sentence**  
 > **Half of the world away, paused -**
 >
 > **“Get back where you belong!**  
->   **Troy will fall in God’s good time,**  
->   **But not to you!”**  
-> **Banner behind slatted banner,**  
+> &nbsp;&nbsp;&nbsp;**Troy will fall in God’s good time,**  
+> &nbsp;&nbsp;&nbsp;**But not to you!”**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Banner behind slatted banner,**  
 > **Blue overwhelming gold, gold over blue,**  
 > **It was Patroclus’ turn to run**  
 > **Wide-armed, staring into the fight, and desperate**  
@@ -207,7 +207,7 @@ It is now too late for the hero, as the hammer blows of Achilles’ admonitory w
 Till at the end, in a hysterical frenzy to escape Apollo’s anger, head ringing with his roar, reduced to pure killing machine, Patroclus senses the presence of the god at his back...
 
 >   
-> **Patroclus broke among the Trojans.**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Patroclus broke among the Trojans.**  
 > **A set of jealous bones covered with flesh**  
 > **Finished with bronze, dipped in blood,**  
 > **And the whole being inspired by ferocity**.
@@ -218,7 +218,7 @@ Till at the end, in a hysterical frenzy to escape Apollo’s anger, head ringing
 > **- Kill them!**  
 >    
 > **As many as you can**  
-> **For**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**For**  
 > **Coming behind you in the dusk you felt**  
 > **-- What was it? – felt the darkness part and then**
 
@@ -233,16 +233,16 @@ But that inexorable “struck” is not quite the end, for the very last word is
 > “**Big mouth,**  
 > **Remember it took three of you to kill me.**  
 > **A god, a boy, and last of all, a hero!**  
-> **I can hear Death**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I can hear Death**  
 > **Calling my name and yet,**  
 > **Somehow it sounds like** _**‘Hector’**_  
-> **And when I close my eyes**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And when I close my eyes**  
 > **I see Achilles’ face with Death’s voice coming out of it.”**
 >
-> **Saying these things Patroclus died.**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Saying these things Patroclus died.**  
 > **And as his soul went through the sand like water,**  
 > **Hector withdrew his spear and said**  
-> _**“Perhaps.**”_
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**“Perhaps.**”_
 >
 
 [1]  Ancient Greek νόστος (nostos), derived from the verb νέομαι, to turn back; hence here, home-sickness.
