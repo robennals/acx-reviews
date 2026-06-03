@@ -47,7 +47,8 @@
   },
   "coriolanus": {
     "disableItalicAsBlockquote": true,
-    "disableQuotedParagraphAsBlockquote": true
+    "disableQuotedParagraphAsBlockquote": true,
+    "skipFetch": true
   },
   "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
     "docUrlOverride": "https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI/edit",
@@ -121,5 +122,14 @@
       "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",
       "5374534c3e17ded8": "$$\\left(\\frac{M}{N}\\right)^r$$"
     }
+  },
+  "a-residence-of-twenty-one-years-in-the-sandwich-islands": {
+    "skipFetch": true
+  },
+  "candide": {
+    "skipFetch": true
+  },
+  "that-hideous-strength": {
+    "skipFetch": true
   }
 }
