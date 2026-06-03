@@ -77,7 +77,7 @@ When Marley appears to Scrooge in his house on Christmas Eve, in addition to bei
 
 My family and I have debated Marley’s spiritual destination over great quantities of mulled wine. Some insist he’s in Purgatory, as only a soul in the process of reconciliation with God would have the capacity to repent, as Marley does: “No space of regret can make amends for one life’s opportunity misused! Yet such was I! Oh! such was I!”
 
-As for me, my money is on Marley being in Hell[3]:  
+As for me, my money is on Marley being in Hell[^3]:  
 
 > There was something very awful, too, in the spectre’s being provided with an infernal atmosphere of its own. Scrooge could not feel it himself, but this was clearly the case; for though the Ghost sat perfectly motionless, its hair, and skirts, and tassels, were still agitated as by the hot vapour from an oven.
 

@@ -2023,9 +2023,13 @@ export function cleanupMarkdown(markdown: string, options: CleanupMarkdownOption
         // either `[N]` (bracketed) or `(N)` (parenthesized — used by
         // docs like Bickerstaff that use parens consistently). Only
         // when not already a link / image reference (so a `[N]` glued
-        // to `(http…)` or `:url` stays untouched).
+        // to `(http…)` or a `[N]: url` link-reference def stays
+        // untouched). The colon exclusion requires a URL to follow —
+        // a bare prose colon after the ref (Christmas Carol's
+        // "Marley being in Hell[3]:" introducing a blockquote) is NOT
+        // a link-ref def and the ref must still be rewritten.
         const idSet = new Set(ids);
-        const reBody = /(\s?)\[(\d+)\](?![(:])/g;
+        const reBody = /(\s?)\[(\d+)\](?!\()(?!:[ \t]*<?https?:\/\/)/g;
         const reBodyParen = /(\s)\((\d+)\)/g;
         const newBefore = before
           .replace(reBody, (full, sp, n: string) => {
