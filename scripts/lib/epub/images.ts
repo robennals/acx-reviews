@@ -45,11 +45,28 @@ async function downloadCached(url: string, cacheDir: string): Promise<Buffer> {
   return data;
 }
 
+async function hasRealTransparency(buf: Buffer): Promise<boolean> {
+  const stats = await sharp(buf).stats();
+  const alpha = stats.channels[stats.channels.length - 1];
+  // min < 254 means at least one pixel has meaningful transparency
+  return alpha.min < 254;
+}
+
 async function processOne(url: string, raw: Buffer): Promise<ProcessedImage> {
+  // For SVG, rasterize to a PNG buffer first so the rest of the pipeline
+  // (resize, transparency check, encoding) works on a uniform raster.
+  let meta = await sharp(raw).metadata();
+  let raster: Buffer;
+  if (meta.format === 'svg') {
+    raster = await sharp(raw).png().toBuffer();
+    meta = await sharp(raster).metadata();
+  } else {
+    raster = raw;
+  }
+
   // sharp reads only the first frame of an animated GIF by default,
   // which is exactly what we want for e-readers.
-  let img = sharp(raw);
-  const meta = await img.metadata();
+  let img = sharp(raster);
   if (
     (meta.width ?? 0) > MAX_DIMENSION ||
     (meta.height ?? 0) > MAX_DIMENSION
@@ -59,16 +76,49 @@ async function processOne(url: string, raw: Buffer): Promise<ProcessedImage> {
       withoutEnlargement: true,
     });
   }
-  const usePng = meta.hasAlpha === true || meta.format === 'svg';
-  const data = usePng
-    ? await img.png({ compressionLevel: 9, palette: true }).toBuffer()
-    : await img.jpeg({ quality: 75 }).toBuffer();
-  const ext = usePng ? 'png' : 'jpg';
+
+  // Only keep PNG when the alpha channel is genuinely used.
+  // Many Google Docs PNG exports have a fully-opaque alpha channel;
+  // those compress much better as JPEG with no visible quality loss.
+  let usePng = false;
+  if (meta.hasAlpha === true) {
+    // Stat the resized raster to avoid reading the full original again.
+    const resizedBuf = await img.png().toBuffer();
+    usePng = await hasRealTransparency(resizedBuf);
+    if (usePng) {
+      // Re-encode from the already-resized buffer.
+      const data = await sharp(resizedBuf)
+        .png({ compressionLevel: 9, palette: true })
+        .toBuffer();
+      return {
+        url,
+        filename: `img/${urlHash(url)}.png`,
+        data,
+        mediaType: 'image/png',
+      };
+    } else {
+      // Opaque alpha: flatten to white before JPEG to avoid undefined
+      // alpha-strip behaviour across sharp/libvips versions.
+      const data = await sharp(resizedBuf)
+        .flatten({ background: '#ffffff' })
+        .jpeg({ quality: 75 })
+        .toBuffer();
+      return {
+        url,
+        filename: `img/${urlHash(url)}.jpg`,
+        data,
+        mediaType: 'image/jpeg',
+      };
+    }
+  }
+
+  // No alpha channel at all — straightforward JPEG.
+  const data = await img.jpeg({ quality: 75 }).toBuffer();
   return {
     url,
-    filename: `img/${urlHash(url)}.${ext}`,
+    filename: `img/${urlHash(url)}.jpg`,
     data,
-    mediaType: usePng ? 'image/png' : 'image/jpeg',
+    mediaType: 'image/jpeg',
   };
 }
 
