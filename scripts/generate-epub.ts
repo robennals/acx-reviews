@@ -133,10 +133,31 @@ async function main() {
     bodyHtml: '<p style="text-align:center;margin:0;"><img src="img/cover.png" alt="Cover" style="max-height:100%;"/></p>',
     cssHref: 'css/style.css',
   });
+  // e.g. "2026 Book Reviews" → "Book Review"
+  const contestLabel = contest.name.replace(/^\d+\s*/, '').replace(/Reviews$/, 'Review');
+
+  // Read voting-config.json to decide whether this is the active contest.
+  let activeVotingYear: number | null = null;
+  try {
+    const vcRaw = fs.readFileSync(path.join(process.cwd(), 'data/voting-config.json'), 'utf8');
+    const vc = JSON.parse(vcRaw);
+    if (typeof vc.contestYear === 'number') activeVotingYear = vc.contestYear;
+  } catch {
+    // Missing or invalid — treat as no active contest.
+  }
+  const isActiveContest = activeVotingYear === contest.year;
+
+  const introParagraph = isActiveContest
+    ? `This book contains all ${entries.length} entries to the Astral Codex Ten ${contest.year} ${contestLabel} Contest, in alphabetical order by title. Entries are anonymous until the contest concludes.`
+    : `This book contains all ${entries.length} entries to the Astral Codex Ten ${contest.year} ${contestLabel} Contest, in alphabetical order by title.`;
+  const introLink = isActiveContest
+    ? `You can read the entries online, and vote for your favorites, at <a href="${SITE_URL}">${SITE_URL.replace('https://', '')}</a>.`
+    : `You can read the entries online at <a href="${SITE_URL}">${SITE_URL.replace('https://', '')}</a>.`;
+
   const introBody = `<section epub:type="frontmatter">
 <h1>${escapeXml(title)}</h1>
-<p>This book contains all ${entries.length} entries to the Astral Codex Ten ${contest.year} Book Review Contest, in alphabetical order by title. Entries are anonymous until the contest concludes.</p>
-<p>You can read the entries online, and vote for your favorites, at <a href="${SITE_URL}">${SITE_URL.replace('https://', '')}</a>.</p>
+<p>${introParagraph}</p>
+<p>${introLink}</p>
 <p>Generated ${now.toISOString().slice(0, 10)}.</p>
 </section>`;
   const introXhtml = wrapXhtmlDocument({
@@ -215,7 +236,7 @@ async function main() {
 
   // --- epubcheck (mandatory) ---
   console.log('Running epubcheck…');
-  const check = spawnSync('epubcheck', [outPath], { encoding: 'utf8' });
+  const check = spawnSync('epubcheck', [outPath], { encoding: 'utf8', maxBuffer: 50 * 1024 * 1024 });
   if (check.error && (check.error as NodeJS.ErrnoException).code === 'ENOENT') {
     console.error('epubcheck not found. Install it with: brew install epubcheck');
     process.exit(1);
@@ -231,6 +252,7 @@ async function main() {
   // --- Upload + manifest ---
   if (upload) {
     const fileHash = crypto.createHash('sha256').update(buf).digest('hex').slice(0, 12);
+    // Content-hashed key: changed content → new key; old object is intentionally orphaned on R2 (immutable URLs stay valid; storage is cheap).
     const key = `epubs/acx-${contestId}-${fileHash}.epub`;
     const { url, uploaded } = await uploadIfMissing(key, buf, 'application/epub+zip');
     console.log(`${uploaded ? 'Uploaded' : 'Already on R2'}: ${url}`);
