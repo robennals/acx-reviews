@@ -175,7 +175,7 @@ async function main() {
     { id: 'cover', href: 'cover.xhtml', mediaType: 'application/xhtml+xml' },
     { id: 'intro', href: 'intro.xhtml', mediaType: 'application/xhtml+xml' },
   ];
-  const spineIds = ['cover', 'intro'];
+  const spineIds = ['cover', 'intro', 'nav'];
   const toc: TocEntry[] = [{ title: 'About this book', href: 'intro.xhtml' }];
   chapters.forEach((c, i) => {
     const id = `c${String(i + 1).padStart(3, '0')}`;

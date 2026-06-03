@@ -17,6 +17,21 @@ test('sortEntries orders alphabetically by title, case-insensitive', () => {
   assert.deepEqual(sorted.map((e) => e.title), ['Alpha', 'beta', 'zebra']);
 });
 
+test('sortEntries ignores leading punctuation/quotes when sorting', () => {
+  const sorted = sortEntries([
+    { title: 'zeta' },
+    { title: '"A Quoted Title" by X' },
+    { title: '“Curly Quoted” by Y' },
+    { title: 'beta' },
+  ]);
+  assert.deepEqual(sorted.map((e) => e.title), [
+    '"A Quoted Title" by X',
+    'beta',
+    '“Curly Quoted” by Y',
+    'zeta',
+  ]);
+});
+
 test('sortEntries does not mutate its input', () => {
   const input = [{ title: 'b' }, { title: 'a' }];
   sortEntries(input);

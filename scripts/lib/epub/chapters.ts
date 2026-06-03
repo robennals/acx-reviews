@@ -9,7 +9,7 @@ import { escapeXml } from './xhtml';
 
 export function sortEntries<T extends { title: string }>(entries: T[]): T[] {
   return [...entries].sort((a, b) =>
-    a.title.localeCompare(b.title, 'en', { sensitivity: 'base' })
+    a.title.localeCompare(b.title, 'en', { sensitivity: 'base', ignorePunctuation: true })
   );
 }
 
