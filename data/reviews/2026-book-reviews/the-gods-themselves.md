@@ -10,6 +10,7 @@ slug: the-gods-themselves
 wordCount: 2418
 readingTimeMinutes: 11
 source: gdoc
+disableFootnotes: true
 tags:
   - Fiction
   - Science

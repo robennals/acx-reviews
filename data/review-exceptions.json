@@ -68,6 +68,9 @@
   "how-i-killed-pluto-and-why-it-had-it-coming": {
     "disableFootnotes": true
   },
+  "the-gods-themselves": {
+    "disableFootnotes": true
+  },
   "the-radicalism-of-the-american-revolution": {
     "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
   },
