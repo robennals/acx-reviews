@@ -278,6 +278,13 @@ interface ReviewException {
   // verbatim, so include `$…$` (inline) or `$$…$$` (display) math
   // delimiters yourself.
   imageReplacements?: Record<string, string>;
+  // Never fetch or overwrite this review again. Use when the committed
+  // markdown carries hand-corrections for author-side errors the
+  // pipeline can't infer (mis-numbered footnote markers, superscript
+  // refs that the gdoc HTML export loses). A re-fetch would silently
+  // revert those fixes; with this flag the row is skipped before the
+  // doc is even fetched, and the existing file is kept.
+  skipFetch?: boolean;
   // Treat any blockquote (`> ...`) lines immediately following a
   // bullet list as continuation paragraphs of the preceding bullet,
   // not as a separate blockquote. The source author wrote a multi-
@@ -794,6 +801,17 @@ async function createMarkdownFile(
   const contestDir = path.join(REVIEWS_DIR, contestId);
   const filePath = path.join(contestDir, `${slug}.md`);
 
+  // Never overwrite a review whose committed markdown has been
+  // hand-corrected (per-slug `skipFetch` exception). The row loop
+  // already skips these before fetching; this is a second line of
+  // defense for callers that reach writeReviewFile through a slug
+  // that differs from the CSV-derived candidate (rename rules, -N
+  // suffixes), so a hand-corrected file can never be clobbered.
+  if (loadReviewExceptions()[slug]?.skipFetch && fs.existsSync(filePath)) {
+    console.log(`  ⚠️  SKIP ${slug}: skipFetch exception — committed file is hand-corrected`);
+    return { wrote: false, totalImages: 0, uploadedImages: 0 };
+  }
+
   // Strip leading title line if it duplicates the CSV title — unless
   // the per-slug exception opts out (e.g. The Pillow Book opens with
   // "What is The Pillow Book?" which IS a real section heading even
@@ -1253,6 +1271,18 @@ async function main() {
     const effectiveUrl = override || row.docUrl;
     if (override) {
       console.log(`  ↪️  URL override for ${candidateSlug}: ${override}`);
+    }
+
+    // Frozen review: the committed markdown is hand-corrected (see
+    // `skipFetch` in ReviewException). Skip before fetching so the doc
+    // isn't even downloaded — the on-disk file is the source of truth.
+    if (
+      candidateSlug &&
+      reviewExceptions[candidateSlug]?.skipFetch &&
+      fs.existsSync(path.join(contestDir, `${candidateSlug}.md`))
+    ) {
+      console.log(`  ⚠️  SKIP ${candidateSlug}: skipFetch exception — committed file is hand-corrected`);
+      continue;
     }
 
     const docId = extractDocId(effectiveUrl);
