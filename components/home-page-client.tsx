@@ -326,6 +326,11 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
             Rob Ennals
           </a>. Contact Rob if you find any issues with this site.
         </p>
+        <p className="mt-4">
+          <Link href="/epub" className="text-link hover:underline">
+            📖 Download the 2026 entries as an ePub for Kindle / phone / tablet →
+          </Link>
+        </p>
       </header>
 
       {/* Search and filter */}
