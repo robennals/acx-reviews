@@ -65,3 +65,7 @@ next-env.d.ts
 .gdoc-cache/
 data/stripped-leading-title.log
 .image-cache.json
+
+# ePub build artifacts
+/dist/
+/.epub-image-cache/
