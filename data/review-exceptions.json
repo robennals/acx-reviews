@@ -69,7 +69,7 @@
     "disableQuotedParagraphAsBlockquote": true
   },
   "how-i-killed-pluto-and-why-it-had-it-coming": {
-    "disableFootnotes": true
+    "skipFetch": true
   },
   "the-gods-themselves": {
     "disableFootnotes": true
