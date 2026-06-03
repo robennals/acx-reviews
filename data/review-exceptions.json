@@ -1,6 +1,7 @@
 {
   "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
-    "truncateAtLineContaining": "not for publication"
+    "truncateAtLineContaining": "not for publication",
+    "skipFetch": true
   },
   "the-sins-of-gk-chesterton": {
     "dropBlock": {
@@ -19,7 +20,8 @@
     "preserveLeadingHeading": true
   },
   "the-epic-of-gilgamesh": {
-    "forcePoetryQuotes": true
+    "forcePoetryQuotes": true,
+    "skipFetch": true
   },
   "orality-and-literacy-by-walter-ong": {
     "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
