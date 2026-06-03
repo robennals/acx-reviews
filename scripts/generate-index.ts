@@ -154,6 +154,21 @@ function main() {
     process.exit(1);
   }
 
+  // Validate: review authors must stay anonymous. Contest entries are
+  // anonymous during voting and the site has never displayed real names
+  // for any contest year. A real name slips in when fetch-from-csv is
+  // run without --anonymous (this happened once for two 2026 entries),
+  // so fail loudly rather than let it reach the committed index.
+  const named = reviews.filter(r => r.reviewAuthor !== 'Anonymous');
+  if (named.length > 0) {
+    console.error(`\n❌ ${named.length} review(s) have a non-anonymous reviewAuthor:`);
+    for (const r of named.slice(0, 20)) {
+      console.error(`   ${r.contestId}/${r.slug}: ${r.reviewAuthor}`);
+    }
+    console.error(`\nSet reviewAuthor to "Anonymous" in the markdown frontmatter (re-fetch with --anonymous).`);
+    process.exit(1);
+  }
+
   // Write index
   fs.writeFileSync(INDEX_PATH, JSON.stringify(reviews, null, 2), 'utf8');
   console.log(`\n✅ Generated index with ${reviews.length} reviews: ${INDEX_PATH}`);

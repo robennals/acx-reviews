@@ -1,7 +1,7 @@
 ---
 title: Free Agents by Kevin Mitchell and Determined by Robert Sapolsky (a comparative review)
 author: Unknown
-reviewAuthor: Eric Rundquist
+reviewAuthor: Anonymous
 contestId: 2026-book-reviews
 contestName: 2026 Book Reviews
 year: 2026
@@ -10,7 +10,6 @@ slug: free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparat
 wordCount: 3608
 readingTimeMinutes: 17
 source: gdoc
-originalUrl: https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI
 tags:
   - Philosophy
   - Science
