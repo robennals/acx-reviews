@@ -250,7 +250,15 @@ async function synthesizeChunkOpenAi(
       continue;
     }
     if (!res.ok) throw new Error(`OpenAI TTS error ${res.status}: ${await res.text()}`);
-    return Buffer.from(await res.arrayBuffer());
+    try {
+      return Buffer.from(await res.arrayBuffer());
+    } catch (err) {
+      // Stream errors (e.g. ERR_HTTP2_STREAM_ERROR) can hit mid-body too.
+      if (attempt >= 5) throw err;
+      const waitSeconds = 15 * attempt;
+      console.log(`  body read error (${err}), retrying in ${waitSeconds}s...`);
+      await new Promise((r) => setTimeout(r, waitSeconds * 1000));
+    }
   }
 }
 
@@ -268,6 +276,25 @@ function encodeM4a(pcm: Buffer, outPath: string): void {
   );
 }
 
+/** Run `tasks` with at most `limit` in flight; results keep input order. */
+async function asyncPool<T>(limit: number, tasks: (() => Promise<T>)[]): Promise<T[]> {
+  const results: T[] = new Array(tasks.length);
+  let next = 0;
+  const workers = Array.from({ length: Math.min(limit, tasks.length) }, async () => {
+    while (next < tasks.length) {
+      const i = next++;
+      results[i] = await tasks[i]();
+    }
+  });
+  await Promise.all(workers);
+  return results;
+}
+
+// Concurrent chunk synthesis per review. OpenAI allows 5,000 req/min, so
+// even with several review workers this stays far under the limit; the win
+// is generation wall-clock dropping from sum-of-chunks to ~longest chunk.
+const CHUNK_CONCURRENCY = 4;
+
 async function generate(
   chunks: SpeechChunk[],
   voice: string,
@@ -277,9 +304,9 @@ async function generate(
   cacheDir: string
 ): Promise<{ pcmBuffers: Buffer[]; usage: TtsUsage }> {
   const usage: TtsUsage = { inputTokens: 0, outputTokens: 0 };
-  const pcmBuffers: Buffer[] = [];
   mkdirSync(cacheDir, { recursive: true });
-  for (const [i, chunk] of chunks.entries()) {
+
+  const synthesizeOne = async (chunk: SpeechChunk, i: number): Promise<Buffer> => {
     // Per-chunk PCM cache: a rerun after a crash (quota, network) resumes
     // instead of re-paying for chunks already synthesized.
     const hash = createHash('sha1').update(`${model}\0${voice}\0${chunk.text}`).digest('hex').slice(0, 12);
@@ -308,7 +335,7 @@ async function generate(
           bestDelta = delta;
         }
         if (rate <= 17.5) break;
-        console.log(`    fast roll (${rate.toFixed(1)} chars/sec), re-rolling (${roll}/3)...`);
+        console.log(`    fast roll on chunk ${i + 1} (${rate.toFixed(1)} chars/sec), re-rolling (${roll}/3)...`);
       }
       pcm = best!;
       writeFileSync(cachePath, pcm);
@@ -324,8 +351,15 @@ async function generate(
     console.log(
       `  chunk ${i + 1}/${chunks.length}: ${chunk.text.length} chars -> ${seconds.toFixed(1)}s${note}`
     );
-    pcmBuffers.push(pcm);
-  }
+    return pcm;
+  };
+
+  // Gemini chunks stay serial: its daily quota makes bursts pointless.
+  const limit = isOpenAiModel(model) ? CHUNK_CONCURRENCY : 1;
+  const pcmBuffers = await asyncPool(
+    limit,
+    chunks.map((chunk, i) => () => synthesizeOne(chunk, i))
+  );
   return { pcmBuffers, usage };
 }
 
