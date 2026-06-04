@@ -281,7 +281,7 @@ Consider all the books you have _actually_ read at least twice. You know exactly
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/7baa578d3da24be9.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/506ffd2c92d63159.png)
 
 <figcaption>
 
@@ -331,7 +331,7 @@ For example, I was recently in the market for a new extension pole. It was one o
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/9a08ad4a57f12e20.png)![](https://acximages.ennals.org/images/2026-book-reviews/dddcb73656008f15.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/8122d2ab371eabcd.png)![](https://acximages.ennals.org/images/2026-book-reviews/dddcb73656008f15.png)
 
 <figcaption>
 

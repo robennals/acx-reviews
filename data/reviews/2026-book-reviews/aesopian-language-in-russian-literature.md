@@ -392,7 +392,7 @@ This is GPT-5.5’s response after I fed it “The Northern Spring.”
 
 This is after I gave it the full text of “Cock the Roach.”
 
-![](https://acximages.ennals.org/images/2026-book-reviews/8d79ba15702c2bf9.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/3bf38bfe3a17b1d6.png)
 
 And this is after “Hide and Seek in the Dusk.”
 

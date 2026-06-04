@@ -90,7 +90,7 @@ Finally, in 1930, Clyde Tombaugh, armed with an even better telescope and search
 
 ## How do you look for planets?
 
-In his story of the history of the concept of planets, Brown heavily emphasizes the original “wanderer” meaning, and for good reason: That’s still the heart of how you look for planets in the modern age. you choose a patch of sky and keep looking at it over several nights to see what changes. Herchel, Piazza, and other 19th century planet hunters did this by taking note of everything they thought worth measuring and writing down their exact positions in the sky. ![](https://acximages.ennals.org/images/2026-book-reviews/74726d193089d2ca.png)
+In his story of the history of the concept of planets, Brown heavily emphasizes the original “wanderer” meaning, and for good reason: That’s still the heart of how you look for planets in the modern age. you choose a patch of sky and keep looking at it over several nights to see what changes. Herchel, Piazza, and other 19th century planet hunters did this by taking note of everything they thought worth measuring and writing down their exact positions in the sky. ![](https://acximages.ennals.org/images/2026-book-reviews/67d87a23f5d67d2b.png)
 
 > _The discovery images of Pluto [(source)](https://www.planetary.org/space-images/the-pluto-discovery-plates). The arrows were added afterwards and would probably have made Tombaugh’s task considerably easier had they appeared in the original._
 
@@ -98,7 +98,7 @@ Besides the benefit of even better telescopes, Tombaugh had two big technologica
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/7d6a1bd355bf73a8.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/2311b497f56106cb.png)
 
 <figcaption>
 
@@ -126,7 +126,7 @@ Jewitt and Luu discovered about 50 KBOs, including almost all of the first KBOs 
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/465e78225ff176d6.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/9b2fd00cba07351e.png)
 
 <figcaption>
 
@@ -206,7 +206,7 @@ This scarcity of time on the Great Telescopes would shape Brown’s career in an
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/e8bc01d6923569d5.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/1875bcc12f20dea7.png)
 
 <figcaption>
 
@@ -389,7 +389,7 @@ Another part is that around 2001 or 2002, I read several of Isaac Asimov’s non
 
 In the interests of doing things with numbers and not just with words, I just now threw together a few charts and graphs to try to quantify my anti-Pluto reasoning and see if it holds water. First, here’s a pie chart of the relative masses of the top thirty-something objects in the Solar System besides the Sun, and it definitely bears up Brown’s argument about how an alien observer would classify the solar system. Jupiter and Saturn absolutely dominate the main chart, with Neptune and Uranus registering as much smaller but still significant slices. The four inner planets are minuscule slivers, and the rest make up an illegibly tiny slice. The breakout chart of this tiny slice (collectively 0.026% of the total mass) is dominated by the seven biggest moons. If you zoom in, you can just barely make out Eris and Pluto as the light blue and hot pink slices just above where even the tiny labels I used all get jumbled together. Ceres is buried deep in that jumble.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/031e8318aadbffcd.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/2aaeecbbb3b47715.png)
 
 Next, I decided to take a look at a number of dimensions, not just mass, to compare Pluto, Eris, and Ceres to the least planety of the eight official planets and to the most planety non-planet (the last restricted to Dwarf Planets and major moons). The first are two measures of size: mass and radius. Next, two measures of “clearing the neighborhood”, one based on theoretical orbit-clearing potential (Jean-Luc Margot’s Planetary Discriminant) and the other based on how clear the orbit actually appears to be (Steven Soter’s Planetary Discriminant) [1]. I also included orbital inclination (relative to the [invariable plane](https://en.wikipedia.org/wiki/Invariable_plane)) and eccentricity, based on the observation made variously by Isaac Asimov, [Scott Alexander](https://slatestarcodex.com/2013/05/05/ambijectivity/), and [Alan Stern and Harold Levinson](https://www2.boulder.swri.edu/~hal/PDF/planet_def.pdf) [2] that Pluto’s orbit is weird in these respects compared to all (other) planets except maybe Mercury. Last, based on the late 19th century distinction between “planets” which resolve as discs when viewed through medium-sized Earth-based telescopes and “asteroids” which appear as points, I included criteria for the size (in arcseconds) of the object as viewed from Earth: a good pair of binoculars have a resolution of about 1-2 arcseconds, and a high-end hobby telescope might have a resolution of half an arcsecond or less. I have omitted the Earth and Moon from consideration here since they would dominate the question to an absurd degree, as the Earth covers about 180 degrees (more than half a million arcseconds) and the Moon a little more than half a degree at 1900 arcseconds).
 
