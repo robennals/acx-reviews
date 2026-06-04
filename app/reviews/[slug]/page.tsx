@@ -2,6 +2,8 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
+import { AudioPlayer } from '@/components/audio-player';
+import { getReviewAudio } from '@/lib/server/audio-manifest';
 import { FootnotesSection } from '@/components/footnotes-section';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
 import { RatingCard } from '@/components/rating-card';
@@ -55,6 +57,8 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
   if (!review) {
     notFound();
   }
+
+  const audio = getReviewAudio(slug);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -119,6 +123,12 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
               <span>{review.readingTimeMinutes} min read</span>
               <span className="text-border">&bull;</span>
               <span>{review.wordCount.toLocaleString()} words</span>
+              {audio && (
+                <>
+                  <span className="text-border">&bull;</span>
+                  <AudioPlayer slug={slug} audio={audio} />
+                </>
+              )}
               {review.originalUrl && (
                 <>
                   <span className="text-border">&bull;</span>

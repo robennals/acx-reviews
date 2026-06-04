@@ -1,0 +1,23 @@
+{
+  "moby-dick-or-the-whale": {
+    "audioUrl": "https://acximages.ennals.org/audio/moby-dick-or-the-whale.mp3",
+    "wordsUrl": "/api/audio-words/moby-dick-or-the-whale",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/moby-dick-or-the-whale.words.json",
+    "durationSeconds": 1826,
+    "voice": "Sulafat"
+  },
+  "the-bible": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-bible.mp3",
+    "wordsUrl": "/api/audio-words/the-bible",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-bible.words.json",
+    "durationSeconds": 162,
+    "voice": "Sulafat"
+  },
+  "the-last-temptation-of-christ": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.mp3",
+    "wordsUrl": "/api/audio-words/the-last-temptation-of-christ",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.words.json",
+    "durationSeconds": 227,
+    "voice": "Sulafat"
+  }
+}

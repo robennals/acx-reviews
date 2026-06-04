@@ -36,7 +36,27 @@ pnpm test:unit        # Run pure-logic unit tests (node:test via tsx)
 # Database (Turso / libSQL)
 pnpm db:push          # Apply lib/db/schema.ts to the configured DB
 pnpm db:studio        # Open Drizzle Studio
+
+# Narration audio (per review slug, in order)
+pnpm exec tsx scripts/generate-audio.ts <slug> --voice Sulafat   # Gemini TTS -> mp3 + timings (~$0.02/1k chars)
+uv run scripts/align-audio.py <slug>                             # whisperX -> word timings JSON
+pnpm exec tsx scripts/upload-audio.ts <slug>                     # R2 upload + data/audio-manifest.json
+pnpm exec tsx scripts/check-audio.ts [slug ...]                  # validate outputs (default: all)
 ```
+
+## Narration audio
+
+Reviews with an entry in `data/audio-manifest.json` get a **Listen** button
+(`components/audio-player.tsx`): word-level follow-along highlighting (CSS
+Custom Highlight API), paragraph auto-scroll, click-a-word seeking, speed
+control, resume. Word timings come from local whisperX forced alignment of
+the known text against the generated audio — Gemini TTS returns no
+timestamps. MP3s and word JSONs live on R2 under `audio/`; the JSON is
+served through `/api/audio-words/[slug]` because the bucket has no CORS
+config (the R2 token can't set one). LaTeX equations are replaced with
+hand-written spoken English from `data/equation-speech.json` (exact-string
+search/replace) before TTS; generate-audio warns about unmapped `$…$`
+spans. `public/audio/` and `.audio-work/` are gitignored build artifacts.
 
 ## Auth, voting, and admin
 

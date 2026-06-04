@@ -34,6 +34,7 @@ function Body({ contentHtml, className }: { contentHtml: string; className?: str
   return (
     <div
       ref={ref}
+      data-review-body
       className={`prose dark:prose-invert ${className || ''}`}
       dangerouslySetInnerHTML={{ __html: contentHtml }}
     />

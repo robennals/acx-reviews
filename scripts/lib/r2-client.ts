@@ -38,6 +38,30 @@ function getClient(): { client: S3Client; bucket: string; publicBase: string } {
 }
 
 /**
+ * Upload an object to R2 unconditionally (overwrites any existing object).
+ * Used for slug-keyed assets like narration audio, where regeneration
+ * must replace the previous version. Returns the public URL.
+ */
+export async function uploadObject(
+  key: string,
+  body: Buffer,
+  contentType: string,
+  cacheControl?: string
+): Promise<string> {
+  const { client, bucket, publicBase } = getClient();
+  await client.send(
+    new PutObjectCommand({
+      Bucket: bucket,
+      Key: key,
+      Body: body,
+      ContentType: contentType,
+      ...(cacheControl ? { CacheControl: cacheControl } : {}),
+    })
+  );
+  return `${publicBase}/${key}`;
+}
+
+/**
  * Upload an object to R2 if it doesn't already exist.
  * Returns the public URL.
  */
