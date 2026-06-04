@@ -588,7 +588,7 @@ Things will not change tomorrow, nor tomorrow’s tomorrow, but they _will_ chan
 
 **Let CI strut and fret its remaining hours upon the stage, on the way to dusty death, to then be heard no more.**
 
-**An influential but idiotic idea, full of sound and fury, signifying** _**nothing**_**.**
+**An influential but idiotic idea, full of sound and fury, signifying** _**nothing**_.
 
 And when I say ‘nothing’, I mean that literally: CI has nothing to say about the lowest level of reality – it blithely leaves what Becker calls a “hole” in our understanding of reality.
 

@@ -428,7 +428,7 @@ Because it is already inside.
 
 ## Links and References
 
-_Aesopian Language in Russian Literature_ by Lev Loseff and Aleksandra Arkhipova*,* Amazon (Russian text): [link](https://www.amazon.com/dp/B0D6RB38QQ?ref=ppx_yo2ov_dt_b_fed_digi_asin_title_351)
+_Aesopian Language in Russian Literature_ by Lev Loseff and Aleksandra Arkhipova, Amazon (Russian text): [link](https://www.amazon.com/dp/B0D6RB38QQ?ref=ppx_yo2ov_dt_b_fed_digi_asin_title_351)
 
 Other articles/talks on Aesopian by Alexandra Arkhipova used in this essay (Russian text, spoken word): [link](https://www.youtube.com/watch?v=t6hPmWntQj4), [link](https://www.youtube.com/watch?v=SK0vY5Di-vw), [link](https://republicmag.io/posts/116125)
 
