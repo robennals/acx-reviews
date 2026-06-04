@@ -28,13 +28,15 @@ import { wavFromPcm, chunkTimings } from './lib/audio-encode';
 loadEnv({ path: '.env.local' });
 
 const SAMPLE_RATE = 24000; // Gemini TTS output: 16-bit mono PCM at 24kHz
-// Measured on the first 45 generated chunks: Gemini TTS delivery degrades
-// within a single generation — speech rate rises a mean +12.7% (worst +43%)
-// from the first to last third of a ~3-minute generation, audibly rushed
-// and choppy past ~2 minutes. Short chunks reset to the (consistently
-// good) early-generation state every ~70s; the style prompt keeps the
-// delivery anchored across seams.
-const MAX_CHUNK_CHARS = 1100;
+// Provider-dependent chunk size, picked by ear and by measurement:
+// - Gemini TTS audibly degrades within a generation (speech rate +12.7%
+//   mean / +43% worst from first to last third of ~3-minute chunks, voice
+//   losing its prompt anchor) — it needs ~70s chunks.
+// - gpt-4o-mini-tts stays solid across 6-minute generations (listening
+//   test on works-by-isaac-bickerstaff), and fewer seams give better
+//   continuity. Its hard input cap is 2k tokens, so ~5.5k chars max.
+const OPENAI_CHUNK_CHARS = 5500;
+const GEMINI_CHUNK_CHARS = 1100;
 // gpt-4o-mini-tts (Sage) won the final bake-off: pacing consistency at
 // least as good as gemini-2.5-flash, ~$0.015/min, and 5,000 req/min rate
 // limits vs Gemini's 100 req/day. Gemini models remain available via
@@ -71,7 +73,7 @@ function parseArgs(argv: string[]): CliArgs {
   let model = DEFAULT_MODEL;
   let sample = false;
   let onlyChunks: number[] | null = null;
-  let maxChars = MAX_CHUNK_CHARS;
+  let maxChars = 0; // 0 = provider default, resolved in main()
   let outName = '';
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i];
@@ -353,7 +355,8 @@ async function main() {
     );
   }
   const paragraphs = speechParagraphsFromMarkdown(spoken);
-  const allChunks = groupIntoChunks(paragraphs, args.maxChars);
+  const maxChars = args.maxChars || (openai ? OPENAI_CHUNK_CHARS : GEMINI_CHUNK_CHARS);
+  const allChunks = groupIntoChunks(paragraphs, maxChars);
   const chunks = args.sample ? allChunks.slice(0, 1) : allChunks;
   console.log(`${args.slug}: ${paragraphs.length} paragraphs, ${chunks.length}${args.sample ? ' (sample)' : ''} of ${allChunks.length} chunks, model ${args.model}`);
 
