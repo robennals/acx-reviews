@@ -27,7 +27,7 @@ Your second mistake is being John Partridge, a popular almanac-maker whose livel
 
 Your third mistake is offending Jonathan Swift, because Swift's response was not to argue with Partridge. It was to kill him.
 
-More precisely, writing under the name Isaac Bickerstaff, staking his reputation on the prediction that Partridge would die of a raging fever on March 29, 1708, around eleven at night.
+More precisely, writing under the name Isaac Bickerstaff[^1], staking his reputation on the prediction that Partridge would die of a raging fever on March 29, 1708, around eleven at night.
 
 This was an excellent prediction, except it was wrong: Partridge did not die. Swift's real prediction was not that Partridge would die. It was that if enough people heard Partridge was dead, Partridge would have a life-changing problem.
 
@@ -95,7 +95,7 @@ You may have noticed that Swift delighted in emphasizing that Partridge had orig
 
 Not knowing that history would vindicate him, Partridge wrote an enraged response that only made the entire situation more amusing. His _True and Impartial account of the proceedings of Isaac Bickerstaff, Esq; against me_” included unintentionally hilarious scenes.
 
-> _The maid, as she was warming my bed\*, with a curiosity natural to young wenches, runs to the window, and asks of one passing the street, who the bell tolled for? Dr. Partridge, says he, that famous almanack-maker, who died suddenly this evening: The poor girl provoked, told him he Lý’d like a rascal._
+> _The maid, as she was warming my bed[^2], with a curiosity natural to young wenches, runs to the window, and asks of one passing the street, who the bell tolled for? Dr. Partridge, says he, that famous almanack-maker, who died suddenly this evening: The poor girl provoked, told him he Lý’d like a rascal._
 
 Partridge describes himself as spending much of his time ejecting undertakers, embalmers, coffin-joiners, sextons, and elegy hawkers from his home. Intended to provoke sympathy, these only made things worse.
 

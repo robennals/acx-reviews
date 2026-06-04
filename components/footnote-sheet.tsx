@@ -18,10 +18,20 @@ function useIsMobile(breakpoint = 640) {
 }
 
 export function FootnoteSheet() {
-  const { footnotes, openId, close } = useFootnotes();
+  const { footnotes, openId, open, close } = useFootnotes();
   const isMobile = useIsMobile();
   const current = openId ? footnotes.find((f) => f.id === openId) : null;
   const isOpen = Boolean(current);
+
+  // A footnote's content can reference another footnote (nested refs);
+  // clicking such a marker switches the sheet to that footnote.
+  const handleNestedClick = (ev: React.MouseEvent) => {
+    const trigger = (ev.target as HTMLElement | null)?.closest('[data-fn-id]');
+    const id = trigger?.getAttribute('data-fn-id');
+    if (!id) return;
+    ev.preventDefault();
+    open(id);
+  };
 
   if (isMobile) {
     return (
@@ -37,6 +47,7 @@ export function FootnoteSheet() {
               {current && (
                 <div
                   className="prose prose-sm dark:prose-invert max-w-none"
+                  onClick={handleNestedClick}
                   dangerouslySetInnerHTML={{ __html: current.html }}
                 />
               )}
@@ -54,6 +65,7 @@ export function FootnoteSheet() {
         {current && (
           <div
             className="prose prose-sm dark:prose-invert max-w-none"
+            onClick={handleNestedClick}
             dangerouslySetInnerHTML={{ __html: current.html }}
           />
         )}

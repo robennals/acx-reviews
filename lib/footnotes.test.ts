@@ -700,3 +700,81 @@ test('superscript: format is never auto-detected', () => {
   const r = extractFootnotes(input);
   assert.deepEqual(r.footnotes, []);
 });
+
+test('nested: plain-format footnote referencing another footnote gets a marker', () => {
+  const input = [
+    'Body prose with a ref.[5]',
+    '',
+    '[5] Of all the sources, this book is the most impressive. For the sake of brevity[6], ideas are presented without elaboration.',
+    '',
+    '[6] Relatively speaking.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 2);
+  const fn5 = r.footnotes.find(f => f.id === '5')!;
+  const fn6 = r.footnotes.find(f => f.id === '6')!;
+  // Nested ref rewritten; carries the anchor id since [6] appears nowhere in the body.
+  assert.ok(
+    fn5.raw.includes('<sup class="fn-ref" data-fn-id="6" id="fn-ref-6">[6]</sup>'),
+    `fn5 raw should contain nested marker, got: ${fn5.raw}`
+  );
+  assert.ok(!fn6.raw.includes('fn-ref'), 'fn6 raw itself is unchanged');
+  // Nested-only footnote is ordered right after its parent (not dangling at the tail).
+  assert.deepEqual(r.footnotes.map(f => f.id), ['5', '6']);
+});
+
+test('nested: bracket-colon fractional id ([2.5] inside def [2]) is rewritten', () => {
+  const input = [
+    'Prose referencing one[1] and two[2] and three[3].',
+    '',
+    '[1: First note.]',
+    '',
+    '[2: Second note quoting someone: everyone is trapped within their own imaginations…[2.5] More commentary.]',
+    '',
+    '[2.5: In the words of DFW, skull-sized kingdoms.]',
+    '',
+    '[3: Third note.]',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  const fn2 = r.footnotes.find(f => f.id === '2')!;
+  assert.ok(
+    fn2.raw.includes('<sup class="fn-ref" data-fn-id="2.5" id="fn-ref-2.5">[2.5]</sup>'),
+    `fn2 raw should contain nested 2.5 marker, got: ${fn2.raw}`
+  );
+  // 2.5 slots in directly after its parent.
+  assert.deepEqual(r.footnotes.map(f => f.id), ['1', '2', '2.5', '3']);
+});
+
+test('nested: id also referenced in body does not duplicate the anchor id', () => {
+  const input = [
+    'Body refs one[1] and two[2].',
+    '',
+    '[1] First note, see also[2].',
+    '',
+    '[2] Second note.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  const fn1 = r.footnotes.find(f => f.id === '1')!;
+  // Marker present but WITHOUT id= (the body occurrence owns fn-ref-2).
+  assert.ok(fn1.raw.includes('<sup class="fn-ref" data-fn-id="2">[2]</sup>'));
+  assert.ok(!fn1.raw.includes('id="fn-ref-2"'));
+});
+
+test('nested: markdown links and unknown ids inside footnote raws are untouched', () => {
+  const input = [
+    'Body prose.[1]',
+    '',
+    '[1] See [3](https://example.com/3) and stray [9] with no def.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  const fn1 = r.footnotes.find(f => f.id === '1')!;
+  assert.ok(fn1.raw.includes('[3](https://example.com/3)'), 'link untouched');
+  assert.ok(fn1.raw.includes('stray [9]'), 'unknown id untouched');
+});

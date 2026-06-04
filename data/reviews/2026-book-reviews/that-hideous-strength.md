@@ -436,7 +436,7 @@ _THS_ was a product of the previous zeitgeist, but it’s still relevant to the 
 
 Lewis called _THS_ a fairy tale, and it’s the truth. Its message is appropriate for our own age, where it seems that all the wonders and horrors of fantasy may soon become real, by the power of ASI. If you find yourself in a fairy tale, the best advice is to listen to the old lady on the path, and heed the warning of the fairy queen. Everything we hold dear may rely on obedience to the moral laws we have been given by those who came before. Everything may be lost if we fail to heed their warnings. The choice is each of ours, individually.
 
-And If it seems that the choice isn’t ours, that we are helpless before the powers of our age,_THS_ also reminds us: all towers fall. And when they fall, they fall in an instant, as if by a miracle.
+And If it seems that the choice isn’t ours, that we are helpless before the powers of our age,_THS_ also reminds us: all towers fall. And when they fall, they fall in an instant, as if by a miracle.[^7]
 
 ## Footnotes
 
