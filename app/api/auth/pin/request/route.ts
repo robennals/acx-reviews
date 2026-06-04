@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db/client';
 import { makeDbPinStore } from '@/lib/auth/pin-store-db';
-import { postmarkPinSender } from '@/lib/auth/pin-sender-postmark';
+import { activePinSender } from '@/lib/auth/pin-sender';
 import { requestPin } from '@/lib/auth/pin';
 import { checkRateLimit, getClientIp } from '@/lib/auth/rate-limit';
 import { makeDbRateLimitStore } from '@/lib/auth/rate-limit-store-db';
@@ -37,7 +37,7 @@ export async function POST(req: Request) {
     );
   }
 
-  const result = await requestPin(makeDbPinStore(db), postmarkPinSender, { email, secret });
+  const result = await requestPin(makeDbPinStore(db), activePinSender(), { email, secret });
   if (!result.ok) {
     if (result.reason === 'cooldown') {
       return NextResponse.json(
