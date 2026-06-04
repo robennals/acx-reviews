@@ -31,7 +31,7 @@ It is a story about the cruelty of disempowerment. Seita, the protagonist, a boy
 I had watched the movie with my mother, and I felt by social convention the strong pull to put a positive spin to it and found none.  
 Seita got dealt a very bad hand, maliciously bad, since Seita could not know his effort was in vain in advance or even afterwards. He exhausted his life — his young brain and body, his public reputation, his mother's savings — for giving a future to his young sister — his responsibility and his love — and it was not enough.  
 She did not die an immediate death, nor one over the span of a few days like his mother, but a slow death over the span of weeks that he was in a all-encompassing, losing fight against, one he could see going wrong gradually but never _really know_ he'd lose until past her last moment.  
-He was never given certainty. He was too new to this world to know his options (he has family in Tokyo, but does not know their address) and his source of knowledge, his mother, is taken from him by US bomber pilots [1]; he could never know whether he _could_ retain his sister and afterwards he cannot know whether he could not have done anything different; he only learns at the end that his father, his primary hope for restarting a life, has died long ago.  
+He was never given certainty. He was too new to this world to know his options (he has family in Tokyo, but does not know their address) and his source of knowledge, his mother, is taken from him by US bomber pilots [^1]; he could never know whether he _could_ retain his sister and afterwards he cannot know whether he could not have done anything different; he only learns at the end that his father, his primary hope for restarting a life, has died long ago.  
 He doesn't tell his sister about their mom's passing and we see him cry for the first time when he learns that his aunt told her. It seems that somewhere in him, he chose not to accept, to know that his mom, childhood and possibly their futures, were gone.  
 This all is heartbreaking to me.
 
@@ -45,24 +45,22 @@ My brain makes silly little mistakes, like misremembering the place I need to be
 
 Nearly all people I know, blind themselves against the possibility that they are utterly disempowered.  
 In AI discourse for example, there _must_ be a positive spin: superintelligence _cannot_ arrive in 2027, alignment _must_ be possible and attained before then, we _will_ collectively pause AI development before then, not _literally everyone_ will die but if we do, it is because of misuse, not because we fail a coordination problem that is magnitudes harder than anything we've faced before; but if it is, it happens because that is _right_, we deserve it; otherwise there must be a good afterlife, or we're in solipsistic simulations, or we'll be reincarnated, or we'll mostly only exist by logic of anthropics magic in surviving timelines (that last one sometimes is my choice of escapism).  
-It cannot be otherwise. There cannot be such a true, giant tragedy we fail to prevent. It just absolutely cannot be and it must be a character defect to think there will be one [2].
+It cannot be otherwise. There cannot be such a true, giant tragedy we fail to prevent. It just absolutely cannot be and it must be a character defect to think there will be one [^2].
 
-Perversely, but at this point I'm speculating [3], I think this flinching from true tragedy fuels it. Because our disempowerment can be so heinously cruel, we _need_ to progress as fast as is physically possible. We don't consider the downsides because those are so bad that they cannot be looked at, it is unethical to ask us. _Extinction is too tragic to happen:_ let us focus on more tolerable inconveniences instead [4].
+Perversely, but at this point I'm speculating [^3], I think this flinching from true tragedy fuels it. Because our disempowerment can be so heinously cruel, we _need_ to progress as fast as is physically possible. We don't consider the downsides because those are so bad that they cannot be looked at, it is unethical to ask us. _Extinction is too tragic to happen:_ let us focus on more tolerable inconveniences instead [^4].
 
-The movie is based on a semi-autobiographical short story of the same name by Akiyuki Nosaka. Tragedy sometimes happens.
+The movie is based on a semi-autobiographical short story of the same name by Akiyuki Nosaka. Tragedy sometimes happens.[^5]
 
-[5]
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cdd6052c7d8c396d.jpg)
 
 ## Endnotes
 
-[1]: It is salient to me that the tragedy is not from force of nature, nor by detailed human intent. Setsuko and Seita were a rounding error in the US's plan to win the war in part by means of plausibly-ineffective firebombing. The US is barely an agent from Seita's perspective. The side-effects of the army's plan wreak a catastrophe it doesn't quite know how to, and care to, and can prevent. (Genocide _does_ happen in reality. I don't know about the degree of genocidal intent in this instance. Feel free to elaborate on this, just mind that the magnitude of the tragedy is no argument in and of itself.)
+[^1]: It is salient to me that the tragedy is not from force of nature, nor by detailed human intent. Setsuko and Seita were a rounding error in the US's plan to win the war in part by means of plausibly-ineffective firebombing. The US is barely an agent from Seita's perspective. The side-effects of the army's plan wreak a catastrophe it doesn't quite know how to, and care to, and can prevent. (Genocide _does_ happen in reality. I don't know about the degree of genocidal intent in this instance. Feel free to elaborate on this, just mind that the magnitude of the tragedy is no argument in and of itself.)
 
-[2]: Let me be specific: part of the tragedy in the movie is that Seita _does not know_ whether he _can_ do anything. I too am not resigned, _that's not a rest we are granted_. We _must_ try.
+[^2]: Let me be specific: part of the tragedy in the movie is that Seita _does not know_ whether he _can_ do anything. I too am not resigned, _that's not a rest we are granted_. We _must_ try.
 
-[3]: And also, I am trying to find meaning from this tragedy. A concerted effort to find a positive spin.
+[^3]: And also, I am trying to find meaning from this tragedy. A concerted effort to find a positive spin.
 
-[4]: I hope it is clear I think these, and the list of statements in the previous paragraph are fallacious.
+[^4]: I hope it is clear I think these, and the list of statements in the previous paragraph are fallacious.
 
-[5]: That's the end. This movie, short story and the real world events could definitely fill far more pages and stay interesting throughout. I might do that if I think I can gain more from that, but for now I do not know that that is my most dignified course of action. If I learn this review prevented someone else from doing a review on this because I already did it, I will regret having shared this.
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/cdd6052c7d8c396d.jpg)
+[^5]: That's the end. This movie, short story and the real world events could definitely fill far more pages and stay interesting throughout. I might do that if I think I can gain more from that, but for now I do not know that that is my most dignified course of action. If I learn this review prevented someone else from doing a review on this because I already did it, I will regret having shared this.

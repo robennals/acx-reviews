@@ -32,6 +32,29 @@ import {
 const GDOCS_SOURCES_PATH = path.join(process.cwd(), 'data/sources/gdocs-urls.json');
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
 
+// Per-slug `skipFetch` flags from data/review-exceptions.json — the same
+// file the CSV pipeline (fetch-from-csv.ts) reads. A slug flagged there
+// has hand-corrections in its committed markdown (e.g. footnote markers
+// rewritten to pandoc `[^N]` syntax) that a re-fetch would silently
+// revert. Only the skipFetch field matters here; the rest of the
+// exception schema is CSV-pipeline-specific.
+let skipFetchSlugsCache: Set<string> | null = null;
+function loadSkipFetchSlugs(): Set<string> {
+  if (skipFetchSlugsCache) return skipFetchSlugsCache;
+  const filePath = path.join(REVIEWS_DIR, '..', 'review-exceptions.json');
+  skipFetchSlugsCache = new Set();
+  if (fs.existsSync(filePath)) {
+    const exceptions = JSON.parse(fs.readFileSync(filePath, 'utf8')) as Record<
+      string,
+      { skipFetch?: boolean }
+    >;
+    for (const [slug, ex] of Object.entries(exceptions)) {
+      if (ex?.skipFetch) skipFetchSlugsCache.add(slug);
+    }
+  }
+  return skipFetchSlugsCache;
+}
+
 interface GDocsSource {
   docId: string;
   name: string;
@@ -389,6 +412,22 @@ async function createMarkdownFile(
 ): Promise<WriteStats> {
   const contestDir = path.join(REVIEWS_DIR, contestId);
   const filePath = path.join(contestDir, `${slug}.md`);
+
+  // 0. Never overwrite a review whose committed markdown has been
+  // hand-corrected (per-slug `skipFetch` exception) — a re-fetch would
+  // silently revert those fixes. Mirrors the same guard in
+  // fetch-from-csv.ts.
+  if (loadSkipFetchSlugs().has(slug) && fs.existsSync(filePath)) {
+    console.log(`  ⚠️  SKIP ${slug}: skipFetch exception — committed file is hand-corrected`);
+    return {
+      wrote: false,
+      skipped: true,
+      reason: 'skipFetch exception',
+      totalImages: 0,
+      uploadedImages: 0,
+      reusedImages: 0,
+    };
+  }
 
   // 1. Upload images and rewrite markdown.
   const imageResult = await processImages(data.content, contestId);

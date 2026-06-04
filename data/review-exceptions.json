@@ -173,5 +173,23 @@
   },
   "the-lever-of-riches": {
     "skipFetch": true
+  },
+  "gilead": {
+    "skipFetch": true
+  },
+  "the-simulacra": {
+    "skipFetch": true
+  },
+  "consequences-of-language-from-primary-to-enhanced-intersubjectivity": {
+    "skipFetch": true
+  },
+  "grave-of-the-fireflies": {
+    "skipFetch": true
+  },
+  "the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical": {
+    "skipFetch": true
+  },
+  "the-tale-of-the-princess-kaguya": {
+    "skipFetch": true
   }
 }

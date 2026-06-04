@@ -288,20 +288,20 @@ Diagrams I made to understand the last chapter of _Sublime_ illustrate that it's
 
 ## Notes
 
-[0]: I made no effort to check if this has been replicated.
+[0: I made no effort to check if this has been replicated.]
 
-[1]: The authors use “status” instead of “role”, following convention in linguistics. Writing for laypeople, I opt for “role”, following convention in everyday speech.
+[1: The authors use “status” instead of “role”, following convention in linguistics. Writing for laypeople, I opt for “role”, following convention in everyday speech.]
 
-[2]: Technically, it is the humans who configure Ethereum staking pools who are not consciously lying, since staking pools are software and have no mental states.
+[2: Technically, it is the humans who configure Ethereum staking pools who are not consciously lying, since staking pools are software and have no mental states.]
 
-[2.5]: More precisely, we're forced to choose between prediction/control and material correspondence _as principles_. In a concrete situation, you might face a spectrum of possible tradeoffs, but if you’re consciously making a tradeoff then you’ve sacrificed at least one of prediction/control and material correspondence as a principle you try always to follow.
+[2.5: More precisely, we're forced to choose between prediction/control and material correspondence _as principles_. In a concrete situation, you might face a spectrum of possible tradeoffs, but if you’re consciously making a tradeoff then you’ve sacrificed at least one of prediction/control and material correspondence as a principle you try always to follow.]
 
-[3]: I am reminded of the Strasbourg dancing plague, where people had been culturally informed that someone in their situation would become infected with contagious dancing, and then they involuntarily enacted this expectation. At western funerals, people have been culturally informed that someone in their situation would become uncontainably bereaved, and then they involuntarily enact this expectation.
+[3: I am reminded of the Strasbourg dancing plague, where people had been culturally informed that someone in their situation would become infected with contagious dancing, and then they involuntarily enacted this expectation. At western funerals, people have been culturally informed that someone in their situation would become uncontainably bereaved, and then they involuntarily enact this expectation.]
 
-[4]: or like a woman in a modern ad. Feminists keep complaining that women in ads are infeasibly skinny, but at least a few women actually are skinny. Women in ads have freakishly long fingers and limbs, especially their legs are disturbingly elongated, and hardly anyone notices, not even the feminists! Maybe it's part of a conspiracy by long-limbed aliens to replace us, and feminists are part of the cover-up. The ancient Etruscans knew this, and the layer of Roman ruins is a literal cover-up!
+[4: or like a woman in a modern ad. Feminists keep complaining that women in ads are infeasibly skinny, but at least a few women actually are skinny. Women in ads have freakishly long fingers and limbs, especially their legs are disturbingly elongated, and hardly anyone notices, not even the feminists! Maybe it's part of a conspiracy by long-limbed aliens to replace us, and feminists are part of the cover-up. The ancient Etruscans knew this, and the layer of Roman ruins is a literal cover-up!]
 
-[4.5]: Among rationalists, a popular account for the public display of expensive useless objects is to credibly display wealth. This doesn't quite hang together. The ad mentions but downplays the cost of the diamonds. And diamonds were costly before these ads ran, so cost alone doesn't motivate people to buy diamonds. And of course, the tradition that De Beers created is of diamond engagement rings, not rings for rich people.
+[4.5: Among rationalists, a popular account for the public display of expensive useless objects is to credibly display wealth. This doesn't quite hang together. The ad mentions but downplays the cost of the diamonds. And diamonds were costly before these ads ran, so cost alone doesn't motivate people to buy diamonds. And of course, the tradition that De Beers created is of diamond engagement rings, not rings for rich people.]
 
-[5]: from “How to Read Lacan”
+[5: from “How to Read Lacan”]
 
-[6]: John Robb says stuff he thinks might happen and is really unlikely if you don't use his frameworks. Pulling numbers out of my ass, you could imagine the prior is 10%, he predicts something with 50% confidence and he's right about half the time. That gives real information gain. He could get rich as a VC by predicting startups that well.
+[6: John Robb says stuff he thinks might happen and is really unlikely if you don't use his frameworks. Pulling numbers out of my ass, you could imagine the prior is 10%, he predicts something with 50% confidence and he's right about half the time. That gives real information gain. He could get rich as a VC by predicting startups that well.]
