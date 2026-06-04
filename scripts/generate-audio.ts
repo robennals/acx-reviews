@@ -26,17 +26,30 @@ import { wavFromPcm, chunkTimings } from './lib/audio-encode';
 loadEnv({ path: '.env.local' });
 
 const SAMPLE_RATE = 24000; // Gemini TTS output: 16-bit mono PCM at 24kHz
-const MAX_CHUNK_CHARS = 3000;
+// Measured on the first 45 generated chunks: Gemini TTS delivery degrades
+// within a single generation — speech rate rises a mean +12.7% (worst +43%)
+// from the first to last third of a ~3-minute generation, audibly rushed
+// and choppy past ~2 minutes. Short chunks reset to the (consistently
+// good) early-generation state every ~70s; the style prompt keeps the
+// delivery anchored across seams.
+const MAX_CHUNK_CHARS = 1100;
 const DEFAULT_MODEL = 'gemini-3.1-flash-tts-preview';
 const DEFAULT_VOICE = 'Charon';
 const STYLE_PREFIX =
-  'Narrate the following passage from a book review in a warm, measured, engaged audiobook style:\n\n';
+  'Narrate the following passage from a book review in a warm, measured, engaged audiobook style. ' +
+  'Keep a steady, unhurried pace throughout — never rush, even through plot summaries, lists, or asides:\n\n';
 
 interface CliArgs {
   slug: string;
   voices: string[];
   model: string;
   sample: boolean;
+  /** Chunk indices to regenerate; all other chunks reuse the existing WAV. */
+  onlyChunks: number[] | null;
+  /** Override MAX_CHUNK_CHARS (experiments). */
+  maxChars: number;
+  /** Write outputs under this name instead of the slug (experiments). */
+  outName: string;
 }
 
 function parseArgs(argv: string[]): CliArgs {
@@ -44,20 +57,51 @@ function parseArgs(argv: string[]): CliArgs {
   let voices: string[] = [];
   let model = DEFAULT_MODEL;
   let sample = false;
+  let onlyChunks: number[] | null = null;
+  let maxChars = MAX_CHUNK_CHARS;
+  let outName = '';
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i];
     if (arg === '--sample') sample = true;
     else if (arg === '--voice' || arg === '--voices') voices = argv[++i].split(',');
     else if (arg === '--model') model = argv[++i];
+    else if (arg === '--chunks') onlyChunks = argv[++i].split(',').map(Number);
+    else if (arg === '--max-chars') maxChars = Number(argv[++i]);
+    else if (arg === '--as') outName = argv[++i];
     else positional.push(arg);
   }
   const slug = positional[0];
   if (!slug) {
-    console.error('Usage: generate-audio.ts <slug> [--voice <name>] [--sample] [--model <id>]');
+    console.error(
+      'Usage: generate-audio.ts <slug> [--voice <name>] [--sample] [--model <id>] [--chunks 0,3]'
+    );
     process.exit(1);
   }
   if (voices.length === 0) voices = [DEFAULT_VOICE];
-  return { slug, voices, model, sample };
+  return { slug, voices, model, sample, onlyChunks, maxChars, outName: outName || slug };
+}
+
+/** Slice the previous run's lossless WAV back into per-chunk PCM buffers
+ *  using the recorded chunk timings (exact: they came from byte lengths). */
+function pcmFromPreviousRun(slug: string, expectedChunks: number): Buffer[] {
+  const wavPath = `.audio-work/${slug}.wav`;
+  const timingsPath = `public/audio/${slug}.timings.json`;
+  if (!existsSync(wavPath) || !existsSync(timingsPath)) {
+    throw new Error(`--chunks needs a previous run (${wavPath} + ${timingsPath})`);
+  }
+  const timings = JSON.parse(readFileSync(timingsPath, 'utf8'));
+  if (timings.chunks.length !== expectedChunks) {
+    throw new Error(
+      `--chunks: text now chunks into ${expectedChunks} but previous run had ${timings.chunks.length} (source changed? regenerate fully)`
+    );
+  }
+  const pcm = readFileSync(wavPath).subarray(44); // strip WAV header
+  return timings.chunks.map((c: { startSeconds: number; endSeconds: number }) =>
+    pcm.subarray(
+      Math.round(c.startSeconds * SAMPLE_RATE) * 2,
+      Math.round(c.endSeconds * SAMPLE_RATE) * 2
+    )
+  );
 }
 
 function findReviewFile(slug: string): string {
@@ -131,14 +175,20 @@ async function generate(
   chunks: SpeechChunk[],
   voice: string,
   model: string,
-  apiKey: string
+  apiKey: string,
+  reusePcm: (Buffer | null)[] | null
 ): Promise<{ pcmBuffers: Buffer[]; usage: TtsUsage }> {
   const usage: TtsUsage = { inputTokens: 0, outputTokens: 0 };
   const pcmBuffers: Buffer[] = [];
   for (const [i, chunk] of chunks.entries()) {
-    const pcm = await synthesizeChunk(chunk.text, voice, model, apiKey, usage);
+    const reused = reusePcm?.[i] ?? null;
+    const pcm = reused ?? (await synthesizeChunk(chunk.text, voice, model, apiKey, usage));
     const seconds = pcm.length / (SAMPLE_RATE * 2);
-    console.log(`  chunk ${i + 1}/${chunks.length}: ${chunk.text.length} chars -> ${seconds.toFixed(1)}s`);
+    const rate = chunk.text.length / seconds;
+    const note = reused ? ' (reused)' : rate > 17.5 ? `  WARNING: fast (${rate.toFixed(1)} chars/sec)` : '';
+    console.log(
+      `  chunk ${i + 1}/${chunks.length}: ${chunk.text.length} chars -> ${seconds.toFixed(1)}s${note}`
+    );
     pcmBuffers.push(pcm);
   }
   return { pcmBuffers, usage };
@@ -164,39 +214,48 @@ async function main() {
     );
   }
   const paragraphs = speechParagraphsFromMarkdown(spoken);
-  const allChunks = groupIntoChunks(paragraphs, MAX_CHUNK_CHARS);
+  const allChunks = groupIntoChunks(paragraphs, args.maxChars);
   const chunks = args.sample ? allChunks.slice(0, 1) : allChunks;
   console.log(`${args.slug}: ${paragraphs.length} paragraphs, ${chunks.length}${args.sample ? ' (sample)' : ''} of ${allChunks.length} chunks, model ${args.model}`);
 
   mkdirSync('public/audio/samples', { recursive: true });
   mkdirSync('.audio-work', { recursive: true });
 
+  // --chunks N,M: keep every other chunk's PCM from the previous run.
+  let reusePcm: (Buffer | null)[] | null = null;
+  if (args.onlyChunks) {
+    if (args.sample) throw new Error('--chunks and --sample are mutually exclusive');
+    const previous = pcmFromPreviousRun(args.outName, allChunks.length);
+    reusePcm = previous.map((buf, i) => (args.onlyChunks!.includes(i) ? null : buf));
+    console.log(`regenerating chunks [${args.onlyChunks.join(', ')}], reusing the rest`);
+  }
+
   for (const voice of args.voices) {
     console.log(`\nVoice: ${voice}`);
-    const { pcmBuffers, usage } = await generate(chunks, voice, args.model, apiKey);
+    const { pcmBuffers, usage } = await generate(chunks, voice, args.model, apiKey, reusePcm);
     const pcm = Buffer.concat(pcmBuffers);
     const totalSeconds = pcm.length / (SAMPLE_RATE * 2);
 
     if (args.sample) {
-      const outPath = `public/audio/samples/${args.slug}.${voice}.m4a`;
+      const outPath = `public/audio/samples/${args.outName}.${voice}.m4a`;
       encodeM4a(pcm, outPath);
       console.log(`  wrote ${outPath} (${totalSeconds.toFixed(1)}s)`);
     } else {
-      const audioPath = `public/audio/${args.slug}.m4a`;
-      const wavPath = `.audio-work/${args.slug}.wav`;
+      const audioPath = `public/audio/${args.outName}.m4a`;
+      const wavPath = `.audio-work/${args.outName}.wav`;
       encodeM4a(pcm, audioPath);
       writeFileSync(wavPath, wavFromPcm(pcm, SAMPLE_RATE));
 
       const timings = chunkTimings(pcmBuffers.map((b) => b.length), SAMPLE_RATE);
       const timingsJson = {
-        slug: args.slug,
+        slug: args.outName,
         voice,
         model: args.model,
         sampleRate: SAMPLE_RATE,
         durationSeconds: totalSeconds,
         chunks: chunks.map((chunk, i) => ({ ...timings[i], paragraphs: chunk.paragraphs })),
       };
-      writeFileSync(`public/audio/${args.slug}.timings.json`, JSON.stringify(timingsJson, null, 2));
+      writeFileSync(`public/audio/${args.outName}.timings.json`, JSON.stringify(timingsJson, null, 2));
       console.log(`  wrote ${audioPath} (${(totalSeconds / 60).toFixed(1)} min), ${wavPath}, timings JSON`);
     }
     // Flash TTS list price: $0.50/1M text-in, $10/1M audio-out tokens.

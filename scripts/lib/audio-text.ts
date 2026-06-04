@@ -87,10 +87,43 @@ export function speechParagraphsFromMarkdown(markdown: string): string[] {
   return paragraphs;
 }
 
+/** Split text into sentences (terminator plus trailing quotes/brackets
+ *  kept with the sentence). Falls back to the whole text if nothing
+ *  sentence-like is found. */
+function splitSentences(text: string): string[] {
+  const matches = text.match(/[^.!?…]+[.!?…]+[”’")\]]*\s*/gu);
+  if (!matches) return [text];
+  const sentences = matches.map((s) => s.trim());
+  // Anything after the last terminator (e.g. a trailing fragment).
+  const consumed = matches.join('').length;
+  if (consumed < text.length) sentences.push(text.slice(consumed).trim());
+  return sentences.filter(Boolean);
+}
+
+/** Break a too-long paragraph into pieces of at most `maxChars`, splitting
+ *  only between sentences. A single over-long sentence stays whole. */
+function splitOversizedParagraph(text: string, maxChars: number): string[] {
+  if (text.length <= maxChars) return [text];
+  const pieces: string[] = [];
+  let current = '';
+  for (const sentence of splitSentences(text)) {
+    if (current && current.length + 1 + sentence.length > maxChars) {
+      pieces.push(current);
+      current = sentence;
+    } else {
+      current = current ? `${current} ${sentence}` : sentence;
+    }
+  }
+  if (current) pieces.push(current);
+  return pieces;
+}
+
 /**
  * Pack consecutive paragraphs into chunks of at most `maxChars` (counting
- * the blank-line separators), never splitting a paragraph. A paragraph
- * longer than `maxChars` gets a chunk to itself.
+ * the blank-line separators), splitting only at paragraph boundaries. A
+ * paragraph longer than `maxChars` is split at sentence boundaries into
+ * pieces that share its paragraph index (so word-timing data still maps
+ * every token to the right rendered paragraph).
  */
 export function groupIntoChunks(paragraphs: string[], maxChars: number): SpeechChunk[] {
   const chunks: SpeechChunk[] = [];
@@ -104,10 +137,12 @@ export function groupIntoChunks(paragraphs: string[], maxChars: number): SpeechC
     length = 0;
   };
 
-  paragraphs.forEach((text, index) => {
-    if (current.length > 0 && length + 2 + text.length > maxChars) flush();
-    length += (current.length > 0 ? 2 : 0) + text.length;
-    current.push({ index, text });
+  paragraphs.forEach((paragraphText, index) => {
+    for (const text of splitOversizedParagraph(paragraphText, maxChars)) {
+      if (current.length > 0 && length + 2 + text.length > maxChars) flush();
+      length += (current.length > 0 ? 2 : 0) + text.length;
+      current.push({ index, text });
+    }
   });
   flush();
 

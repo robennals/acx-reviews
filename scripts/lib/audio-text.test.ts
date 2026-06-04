@@ -110,12 +110,32 @@ test('applyEquationSpeech leaves unmapped text alone', () => {
   assert.equal(out, 'No math here at all.');
 });
 
-test('groupIntoChunks gives an oversized paragraph its own chunk', () => {
-  const paras = ['short one', 'x'.repeat(500), 'short two'];
+test('groupIntoChunks splits an oversized paragraph at sentence boundaries', () => {
+  const sentence = 'This is a sentence that has a reasonable length to it. ';
+  const bigPara = sentence.repeat(8).trim(); // ~447 chars
+  const paras = ['short one', bigPara, 'short two'];
 
   const chunks = groupIntoChunks(paras, 200);
 
-  assert.equal(chunks.length, 3);
-  assert.equal(chunks[1].paragraphs[0].index, 1);
-  assert.equal(chunks[1].text.length, 500);
+  // The big paragraph spans multiple chunks, each within the limit...
+  const bigChunks = chunks.filter((c) => c.paragraphs.some((p) => p.index === 1));
+  assert.ok(bigChunks.length >= 2, `expected the long paragraph split, got ${bigChunks.length} chunk`);
+  for (const c of bigChunks) {
+    assert.ok(c.text.length <= 200, `chunk too big: ${c.text.length}`);
+  }
+  // ...all pieces keep the same paragraph index, and rejoin to the original.
+  const pieces = chunks.flatMap((c) => c.paragraphs.filter((p) => p.index === 1));
+  assert.equal(pieces.map((p) => p.text).join(' '), bigPara);
+  // Splits happen between sentences, never mid-word.
+  for (const p of pieces) {
+    assert.match(p.text, /\.$/, `piece should end at a sentence boundary: "...${p.text.slice(-20)}"`);
+  }
+});
+
+test('groupIntoChunks keeps a single sentence longer than maxChars whole', () => {
+  const monster = 'word '.repeat(60).trim() + '.'; // one 300-char "sentence"
+  const chunks = groupIntoChunks([monster], 200);
+
+  assert.equal(chunks.length, 1);
+  assert.equal(chunks[0].text, monster);
 });
