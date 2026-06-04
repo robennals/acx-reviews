@@ -54,13 +54,11 @@ The mission of _[Great and Desperate Cures](https://www.goodreads.com/en/book/sh
 
 <figcaption>
 
-_Also, the cover of the book is cool._
+_Also, the cover of the book is cool. The illustration recalls [Saturn Devouring His Son](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) by Goya._
 
 </figcaption>
 
 </figure>
-
-_The illustration recalls [Saturn Devouring His Son](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) by Goya._
 
 The reasons Valenstein comes up with are not extremely surprising. There are six:
 
@@ -248,13 +246,11 @@ Depending on your perspective, he is either our story’s determined protagonist
 
 <figcaption>
 
-_Walter Freeman, the inventor of the prefrontal lobotomy (with James Watts)_
+_Walter Freeman, the inventor of the prefrontal lobotomy (with James Watts) and the most effective popularizer of psychosurgery._
 
 </figcaption>
 
 </figure>
-
-> _and the most effective popularizer of psychosurgery._
 
 Like Moniz, Walter Freeman came from a distinguished family and had a famous relative. His maternal grandfather was William Williams Keen, a leading surgeon and “one of the first brain surgeons in the United States.” (ch. 7, p. 122) Consider this episode from Keen’s career: (ch. 7, p. 123)
 
@@ -340,7 +336,7 @@ I was curious to peek into the book, and found this strange passage on the first
 
 Also peculiar was the way the decidedly technical book was promoted. It was widely reviewed, even in venues which would not normally review similar books. In the New York Times, one reviewer wrote: (ch. 9, p. 171)
 
-It is not too technical even for a layman … No novelist ever had a more thrilling subject.
+> It is not too technical even for a layman … No novelist ever had a more thrilling subject.
 
 Always the showman, Freeman designed the dust jacket and wrote the copy on the back of the book himself. One part of it reads: (ch. 9, p. 171)
 
@@ -390,7 +386,7 @@ Many clinicians were horrified at Freeman’s new version of the lobotomy, despi
 
 Freeman’s reply included the quip: (ch. 10, p. 205)
 
-It is much less traumatizing than a shotgun and almost as quick.
+> It is much less traumatizing than a shotgun and almost as quick.
 
 Freeman’s transorbital lobotomy was an abomination to neurosurgeons, who believed in strange practices like ‘using gloves’ and ‘draping the patient’. Valenstein elaborates on some of the fundamental conflicts: (ch. 13, p. 257)
 
@@ -697,14 +693,11 @@ _Life_ magazine ran articles filled with whimsical cartoons whose goal was to ex
 
 <figcaption>
 
-_From the March 3, 1947 issue of Life. In a healthy man,_
+_From the March 3, 1947 issue of Life. In a healthy man, the various Freudian sub-entities are harmoniously balanced._
 
 </figcaption>
 
 </figure>
-
-> _the various Freudian sub-entities are harmoniously balanced._
->
 
 <figure>
 
@@ -712,14 +705,11 @@ _From the March 3, 1947 issue of Life. In a healthy man,_
 
 <figcaption>
 
-_From the March 3, 1947 issue of Life. In a mentally ill man, the superego_
+_From the March 3, 1947 issue of Life. In a mentally ill man, the superego is out of control! They claim that the lobotomy makes him shut up. But I’m not sure where they got this explanation from._
 
 </figcaption>
 
 </figure>
-
-> _is out of control! They claim that the lobotomy makes him shut up._  
-> _But I’m not sure where they got this explanation from._
 
 Side note, the same article also depicts _graphic images of brain surgery_ next to an ad for shoes:
 
@@ -877,13 +867,11 @@ Howard recounts episode after episode in which he demonstrates poor judgment in 
 
 <figcaption>
 
-_Not everyone liked the memoir. Some Goodreads reviewers think_
+_Not everyone liked the memoir. Some Goodreads reviewers think lobotomy victims ought to take more personal responsibility._
 
 </figcaption>
 
 </figure>
-
-> _lobotomy victims ought to take more personal responsibility._
 
 The arc of the memoir is to claim that, despite everything he had gone through, Howard came out the other side okay. He had kids; he had a wife that loved him; he finally got a job he enjoyed; and he found peace. In some ways these things are true, but Howard’s life was far from normal, and was disastrous in almost every sense one could imagine. His kids were unplanned, his good second marriage followed a terrible first marriage, and his bus driving job is not the one he was hoping for; he went to school later in life hoping to get a computer-related job. Even after NPR [covered his story](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey), he continued to have financial problems and health challenges.
 
