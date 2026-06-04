@@ -16,7 +16,7 @@ tags:
   - Philosophy
 ---
 
-“[I]s a twenty-year-old novel successful merely because it seems cleverly predictive or contains scenarios that feel ‘relevant’ to later audiences? If that were the mark of enduring fiction, Philip K. Dick would be the greatest novelist of all time.” [0]
+“[I]s a twenty-year-old novel successful merely because it seems cleverly predictive or contains scenarios that feel ‘relevant’ to later audiences? If that were the mark of enduring fiction, Philip K. Dick would be the greatest novelist of all time.” [^0]
 
 Video game screenwriter Tom Bissell’s backhanded compliment to Philip K. Dick---in a forward written for another science fiction novel, _Infinite Jest_---acknowledges that Philip K. Dick wrote novels at once clever, predictive, and relevant beyond their time; Dick’s stories, however, can lack a certain novelistic _je ne sais quoi_, he implies.
 
@@ -24,15 +24,15 @@ This book review of the 1964 science fiction novel _The Simulacra_ by Philip K. 
 
 ## That title, though
 
-The word _simulacra_ (singular: _simulacrum_) appeared for the first time (as far as is known) in the Latin poem _De Rerum Natura_ by Lucretius. Philip K. Dick esteemed this classical text so highly that he wrote a short story featuring it explicitly. Philip K. Dick’s short story “Not By Its Cover” first appeared in 1965, one year after _The Simulacra_ [1]. “Not By Its Cover” contrasts Lucretius’ _De Rerum Natura_ with Saint Paul’s first epistle to the Corinthians; in the short story, an intelligent Martian species finds a way to communicate its commentary on the two texts’ essentially irreconcilable claims about death and the afterlife.
+The word _simulacra_ (singular: _simulacrum_) appeared for the first time (as far as is known) in the Latin poem _De Rerum Natura_ by Lucretius. Philip K. Dick esteemed this classical text so highly that he wrote a short story featuring it explicitly. Philip K. Dick’s short story “Not By Its Cover” first appeared in 1965, one year after _The Simulacra_ [^1]. “Not By Its Cover” contrasts Lucretius’ _De Rerum Natura_ with Saint Paul’s first epistle to the Corinthians; in the short story, an intelligent Martian species finds a way to communicate its commentary on the two texts’ essentially irreconcilable claims about death and the afterlife.
 
 Simulacra, as Lucretius defined them, were “likenesses or thin shapes… sent out from the surfaces of things” below the threshold of visible perception. These optical copies, in Lucretian physics, accounted for dreams, sexual fantasies, ghost visions, mythic creatures, imaginary visualization, and all manner of obscure visual phenomenon.
 
 Saint Jerome, the main translator of the Latin Vulgate, was familiar enough with Lucretius to make claims about his life and his death that have remained unverified by later scholarship. Jerome (and those who assisted him translating the Bible into Latin) employed the word “simulacra,” or a conjugation thereof, a total of thirty-nine times.
 
-In a sense, the word simulacra bridges an unexpected felicity between Lucretius and John the Evangelist. Lucretius believed that sexual imagery floated physically through the air and produced lust in men’s minds; thus, he wrote “It behooves one to flee from such images (_simulacra_)” [2]. The first Johannine epistle, translated from Koine Greek to Latin, used the same word to refer to graven images: “Children, keep yourselves from idols (_simulacris_)” [3]. Both passages, though demonstrating divergent definitions, find common ground in exhorting the avoidance of simulacra.
+In a sense, the word simulacra bridges an unexpected felicity between Lucretius and John the Evangelist. Lucretius believed that sexual imagery floated physically through the air and produced lust in men’s minds; thus, he wrote “It behooves one to flee from such images (_simulacra_)” [^2]. The first Johannine epistle, translated from Koine Greek to Latin, used the same word to refer to graven images: “Children, keep yourselves from idols (_simulacris_)” [^3]. Both passages, though demonstrating divergent definitions, find common ground in exhorting the avoidance of simulacra.
 
-The word “simulacra” was used only sparsely in later Latin fiction by Virgil and other ancient authors. By the twentieth century, the word “simulacra” was rarely used in the English language. In particular, one could still find it in the writings of spiritist parapsychologists such as Gustave Géley [4], or the works of metaphysical poets such as William Butler Yeats (although he spelled it “simulacrae”) [5]. By the time Philip K. Dick wrote _The Simulacra_ in March 1963, the most common place to find the word in print was in English-Latin dictionaries.
+The word “simulacra” was used only sparsely in later Latin fiction by Virgil and other ancient authors. By the twentieth century, the word “simulacra” was rarely used in the English language. In particular, one could still find it in the writings of spiritist parapsychologists such as Gustave Géley [^4], or the works of metaphysical poets such as William Butler Yeats (although he spelled it “simulacrae”) [^5]. By the time Philip K. Dick wrote _The Simulacra_ in March 1963, the most common place to find the word in print was in English-Latin dictionaries.
 
 Philip K. Dick knew enough Latin to meditate at length on obscure Latin theological phrases in his later _Exegesis_. He had a habit of buttressing his book titles with Latinate words uncommon in lay English:
 
@@ -45,7 +45,7 @@ Like Lucretius, Philip K. Dick maintained a specific meaning for the word “sim
 
 ## A stone rejected by its builder
 
-Philip K. Dick’s biographer Lawrence Sutin wrote of _The Simulacra_ “Of all Phil’s novel plots, this may be the most complex.” [6] _The Simulacra_ has never been adapted for screen, stage, or video game console. Philip K. Dick published _The Simulacra_ in 1964, the same year as three other of his novels:
+Philip K. Dick’s biographer Lawrence Sutin wrote of _The Simulacra_ “Of all Phil’s novel plots, this may be the most complex.” [^6] _The Simulacra_ has never been adapted for screen, stage, or video game console. Philip K. Dick published _The Simulacra_ in 1964, the same year as three other of his novels:
 
 *   _The Penultimate Truth_
 *   _Martian Time-Slip_
@@ -55,7 +55,7 @@ Some of the themes from Dick’s other novels of this hyperprolific period of hi
 
 Philip K. Dick mentioned _The Simulacra_ in a 1978 journal entry examining themes spanning his fictional corpus:
 
-> Again and again, I attempt to formulate criteria for what is fake and what is _not_ fake, in every area. From a comic book to a world leader to a girl friend to an entire universe. “Things are seldom what they seem” — right. It has to do with reality testing, which is related to another theme of mine: mental illness (which brings in hallucinations) and deliberate deception (_The Penultimate Truth_, _The Simulacra_, _Game Players of Titan_, etc., novels I usually overlook, and mental illness brings in _Martian Time-Slip_, _Dr. Blood Money_, _The Simulacra_, _Clans_. So virtually all of my writing interlocks at this substratum.). [7] (emphasis in the original)
+> Again and again, I attempt to formulate criteria for what is fake and what is _not_ fake, in every area. From a comic book to a world leader to a girl friend to an entire universe. “Things are seldom what they seem” — right. It has to do with reality testing, which is related to another theme of mine: mental illness (which brings in hallucinations) and deliberate deception (_The Penultimate Truth_, _The Simulacra_, _Game Players of Titan_, etc., novels I usually overlook, and mental illness brings in _Martian Time-Slip_, _Dr. Blood Money_, _The Simulacra_, _Clans_. So virtually all of my writing interlocks at this substratum.). [^7] (emphasis in the original)
 
 Alone in his central Venn diagram compartment, flanked on the left by mental illness novels and on the right by tales of deliberate deception, sits _The Simulacra_.
 
@@ -71,7 +71,7 @@ Philip K. Dick’s deprecation of _The Simulacra_ (one of the “novels I usuall
 >
 > Have I forgotten an entire novel? Wire instructions. Wire diagrams as to how
 >
-> to reassemble memory of forgotten novel. Or _something_. [8] (emphasis in the original)
+> to reassemble memory of forgotten novel. Or _something_. [^8] (emphasis in the original)
 
 Philip K. Dick forgot (or simulated forgetting) that prior to the publication of _The Simulacra_, he had retitled his manuscript, replacing its earlier title _First Lady of Earth_.
 
@@ -117,9 +117,9 @@ Before Ace Books published _The Simulacra_ in August 1964, Fantastic magazine pu
 > of cooperative housing, culture-mania and ama-  
 > teur nights, you might begin to approximate the  
 > conditions under which the Brown brothers did  
-> their jug-playing music. [9]
+> their jug-playing music. [^9]
 
-By contrast, the jug musicians in _The Simulacra_ are not brothers, and neither one is named Brown, but _The Simulacra_ did keep salient the three ideas mentioned in that snippet. Philip K. Dick biographer Lawrence Sutin has suggested that the short story is a pared-down version of the novel, rather than the novel being an expansion of the short story [6].
+By contrast, the jug musicians in _The Simulacra_ are not brothers, and neither one is named Brown, but _The Simulacra_ did keep salient the three ideas mentioned in that snippet. Philip K. Dick biographer Lawrence Sutin has suggested that the short story is a pared-down version of the novel, rather than the novel being an expansion of the short story [^6].
 
 Amongst so many subplots, the majority of which cannot be enumerated in this review, briefly examining “The Novelty Act” can allow us to infer what Philip K. Dick himself perhaps found to be the barest kernel of the novel’s plot.
 
@@ -129,7 +129,7 @@ For one, the short story retains the funniest part of _The Simulacra_, which is 
 >
 > “But,” Ian Duncan had protested, “this is _classical_ jug. We play late Beethoven sonatas.”
 >
-> “We’ll call you,” the talent scout had said briskly. [10] (emphasis in the original)
+> “We’ll call you,” the talent scout had said briskly. [^10] (emphasis in the original)
 
 The crisis moment in that narrative arc shows one of the musicians trembling in the cold, unsure of his whereabouts, after having his memory wiped by the government. This powerful image and its surrounding precedents and consequents is one that _The Simulacra_ conveys with a sense of haunting relevancy.
 
@@ -243,7 +243,7 @@ The historical context in which Philip K. Dick wrote _The Simulacra_ included co
 
 Philip K. Dick developed the theme of a simulacrum as a real, potent object with fake characteristics in even small details of his novel, such as the character of Vince Strikerock smoking imitation tobacco. Jean Baudrillard took this tension a step further with his pronouncement: “The simulacrum is never what hides the truth---it is truth that hides the fact that there is none. The simulacrum is true.” Baudrillard proceeded to demonstrate the operation of simulacra by falsing attributing that statement to Ecclesiates on the opening page of his 1981 book _Simulacres et Simulation_, (translated into English as _Simulacra and Simulation_ in 1983). The quote is nowhere to be found in Ecclesiastes, even with the most radical stretches of creative translation. But Baudrillard’s point was exactly the disorientation produced by the slow disappearance of referential veracity.
 
-There are other points when Baudrillard approximates Philip K. Dick’s use of the term simulacra more closely. In one remarkable simile, Baudrillard directly imitates Philip K. Dick before him by calling androids simulacra: “A whole generation of films is emerging that will be to those one knew what the android is to man: marvelous artifacts, without weakness, pleasing simulacra” [11]. Jean Baudrillard later in his book acknowledged specifically Dick’s novel _The Simulacra_ and certain of its fictional characters [12].
+There are other points when Baudrillard approximates Philip K. Dick’s use of the term simulacra more closely. In one remarkable simile, Baudrillard directly imitates Philip K. Dick before him by calling androids simulacra: “A whole generation of films is emerging that will be to those one knew what the android is to man: marvelous artifacts, without weakness, pleasing simulacra” [^11]. Jean Baudrillard later in his book acknowledged specifically Dick’s novel _The Simulacra_ and certain of its fictional characters [^12].
 
 While Philip K. Dick was the first English-language writer to include the word “simulacra” in a book title, it was Baudrillard who vouchsafed simulacra discourse into the mainstream vocabulary via the literary genre of philosophy.
 
@@ -261,7 +261,7 @@ Jean Baudrillard argued with rigorous detail in _Simulacra and Simulation_ how a
 
 Philip K. Dick fictionalized some of the characteristics of simulacra that Lucretius articulated---in particular, the appearance of familiar people in dreams, erotic obsessions, the uncertain sources of our internal thoughts, and discrepancies between an object and its image. To these modalities, Philip K. Dick, added several novel associations, such as technological reproduction and government mendacity.
 
-Contemporary discourse about simulacra continues, and often preserves these Phildickian influences, even when Philip K. Dick is not considered the source. For example, a later French philosopher, Alain Badiou, wrote in 1993 that Germany’s National Socialist revolution, which ushered the Nazi party into power, was the extreme example of how “Evil is the process of a simulacrum of truth” [13]. Badiou never referenced Philip K. Dick directly; nevertheless, the meticulousness with which Philip K. Dick drew from Nazi political history in _The Simulacra_ (thirty years before Badiou wrote his _Ethics_) makes the associations between simulacra and the Third Reich an unignorable part of the concept’s development.
+Contemporary discourse about simulacra continues, and often preserves these Phildickian influences, even when Philip K. Dick is not considered the source. For example, a later French philosopher, Alain Badiou, wrote in 1993 that Germany’s National Socialist revolution, which ushered the Nazi party into power, was the extreme example of how “Evil is the process of a simulacrum of truth” [^13]. Badiou never referenced Philip K. Dick directly; nevertheless, the meticulousness with which Philip K. Dick drew from Nazi political history in _The Simulacra_ (thirty years before Badiou wrote his _Ethics_) makes the associations between simulacra and the Third Reich an unignorable part of the concept’s development.
 
 Philip K. Dick’s continued relevance can be found in LessWrong discourse during mid-2020, when the concept of simulacra was re-invoked as a description of the less-than-forthrightness with which federal, state, and municipal governments were justifying their responses to the COVID-19 pandemic. Debates on whether heavy-handed government policies smacked of misdirection or outright falsehood had distinctly Phildickian resonances, even as such posts tended to overlook Philip K. Dick’s influence on this idea.
 
@@ -270,13 +270,13 @@ Philip K. Dick’s continued relevance can be found in LessWrong discourse durin
 
 ## Notes
 
-[0]: Wallace, David Foster. _Infinite Jest: A Novel -- 20th Anniversary Edition_. United Kingdom, Little, Brown, 2016, p.xi. This preface to the Back Bay 20th Anniversary paperback edition was reprinted in _The New York Times_ on February 5th, 2016, with the headline “Inside The New York Times Book Review: David Foster Wallace’s ‘Infinite Jest’.”
+[^0]: Wallace, David Foster. _Infinite Jest: A Novel -- 20th Anniversary Edition_. United Kingdom, Little, Brown, 2016, p.xi. This preface to the Back Bay 20th Anniversary paperback edition was reprinted in _The New York Times_ on February 5th, 2016, with the headline “Inside The New York Times Book Review: David Foster Wallace’s ‘Infinite Jest’.”
 
-[1]: Dick, Philip K. _The eye of the sibyl_. United Kingdom, Carol Publishing Group, 1992, p.390. The date of the story’s submission is in this book’s endnotes. The short story “Not By Its Cover” itself starts on page 175.
+[^1]: Dick, Philip K. _The eye of the sibyl_. United Kingdom, Carol Publishing Group, 1992, p.390. The date of the story’s submission is in this book’s endnotes. The short story “Not By Its Cover” itself starts on page 175.
 
-[2]: “Lucretius, de Rerum Natura, BOOK IV, Line 1058.” http://www.perseus.tufts.edu, www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0131%3Abook%3D4%3Acard%3D1058. Accessed 19 Mar. 2023. For a more accessible translation, see also Ronald Melville’s 1997 blank verse translation published by Oxford World’s Classics. Philip K. Dick lauded John Dryden’s abridged 1685 Lucretius translations as “lofty, noble” [1]. While preparing this review, I hunted unsuccessfully for any English translation which left the word simulacra untranslated. The various English translations of _De Rerum Natura_ I found used several different words or phrases within one translation, but among them is almost always the bland phrase “images of things.”
+[^2]: “Lucretius, de Rerum Natura, BOOK IV, Line 1058.” http://www.perseus.tufts.edu, www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0131%3Abook%3D4%3Acard%3D1058. Accessed 19 Mar. 2023. For a more accessible translation, see also Ronald Melville’s 1997 blank verse translation published by Oxford World’s Classics. Philip K. Dick lauded John Dryden’s abridged 1685 Lucretius translations as “lofty, noble” [1]. While preparing this review, I hunted unsuccessfully for any English translation which left the word simulacra untranslated. The various English translations of _De Rerum Natura_ I found used several different words or phrases within one translation, but among them is almost always the bland phrase “images of things.”
 
-[3]: “EPISTULA I IOANNIS - Nova Vulgata, Novum Testamentum.” http://www.vatican.va, www.vatican.va/archive/bible/nova\_vulgata/documents/nova-vulgata\_nt\_epist-i-ioannis\_lt.html. Accessed 19 Mar. 2023. The word _simulacra_ is not used to denote idols anywhere in the books of the Pentateuch, nor in the Gospels. A different Latin term is employed in those books: _similitūdō_. The books within the Vulgate where the word _simulacra_ is used are the following:
+[^3]: “EPISTULA I IOANNIS - Nova Vulgata, Novum Testamentum.” http://www.vatican.va, www.vatican.va/archive/bible/nova\_vulgata/documents/nova-vulgata\_nt\_epist-i-ioannis\_lt.html. Accessed 19 Mar. 2023. The word _simulacra_ is not used to denote idols anywhere in the books of the Pentateuch, nor in the Gospels. A different Latin term is employed in those books: _similitūdō_. The books within the Vulgate where the word _simulacra_ is used are the following:
 
 *   _ACTUS APOSTOLORUM_
 *   _AD COLOSSENSES EPISTULA SANCTI PAULI APOSTOLI_
@@ -295,22 +295,22 @@ Philip K. Dick’s continued relevance can be found in LessWrong discourse durin
 *   _PROPHETIA HABACUC_
 *   _PROPHETIA OSEE_
 
-[4]: Géley, Gustave. _From the Unconscious to the Conscious_. United Kingdom, William Collins Sons, 1920, p.62. Géley appears to use the word simulacra in Lucretius’ original sense, uncritically accepting _De Rerum Natura_ as a still-reasonably-viable account of experiential phenomenon.
+[^4]: Géley, Gustave. _From the Unconscious to the Conscious_. United Kingdom, William Collins Sons, 1920, p.62. Géley appears to use the word simulacra in Lucretius’ original sense, uncritically accepting _De Rerum Natura_ as a still-reasonably-viable account of experiential phenomenon.
 
-[5]: Harper, George Mills, et al. _A Critical Edition of Yeats' A Vision (1925)_. N.p., n.p, 1978, p.222. Yeats poetically employs the word only once, in the sense of a spectral ghost. It has been understood to be a misspelling.
+[^5]: Harper, George Mills, et al. _A Critical Edition of Yeats' A Vision (1925)_. N.p., n.p, 1978, p.222. Yeats poetically employs the word only once, in the sense of a spectral ghost. It has been understood to be a misspelling.
 
-[6]: Sutin, Lawrence. _Divine Invasions: A Life of Philip K. Dick._ United States, Carol Publishing Group, 1991, p.301. Sutin also suggests that the character of Nicole Thibodeaux was inspired by real-life First Lady Jacqueline Kennedy.
+[^6]: Sutin, Lawrence. _Divine Invasions: A Life of Philip K. Dick._ United States, Carol Publishing Group, 1991, p.301. Sutin also suggests that the character of Nicole Thibodeaux was inspired by real-life First Lady Jacqueline Kennedy.
 
-[7]: Dick, Philip K., and Davis, Erik. _The Exegesis of Philip K Dick_. United States, Houghton Mifflin Harcourt, 2011, p.419.
+[^7]: Dick, Philip K., and Davis, Erik. _The Exegesis of Philip K Dick_. United States, Houghton Mifflin Harcourt, 2011, p.419.
 
-[8]: Dick, Philip K., and Herron, Don. _The Selected Letters of Philip K. Dick: 1938-1971_. United States, Underwood Books, 1991, p.87. Philip K. Dick’s editor Terry Carr wrote a letter to Philp’s wife Anne. Philip saw the letter and replied to it himself in this letter dated August 13, 1964.
+[^8]: Dick, Philip K., and Herron, Don. _The Selected Letters of Philip K. Dick: 1938-1971_. United States, Underwood Books, 1991, p.87. Philip K. Dick’s editor Terry Carr wrote a letter to Philp’s wife Anne. Philip saw the letter and replied to it himself in this letter dated August 13, 1964.
 
-[9]: Dick, Philip. “Novelty Act.” _Fantastic_, Feb. 1964, pp.8–38. An illustration accompanied this short story, portraying a sculpted bust with a glaring face wearing a periwig. The bottom of the bust had engraved on it the name “J. S. Bach”. On its left and right sides, the sculpture was surrounded by empty moonshine jugs.
+[^9]: Dick, Philip. “Novelty Act.” _Fantastic_, Feb. 1964, pp.8–38. An illustration accompanied this short story, portraying a sculpted bust with a glaring face wearing a periwig. The bottom of the bust had engraved on it the name “J. S. Bach”. On its left and right sides, the sculpture was surrounded by empty moonshine jugs.
 
-[10]: Dick, Philip K. _The Simulacra_. United States, Mariner Books, 2011, p.19. This excerpt is hardly a spoiler, and, in fact, I hope this review has managed to leave the best parts of the novel’s plot still yet unspoiled.
+[^10]: Dick, Philip K. _The Simulacra_. United States, Mariner Books, 2011, p.19. This excerpt is hardly a spoiler, and, in fact, I hope this review has managed to leave the best parts of the novel’s plot still yet unspoiled.
 
-[11]: Baudrillard, Jean. _Simulacra and simulation_. Ann Arbor, University of Michigan Press, 1994, p.45.
+[^11]: Baudrillard, Jean. _Simulacra and simulation_. Ann Arbor, University of Michigan Press, 1994, p.45.
 
-[12]: Rosa, Jorge Martins. “A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick.” _Science Fiction Studies_, vol. 35, no. 1, 2008, pp.60–71. _JSTOR_, http://www.jstor.org/stable/25475106. Accessed 13 Mar. 2023. One of the characters in _The Simulacra_ (Al Miller) possesses a simulacrum of a Martian creature called a papoola. All living papoola have gone extinct. Al uses a remote-controllable replica of a papoola to draw in customers to his business. Badrillard writes about the implications of this fictional robot for the field of advertising, but, as Rosa notes, Baudrillard incorrectly spells its name “papula.”
+[^12]: Rosa, Jorge Martins. “A Misreading Gone Too Far? Baudrillard Meets Philip K. Dick.” _Science Fiction Studies_, vol. 35, no. 1, 2008, pp.60–71. _JSTOR_, http://www.jstor.org/stable/25475106. Accessed 13 Mar. 2023. One of the characters in _The Simulacra_ (Al Miller) possesses a simulacrum of a Martian creature called a papoola. All living papoola have gone extinct. Al uses a remote-controllable replica of a papoola to draw in customers to his business. Badrillard writes about the implications of this fictional robot for the field of advertising, but, as Rosa notes, Baudrillard incorrectly spells its name “papula.”
 
-[13]: Badiou, Alain. _Ethics: An Essay on the Understanding of Evil_. United Kingdom, Verso Books, 2013, p.77. The lineage of simulacra discourse in France appears to have been kindled by an independent re-discovery of Lucretius by Gilles Deleuze, who then influenced Baudrillard. Jorge Rosa (in [12]) suggests that Baudrillard was informed of Philip K. Dick while writing his seminal work, which was more influenced by Deleuze. Alain Badiou also cites Deleuze but not Baudrillard. In fact, Badiou elsewhere hotly dismissed Baudrillard’s significance to philosophy altogether. What I find most interesting in this sequence of events is that every major twentieth-century philosopher who wrote anything about simulacra (with the exception of Philip K. Dick, if one considers him a philosopher, as some do), did so after Philip K. Dick had already written extensively on the topic, not just in _The Simulacra_, but in other novels as well. These subsequent writers, each of whom made substantial contributions of their own to the discipline of continental philosophy, all spoke French, and they all lived in Paris.
+[^13]: Badiou, Alain. _Ethics: An Essay on the Understanding of Evil_. United Kingdom, Verso Books, 2013, p.77. The lineage of simulacra discourse in France appears to have been kindled by an independent re-discovery of Lucretius by Gilles Deleuze, who then influenced Baudrillard. Jorge Rosa (in [12]) suggests that Baudrillard was informed of Philip K. Dick while writing his seminal work, which was more influenced by Deleuze. Alain Badiou also cites Deleuze but not Baudrillard. In fact, Badiou elsewhere hotly dismissed Baudrillard’s significance to philosophy altogether. What I find most interesting in this sequence of events is that every major twentieth-century philosopher who wrote anything about simulacra (with the exception of Philip K. Dick, if one considers him a philosopher, as some do), did so after Philip K. Dick had already written extensively on the topic, not just in _The Simulacra_, but in other novels as well. These subsequent writers, each of whom made substantial contributions of their own to the discipline of continental philosophy, all spoke French, and they all lived in Paris.

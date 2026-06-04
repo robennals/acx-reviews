@@ -41,7 +41,7 @@ Kaguya dislikes the lifestyle and isn't shy about showing this during training, 
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/8627b4bb28e57a4e.png) 
 
-_"Whenever she does apply herself, everything turns out beautifully!"__[1]_
+_"Whenever she does apply herself, everything turns out beautifully!"__[^1]_
 
 (Note: footnotes in this review are used solely to provide the original Japanese of movie quotes.)
 
@@ -75,7 +75,7 @@ The fourth nobleman was asked to retrieve the Buddha's begging bowl but instead 
 >
 > _loud city and its formalities. We could go to a rich green land where flowers bloom_
 >
-> _in perfusion. Where birds sing and fish leap. [...][2]_
+> _in perfusion. Where birds sing and fish leap. [...][^2]_
 
 His attempt fails because Kaguya's mother interferes in time, putting an unattractive servant in her place just before the nobleman pulls back the curtain. However, Wikipedia's plot summary claims that she was about to accept, and while I don't know how the author knows this for sure, it doesn't seem implausible. At the point where I've put the [x], Kaguya is seen shedding tears.
 
@@ -83,7 +83,7 @@ His attempt fails because Kaguya's mother interferes in time, putting an unattra
 
 Might she have been genuinely happy if her mother hadn't stepped in? Kaguya never talks about the incident, but her mother says this immediately after:
 
-> _Would she have been just like all the others? Plucked from the field like a flower and then thrown away? How many more princesses would be forced to shave their heads and go into a nunnery?__[3]_
+> _Would she have been just like all the others? Plucked from the field like a flower and then thrown away? How many more princesses would be forced to shave their heads and go into a nunnery?__[^3]_
 
 If she is reporting on the real history of the nobleman, then we have to assume that the answer is no, and just because he seemed to display some level of understanding doesn't mean he is actually a good person. (It's almost as if appearing attractive and actually being a good partner are two different things – shocking!) The movie also does not show the scenes he talks about, so he might not even be telling the truth. For all we know, it's possible that he never lifted a finger until now. Maybe it wasn't even his idea. Maybe he got one of his existing wives to write the speech for him.
 
@@ -91,7 +91,7 @@ Regardless, we still haven't answered the question: why did this approach work b
 
 Given that the noblemen all compared Kaguya to inanimate objects, one may respond that they were ineffective because they're objectifying. And sure, that's part of it. But there’s also another reason why at least I would find all four proposals to be deeply unattractive. It's worth noting here that our smartest nobleman initially had what's probably the worst pitch of them all:
 
-> _Princess Kaguya, if you consent to be my wife, I will worship you morning and night. My forehead pressed to the ground in utter devotion, you are a treasure I would revear as much as the stone begging bowl of Lord Buddha himself._[4]
+> _Princess Kaguya, if you consent to be my wife, I will worship you morning and night. My forehead pressed to the ground in utter devotion, you are a treasure I would revear as much as the stone begging bowl of Lord Buddha himself._[^4]
 
 Simply put: terrible. Yes, I don't want to be objectified. But I also don't want to be worshipped. I am not better than you. I don't want people to look up to me. This is the deeper problem with all the proposals. I'd assume that's something the nobleman wants, but if so, he is committing the [mind projection fallacy](https://www.lesswrong.com/w/mind-projection-fallacy) in all its glory.
 
@@ -117,7 +117,7 @@ Another scene I've skipped over is from very early in the movie. It's her last d
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/de3ae3d413680b29.png) 
 
-_Your Little Bamboo will be here with you forever, Sutemaru.__[5]_
+_Your Little Bamboo will be here with you forever, Sutemaru.__[^5]_
 
 Earlier I've listed a few terms that I would find unattractive, which are all terms the noblemen used. Conversely, here are some words that I wouldn't mind being called. _Honey. Dear. Girl. Sweetie. Darling._
 
@@ -133,7 +133,7 @@ The fifth nobleman was asked to retrieve a [cowry shell](https://en.wikipedia.or
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/bec496f351f69025.png) 
 
-Then, she starts running through the garden, mindlessly hitting cutting things with a sickle. _This garden – it's fake,_ she cries, _fake! fake! It's all fake, and so am I!__[6]_
+Then, she starts running through the garden, mindlessly hitting cutting things with a sickle. _This garden – it's fake,_ she cries, _fake! fake! It's all fake, and so am I!__[^6]_
 
 Now, if you're expecting some kind of deep dive into what it means for her to be fake in relation to the noblemen...
 
@@ -183,7 +183,7 @@ I've mentioned that her father held the coming-of-age ceremony after Kaguya had 
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/638355d3bd931cb1.png)
 
-_Since it's a celebration, it's okay to invite everyone, right?__[7]_
+_Since it's a celebration, it's okay to invite everyone, right?__[^7]_
 
 Understanding that she refers to friends from the forest village but remaining clueless about her emotional state – as well as her goals, desires, or really anything about her psychology – her father says no. Of course they _can't_ invite common people for a high-status event like this.
 
@@ -209,19 +209,19 @@ I've mentioned that none of the noblemen's initial pitches were any good. The tr
 >
 > _a garment that, even when cast into flames, does not burn, but only sheds its impurities,_
 >
-> _and shines even more brilliantly within the fire. They say that only in distant Tang do such pure princesses exist, you are truly such a rare and precious treasure._[8]
+> _and shines even more brilliantly within the fire. They say that only in distant Tang do such pure princesses exist, you are truly such a rare and precious treasure._[^8]
 
 Dude, fu... um. I mean, no thank you. #1 is also very funny:
 
-> _Your Highness, Princess Kaguya, if I were so fortunate that you became my wife, it would be as if I plucked a branch of the tree of jewels that grows on the mountain of Horai, whose trunk is of gold and its fruits are the whitest of pearls. Princess Kaguya, you are an exquisite treasure that is as unattainable, precious at that [...]_[9]
+> _Your Highness, Princess Kaguya, if I were so fortunate that you became my wife, it would be as if I plucked a branch of the tree of jewels that grows on the mountain of Horai, whose trunk is of gold and its fruits are the whitest of pearls. Princess Kaguya, you are an exquisite treasure that is as unattainable, precious at that [...]_[^9]
 
 It seriously sounds as though he is trying to be unattractive. Here’s #2:
 
-> _Princess, to me, Councilor Otomo, you are a fine glistening jewel, a jewel that shines intensely from above. A gem with more radiance than the five-colored jewel that shines on the dragon's neck!_[10]
+> _Princess, to me, Councilor Otomo, you are a fine glistening jewel, a jewel that shines intensely from above. A gem with more radiance than the five-colored jewel that shines on the dragon's neck!_[^10]
 
 The only one that isn't completely terrible is from #5, the one who dies:
 
-> _For me, Princess Kaguya is something more precious and natural, like the warm cowry shell amulets, swallows use as a charm for safe birth. That is a true treasure!_[11]
+> _For me, Princess Kaguya is something more precious and natural, like the warm cowry shell amulets, swallows use as a charm for safe birth. That is a true treasure!_[^11]
 
 Hmm – a warm cowry shell amulet – I guess I could get behind that? Maybe? This is also the only one Kaguya reacts to – not audibly, but the film shows her murmuring, "a true treasure" to herself. I don't know how much intent there was behind this detail, but I do find it interesting. If nothing else, it makes his death even more tragic.
 
@@ -237,7 +237,7 @@ At 44 minutes, there is a scene of her teacher trying to get Kaguya to blacken h
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/2b13eb9229fb695e.png)
 
-_Even a noble princess must sweat and sometimes want to laugh out loud! Surely they wanna cry, or get mad and wanna scream!__[12]_
+_Even a noble princess must sweat and sometimes want to laugh out loud! Surely they wanna cry, or get mad and wanna scream!__[^12]_
 
 The scene has no depth to it – not that I can see, anyway – but I find it delightful to hear Kaguya passionately defend the rights of noble princesses to be human.
 
@@ -281,13 +281,13 @@ _well then... the only choice is to kill me!_
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/8118a168b80857e8.png)
 
-_... and after you have put on that cap as part of the court... I will kill myself.__[13]_
+_... and after you have put on that cap as part of the court... I will kill myself.__[^13]_
 
 After this, her father does not press the issue.
 
 Of course, you already know that her refusal will make the emperor want her even more. Soon after, he visits the mansion personally to take Kaguya with him. He departs when she rejects him, but not before entering unannounced and embracing her from behind. At that point, Kaguya instinctively prayed to the Moon, from which she came in the first place, to come save her. Despite wanting to stay, she can't take back the request, and on the next full Moon, a delegation is sent to pick her up.
 
-In the remaining time, her mother prepares a carriage for her to travel back to the forest village to be with Sutemaru, where she expresses that she should have stayed with him instead. _With you, Sutemaru, I would have been truly happy.__[14]_  Sutemaru briefly doubts that she would have been willing to endure the lifestyle, but she easily proves him wrong. They run away and even fly, but then she falls into the ocean and he wakes up on the ground without her, surmising that it was a dream. In the next scene, she is back in the mansion. The implication is that both this and the incident when she ran away during her naming ceremony really happened, but were effectively undone by the Moon's magic. There are also visual clues suggesting as much.
+In the remaining time, her mother prepares a carriage for her to travel back to the forest village to be with Sutemaru, where she expresses that she should have stayed with him instead. _With you, Sutemaru, I would have been truly happy.__[^14]_  Sutemaru briefly doubts that she would have been willing to endure the lifestyle, but she easily proves him wrong. They run away and even fly, but then she falls into the ocean and he wakes up on the ground without her, surmising that it was a dream. In the next scene, she is back in the mansion. The implication is that both this and the incident when she ran away during her naming ceremony really happened, but were effectively undone by the Moon's magic. There are also visual clues suggesting as much.
 
 Knowing what's coming, her father hires a small army to protect her, which is immediately, effortlessly, and non-violently overpowered (seemingly put to sleep) as the delegation from the moon arrives. They pick her up, wholly indifferent to Kaguya’s feelings or that of her parents, and return her to the Moon.
 
@@ -382,7 +382,7 @@ In the brief time when she is still on Earth but knows what is coming, Kaguya ex
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/6a8115ad3af2642e.png)
 
- _Only now, when I'm forced to go back to the Moon, do I finally remember why I came here._[15]
+ _Only now, when I'm forced to go back to the Moon, do I finally remember why I came here._[^15]
 
 But she can’t prevent it anymore, nor can she get back the time she’s lost, so it doesn’t matter. She gets her one trip back to the forest village, a taste of what life could have been, but that’s it.
 
@@ -398,9 +398,9 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
 * * *
 
-[1]: ひとたび なさると  何事もそれは見事な出来ばえで
+[^1]: ひとたび なさると  何事もそれは見事な出来ばえで
 
-[2]:私は おさない頃から 草花が好きでした  
+[^2]: 私は おさない頃から 草花が好きでした  
 それも道ばたや野辺(のべ)に咲く―  
 名もない花に 心ひかれてしまうのです  
 そして いつも思うのです  
@@ -412,7 +412,7 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
 花 咲き乱れ 鳥が歌い 魚がおどる
 
-[3] 輪の野の花のように
+[^3]: 輪の野の花のように
 
 あなたに摘(つ)まれ 捨てられ
 
@@ -422,7 +422,7 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
 何人いらっしゃることか
 
-[4]: かぐや姫様が 私の妻になってくださるならば
+[^4]: かぐや姫様が 私の妻になってくださるならば
 
 私は あなたを天じくに伝わる      
 
@@ -432,13 +432,13 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
 宝のように あがめたてまつるつもりです
 
-[5]: タケノコは いつまでも 捨丸兄ちゃんと一緒だよ
+[^5]: タケノコは いつまでも 捨丸兄ちゃんと一緒だよ
 
-[6]: こんな庭 ニセ物よ！ ニセ物！ ニセ物！ みんな ニセ物！ 私もニセ物！
+[^6]: こんな庭 ニセ物よ！ ニセ物！ ニセ物！ みんな ニセ物！ 私もニセ物！
 
-[7]: お祝いなら みんなも呼んでいいでしょう？
+[^7]: お祝いなら みんなも呼んでいいでしょう？
 
-[8]: かぐや姫様 私にとって あなたこそは
+[^8]: かぐや姫様 私にとって あなたこそは
 
 火にくべても決して燃えず けがれだけが焼け落ちて
 
@@ -448,7 +448,7 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
  まさに そのような 得がたき宝です
 
-[9]: もし あなた様を 我が妻とすることができたならば  
+[^9]: もし あなた様を 我が妻とすることができたならば  
 それは かの ほうらいの山にあるという―
 
 銀の根 黄金(こがね)のくき
@@ -459,18 +459,18 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
 等しい御方(おかた) どうか…
 
-[10]: 私にとっての かぐや姫様は  
+[^10]: 私にとっての かぐや姫様は  
 龍(りゅう)の首にかかるという 五色(ごしき)に輝く玉よりも
 
 さらにさらに さん然と光り輝く宝物よ！
 
-[11]: いえいえいえ 僕にとっての かぐや姫様は
+[^11]: いえいえいえ 僕にとっての かぐや姫様は
 
 もっともっと温かい 安産の守りともなるツバメの子安貝
 
 いだかれて大切に大切に 温められた宝物なのです
 
-[12]: 高貴な姫君だって汗をかくし
+[^12]: 高貴な姫君だって汗をかくし
 
 時にはゲラゲラ笑いたいことだって あるはずよ！
 
@@ -478,7 +478,7 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
 怒鳴りたくなることだってあるわ！
 
-[13]: 姫様 お喜びください
+[^13]: 姫様 お喜びください
 
 御門(みかど)が姫様を宮中に お呼びになりたいと仰せです
 
@@ -544,9 +544,9 @@ So, yeah, you almost certainly won’t do the hard thing when it counts. But you
 
 その上で死にます
 
-[14]:  捨丸兄ちゃんとなら 私... 幸せになれたかもしれない
+[^14]: 捨丸兄ちゃんとなら 私... 幸せになれたかもしれない
 
-[15]: ああ 私は一体この地で 何をしていたのでしょう  
+[^15]: ああ 私は一体この地で 何をしていたのでしょう  
 ただ 誰かのものになるのは いやだと 駄々(だだ)をこね  
 お父様の願いをふみにじっただけ  
 いつわりの小さな野や山で 自分の心をごまかして

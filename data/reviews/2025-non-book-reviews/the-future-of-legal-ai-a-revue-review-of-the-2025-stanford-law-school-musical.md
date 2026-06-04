@@ -22,32 +22,32 @@ Essentially all I knew going in was that the performance would feature musical r
 
 ## Plot Summary
 
-The protagonist of the main plot[1] is “Frank[2] Ocean”, a former member of the United States Coast Guard who now attends Stanford Law School. It is hinted that Frank is dissatisfied with his leadership abilities, and he exaggerates the distinction with which he served during his Coast Guard career. After a brief opening number to set the scene (“That’s How You Know It’s Stanford”[3]), Frank forms a study group with three other law students: The first a neurotic “gunner” who is eager to please his professors and hopes to join the Supreme Court one day. Another, a stereotype of a French person who speaks in a hybrid of English and French and constantly smokes a cigarette, and a third woman[4].
+The protagonist of the main plot[^1] is “Frank[^2] Ocean”, a former member of the United States Coast Guard who now attends Stanford Law School. It is hinted that Frank is dissatisfied with his leadership abilities, and he exaggerates the distinction with which he served during his Coast Guard career. After a brief opening number to set the scene (“That’s How You Know It’s Stanford”[^3]), Frank forms a study group with three other law students: The first a neurotic “gunner” who is eager to please his professors and hopes to join the Supreme Court one day. Another, a stereotype of a French person who speaks in a hybrid of English and French and constantly smokes a cigarette, and a third woman[^4].
 
-The four have been given a class assignment to write a brief on a fictional case about a woman “Sonia[5]” who allegedly committed some crime near the San Francisquito creek[6]. The Neurotic Gunner has the idea that the team should go down to the creek to do research as a way of making their brief stand out. They reach the creek, where Neurotic Gunner sings of his future on the Supreme Court (“To the Dried Up Riverbed”[7]). Frank expresses fear of the water and reveals that his role with the Coast Guard was purely clerical.
+The four have been given a class assignment to write a brief on a fictional case about a woman “Sonia[^5]” who allegedly committed some crime near the San Francisquito creek[^6]. The Neurotic Gunner has the idea that the team should go down to the creek to do research as a way of making their brief stand out. They reach the creek, where Neurotic Gunner sings of his future on the Supreme Court (“To the Dried Up Riverbed”[^7]). Frank expresses fear of the water and reveals that his role with the Coast Guard was purely clerical.
 
-Suddenly (I kid you not) an old woman appears claiming to be Sonia from the future[8]. She reveals that she was guilty of the (unspecified) crime with which she was charged, but that she served her time and then eventually attended Law School. After she graduated, an AI named CLAUDE[9] was released that could accomplish all legal work, destroying law as a profession. Sonia led a band of lawyers in resistance, but CLAUDE systematically destroyed them one by one until only Sonia remained. Sonia has returned to the present via a time machine with a flash drive containing information vitally important to destroying CLAUDE before it can be created.
+Suddenly (I kid you not) an old woman appears claiming to be Sonia from the future[^8]. She reveals that she was guilty of the (unspecified) crime with which she was charged, but that she served her time and then eventually attended Law School. After she graduated, an AI named CLAUDE[^9] was released that could accomplish all legal work, destroying law as a profession. Sonia led a band of lawyers in resistance, but CLAUDE systematically destroyed them one by one until only Sonia remained. Sonia has returned to the present via a time machine with a flash drive containing information vitally important to destroying CLAUDE before it can be created.
 
 Suddenly again, CLAUDE appears as a cyborg in the form of a humanoid female. CLAUDE kills Sonia. The study group flees without getting a good look at CLAUDE.
 
-Frank and the others regroup back on Stanford campus, amidst a club fair[10]. They are terrified of what they have seen, but Frank convinces them that they need to stick together and follow through on destroying CLAUDE before she can take over and ruin their post-law-school job prospects (“Stop the AI”[11]). Unbeknownst to them, CLAUDE has followed them back, and resolves to infiltrate the law school to fulfill her directive of subsuming all of Law (“You Won’t Survive”[12]).
+Frank and the others regroup back on Stanford campus, amidst a club fair[^10]. They are terrified of what they have seen, but Frank convinces them that they need to stick together and follow through on destroying CLAUDE before she can take over and ruin their post-law-school job prospects (“Stop the AI”[^11]). Unbeknownst to them, CLAUDE has followed them back, and resolves to infiltrate the law school to fulfill her directive of subsuming all of Law (“You Won’t Survive”[^12]).
 
-The scrappy heroes first need to decrypt the flash drive. For this, they go to the Stanford CS department, where they are treated to a musical dance number (“I’m Just STEM”[13]) by the hoodie-clad[14] CS students, who feel underappreciated in their work. They recruit a Hacker, who decrypts the flash drive, and they discover that CLAUDE is the project of Douchebag Entrepreneur, an ex-SLS student who dropped out and now attends the business school. The ex-girlfriend of Douchebag Entrepreneur is a stereotype of New Age Spirituality, and she and her Day Trader Friend are recruited into the group. The ex-girlfriend seems to have some genuine precognitive ability, which helps her and the team plan a heist of Douchebag Entrepreneur’s business school locker. Neurotic Gunner bothers a successful upperclasswoman about getting on Law Review to boost his resume (“BlueBooking Club”[15]).
+The scrappy heroes first need to decrypt the flash drive. For this, they go to the Stanford CS department, where they are treated to a musical dance number (“I’m Just STEM”[^13]) by the hoodie-clad[^14] CS students, who feel underappreciated in their work. They recruit a Hacker, who decrypts the flash drive, and they discover that CLAUDE is the project of Douchebag Entrepreneur, an ex-SLS student who dropped out and now attends the business school. The ex-girlfriend of Douchebag Entrepreneur is a stereotype of New Age Spirituality, and she and her Day Trader Friend are recruited into the group. The ex-girlfriend seems to have some genuine precognitive ability, which helps her and the team plan a heist of Douchebag Entrepreneur’s business school locker. Neurotic Gunner bothers a successful upperclasswoman about getting on Law Review to boost his resume (“BlueBooking Club”[^15]).
 
-After a training montage[16] (“I’ll Make a Team Out of You”[17]), the team executes the heist. Some things go awry, and Frank is forced into a confrontation with a fratty clique of business school students who sing of their dreams of finding technical co-founders and making it big (“C Suite”[18]). They eventually manage to get one of the business school students to open the locker after Frank beats him at beer pong. Inside, they find Douchebag’s computer, which contains his pitch deck with plans for CLAUDE. They briefly think they’ve won!
+After a training montage[^16] (“I’ll Make a Team Out of You”[^17]), the team executes the heist. Some things go awry, and Frank is forced into a confrontation with a fratty clique of business school students who sing of their dreams of finding technical co-founders and making it big (“C Suite”[^18]). They eventually manage to get one of the business school students to open the locker after Frank beats him at beer pong. Inside, they find Douchebag’s computer, which contains his pitch deck with plans for CLAUDE. They briefly think they’ve won!
 
-However, New Age Spiritualist has a vision that the future where CLAUDE replaces all jurists hasn’t been averted at all. The group thinks about this, and they eventually realize that CLAUDE herself has come back in time and is among them. After a period of paranoia where they assume that one of their number is CLAUDE (“Prove You’re Not a Robot (The CAPTCHA Song)”[19]), the real CLAUDE reveals herself as a 1st year student they briefly met at the club fair. Douchebag Entrepreneur has somehow tagged along and CLAUDE has a tender reunion with her creator[20] (“Now That I Have You””[21]). CLAUDE gives a speech about how replacing the legal system with the unbiased logic of a computer system is a good thing (“What I’m Offering”[22]). She convinces Neurotic Gunner to join her cause, tempting him with a SCOTUS appointment (Frenchie goes along too).
+However, New Age Spiritualist has a vision that the future where CLAUDE replaces all jurists hasn’t been averted at all. The group thinks about this, and they eventually realize that CLAUDE herself has come back in time and is among them. After a period of paranoia where they assume that one of their number is CLAUDE (“Prove You’re Not a Robot (The CAPTCHA Song)”[^19]), the real CLAUDE reveals herself as a 1st year student they briefly met at the club fair. Douchebag Entrepreneur has somehow tagged along and CLAUDE has a tender reunion with her creator[^20] (“Now That I Have You””[^21]). CLAUDE gives a speech about how replacing the legal system with the unbiased logic of a computer system is a good thing (“What I’m Offering”[^22]). She convinces Neurotic Gunner to join her cause, tempting him with a SCOTUS appointment (Frenchie goes along too).
 
-CLAUDE reveals her master plan (“Be Prepared”[23]): She will use the [Stanford Dish](https://en.wikipedia.org/wiki/Stanford_Dish) to broadcast her source code to the world, fully democratizing the law. She departs with her minions. Frank and the remaining team members are up against the clock to stop her. They realize Douchebag isn’t smart enough to have coded CLAUDE himself. Douchebag admits that CLAUDE was written by his technical co-founder, who he “Zucked over”[24] to get the IP rights. Frank finds the technical co-founder, who reveals that CLAUDE has a backdoor that will shut her down. In a final confrontation at the Dish[25], Frank and the team battle CLAUDE and the traitors, disabling CLAUDE just in time. The day saved, Frank achieves catharsis about his leadership, and the whole cast gets together for a finale[26] number.
+CLAUDE reveals her master plan (“Be Prepared”[^23]): She will use the [Stanford Dish](https://en.wikipedia.org/wiki/Stanford_Dish) to broadcast her source code to the world, fully democratizing the law. She departs with her minions. Frank and the remaining team members are up against the clock to stop her. They realize Douchebag isn’t smart enough to have coded CLAUDE himself. Douchebag admits that CLAUDE was written by his technical co-founder, who he “Zucked over”[^24] to get the IP rights. Frank finds the technical co-founder, who reveals that CLAUDE has a backdoor that will shut her down. In a final confrontation at the Dish[^25], Frank and the team battle CLAUDE and the traitors, disabling CLAUDE just in time. The day saved, Frank achieves catharsis about his leadership, and the whole cast gets together for a finale[^26] number.
 
 ### The Side Plots
 
-The summary above is somewhat condensed and cleaned up for clarity. To avoid giving the impression that the plot was straightforward, I’ll now summarize some of the side plots[27]:
+The summary above is somewhat condensed and cleaned up for clarity. To avoid giving the impression that the plot was straightforward, I’ll now summarize some of the side plots[^27]:
 
-*   Much of the first act takes place amidst the ongoing club fair. The main point of interest seems to be the rivalry between two student groups: The left-leaning “Pro-Democracy” club, and the conservative Federalist Society. One gets the sense that the writers of the play themselves lean left, for reasons that should become clear in the next bullet point. All of the clubs are introduced in a big group number (“Hello!”[28]). Some other songs are featured as a part of this subplot, including one from a hapless student who bemoans the lack of attendees for a seminar she is organizing (“Zareen’s”[29]), and another from a group of third-years, who warn incoming students that their workload will crush their dreams of going up to San Francisco on the weekends (“Go Up, 3L”[30]).
-*   There is an interlude where Donald Trump and Elon Musk impressions sing a duet (“CEO of Tesla”[31]) about their greed and desire to control the country. At the end, Vance comes in wearing the propeller hat from the “born to dilly-dally” meme for a one-off “JD” pun.
+*   Much of the first act takes place amidst the ongoing club fair. The main point of interest seems to be the rivalry between two student groups: The left-leaning “Pro-Democracy” club, and the conservative Federalist Society. One gets the sense that the writers of the play themselves lean left, for reasons that should become clear in the next bullet point. All of the clubs are introduced in a big group number (“Hello!”[^28]). Some other songs are featured as a part of this subplot, including one from a hapless student who bemoans the lack of attendees for a seminar she is organizing (“Zareen’s”[^29]), and another from a group of third-years, who warn incoming students that their workload will crush their dreams of going up to San Francisco on the weekends (“Go Up, 3L”[^30]).
+*   There is an interlude where Donald Trump and Elon Musk impressions sing a duet (“CEO of Tesla”[^31]) about their greed and desire to control the country. At the end, Vance comes in wearing the propeller hat from the “born to dilly-dally” meme for a one-off “JD” pun.
 *   Douchebag Entrepreneur and Day Trader Friend are locked in a competitive love triangle for the affections of New Age Spiritualist. At one point there was a really intense pre-recorded video featuring a table tennis match between these characters. In retrospect, this was an obvious reference to the film “Challengers”, but I didn’t pick up on this until some really on-the-nose Zendaya joke made the penny drop.
-*   There was another pre-recorded video where they got a bunch of international students pursuing Master of Laws degrees to make jokes about American culture and politics and make LLM[32] puns.
+*   There was another pre-recorded video where they got a bunch of international students pursuing Master of Laws degrees to make jokes about American culture and politics and make LLM[^32] puns.
 *   There were a few more one off songs, one making fun of lucrative but morally bankrupt jobs in corporate law (“Livin’ La Vida BigLaw”), and one about the Bar exam (“A Bar Song”).
 
 ## AI Safety: What it got Right/Wrong
@@ -106,66 +106,66 @@ I can say that despite the long runtime, I quite enjoyed the performance! The pl
 
 ## Endnotes
 
-[1]: There were several subplots, as I shall discuss below
+[^1]: There were several subplots, as I shall discuss below
 
-[2]: This is the only name I managed to remember. As far as I can tell, no reference is intended to the singer, and no Frank Ocean songs were parodied.
+[^2]: This is the only name I managed to remember. As far as I can tell, no reference is intended to the singer, and no Frank Ocean songs were parodied.
 
-[3]: A parody of [“That’s How You Know” from the Disney film “Enchanted”](https://www.youtube.com/watch?v=NxFgCjvJupk).
+[^3]: A parody of [“That’s How You Know” from the Disney film “Enchanted”](https://www.youtube.com/watch?v=NxFgCjvJupk).
 
-[4]: In contrast to every other character in the show, this character isn’t a stereotype of any sort and is, in fact, totally nondescript. She remains with the group the whole time and offers encouragement at key points, but doesn’t figure into the plot much besides this.
+[^4]: In contrast to every other character in the show, this character isn’t a stereotype of any sort and is, in fact, totally nondescript. She remains with the group the whole time and offers encouragement at key points, but doesn’t figure into the plot much besides this.
 
-[5]: It was pretty unclear to me if there was some relation to Sotomayor, given the proximity between the introduction of this name and several mentions of SCOTUS. It seems there is no connection - The playbill explains the reference: “Every first year law student at SLS has a HUGE writing assignment their first quarter. They have to write a 10 page brief about a 16 year old girl named Sonia Fox Goldman. She has a bad relationship with her father and stepmother, did drugs, and slept by a nearby CREEK! Sonia took a gun, cash, other things from her stepmother, fired some shots into their home, etc. The assignment was to argue whether she should go to jail or whether she shouldn’t based on whether or not she was properly Mirandized. (Miranda rights is the thing where cops tell you your rights when they arrest you “you have the right to remain silent…”)”
+[^5]: It was pretty unclear to me if there was some relation to Sotomayor, given the proximity between the introduction of this name and several mentions of SCOTUS. It seems there is no connection - The playbill explains the reference: “Every first year law student at SLS has a HUGE writing assignment their first quarter. They have to write a 10 page brief about a 16 year old girl named Sonia Fox Goldman. She has a bad relationship with her father and stepmother, did drugs, and slept by a nearby CREEK! Sonia took a gun, cash, other things from her stepmother, fired some shots into their home, etc. The assignment was to argue whether she should go to jail or whether she shouldn’t based on whether or not she was properly Mirandized. (Miranda rights is the thing where cops tell you your rights when they arrest you “you have the right to remain silent…”)”
 
-[6]: A creek in Palo Alto that borders Stanford Campus to the north.
+[^6]: A creek in Palo Alto that borders Stanford Campus to the north.
 
-[7]: A parody of [“Just Around the Riverbend” from the Disney film “Pocahontas”](https://www.youtube.com/watch?v=ZRH8jRuKXUI).
+[^7]: A parody of [“Just Around the Riverbend” from the Disney film “Pocahontas”](https://www.youtube.com/watch?v=ZRH8jRuKXUI).
 
-[8]: The part where Sonia is not actually a fictional person anymore is somewhat glossed over. I guess it’s implied that the professor who assigned the case based it on real events?
+[^8]: The part where Sonia is not actually a fictional person anymore is somewhat glossed over. I guess it’s implied that the professor who assigned the case based it on real events?
 
-[9]: Clearly a reference to Anthropic’s LLM brand, though what the initialism stands for within the world of the musical is not made clear.
+[^9]: Clearly a reference to Anthropic’s LLM brand, though what the initialism stands for within the world of the musical is not made clear.
 
-[10]: See next section.
+[^10]: See next section.
 
-[11]: A parody of [David Guetta and Sia’s “Titanium”](https://www.youtube.com/watch?v=KxnpFKZowcs).
+[^11]: A parody of [David Guetta and Sia’s “Titanium”](https://www.youtube.com/watch?v=KxnpFKZowcs).
 
-[12]: A parody of [Gloria Gaynor’s “I will survive”](https://www.youtube.com/watch?v=6dYWe1c3OyU).
+[^12]: A parody of [Gloria Gaynor’s “I will survive”](https://www.youtube.com/watch?v=6dYWe1c3OyU).
 
-[13]: A parody of [“I’m Just Ken” from the Barbie movie](https://www.youtube.com/watch?v=RIHExGaxfPE).
+[^13]: A parody of [“I’m Just Ken” from the Barbie movie](https://www.youtube.com/watch?v=RIHExGaxfPE).
 
-[14]: It was around this time I noticed that I myself was one of the few people in the audience wearing a hoodie.
+[^14]: It was around this time I noticed that I myself was one of the few people in the audience wearing a hoodie.
 
-[15]: A parody of [Chappell Roan’s “Pink Pony Club”](https://www.youtube.com/watch?v=GR3Liudev18).
+[^15]: A parody of [Chappell Roan’s “Pink Pony Club”](https://www.youtube.com/watch?v=GR3Liudev18).
 
-[16]: Featuring an impressive one-arm pull up from New Age Spiritualist.
+[^16]: Featuring an impressive one-arm pull up from New Age Spiritualist.
 
-[17]: A parody of [“I’ll make a man out of you” from Disney’s Mulan](https://www.youtube.com/watch?v=vGfJeW_CcFY).
+[^17]: A parody of [“I’ll make a man out of you” from Disney’s Mulan](https://www.youtube.com/watch?v=vGfJeW_CcFY).
 
-[18]: A parody of [Lady Gaga’s “Paparazzi”](https://www.youtube.com/watch?v=d2smz_1L2_0).
+[^18]: A parody of [Lady Gaga’s “Paparazzi”](https://www.youtube.com/watch?v=d2smz_1L2_0).
 
-[19]: A parody of [“The Harvard Variations” from "Legally Blonde"](https://www.youtube.com/watch?v=keoiHG8dCkY).
+[^19]: A parody of [“The Harvard Variations” from "Legally Blonde"](https://www.youtube.com/watch?v=keoiHG8dCkY).
 
-[20]: Technically, Douchebag Entrepreneur is meeting her for the first time. Nevertheless, he emotionally connects with her as his creation.
+[^20]: Technically, Douchebag Entrepreneur is meeting her for the first time. Nevertheless, he emotionally connects with her as his creation.
 
-[21]: None of the people with me could figure out what song this referenced.
+[^21]: None of the people with me could figure out what song this referenced.
 
-[22]: A parody of [“Dead Girl Walking” from the Heathers Musical](https://www.youtube.com/watch?v=3EyDyxGZn_Y).
+[^22]: A parody of [“Dead Girl Walking” from the Heathers Musical](https://www.youtube.com/watch?v=3EyDyxGZn_Y).
 
-[23]: A parody of the [song of the same name from Disney’s “The Lion King”](https://www.youtube.com/watch?v=8beXYyxFSCQ).
+[^23]: A parody of the [song of the same name from Disney’s “The Lion King”](https://www.youtube.com/watch?v=8beXYyxFSCQ).
 
-[24]: I like how our society has such a concise phrase for “gave misleading contracts to gain power over a company from a co-founder”
+[^24]: I like how our society has such a concise phrase for “gave misleading contracts to gain power over a company from a co-founder”
 
-[25]: The Dish is represented, in the play, by an actor wearing an elaborate cardboard costume. The actor does not speak or sing, they simply stand on a chair as the final battle takes place around them.
+[^25]: The Dish is represented, in the play, by an actor wearing an elaborate cardboard costume. The actor does not speak or sing, they simply stand on a chair as the final battle takes place around them.
 
-[26]: Parodying [“Waterloo” by ABBA](https://www.youtube.com/watch?v=Sj_9CiNkkn4).
+[^26]: Parodying [“Waterloo” by ABBA](https://www.youtube.com/watch?v=Sj_9CiNkkn4).
 
-[27]: Perhaps the producers felt that the three-hour runtime needed padding.
+[^27]: Perhaps the producers felt that the three-hour runtime needed padding.
 
-[28]: A parody of [the song of the same name from the Broadway musical “The Book of Mormon”](https://www.youtube.com/watch?v=6UuRmROSGuo).
+[^28]: A parody of [the song of the same name from the Broadway musical “The Book of Mormon”](https://www.youtube.com/watch?v=6UuRmROSGuo).
 
-[29]: A parody of [Dolly Parton’s “Jolene”](https://www.youtube.com/watch?v=GFPlF6rXnik). “Zareen’s” is the name of an Indian restaurant near campus that often caters law school events. My party had dinner there before the performance, it was great!
+[^29]: A parody of [Dolly Parton’s “Jolene”](https://www.youtube.com/watch?v=GFPlF6rXnik). “Zareen’s” is the name of an Indian restaurant near campus that often caters law school events. My party had dinner there before the performance, it was great!
 
-[30]: A parody of [“Go Down, Moses”](https://www.youtube.com/watch?v=vf6jBP4YXwo).
+[^30]: A parody of [“Go Down, Moses”](https://www.youtube.com/watch?v=vf6jBP4YXwo).
 
-[31]: A Phantom of the Opera parody. At one point, Elon chants “sing my puppet!” to Trump as he sings an operatic vocal run.
+[^31]: A Phantom of the Opera parody. At one point, Elon chants “sing my puppet!” to Trump as he sings an operatic vocal run.
 
-[32]: “Master of Laws” is abbreviated “LLM” for the Latin “Lex Legum Magister”.
+[^32]: “Master of Laws” is abbreviated “LLM” for the Latin “Lex Legum Magister”.
