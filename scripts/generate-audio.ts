@@ -35,11 +35,12 @@ const SAMPLE_RATE = 24000; // Gemini TTS output: 16-bit mono PCM at 24kHz
 // good) early-generation state every ~70s; the style prompt keeps the
 // delivery anchored across seams.
 const MAX_CHUNK_CHARS = 1100;
-// 2.5-flash won the ghosts bake-off: quality on par with 3.1 once chunks
-// are short + re-rolled, half the price, and a workable daily quota
-// (3.1-flash-tts allows only 100 requests/day at our tier).
-const DEFAULT_MODEL = 'gemini-2.5-flash-preview-tts';
-const DEFAULT_VOICE = 'Charon';
+// gpt-4o-mini-tts (Sage) won the final bake-off: pacing consistency at
+// least as good as gemini-2.5-flash, ~$0.015/min, and 5,000 req/min rate
+// limits vs Gemini's 100 req/day. Gemini models remain available via
+// --model for comparison runs.
+const DEFAULT_MODEL = 'gpt-4o-mini-tts';
+const DEFAULT_VOICE = 'sage';
 const STYLE_INSTRUCTIONS =
   'Narrate in a warm, measured, engaged audiobook style. ' +
   'Keep a steady, unhurried pace throughout — never rush, even through plot summaries, lists, or asides.';
@@ -333,8 +334,8 @@ async function main() {
   if (!apiKey) {
     throw new Error(`${openai ? 'OPENAI' : 'GEMINI'}_API_KEY not set (expected in .env.local)`);
   }
-  if (openai && args.voices.length === 1 && args.voices[0] === DEFAULT_VOICE) {
-    args.voices = ['sage'];
+  if (!openai && args.voices.length === 1 && args.voices[0] === DEFAULT_VOICE) {
+    args.voices = ['Sulafat']; // Gemini's bake-off voice
   }
 
   const file = findReviewFile(args.slug);
