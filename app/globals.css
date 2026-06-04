@@ -164,3 +164,16 @@
   color: hsl(var(--muted-foreground));
   margin-top: 0.5em;
 }
+
+/* Narration follow-along (AudioPlayer). The currently spoken word's
+ * ::highlight(audio-word) rule lives in a <style> tag inside the
+ * AudioPlayer component — Lightning CSS rejects the highlight
+ * pseudo-element, so it can't go through the bundler. The current
+ * paragraph gets a gentle tint so listeners can find their place even
+ * where the Highlight API is unsupported. */
+.audio-current-para {
+  background-color: hsl(var(--accent) / 0.6);
+  border-radius: 0.25rem;
+  box-shadow: 0 0 0 0.4rem hsl(var(--accent) / 0.6);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}

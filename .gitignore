@@ -66,6 +66,10 @@ next-env.d.ts
 data/stripped-leading-title.log
 .image-cache.json
 
+# Generated narration audio (local artifacts; served from R2)
+/public/audio/
+/.audio-work/
+
 # ePub build artifacts
 /dist/
 /.epub-image-cache/

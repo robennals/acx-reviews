@@ -6,7 +6,12 @@
  * with a HEAD-then-PUT pattern for idempotency.
  */
 
-import { S3Client, HeadObjectCommand, PutObjectCommand } from '@aws-sdk/client-s3';
+import {
+  S3Client,
+  HeadObjectCommand,
+  PutObjectCommand,
+  DeleteObjectCommand,
+} from '@aws-sdk/client-s3';
 
 function requireEnv(name: string): string {
   const value = process.env[name];
@@ -35,6 +40,36 @@ function getClient(): { client: S3Client; bucket: string; publicBase: string } {
     credentials: { accessKeyId, secretAccessKey },
   });
   return { client: cachedClient, bucket: cachedBucket, publicBase: cachedPublicBase };
+}
+
+/**
+ * Upload an object to R2 unconditionally (overwrites any existing object).
+ * Used for slug-keyed assets like narration audio, where regeneration
+ * must replace the previous version. Returns the public URL.
+ */
+export async function uploadObject(
+  key: string,
+  body: Buffer,
+  contentType: string,
+  cacheControl?: string
+): Promise<string> {
+  const { client, bucket, publicBase } = getClient();
+  await client.send(
+    new PutObjectCommand({
+      Bucket: bucket,
+      Key: key,
+      Body: body,
+      ContentType: contentType,
+      ...(cacheControl ? { CacheControl: cacheControl } : {}),
+    })
+  );
+  return `${publicBase}/${key}`;
+}
+
+/** Delete an object from R2 (no error if it doesn't exist). */
+export async function deleteObject(key: string): Promise<void> {
+  const { client, bucket } = getClient();
+  await client.send(new DeleteObjectCommand({ Bucket: bucket, Key: key }));
 }
 
 /**

@@ -1,0 +1,4 @@
+{
+  "$$\\frac{M!(N-r)!}{(M-r)!N!}$$": "M factorial times (N minus r) factorial, divided by (M minus r) factorial times N factorial",
+  "$$\\left(\\frac{M}{N}\\right)^r$$": "M over N, all raised to the power r"
+}

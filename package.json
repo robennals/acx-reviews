@@ -78,6 +78,7 @@
     "tsx": "^4.19.2",
     "turndown": "^7.2.0",
     "typescript": "^5",
+    "undici": "^8.3.0",
     "unified": "^11.0.5"
   },
   "pnpm": {

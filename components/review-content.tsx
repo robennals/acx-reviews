@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+import { useEffect, useMemo, useRef } from 'react';
 import type { ReviewFootnote } from '@/lib/types';
 import { FootnoteProvider, useFootnotes } from './footnote-context';
 import { FootnoteSheet } from './footnote-sheet';
@@ -14,6 +14,11 @@ interface ReviewContentProps {
 function Body({ contentHtml, className }: { contentHtml: string; className?: string }) {
   const ref = useRef<HTMLDivElement>(null);
   const { open } = useFootnotes();
+  // Stable object identity: React re-applies dangerouslySetInnerHTML when
+  // the wrapper object changes even if __html is the same string, which
+  // would replace every DOM node in the article on each footnote
+  // open/close — detaching the audio player's word-highlight Ranges.
+  const html = useMemo(() => ({ __html: contentHtml }), [contentHtml]);
 
   useEffect(() => {
     const node = ref.current;
@@ -34,8 +39,9 @@ function Body({ contentHtml, className }: { contentHtml: string; className?: str
   return (
     <div
       ref={ref}
+      data-review-body
       className={`prose dark:prose-invert ${className || ''}`}
-      dangerouslySetInnerHTML={{ __html: contentHtml }}
+      dangerouslySetInnerHTML={html}
     />
   );
 }
