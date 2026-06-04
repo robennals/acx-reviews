@@ -169,6 +169,29 @@ function main() {
     process.exit(1);
   }
 
+  // Validate: slugs must be unique across ALL contests. The URL scheme is
+  // /reviews/<slug> with no contest in the path, and review ids (= slugs) key
+  // votes, favorites, progress, and React list keys. The importers only
+  // dedupe slugs within their own contest directory, so a cross-contest
+  // collision (this happened with "A Swim in a Pond in the Rain", 2022 vs
+  // 2026) sails through unless we fail here. Resolve collisions with
+  // scripts/dedupe-cross-contest.ts.
+  const slugCounts = new Map<string, Review[]>();
+  for (const r of reviews) {
+    const arr = slugCounts.get(r.slug) ?? [];
+    arr.push(r);
+    slugCounts.set(r.slug, arr);
+  }
+  const collisions = Array.from(slugCounts.entries()).filter(([, v]) => v.length > 1);
+  if (collisions.length > 0) {
+    console.error(`\n❌ ${collisions.length} slug(s) used by more than one review:`);
+    for (const [slug, rs] of collisions) {
+      console.error(`   ${slug}: ${rs.map(r => r.contestId).join(', ')}`);
+    }
+    console.error(`\nRun \`tsx scripts/dedupe-cross-contest.ts --apply\` (or rename manually) and re-run generate-index.`);
+    process.exit(1);
+  }
+
   // Write index
   fs.writeFileSync(INDEX_PATH, JSON.stringify(reviews, null, 2), 'utf8');
   console.log(`\n✅ Generated index with ${reviews.length} reviews: ${INDEX_PATH}`);

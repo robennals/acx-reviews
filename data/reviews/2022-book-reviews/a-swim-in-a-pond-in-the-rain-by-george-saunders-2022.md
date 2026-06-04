@@ -6,7 +6,7 @@ contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.688Z'
-slug: a-swim-in-a-pond-in-the-rain-by-george-saunders
+slug: a-swim-in-a-pond-in-the-rain-by-george-saunders-2022
 wordCount: 1520
 readingTimeMinutes: 7
 originalUrl: >-
