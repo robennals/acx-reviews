@@ -268,11 +268,11 @@ Bill Murray would tell you about time he came out the other end of a troubling p
 
 The Song of the Lark, by Jules Breton, 1884
 
+A lone peasant girl pauses her work to listen to a lark singing in the distance
+
 </figcaption>
 
 </figure>
-
-A lone peasant girl pauses her work to listen to a lark singing in the distance
 
 Like in the case of humanities, De Botton argues that we should organize paintings and sculptures according to useful categories.
 
@@ -333,11 +333,11 @@ As per Plato’s advice that philosophers should become kings or kings should be
 
 James Patterson is considered the most well paid individual author in the world.
 
+“The other 99% of authors would not even register on the graph.”
+
 </figcaption>
 
 </figure>
-
-> “The other 99% of authors would not even register on the graph.”
 
 Institutions with deep pockets can attract those in search of both a comfortable life and an opportunity to positively impact the world. Consider, de Botton says, the differences between Thomas Aquinas and Friederich Nietzsche. Aquinas benefited from the perks offered by the University of Paris and then the theological college he established in Naples. Whereas Nietzsche felt that he was living “like an animal chased out from all dens”. Although seen as an example of heroic individualism, Nietzsche would have wanted nothing more than to trade isolation for a university that would grant his ideas a greater impact on the world.
 
