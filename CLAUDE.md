@@ -38,10 +38,11 @@ pnpm db:push          # Apply lib/db/schema.ts to the configured DB
 pnpm db:studio        # Open Drizzle Studio
 
 # Narration audio (per review slug, in order)
-pnpm exec tsx scripts/generate-audio.ts <slug> --voice Sulafat   # Gemini TTS -> mp3 + timings (~$0.02/1k chars)
-uv run scripts/align-audio.py <slug>                             # whisperX -> word timings JSON
-pnpm exec tsx scripts/upload-audio.ts <slug>                     # R2 upload + data/audio-manifest.json
-pnpm exec tsx scripts/check-audio.ts [slug ...]                  # validate outputs (default: all)
+pnpm exec tsx scripts/generate-audio.ts <slug>      # gpt-4o-mini-tts (Sage) -> m4a + timings (~$0.015/min)
+uv run scripts/align-audio.py <slug>                # whisperX -> word timings JSON
+pnpm exec tsx scripts/upload-audio.ts <slug>        # R2 upload + data/audio-manifest.json
+pnpm exec tsx scripts/check-audio.ts [slug ...]     # validate outputs (default: all)
+./scripts/batch-2026-audio.sh                       # everything not yet in the manifest
 ```
 
 ## Narration audio
@@ -49,9 +50,12 @@ pnpm exec tsx scripts/check-audio.ts [slug ...]                  # validate outp
 Reviews with an entry in `data/audio-manifest.json` get a **Listen** button
 (`components/audio-player.tsx`): word-level follow-along highlighting (CSS
 Custom Highlight API), paragraph auto-scroll, click-a-word seeking, speed
-control, resume. Word timings come from local whisperX forced alignment of
-the known text against the generated audio — Gemini TTS returns no
-timestamps. MP3s and word JSONs live on R2 under `audio/`; the JSON is
+control, resume. Narration is gpt-4o-mini-tts (voice Sage, ~5.5k-char
+chunks); Gemini models are available via --model but need ~70s chunks
+(within-generation drift) and have a 100-requests/day quota — unusable in
+bulk. Word timings come from local whisperX forced alignment of the known
+text against the generated audio — neither TTS returns timestamps. Audio
+(.m4a) and word JSONs live on R2 under `audio/`; the JSON is
 served through `/api/audio-words/[slug]` because the bucket has no CORS
 config (the R2 token can't set one). LaTeX equations are replaced with
 hand-written spoken English from `data/equation-speech.json` (exact-string

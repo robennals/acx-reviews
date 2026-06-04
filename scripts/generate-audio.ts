@@ -381,7 +381,9 @@ async function main() {
     ? JSON.parse(readFileSync('data/equation-speech.json', 'utf8'))
     : {};
   const spoken = applyEquationSpeech(content, equationMap);
-  const leftoverMath = spoken.match(/\$[^$\n]+\$/g);
+  // Require LaTeX-ish content (a backslash command or ^/_ scripts) so plain
+  // dollar amounts ('$12 ... $3.50') don't trip the warning.
+  const leftoverMath = spoken.match(/\$[^$\n]*(?:\\[a-zA-Z]+|[^$\n][\^_])[^$\n]*\$/g);
   if (leftoverMath) {
     console.warn(
       `  WARNING: ${leftoverMath.length} unmapped $…$ spans (add to data/equation-speech.json):`,

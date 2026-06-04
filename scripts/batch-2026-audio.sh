@@ -21,16 +21,7 @@ PY
 total=$(wc -l < /tmp/slugs-remaining.txt | tr -d ' ')
 echo "=== PHASE 1: generate+align $total reviews, 3 workers ($(date +%H:%M:%S)) ==="
 
-xargs -P 3 -I {} zsh -c '
-  slug="{}"
-  log=".audio-work/logs/$slug.log"
-  if pnpm exec tsx scripts/generate-audio.ts "$slug" > "$log" 2>&1 \
-     && uv run scripts/align-audio.py "$slug" >> "$log" 2>&1; then
-    echo "OK   $slug ($(date +%H:%M:%S))"
-  else
-    echo "FAIL $slug ($(date +%H:%M:%S))"
-  fi
-' < /tmp/slugs-remaining.txt
+xargs -P 4 -n 1 scripts/audio-worker.sh < /tmp/slugs-remaining.txt
 
 echo "=== PHASE 2: serial uploads ($(date +%H:%M:%S)) ==="
 while read -r slug; do

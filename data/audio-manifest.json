@@ -1,10 +1,290 @@
 {
+  "17776-by-jon-bois": {
+    "audioUrl": "https://acximages.ennals.org/audio/17776-by-jon-bois.m4a",
+    "wordsUrl": "/api/audio-words/17776-by-jon-bois",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/17776-by-jon-bois.words.json",
+    "durationSeconds": 1292,
+    "voice": "sage"
+  },
+  "1984-by-george-orwell": {
+    "audioUrl": "https://acximages.ennals.org/audio/1984-by-george-orwell.m4a",
+    "wordsUrl": "/api/audio-words/1984-by-george-orwell",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/1984-by-george-orwell.words.json",
+    "durationSeconds": 2286.7,
+    "voice": "sage"
+  },
+  "a-christmas-carol-by-charles-dickens": {
+    "audioUrl": "https://acximages.ennals.org/audio/a-christmas-carol-by-charles-dickens.m4a",
+    "wordsUrl": "/api/audio-words/a-christmas-carol-by-charles-dickens",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/a-christmas-carol-by-charles-dickens.words.json",
+    "durationSeconds": 1892.7,
+    "voice": "sage"
+  },
+  "a-game-of-thrones": {
+    "audioUrl": "https://acximages.ennals.org/audio/a-game-of-thrones.m4a",
+    "wordsUrl": "/api/audio-words/a-game-of-thrones",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/a-game-of-thrones.words.json",
+    "durationSeconds": 440.5,
+    "voice": "sage"
+  },
+  "a-history-of-the-jews": {
+    "audioUrl": "https://acximages.ennals.org/audio/a-history-of-the-jews.m4a",
+    "wordsUrl": "/api/audio-words/a-history-of-the-jews",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/a-history-of-the-jews.words.json",
+    "durationSeconds": 1054,
+    "voice": "sage"
+  },
+  "a-poor-wise-man": {
+    "audioUrl": "https://acximages.ennals.org/audio/a-poor-wise-man.m4a",
+    "wordsUrl": "/api/audio-words/a-poor-wise-man",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/a-poor-wise-man.words.json",
+    "durationSeconds": 1207.2,
+    "voice": "sage"
+  },
+  "a-residence-of-twenty-one-years-in-the-sandwich-islands": {
+    "audioUrl": "https://acximages.ennals.org/audio/a-residence-of-twenty-one-years-in-the-sandwich-islands.m4a",
+    "wordsUrl": "/api/audio-words/a-residence-of-twenty-one-years-in-the-sandwich-islands",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/a-residence-of-twenty-one-years-in-the-sandwich-islands.words.json",
+    "durationSeconds": 3017.7,
+    "voice": "sage"
+  },
   "a-secular-age": {
     "audioUrl": "https://acximages.ennals.org/audio/a-secular-age.m4a",
     "wordsUrl": "/api/audio-words/a-secular-age",
     "r2WordsUrl": "https://acximages.ennals.org/audio/a-secular-age.words.json",
     "durationSeconds": 1961,
     "voice": "Sulafat"
+  },
+  "a-world-appears-by-michael-pollan": {
+    "audioUrl": "https://acximages.ennals.org/audio/a-world-appears-by-michael-pollan.m4a",
+    "wordsUrl": "/api/audio-words/a-world-appears-by-michael-pollan",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/a-world-appears-by-michael-pollan.words.json",
+    "durationSeconds": 1433.6,
+    "voice": "sage"
+  },
+  "aesopian-language-in-russian-literature": {
+    "audioUrl": "https://acximages.ennals.org/audio/aesopian-language-in-russian-literature.m4a",
+    "wordsUrl": "/api/audio-words/aesopian-language-in-russian-literature",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/aesopian-language-in-russian-literature.words.json",
+    "durationSeconds": 2723.5,
+    "voice": "sage"
+  },
+  "agatha-christies-works": {
+    "audioUrl": "https://acximages.ennals.org/audio/agatha-christies-works.m4a",
+    "wordsUrl": "/api/audio-words/agatha-christies-works",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/agatha-christies-works.words.json",
+    "durationSeconds": 1097.8,
+    "voice": "sage"
+  },
+  "alice-in-puzzle-land-by-raymond-smullyan": {
+    "audioUrl": "https://acximages.ennals.org/audio/alice-in-puzzle-land-by-raymond-smullyan.m4a",
+    "wordsUrl": "/api/audio-words/alice-in-puzzle-land-by-raymond-smullyan",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/alice-in-puzzle-land-by-raymond-smullyan.words.json",
+    "durationSeconds": 1074.7,
+    "voice": "sage"
+  },
+  "antonio-damasios-feeling-knowing-making-minds-conscious": {
+    "audioUrl": "https://acximages.ennals.org/audio/antonio-damasios-feeling-knowing-making-minds-conscious.m4a",
+    "wordsUrl": "/api/audio-words/antonio-damasios-feeling-knowing-making-minds-conscious",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/antonio-damasios-feeling-knowing-making-minds-conscious.words.json",
+    "durationSeconds": 2509.8,
+    "voice": "sage"
+  },
+  "application-for-release-from-the-dream": {
+    "audioUrl": "https://acximages.ennals.org/audio/application-for-release-from-the-dream.m4a",
+    "wordsUrl": "/api/audio-words/application-for-release-from-the-dream",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/application-for-release-from-the-dream.words.json",
+    "durationSeconds": 1258.4,
+    "voice": "sage"
+  },
+  "ballpark-baseball-in-the-american-city": {
+    "audioUrl": "https://acximages.ennals.org/audio/ballpark-baseball-in-the-american-city.m4a",
+    "wordsUrl": "/api/audio-words/ballpark-baseball-in-the-american-city",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/ballpark-baseball-in-the-american-city.words.json",
+    "durationSeconds": 3293.9,
+    "voice": "sage"
+  },
+  "being-you-a-new-science-of-consciousness-by-anil-seth": {
+    "audioUrl": "https://acximages.ennals.org/audio/being-you-a-new-science-of-consciousness-by-anil-seth.m4a",
+    "wordsUrl": "/api/audio-words/being-you-a-new-science-of-consciousness-by-anil-seth",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/being-you-a-new-science-of-consciousness-by-anil-seth.words.json",
+    "durationSeconds": 4208.4,
+    "voice": "sage"
+  },
+  "bellum-catilinae-the-catiline-conspiracy": {
+    "audioUrl": "https://acximages.ennals.org/audio/bellum-catilinae-the-catiline-conspiracy.m4a",
+    "wordsUrl": "/api/audio-words/bellum-catilinae-the-catiline-conspiracy",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/bellum-catilinae-the-catiline-conspiracy.words.json",
+    "durationSeconds": 2836,
+    "voice": "sage"
+  },
+  "between-two-fires": {
+    "audioUrl": "https://acximages.ennals.org/audio/between-two-fires.m4a",
+    "wordsUrl": "/api/audio-words/between-two-fires",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/between-two-fires.words.json",
+    "durationSeconds": 959.9,
+    "voice": "sage"
+  },
+  "bleeding-edge-by-thomas-pynchon": {
+    "audioUrl": "https://acximages.ennals.org/audio/bleeding-edge-by-thomas-pynchon.m4a",
+    "wordsUrl": "/api/audio-words/bleeding-edge-by-thomas-pynchon",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/bleeding-edge-by-thomas-pynchon.words.json",
+    "durationSeconds": 2243.2,
+    "voice": "sage"
+  },
+  "breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-action": {
+    "audioUrl": "https://acximages.ennals.org/audio/breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-action.m4a",
+    "wordsUrl": "/api/audio-words/breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-action",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-action.words.json",
+    "durationSeconds": 3170.7,
+    "voice": "sage"
+  },
+  "bronze-age-mindset-an-exhortation": {
+    "audioUrl": "https://acximages.ennals.org/audio/bronze-age-mindset-an-exhortation.m4a",
+    "wordsUrl": "/api/audio-words/bronze-age-mindset-an-exhortation",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/bronze-age-mindset-an-exhortation.words.json",
+    "durationSeconds": 3790.3,
+    "voice": "sage"
+  },
+  "brook-farm-the-dark-side-of-utopia": {
+    "audioUrl": "https://acximages.ennals.org/audio/brook-farm-the-dark-side-of-utopia.m4a",
+    "wordsUrl": "/api/audio-words/brook-farm-the-dark-side-of-utopia",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/brook-farm-the-dark-side-of-utopia.words.json",
+    "durationSeconds": 5979.6,
+    "voice": "sage"
+  },
+  "candide": {
+    "audioUrl": "https://acximages.ennals.org/audio/candide.m4a",
+    "wordsUrl": "/api/audio-words/candide",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/candide.words.json",
+    "durationSeconds": 981.8,
+    "voice": "sage"
+  },
+  "capitalist-realism": {
+    "audioUrl": "https://acximages.ennals.org/audio/capitalist-realism.m4a",
+    "wordsUrl": "/api/audio-words/capitalist-realism",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/capitalist-realism.words.json",
+    "durationSeconds": 2841.1,
+    "voice": "sage"
+  },
+  "careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism": {
+    "audioUrl": "https://acximages.ennals.org/audio/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism.m4a",
+    "wordsUrl": "/api/audio-words/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism.words.json",
+    "durationSeconds": 2259.5,
+    "voice": "sage"
+  },
+  "catullus-16": {
+    "audioUrl": "https://acximages.ennals.org/audio/catullus-16.m4a",
+    "wordsUrl": "/api/audio-words/catullus-16",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/catullus-16.words.json",
+    "durationSeconds": 1516.9,
+    "voice": "sage"
+  },
+  "chuang-tzu-the-inner-chapters-by-a-c-graham": {
+    "audioUrl": "https://acximages.ennals.org/audio/chuang-tzu-the-inner-chapters-by-a-c-graham.m4a",
+    "wordsUrl": "/api/audio-words/chuang-tzu-the-inner-chapters-by-a-c-graham",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/chuang-tzu-the-inner-chapters-by-a-c-graham.words.json",
+    "durationSeconds": 2851.9,
+    "voice": "sage"
+  },
+  "collected-poems-by-cs-lewis": {
+    "audioUrl": "https://acximages.ennals.org/audio/collected-poems-by-cs-lewis.m4a",
+    "wordsUrl": "/api/audio-words/collected-poems-by-cs-lewis",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/collected-poems-by-cs-lewis.words.json",
+    "durationSeconds": 1407.4,
+    "voice": "sage"
+  },
+  "coriolanus": {
+    "audioUrl": "https://acximages.ennals.org/audio/coriolanus.m4a",
+    "wordsUrl": "/api/audio-words/coriolanus",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/coriolanus.words.json",
+    "durationSeconds": 10540.7,
+    "voice": "sage"
+  },
+  "cry-havoc": {
+    "audioUrl": "https://acximages.ennals.org/audio/cry-havoc.m4a",
+    "wordsUrl": "/api/audio-words/cry-havoc",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/cry-havoc.words.json",
+    "durationSeconds": 2538.7,
+    "voice": "sage"
+  },
+  "cultural-evolution": {
+    "audioUrl": "https://acximages.ennals.org/audio/cultural-evolution.m4a",
+    "wordsUrl": "/api/audio-words/cultural-evolution",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/cultural-evolution.words.json",
+    "durationSeconds": 2782.3,
+    "voice": "sage"
+  },
+  "der-untergang-des-abendlandes": {
+    "audioUrl": "https://acximages.ennals.org/audio/der-untergang-des-abendlandes.m4a",
+    "wordsUrl": "/api/audio-words/der-untergang-des-abendlandes",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/der-untergang-des-abendlandes.words.json",
+    "durationSeconds": 2319.6,
+    "voice": "sage"
+  },
+  "dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed": {
+    "audioUrl": "https://acximages.ennals.org/audio/dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed.m4a",
+    "wordsUrl": "/api/audio-words/dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed.words.json",
+    "durationSeconds": 2464.3,
+    "voice": "sage"
+  },
+  "dont-bang-denmark": {
+    "audioUrl": "https://acximages.ennals.org/audio/dont-bang-denmark.m4a",
+    "wordsUrl": "/api/audio-words/dont-bang-denmark",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/dont-bang-denmark.words.json",
+    "durationSeconds": 1150.6,
+    "voice": "sage"
+  },
+  "dream-of-the-red-chamber": {
+    "audioUrl": "https://acximages.ennals.org/audio/dream-of-the-red-chamber.m4a",
+    "wordsUrl": "/api/audio-words/dream-of-the-red-chamber",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/dream-of-the-red-chamber.words.json",
+    "durationSeconds": 1771,
+    "voice": "sage"
+  },
+  "earth-abides": {
+    "audioUrl": "https://acximages.ennals.org/audio/earth-abides.m4a",
+    "wordsUrl": "/api/audio-words/earth-abides",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/earth-abides.words.json",
+    "durationSeconds": 923.7,
+    "voice": "sage"
+  },
+  "fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states": {
+    "audioUrl": "https://acximages.ennals.org/audio/fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states.m4a",
+    "wordsUrl": "/api/audio-words/fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states.words.json",
+    "durationSeconds": 3906.7,
+    "voice": "sage"
+  },
+  "fear-and-trembling": {
+    "audioUrl": "https://acximages.ennals.org/audio/fear-and-trembling.m4a",
+    "wordsUrl": "/api/audio-words/fear-and-trembling",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/fear-and-trembling.words.json",
+    "durationSeconds": 1031.5,
+    "voice": "sage"
+  },
+  "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
+    "audioUrl": "https://acximages.ennals.org/audio/free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review.m4a",
+    "wordsUrl": "/api/audio-words/free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review.words.json",
+    "durationSeconds": 1312.3,
+    "voice": "sage"
+  },
+  "from-here-to-equality": {
+    "audioUrl": "https://acximages.ennals.org/audio/from-here-to-equality.m4a",
+    "wordsUrl": "/api/audio-words/from-here-to-equality",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/from-here-to-equality.words.json",
+    "durationSeconds": 3640.9,
+    "voice": "sage"
+  },
+  "galileos-error": {
+    "audioUrl": "https://acximages.ennals.org/audio/galileos-error.m4a",
+    "wordsUrl": "/api/audio-words/galileos-error",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/galileos-error.words.json",
+    "durationSeconds": 2447.8,
+    "voice": "sage"
   },
   "ghosts": {
     "audioUrl": "https://acximages.ennals.org/audio/ghosts.m4a",
@@ -13,11 +293,137 @@
     "durationSeconds": 2166.8,
     "voice": "Sulafat"
   },
+  "gilead": {
+    "audioUrl": "https://acximages.ennals.org/audio/gilead.m4a",
+    "wordsUrl": "/api/audio-words/gilead",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/gilead.words.json",
+    "durationSeconds": 1366.2,
+    "voice": "sage"
+  },
+  "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness": {
+    "audioUrl": "https://acximages.ennals.org/audio/great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness.m4a",
+    "wordsUrl": "/api/audio-words/great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness.words.json",
+    "durationSeconds": 7591.6,
+    "voice": "sage"
+  },
+  "harrison-bergeron": {
+    "audioUrl": "https://acximages.ennals.org/audio/harrison-bergeron.m4a",
+    "wordsUrl": "/api/audio-words/harrison-bergeron",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/harrison-bergeron.words.json",
+    "durationSeconds": 2300.5,
+    "voice": "sage"
+  },
+  "headbirths-of-the-germans-are-dying-out-by-gunter-grass": {
+    "audioUrl": "https://acximages.ennals.org/audio/headbirths-of-the-germans-are-dying-out-by-gunter-grass.m4a",
+    "wordsUrl": "/api/audio-words/headbirths-of-the-germans-are-dying-out-by-gunter-grass",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/headbirths-of-the-germans-are-dying-out-by-gunter-grass.words.json",
+    "durationSeconds": 1481.9,
+    "voice": "sage"
+  },
+  "house-of-leaves": {
+    "audioUrl": "https://acximages.ennals.org/audio/house-of-leaves.m4a",
+    "wordsUrl": "/api/audio-words/house-of-leaves",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/house-of-leaves.words.json",
+    "durationSeconds": 574.3,
+    "voice": "sage"
+  },
+  "how-i-killed-pluto-and-why-it-had-it-coming": {
+    "audioUrl": "https://acximages.ennals.org/audio/how-i-killed-pluto-and-why-it-had-it-coming.m4a",
+    "wordsUrl": "/api/audio-words/how-i-killed-pluto-and-why-it-had-it-coming",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/how-i-killed-pluto-and-why-it-had-it-coming.words.json",
+    "durationSeconds": 4719.6,
+    "voice": "sage"
+  },
+  "how-to-prevent-coups-dtat": {
+    "audioUrl": "https://acximages.ennals.org/audio/how-to-prevent-coups-dtat.m4a",
+    "wordsUrl": "/api/audio-words/how-to-prevent-coups-dtat",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/how-to-prevent-coups-dtat.words.json",
+    "durationSeconds": 1269,
+    "voice": "sage"
+  },
+  "imagined-communities-relfections-on-the-origin-and-spread-of-nationalism": {
+    "audioUrl": "https://acximages.ennals.org/audio/imagined-communities-relfections-on-the-origin-and-spread-of-nationalism.m4a",
+    "wordsUrl": "/api/audio-words/imagined-communities-relfections-on-the-origin-and-spread-of-nationalism",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/imagined-communities-relfections-on-the-origin-and-spread-of-nationalism.words.json",
+    "durationSeconds": 1836,
+    "voice": "sage"
+  },
+  "into-the-universe-of-technical-images": {
+    "audioUrl": "https://acximages.ennals.org/audio/into-the-universe-of-technical-images.m4a",
+    "wordsUrl": "/api/audio-words/into-the-universe-of-technical-images",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/into-the-universe-of-technical-images.words.json",
+    "durationSeconds": 1270.3,
+    "voice": "sage"
+  },
+  "inventing-temperature": {
+    "audioUrl": "https://acximages.ennals.org/audio/inventing-temperature.m4a",
+    "wordsUrl": "/api/audio-words/inventing-temperature",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/inventing-temperature.words.json",
+    "durationSeconds": 2088.8,
+    "voice": "sage"
+  },
   "invisible-cities-and-life-a-users-manual": {
     "audioUrl": "https://acximages.ennals.org/audio/invisible-cities-and-life-a-users-manual.m4a",
     "wordsUrl": "/api/audio-words/invisible-cities-and-life-a-users-manual",
     "r2WordsUrl": "https://acximages.ennals.org/audio/invisible-cities-and-life-a-users-manual.words.json",
     "durationSeconds": 2228.8,
+    "voice": "sage"
+  },
+  "kakistocracy-by-richard-hanania": {
+    "audioUrl": "https://acximages.ennals.org/audio/kakistocracy-by-richard-hanania.m4a",
+    "wordsUrl": "/api/audio-words/kakistocracy-by-richard-hanania",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/kakistocracy-by-richard-hanania.words.json",
+    "durationSeconds": 3811.9,
+    "voice": "sage"
+  },
+  "kindness-goes-unpunished": {
+    "audioUrl": "https://acximages.ennals.org/audio/kindness-goes-unpunished.m4a",
+    "wordsUrl": "/api/audio-words/kindness-goes-unpunished",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/kindness-goes-unpunished.words.json",
+    "durationSeconds": 131.6,
+    "voice": "sage"
+  },
+  "king-rat": {
+    "audioUrl": "https://acximages.ennals.org/audio/king-rat.m4a",
+    "wordsUrl": "/api/audio-words/king-rat",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/king-rat.words.json",
+    "durationSeconds": 1056.7,
+    "voice": "sage"
+  },
+  "kristin-lavransdatter": {
+    "audioUrl": "https://acximages.ennals.org/audio/kristin-lavransdatter.m4a",
+    "wordsUrl": "/api/audio-words/kristin-lavransdatter",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/kristin-lavransdatter.words.json",
+    "durationSeconds": 3541.2,
+    "voice": "sage"
+  },
+  "lee-kuan-yews-memoirs": {
+    "audioUrl": "https://acximages.ennals.org/audio/lee-kuan-yews-memoirs.m4a",
+    "wordsUrl": "/api/audio-words/lee-kuan-yews-memoirs",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/lee-kuan-yews-memoirs.words.json",
+    "durationSeconds": 2669.4,
+    "voice": "sage"
+  },
+  "leviathan": {
+    "audioUrl": "https://acximages.ennals.org/audio/leviathan.m4a",
+    "wordsUrl": "/api/audio-words/leviathan",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/leviathan.words.json",
+    "durationSeconds": 1659.7,
+    "voice": "sage"
+  },
+  "meeting-hardly-meeting": {
+    "audioUrl": "https://acximages.ennals.org/audio/meeting-hardly-meeting.m4a",
+    "wordsUrl": "/api/audio-words/meeting-hardly-meeting",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/meeting-hardly-meeting.words.json",
+    "durationSeconds": 2067.7,
+    "voice": "sage"
+  },
+  "mistletoe-and-memorandums-by-claude": {
+    "audioUrl": "https://acximages.ennals.org/audio/mistletoe-and-memorandums-by-claude.m4a",
+    "wordsUrl": "/api/audio-words/mistletoe-and-memorandums-by-claude",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/mistletoe-and-memorandums-by-claude.words.json",
+    "durationSeconds": 4058.5,
     "voice": "sage"
   },
   "moby-dick-or-the-whale": {
@@ -27,12 +433,222 @@
     "durationSeconds": 1826,
     "voice": "Sulafat"
   },
+  "money-by-martin-amis": {
+    "audioUrl": "https://acximages.ennals.org/audio/money-by-martin-amis.m4a",
+    "wordsUrl": "/api/audio-words/money-by-martin-amis",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/money-by-martin-amis.words.json",
+    "durationSeconds": 2396.1,
+    "voice": "sage"
+  },
+  "montaillou-cathars-and-catholics-in-a-french-village-1294-1324": {
+    "audioUrl": "https://acximages.ennals.org/audio/montaillou-cathars-and-catholics-in-a-french-village-1294-1324.m4a",
+    "wordsUrl": "/api/audio-words/montaillou-cathars-and-catholics-in-a-french-village-1294-1324",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/montaillou-cathars-and-catholics-in-a-french-village-1294-1324.words.json",
+    "durationSeconds": 1984.8,
+    "voice": "sage"
+  },
+  "moral-tribes": {
+    "audioUrl": "https://acximages.ennals.org/audio/moral-tribes.m4a",
+    "wordsUrl": "/api/audio-words/moral-tribes",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/moral-tribes.words.json",
+    "durationSeconds": 1171.9,
+    "voice": "sage"
+  },
+  "more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby": {
+    "audioUrl": "https://acximages.ennals.org/audio/more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby.m4a",
+    "wordsUrl": "/api/audio-words/more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby.words.json",
+    "durationSeconds": 6285.2,
+    "voice": "sage"
+  },
+  "mother-of-learning": {
+    "audioUrl": "https://acximages.ennals.org/audio/mother-of-learning.m4a",
+    "wordsUrl": "/api/audio-words/mother-of-learning",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/mother-of-learning.words.json",
+    "durationSeconds": 2173.8,
+    "voice": "sage"
+  },
+  "night-by-elie-wiesel": {
+    "audioUrl": "https://acximages.ennals.org/audio/night-by-elie-wiesel.m4a",
+    "wordsUrl": "/api/audio-words/night-by-elie-wiesel",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/night-by-elie-wiesel.words.json",
+    "durationSeconds": 1713.7,
+    "voice": "sage"
+  },
+  "orality-and-literacy-by-walter-ong": {
+    "audioUrl": "https://acximages.ennals.org/audio/orality-and-literacy-by-walter-ong.m4a",
+    "wordsUrl": "/api/audio-words/orality-and-literacy-by-walter-ong",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/orality-and-literacy-by-walter-ong.words.json",
+    "durationSeconds": 2629.1,
+    "voice": "sage"
+  },
+  "painting-abstract-landscapes": {
+    "audioUrl": "https://acximages.ennals.org/audio/painting-abstract-landscapes.m4a",
+    "wordsUrl": "/api/audio-words/painting-abstract-landscapes",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/painting-abstract-landscapes.words.json",
+    "durationSeconds": 2681.4,
+    "voice": "sage"
+  },
+  "parfit-a-philosopher-and-his-mission-to-save-morality": {
+    "audioUrl": "https://acximages.ennals.org/audio/parfit-a-philosopher-and-his-mission-to-save-morality.m4a",
+    "wordsUrl": "/api/audio-words/parfit-a-philosopher-and-his-mission-to-save-morality",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/parfit-a-philosopher-and-his-mission-to-save-morality.words.json",
+    "durationSeconds": 6346.2,
+    "voice": "sage"
+  },
+  "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
+    "audioUrl": "https://acximages.ennals.org/audio/patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue.m4a",
+    "wordsUrl": "/api/audio-words/patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue.words.json",
+    "durationSeconds": 854.4,
+    "voice": "sage"
+  },
+  "persuasion-of-the-witchs-craft-and-when-god-talks-back": {
+    "audioUrl": "https://acximages.ennals.org/audio/persuasion-of-the-witchs-craft-and-when-god-talks-back.m4a",
+    "wordsUrl": "/api/audio-words/persuasion-of-the-witchs-craft-and-when-god-talks-back",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/persuasion-of-the-witchs-craft-and-when-god-talks-back.words.json",
+    "durationSeconds": 3370.9,
+    "voice": "sage"
+  },
+  "pharmaceutical-freedom-why-patients-have-a-right-to-self-medicate": {
+    "audioUrl": "https://acximages.ennals.org/audio/pharmaceutical-freedom-why-patients-have-a-right-to-self-medicate.m4a",
+    "wordsUrl": "/api/audio-words/pharmaceutical-freedom-why-patients-have-a-right-to-self-medicate",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/pharmaceutical-freedom-why-patients-have-a-right-to-self-medicate.words.json",
+    "durationSeconds": 2414.5,
+    "voice": "sage"
+  },
+  "planecrash-es-yudwkosky": {
+    "audioUrl": "https://acximages.ennals.org/audio/planecrash-es-yudwkosky.m4a",
+    "wordsUrl": "/api/audio-words/planecrash-es-yudwkosky",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/planecrash-es-yudwkosky.words.json",
+    "durationSeconds": 2706.6,
+    "voice": "sage"
+  },
+  "plotting-your-fantasy-novel": {
+    "audioUrl": "https://acximages.ennals.org/audio/plotting-your-fantasy-novel.m4a",
+    "wordsUrl": "/api/audio-words/plotting-your-fantasy-novel",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/plotting-your-fantasy-novel.words.json",
+    "durationSeconds": 1933.4,
+    "voice": "sage"
+  },
+  "plutarchs-parallel-lives-tiberius-and-gaius-gracchi": {
+    "audioUrl": "https://acximages.ennals.org/audio/plutarchs-parallel-lives-tiberius-and-gaius-gracchi.m4a",
+    "wordsUrl": "/api/audio-words/plutarchs-parallel-lives-tiberius-and-gaius-gracchi",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/plutarchs-parallel-lives-tiberius-and-gaius-gracchi.words.json",
+    "durationSeconds": 1877.2,
+    "voice": "sage"
+  },
+  "prior-analytics": {
+    "audioUrl": "https://acximages.ennals.org/audio/prior-analytics.m4a",
+    "wordsUrl": "/api/audio-words/prior-analytics",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/prior-analytics.words.json",
+    "durationSeconds": 2823.4,
+    "voice": "sage"
+  },
+  "probability-theory-the-logic-of-science": {
+    "audioUrl": "https://acximages.ennals.org/audio/probability-theory-the-logic-of-science.m4a",
+    "wordsUrl": "/api/audio-words/probability-theory-the-logic-of-science",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/probability-theory-the-logic-of-science.words.json",
+    "durationSeconds": 1482.2,
+    "voice": "sage"
+  },
+  "progressive-myths": {
+    "audioUrl": "https://acximages.ennals.org/audio/progressive-myths.m4a",
+    "wordsUrl": "/api/audio-words/progressive-myths",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/progressive-myths.words.json",
+    "durationSeconds": 3035.2,
+    "voice": "sage"
+  },
+  "radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear": {
+    "audioUrl": "https://acximages.ennals.org/audio/radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear.m4a",
+    "wordsUrl": "/api/audio-words/radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear.words.json",
+    "durationSeconds": 3453.6,
+    "voice": "sage"
+  },
+  "religion-for-atheists": {
+    "audioUrl": "https://acximages.ennals.org/audio/religion-for-atheists.m4a",
+    "wordsUrl": "/api/audio-words/religion-for-atheists",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/religion-for-atheists.words.json",
+    "durationSeconds": 2168.1,
+    "voice": "sage"
+  },
+  "richard-c-schwartzs-no-bad-parts": {
+    "audioUrl": "https://acximages.ennals.org/audio/richard-c-schwartzs-no-bad-parts.m4a",
+    "wordsUrl": "/api/audio-words/richard-c-schwartzs-no-bad-parts",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/richard-c-schwartzs-no-bad-parts.words.json",
+    "durationSeconds": 1626.6,
+    "voice": "sage"
+  },
+  "scenebux-a-novel": {
+    "audioUrl": "https://acximages.ennals.org/audio/scenebux-a-novel.m4a",
+    "wordsUrl": "/api/audio-words/scenebux-a-novel",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/scenebux-a-novel.words.json",
+    "durationSeconds": 722.8,
+    "voice": "sage"
+  },
+  "seeing-that-frees": {
+    "audioUrl": "https://acximages.ennals.org/audio/seeing-that-frees.m4a",
+    "wordsUrl": "/api/audio-words/seeing-that-frees",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/seeing-that-frees.words.json",
+    "durationSeconds": 1146.6,
+    "voice": "sage"
+  },
+  "siddhartha-1922-by-hermann-hesse": {
+    "audioUrl": "https://acximages.ennals.org/audio/siddhartha-1922-by-hermann-hesse.m4a",
+    "wordsUrl": "/api/audio-words/siddhartha-1922-by-hermann-hesse",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/siddhartha-1922-by-hermann-hesse.words.json",
+    "durationSeconds": 1426.9,
+    "voice": "sage"
+  },
+  "stabilizing-an-unstable-economy": {
+    "audioUrl": "https://acximages.ennals.org/audio/stabilizing-an-unstable-economy.m4a",
+    "wordsUrl": "/api/audio-words/stabilizing-an-unstable-economy",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/stabilizing-an-unstable-economy.words.json",
+    "durationSeconds": 3390.5,
+    "voice": "sage"
+  },
+  "storm-of-steel": {
+    "audioUrl": "https://acximages.ennals.org/audio/storm-of-steel.m4a",
+    "wordsUrl": "/api/audio-words/storm-of-steel",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/storm-of-steel.words.json",
+    "durationSeconds": 2638.3,
+    "voice": "sage"
+  },
+  "summa-technologiae": {
+    "audioUrl": "https://acximages.ennals.org/audio/summa-technologiae.m4a",
+    "wordsUrl": "/api/audio-words/summa-technologiae",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/summa-technologiae.words.json",
+    "durationSeconds": 2644.1,
+    "voice": "sage"
+  },
+  "that-hideous-strength": {
+    "audioUrl": "https://acximages.ennals.org/audio/that-hideous-strength.m4a",
+    "wordsUrl": "/api/audio-words/that-hideous-strength",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/that-hideous-strength.words.json",
+    "durationSeconds": 5876.9,
+    "voice": "sage"
+  },
+  "the-affluent-society-by-john-kenneth-galbraith": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-affluent-society-by-john-kenneth-galbraith.m4a",
+    "wordsUrl": "/api/audio-words/the-affluent-society-by-john-kenneth-galbraith",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-affluent-society-by-john-kenneth-galbraith.words.json",
+    "durationSeconds": 2236.6,
+    "voice": "sage"
+  },
   "the-bible": {
     "audioUrl": "https://acximages.ennals.org/audio/the-bible.m4a",
     "wordsUrl": "/api/audio-words/the-bible",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-bible.words.json",
     "durationSeconds": 162.7,
     "voice": "Sulafat"
+  },
+  "the-book-of-abraham": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-book-of-abraham.m4a",
+    "wordsUrl": "/api/audio-words/the-book-of-abraham",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-book-of-abraham.words.json",
+    "durationSeconds": 5391.3,
+    "voice": "sage"
   },
   "the-brothers-karamazov": {
     "audioUrl": "https://acximages.ennals.org/audio/the-brothers-karamazov.m4a",
@@ -41,12 +657,355 @@
     "durationSeconds": 504.8,
     "voice": "Sulafat"
   },
+  "the-cambridge-introduction-to-jacques-lacan": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-cambridge-introduction-to-jacques-lacan.m4a",
+    "wordsUrl": "/api/audio-words/the-cambridge-introduction-to-jacques-lacan",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-cambridge-introduction-to-jacques-lacan.words.json",
+    "durationSeconds": 1411,
+    "voice": "sage"
+  },
+  "the-campaigns-of-napoleon": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-campaigns-of-napoleon.m4a",
+    "wordsUrl": "/api/audio-words/the-campaigns-of-napoleon",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-campaigns-of-napoleon.words.json",
+    "durationSeconds": 919.3,
+    "voice": "sage"
+  },
+  "the-carnation-revolution": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-carnation-revolution.m4a",
+    "wordsUrl": "/api/audio-words/the-carnation-revolution",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-carnation-revolution.words.json",
+    "durationSeconds": 4151.7,
+    "voice": "sage"
+  },
+  "the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe.m4a",
+    "wordsUrl": "/api/audio-words/the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe.words.json",
+    "durationSeconds": 2090.8,
+    "voice": "sage"
+  },
+  "the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm.m4a",
+    "wordsUrl": "/api/audio-words/the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm.words.json",
+    "durationSeconds": 2840.9,
+    "voice": "sage"
+  },
+  "the-end-of-history-and-the-last-man": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-end-of-history-and-the-last-man.m4a",
+    "wordsUrl": "/api/audio-words/the-end-of-history-and-the-last-man",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-end-of-history-and-the-last-man.words.json",
+    "durationSeconds": 1658.9,
+    "voice": "sage"
+  },
+  "the-epic-of-gilgamesh": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-epic-of-gilgamesh.m4a",
+    "wordsUrl": "/api/audio-words/the-epic-of-gilgamesh",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-epic-of-gilgamesh.words.json",
+    "durationSeconds": 4448.6,
+    "voice": "sage"
+  },
+  "the-escape-artist": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-escape-artist.m4a",
+    "wordsUrl": "/api/audio-words/the-escape-artist",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-escape-artist.words.json",
+    "durationSeconds": 2917.5,
+    "voice": "sage"
+  },
+  "the-evolution-of-cooperation-by-robert-axelrod": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-evolution-of-cooperation-by-robert-axelrod.m4a",
+    "wordsUrl": "/api/audio-words/the-evolution-of-cooperation-by-robert-axelrod",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-evolution-of-cooperation-by-robert-axelrod.words.json",
+    "durationSeconds": 993.5,
+    "voice": "sage"
+  },
+  "the-evolution-of-desire-by-david-buss": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-evolution-of-desire-by-david-buss.m4a",
+    "wordsUrl": "/api/audio-words/the-evolution-of-desire-by-david-buss",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-evolution-of-desire-by-david-buss.words.json",
+    "durationSeconds": 1472.3,
+    "voice": "sage"
+  },
+  "the-fourth-sword": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-fourth-sword.m4a",
+    "wordsUrl": "/api/audio-words/the-fourth-sword",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-fourth-sword.words.json",
+    "durationSeconds": 2133.3,
+    "voice": "sage"
+  },
+  "the-full-facts-book-of-cold-reading": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-full-facts-book-of-cold-reading.m4a",
+    "wordsUrl": "/api/audio-words/the-full-facts-book-of-cold-reading",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-full-facts-book-of-cold-reading.words.json",
+    "durationSeconds": 2196.4,
+    "voice": "sage"
+  },
+  "the-ghost-in-my-brain": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-ghost-in-my-brain.m4a",
+    "wordsUrl": "/api/audio-words/the-ghost-in-my-brain",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-ghost-in-my-brain.words.json",
+    "durationSeconds": 1691.6,
+    "voice": "sage"
+  },
+  "the-gods-themselves": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-gods-themselves.m4a",
+    "wordsUrl": "/api/audio-words/the-gods-themselves",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-gods-themselves.words.json",
+    "durationSeconds": 929,
+    "voice": "sage"
+  },
+  "the-hero-in-history": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-hero-in-history.m4a",
+    "wordsUrl": "/api/audio-words/the-hero-in-history",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-hero-in-history.words.json",
+    "durationSeconds": 2275.5,
+    "voice": "sage"
+  },
+  "the-history-and-adventures-of-an-atom-by-tobias-smollett": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-history-and-adventures-of-an-atom-by-tobias-smollett.m4a",
+    "wordsUrl": "/api/audio-words/the-history-and-adventures-of-an-atom-by-tobias-smollett",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-history-and-adventures-of-an-atom-by-tobias-smollett.words.json",
+    "durationSeconds": 2353.4,
+    "voice": "sage"
+  },
+  "the-holy-quran": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-holy-quran.m4a",
+    "wordsUrl": "/api/audio-words/the-holy-quran",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-holy-quran.words.json",
+    "durationSeconds": 2303.9,
+    "voice": "sage"
+  },
+  "the-inhabited-island": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-inhabited-island.m4a",
+    "wordsUrl": "/api/audio-words/the-inhabited-island",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-inhabited-island.words.json",
+    "durationSeconds": 1125.4,
+    "voice": "sage"
+  },
+  "the-invention-of-science-a-new-history-of-the-scientific-revolution": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-invention-of-science-a-new-history-of-the-scientific-revolution.m4a",
+    "wordsUrl": "/api/audio-words/the-invention-of-science-a-new-history-of-the-scientific-revolution",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-invention-of-science-a-new-history-of-the-scientific-revolution.words.json",
+    "durationSeconds": 934.8,
+    "voice": "sage"
+  },
+  "the-knowledge-machine": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-knowledge-machine.m4a",
+    "wordsUrl": "/api/audio-words/the-knowledge-machine",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-knowledge-machine.words.json",
+    "durationSeconds": 3240.3,
+    "voice": "sage"
+  },
   "the-last-temptation-of-christ": {
     "audioUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.m4a",
     "wordsUrl": "/api/audio-words/the-last-temptation-of-christ",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.words.json",
     "durationSeconds": 235.8,
     "voice": "Sulafat"
+  },
+  "the-lever-of-riches": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-lever-of-riches.m4a",
+    "wordsUrl": "/api/audio-words/the-lever-of-riches",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-lever-of-riches.words.json",
+    "durationSeconds": 4851.6,
+    "voice": "sage"
+  },
+  "the-life-changing-magic-of-tidying-up": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-life-changing-magic-of-tidying-up.m4a",
+    "wordsUrl": "/api/audio-words/the-life-changing-magic-of-tidying-up",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-life-changing-magic-of-tidying-up.words.json",
+    "durationSeconds": 2009.1,
+    "voice": "sage"
+  },
+  "the-man-who-was-thursday": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-man-who-was-thursday.m4a",
+    "wordsUrl": "/api/audio-words/the-man-who-was-thursday",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-man-who-was-thursday.words.json",
+    "durationSeconds": 4422.3,
+    "voice": "sage"
+  },
+  "the-marriage-of-cadmus-and-harmony": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-marriage-of-cadmus-and-harmony.m4a",
+    "wordsUrl": "/api/audio-words/the-marriage-of-cadmus-and-harmony",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-marriage-of-cadmus-and-harmony.words.json",
+    "durationSeconds": 3315.7,
+    "voice": "sage"
+  },
+  "the-master-margarita": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-master-margarita.m4a",
+    "wordsUrl": "/api/audio-words/the-master-margarita",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-master-margarita.words.json",
+    "durationSeconds": 1448.3,
+    "voice": "sage"
+  },
+  "the-merry-wives-of-windsor": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-merry-wives-of-windsor.m4a",
+    "wordsUrl": "/api/audio-words/the-merry-wives-of-windsor",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-merry-wives-of-windsor.words.json",
+    "durationSeconds": 2943.4,
+    "voice": "sage"
+  },
+  "the-mind-is-flat-by-nick-chater": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-mind-is-flat-by-nick-chater.m4a",
+    "wordsUrl": "/api/audio-words/the-mind-is-flat-by-nick-chater",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-mind-is-flat-by-nick-chater.words.json",
+    "durationSeconds": 2687.7,
+    "voice": "sage"
+  },
+  "the-northern-caves": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-northern-caves.m4a",
+    "wordsUrl": "/api/audio-words/the-northern-caves",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-northern-caves.words.json",
+    "durationSeconds": 1908.6,
+    "voice": "sage"
+  },
+  "the-overstory": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-overstory.m4a",
+    "wordsUrl": "/api/audio-words/the-overstory",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-overstory.words.json",
+    "durationSeconds": 1361.3,
+    "voice": "sage"
+  },
+  "the-pictures-of-socialist-future": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-pictures-of-socialist-future.m4a",
+    "wordsUrl": "/api/audio-words/the-pictures-of-socialist-future",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-pictures-of-socialist-future.words.json",
+    "durationSeconds": 2307.5,
+    "voice": "sage"
+  },
+  "the-pillow-book": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-pillow-book.m4a",
+    "wordsUrl": "/api/audio-words/the-pillow-book",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-pillow-book.words.json",
+    "durationSeconds": 1943.2,
+    "voice": "sage"
+  },
+  "the-pre-training-data": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-pre-training-data.m4a",
+    "wordsUrl": "/api/audio-words/the-pre-training-data",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-pre-training-data.words.json",
+    "durationSeconds": 1112.5,
+    "voice": "sage"
+  },
+  "the-radicalism-of-the-american-revolution": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-radicalism-of-the-american-revolution.m4a",
+    "wordsUrl": "/api/audio-words/the-radicalism-of-the-american-revolution",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-radicalism-of-the-american-revolution.words.json",
+    "durationSeconds": 3174.3,
+    "voice": "sage"
+  },
+  "the-red-queen": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-red-queen.m4a",
+    "wordsUrl": "/api/audio-words/the-red-queen",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-red-queen.words.json",
+    "durationSeconds": 3037,
+    "voice": "sage"
+  },
+  "the-rule-of-law": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-rule-of-law.m4a",
+    "wordsUrl": "/api/audio-words/the-rule-of-law",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-rule-of-law.words.json",
+    "durationSeconds": 1035.8,
+    "voice": "sage"
+  },
+  "the-science-of-second-chances": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-science-of-second-chances.m4a",
+    "wordsUrl": "/api/audio-words/the-science-of-second-chances",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-science-of-second-chances.words.json",
+    "durationSeconds": 3119.6,
+    "voice": "sage"
+  },
+  "the-short-swift-time-of-gods-on-earth": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-short-swift-time-of-gods-on-earth.m4a",
+    "wordsUrl": "/api/audio-words/the-short-swift-time-of-gods-on-earth",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-short-swift-time-of-gods-on-earth.words.json",
+    "durationSeconds": 3560.2,
+    "voice": "sage"
+  },
+  "the-sins-of-gk-chesterton": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-sins-of-gk-chesterton.m4a",
+    "wordsUrl": "/api/audio-words/the-sins-of-gk-chesterton",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-sins-of-gk-chesterton.words.json",
+    "durationSeconds": 3077.7,
+    "voice": "sage"
+  },
+  "the-son-also-rises": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-son-also-rises.m4a",
+    "wordsUrl": "/api/audio-words/the-son-also-rises",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-son-also-rises.words.json",
+    "durationSeconds": 2987.6,
+    "voice": "sage"
+  },
+  "the-sovereign-child": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-sovereign-child.m4a",
+    "wordsUrl": "/api/audio-words/the-sovereign-child",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-sovereign-child.words.json",
+    "durationSeconds": 3194.9,
+    "voice": "sage"
+  },
+  "the-sun-also-rises": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-sun-also-rises.m4a",
+    "wordsUrl": "/api/audio-words/the-sun-also-rises",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-sun-also-rises.words.json",
+    "durationSeconds": 896.8,
+    "voice": "sage"
+  },
+  "the-tale-of-genji": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-tale-of-genji.m4a",
+    "wordsUrl": "/api/audio-words/the-tale-of-genji",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-tale-of-genji.words.json",
+    "durationSeconds": 3607.8,
+    "voice": "sage"
+  },
+  "the-war-nerd-iliad": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-war-nerd-iliad.m4a",
+    "wordsUrl": "/api/audio-words/the-war-nerd-iliad",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-war-nerd-iliad.words.json",
+    "durationSeconds": 1664.1,
+    "voice": "sage"
+  },
+  "the-waves": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-waves.m4a",
+    "wordsUrl": "/api/audio-words/the-waves",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-waves.words.json",
+    "durationSeconds": 1732.5,
+    "voice": "sage"
+  },
+  "the-wisdom-of-mike-mentzer": {
+    "audioUrl": "https://acximages.ennals.org/audio/the-wisdom-of-mike-mentzer.m4a",
+    "wordsUrl": "/api/audio-words/the-wisdom-of-mike-mentzer",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/the-wisdom-of-mike-mentzer.words.json",
+    "durationSeconds": 2696.7,
+    "voice": "sage"
+  },
+  "theodicy": {
+    "audioUrl": "https://acximages.ennals.org/audio/theodicy.m4a",
+    "wordsUrl": "/api/audio-words/theodicy",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/theodicy.words.json",
+    "durationSeconds": 1843.7,
+    "voice": "sage"
+  },
+  "there-is-no-antimemetics-division": {
+    "audioUrl": "https://acximages.ennals.org/audio/there-is-no-antimemetics-division.m4a",
+    "wordsUrl": "/api/audio-words/there-is-no-antimemetics-division",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/there-is-no-antimemetics-division.words.json",
+    "durationSeconds": 1823.1,
+    "voice": "sage"
+  },
+  "this-is-going-to-hurt": {
+    "audioUrl": "https://acximages.ennals.org/audio/this-is-going-to-hurt.m4a",
+    "wordsUrl": "/api/audio-words/this-is-going-to-hurt",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/this-is-going-to-hurt.words.json",
+    "durationSeconds": 4481.6,
+    "voice": "sage"
+  },
+  "thomas-urquharts-translation-of-rabelais": {
+    "audioUrl": "https://acximages.ennals.org/audio/thomas-urquharts-translation-of-rabelais.m4a",
+    "wordsUrl": "/api/audio-words/thomas-urquharts-translation-of-rabelais",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/thomas-urquharts-translation-of-rabelais.words.json",
+    "durationSeconds": 1804.1,
+    "voice": "sage"
   },
   "tiger-chair": {
     "audioUrl": "https://acximages.ennals.org/audio/tiger-chair.m4a",
@@ -55,11 +1014,116 @@
     "durationSeconds": 510.3,
     "voice": "Sulafat"
   },
+  "time-gifts": {
+    "audioUrl": "https://acximages.ennals.org/audio/time-gifts.m4a",
+    "wordsUrl": "/api/audio-words/time-gifts",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/time-gifts.words.json",
+    "durationSeconds": 1869.6,
+    "voice": "sage"
+  },
+  "timefulness": {
+    "audioUrl": "https://acximages.ennals.org/audio/timefulness.m4a",
+    "wordsUrl": "/api/audio-words/timefulness",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/timefulness.words.json",
+    "durationSeconds": 1075.5,
+    "voice": "sage"
+  },
+  "tortilla-flat-by-john-steinbeck": {
+    "audioUrl": "https://acximages.ennals.org/audio/tortilla-flat-by-john-steinbeck.m4a",
+    "wordsUrl": "/api/audio-words/tortilla-flat-by-john-steinbeck",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/tortilla-flat-by-john-steinbeck.words.json",
+    "durationSeconds": 2259.4,
+    "voice": "sage"
+  },
+  "traces-erased-by-the-sun": {
+    "audioUrl": "https://acximages.ennals.org/audio/traces-erased-by-the-sun.m4a",
+    "wordsUrl": "/api/audio-words/traces-erased-by-the-sun",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/traces-erased-by-the-sun.words.json",
+    "durationSeconds": 1417.9,
+    "voice": "sage"
+  },
+  "trip-sitting-the-art-and-science-of-holding-psychedelic-space": {
+    "audioUrl": "https://acximages.ennals.org/audio/trip-sitting-the-art-and-science-of-holding-psychedelic-space.m4a",
+    "wordsUrl": "/api/audio-words/trip-sitting-the-art-and-science-of-holding-psychedelic-space",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/trip-sitting-the-art-and-science-of-holding-psychedelic-space.words.json",
+    "durationSeconds": 413.5,
+    "voice": "sage"
+  },
+  "undertook-learn-russian-about-ten-years": {
+    "audioUrl": "https://acximages.ennals.org/audio/undertook-learn-russian-about-ten-years.m4a",
+    "wordsUrl": "/api/audio-words/undertook-learn-russian-about-ten-years",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/undertook-learn-russian-about-ten-years.words.json",
+    "durationSeconds": 1833.9,
+    "voice": "sage"
+  },
+  "unforgiving-places-the-unexpected-origins-of-american-gun-violence": {
+    "audioUrl": "https://acximages.ennals.org/audio/unforgiving-places-the-unexpected-origins-of-american-gun-violence.m4a",
+    "wordsUrl": "/api/audio-words/unforgiving-places-the-unexpected-origins-of-american-gun-violence",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/unforgiving-places-the-unexpected-origins-of-american-gun-violence.words.json",
+    "durationSeconds": 939.9,
+    "voice": "sage"
+  },
+  "venomous-lumpsucker": {
+    "audioUrl": "https://acximages.ennals.org/audio/venomous-lumpsucker.m4a",
+    "wordsUrl": "/api/audio-words/venomous-lumpsucker",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/venomous-lumpsucker.words.json",
+    "durationSeconds": 926.9,
+    "voice": "sage"
+  },
+  "violence-and-the-sacred": {
+    "audioUrl": "https://acximages.ennals.org/audio/violence-and-the-sacred.m4a",
+    "wordsUrl": "/api/audio-words/violence-and-the-sacred",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/violence-and-the-sacred.words.json",
+    "durationSeconds": 5528.3,
+    "voice": "sage"
+  },
+  "we-present-television": {
+    "audioUrl": "https://acximages.ennals.org/audio/we-present-television.m4a",
+    "wordsUrl": "/api/audio-words/we-present-television",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/we-present-television.words.json",
+    "durationSeconds": 3295.5,
+    "voice": "sage"
+  },
+  "weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse": {
+    "audioUrl": "https://acximages.ennals.org/audio/weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse.m4a",
+    "wordsUrl": "/api/audio-words/weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse.words.json",
+    "durationSeconds": 771,
+    "voice": "sage"
+  },
+  "what-is-real": {
+    "audioUrl": "https://acximages.ennals.org/audio/what-is-real.m4a",
+    "wordsUrl": "/api/audio-words/what-is-real",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/what-is-real.words.json",
+    "durationSeconds": 3653.4,
+    "voice": "sage"
+  },
   "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley": {
     "audioUrl": "https://acximages.ennals.org/audio/why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley.mp3",
     "wordsUrl": "/api/audio-words/why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley",
     "r2WordsUrl": "https://acximages.ennals.org/audio/why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley.words.json",
     "durationSeconds": 1932.6,
     "voice": "Sulafat"
+  },
+  "wild-wise-weird": {
+    "audioUrl": "https://acximages.ennals.org/audio/wild-wise-weird.m4a",
+    "wordsUrl": "/api/audio-words/wild-wise-weird",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/wild-wise-weird.words.json",
+    "durationSeconds": 630.7,
+    "voice": "sage"
+  },
+  "works-by-isaac-bickerstaff": {
+    "audioUrl": "https://acximages.ennals.org/audio/works-by-isaac-bickerstaff.m4a",
+    "wordsUrl": "/api/audio-words/works-by-isaac-bickerstaff",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/works-by-isaac-bickerstaff.words.json",
+    "durationSeconds": 2757.1,
+    "voice": "sage"
+  },
+  "world-war-z": {
+    "audioUrl": "https://acximages.ennals.org/audio/world-war-z.m4a",
+    "wordsUrl": "/api/audio-words/world-war-z",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/world-war-z.words.json",
+    "durationSeconds": 1360.8,
+    "voice": "sage"
   }
 }
