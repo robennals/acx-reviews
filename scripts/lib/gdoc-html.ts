@@ -1012,13 +1012,22 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
+  // Invisible-formatting artifact: authors sometimes leave bold/italic
+  // applied to a punctuation-only run — a lone period or em-dash — which
+  // is visually indistinguishable from unstyled text in the doc but
+  // round-trips to stray `**.**` / `_,_` in the markdown (Brook Farm:
+  // `Phalanx**.**` and `it**—**odd`). A span with no letters or digits
+  // carries no real emphasis, so skip styling it.
+  const hasNoEmphasizableText = (text: string): boolean =>
+    !/[\p{L}\p{N}]/u.test(text);
+
   // Bold: wrap span contents in <strong> if any of its classes are bold
   if (styles.boldClasses.size > 0) {
     $('span').each(function () {
       const el = $(this);
       const classes = (el.attr('class') || '').split(/\s+/);
       const isBold = classes.some(c => styles.boldClasses.has(c));
-      if (isBold && el.text().trim()) {
+      if (isBold && el.text().trim() && !hasNoEmphasizableText(el.text())) {
         // Don't double-wrap if already inside <strong> or <b>.
         // Don't wrap inside headings — they're already prominent.
         if (!el.closest('strong, b, h1, h2, h3, h4, h5, h6').length) {
@@ -1053,7 +1062,7 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       const el = $(this);
       const classes = (el.attr('class') || '').split(/\s+/);
       const isItalic = classes.some(c => styles.italicClasses.has(c));
-      if (isItalic && el.text().trim()) {
+      if (isItalic && el.text().trim() && !hasNoEmphasizableText(el.text())) {
         if (!el.closest('em, i, h1, h2, h3, h4, h5, h6').length) {
           el.wrapInner('<em></em>');
         }

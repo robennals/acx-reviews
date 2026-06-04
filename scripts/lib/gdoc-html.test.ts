@@ -1200,6 +1200,42 @@ test('convertGDocToMarkdown does not merge indented <p>s across an intervening <
     `"Goal" list item must appear before "A response scene" intro; got:\n${md}`);
 });
 
+test('convertGDocToMarkdown drops bold from punctuation-only spans', () => {
+  // Real example from Brook Farm: the gdoc author left bold applied to
+  // a lone period and two em-dashes — invisible in the doc (a bold "."
+  // looks identical to a plain one) but round-tripped to stray
+  // `Phalanx**.**` and `it**—**odd` in the markdown. A bold span with
+  // no letters or digits should not be wrapped in <strong>.
+  const html = `<html><head><style>.c0{font-weight:400;font-size:12pt}.c4{font-weight:700;font-size:12pt}</style></head><body>` +
+    `<p class="c1"><span class="c0">incorporated as the Brook Farm Phalanx</span><span class="c4">.  </span><span class="c0">George and Sophia Ripley purchased ten more shares.</span></p>` +
+    `<p class="c1"><span class="c0">We sincerely respect it</span><span class="c4">—</span><span class="c0">odd as this assertion may appear.</span></p>` +
+    `<p class="c1"><span class="c0">This phrase is </span><span class="c4">genuinely bold</span><span class="c0"> on purpose.</span></p>` +
+    `</body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  assert.ok(!md.includes('**.**'), `bold period should be plain; got: ${md}`);
+  assert.ok(!md.includes('**—**'), `bold em-dash should be plain; got: ${md}`);
+  assert.ok(md.includes('Brook Farm Phalanx.'), `period should survive unbolded; got: ${md}`);
+  assert.ok(/respect it—odd/.test(md), `em-dash should survive unbolded; got: ${md}`);
+  // Control: real bold runs still come through.
+  assert.ok(md.includes('**genuinely bold**'), `intentional bold should be preserved; got: ${md}`);
+});
+
+test('convertGDocToMarkdown drops italic from punctuation-only spans', () => {
+  // Same invisible-formatting artifact as bold: an italic comma or
+  // period is indistinguishable in the doc but emits stray `_,_`.
+  const html = `<html><head><style>.c0{font-style:normal;font-size:12pt}.c5{font-style:italic;font-size:12pt}</style></head><body>` +
+    `<p class="c1"><span class="c0">He reviewed the collection</span><span class="c5">,</span><span class="c0"> and praised </span><span class="c5">Tales</span><span class="c0"> in the summer.</span></p>` +
+    `</body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  assert.ok(!md.includes('_,_'), `italic comma should be plain; got: ${md}`);
+  assert.ok(md.includes('collection,'), `comma should survive unitalicized; got: ${md}`);
+  assert.ok(md.includes('_Tales_'), `intentional italics should be preserved; got: ${md}`);
+});
+
 test('convertGDocToMarkdown records author image crops as a #crop= fragment', () => {
   // In the gdoc export, a cropped image is a crop-box <span>
   // (overflow: hidden; its style size is the VISIBLE box) wrapping an

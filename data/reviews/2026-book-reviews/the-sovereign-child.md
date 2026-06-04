@@ -315,7 +315,7 @@ The history of science shows that many of our greatest theories preceded their o
 
 Deutsch's main departure from Popper is to insist on the primacy of explanations over mere correlations or predictions. Litigating that argument goes way beyond the scope of this review, but one unwelcome consequence is that his followers now have a selective cudgel for beating up on whatever they happen not to like. Here's Bruce Nielson:
 
-> _It's unclear when you should or shouldn't be able to invoke explanationless science as a valid criticism, just from what Deutsch says in_ The Beginning of Infinity*. So it isn't surprising that in practice, Deutschian crit rats—and sometimes I would argue even Deutsch himself—invoke explanationless science as a criticism of theories that they happen to already dislike, such as genetic influence on happiness, or animal qualia, but never invoke it against theories they like, such as Newtonian gravity.*
+> _It's unclear when you should or shouldn't be able to invoke explanationless science as a valid criticism, just from what Deutsch says in_ The Beginning of Infinity. _So it isn't surprising that in practice, Deutschian crit rats—and sometimes I would argue even Deutsch himself—invoke explanationless science as a criticism of theories that they happen to already dislike, such as genetic influence on happiness, or animal qualia, but never invoke it against theories they like, such as Newtonian gravity._
 
 All of which is to say, you have to take crit rats with a big pinch of salt. They have lots of cool ideas, but they have trapped themselves in a position in which their own epistemology can be selectively deployed to launder their ideological priors.
 

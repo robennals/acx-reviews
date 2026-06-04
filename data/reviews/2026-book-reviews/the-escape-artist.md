@@ -133,7 +133,7 @@ But this system—which the orderly Nazis, as with all of their systems, never d
 
 <figcaption>
 
-_If this plan sounds familiar, that might be because it has uncanny, presumably coincidental echoes of the plot of the 2006 Spike Lee movie_ Inside Man*.*
+_If this plan sounds familiar, that might be because it has uncanny, presumably coincidental echoes of the plot of the 2006 Spike Lee movie_ Inside Man.
 
 </figcaption>
 

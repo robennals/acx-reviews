@@ -16,7 +16,7 @@ tags:
 
 ## Spare a Thought for Fyodor Pavlovich Karamazov
 
-_Note: The following has only minimal spoilers of_ The Brothers Karamazov*. It describes a scene from the first 100 pages of the book.*
+_Note: The following has only minimal spoilers of_ The Brothers Karamazov. _It describes a scene from the first 100 pages of the book._
 
 There are not enough books about being a shitty and annoying person. Not misunderstood or unlucky but actually the worst—the kind of insecure soul always overflowing with attempts to justify itself. Arrogant but fragile, too self-involved to listen, too desperate to shut up: in _The Brothers Karamazov_, such a character is called a buffoon.
 
