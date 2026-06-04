@@ -16,9 +16,10 @@ const MANIFEST_PATH = path.join(process.cwd(), 'data', 'audio-manifest.json');
 let cached: Record<string, ReviewAudioEntry> | null = null;
 
 /** Narration audio manifest, written by scripts/upload-audio.ts.
- *  Returns null for reviews without generated audio. */
+ *  Returns null for reviews without generated audio. Cached only in
+ *  production so a running dev server picks up freshly uploaded audio. */
 export function getReviewAudio(slug: string): ReviewAudioEntry | null {
-  if (!cached) {
+  if (!cached || process.env.NODE_ENV !== 'production') {
     try {
       cached = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8'));
     } catch {
