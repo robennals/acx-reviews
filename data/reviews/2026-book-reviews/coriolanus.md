@@ -292,7 +292,7 @@ An anthropology student then spoke up.
 
 They then took out their phone, flicked to some notes and showed them.
 
-> “Of those: twenty-two percent mocking, joking, or pantomime. Forty-one percent outright complaint or criticism. Thirty-five percent harsh criticism. Two percent actual violence.” [10 ]
+> “Of those: twenty-two percent mocking, joking, or pantomime. Forty-one percent outright complaint or criticism. Thirty-five percent harsh criticism. Two percent actual violence.”[^10]
 
 “No. No—this is getting us nowhere. If talking solved our problem, we wouldn’t be here sorting out rotas we know we can’t enforce.”
 
@@ -1287,7 +1287,7 @@ The week after the housemates sorted out their plumbing rota, they met at a bar.
 
 One of them plunked a stack of books, borrowed from a college library, on the table.
 
-“I see you’ve got quite a pile.”[^12]
+“I see you’ve got quite a pile.”
 
 A hand reached out and picked up _Dictatorship Made Easy_. Another grabbed _Autocracy for Dummies_.
 
@@ -1597,7 +1597,7 @@ The one who had sat saying nothing now spoke.
 
 “_The Strongman Bible_—that pile of books. They’re all out of date.”
 
-A new book was put on the table: _Kayfabocracy: A Wee Short Introduction_. [13] “It’s just out. I bought it before coming here.”
+A new book was put on the table: _Kayfabocracy: A Wee Short Introduction_.[^12] “It’s just out. I bought it before coming here.”
 
 “I did not know that ‘Wee Short Introductions’ had a new title.”
 
@@ -1735,13 +1735,13 @@ The book was held up. Some definitions were read out.
 >
 > Four things turn a democracy into a kayfabocracy.
 >
->  [^1] **Democratic drift.** Voters watch the deck. The same hands keep coming back. The same faces at the same tables. The deck, they suspect, is not being reshuffled—it is being passed around an inner circle. The dealer is no longer playing the room. They are playing for the establishment.
+>  [1] **Democratic drift.** Voters watch the deck. The same hands keep coming back. The same faces at the same tables. The deck, they suspect, is not being reshuffled—it is being passed around an inner circle. The dealer is no longer playing the room. They are playing for the establishment.
 >
->  [^2] **The rise of entrepreneurs.** An entrepreneur walks in. They look at the dealer. They say: I see what you have been doing. The deck is bent. The aces are at that table. The twos are here. Elect me and I will rip up the establishment.
+>  [2] **The rise of entrepreneurs.** An entrepreneur walks in. They look at the dealer. They say: I see what you have been doing. The deck is bent. The aces are at that table. The twos are here. Elect me and I will rip up the establishment.
 >
->  [^3] **The democratic paradox.** The dealer and their friends cry ‘foul.’ The entrepreneur is a cheat. They are right, the entrepreneur does want to take over democracy. But every such cry seems to come from the establishment dealing the hands and so provides proof that supports the entrepreneur.
+>  [3] **The democratic paradox.** The dealer and their friends cry ‘foul.’ The entrepreneur is a cheat. They are right, the entrepreneur does want to take over democracy. But every such cry seems to come from the establishment dealing the hands and so provides proof that supports the entrepreneur.
 >
->  [^4] **The democratic tragedy.** The problem is not the entrepreneur but the legitimacy gap they exploit. But while everyone fights the would-be autocrat they fail to fix the plumbing of democratic legitimacy that would take the wind out of the entrepreneur’s electoral sails.
+>  [4] **The democratic tragedy.** The problem is not the entrepreneur but the legitimacy gap they exploit. But while everyone fights the would-be autocrat they fail to fix the plumbing of democratic legitimacy that would take the wind out of the entrepreneur’s electoral sails.
 
 “So kayfabocracy is about optics that end up killing democracy’s legitimacy in the eyes of voters. The disconnect may be real or imagined. But if voters experience that legitimacy has stopped circulating between them and their government—that creates an opening for entrepreneurs to offer to fix it.”
 
@@ -2033,7 +2033,7 @@ The person who had been reading told everyone to stop and click [congress.gov/br
 
 Copy the URL. Paste it into ChatGPT, Claude, Gemini, or another LLM with this prompt:
 
-> Analyze this congressional report as if designing questions for a 441-person citizen jury (Athenian dikasterion model). Extract 8–15 votable questions that: [^1] ordinary adults can decide after hearing expert testimony, [^2] involve policy outcomes and value trade-offs as experienced in citizens’ lives, [^3] have genuine adversarial positions with reasonable people on both sides, [^4] capture the core contested issues in the bill. For each question provide: clear neutral phrasing, 3–5 arguments FOR, 3–5 arguments AGAINST, explanation of why it’s a value judgment rather than a purely technical question, and whether it logically depends on other questions. Exclude any matters that might be deemed to concern Article I, § 5 of the U.S. Constitution.
+> Analyze this congressional report as if designing questions for a 441-person citizen jury (Athenian dikasterion model). Extract 8–15 votable questions that: [1] ordinary adults can decide after hearing expert testimony, [2] involve policy outcomes and value trade-offs as experienced in citizens’ lives, [3] have genuine adversarial positions with reasonable people on both sides, [4] capture the core contested issues in the bill. For each question provide: clear neutral phrasing, 3–5 arguments FOR, 3–5 arguments AGAINST, explanation of why it’s a value judgment rather than a purely technical question, and whether it logically depends on other questions. Exclude any matters that might be deemed to concern Article I, § 5 of the U.S. Constitution.
 
 They then read the output. The LLM turns a committee report into 8 to 15 votable questions any citizen might decide after hearing for and against arguments.
 

@@ -20,7 +20,7 @@ tags:
 
 Every zombie story worth telling is not about zombies.
 
-Zombies are one-dimensional.  A zombie is a moving corpse with no capacity for emotion or reason.  And they pretty much have to be: otherwise, they’d just be a person with an insatiable appetite for living humans who spreads this condition to their victims.  Or in other words, a vampire.1
+Zombies are one-dimensional.  A zombie is a moving corpse with no capacity for emotion or reason.  And they pretty much have to be: otherwise, they’d just be a person with an insatiable appetite for living humans who spreads this condition to their victims.  Or in other words, a vampire.[1]
 
 Because of this, zombie stories need to broadcast what they’re actually about, usually directly in the title.  _I am Legend_ is about what it means to be a hero – or a monster.  _The Girl with All the Gifts_ is about childhood in a shattered world, and the tragedy that comes with seeing the truth.  (“All the gifts” is a loose translation of the Greek “Pandora”.)  Even in _The Walking Dead_, the title describes the survivors as much as the reanimated.
 

@@ -1012,13 +1012,22 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
+  // Invisible-formatting artifact: authors sometimes leave bold/italic
+  // applied to a punctuation-only run — a lone period or em-dash — which
+  // is visually indistinguishable from unstyled text in the doc but
+  // round-trips to stray `**.**` / `_,_` in the markdown (Brook Farm:
+  // `Phalanx**.**` and `it**—**odd`). A span with no letters or digits
+  // carries no real emphasis, so skip styling it.
+  const hasNoEmphasizableText = (text: string): boolean =>
+    !/[\p{L}\p{N}]/u.test(text);
+
   // Bold: wrap span contents in <strong> if any of its classes are bold
   if (styles.boldClasses.size > 0) {
     $('span').each(function () {
       const el = $(this);
       const classes = (el.attr('class') || '').split(/\s+/);
       const isBold = classes.some(c => styles.boldClasses.has(c));
-      if (isBold && el.text().trim()) {
+      if (isBold && el.text().trim() && !hasNoEmphasizableText(el.text())) {
         // Don't double-wrap if already inside <strong> or <b>.
         // Don't wrap inside headings — they're already prominent.
         if (!el.closest('strong, b, h1, h2, h3, h4, h5, h6').length) {
@@ -1053,7 +1062,7 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       const el = $(this);
       const classes = (el.attr('class') || '').split(/\s+/);
       const isItalic = classes.some(c => styles.italicClasses.has(c));
-      if (isItalic && el.text().trim()) {
+      if (isItalic && el.text().trim() && !hasNoEmphasizableText(el.text())) {
         if (!el.closest('em, i, h1, h2, h3, h4, h5, h6').length) {
           el.wrapInner('<em></em>');
         }
@@ -2325,6 +2334,45 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
     if (text && PAGE_FOOTER_RE.test(text)) {
       el.remove();
     }
+  });
+
+  // Preserve the author's image cropping. In the gdoc export, a
+  // cropped image is a crop-box <span> (overflow: hidden; display:
+  // inline-block) whose style size is the VISIBLE box, wrapping an
+  // <img> whose own style size is LARGER and offset by negative
+  // margins — while the embedded data-URI image is the full uncropped
+  // original. Record the visible region as fractions of the full image
+  // in a `#crop=left,top,width,height` src fragment; the image-upload
+  // step (process-gdoc-images.ts) applies it physically via
+  // sharp.extract() so the site serves only the region the author
+  // chose. Uncropped images (the img fits its box) get no fragment.
+  const parseStylePx = (style: string | undefined, prop: string): number | undefined => {
+    const m = style?.match(new RegExp(`(?:^|;)\\s*${prop}:\\s*(-?[\\d.]+)px`));
+    return m ? parseFloat(m[1]) : undefined;
+  };
+  $('img').each(function () {
+    const img = $(this);
+    const src = img.attr('src');
+    if (!src || src.includes('#')) return;
+    const spanStyle = img.parent('span').attr('style');
+    if (!spanStyle || !/overflow:\s*hidden/.test(spanStyle)) return;
+    const imgStyle = img.attr('style');
+    const boxW = parseStylePx(spanStyle, 'width');
+    const boxH = parseStylePx(spanStyle, 'height');
+    const imgW = parseStylePx(imgStyle, 'width');
+    const imgH = parseStylePx(imgStyle, 'height');
+    const offX = parseStylePx(imgStyle, 'margin-left') ?? 0;
+    const offY = parseStylePx(imgStyle, 'margin-top') ?? 0;
+    if (!boxW || !boxH || !imgW || !imgH) return;
+    // Only genuine crops: the image overflows its box or is shifted.
+    // Half-pixel tolerance absorbs the export's rounding.
+    const cropped = imgW > boxW + 0.5 || imgH > boxH + 0.5 || offX < -0.5 || offY < -0.5;
+    if (!cropped) return;
+    const frac = (n: number) => Math.min(1, Math.max(0, n)).toFixed(4);
+    img.attr(
+      'src',
+      `${src}#crop=${frac(-offX / imgW)},${frac(-offY / imgH)},${frac(boxW / imgW)},${frac(boxH / imgH)}`
+    );
   });
 
   // Join adjacent <p> siblings (per-slug exception). When the source doc

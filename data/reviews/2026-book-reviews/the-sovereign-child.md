@@ -251,7 +251,7 @@ But eating ice cream as a staple food? Glued to a screen for hours on end? No in
 
 or as Tyler, the Creator so memorably put it:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/bf2e0f7d70c95afb.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/abd507b8d928c20a.png)
 
 Given that Stupple doesn't provide us with any principle to determine the rare occasions when coercive intervention is justified, I will try to reverse-engineer one: you may intervene if your child is about to make a mistake that will cause _irreversible damage_, i.e. a problem that we cannot solve with our current level of knowledge.
 
@@ -315,7 +315,7 @@ The history of science shows that many of our greatest theories preceded their o
 
 Deutsch's main departure from Popper is to insist on the primacy of explanations over mere correlations or predictions. Litigating that argument goes way beyond the scope of this review, but one unwelcome consequence is that his followers now have a selective cudgel for beating up on whatever they happen not to like. Here's Bruce Nielson:
 
-> _It's unclear when you should or shouldn't be able to invoke explanationless science as a valid criticism, just from what Deutsch says in_ The Beginning of Infinity*. So it isn't surprising that in practice, Deutschian crit rats—and sometimes I would argue even Deutsch himself—invoke explanationless science as a criticism of theories that they happen to already dislike, such as genetic influence on happiness, or animal qualia, but never invoke it against theories they like, such as Newtonian gravity.*
+> _It's unclear when you should or shouldn't be able to invoke explanationless science as a valid criticism, just from what Deutsch says in_ The Beginning of Infinity. _So it isn't surprising that in practice, Deutschian crit rats—and sometimes I would argue even Deutsch himself—invoke explanationless science as a criticism of theories that they happen to already dislike, such as genetic influence on happiness, or animal qualia, but never invoke it against theories they like, such as Newtonian gravity._
 
 All of which is to say, you have to take crit rats with a big pinch of salt. They have lots of cool ideas, but they have trapped themselves in a position in which their own epistemology can be selectively deployed to launder their ideological priors.
 

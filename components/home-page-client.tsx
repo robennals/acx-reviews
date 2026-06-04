@@ -12,10 +12,21 @@ import { markAsRead, markAsUnread } from '@/lib/reading-progress';
 import { RatingChip } from '@/components/rating-chip';
 
 type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted' | 'not-voted';
+type LengthFilter = 'all' | 'quick' | 'medium' | 'long';
 type SortOrder = 'random' | 'alpha' | 'my-rating';
 
 const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted', 'not-voted'];
+const VALID_LENGTH: LengthFilter[] = ['all', 'quick', 'medium', 'long'];
 const VALID_SORT: SortOrder[] = ['random', 'alpha', 'my-rating'];
+
+// Reading-time buckets chosen so the 2026 contest splits roughly evenly
+// (54 / 47 / 61 reviews) while keeping round cutoffs.
+function matchesLength(minutes: number, filter: LengthFilter): boolean {
+  if (filter === 'quick') return minutes < 20;
+  if (filter === 'medium') return minutes >= 20 && minutes < 30;
+  if (filter === 'long') return minutes >= 30;
+  return true;
+}
 const RANDOM_SEED_KEY = 'acx-reviews:random-seed';
 
 // FNV-1a 32-bit. Used to deterministically order reviews by hash(reviewId + seed)
@@ -46,6 +57,7 @@ interface FilterState {
   tag: string | null;
   query: string;
   status: StatusFilter;
+  length: LengthFilter;
   sort: SortOrder;
   page: number;
 }
@@ -54,6 +66,8 @@ function parseUrlFilters(search: string): FilterState {
   const params = new URLSearchParams(search);
   const rawStatus = params.get('status');
   const status = (VALID_STATUS as string[]).includes(rawStatus ?? '') ? (rawStatus as StatusFilter) : 'all';
+  const rawLength = params.get('length');
+  const length = (VALID_LENGTH as string[]).includes(rawLength ?? '') ? (rawLength as LengthFilter) : 'all';
   const rawSort = params.get('sort');
   const sort = (VALID_SORT as string[]).includes(rawSort ?? '') ? (rawSort as SortOrder) : 'random';
   const rawPage = Number(params.get('page'));
@@ -65,6 +79,7 @@ function parseUrlFilters(search: string): FilterState {
     tag: params.get('topic'),
     query: params.get('q') ?? '',
     status,
+    length,
     sort,
     page,
   };
@@ -76,6 +91,7 @@ function buildFilterQueryString(state: FilterState): string {
   if (state.tag) params.set('topic', state.tag);
   if (state.query) params.set('q', state.query);
   if (state.status !== 'all') params.set('status', state.status);
+  if (state.length !== 'all') params.set('length', state.length);
   if (state.sort !== 'random') params.set('sort', state.sort);
   if (state.page > 1) params.set('page', String(state.page));
   return params.toString();
@@ -103,6 +119,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
+  const [lengthFilter, setLengthFilter] = useState<LengthFilter>('all');
   const [sortOrder, setSortOrder] = useState<SortOrder>('random');
   const [currentPage, setCurrentPage] = useState(1);
   // Empty string until the seed loads on mount. SSR/initial-hydration render
@@ -148,6 +165,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     setSelectedTag(f.tag);
     setSearchQuery(f.query);
     setStatusFilter(f.status);
+    setLengthFilter(f.length);
     setSortOrder(f.sort);
     setCurrentPage(f.page);
     // Only scroll when the URL changes within an already-mounted page
@@ -176,6 +194,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       tag: 'tag' in changes ? changes.tag! : selectedTag,
       query: changes.query ?? searchQuery,
       status: changes.status ?? statusFilter,
+      length: changes.length ?? lengthFilter,
       sort: changes.sort ?? sortOrder,
       page: changes.page ?? currentPage,
     };
@@ -183,6 +202,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     setSelectedTag(next.tag);
     setSearchQuery(next.query);
     setStatusFilter(next.status);
+    setLengthFilter(next.length);
     setSortOrder(next.sort);
     setCurrentPage(next.page);
     const nextUrl = buildFilterUrl(next);
@@ -191,7 +211,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     const nextSearch = nextUrl.split('?')[1] ?? '';
     lastAppliedSearch.current = nextSearch;
     window.history.replaceState(null, '', nextUrl);
-  }, [selectedYear, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]);
+  }, [selectedYear, selectedTag, searchQuery, statusFilter, lengthFilter, sortOrder, currentPage]);
 
   const handleToggleRead = useCallback((reviewId: string) => {
     const progress = progressMap[reviewId];
@@ -223,6 +243,10 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       result = result.filter(r => r.title.toLowerCase().includes(query));
     }
 
+    if (lengthFilter !== 'all') {
+      result = result.filter(r => matchesLength(r.readingTimeMinutes, lengthFilter));
+    }
+
     if (statusFilter === 'read') {
       result = result.filter(r => progressMap[r.id]?.isComplete);
     } else if (statusFilter === 'unread') {
@@ -239,7 +263,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     }
 
     return result;
-  }, [reviews, selectedYear, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, ratingOf, contestYear]);
+  }, [reviews, selectedYear, selectedTag, searchQuery, statusFilter, lengthFilter, progressMap, favoritesSet, ratingOf, contestYear]);
 
   const sortedReviews = useMemo(() => {
     const arr = [...filteredReviews];
@@ -268,10 +292,11 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       tag: selectedTag,
       query: searchQuery,
       status: statusFilter,
+      length: lengthFilter,
       sort: sortOrder,
       page: currentPage,
     }),
-    [selectedYear, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]
+    [selectedYear, selectedTag, searchQuery, statusFilter, lengthFilter, sortOrder, currentPage]
   );
 
   const handleRandom = useCallback(() => {
@@ -306,6 +331,10 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     statusFilter === 'voted' ? 'Voted' :
     statusFilter === 'not-voted' ? 'Not Voted' :
     '',
+    lengthFilter === 'quick' ? 'Quick' :
+    lengthFilter === 'medium' ? 'Medium-Length' :
+    lengthFilter === 'long' ? 'Long' :
+    '',
     selectedTag || '',
     selectedYear !== null ? String(selectedYear) : '',
     'Reviews',
@@ -325,6 +354,11 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
           <a href="https://robennals.org" target="_blank" rel="noopener noreferrer" className="text-link hover:underline">
             Rob Ennals
           </a>. Contact Rob if you find any issues with this site.
+          Essays are also{' '}
+          <Link href="/epub" className="text-link hover:underline">
+            available as ePub
+          </Link>{' '}
+          for offline reading.
         </p>
       </header>
 
@@ -376,6 +410,23 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               isFiltered={selectedTag !== null}
             />
           )}
+          <FilterDropdown
+            label="Length"
+            value={
+              lengthFilter === 'quick' ? 'Under 20 min' :
+              lengthFilter === 'medium' ? '20–30 min' :
+              lengthFilter === 'long' ? 'Over 30 min' :
+              'All'
+            }
+            options={[
+              { id: null, label: 'All' },
+              { id: 'quick', label: 'Under 20 min' },
+              { id: 'medium', label: '20–30 min' },
+              { id: 'long', label: 'Over 30 min' },
+            ]}
+            onSelect={(id) => applyChanges({ length: (id || 'all') as LengthFilter, page: 1 })}
+            isFiltered={lengthFilter !== 'all'}
+          />
           <FilterDropdown
             label="Status"
             value={

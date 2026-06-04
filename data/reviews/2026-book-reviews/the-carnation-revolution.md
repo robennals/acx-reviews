@@ -19,7 +19,7 @@ tags:
 
 * * *
 
-> “**Don’t worry – today, and every year going forward, April 25th will be a national holiday.**_”_
+> “**Don’t worry – today, and every year going forward, April 25th will be a national holiday.**”
 >
 > Captain Salgueiro Maia attempts to reassure a cleaning lady who, upset that soldiers are blocking her from entering work for her early morning shift at the Post Office facing Terreiro do Paço, insists on speaking to the person in charge.
 
@@ -247,7 +247,7 @@ Adelino Gomes, a journalist, was on the street from 7am with a photographer, mic
 
 Once there, Gomes is surprised to see Maia, who was a high school classmate. Maia is not too busy to be thrilled to see him, tell him his blacklisting was an injustice and that it was for people like him to do their work that he was out that day.[[5]](#ftnt5)  Among the many sounds from Gomes’ recordings of April 25th are people, feeling free for the first time to express their political views, enthusiastically shouting political slogans from all sides of the political spectrum.
 
-> “**My man! Do you think that we, who are here to give freedom back to the Portuguese, would start by removing it from you, a journalist?**_”_
+> “**My man! Do you think that we, who are here to give freedom back to the Portuguese, would start by removing it from you, a journalist?**”
 >
 > Captain Salgueiro Maia responds to Reuters Portugal bureau chief Andrade Santos who, having briefly glanced at the political platform handed to him moments before by Maia, asks if he was permitted to leave Terreiro do Paço to file a report on it.
 
@@ -261,7 +261,7 @@ Once they understand what is going on, the soldiers guarding Army HQ also join M
 
 Confused Generals, Colonels and their staff shout out of the upper windows of Army HQ to the troops in the square trying to clarify the situation. Maia shouts back that they should be responding to orders from the new government, as he himself is doing, and if they do not he is afraid he will be ordered to go in and arrest them. There will be ample opportunity later that morning to round up Army leadership. In the meantime, the Captains need Army HQ to be in control and focused on clearing EPC from Terreiro do Paço.
 
-> “**Everything’s fine here Colonel – is there a problem?**_”_
+> “**Everything’s fine here Colonel – is there a problem?**”
 >
 > Captain Luis Macedo, in the HQ of the 1st Engineering Regiment (RE1), responds to a call from RE1’s higher headquarters trying to figure out what is going on. Right after he hangs up the phone, he and his colleagues listening break into loud laughter. RE1 had been working flat out for the coup since March.  They'd set up the fully equipped Captain HQ, including tapping into government and military communications.  Only now is their higher headquarters checking in.
 
@@ -335,7 +335,7 @@ April 25th was a demonstration of capacity that suddenly made the Captains the d
 
 On March 11, 1975 there was a hopelessly inadequate right wing rising that sparked an immediate counter rising. The whole thing dissolved in three hours under the media cameras as the soldiers and officers on both sides of the barricades figured out that each was there to fight for the principles of April 25th. The clear lesson being that you needed a solid story about defending the principles of April 25th if you were going to ask your troops to help overthrow the government.
 
-> “**I ask Colonel Varela Gomes if he is alive, or if he is dead?**_”_
+> “**I ask Colonel Varela Gomes if he is alive, or if he is dead?**”
 >
 > Captain José da Costa Neves, in the direct manner of a Portuguese Captain, disagrees with the consensus to execute the leaders of the right wing military rising that had failed earlier that day. To much applause, Colonel Gomes had spoken forcefully in favour of execution. In 1962, Gomes had led a failed coup against the Salazar regime, for which he was imprisoned rather than executed. Gomes was one of the political prisoners freed by the Captains on April 25th.
 

@@ -7,6 +7,10 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-19T14:13:23.000Z'
 slug: traces-erased-by-the-sun
+excerpt: >-
+  How might a ninth century proto-rationalist have understood the world?
+  Although it's difficult to say with certainty, or at least with both
+  certainty and honesty, one could do worse than to examine...
 wordCount: 3620
 readingTimeMinutes: 17
 source: gdoc
@@ -15,7 +19,9 @@ tags:
   - History
 ---
 
-## translated by Robert Irwin
+_**Traces Erased by the Sun**_  
+**by Abu al-Bayda al-Rabahi**  
+**translated by Robert Irwin**
 
 How might a ninth century proto-rationalist have understood the world? Although it's difficult to say with certainty, or at least with both certainty and honesty, one could do worse than to examine the life, the times, and the writings of one Abu al-Bayda al-Rabahi.
 
@@ -49,12 +55,12 @@ A couple of examples are in order. The first is a parable that speaks to a cause
 >
 > The sheikh said: "How excellent was Nasr ibn Sayyar when he cautioned his people, saying:
 >
-> I see amidst the ash the glow of embers,  
-> And soon, I fear, they shall burst into flame.  
-> For fire is kindled by the rubbing of two sticks,  
-> And the beginning of war is but a word.  
-> I said in wonderment, 'Would that I knew:  
-> Are the Umayyads awake, or are they dreaming?'"
+> &nbsp;&nbsp;&nbsp;&nbsp;I see amidst the ash the glow of embers,  
+> &nbsp;&nbsp;&nbsp;&nbsp;And soon, I fear, they shall burst into flame.  
+> &nbsp;&nbsp;&nbsp;&nbsp;For fire is kindled by the rubbing of two sticks,  
+> &nbsp;&nbsp;&nbsp;&nbsp;And the beginning of war is but a word.  
+> &nbsp;&nbsp;&nbsp;&nbsp;I said in wonderment, 'Would that I knew:  
+> &nbsp;&nbsp;&nbsp;&nbsp;Are the Umayyads awake, or are they dreaming?'"
 
 There are multiple references to the Zanj Rebellion here. The most obvious one is the inability of Basra's rival factions to keep the peace during the siege. The "black wind" and "rain as dark as liquid pitch" evoke the burning of plantations and sugar refineries. The poem that ends the parable is also a veiled reference; the historical context of the poem is that it was sent to the Umayyad caliph in 747 C.E. to warn about the Abbasid Revolution. Al-Rabahi's inclusion of it here draws a parallel between that earlier revolution and the Zanj Rebellion to further illustrate the cyclical nature of ruin.
 
@@ -79,14 +85,14 @@ As our second example, consider the following poem that argues for the preservat
 
 Al-Rabahi's manuscript is in some ways surprisingly modern. His ideas about the inevitable and cyclical nature of ruin anticipate modern discussions of systemic fragility, tail risks, and the brittleness of large-scale coordination. Eleven hundred years later we still find ourselves asking the questions of how to preserve norms when institutions have difficulty enforcing them and what value there is in acting with nobility when incentives reward the opposite. The more things change, the more they stay the same.
 
-* * *
+<p style="text-align: center;">***</p>
+
 In his translator's preface, Irwin states the two reasons that he decided to translate al-Rabahi's work. The first is that it gives us an unusual glimpse into Abbasid society, unusual both because of al-Rabahi's status as (merely) a minor provincial scholar and because of its uncommon subject matter. The second reason is that it teaches the lesson that the preservation of culture depends on the innumerable minor figures who work toward that end. As to why Irwin would offer those reasons to a modern English-speaking general audience, we first need to learn something about Robert Irwin.
 
 **II.**
 
-_**Traces Erased by the Sun**_
-
-## by Robert Irwin
+_**Traces Erased by the Sun**_  
+**by Robert Irwin**
 
 Robert Graham Irwin was born in Guildford in the year 1946 C.E. His education brought him to the city of Oxford, and he later established himself as a lecturer, literary fantasy author, and medieval Islamic scholar.
 
@@ -152,8 +158,6 @@ In the event of a civilizational catastrophe, the highly cultivated person will 
 Viewed this way, the real absurdity appears to be that a person would hand over his mind to be fodder for a culture. However, it's not as absurd as it appears. For one thing, enculturation starts young, before a person has developed the capacity to critically examine the ideas of his culture. For another, the relationship is more symbiotic than my rhetoric above was suggesting. A highly cultivated person reaps genuine social benefits that, all else being equal, are not available to an uncultured person.
 
 So the short answer is, reciprocity. A highly cultivated person reaps greater social benefits than an uncultured person, but the cost of those benefits is the concession of his mind to his culture's ideas.
-
-**Footnotes.**
 
 [1] As an author of fiction. As a historian, Irwin _did_ take and argue positions, but they tended to be historical or historiographical positions rather than political or philosophical positions. For example, in _Ibn Khaldun: An Intellectual Biography_, Irwin argued that that historical personage is best understood as a medieval Arab scholar, rather than as the secretly modern rationalist or secular scientist that other modern-era Orientalist scholars and historians had portrayed him to be. (_Ibn Khaldun_ was published in 2018; one wonders whether _Traces Erased by the Sun_ was, at least in part, an earlier, literary exploration of the tendency of modern readers to project contemporary intellectual concerns onto medieval figures.)
 

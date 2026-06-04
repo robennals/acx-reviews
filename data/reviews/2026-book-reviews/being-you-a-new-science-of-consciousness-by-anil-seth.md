@@ -522,12 +522,14 @@ So he built a new machine: this one looked away from the small hole somewhere on
 > _in the crowd; Petals on a wet, black bough_  
 > _in our existence spots of time_  
 > _replacing continuous variables with discrete matrices—_  
-> _a point of convergence at the summit towards which everything is moving_  
+> _a point of convergence at the summit towards which everything is moving_
+>
 > _not to be, that is the question:_  
 > _I think, therefore_  
 > _I am large, I contain multitudes_  
 > _not tied or manacled with joint or limb,_  
-> _a mobile army of metaphors_  
+> _a mobile army of metaphors_
+>
 > _for the box might even be empty,_  
 > _used but never filled: an abyss it is,_  
 > _an implacable force brooding over an inscrutable intention,_  

@@ -10,7 +10,6 @@ slug: how-i-killed-pluto-and-why-it-had-it-coming
 wordCount: 12866
 readingTimeMinutes: 58
 source: gdoc
-disableFootnotes: true
 tags:
   - Science
   - Memoir
@@ -23,10 +22,6 @@ I was even more intrigued when I looked up the author and realized that he was s
 As the title of the book implies, it covers Brown’s discovery of Quaoar, Sedna, Eris, etc and the subsequent demotion of Pluto. It does explain the case against Pluto in a detailed and nuanced way, but this is not quite the main focus of the book. [On his website](https://mikebrown.caltech.edu/more), Brown says of it, “[This book] is a love story, to my wife, my daughter, and the solar system,” and I think this is fair as far as it goes. I would describe the book as a personal memoir of a particularly interesting and accomplished astronomer, and as such, as a case study in what this particular astronomer does all day, what he’s like, and how he got that way.
 
 The book itself is relatively short (288 pages), written in a witty, conversational style. It strikes a good balance on technical depth withoutassuming an academic background from the reader, but still goes into enough detail to be interesting for those who do care for the details; and if you want more depth, it gives you more than enough information to track down more scholarly papers and lectures on the subject. As I prepared this review, I explored these papers and was pleasantly surprised to learn that Brown is far from unique among astronomers in his talents as a writer: Virtually every paper I read was engagingly written, and most of them were relatively accessible to a non-astronomer with decent but nonspecialized background knowledge. My one serious criticism of the book is its lack of illustrations and diagrams, an oversight which I shall amend by using too many visuals in my review.
-
-* * *
-
-[1] A category of objects larger than supergiant planets but smaller than the smallest proper stars, characterized by being big enough to sustain deuterium fusion but not fusion of regular hydrogen. They are named by analogy with Red Dwarf stars.
 
 ## What even is a planet?
 
@@ -90,15 +85,15 @@ Finally, in 1930, Clyde Tombaugh, armed with an even better telescope and search
 
 ## How do you look for planets?
 
-In his story of the history of the concept of planets, Brown heavily emphasizes the original “wanderer” meaning, and for good reason: That’s still the heart of how you look for planets in the modern age. you choose a patch of sky and keep looking at it over several nights to see what changes. Herchel, Piazza, and other 19th century planet hunters did this by taking note of everything they thought worth measuring and writing down their exact positions in the sky. ![](https://acximages.ennals.org/images/2026-book-reviews/74726d193089d2ca.png)
+In his story of the history of the concept of planets, Brown heavily emphasizes the original “wanderer” meaning, and for good reason: That’s still the heart of how you look for planets in the modern age. you choose a patch of sky and keep looking at it over several nights to see what changes. Herchel, Piazza, and other 19th century planet hunters did this by taking note of everything they thought worth measuring and writing down their exact positions in the sky. ![](https://acximages.ennals.org/images/2026-book-reviews/67d87a23f5d67d2b.png)
 
 > _The discovery images of Pluto [(source)](https://www.planetary.org/space-images/the-pluto-discovery-plates). The arrows were added afterwards and would probably have made Tombaugh’s task considerably easier had they appeared in the original._
 
-Besides the benefit of even better telescopes, Tombaugh had two big technological advances from the 150 years between the discoveries of Uranus and Pluto, The first was the ability to take detailed photographs of what the telescope saw so that the analysis didn’t have to be done in real time. The second was the Blink Comparator, a device for viewing two glass photographic plates [1] in rapid succession through the same eyepiece for easier and faster comparison.
+Besides the benefit of even better telescopes, Tombaugh had two big technological advances from the 150 years between the discoveries of Uranus and Pluto, The first was the ability to take detailed photographs of what the telescope saw so that the analysis didn’t have to be done in real time. The second was the Blink Comparator, a device for viewing two glass photographic plates [2] in rapid succession through the same eyepiece for easier and faster comparison.
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/7d6a1bd355bf73a8.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/2311b497f56106cb.png)
 
 <figcaption>
 
@@ -110,7 +105,7 @@ _Tombaugh’s blink comparator_
 
 There were several other systematic searches for objects beyond Neptune before Brown’s. First Percival Lowell searched for a hypothesized gas giant called “Planet X” in the late 19th and early 20th century. Tombaugh continued this search and found Pluto. In the 70s and 80s, Charlie Kowal of Palomar Observatory did his own search for Planet X and found several interesting minor bodies but no planets. And in the 90s, David Jewitt and Jane Luu used similar techniques to look for and find the Kuiper Belt, a band of small-to-medium bodies beyond the orbit of Neptune whose existence had been hypothesized as a source for short-period comets.
 
-In the case of Tombaugh and Lowell, one key difference is that Brown had a much better telescope. Lowell used a 5-inch telescope [2] for most of his survey. Tombaugh used a 13-inch telescope. Brown used a 48-inch telescope, which collects about 2000 times more light than Tombaugh’s and can generate images that show about 100 times more stuff per photograph.
+In the case of Tombaugh and Lowell, one key difference is that Brown had a much better telescope. Lowell used a 5-inch telescope [3] for most of his survey. Tombaugh used a 13-inch telescope. Brown used a 48-inch telescope, which collects about 2000 times more light than Tombaugh’s and can generate images that show about 100 times more stuff per photograph.
 
 However, this does not explain Kowal, who also used exactly the same telescope that Brown did: the Samuel Oschin 48-inch Schmidt Telescope at Palomar Observatory. Brown’s big advantage over Kowal was that Kowal was using exactly the same Blink Comparator technique as Tombaugh. The downside of the bigger telescopes being able to see 100 times more stuff is that there are a hundred times more stuff to look at. Brown estimated that it would have taken forty years to analyze his survey data, while Kowal’s survey was done in ten. Haste and fatigue means that even the best observers (and Kowal was an extremely good one by all accounts) would inevitably miss stuff.
 
@@ -126,7 +121,7 @@ Jewitt and Luu discovered about 50 KBOs, including almost all of the first KBOs 
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/465e78225ff176d6.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/9b2fd00cba07351e.png)
 
 <figcaption>
 
@@ -136,17 +131,11 @@ _Jewitt (left), Luu (center), and Brown (right) [(source)](https://www.kavlipriz
 
 </figure>
 
-* * *
-
-[1] The glass “film” used to take high-quality photographs with this kind of telescope.
-
-[2] Telescope sizes refer to the diameter of aperture from which they collect light, which is the limiting factor in how much light they can collect and also affects ability to resolve fine details. Galileo’s telescope was little more than half an inch. Herschel discovered Uranus with a 7.1 inch telescope. A good pair of binoculars or a low-end hobby telescope might be about 2 inches. Mid-range hobby telescopes are commonly 4-6 inches, and high-end ones may be 12 inches or more.
-
 ## What do you do when you find one?
 
 Brown makes clear in the book that discovering KBOs and even planets is not just an exercise in describing and classifying things for its own sake. The point of discovering new planets and other solar system bodies is so we can do planetary science on them. Each body in the solar system is part of our data set for forming and testing theories about geology, astrophysics, and how the Solar System formed. Discovering a new planet is really cool and gives you huge bragging rights, but the real prize from an academic astronomer’s perspective is that you get first crack at studying it and writing papers about what you find.
 
-The first thing to do is to confirm that you’ve actually found one. The initial search will give you some number of image sets where there’s something that seems to be moving between them. Brown used sets of three images, so his software could filter for objects that seem to be moving consistently between all three. Brown and his collaborator Chad Trujillo [1] configured the software to minimize false negatives at the cost of allowing more false positives, so Brown had thousands of potential finds to manually analyze as “yes” (very likely real), “no” (definitely noise), or “maybe” (worth taking another look). Once you have some maybes or even a yes, you extrapolate where the thing should be now if it’s real, and you go look for it with a more powerful telescope. This rules out almost all of the maybes, but if there is something there, you should be able to see it clearly in about the spot you expected, and it should continue moving across further nights.
+The first thing to do is to confirm that you’ve actually found one. The initial search will give you some number of image sets where there’s something that seems to be moving between them. Brown used sets of three images, so his software could filter for objects that seem to be moving consistently between all three. Brown and his collaborator Chad Trujillo [4] configured the software to minimize false negatives at the cost of allowing more false positives, so Brown had thousands of potential finds to manually analyze as “yes” (very likely real), “no” (definitely noise), or “maybe” (worth taking another look). Once you have some maybes or even a yes, you extrapolate where the thing should be now if it’s real, and you go look for it with a more powerful telescope. This rules out almost all of the maybes, but if there is something there, you should be able to see it clearly in about the spot you expected, and it should continue moving across further nights.
 
 <figure>
 
@@ -186,10 +175,6 @@ On the other hand, you don’t want to wait too long. In Brown’s case, and I d
 
 The last step before you announce is to take advantage of the prerogative of a discoverer to propose the official name for an object. The International Astronomical Union (IAU) has rules for what kinds of names are appropriate for a given type of object (e.g. names associated with creation myths for small bodies beyond the orbit of Neptune), and names must be ratified by the appropriate committee, but it’s very uncommon for them to reject a name proposed by the discoverer which fits the guidelines.
 
-* * *
-
-[1] When we first meet Trujillo, he’s Brown’s postdoc assistant. He later left to take a job at the Gemini Observatory in Hawaii. Before working with Brown, Trujillo had been a grad student assisting Jewitt and Luu’s search for KBOs.
-
 ## Brown’s villain origin story, or, what do astronomers do all day?
 
 This is very much a personal memoir, describing events from Brown’s perspective as a narrative of his own life and work. The technical and historical details are there, at least in broad strokes, and form a large theme of the book, but the focus throughout is on Brown’s own story. His discoveries are a major portion of that, but they’re far from the only thing going on that’s important to him and the book very much reflects that. I think this works very well, because Brown’s personal life comes across as interesting and sympathetic, and because the personal context is often genuinely important to how the scientific history plays out.
@@ -206,7 +191,7 @@ This scarcity of time on the Great Telescopes would shape Brown’s career in an
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/e8bc01d6923569d5.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/1875bcc12f20dea7.png)
 
 <figcaption>
 
@@ -232,7 +217,7 @@ One week in 2002, three extremely good things happened in Brown’s life. The th
 
 <figcaption>
 
-_“Diane (in pink) and Mike (in white), two days post-engagement, east side of Cozumel (in the Caribbean).” [1]_
+_“Diane (in pink) and Mike (in white), two days post-engagement, east side of Cozumel (in the Caribbean).” [5]_
 
 </figcaption>
 
@@ -244,13 +229,13 @@ Brown gives an enormous amount of credit to Trujillo for doing most of the day-t
 
 Brown did work through the problems with the camera, and wound up partnering with Yale astronomer David Rabinowitz. Trujillo remained involved in the project, too, from his new position at the Gemini Observatory in Hawaii; not at the level he had been, but involved enough to warrant codiscoverer credit on Sedna, Haumea, Makemake, and Eris.
 
-Mike Brown and Diane Binney have one child, their daughter Lilah, who was born just as Brown and his collaborators were in the later stages of preparing to announce Haumea and Eris. Brown gives an extensive and highly relatable account of his experiences as a first-time father, both before and after Lilah’s arrival. The anticipation, the apprehension, the frustration with the apparent statistical innumeracy of doctors [2] in the weeks leading up to the birth. The foolish assumptions of first-time parents about what they’re going to get done during parental leave. How labor catches you by surprise no matter how prepared you are. The degree to which your child and the caretaking thereof consumes all your thought, energy, and emotions when she actually arrives. The delights of seeing your baby encounter everything for the first time. And the blur of fatigue from giving round-the-clock care to a completely helpless being who is dependent on you for literally everything; I never put cat litter in the washing machine after mistaking it for detergent, as Brown confesses to have done, but I do (vaguely) remember being tired enough to do so and have nothing but sympathy for the mistake.
+Mike Brown and Diane Binney have one child, their daughter Lilah, who was born just as Brown and his collaborators were in the later stages of preparing to announce Haumea and Eris. Brown gives an extensive and highly relatable account of his experiences as a first-time father, both before and after Lilah’s arrival. The anticipation, the apprehension, the frustration with the apparent statistical innumeracy of doctors [6] in the weeks leading up to the birth. The foolish assumptions of first-time parents about what they’re going to get done during parental leave. How labor catches you by surprise no matter how prepared you are. The degree to which your child and the caretaking thereof consumes all your thought, energy, and emotions when she actually arrives. The delights of seeing your baby encounter everything for the first time. And the blur of fatigue from giving round-the-clock care to a completely helpless being who is dependent on you for literally everything; I never put cat litter in the washing machine after mistaking it for detergent, as Brown confesses to have done, but I do (vaguely) remember being tired enough to do so and have nothing but sympathy for the mistake.
 
-Brown applied somewhat more statistical rigor than I did to the experience of parenting an infant, keeping logs of sleeps and feedings and compiling charts thereof which he published to a [website](https://web.gps.caltech.edu/~mbrown/lilah/), whose URL he gives in the book and which he says he will leave up until Lilah is old enough to be embarrassed by it and make him take it down [3].
+Brown applied somewhat more statistical rigor than I did to the experience of parenting an infant, keeping logs of sleeps and feedings and compiling charts thereof which he published to a [website](https://web.gps.caltech.edu/~mbrown/lilah/), whose URL he gives in the book and which he says he will leave up until Lilah is old enough to be embarrassed by it and make him take it down [7].
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/d6f73c1873f613a7.png)
 
-One thing that Brown had to deal with during his parental leave which I did not was a crisis at work. As the conference approached where Trujillo and Rabinowitz would announce the discovery of the KBO they then called “Santaclaus” (Haumea), news broke that a Spanish astronomer named José-Luis Ortiz had beaten them to the announcement after seeming to discover it independently. Brown’s immediate reaction was private frustration, then a decision to gracefully concede the discovery according to the long-time rule that credit for a discovery goes to the first team to announce it. Gradually, however, evidence trickled in that what Ortiz actually discovered was an unsecured website containing observation logs [4] from one of the telescopes Brown et al had been using to study Haumea. An investigation determined that the website had been accessed by someone at Ortiz’s university in the brief window between when the abstracts of Brown team’s conference papers were released (containing a “license plate” alphanumeric code for Haumea that could be used to find the website) and Ortiz’s announcement. Ortiz first ignored and eventually denied accusations of plagiarism, and responded by attacking Brown for (Ortiz argued) taking an unreasonable length of time before announcing the discovery. The controversy got picked up by a major online community of amateur asteroid hunters who already had a grudge against Brown for taking liberties in announcing names for Quaoar and Sedna before they were officially approved by the IAU’s naming committee. The kerfuffle eventually died down without definitive resolution; years later, the IAU approved Brown’s proposed name for Haumea and rejected Ortiz’s, but listed Spain as the place of discovery and left the official discoverer blank. Brown’s account of the controversy strikes me as remarkably evenhanded; he’s always very precise about what he definitively knows vs his suspicions and conclusions, and he finds inconclusive resolution unsatisfying both for the obvious reasons and because he says Ortiz deserves to be exonerated if he (Brown) is wrong about what happened.
+One thing that Brown had to deal with during his parental leave which I did not was a crisis at work. As the conference approached where Trujillo and Rabinowitz would announce the discovery of the KBO they then called “Santaclaus” (Haumea), news broke that a Spanish astronomer named José-Luis Ortiz had beaten them to the announcement after seeming to discover it independently. Brown’s immediate reaction was private frustration, then a decision to gracefully concede the discovery according to the long-time rule that credit for a discovery goes to the first team to announce it. Gradually, however, evidence trickled in that what Ortiz actually discovered was an unsecured website containing observation logs [8] from one of the telescopes Brown et al had been using to study Haumea. An investigation determined that the website had been accessed by someone at Ortiz’s university in the brief window between when the abstracts of Brown team’s conference papers were released (containing a “license plate” alphanumeric code for Haumea that could be used to find the website) and Ortiz’s announcement. Ortiz first ignored and eventually denied accusations of plagiarism, and responded by attacking Brown for (Ortiz argued) taking an unreasonable length of time before announcing the discovery. The controversy got picked up by a major online community of amateur asteroid hunters who already had a grudge against Brown for taking liberties in announcing names for Quaoar and Sedna before they were officially approved by the IAU’s naming committee. The kerfuffle eventually died down without definitive resolution; years later, the IAU approved Brown’s proposed name for Haumea and rejected Ortiz’s, but listed Spain as the place of discovery and left the official discoverer blank. Brown’s account of the controversy strikes me as remarkably evenhanded; he’s always very precise about what he definitively knows vs his suspicions and conclusions, and he finds inconclusive resolution unsatisfying both for the obvious reasons and because he says Ortiz deserves to be exonerated if he (Brown) is wrong about what happened.
 
 While this was playing out, Brown found that Ortiz’s team had also accessed logs of when Brown’s team had been using the same telescope to study two other discoveries, one of which (codenamed Xena) was larger than Pluto. Brown announced both of these at 4pm Pacific time on a Friday, after the weekend print deadlines for East Coast newspapers.
 
@@ -263,16 +248,6 @@ As the rest of the story plays out over the course of several years, Brown share
 > The cloud passed. The moon came back out and once again brightened the landscape.
 >
 > Lilah smiled at me and tapped her heart. _[ed: Thank you]_
-
-* * *
-
-[1] Picture and caption are both taken from their [wedding website](https://web.gps.caltech.edu/~mbrown/mdfw/).
-
-[2] Brown’s specific complaint was that nobody was able to give him a straight answer about the probability distribution of birth dates relative to due dates. Mine was about rates of Type I and Type II errors in prenatal testing for very rare conditions.
-
-[3] As I write this, Lilah is 20 years old. The site remains up although most of the photo album links are now dead.
-
-[4] 2005 was a more innocent time for network security.
 
 ## What is a planet, redux
 
@@ -311,23 +286,15 @@ _Brown, 2026, preparing to give a lecture on Dwarf Planets_
 
 </figure>
 
-When it came time to give Xena an official name, Brown decided to use a Greco-Roman name to emphasize its almost-planetness [1], but most of the good ones were taken by various asteroids. One of the few still available, Eris, struck him as perfect. Eris is the Goddess of Discord, who started the chain of events that lead to the Trojan War by tossing a golden apple labeled “To the fairest” between Hera, Athena, and Aphrodite. She’s an important and well-known mythological figure, has a catchy name, and the apple of discord is an apt symbol for how the discovery led to the demotion of Pluto and much consequent wailing and gnashing of teeth.
+When it came time to give Xena an official name, Brown decided to use a Greco-Roman name to emphasize its almost-planetness [9], but most of the good ones were taken by various asteroids. One of the few still available, Eris, struck him as perfect. Eris is the Goddess of Discord, who started the chain of events that lead to the Trojan War by tossing a golden apple labeled “To the fairest” between Hera, Athena, and Aphrodite. She’s an important and well-known mythological figure, has a catchy name, and the apple of discord is an apt symbol for how the discovery led to the demotion of Pluto and much consequent wailing and gnashing of teeth.
 
 Eris’s moon, codenamed Gabrielle, was given the permanent name Dysnomia, after the daughter of the mythological Eris. It’s also indirectly named after Brown’s wife, Diane “Di” Binney, in much the same way that James Christy named Pluto’s moon, Charon, partially after his wife Charlene. Dysnomia’s literal meaning, “Lawless”, is also the surname of the actress who played Xena, but Brown swears this is unintentional. I believe him; Brown strikes me as the sort who would be proud of such a pun had it been intended.
 
-* * *
-
-[1] The codename Xena was also chosen for this reason, and also as a nod to “Planet X”.
-
 # Did Pluto have it coming?
 
-The title of the book promised the reader two things: The story of how the author killed Pluto and a case for why Pluto had it coming. On the first question, I think Brown engaged in a bit of hyperbole. It was Brown’s discovery of Eris that forced the decision on whether or not to kill Pluto, and Brown was one of the louder voices arguing for the eight planet model, but taken literally, “killing Pluto” is too great a claim for any one man. There are several people who were more directly involved in drafting and debating the adopted proposal who could put in a plausible claim to rival Brown’s, but I judge Brown’s claim to the title of “Pluto Killer” [1] to be as good as any and better than most. To the extent Brown deserved credit (or blame) for killing Pluto, the book is an excellent summary of how he did so.
+The title of the book promised the reader two things: The story of how the author killed Pluto and a case for why Pluto had it coming. On the first question, I think Brown engaged in a bit of hyperbole. It was Brown’s discovery of Eris that forced the decision on whether or not to kill Pluto, and Brown was one of the louder voices arguing for the eight planet model, but taken literally, “killing Pluto” is too great a claim for any one man. There are several people who were more directly involved in drafting and debating the adopted proposal who could put in a plausible claim to rival Brown’s, but I judge Brown’s claim to the title of “Pluto Killer” [10] to be as good as any and better than most. To the extent Brown deserved credit (or blame) for killing Pluto, the book is an excellent summary of how he did so.
 
 I’ll look at the second now: Having read the book and done some thinking about the subject on our own, do we agree with Brown that Pluto had it coming?
-
-* * *
-
-[1] Brown uses “@PlutoKiller” as his handle on Bluesky, Twitter, and YouTube.
 
 ## Brown’s case against Pluto
 
@@ -335,7 +302,7 @@ I definitely think so, but I was already convinced of the matter before I ever h
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/feedc61585ebca35.png)
 
-In the late 19th century, the astronomy community quietly and gradually reached the collective decision that the larger bodies of the Asteroid Belt should be grouped in with the smaller bodies in the same reason as “asteroids” or “planetoids” or “minor planets” and not considered peers of the eight “major planets”. Brown argues that the same is true of the Kuiper Belt, and that Pluto, Eris, Quaoar, and the others should get the same treatment as Ceres and company. Revisiting that decision and counting what are now considered Dwarf Planets as full-fledged Planets would leave us with dozens or hundred of planets [1], which is too many to serve as legible landmarks of a meaningful understanding of the Solar System. He argues there is no sensible scientific rationale for singling out a handful of these second-tier bodies for planetary status. There’s a certain emotional appeal to making unprincipled exceptions for Pluto and Eris (Brown admits he is not immune to this appeal himself), but doing so would present a distorted model of the structure of the Solar System that would have to be unlearned by anyone taking an interest in the matter.
+In the late 19th century, the astronomy community quietly and gradually reached the collective decision that the larger bodies of the Asteroid Belt should be grouped in with the smaller bodies in the same reason as “asteroids” or “planetoids” or “minor planets” and not considered peers of the eight “major planets”. Brown argues that the same is true of the Kuiper Belt, and that Pluto, Eris, Quaoar, and the others should get the same treatment as Ceres and company. Revisiting that decision and counting what are now considered Dwarf Planets as full-fledged Planets would leave us with dozens or hundred of planets [11], which is too many to serve as legible landmarks of a meaningful understanding of the Solar System. He argues there is no sensible scientific rationale for singling out a handful of these second-tier bodies for planetary status. There’s a certain emotional appeal to making unprincipled exceptions for Pluto and Eris (Brown admits he is not immune to this appeal himself), but doing so would present a distorted model of the structure of the Solar System that would have to be unlearned by anyone taking an interest in the matter.
 
 Secondarily to this, when astronomers study the dynamics of the Solar System, modelling how it may have formed and why various things have the orbits, shapes, and compositions that they do, certain bodies are tremendously more important than others. The Gas Giants collectively, especially Jupter, loom particularly large here. Neptune was discovered because of its gravitational influence on Uranus during close approaches, and the structure of the Kuiper Belt and environs is defined largely by the influence of Neptune. Brown asks us to imagine an alien explorer without any preconceived notions about “planets” approaching our Solar System for the first time and attempting to understand it. Our hypothetical alien would first notice Jupiter, and then Saturn. Then, it would recognize Uranus and Neptune as being smaller versions of the same basic thing. Much later, looking closely at the inner system, our alien would notice the four rocky planets of the inner system and consider them significant, but would create a new category to describe them, separate from the Gas Giants. They would, much later, notice the large populations of smaller-still objects in the asteroid belt and the Kuiper belt, and would probably give each of these populations their own categories separate from what we call the inner and outer planets.
 
@@ -344,10 +311,6 @@ Here is a visual that Brown has used elsewhere illustrating the relative sizes o
 ![](https://acximages.ennals.org/images/2026-book-reviews/76dcf5ecf8eeff97.png)
 
 The tiny black dots below the four inner planets are the largest bodies in the Asteroid Belt, and the large KBOs (including Pluto) are shown superimposed on Neptune. It is very hard to look at this diagram and argue for nine or ten planets, although reasonable people could argue for four, eight, or several dozen.
-
-* * *
-
-[1] As of 2025, there are five bodies officially recognized by the IAU as Dwarf Planets (Pluto, Ceres, Eris, Haumea, and Makemake) and another four or five that are generally considered all-but-certain to qualify. [Brown has a programmatically-updated page on his website](https://web.gps.caltech.edu/~mbrown/dps.html) which buckets the top 2000-something non-planets based on some heuristics about their likelihood of being Dwarf Planets, which suggest a confidence interval of between several dozen and a few hundred Dwarf Planets in the Solar System among currently-discovered objects.
 
 ## The case for Pluto
 
@@ -369,15 +332,11 @@ _Right: [Mike Brown’s birth chart](https://www.astro.com/cgi/chart.cgi?wgid=wg
 
 </figure>
 
-The second is that Pluto, by virtue of being considered a planet for seventy-six years, has been baked into our culture as a planet and it isn’t the place of the IAU, or Brown, or astronomers generally to attempt to overturn that. Let people who grew up with nine-planet diagrams of the Solar System continue to enjoy them. Let Sailor Moon fans enjoy their nine-woman Sailor Scouts team [1]. Let the New Horizons probe (launched towards Pluto in January 2006, mere months before the IAU decision) be understood as a full-fledged planetary flyby mission. Let astrologers make nine-planet charts and use Pluto as a signifier of destruction. This would argue in favor of making an unprincipled exception for Pluto, and maybe Eris, in favor of a nine-planet or ten-planet solar system, which I’m pretty sure is the strongest emotional motivator for the pro-Plutonian camp.
+The second is that Pluto, by virtue of being considered a planet for seventy-six years, has been baked into our culture as a planet and it isn’t the place of the IAU, or Brown, or astronomers generally to attempt to overturn that. Let people who grew up with nine-planet diagrams of the Solar System continue to enjoy them. Let Sailor Moon fans enjoy their nine-woman Sailor Scouts team [12]. Let the New Horizons probe (launched towards Pluto in January 2006, mere months before the IAU decision) be understood as a full-fledged planetary flyby mission. Let astrologers make nine-planet charts and use Pluto as a signifier of destruction. This would argue in favor of making an unprincipled exception for Pluto, and maybe Eris, in favor of a nine-planet or ten-planet solar system, which I’m pretty sure is the strongest emotional motivator for the pro-Plutonian camp.
 
 The final, and I think scientifically strongest, case in favor of Pluto’s planethood is the proposed Geophysical definition championed by Alan Stern, the planetary scientist who was the Principle Investigator for the New Horizons mission to Pluto. The heart of Stern’s argument, as I understand it, is that a thing should be considered a Planet if it’s big enough for the sorts of things Planetary Scientists study to happen on it, regardless of where it is and what company it keeps. This standard would include not just Dwarf Planets like Pluto, Eris, and Ceres (and probably dozens or hundreds of other bodies likely to turn out to be Dwarf Planets), but also something like ten to twenty “planetary-mass moons” like our own Moon, the large moons of the gas giants, and possibly the large moons of Pluto, Eris, and a few other large TNOs (Trans-Neptunian Objects) besides. Pluto and many of the planetary-mass moons are known to have at least trace atmospheres (much more than traces in the latter cases), complex internal structures, signs of volcanism and tectonic activity, planetary magnetic fields, and so on.
 
 Stern’s proposal is to embrace a definition of “planet” that includes the Dwarf Planets and the Planetary Mass Moons, for a likely total of well over a hundred planets, but to maintain an informal or semi-formal division between a manageable number major landmark planets and the much vaster number of second-tier planets. In 2002, shortly prior to Brown’s discovery of Quaoar, Stern and his colleague Harold Levinson proposed a division between “Überplanets” and “Uberplanets” based on the former clearing their neighborhoods and the latter not doing so. In more recent statements and interviews, Stern seems to have moved away from this and instead seems to favor a semi-arbitrary size cutoff that would include Pluto, Eris, and a handful of the very largest moons, but would exclude most other dwarf planets and planetary-mass moons.
-
-* * *
-
-[1] Strictly speaking, the team is nine young women, one man, and a time-travelling immortal child.
 
 ## My case against Pluto
 
@@ -389,9 +348,9 @@ Another part is that around 2001 or 2002, I read several of Isaac Asimov’s non
 
 In the interests of doing things with numbers and not just with words, I just now threw together a few charts and graphs to try to quantify my anti-Pluto reasoning and see if it holds water. First, here’s a pie chart of the relative masses of the top thirty-something objects in the Solar System besides the Sun, and it definitely bears up Brown’s argument about how an alien observer would classify the solar system. Jupiter and Saturn absolutely dominate the main chart, with Neptune and Uranus registering as much smaller but still significant slices. The four inner planets are minuscule slivers, and the rest make up an illegibly tiny slice. The breakout chart of this tiny slice (collectively 0.026% of the total mass) is dominated by the seven biggest moons. If you zoom in, you can just barely make out Eris and Pluto as the light blue and hot pink slices just above where even the tiny labels I used all get jumbled together. Ceres is buried deep in that jumble.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/031e8318aadbffcd.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/2aaeecbbb3b47715.png)
 
-Next, I decided to take a look at a number of dimensions, not just mass, to compare Pluto, Eris, and Ceres to the least planety of the eight official planets and to the most planety non-planet (the last restricted to Dwarf Planets and major moons). The first are two measures of size: mass and radius. Next, two measures of “clearing the neighborhood”, one based on theoretical orbit-clearing potential (Jean-Luc Margot’s Planetary Discriminant) and the other based on how clear the orbit actually appears to be (Steven Soter’s Planetary Discriminant) [1]. I also included orbital inclination (relative to the [invariable plane](https://en.wikipedia.org/wiki/Invariable_plane)) and eccentricity, based on the observation made variously by Isaac Asimov, [Scott Alexander](https://slatestarcodex.com/2013/05/05/ambijectivity/), and [Alan Stern and Harold Levinson](https://www2.boulder.swri.edu/~hal/PDF/planet_def.pdf) [2] that Pluto’s orbit is weird in these respects compared to all (other) planets except maybe Mercury. Last, based on the late 19th century distinction between “planets” which resolve as discs when viewed through medium-sized Earth-based telescopes and “asteroids” which appear as points, I included criteria for the size (in arcseconds) of the object as viewed from Earth: a good pair of binoculars have a resolution of about 1-2 arcseconds, and a high-end hobby telescope might have a resolution of half an arcsecond or less. I have omitted the Earth and Moon from consideration here since they would dominate the question to an absurd degree, as the Earth covers about 180 degrees (more than half a million arcseconds) and the Moon a little more than half a degree at 1900 arcseconds).
+Next, I decided to take a look at a number of dimensions, not just mass, to compare Pluto, Eris, and Ceres to the least planety of the eight official planets and to the most planety non-planet (the last restricted to Dwarf Planets and major moons). The first are two measures of size: mass and radius. Next, two measures of “clearing the neighborhood”, one based on theoretical orbit-clearing potential (Jean-Luc Margot’s Planetary Discriminant) and the other based on how clear the orbit actually appears to be (Steven Soter’s Planetary Discriminant) [13]. I also included orbital inclination (relative to the [invariable plane](https://en.wikipedia.org/wiki/Invariable_plane)) and eccentricity, based on the observation made variously by Isaac Asimov, [Scott Alexander](https://slatestarcodex.com/2013/05/05/ambijectivity/), and [Alan Stern and Harold Levinson](https://www2.boulder.swri.edu/~hal/PDF/planet_def.pdf) [14] that Pluto’s orbit is weird in these respects compared to all (other) planets except maybe Mercury. Last, based on the late 19th century distinction between “planets” which resolve as discs when viewed through medium-sized Earth-based telescopes and “asteroids” which appear as points, I included criteria for the size (in arcseconds) of the object as viewed from Earth: a good pair of binoculars have a resolution of about 1-2 arcseconds, and a high-end hobby telescope might have a resolution of half an arcsecond or less. I have omitted the Earth and Moon from consideration here since they would dominate the question to an absurd degree, as the Earth covers about 180 degrees (more than half a million arcseconds) and the Moon a little more than half a degree at 1900 arcseconds).
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/5228d7adbb5a2527.png)
 
@@ -399,7 +358,7 @@ This is a little awkward to make sense of, so I’ve also taken the further step
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/6242509a94e87c66.png)
 
-Interestingly, neither Pluto nor Eris qualifies as the most planety non-planet by any of these definitions: Ganymede and our Moon run away with the honors there, except for the sketchy metrics of orbital characteristics where the winners are Quaoar (!) and Ceres. The concept Stern has been promoting of planetary-mass moons is looking pretty good as Ganymede and the Moon are by some criteria slightly more planety than Mercury or Mars, although the Moon is cheating on the empirical orbit-clearing question because the Earth has presumably been doing the heavy lifting there [3]. Mars and Mercury are consistently the least planety planets except on my (extremely sketchy) criterion of apparent size as viewed from Earth, while Jupiter, Earth, and Venus share the honors of “most planety planet”. There's a substantial gap between the least planety planets on one hand and Pluto, Eris, and Ceres on the other hand, but except on the orbit-clearing questions, the gap is usually less than the gap between the most- and least-planety planets.
+Interestingly, neither Pluto nor Eris qualifies as the most planety non-planet by any of these definitions: Ganymede and our Moon run away with the honors there, except for the sketchy metrics of orbital characteristics where the winners are Quaoar (!) and Ceres. The concept Stern has been promoting of planetary-mass moons is looking pretty good as Ganymede and the Moon are by some criteria slightly more planety than Mercury or Mars, although the Moon is cheating on the empirical orbit-clearing question because the Earth has presumably been doing the heavy lifting there [15]. Mars and Mercury are consistently the least planety planets except on my (extremely sketchy) criterion of apparent size as viewed from Earth, while Jupiter, Earth, and Venus share the honors of “most planety planet”. There's a substantial gap between the least planety planets on one hand and Pluto, Eris, and Ceres on the other hand, but except on the orbit-clearing questions, the gap is usually less than the gap between the most- and least-planety planets.
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/75c32d90438f6862.png)
 
@@ -447,23 +406,11 @@ _Artist’s impression of Theia about to collide with the Earth (left) and an an
 
 So, what’s the final word? My heart is still firmly anti-Pluto, and I still think the case against Pluto is a fairly strong one, but I have to admit that Stern’s position is a fairly strong one in its own context, especially the concept of planetary-mass moons. The eight-planet model with a neighborhood-clearing criterion makes the most sense for the purposes of discussing the macro structure of the Solar System, but it also should be acknowledged that there are dozens or hundreds of qualitatively (if not quantitatively) planety things out there worthy of study, both dwarf planets and planet-like moons. The "macro structure of the solar system” perspective is, I think, quite a bit more relevant in most of the contexts in which people talk about planets, but I sympathize with Stern’s desire for an overarching term that encompasses dwarf planets and planet-like moons in addition to the eight major planets.
 
-* * *
-
-[1] Simply the ratio of the mass of the object to the combined mass of everything else in the same orbital zone, excluding its satellites, trojans, and bodies locked in orbital resonance with it. So the Earth doesn’t get penalized for failing to clean up the Moon and neither Neptune nor Pluto gets penalized for failing to clean up the other.
-
-[2] N.b. Stern and Levenson bring up eccentricity as an example of an unsatisfactory criteria for distinguishing planets from non-planets.
-
-[3] We’re pretty sure that the Moon is the result of a major piece of orbit-clearing by the Earth, being formed from debris from a collision between the proto-Earth and a hypothetical Mars-sized body that has been dubbed Theia.
-
 # Epilogue
 
-The main body of the book ends with the official naming of Eris, Haumea, and Makemake between 2006 and 2008, and with Brown telling his readers the five bottles of champagne he’d won from his 1999 bet with Sabine [1] remain undrunk, awaiting more auspicious circumstances. So, what has Brown been up to since then?
+The main body of the book ends with the official naming of Eris, Haumea, and Makemake between 2006 and 2008, and with Brown telling his readers the five bottles of champagne he’d won from his 1999 bet with Sabine [16] remain undrunk, awaiting more auspicious circumstances. So, what has Brown been up to since then?
 
 The book went to press in 2010, and Brown brings us up to that date with a brief epilogue, giving us a few more cute Lilah stories, as a treat. His daughter now four years old, we hear about her naming the corners of their backyard swimming pool after various locales where her daddy has visited in order to talk about planets, riding on his back as he swims her to “Berlin” and “Taiwan” and “Chicago” and “Boston”, before returning to “Pasadena”, where mommy is waiting with snacks. Lilah has picked up her father’s fascination with planets, loves spotting them in the sky, and has independently rediscovered their defining feature, much like the ancient Greeks, that Jupiter moves in the sky from night to night.
-
-* * *
-
-[1] Eris was discovered five days past the deadline, but Sabine was gracious enough to grant Brown an extension.
 
 ## Planet Nine
 
@@ -489,12 +436,42 @@ My eight year old daughter has been watching the lectures with me. It’s access
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/e228d153c670d4cf.png)![](https://acximages.ennals.org/images/2026-book-reviews/ac0c896416a13738.png)
 
-Brown and his family live in a house near Pasadena, far enough out in the boonies that he’s often visited by various wildlife. His most frequent visitor, it seems, is a Cinnamon bear [1] whom he has dubbed Patch. Patch enjoys swimming in Brown’s backyard swimming pool, presumably the same one whose corners four-year-old Lilah had named after cities where her father had recently travelled to give lectures.
+Brown and his family live in a house near Pasadena, far enough out in the boonies that he’s often visited by various wildlife. His most frequent visitor, it seems, is a Cinnamon bear [17] whom he has dubbed Patch. Patch enjoys swimming in Brown’s backyard swimming pool, presumably the same one whose corners four-year-old Lilah had named after cities where her father had recently travelled to give lectures.
 
 My own daughter is a very big fan of Patch the Pool Bear, and it is by pointing out the connection between Patch and Brown that I persuaded her to watch his Science of the Solar System lectures with me.
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/e3ecb15d8094a952.png)
 
-* * *
+[1] A category of objects larger than supergiant planets but smaller than the smallest proper stars, characterized by being big enough to sustain deuterium fusion but not fusion of regular hydrogen. They are named by analogy with Red Dwarf stars.
 
-[1] A subspecies of American Black Bear with reddish-brown fur.
+[2] The glass “film” used to take high-quality photographs with this kind of telescope.
+
+[3] Telescope sizes refer to the diameter of aperture from which they collect light, which is the limiting factor in how much light they can collect and also affects ability to resolve fine details. Galileo’s telescope was little more than half an inch. Herschel discovered Uranus with a 7.1 inch telescope. A good pair of binoculars or a low-end hobby telescope might be about 2 inches. Mid-range hobby telescopes are commonly 4-6 inches, and high-end ones may be 12 inches or more.
+
+[4] When we first meet Trujillo, he’s Brown’s postdoc assistant. He later left to take a job at the Gemini Observatory in Hawaii. Before working with Brown, Trujillo had been a grad student assisting Jewitt and Luu’s search for KBOs.
+
+[5] Picture and caption are both taken from their [wedding website](https://web.gps.caltech.edu/~mbrown/mdfw/).
+
+[6] Brown’s specific complaint was that nobody was able to give him a straight answer about the probability distribution of birth dates relative to due dates. Mine was about rates of Type I and Type II errors in prenatal testing for very rare conditions.
+
+[7] As I write this, Lilah is 20 years old. The site remains up although most of the photo album links are now dead.
+
+[8] 2005 was a more innocent time for network security.
+
+[9] The codename Xena was also chosen for this reason, and also as a nod to “Planet X”.
+
+[10] Brown uses “@PlutoKiller” as his handle on Bluesky, Twitter, and YouTube.
+
+[11] As of 2025, there are five bodies officially recognized by the IAU as Dwarf Planets (Pluto, Ceres, Eris, Haumea, and Makemake) and another four or five that are generally considered all-but-certain to qualify. [Brown has a programmatically-updated page on his website](https://web.gps.caltech.edu/~mbrown/dps.html) which buckets the top 2000-something non-planets based on some heuristics about their likelihood of being Dwarf Planets, which suggest a confidence interval of between several dozen and a few hundred Dwarf Planets in the Solar System among currently-discovered objects.
+
+[12] Strictly speaking, the team is nine young women, one man, and a time-travelling immortal child.
+
+[13] Simply the ratio of the mass of the object to the combined mass of everything else in the same orbital zone, excluding its satellites, trojans, and bodies locked in orbital resonance with it. So the Earth doesn’t get penalized for failing to clean up the Moon and neither Neptune nor Pluto gets penalized for failing to clean up the other.
+
+[14] N.b. Stern and Levenson bring up eccentricity as an example of an unsatisfactory criteria for distinguishing planets from non-planets.
+
+[15] We’re pretty sure that the Moon is the result of a major piece of orbit-clearing by the Earth, being formed from debris from a collision between the proto-Earth and a hypothetical Mars-sized body that has been dubbed Theia.
+
+[16] Eris was discovered five days past the deadline, but Sabine was gracious enough to grant Brown an extension.
+
+[17] A subspecies of American Black Bear with reddish-brown fur.

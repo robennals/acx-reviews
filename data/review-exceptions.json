@@ -1,6 +1,7 @@
 {
   "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
-    "truncateAtLineContaining": "not for publication"
+    "truncateAtLineContaining": "not for publication",
+    "skipFetch": true
   },
   "the-sins-of-gk-chesterton": {
     "dropBlock": {
@@ -19,7 +20,8 @@
     "preserveLeadingHeading": true
   },
   "the-epic-of-gilgamesh": {
-    "forcePoetryQuotes": true
+    "forcePoetryQuotes": true,
+    "skipFetch": true
   },
   "orality-and-literacy-by-walter-ong": {
     "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
@@ -45,7 +47,8 @@
   },
   "coriolanus": {
     "disableItalicAsBlockquote": true,
-    "disableQuotedParagraphAsBlockquote": true
+    "disableQuotedParagraphAsBlockquote": true,
+    "skipFetch": true
   },
   "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
     "docUrlOverride": "https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI/edit",
@@ -66,7 +69,7 @@
     "disableQuotedParagraphAsBlockquote": true
   },
   "how-i-killed-pluto-and-why-it-had-it-coming": {
-    "disableFootnotes": true
+    "skipFetch": true
   },
   "the-gods-themselves": {
     "disableFootnotes": true
@@ -119,5 +122,56 @@
       "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",
       "5374534c3e17ded8": "$$\\left(\\frac{M}{N}\\right)^r$$"
     }
+  },
+  "a-residence-of-twenty-one-years-in-the-sandwich-islands": {
+    "skipFetch": true
+  },
+  "candide": {
+    "skipFetch": true
+  },
+  "that-hideous-strength": {
+    "skipFetch": true
+  },
+  "the-brothers-karamazov": {
+    "skipFetch": true
+  },
+  "the-sovereign-child": {
+    "skipFetch": true
+  },
+  "ghosts": {
+    "skipFetch": true
+  },
+  "world-war-z": {
+    "skipFetch": true
+  },
+  "the-wisdom-of-mike-mentzer": {
+    "skipFetch": true
+  },
+  "the-man-who-was-thursday": {
+    "skipFetch": true
+  },
+  "painting-abstract-landscapes": {
+    "skipFetch": true
+  },
+  "works-by-isaac-bickerstaff": {
+    "skipFetch": true
+  },
+  "how-to-prevent-coups-dtat": {
+    "skipFetch": true
+  },
+  "being-you-a-new-science-of-consciousness-by-anil-seth": {
+    "skipFetch": true
+  },
+  "traces-erased-by-the-sun": {
+    "skipFetch": true
+  },
+  "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness": {
+    "skipFetch": true
+  },
+  "religion-for-atheists": {
+    "skipFetch": true
+  },
+  "the-lever-of-riches": {
+    "skipFetch": true
   }
 }

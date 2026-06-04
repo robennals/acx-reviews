@@ -58,7 +58,7 @@ Syme finds Gregory going on “in high oratorical good humour” about the beaut
 
 Gregory is irritated; so goes on a bit about how terribly soul-crushing it is for a car of passengers when their train coming from Sloane Square arrives as scheduled at Victoria station. “Oh, their wild rapture! oh, their eyes like stars and their souls again in Eden, if the next station were unaccountably Baker Street!”
 
-This is, to borrow the language of the dialectic,[1] the anarchist _thesis_. It is the first, most intuitive, most natural feeling that Chesterton has about beauty: that it should surprise. And of course what he has done (through Gregory) is anchor the aesthetic thesis to a political one: good, or perhaps justice, is in surprise; in throwing bombs and disregarding all governments and all conventions.
+This is, to borrow the language of the dialectic,[5] the anarchist _thesis_. It is the first, most intuitive, most natural feeling that Chesterton has about beauty: that it should surprise. And of course what he has done (through Gregory) is anchor the aesthetic thesis to a political one: good, or perhaps justice, is in surprise; in throwing bombs and disregarding all governments and all conventions.
 
 Syme supplies to Gregory’s crowd the antithesis:
 
@@ -66,7 +66,7 @@ Syme supplies to Gregory’s crowd the antithesis:
 
 And so our stage is set: Syme, whose perspective the novel will take, is a crusader for order, for the beauty and justice of structured, predictable things. He battles against our most natural, intuitive impulses about these things: that what is good is what is imaginative, and what is imaginative is strange and dynamic and uncontrollable. And he will strive to make his idea — or some version of it — intuitive in its own right.
 
-Back in Saffron Park, Gregory gets real huffy and longwinded and so Syme walks away; flirting a bit with Gregory’s sister, then just sort of wandering around. Later on, he and Gregory run into each other again, and after a bit of calculated goading and prodding, mostly calling Gregory a poseur, Syme swears a solemn oath of secrecy and is invited to what Gregory promises will be a very serious and “very entertaining” anarchist evening.
+Back in Saffron Park, Gregory gets real huffy and longwinded and so Syme walks away; flirting a bit with Gregory’s sister, then just sort of wandering around. Later on, he and Gregory run into each other again, and after a bit of calculated goading and prodding, mostly calling Gregory a poseur,[7] Syme swears a solemn oath of secrecy and is invited to what Gregory promises will be a very serious and “very entertaining” anarchist evening.
 
 # 2\. Down the Rabbit Hole
 
@@ -288,7 +288,7 @@ This much we knew of Syme already: this was his Impressionistic moment in the fo
 >
 > “Shall I tell you the secret of the whole world? It is that we have only known the back of the world. We see everything from behind, and it looks brutal. That is not a tree, but the back of a tree. That is not a cloud, but the back of a cloud. Cannot you see that everything is stooping and hiding a face? If we could only get round in front——”
 
-He’s interrupted by Sunday’s balloon falling down. The President himself has disappeared, but a tall man standing where he should be ushers the six Days into fancy, floofy cabs which take them to fancy, floofy hotel rooms, where they change into Biblical costumes before dinner.
+He’s interrupted by Sunday’s balloon falling down. The President himself has disappeared, but a tall man standing where he should be ushers the six Days into fancy, floofy cabs which take them to fancy, floofy hotel rooms, where they change into Biblical costumes before dinner.[20]
 
 Sunday sits before them, “draped plainly, in a pure and terrible white, and his hair … like a silver flame on his forehead.”[21] He speaks, kindly:
 
