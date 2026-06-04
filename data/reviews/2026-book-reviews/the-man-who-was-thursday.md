@@ -58,9 +58,9 @@ Syme finds Gregory going on “in high oratorical good humour” about the beaut
 
 Gregory is irritated; so goes on a bit about how terribly soul-crushing it is for a car of passengers when their train coming from Sloane Square arrives as scheduled at Victoria station. “Oh, their wild rapture! oh, their eyes like stars and their souls again in Eden, if the next station were unaccountably Baker Street!”
 
-This is, to borrow the language of the dialectic,[1] the anarchist _thesis_. It is the first, most intuitive, most natural feeling that Chesterton has about beauty: that it should surprise. And of course what he has done (through Gregory) is anchor the aesthetic thesis to a political one: good, or perhaps justice, is in surprise; in throwing bombs and disregarding all governments and all conventions.
+This is, to borrow the language of the dialectic,[5] the anarchist _thesis_. It is the first, most intuitive, most natural feeling that Chesterton has about beauty: that it should surprise. And of course what he has done (through Gregory) is anchor the aesthetic thesis to a political one: good, or perhaps justice, is in surprise; in throwing bombs and disregarding all governments and all conventions.
 
-Syme supplies to Gregory’s crowd the antithesis[5]:
+Syme supplies to Gregory’s crowd the antithesis:
 
 > “The rare, strange thing is to hit the mark; the gross, obvious thing is to miss it. We feel it is epical when man with one wild arrow strikes a distant bird. Is it not also epical when man with one wild engine strikes a distant station? Chaos is dull; because in chaos the train might indeed go anywhere, to Baker Street or to Bagdad. But man is a magician, and his whole magic is in this, that he does say Victoria, and lo! it is Victoria. No, take your books of mere poetry and prose; let me read a time table, with tears of pride. Take your Byron, who commemorates the defeats of man; give me Bradshaw,[6] who commemorates his victories. Give me Bradshaw, I say!”
 
