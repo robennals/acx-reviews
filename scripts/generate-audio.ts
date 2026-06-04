@@ -13,6 +13,7 @@
  */
 import { config as loadEnv } from 'dotenv';
 import { Agent, fetch as undiciFetch } from 'undici';
+import { createHash } from 'node:crypto';
 import { execFileSync } from 'node:child_process';
 import { existsSync, globSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import matter from 'gray-matter';
@@ -208,13 +209,21 @@ async function generate(
   voice: string,
   model: string,
   apiKey: string,
-  reusePcm: (Buffer | null)[] | null
+  reusePcm: (Buffer | null)[] | null,
+  cacheDir: string
 ): Promise<{ pcmBuffers: Buffer[]; usage: TtsUsage }> {
   const usage: TtsUsage = { inputTokens: 0, outputTokens: 0 };
   const pcmBuffers: Buffer[] = [];
+  mkdirSync(cacheDir, { recursive: true });
   for (const [i, chunk] of chunks.entries()) {
-    const reused = reusePcm?.[i] ?? null;
+    // Per-chunk PCM cache: a rerun after a crash (quota, network) resumes
+    // instead of re-paying for chunks already synthesized.
+    const hash = createHash('sha1').update(`${model}\0${voice}\0${chunk.text}`).digest('hex').slice(0, 12);
+    const cachePath = `${cacheDir}/${i}-${hash}.pcm`;
+    let reused = reusePcm?.[i] ?? null;
+    if (!reused && existsSync(cachePath)) reused = readFileSync(cachePath);
     const pcm = reused ?? (await synthesizeChunk(chunk.text, voice, model, apiKey, usage));
+    if (!reused) writeFileSync(cachePath, pcm);
     const seconds = pcm.length / (SAMPLE_RATE * 2);
     const rate = chunk.text.length / seconds;
     const note = reused ? ' (reused)' : rate > 17.5 ? `  WARNING: fast (${rate.toFixed(1)} chars/sec)` : '';
@@ -264,7 +273,10 @@ async function main() {
 
   for (const voice of args.voices) {
     console.log(`\nVoice: ${voice}`);
-    const { pcmBuffers, usage } = await generate(chunks, voice, args.model, apiKey, reusePcm);
+    const { pcmBuffers, usage } = await generate(
+      chunks, voice, args.model, apiKey, reusePcm,
+      `.audio-work/${args.outName}.chunks`
+    );
     const pcm = Buffer.concat(pcmBuffers);
     const totalSeconds = pcm.length / (SAMPLE_RATE * 2);
 
