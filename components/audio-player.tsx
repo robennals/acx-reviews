@@ -86,7 +86,10 @@ export function AudioPlayer({ slug, audio }: AudioPlayerProps) {
     }
 
     const blocks = Array.from(
-      container.querySelectorAll<HTMLElement>('h1,h2,h3,h4,h5,h6,p')
+      // li covers tight-list bullets, which render without an inner <p>.
+      // Loose lists (li > p) still match: the parent li comes first in
+      // document order with the same normalized text.
+      container.querySelectorAll<HTMLElement>('h1,h2,h3,h4,h5,h6,p,li')
     );
     const matches = matchParagraphsToBlocks(
       paraTexts,
@@ -311,7 +314,7 @@ export function AudioPlayer({ slug, audio }: AudioPlayerProps) {
    *  to the paragraph's first word when the APIs or ranges can't place it. */
   const wordIndexAtPoint = useCallback(
     (x: number, y: number, target: HTMLElement): number | null => {
-      const block = target.closest<HTMLElement>('h1,h2,h3,h4,h5,h6,p');
+      const block = target.closest<HTMLElement>('h1,h2,h3,h4,h5,h6,p,li');
       if (!block) return null;
       let paraIndex = -1;
       for (const [pi, el] of paraElementsRef.current) {
