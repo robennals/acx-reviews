@@ -292,7 +292,7 @@ An anthropology student then spoke up.
 
 They then took out their phone, flicked to some notes and showed them.
 
-> “Of those: twenty-two percent mocking, joking, or pantomime. Forty-one percent outright complaint or criticism. Thirty-five percent harsh criticism. Two percent actual violence.” [10 ]
+> “Of those: twenty-two percent mocking, joking, or pantomime. Forty-one percent outright complaint or criticism. Thirty-five percent harsh criticism. Two percent actual violence.”[^10]
 
 “No. No—this is getting us nowhere. If talking solved our problem, we wouldn’t be here sorting out rotas we know we can’t enforce.”
 

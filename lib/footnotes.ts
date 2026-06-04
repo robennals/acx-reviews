@@ -1006,6 +1006,70 @@ export function extractFootnotes(
     }
   }
 
+  // Nested refs: a footnote's content can itself reference another
+  // footnote (violence-and-the-sacred's "For the sake of brevity[6]" →
+  // "[6] Relatively speaking."; Money by Martin Amis's [2.5] inside def
+  // [2]). Rewrite plain-bracket refs inside each footnote's raw the same
+  // way body refs are rewritten. Restricted to the formats whose body
+  // refs are plain brackets — in link-anchored formats (ftnt/sdfootnote)
+  // a bare [N] inside a footnote is just text. The `id="fn-ref-N"` anchor
+  // lands on the first occurrence overall (body wins; else the nested
+  // ref), so the footnote section's ↩ backlink always has a target.
+  if (format === 'plain' || format === 'bracket-colon') {
+    const bodyRefIds = new Set<string>();
+    for (const m of extracted.body.matchAll(/data-fn-id="([^"]+)"/g)) {
+      bodyRefIds.add(m[1]);
+    }
+    const idsAlt = extracted.footnotes
+      .map(f => f.id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+      .join('|');
+    if (idsAlt) {
+      const nestedRe = new RegExp(`(?<!\\[)\\[(${idsAlt})\\](?!\\()`, 'g');
+      const nestedSeen = new Set<string>();
+      // parent id → nested-only ids it references, in order. Used below to
+      // move nested-only footnotes out of the unreferenced tail and slot
+      // them right after their parent.
+      const nestedByParent = new Map<string, string[]>();
+      for (const fn of extracted.footnotes) {
+        fn.raw = fn.raw.replace(nestedRe, (full, id: string) => {
+          if (id === fn.id) return full;
+          const first = !bodyRefIds.has(id) && !nestedSeen.has(id);
+          nestedSeen.add(id);
+          if (!bodyRefIds.has(id)) {
+            const list = nestedByParent.get(fn.id) ?? [];
+            if (!list.includes(id)) list.push(id);
+            nestedByParent.set(fn.id, list);
+          }
+          return REF_MARKER(id, first);
+        });
+      }
+      if (nestedByParent.size > 0) {
+        const nestedOnly = new Set(
+          [...nestedByParent.values()].flat()
+        );
+        const byId = new Map(extracted.footnotes.map(f => [f.id, f]));
+        const placed = new Set<string>();
+        const ordered: ExtractedFootnote[] = [];
+        const place = (fn: ExtractedFootnote) => {
+          if (placed.has(fn.id)) return;
+          placed.add(fn.id);
+          ordered.push(fn);
+          for (const nid of nestedByParent.get(fn.id) ?? []) {
+            const nfn = byId.get(nid);
+            if (nfn) place(nfn);
+          }
+        };
+        for (const fn of extracted.footnotes) {
+          if (!nestedOnly.has(fn.id)) place(fn);
+        }
+        // Safety net: anything still unplaced (nested-only id whose parent
+        // was itself dropped) keeps its original position at the tail.
+        for (const fn of extracted.footnotes) place(fn);
+        extracted.footnotes = ordered;
+      }
+    }
+  }
+
   // Strip a trailing "Footnotes" / "Endnotes" section heading from the
   // body — every format leaves the body ending just before the
   // footnote-defs region, and the render layer adds its own
