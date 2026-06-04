@@ -1,34 +1,48 @@
 {
+  "a-secular-age": {
+    "audioUrl": "https://acximages.ennals.org/audio/a-secular-age.m4a",
+    "wordsUrl": "/api/audio-words/a-secular-age",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/a-secular-age.words.json",
+    "durationSeconds": 1961,
+    "voice": "Sulafat"
+  },
+  "ghosts": {
+    "audioUrl": "https://acximages.ennals.org/audio/ghosts.m4a",
+    "wordsUrl": "/api/audio-words/ghosts",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/ghosts.words.json",
+    "durationSeconds": 1976.3,
+    "voice": "Sulafat"
+  },
   "moby-dick-or-the-whale": {
-    "audioUrl": "https://acximages.ennals.org/audio/moby-dick-or-the-whale.mp3",
+    "audioUrl": "https://acximages.ennals.org/audio/moby-dick-or-the-whale.m4a",
     "wordsUrl": "/api/audio-words/moby-dick-or-the-whale",
     "r2WordsUrl": "https://acximages.ennals.org/audio/moby-dick-or-the-whale.words.json",
     "durationSeconds": 1826,
     "voice": "Sulafat"
   },
   "the-bible": {
-    "audioUrl": "https://acximages.ennals.org/audio/the-bible.mp3",
+    "audioUrl": "https://acximages.ennals.org/audio/the-bible.m4a",
     "wordsUrl": "/api/audio-words/the-bible",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-bible.words.json",
     "durationSeconds": 162,
     "voice": "Sulafat"
   },
   "the-brothers-karamazov": {
-    "audioUrl": "https://acximages.ennals.org/audio/the-brothers-karamazov.mp3",
+    "audioUrl": "https://acximages.ennals.org/audio/the-brothers-karamazov.m4a",
     "wordsUrl": "/api/audio-words/the-brothers-karamazov",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-brothers-karamazov.words.json",
     "durationSeconds": 465.8,
     "voice": "Sulafat"
   },
   "the-last-temptation-of-christ": {
-    "audioUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.mp3",
+    "audioUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.m4a",
     "wordsUrl": "/api/audio-words/the-last-temptation-of-christ",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.words.json",
     "durationSeconds": 227,
     "voice": "Sulafat"
   },
   "tiger-chair": {
-    "audioUrl": "https://acximages.ennals.org/audio/tiger-chair.mp3",
+    "audioUrl": "https://acximages.ennals.org/audio/tiger-chair.m4a",
     "wordsUrl": "/api/audio-words/tiger-chair",
     "r2WordsUrl": "https://acximages.ennals.org/audio/tiger-chair.words.json",
     "durationSeconds": 469.4,

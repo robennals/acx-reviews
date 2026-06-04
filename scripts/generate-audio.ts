@@ -6,10 +6,10 @@
  *   pnpm exec tsx scripts/generate-audio.ts <slug> --sample --voices Charon,Sulafat,Iapetus,Gacrux
  *
  * Outputs (gitignored):
- *   public/audio/{slug}.mp3              full narration (64kbps mono)
+ *   public/audio/{slug}.m4a              full narration (AAC 96kbps mono)
  *   public/audio/{slug}.timings.json     per-chunk start/end + paragraph text
  *   .audio-work/{slug}.wav               lossless copy for whisperX alignment
- *   public/audio/samples/{slug}.{voice}.mp3   --sample mode (first chunk only)
+ *   public/audio/samples/{slug}.{voice}.m4a   --sample mode (first chunk only)
  */
 import { config as loadEnv } from 'dotenv';
 import { execFileSync } from 'node:child_process';
@@ -113,10 +113,16 @@ async function synthesizeChunk(
   }
 }
 
-function encodeMp3(pcm: Buffer, outPath: string): void {
+/** Encode to AAC (.m4a): markedly better than MP3 for speech at the same
+ *  bitrate and just as universally playable. +faststart fronts the moov
+ *  atom so playback and range-request seeking start instantly from R2. */
+function encodeM4a(pcm: Buffer, outPath: string): void {
   execFileSync(
     'ffmpeg',
-    ['-y', '-f', 's16le', '-ar', String(SAMPLE_RATE), '-ac', '1', '-i', 'pipe:0', '-b:a', '64k', outPath],
+    [
+      '-y', '-f', 's16le', '-ar', String(SAMPLE_RATE), '-ac', '1', '-i', 'pipe:0',
+      '-c:a', 'aac', '-b:a', '96k', '-movflags', '+faststart', outPath,
+    ],
     { input: pcm, stdio: ['pipe', 'ignore', 'pipe'] }
   );
 }
@@ -172,13 +178,13 @@ async function main() {
     const totalSeconds = pcm.length / (SAMPLE_RATE * 2);
 
     if (args.sample) {
-      const outPath = `public/audio/samples/${args.slug}.${voice}.mp3`;
-      encodeMp3(pcm, outPath);
+      const outPath = `public/audio/samples/${args.slug}.${voice}.m4a`;
+      encodeM4a(pcm, outPath);
       console.log(`  wrote ${outPath} (${totalSeconds.toFixed(1)}s)`);
     } else {
-      const mp3Path = `public/audio/${args.slug}.mp3`;
+      const audioPath = `public/audio/${args.slug}.m4a`;
       const wavPath = `.audio-work/${args.slug}.wav`;
-      encodeMp3(pcm, mp3Path);
+      encodeM4a(pcm, audioPath);
       writeFileSync(wavPath, wavFromPcm(pcm, SAMPLE_RATE));
 
       const timings = chunkTimings(pcmBuffers.map((b) => b.length), SAMPLE_RATE);
@@ -191,7 +197,7 @@ async function main() {
         chunks: chunks.map((chunk, i) => ({ ...timings[i], paragraphs: chunk.paragraphs })),
       };
       writeFileSync(`public/audio/${args.slug}.timings.json`, JSON.stringify(timingsJson, null, 2));
-      console.log(`  wrote ${mp3Path} (${(totalSeconds / 60).toFixed(1)} min), ${wavPath}, timings JSON`);
+      console.log(`  wrote ${audioPath} (${(totalSeconds / 60).toFixed(1)} min), ${wavPath}, timings JSON`);
     }
     // Flash TTS list price: $0.50/1M text-in, $10/1M audio-out tokens.
     const estCost = (usage.inputTokens / 1e6) * 0.5 + (usage.outputTokens / 1e6) * 10;

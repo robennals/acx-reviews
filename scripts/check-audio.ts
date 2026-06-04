@@ -27,7 +27,9 @@ function mp3DurationSeconds(path: string): number {
 
 async function checkSlug(slug: string, entry: { audioUrl: string; r2WordsUrl: string }): Promise<string[]> {
   const problems: string[] = [];
-  const mp3Path = `public/audio/${slug}.mp3`;
+  // Audio extension matches whatever the manifest's URL points at.
+  const audioExt = entry.audioUrl.endsWith('.m4a') ? 'm4a' : 'mp3';
+  const mp3Path = `public/audio/${slug}.${audioExt}`;
   const wordsPath = `public/audio/${slug}.words.json`;
   const timingsPath = `public/audio/${slug}.timings.json`;
 

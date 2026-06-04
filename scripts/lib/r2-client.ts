@@ -6,7 +6,12 @@
  * with a HEAD-then-PUT pattern for idempotency.
  */
 
-import { S3Client, HeadObjectCommand, PutObjectCommand } from '@aws-sdk/client-s3';
+import {
+  S3Client,
+  HeadObjectCommand,
+  PutObjectCommand,
+  DeleteObjectCommand,
+} from '@aws-sdk/client-s3';
 
 function requireEnv(name: string): string {
   const value = process.env[name];
@@ -59,6 +64,12 @@ export async function uploadObject(
     })
   );
   return `${publicBase}/${key}`;
+}
+
+/** Delete an object from R2 (no error if it doesn't exist). */
+export async function deleteObject(key: string): Promise<void> {
+  const { client, bucket } = getClient();
+  await client.send(new DeleteObjectCommand({ Bucket: bucket, Key: key }));
 }
 
 /**

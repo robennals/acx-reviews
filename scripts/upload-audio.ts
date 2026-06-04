@@ -27,10 +27,14 @@ async function main() {
     process.exit(1);
   }
 
-  const mp3Path = `public/audio/${slug}.mp3`;
+  // Prefer the AAC encode; fall back to mp3 for outputs generated before
+  // the codec switch.
+  const m4aPath = `public/audio/${slug}.m4a`;
+  const audioPath = existsSync(m4aPath) ? m4aPath : `public/audio/${slug}.mp3`;
+  const contentType = audioPath.endsWith('.m4a') ? 'audio/mp4' : 'audio/mpeg';
   const wordsPath = `public/audio/${slug}.words.json`;
   const timingsPath = `public/audio/${slug}.timings.json`;
-  for (const p of [mp3Path, wordsPath, timingsPath]) {
+  for (const p of [audioPath, wordsPath, timingsPath]) {
     if (!existsSync(p)) throw new Error(`Missing ${p} — run generate-audio.ts / align-audio.py first`);
   }
 
@@ -39,7 +43,8 @@ async function main() {
 
   const timings = JSON.parse(readFileSync(timingsPath, 'utf8'));
 
-  const audioUrl = await uploadObject(`audio/${slug}.mp3`, readFileSync(mp3Path), 'audio/mpeg', CACHE_CONTROL);
+  const ext = audioPath.endsWith('.m4a') ? 'm4a' : 'mp3';
+  const audioUrl = await uploadObject(`audio/${slug}.${ext}`, readFileSync(audioPath), contentType, CACHE_CONTROL);
   console.log(`uploaded ${audioUrl}`);
   const wordsUrl = await uploadObject(`audio/${slug}.words.json`, readFileSync(wordsPath), 'application/json', CACHE_CONTROL);
   console.log(`uploaded ${wordsUrl}`);
