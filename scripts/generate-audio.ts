@@ -12,6 +12,7 @@
  *   public/audio/samples/{slug}.{voice}.m4a   --sample mode (first chunk only)
  */
 import { config as loadEnv } from 'dotenv';
+import { Agent, fetch as undiciFetch } from 'undici';
 import { execFileSync } from 'node:child_process';
 import { existsSync, globSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import matter from 'gray-matter';
@@ -117,6 +118,8 @@ interface TtsUsage {
   outputTokens: number;
 }
 
+const longHaul = new Agent({ headersTimeout: 15 * 60_000, bodyTimeout: 15 * 60_000 });
+
 async function synthesizeChunk(
   text: string,
   voice: string,
@@ -131,14 +134,35 @@ async function synthesizeChunk(
       responseModalities: ['AUDIO'],
       speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: voice } } },
     },
+    // Book reviews legitimately discuss disease, violence, and sex (e.g.
+    // Ibsen's Ghosts -> syphilis): without this, narration randomly fails
+    // with PROHIBITED_CONTENT false positives.
+    safetySettings: [
+      'HARM_CATEGORY_HARASSMENT',
+      'HARM_CATEGORY_HATE_SPEECH',
+      'HARM_CATEGORY_SEXUALLY_EXPLICIT',
+      'HARM_CATEGORY_DANGEROUS_CONTENT',
+    ].map((category) => ({ category, threshold: 'BLOCK_NONE' })),
   };
 
   for (let attempt = 1; ; attempt++) {
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
-      body: JSON.stringify(body),
-    });
+    let res: Awaited<ReturnType<typeof undiciFetch>>;
+    try {
+      res = await undiciFetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
+        body: JSON.stringify(body),
+        // Long generations (esp. the pro model) can exceed undici's default
+        // 5-minute header timeout; allow up to 15 minutes per chunk.
+        dispatcher: longHaul,
+      });
+    } catch (err) {
+      if (attempt >= 5) throw err;
+      const waitSeconds = 15 * attempt;
+      console.log(`  network error (${(err as Error).cause ?? err}), retrying in ${waitSeconds}s (attempt ${attempt})...`);
+      await new Promise((r) => setTimeout(r, waitSeconds * 1000));
+      continue;
+    }
     if (res.status === 429 || res.status >= 500) {
       if (attempt >= 5) throw new Error(`Gemini TTS failed after ${attempt} attempts: ${res.status} ${await res.text()}`);
       const waitSeconds = 15 * attempt;
@@ -148,9 +172,17 @@ async function synthesizeChunk(
     }
     if (!res.ok) throw new Error(`Gemini TTS error ${res.status}: ${await res.text()}`);
 
-    const json = await res.json();
+    const json = (await res.json()) as any;
     const part = json.candidates?.[0]?.content?.parts?.find((p: { inlineData?: { data: string } }) => p.inlineData);
-    if (!part) throw new Error(`No audio in response: ${JSON.stringify(json).slice(0, 500)}`);
+    if (!part) {
+      const reason = json.candidates?.[0]?.finishReason;
+      if (reason === 'PROHIBITED_CONTENT' && attempt < 5) {
+        console.log(`  safety false-positive (attempt ${attempt}), retrying...`);
+        await new Promise((r) => setTimeout(r, 5000));
+        continue;
+      }
+      throw new Error(`No audio in response (${reason}): ${JSON.stringify(json).slice(0, 300)}`);
+    }
     usage.inputTokens += json.usageMetadata?.promptTokenCount ?? 0;
     usage.outputTokens += json.usageMetadata?.candidatesTokenCount ?? 0;
     return Buffer.from(part.inlineData.data, 'base64');
@@ -258,8 +290,15 @@ async function main() {
       writeFileSync(`public/audio/${args.outName}.timings.json`, JSON.stringify(timingsJson, null, 2));
       console.log(`  wrote ${audioPath} (${(totalSeconds / 60).toFixed(1)} min), ${wavPath}, timings JSON`);
     }
-    // Flash TTS list price: $0.50/1M text-in, $10/1M audio-out tokens.
-    const estCost = (usage.inputTokens / 1e6) * 0.5 + (usage.outputTokens / 1e6) * 10;
+    // Per-1M-token list prices (ai.google.dev/gemini-api/docs/pricing).
+    // 3.1-flash-tts-preview is priced at the pro tier, not the flash tier.
+    const PRICES: Record<string, [number, number]> = {
+      'gemini-2.5-flash-preview-tts': [0.5, 10],
+      'gemini-2.5-pro-preview-tts': [1, 20],
+      'gemini-3.1-flash-tts-preview': [1, 20],
+    };
+    const [inPrice, outPrice] = PRICES[args.model] ?? [1, 20];
+    const estCost = (usage.inputTokens / 1e6) * inPrice + (usage.outputTokens / 1e6) * outPrice;
     console.log(`  tokens: ${usage.inputTokens} in / ${usage.outputTokens} out (~$${estCost.toFixed(3)})`);
   }
 }
