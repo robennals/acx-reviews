@@ -28,6 +28,19 @@ import { isTwin, normalizeBody } from '../lib/dedup-twins';
 
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
 
+// The contest currently accepting votes (data/voting-config.json). Reviews in
+// this contest must keep their slug — see planRenames.
+function getActiveContestYear(): number | null {
+  try {
+    const cfg = JSON.parse(
+      fs.readFileSync(path.join(process.cwd(), 'data/voting-config.json'), 'utf8'),
+    );
+    return Number(cfg.contestYear) || null;
+  } catch {
+    return null;
+  }
+}
+
 // Re-imports identified by hand from prior analysis. Each entry deletes
 // exactly one file. Detection via isTwin would also catch these, but the
 // "which one to delete" decision needs human judgement (e.g., "Emperor of
@@ -38,6 +51,11 @@ const MANUAL_DELETIONS: Array<{ slug: string; deleteFromContest: string; reason:
     slug: 'the-emperor-of-all-maladies',
     deleteFromContest: '2025-non-book-reviews',
     reason: 'Book review, accidentally listed in non-book contest. Canonical copy lives in 2024-book-reviews.',
+  },
+  {
+    slug: 'the-emperor-of-all-maladies-2',
+    deleteFromContest: '2025-non-book-reviews',
+    reason: 'Same re-import as above, surviving under a -2 suffix (isTwin fwd=0.97/rev=0.97 vs 2024-book-reviews copy). Canonical copy lives in 2024-book-reviews.',
   },
 ];
 
@@ -111,6 +129,13 @@ function planRenames(records: FileRecord[]): Rename[] {
     if (arr.length < 2) continue;
     // Earliest year keeps the bare slug. Tie-break alphabetically by contestId.
     arr.sort((a, b) => a.year - b.year || a.contestId.localeCompare(b.contestId));
+    // EXCEPTION: a review in the active voting contest always keeps the bare
+    // slug, because votes/favorites in the DB are keyed by review id (= slug)
+    // and renaming a live-contest review would orphan them. Earlier-year
+    // colliders get renamed instead.
+    const activeYear = getActiveContestYear();
+    const activeIdx = activeYear === null ? -1 : arr.findIndex(r => r.year === activeYear);
+    if (activeIdx > 0) arr.unshift(...arr.splice(activeIdx, 1));
     const winner = arr[0];
     for (const loser of arr.slice(1)) {
       // Sanity: only rename if these are NOT a re-import twin (those should
