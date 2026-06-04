@@ -173,5 +173,8 @@
   },
   "the-lever-of-riches": {
     "skipFetch": true
+  },
+  "cultural-evolution": {
+    "skipFetch": true
   }
 }
