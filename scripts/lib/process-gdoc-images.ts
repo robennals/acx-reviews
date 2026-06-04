@@ -112,6 +112,57 @@ async function upscaleMathImage(buffer: Buffer, mime: string): Promise<Buffer> {
   }
 }
 
+/**
+ * The visible region of a gdoc-cropped image, as fractions of the full
+ * image's width/height. Parsed from the `#crop=left,top,width,height`
+ * src fragment that the HTML→markdown conversion appends (see
+ * gdoc-html.ts): in the gdoc export a cropped image is an
+ * overflow-hidden span showing part of a larger <img>, while the
+ * embedded image data is the UNCROPPED original.
+ */
+interface CropBox {
+  left: number;
+  top: number;
+  width: number;
+  height: number;
+}
+
+function parseCropFragment(tail: string): CropBox | undefined {
+  const m = tail.match(/#crop=([\d.]+),([\d.]+),([\d.]+),([\d.]+)/);
+  if (!m) return undefined;
+  return { left: +m[1], top: +m[2], width: +m[3], height: +m[4] };
+}
+
+/**
+ * Physically apply the author's crop with sharp.extract() so the served
+ * file IS the cropped image. Fractions are clamped to the actual pixel
+ * grid; a crop that resolves to the full image returns the original
+ * bytes (stable content-addressing). GIFs are skipped — cropping would
+ * drop their animation — as is anything sharp can't decode.
+ */
+export async function cropToGdocBox(
+  buffer: Buffer,
+  mime: string,
+  crop: CropBox
+): Promise<Buffer> {
+  if (!TRIMMABLE_MIMES.has(mime)) return buffer;
+  try {
+    const meta = await sharp(buffer).metadata();
+    if (!meta.width || !meta.height) return buffer;
+    const left = Math.min(meta.width - 1, Math.max(0, Math.round(crop.left * meta.width)));
+    const top = Math.min(meta.height - 1, Math.max(0, Math.round(crop.top * meta.height)));
+    const width = Math.min(meta.width - left, Math.max(1, Math.round(crop.width * meta.width)));
+    const height = Math.min(meta.height - top, Math.max(1, Math.round(crop.height * meta.height)));
+    if (left === 0 && top === 0 && width === meta.width && height === meta.height) {
+      return buffer;
+    }
+    return await sharp(buffer).extract({ left, top, width, height }).toBuffer();
+  } catch {
+    // Undecodable image: serve the uncropped original rather than fail.
+    return buffer;
+  }
+}
+
 interface ProcessResult {
   markdown: string;
   uploadedCount: number;
@@ -163,6 +214,7 @@ export async function processImages(
     mime: string;
     subtype: string;
     base64: string;
+    crop?: CropBox;
   }> = [];
 
   // Collect matches first so we can process them sequentially (avoids clobbering
@@ -178,12 +230,17 @@ export async function processImages(
     const closeParenIdx = findClosingParen(markdown, openParenIdx);
     if (closeParenIdx < 0) continue;
     const full = markdown.slice(startIdx, closeParenIdx + 1);
+    // The conversion step may have appended a `#crop=…` fragment after
+    // the base64 payload carrying the author's crop from the gdoc (the
+    // regex stops at the `#`, so it sits in this tail slice).
+    const tail = markdown.slice(startIdx + m[0].length, closeParenIdx);
     matches.push({
       full,
       alt,
       mime: `image/${m[2]}`,
       subtype: m[2],
       base64: m[3],
+      crop: parseCropFragment(tail),
     });
   }
 
@@ -197,7 +254,10 @@ export async function processImages(
     if (replacementByFull.has(match.full)) continue;
 
     const ext = MIME_TO_EXT[match.mime] ?? match.subtype;
-    const rawBuffer = Buffer.from(match.base64, 'base64');
+    const decoded = Buffer.from(match.base64, 'base64');
+    const rawBuffer = match.crop
+      ? await cropToGdocBox(decoded, match.mime, match.crop)
+      : decoded;
     const trimmed = await trimImageWhitespace(rawBuffer, match.mime);
     const buffer = await upscaleMathImage(trimmed, match.mime);
     const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
@@ -236,6 +296,12 @@ export async function processImages(
   let cacheDirty = false;
   for (const match of drawingMatches) {
     if (drawingReplacements.has(match.full)) continue;
+    // Split off any `#crop=…` fragment the conversion step added —
+    // Google must not see it. The cache keys on the full URL INCLUDING
+    // the fragment, since different crops of one drawing are different
+    // final images.
+    const crop = parseCropFragment(match.url);
+    const fetchUrl = match.url.split('#')[0];
     const cached = cache[match.url];
     if (cached) {
       reusedCount++;
@@ -243,15 +309,16 @@ export async function processImages(
       continue;
     }
     try {
-      const res = await fetch(match.url);
+      const res = await fetch(fetchUrl);
       if (!res.ok) {
-        console.warn(`  ⚠️  Skipping unreachable drawing ${res.status}: ${match.url}`);
+        console.warn(`  ⚠️  Skipping unreachable drawing ${res.status}: ${fetchUrl}`);
         continue;
       }
       const mime = (res.headers.get('content-type') || 'image/png').split(';')[0].trim();
       const ext = MIME_TO_EXT[mime] ?? mime.replace('image/', '');
       const arrayBuffer = await res.arrayBuffer();
-      const rawBuffer = Buffer.from(arrayBuffer);
+      const fetched = Buffer.from(arrayBuffer);
+      const rawBuffer = crop ? await cropToGdocBox(fetched, mime, crop) : fetched;
       const trimmed = await trimImageWhitespace(rawBuffer, mime);
       const buffer = await upscaleMathImage(trimmed, mime);
       const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
@@ -263,7 +330,7 @@ export async function processImages(
       cache[match.url] = url;
       cacheDirty = true;
     } catch (err) {
-      console.warn(`  ⚠️  Failed to fetch drawing: ${match.url} - ${err}`);
+      console.warn(`  ⚠️  Failed to fetch drawing: ${fetchUrl} - ${err}`);
     }
   }
   if (cacheDirty) saveImageCache();

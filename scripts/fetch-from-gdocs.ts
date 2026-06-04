@@ -21,6 +21,7 @@ import { resolvePublishedDate } from './lib/preserve-published-date';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
 import { stringifyMarkdown } from './lib/frontmatter';
 import { runDedupeCrossSource } from './lib/dedupe-cross-source';
+import { redistributeFootnotes } from './lib/redistribute-footnotes';
 import {
   loadExceptions,
   findSlugRename,
@@ -219,7 +220,17 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
       const contentLines = lines.slice(contentStartIdx);
       const content = contentLines.join('\n').trim();
 
-      if (countWords(content) >= 200) {
+      // Word-count on substantive prose only: TOC anchor-link lines and
+      // headings don't count. Without this, a volume whose preamble is a
+      // long table of contents broken up by `## Volume …` headings sails
+      // past the threshold and becomes a junk "Untitled Review" file.
+      const substantive = content
+        .split('\n')
+        .filter(l => !/^\[[^\]]+\]\(#h?\.[^)]*\)\s*$/.test(l.trim()))
+        .filter(l => !/^#{1,6}\s/.test(l.trim()))
+        .join('\n');
+
+      if (countWords(substantive) >= 200) {
         let title = firstTocTitle || 'Untitled Review';
         title = title.replace(/^\*\*(.+)\*\*$/, '$1');
 
@@ -559,6 +570,21 @@ async function processDoc(
 
     if (source.type === 'composite') {
       console.log(`  Found ${reviews.length} reviews in composite doc "${source.name}"`);
+
+      // Composite volumes pool every review's native-footnote defs at the
+      // end of the doc, so after H1-splitting they all land in the last
+      // review's section. Marry each def back to the review that
+      // references it, renumbering per review.
+      const fnStats = redistributeFootnotes(reviews);
+      if (fnStats.movedDefs > 0 || fnStats.deadRefs > 0) {
+        console.log(
+          `  📎 Footnotes: ${fnStats.movedDefs} defs redistributed, ` +
+          `${fnStats.deadRefs} dead refs downgraded to plain text` +
+          (fnStats.unreferencedDefIds.length > 0
+            ? `, ${fnStats.unreferencedDefIds.length} unreferenced defs dropped (ids: ${fnStats.unreferencedDefIds.join(', ')})`
+            : '')
+        );
+      }
     }
 
     const exceptions = loadExceptions();

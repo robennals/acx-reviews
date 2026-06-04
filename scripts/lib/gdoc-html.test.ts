@@ -1235,3 +1235,48 @@ test('convertGDocToMarkdown drops italic from punctuation-only spans', () => {
   assert.ok(md.includes('collection,'), `comma should survive unitalicized; got: ${md}`);
   assert.ok(md.includes('_Tales_'), `intentional italics should be preserved; got: ${md}`);
 });
+
+test('convertGDocToMarkdown records author image crops as a #crop= fragment', () => {
+  // In the gdoc export, a cropped image is a crop-box <span>
+  // (overflow: hidden; its style size is the VISIBLE box) wrapping an
+  // <img> whose own style size is larger and offset by negative
+  // margins — while the embedded PNG is the full uncropped original.
+  // Record the visible region as `#crop=left,top,width,height`
+  // fractions of the full image so the upload step can apply it
+  // physically.
+  const spanStyle = (w: string, h: string) =>
+    `overflow: hidden; display: inline-block; margin: 0.00px 0.00px; ` +
+    `border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); ` +
+    `width: ${w}; height: ${h};`;
+  const html = `<html><head><style></style></head><body>` +
+    // Horizontally cropped: a 436px-wide image shown through a 300px
+    // box, shifted 81px left => the visible region starts at 81/436 of
+    // the width and spans 300/436 of it.
+    `<p><span style="${spanStyle('300.00px', '200.00px')}">` +
+    `<img alt="" src="data:image/jpeg;base64,/9j/4AAQ=" ` +
+    `style="width: 436.00px; height: 200.00px; margin-left: -81.00px; margin-top: 0.00px;"></span></p>` +
+    // Vertically cropped: a 322px-tall image in a 282px box shifted up
+    // 40px.
+    `<p><span style="${spanStyle('282.00px', '282.00px')}">` +
+    `<img alt="" src="data:image/png;base64,iVBORw0KGgo=" ` +
+    `style="width: 282.00px; height: 322.00px; margin-left: 0.00px; margin-top: -40.00px;"></span></p>` +
+    // Shrunk but uncropped (img fits its box exactly): no fragment —
+    // display size is the site's concern, not the import's.
+    `<p><span style="${spanStyle('185.00px', '280.00px')}">` +
+    `<img alt="" src="data:image/png;base64,R0lGODlh=" ` +
+    `style="width: 185.00px; height: 280.00px; margin-left: 0.00px; margin-top: 0.00px;"></span></p>` +
+    // No styles anywhere: no fragment.
+    `<p><span><img alt="" src="data:image/gif;base64,AAAA"></span></p>` +
+    `</body></html>`;
+
+  const out = convertGDocToMarkdown(html);
+
+  assert.ok(out.includes('![](data:image/jpeg;base64,/9j/4AAQ=#crop=0.1858,0.0000,0.6881,1.0000)'),
+    `horizontally cropped image must carry crop fractions; got: ${out}`);
+  assert.ok(out.includes('![](data:image/png;base64,iVBORw0KGgo=#crop=0.0000,0.1242,1.0000,0.8758)'),
+    `vertically cropped image must carry crop fractions; got: ${out}`);
+  assert.ok(out.includes('![](data:image/png;base64,R0lGODlh=)'),
+    `uncropped image must stay fragment-free; got: ${out}`);
+  assert.ok(out.includes('![](data:image/gif;base64,AAAA)'),
+    `style-less image must stay fragment-free; got: ${out}`);
+});

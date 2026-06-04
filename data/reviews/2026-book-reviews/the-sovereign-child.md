@@ -251,7 +251,7 @@ But eating ice cream as a staple food? Glued to a screen for hours on end? No in
 
 or as Tyler, the Creator so memorably put it:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/bf2e0f7d70c95afb.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/abd507b8d928c20a.png)
 
 Given that Stupple doesn't provide us with any principle to determine the rare occasions when coercive intervention is justified, I will try to reverse-engineer one: you may intervene if your child is about to make a mistake that will cause _irreversible damage_, i.e. a problem that we cannot solve with our current level of knowledge.
 

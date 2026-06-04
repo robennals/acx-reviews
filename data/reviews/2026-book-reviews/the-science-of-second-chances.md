@@ -136,7 +136,7 @@ Now here’s the interesting part. In 1994, Houston implemented a law that reduc
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/e226183a35831d9d.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/c15de8bbc4076e4e.png)
 
 <figcaption>
 

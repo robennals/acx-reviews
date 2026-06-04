@@ -42,7 +42,7 @@ When young Mike came home from the Mr. Olympia he took out his latest copy of th
 
 * 1972 (Age 20): Mike Mentzer - Mr. America
 * 1974 (Age 22): Mike Mentzer - Mr. Universe
-* 1976 (Age 24): Mike Mentzer - Mr. Olympia1
+* 1976 (Age 24): Mike Mentzer - Mr. Olympia[1]
 
 ## Early Career
 

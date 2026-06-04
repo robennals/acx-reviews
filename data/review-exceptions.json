@@ -140,5 +140,23 @@
   },
   "ghosts": {
     "skipFetch": true
+  },
+  "world-war-z": {
+    "skipFetch": true
+  },
+  "the-wisdom-of-mike-mentzer": {
+    "skipFetch": true
+  },
+  "the-man-who-was-thursday": {
+    "skipFetch": true
+  },
+  "painting-abstract-landscapes": {
+    "skipFetch": true
+  },
+  "works-by-isaac-bickerstaff": {
+    "skipFetch": true
+  },
+  "how-to-prevent-coups-dtat": {
+    "skipFetch": true
   }
 }
