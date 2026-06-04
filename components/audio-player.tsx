@@ -270,6 +270,31 @@ export function AudioPlayer({ slug, audio }: AudioPlayerProps) {
     setStatus('idle');
   }, [slug]);
 
+  // Self-heal if the article DOM is ever replaced out from under us (e.g.
+  // a re-render that resets dangerouslySetInnerHTML): cached elements and
+  // Ranges would silently point at detached nodes. Rebuild and re-sync.
+  useEffect(() => {
+    if (status !== 'active') return;
+    const container = document.querySelector('[data-review-body]');
+    if (!container) return;
+    const observer = new MutationObserver(() => {
+      const current = paraElementsRef.current.get(curParaRef.current);
+      if (current && current.isConnected) return; // our nodes survived
+      paraElementsRef.current = new Map();
+      paraRangesRef.current = new Map();
+      paraFirstWordRef.current = new Map();
+      if (highlightsSupported()) CSS.highlights.delete('audio-word');
+      buildParagraphMap(wordsRef.current);
+      // Force a full re-sync at the current position.
+      curWordRef.current = -1;
+      curParaRef.current = -1;
+      const t = audioRef.current?.currentTime;
+      if (t !== undefined) syncToTime(t);
+    });
+    observer.observe(container, { childList: true });
+    return () => observer.disconnect();
+  }, [status, buildParagraphMap, syncToTime]);
+
   // Persist position periodically while playing.
   useEffect(() => {
     if (status !== 'active') return;

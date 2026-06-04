@@ -40,9 +40,16 @@ const MAX_CHUNK_CHARS = 1100;
 // (3.1-flash-tts allows only 100 requests/day at our tier).
 const DEFAULT_MODEL = 'gemini-2.5-flash-preview-tts';
 const DEFAULT_VOICE = 'Charon';
-const STYLE_PREFIX =
-  'Narrate the following passage from a book review in a warm, measured, engaged audiobook style. ' +
-  'Keep a steady, unhurried pace throughout — never rush, even through plot summaries, lists, or asides:\n\n';
+const STYLE_INSTRUCTIONS =
+  'Narrate in a warm, measured, engaged audiobook style. ' +
+  'Keep a steady, unhurried pace throughout — never rush, even through plot summaries, lists, or asides.';
+const STYLE_PREFIX = STYLE_INSTRUCTIONS.replace('Narrate', 'Narrate the following passage from a book review') + '\n\n';
+
+// OpenAI models ("gpt-…", "tts-…") speak via /v1/audio/speech; everything
+// else is a Gemini generateContent TTS model.
+function isOpenAiModel(model: string): boolean {
+  return model.startsWith('gpt-') || model.startsWith('tts-');
+}
 
 interface CliArgs {
   slug: string;
@@ -196,6 +203,54 @@ async function synthesizeChunk(
   }
 }
 
+let loggedRateLimits = false;
+
+async function synthesizeChunkOpenAi(
+  text: string,
+  voice: string,
+  model: string,
+  apiKey: string
+): Promise<Buffer> {
+  for (let attempt = 1; ; attempt++) {
+    let res: Awaited<ReturnType<typeof undiciFetch>>;
+    try {
+      res = await undiciFetch('https://api.openai.com/v1/audio/speech', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${apiKey}` },
+        body: JSON.stringify({
+          model,
+          input: text,
+          voice,
+          instructions: STYLE_INSTRUCTIONS,
+          response_format: 'pcm', // raw 24kHz 16-bit mono, same as Gemini
+        }),
+        dispatcher: longHaul,
+      });
+    } catch (err) {
+      if (attempt >= 5) throw err;
+      const waitSeconds = 15 * attempt;
+      console.log(`  network error (${(err as Error).cause ?? err}), retrying in ${waitSeconds}s...`);
+      await new Promise((r) => setTimeout(r, waitSeconds * 1000));
+      continue;
+    }
+    if (!loggedRateLimits) {
+      loggedRateLimits = true;
+      console.log(
+        `  openai rate limits: ${res.headers.get('x-ratelimit-limit-requests') ?? '?'} req/min`
+      );
+    }
+    if (res.status === 429 || res.status >= 500) {
+      if (attempt >= 5) throw new Error(`OpenAI TTS failed after ${attempt} attempts: ${res.status} ${await res.text()}`);
+      const waitSeconds = 15 * attempt;
+      console.log(`  ${res.status} from API, retrying in ${waitSeconds}s (attempt ${attempt})...`);
+      await new Promise((r) => setTimeout(r, waitSeconds * 1000));
+      continue;
+    }
+    if (!res.ok) throw new Error(`OpenAI TTS error ${res.status}: ${await res.text()}`);
+    return Buffer.from(await res.arrayBuffer());
+  }
+}
+
 /** Encode to AAC (.m4a): markedly better than MP3 for speech at the same
  *  bitrate and just as universally playable. +faststart fronts the moov
  *  atom so playback and range-request seeking start instantly from R2. */
@@ -240,7 +295,9 @@ async function generate(
       let best: Buffer | null = null;
       let bestDelta = Infinity;
       for (let roll = 1; roll <= 3; roll++) {
-        const attemptPcm = await synthesizeChunk(chunk.text, voice, model, apiKey, usage);
+        const attemptPcm = isOpenAiModel(model)
+          ? await synthesizeChunkOpenAi(chunk.text, voice, model, apiKey)
+          : await synthesizeChunk(chunk.text, voice, model, apiKey, usage);
         const rate = chunk.text.length / (attemptPcm.length / (SAMPLE_RATE * 2));
         const delta = Math.abs(rate - 15);
         if (delta < bestDelta) {
@@ -271,8 +328,14 @@ async function generate(
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) throw new Error('GEMINI_API_KEY not set (expected in .env.local)');
+  const openai = isOpenAiModel(args.model);
+  const apiKey = openai ? process.env.OPENAI_API_KEY : process.env.GEMINI_API_KEY;
+  if (!apiKey) {
+    throw new Error(`${openai ? 'OPENAI' : 'GEMINI'}_API_KEY not set (expected in .env.local)`);
+  }
+  if (openai && args.voices.length === 1 && args.voices[0] === DEFAULT_VOICE) {
+    args.voices = ['sage'];
+  }
 
   const file = findReviewFile(args.slug);
   const { content } = matter(readFileSync(file, 'utf8'));
@@ -344,8 +407,14 @@ async function main() {
       'gemini-3.1-flash-tts-preview': [1, 20],
     };
     const [inPrice, outPrice] = PRICES[args.model] ?? [1, 20];
-    const estCost = (usage.inputTokens / 1e6) * inPrice + (usage.outputTokens / 1e6) * outPrice;
-    console.log(`  tokens: ${usage.inputTokens} in / ${usage.outputTokens} out (~$${estCost.toFixed(3)})`);
+    const estCost = openai
+      ? (totalSeconds / 60) * 0.015 // gpt-4o-mini-tts ~$0.015/min audio
+      : (usage.inputTokens / 1e6) * inPrice + (usage.outputTokens / 1e6) * outPrice;
+    console.log(
+      openai
+        ? `  ~$${estCost.toFixed(3)} (est. $0.015/min)`
+        : `  tokens: ${usage.inputTokens} in / ${usage.outputTokens} out (~$${estCost.toFixed(3)})`
+    );
   }
 }
 

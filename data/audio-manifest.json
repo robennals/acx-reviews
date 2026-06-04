@@ -13,6 +13,13 @@
     "durationSeconds": 2166.8,
     "voice": "Sulafat"
   },
+  "invisible-cities-and-life-a-users-manual": {
+    "audioUrl": "https://acximages.ennals.org/audio/invisible-cities-and-life-a-users-manual.m4a",
+    "wordsUrl": "/api/audio-words/invisible-cities-and-life-a-users-manual",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/invisible-cities-and-life-a-users-manual.words.json",
+    "durationSeconds": 2228.8,
+    "voice": "sage"
+  },
   "moby-dick-or-the-whale": {
     "audioUrl": "https://acximages.ennals.org/audio/moby-dick-or-the-whale.m4a",
     "wordsUrl": "/api/audio-words/moby-dick-or-the-whale",
@@ -24,28 +31,28 @@
     "audioUrl": "https://acximages.ennals.org/audio/the-bible.m4a",
     "wordsUrl": "/api/audio-words/the-bible",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-bible.words.json",
-    "durationSeconds": 162,
+    "durationSeconds": 162.7,
     "voice": "Sulafat"
   },
   "the-brothers-karamazov": {
     "audioUrl": "https://acximages.ennals.org/audio/the-brothers-karamazov.m4a",
     "wordsUrl": "/api/audio-words/the-brothers-karamazov",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-brothers-karamazov.words.json",
-    "durationSeconds": 465.8,
+    "durationSeconds": 504.8,
     "voice": "Sulafat"
   },
   "the-last-temptation-of-christ": {
     "audioUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.m4a",
     "wordsUrl": "/api/audio-words/the-last-temptation-of-christ",
     "r2WordsUrl": "https://acximages.ennals.org/audio/the-last-temptation-of-christ.words.json",
-    "durationSeconds": 227,
+    "durationSeconds": 235.8,
     "voice": "Sulafat"
   },
   "tiger-chair": {
     "audioUrl": "https://acximages.ennals.org/audio/tiger-chair.m4a",
     "wordsUrl": "/api/audio-words/tiger-chair",
     "r2WordsUrl": "https://acximages.ennals.org/audio/tiger-chair.words.json",
-    "durationSeconds": 469.4,
+    "durationSeconds": 510.3,
     "voice": "Sulafat"
   },
   "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley": {
