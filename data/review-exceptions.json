@@ -158,5 +158,8 @@
   },
   "how-to-prevent-coups-dtat": {
     "skipFetch": true
+  },
+  "traces-erased-by-the-sun": {
+    "skipFetch": true
   }
 }
