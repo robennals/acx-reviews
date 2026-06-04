@@ -19,7 +19,7 @@ In 1940 the Empire State Building was the tallest man-made structure in the worl
 
 Specifically, you could see this: the first NBC television broadcast transmitter, intermittently blasting 49.75 MHz audio and 46.5 MHz video signals across a hundred-mile swath of megalopolis.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/405650b6229f0c58.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7081d1d6d048073d.png)
 
 A turnstile antenna, a ring of linked dipoles, and a crowning lightning rod formed the sharp point at the literal apex of human achievement. This is the lance that scraped the sky deeper than it had ever been scraped, the tip of the spear for a high radio modernism that would soon conquer the world. This is the needle that pierced the veil of the corporeal and pulled the thread of human culture into a realm of deracinated ghosts forever haunting the invisible airwaves.
 

@@ -150,7 +150,7 @@ But there is no longer a private Hal, only Prince Henry. Falstaff and his rude c
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/cb8bee9e495037f7.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/7233541780c0ab00.jpg)
 
 <figcaption>
 
@@ -370,7 +370,7 @@ With Master Ford’s jealousy again proven unreasonable and Falstaff’s overtur
 
 <figure>
 
-![](https://acximages.ennals.org/images/2026-book-reviews/db2010d87332713b.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/e586b6f25ce526a0.jpg)
 
 <figcaption>
 

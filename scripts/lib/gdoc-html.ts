@@ -2327,6 +2327,45 @@ function convertHtmlChunk(html: string, bodySizeHint?: number, options: CleanupM
     }
   });
 
+  // Preserve the author's image cropping. In the gdoc export, a
+  // cropped image is a crop-box <span> (overflow: hidden; display:
+  // inline-block) whose style size is the VISIBLE box, wrapping an
+  // <img> whose own style size is LARGER and offset by negative
+  // margins — while the embedded data-URI image is the full uncropped
+  // original. Record the visible region as fractions of the full image
+  // in a `#crop=left,top,width,height` src fragment; the image-upload
+  // step (process-gdoc-images.ts) applies it physically via
+  // sharp.extract() so the site serves only the region the author
+  // chose. Uncropped images (the img fits its box) get no fragment.
+  const parseStylePx = (style: string | undefined, prop: string): number | undefined => {
+    const m = style?.match(new RegExp(`(?:^|;)\\s*${prop}:\\s*(-?[\\d.]+)px`));
+    return m ? parseFloat(m[1]) : undefined;
+  };
+  $('img').each(function () {
+    const img = $(this);
+    const src = img.attr('src');
+    if (!src || src.includes('#')) return;
+    const spanStyle = img.parent('span').attr('style');
+    if (!spanStyle || !/overflow:\s*hidden/.test(spanStyle)) return;
+    const imgStyle = img.attr('style');
+    const boxW = parseStylePx(spanStyle, 'width');
+    const boxH = parseStylePx(spanStyle, 'height');
+    const imgW = parseStylePx(imgStyle, 'width');
+    const imgH = parseStylePx(imgStyle, 'height');
+    const offX = parseStylePx(imgStyle, 'margin-left') ?? 0;
+    const offY = parseStylePx(imgStyle, 'margin-top') ?? 0;
+    if (!boxW || !boxH || !imgW || !imgH) return;
+    // Only genuine crops: the image overflows its box or is shifted.
+    // Half-pixel tolerance absorbs the export's rounding.
+    const cropped = imgW > boxW + 0.5 || imgH > boxH + 0.5 || offX < -0.5 || offY < -0.5;
+    if (!cropped) return;
+    const frac = (n: number) => Math.min(1, Math.max(0, n)).toFixed(4);
+    img.attr(
+      'src',
+      `${src}#crop=${frac(-offX / imgW)},${frac(-offY / imgH)},${frac(boxW / imgW)},${frac(boxH / imgH)}`
+    );
+  });
+
   // Join adjacent <p> siblings (per-slug exception). When the source doc
   // has hard line-end breaks at each visual line (every wrapped line
   // becomes its own non-empty <p>, with empty <p> tags marking the
