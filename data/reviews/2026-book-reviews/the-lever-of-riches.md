@@ -270,10 +270,19 @@ Perhaps the most paradigmatic example of Renaissance technology giving rise to I
 
 > _“The first economically successful engine, known as the Dudley Castle Machine, was installed in a coal mine near Wolverhampton in 1712. Newcomen’s engine was far more complex and sophisticated than Papin’s prototype, yet it was within the ability of the craftsmen of the time and it was safe. It was powerful enough to pump water out of mines, and despite its awkward dimensions, its voracious appetite for fuel, and the difficulty early eighteenth-century mechanics had in achieving hermetic sealing, the Newcomen machine was widely adopted. Within a few years of its inception, it spread to France, Germany, and Belgium, and by 1730 it was operating in Spain, Hungary, and Sweden and later in the American colonies. The machine solved drainage problems in the Cornish tin mines, as well as in the deep coal mines in the north of England. But above all, it was the first economically useful transformation of thermal energy (heat) into kinetic energy (work).”_ (Mokyr, 1990, p. 85)
 
-![](https://acximages.ennals.org/images/2026-book-reviews/1abb485da298fadc.png)  
-> “Diagram of Newcomen’s atmospheric engine.”
+<figure>
+
+![](https://acximages.ennals.org/images/2026-book-reviews/1abb485da298fadc.png)
+
+<figcaption>
+
+“Diagram of Newcomen’s atmospheric engine.”
 
 _Source:_ From H. W. Dickinson. “A Short History of the Steam Engine,” Fig. 7. Cambridge University Press, 1939; quoted in Figure 23 of Mokyr (1990, p. 87)
+
+</figcaption>
+
+</figure>
 
 ## Industrial Revolution
 
@@ -305,13 +314,19 @@ The productivity benefits of these inventions were enormous:
 
 > _“Some idea of the magnitude of the improvements attained can be gained from Chapman’s (1972) calculations of the number of hours needed to spin 100 lbs. of cotton. The “old” technology was the Indian hand-spinner, who took **about 50,000 hours**. Arkwright’s rollers and the mule brought that number **down to around 300 hours** in the 1790s, and the self-actor **reduced the figure**_ _**to 135**.”_ (Mokyr, 1990, p.98)
 
+<figure>
+
 ![](https://acximages.ennals.org/images/2026-book-reviews/6505fa1ed6acadb4.png)
 
-> _Side view of Richard Robert’s self-acting mule._
+<figcaption>
 
-_Source:_ W. S. Murphy. _The Textile Industries_ Vol. 3, Fig. 130. London, Gresham,
+_Side view of Richard Robert’s self-acting mule._
 
-1910- . E. Norman; quoted in Figure 28 of Mokyr (1990, p. 99)
+_Source:_ W. S. Murphy. _The Textile Industries_ Vol. 3, Fig. 130. London, Gresham, 1910- . E. Norman; quoted in Figure 28 of Mokyr (1990, p. 99)
+
+</figcaption>
+
+</figure>
 
 The self-acting mule was adopted slowly, partly because of costs and partly because workers were, for a time, _“able to resist the introduction of a device that would weaken their authority in the workplace because it turned the spinner from a skilled operator into little more than a machine tender.”_
 
