@@ -354,6 +354,11 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
           <a href="https://robennals.org" target="_blank" rel="noopener noreferrer" className="text-link hover:underline">
             Rob Ennals
           </a>. Contact Rob if you find any issues with this site.
+          Essays are also{' '}
+          <Link href="/epub" className="text-link hover:underline">
+            available as ePub
+          </Link>{' '}
+          for offline reading.
         </p>
       </header>
 

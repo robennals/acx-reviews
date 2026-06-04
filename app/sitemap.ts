@@ -13,5 +13,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: review.publishedDate,
   }));
 
-  return [{ url: SITE_URL, lastModified: new Date() }, ...reviewEntries];
+  return [
+    { url: SITE_URL, lastModified: new Date() },
+    { url: `${SITE_URL}/epub`, lastModified: new Date() },
+    ...reviewEntries,
+  ];
 }
