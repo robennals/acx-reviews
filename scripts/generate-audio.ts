@@ -35,7 +35,10 @@ const SAMPLE_RATE = 24000; // Gemini TTS output: 16-bit mono PCM at 24kHz
 // good) early-generation state every ~70s; the style prompt keeps the
 // delivery anchored across seams.
 const MAX_CHUNK_CHARS = 1100;
-const DEFAULT_MODEL = 'gemini-3.1-flash-tts-preview';
+// 2.5-flash won the ghosts bake-off: quality on par with 3.1 once chunks
+// are short + re-rolled, half the price, and a workable daily quota
+// (3.1-flash-tts allows only 100 requests/day at our tier).
+const DEFAULT_MODEL = 'gemini-2.5-flash-preview-tts';
 const DEFAULT_VOICE = 'Charon';
 const STYLE_PREFIX =
   'Narrate the following passage from a book review in a warm, measured, engaged audiobook style. ' +
@@ -177,8 +180,11 @@ async function synthesizeChunk(
     const part = json.candidates?.[0]?.content?.parts?.find((p: { inlineData?: { data: string } }) => p.inlineData);
     if (!part) {
       const reason = json.candidates?.[0]?.finishReason;
-      if (reason === 'PROHIBITED_CONTENT' && attempt < 5) {
-        console.log(`  safety false-positive (attempt ${attempt}), retrying...`);
+      // PROHIBITED_CONTENT: stochastic safety false-positive on literary
+      // content. OTHER: opaque transient generation failure (seen on the
+      // pro model). Both usually succeed on retry.
+      if ((reason === 'PROHIBITED_CONTENT' || reason === 'OTHER') && attempt < 5) {
+        console.log(`  no audio (${reason}, attempt ${attempt}), retrying...`);
         await new Promise((r) => setTimeout(r, 5000));
         continue;
       }
@@ -222,11 +228,39 @@ async function generate(
     const cachePath = `${cacheDir}/${i}-${hash}.pcm`;
     let reused = reusePcm?.[i] ?? null;
     if (!reused && existsSync(cachePath)) reused = readFileSync(cachePath);
-    const pcm = reused ?? (await synthesizeChunk(chunk.text, voice, model, apiKey, usage));
-    if (!reused) writeFileSync(cachePath, pcm);
+
+    let pcm: Buffer;
+    if (reused) {
+      pcm = reused;
+    } else {
+      // The model occasionally rolls a whole chunk read absurdly fast
+      // (observed: 19.5 chars/sec vs the ~15 norm). Re-roll fast chunks a
+      // couple of times and keep the attempt closest to normal pace; only
+      // accepted audio enters the cache.
+      let best: Buffer | null = null;
+      let bestDelta = Infinity;
+      for (let roll = 1; roll <= 3; roll++) {
+        const attemptPcm = await synthesizeChunk(chunk.text, voice, model, apiKey, usage);
+        const rate = chunk.text.length / (attemptPcm.length / (SAMPLE_RATE * 2));
+        const delta = Math.abs(rate - 15);
+        if (delta < bestDelta) {
+          best = attemptPcm;
+          bestDelta = delta;
+        }
+        if (rate <= 17.5) break;
+        console.log(`    fast roll (${rate.toFixed(1)} chars/sec), re-rolling (${roll}/3)...`);
+      }
+      pcm = best!;
+      writeFileSync(cachePath, pcm);
+    }
+
     const seconds = pcm.length / (SAMPLE_RATE * 2);
     const rate = chunk.text.length / seconds;
-    const note = reused ? ' (reused)' : rate > 17.5 ? `  WARNING: fast (${rate.toFixed(1)} chars/sec)` : '';
+    const note = reused
+      ? ' (reused)'
+      : rate > 17.5
+        ? `  WARNING: still fast after re-rolls (${rate.toFixed(1)} chars/sec)`
+        : '';
     console.log(
       `  chunk ${i + 1}/${chunks.length}: ${chunk.text.length} chars -> ${seconds.toFixed(1)}s${note}`
     );

@@ -10,7 +10,7 @@
     "audioUrl": "https://acximages.ennals.org/audio/ghosts.m4a",
     "wordsUrl": "/api/audio-words/ghosts",
     "r2WordsUrl": "https://acximages.ennals.org/audio/ghosts.words.json",
-    "durationSeconds": 1976.3,
+    "durationSeconds": 2166.8,
     "voice": "Sulafat"
   },
   "moby-dick-or-the-whale": {
@@ -46,6 +46,13 @@
     "wordsUrl": "/api/audio-words/tiger-chair",
     "r2WordsUrl": "https://acximages.ennals.org/audio/tiger-chair.words.json",
     "durationSeconds": 469.4,
+    "voice": "Sulafat"
+  },
+  "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley": {
+    "audioUrl": "https://acximages.ennals.org/audio/why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley.mp3",
+    "wordsUrl": "/api/audio-words/why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley",
+    "r2WordsUrl": "https://acximages.ennals.org/audio/why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley.words.json",
+    "durationSeconds": 1932.6,
     "voice": "Sulafat"
   }
 }
