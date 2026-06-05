@@ -30,7 +30,9 @@ export function calculateReadingTime(wordCount: number): number {
 }
 
 /**
- * Check if a paragraph is Scott's intro text for book review contests
+ * Check if a paragraph is Scott's intro text for book review contests,
+ * or a reviewer's preliminary note (spoiler disclosure, content warning,
+ * epistemic status) — none of which make a good excerpt
  */
 function isIntroText(text: string): boolean {
   const introPatterns = [
@@ -39,6 +41,12 @@ function isIntroText(text: string): boolean {
     /^\[?_?\s*This is one of the/i,
     /book review contest/i,
     /will remain anonymous until after voting/i,
+    /^\[?\(?_?\s*note:/i,
+    /^\[?\(?_?\s*content warning/i,
+    /^\[?\(?_?\s*epistemic status/i,
+    /^\[?\(?_?\s*spoiler warning/i,
+    /contains no spoilers/i,
+    /^[—–]/, // epigraph attribution line, e.g. "—David Okrent, ..."
   ];
   return introPatterns.some(pattern => pattern.test(text));
 }

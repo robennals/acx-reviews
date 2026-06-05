@@ -48,7 +48,7 @@ But one cannot be cured of one’s personality in a single moment. “I’ll be 
 
 He runs back to the monastery. The Elder Zosima has left, so Fyodor Pavlovich rants at the other monks. He can’t accept their grace, he has to have the last word.
 
-Fyodor Pavlovich suffers from a desire for human connection gone malignant, an extrapolation of the younger author’s shame. I get it: it’s unbearable to feel inadequate, much better to feel superior. Lash out against the thing you want the most? You wouldn’t have gotten it anyway. This self-sabotage is vintage Dostoevsky, psychologist of the contradictory, the twisted. A need for acceptance that recoils into bitterness, infatuation with someone because they insulted you, the ecstasy of ruining your own life_—_that’s his palette of colors. He does not limit himself to sympathetic kinds of failing.
+Fyodor Pavlovich suffers from a desire for human connection gone malignant, an extrapolation of the younger author’s shame. I get it: it’s unbearable to feel inadequate, much better to feel superior. Lash out against the thing you want the most? You wouldn’t have gotten it anyway. This self-sabotage is vintage Dostoevsky, psychologist of the contradictory, the twisted. A need for acceptance that recoils into bitterness, infatuation with someone because they insulted you, the ecstasy of ruining your own life—that’s his palette of colors. He does not limit himself to sympathetic kinds of failing.
 
 I love it for the obvious reason: not all of my failings are sympathetic. Neither were Dostoevsky’s. What about yours?
 
