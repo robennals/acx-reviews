@@ -15,6 +15,25 @@ import path from 'path';
 import sharp from 'sharp';
 import { uploadIfMissing } from './r2-client';
 
+const DIMENSIONS_PATH = path.join(process.cwd(), 'data', 'image-dimensions.json');
+function recordDimensions(
+  url: string,
+  width: number,
+  height: number,
+  scale?: number
+): void {
+  let manifest: Record<string, { w: number; h: number; scale?: number }> = {};
+  try {
+    manifest = JSON.parse(fs.readFileSync(DIMENSIONS_PATH, 'utf8'));
+  } catch {
+    manifest = {};
+  }
+  manifest[url] = scale ? { w: width, h: height, scale } : { w: width, h: height };
+  const sorted: typeof manifest = {};
+  for (const k of Object.keys(manifest).sort()) sorted[k] = manifest[k];
+  fs.writeFileSync(DIMENSIONS_PATH, JSON.stringify(sorted, null, 2) + '\n');
+}
+
 // Persistent cache: maps the source URL of a remote image (currently used
 // only for Google Drawings) to the final R2 URL after upload. Re-runs of
 // the fetch pipeline skip the network fetch entirely on cache hit. Google
@@ -82,34 +101,18 @@ async function trimImageWhitespace(buffer: Buffer, mime: string): Promise<Buffer
 }
 
 /**
- * Google Docs exports embedded math equations as tiny PNGs (e.g. 52×22)
- * — rendered at the inline font size, not at display size. They look
- * fine in the gdoc UI (where the surrounding text is also small) but
- * appear ~4× too small on a typical web page. Upscale small images
- * with Lanczos3 so the served PNG is itself larger; the browser then
- * renders at natural size and the equation looks proportionate.
+ * Google Docs exports embedded math equations as tiny PNGs (e.g. 52×22),
+ * rendered at inline font size. We no longer fatten the stored file; instead
+ * the dimensions manifest carries a `scale` hint so display-time sizing
+ * (lib/image-size.ts) renders them proportionately. This classifier marks
+ * which uploaded images get that hint.
  *
- * Heuristic: width ≤ 300 AND height ≤ 100. Captures math equations
- * without sweeping in normal figures (which are typically much
- * wider/taller). The 4× factor matches the visual gap the user
- * reported.
+ * Heuristic: width ≤ 300 AND height ≤ 100 — captures equations without
+ * sweeping in normal figures.
  */
-const MATH_UPSCALE_FACTOR = 4;
-async function upscaleMathImage(buffer: Buffer, mime: string): Promise<Buffer> {
-  if (!TRIMMABLE_MIMES.has(mime)) return buffer;
-  try {
-    const meta = await sharp(buffer).metadata();
-    if (!meta.width || !meta.height) return buffer;
-    if (meta.width > 300 || meta.height > 100) return buffer;
-    const out = await sharp(buffer)
-      .resize(meta.width * MATH_UPSCALE_FACTOR, meta.height * MATH_UPSCALE_FACTOR, {
-        kernel: 'lanczos3',
-      })
-      .toBuffer();
-    return out;
-  } catch {
-    return buffer;
-  }
+export const EQUATION_DISPLAY_SCALE = 4;
+export function isEquationSized(width: number, height: number): boolean {
+  return width <= 300 && height <= 100;
 }
 
 /**
@@ -259,13 +262,27 @@ export async function processImages(
       ? await cropToGdocBox(decoded, match.mime, match.crop)
       : decoded;
     const trimmed = await trimImageWhitespace(rawBuffer, match.mime);
-    const buffer = await upscaleMathImage(trimmed, match.mime);
+    const buffer = trimmed;
     const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
     const key = `images/${contestId}/${hash}.${ext}`;
 
     const { url, uploaded } = await uploadIfMissing(key, buffer, match.mime);
     if (uploaded) uploadedCount++;
     else reusedCount++;
+
+    // Record natural dimensions for display-time sizing. Equation-sized
+    // images get a scale hint instead of being upscaled on disk.
+    try {
+      const meta = await sharp(buffer).metadata();
+      if (meta.width && meta.height) {
+        const scale = isEquationSized(meta.width, meta.height)
+          ? EQUATION_DISPLAY_SCALE
+          : undefined;
+        recordDimensions(url, meta.width, meta.height, scale);
+      }
+    } catch {
+      // Non-raster (e.g. SVG) or undecodable: skip; renders at today's behavior.
+    }
 
     const escapedAlt = match.alt; // alt is already markdown-safe from the source
     replacementByFull.set(match.full, `![${escapedAlt}](${url})`);
@@ -320,12 +337,25 @@ export async function processImages(
       const fetched = Buffer.from(arrayBuffer);
       const rawBuffer = crop ? await cropToGdocBox(fetched, mime, crop) : fetched;
       const trimmed = await trimImageWhitespace(rawBuffer, mime);
-      const buffer = await upscaleMathImage(trimmed, mime);
+      const buffer = trimmed;
       const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
       const key = `images/${contestId}/${hash}.${ext}`;
       const { url, uploaded } = await uploadIfMissing(key, buffer, mime);
       if (uploaded) uploadedCount++;
       else reusedCount++;
+      // Record natural dimensions for display-time sizing. Equation-sized
+      // images get a scale hint instead of being upscaled on disk.
+      try {
+        const meta = await sharp(buffer).metadata();
+        if (meta.width && meta.height) {
+          const scale = isEquationSized(meta.width, meta.height)
+            ? EQUATION_DISPLAY_SCALE
+            : undefined;
+          recordDimensions(url, meta.width, meta.height, scale);
+        }
+      } catch {
+        // Non-raster (e.g. SVG) or undecodable: skip; renders at today's behavior.
+      }
       drawingReplacements.set(match.full, `![${match.alt}](${url})`);
       cache[match.url] = url;
       cacheDirty = true;

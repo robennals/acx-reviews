@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import sharp from 'sharp';
-import { cropToGdocBox } from './process-gdoc-images';
+import { cropToGdocBox, isEquationSized } from './process-gdoc-images';
 
 // Helper: a real PNG buffer of the given dimensions.
 async function png(width: number, height: number): Promise<Buffer> {
@@ -57,4 +57,11 @@ test('cropToGdocBox falls back to the original on undecodable input', async () =
   const buf = Buffer.from('not an image at all');
   const out = await cropToGdocBox(buf, 'image/png', { left: 0, top: 0, width: 0.5, height: 0.5 });
   assert.equal(out, buf);
+});
+
+test('isEquationSized flags small math PNGs and spares normal figures', () => {
+  assert.equal(isEquationSized(52, 22), true);
+  assert.equal(isEquationSized(300, 100), true);   // inclusive boundary
+  assert.equal(isEquationSized(301, 100), false);
+  assert.equal(isEquationSized(640, 480), false);
 });
