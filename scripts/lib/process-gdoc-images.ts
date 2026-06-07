@@ -14,6 +14,7 @@ import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 import { uploadIfMissing } from './r2-client';
+import type { ImageDimensions } from '../../lib/image-size';
 
 const DIMENSIONS_PATH = path.join(process.cwd(), 'data', 'image-dimensions.json');
 function recordDimensions(
@@ -22,7 +23,7 @@ function recordDimensions(
   height: number,
   scale?: number
 ): void {
-  let manifest: Record<string, { w: number; h: number; scale?: number }> = {};
+  let manifest: Record<string, ImageDimensions> = {};
   try {
     manifest = JSON.parse(fs.readFileSync(DIMENSIONS_PATH, 'utf8'));
   } catch {
