@@ -30,7 +30,7 @@ However, all is not lost. If you figure out the game and play the right moves, y
 
 But that’s only if you know the game they’re playing.
 
-[Games People Play](https://amzn.to/2Ke8Aw5)1 is a repository of such games and how to stop them. Eric Berne spent 40 years studying these games and published an academic book. I spent a month plowing through the literature, took the best parts and stitched together a narrative of the most important games, with examples relevant to today’s age.
+[Games People Play](https://amzn.to/2Ke8Aw5)[^1] is a repository of such games and how to stop them. Eric Berne spent 40 years studying these games and published an academic book. I spent a month plowing through the literature, took the best parts and stitched together a narrative of the most important games, with examples relevant to today’s age.
 
 We’ll start with some background theory — just enough to make sense of things. Then, we’ll explore interesting games people play, like the one above, and figure out ways to stop them. If you don’t want the background, you can [skip directly to the games.](https://neilkakkar.com/games-people-play-blogpost.html#games)
 
@@ -44,9 +44,7 @@ Eric Berne, the author of Games People Play, says there are 3 big ones: The Pare
 
 The Adult is the rational logical self. The Parent is the caring, taking care of someone self. The Child is the playful, creative, easily offended self.
 
-Note that these states have nothing to do with being a child or a parent yourself. A child acts from the Parent state when she tells their parents “I didn’t like it when you did this. Please don’t do it”.
-
-2
+Note that these states have nothing to do with being a child or a parent yourself. A child acts from the Parent state when she tells their parents “I didn’t like it when you did this. Please don’t do it”.[^2]
 
 Sometimes, you can notice people transition from one state to another in conversation. For example, when Alice and Bob are discussing a problem and Bob claims that Alice is wrong, then Alice might get triggered out of the Adult state to a Child state where they start crying, or create an uproar, or call their mother to tell how Bob is wrong and mean. The transitions show up in physical gestures and posture too.
 
@@ -284,9 +282,7 @@ Alice and Bob are at a party. Alice signals she’s available, makes eye-contact
 
 A more sinister form of the game is when Alice/Bob claim they’ve been assaulted.
 
-The payoff is the feeling of power Alice feels when getting Bob to pursue her and then rejecting him.
-
-3
+The payoff is the feeling of power Alice feels when getting Bob to pursue her and then rejecting him.[^3]
 
 ## Interesting observations
 
@@ -337,7 +333,7 @@ In its more sinister form, it’s when others sabotage you to continue their gam
 
 With the games in hand, and a feel for their destructive power, the next natural question is how do you stop them?
 
-Denying the payoff stops the game.5
+Denying the payoff stops the game.[^5]
 
 Sometimes, it may be hard to figure out what game is being played. Since the ultimate payoff is what’s driving it anyway, testing a few different kinds of responses can help you figure out the game.
 
@@ -389,12 +385,12 @@ The Theory of Games People Play is one such model. People don’t “just do thi
 
 Of course, this model isn’t perfect, and doesn’t explain everything. It’s [one of many perspectives](https://neilkakkar.com/different-perspectives-to-solve-problems.html). But, it’s how the journey to building [better models](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html) begins. If you never get introduced to models, you never begin. Once you have a model for social interactions, you can notice where it breaks down, and look for other models to fill in the gap.
 
-* * *
+[^1]: Affiliate link
 
-1.  Affiliate link
-2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
-3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
-4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
-5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
-    
-    * * *
+[^2]: Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
+
+[^3]: It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
+
+[^4]: Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited.
+
+[^5]: Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.

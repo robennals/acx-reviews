@@ -3,6 +3,9 @@
     "skipFetch": true,
     "disableFootnotes": true
   },
+  "a-canticle-for-leibowitz-by-walter-m-miller-jr-2024": {
+    "skipFetch": true
+  },
   "a-history-of-generation-ships-in-science-fiction": {
     "skipFetch": true
   },
@@ -88,6 +91,9 @@
   "from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter": {
     "skipFetch": true,
     "disableFootnotes": true
+  },
+  "games-people-play-the-psychology-of-human-relationships-by-eric-berne": {
+    "skipFetch": true
   },
   "getting-things-done-by-david-allen": {
     "skipFetch": true,
@@ -220,6 +226,9 @@
   "project-xanadu": {
     "skipFetch": true
   },
+  "public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania": {
+    "skipFetch": true
+  },
   "public-citizens": {
     "skipFetch": true
   },
@@ -275,6 +284,9 @@
     "skipFetch": true
   },
   "that-hideous-strength": {
+    "skipFetch": true
+  },
+  "the-beginning-after-the-end-of-humanity-circus": {
     "skipFetch": true
   },
   "the-brothers-karamazov": {
