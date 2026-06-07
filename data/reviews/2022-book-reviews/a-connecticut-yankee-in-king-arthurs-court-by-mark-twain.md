@@ -233,3 +233,15 @@ Is this why people never recommend this story anymore, I asked myself when I rea
 _A Connecticut Yankee in King Arthur’s Court_ is available at [Project Gutenberg](https://www.gutenberg.org/files/86/86-h/86-h.htm), in beautifully illustrated form.
 
 * * *
+
+[[1]](#ftnt_ref1) Uplift is a recently popular genre where a modern human brings technology and other cultural knowledge--say, medical practices, like in the web serial _[Castle Kingside](https://www.royalroad.com/fiction/43462/castle-kingside-rewrite)_--to a less advanced society. You often see this with time-travel stories, but Uplift stories _focus_ on the process of training the people, spreading the tech, etc. I’ve actually had trouble finding that specific definition online (I guess [this](https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyUplift) is close), but the genre is well known in certain circles.
+
+[[2]](#ftnt_ref2) It’s easy to forget his name, the entire thing is written in first person and apparently ‘Hank’ is only in there twice.
+
+[[3]](#ftnt_ref3) I expected at one point we’d get some kind of explanation as to why he was sent to one day before a total solar eclipse he, for some reason, knows the exact date of. He’s not even an astronomer! We never get a justification. Some isekai protagonists get a smartphone, this guy got astro-serendipity.
+
+[[4]](#ftnt_ref4) This is surely not social commentary in any way whatsoever.
+
+[[5]](#ftnt_ref5) Oh no, Hank has won the victory over himself. He loves the Catholic Church!
+
+[[6]](#ftnt_ref6) I’m sure it was even funnier in Twain’s time, which I suppose was filled with the kind of garbage generic knight tales Sandy told. I am after all reading a work well after the culture it’s responding to died.

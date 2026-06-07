@@ -22,11 +22,11 @@ Every time I go outside I see some news about AI, and I try not to think too muc
 
 Us English folk are in a weird position, culturally. Unlike the Gaelic countries around us, we seem to lack a common mythos. For the most part, we have a gaping hole where an oral history should be. The Anglo-Saxons who populated England between the end of Roman rule and the invasion of the Normans surely had myths, but I cannot (without resorting to Wikipedia) name a single one, and having since looked them up I feel no claim over them. I am told that Tolkien’s works were an attempt to fill the gap, but unfortunately, myths don’t really work that way.
 
-We do have the Arthurian legends. These were written entirely post-1066[[42]](#ftnt42), long, long after the region became fully Christian around the end of the 6th century.
+We do have the Arthurian legends. These were written entirely post-1066[[1]](#ftnt1), long, long after the region became fully Christian around the end of the 6th century.
 
 The Christianization of the entire European mythic canon makes me deeply sad. Vast quantities of culture pasteurised from raw unkempt prehistory to flat, centralised modernity, a toll paid for the journey from the spoken to the written word. Chalk cliffs turned to concrete, they became the foundations of English literature.
 
-_Sir Gawain_[[43]](#ftnt43) _and the Green Knight_ is one such foundation. It was written down by an unknown author only referred to as “The Gawain Poet” in the 14th century. I read the 1999 poetic translation by Jessie L. Weston. There is also a prose version from 2000, which I have not read.
+_Sir Gawain_[[2]](#ftnt2) _and the Green Knight_ is one such foundation. It was written down by an unknown author only referred to as “The Gawain Poet” in the 14th century. I read the 1999 poetic translation by Jessie L. Weston. There is also a prose version from 2000, which I have not read.
 
 Almost everyone will tell you that the poem is about the five chivalric virtues. When Gawain sets off, he names them: frankness, fellowship, cleanness, courtesy, and pity. These don’t map one-to-one with modern concepts, but this doesn’t matter because they barely come up! The only time they appear again is at a point where Gawain has failed in his duty and is lamenting.
 
@@ -126,7 +126,7 @@ Readers would have been expected to recognize it as a long barrow. This is a kin
 
 ![A photo showing a mound of earth overgrown with grass. The mound is reinforced with a number of large stones.](https://acximages.ennals.org/images/2024-book-reviews/15682bc2e470d609.png)
 
-It’s extremely cool that this is included! I would have completely missed the depth of meaning of this without having read Sam Kriss’ thoughts on the poem[[44]](#ftnt44). The inclusion of this creates a dramatic irony in the piece: Gawain has no idea what he’s looking at, but the audience is expected to. It helps paint the Green Knight as an ancient and terrible figure.
+It’s extremely cool that this is included! I would have completely missed the depth of meaning of this without having read Sam Kriss’ thoughts on the poem[[3]](#ftnt3). The inclusion of this creates a dramatic irony in the piece: Gawain has no idea what he’s looking at, but the audience is expected to. It helps paint the Green Knight as an ancient and terrible figure.
 
 But on the other hand, like every other mediaeval story this one is ridiculously Christian. At almost every point, Jesus is brought up. The spring is marked not with the new leaves, but with Lent and the eating of fish. The five chivalric virtues are lined up with the five wounds of Christ. Gawain only survives his encounters with giants (mentioned in a single line) because of Christ. The Green Knight calls his game a “Christmas Jest”, and even exclaims “By Christ!” later on in the poem.
 
@@ -193,3 +193,11 @@ This is the deeper, darker story within the story. The immortal tale of the huma
 ## PS
 
 In case anyone was wondering, I think the 2021 film is awful.
+
+[[1]](#ftnt_ref1) This is like Britain's reverse-1776: this is the year the Normans invaded, removed the Anglo-Saxons from power, and since then there has not been a single invasion of the British mainland. The Normans came from France but were actually originally from the Nordic countries, hence the name.
+
+[[2]](#ftnt_ref2) Often pronounced guh-WAYNE but properly pronounced GAH-win
+
+[[3]](#ftnt_ref3) I would recommend reading his piece which includes this [here](https://samkriss.substack.com/p/the-repulsive-crust).
+
+All pictures taken from Wikimedia Commons

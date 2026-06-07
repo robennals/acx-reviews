@@ -26,13 +26,13 @@ Source: INSA
 
 In some east German states, notably Thuringia, the state for which Höcke aims to be prime minister, the AfD polls as the strongest party with over 30% of prospective votes. This is especially relevant this year because votes for three eastern states and the European Parliament will be held. For the first time since the war, a “[secured right-wing extremist party](https://www.spiegel.de/politik/deutschland/afd-in-thueringen-verfassungsschutz-beobachtet-landesverband-a-d38839a1-9c07-48ff-9033-222616272550)” has a non-zero probability to govern a state.
 
-However, media reporting on Höcke and the AfD may not be entirely even-handed and objective. A recent [study](https://www.researchgate.net/publication/377721606_Fehlt_da_was_Perspektivenvielfalt_in_den_offentlich-rechtlichen_Nachrichtenformaten) analyzed the content of both private and public news formats concerning the treatment of different parties. As you can see, reporting is almost universally negative.[[245]](#ftnt245) But maybe the AfD is simply horrible and deserves all the bad press it gets?
+However, media reporting on Höcke and the AfD may not be entirely even-handed and objective. A recent [study](https://www.researchgate.net/publication/377721606_Fehlt_da_was_Perspektivenvielfalt_in_den_offentlich-rechtlichen_Nachrichtenformaten) analyzed the content of both private and public news formats concerning the treatment of different parties. As you can see, reporting is almost universally negative.[[1]](#ftnt1) But maybe the AfD is simply horrible and deserves all the bad press it gets?
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/ac93f7b3b3a650f2.png)
 
 Content analysis of public media (left) and private media (right)
 
-A recent example of such negative reporting was a CORRECTIV report about a secret meeting of far-right individuals, including AfD members, in Potsdam, who planned “[forced deportations of people from Germany based on a set of racist criteria, regardless of whether or not they have German citizenship](https://correctiv.org/en/top-stories/2024/01/15/secret-plan-against-germany/)”.[[246]](#ftnt246) These accusations were widely circulated within German media. At the same time as the report came out, even a [theater production](https://youtu.be/kJMQODymCsQ?t=1144) was performed to spread the message! All of this led to protests of millions of citizens across multiple German cities.
+A recent example of such negative reporting was a CORRECTIV report about a secret meeting of far-right individuals, including AfD members, in Potsdam, who planned “[forced deportations of people from Germany based on a set of racist criteria, regardless of whether or not they have German citizenship](https://correctiv.org/en/top-stories/2024/01/15/secret-plan-against-germany/)”.[[2]](#ftnt2) These accusations were widely circulated within German media. At the same time as the report came out, even a [theater production](https://youtu.be/kJMQODymCsQ?t=1144) was performed to spread the message! All of this led to protests of millions of citizens across multiple German cities.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/fb449002ae8797e9.jpg)![](https://acximages.ennals.org/images/2024-book-reviews/4b3d9359d2312df6.jpg)
 
@@ -40,7 +40,7 @@ It is not in question that this meeting took place and that the “remigration�
 
 Media dishonesty and bias surrounding the AfD irks me a lot personally because I see the massive challenges that mass migration brings to the country but I do not want to support a fascist party that aims to abolish democracy and the rule of law. Unfortunately, just because the media uses misleading language, doesn’t mean they are wrong! It seems like we will have to do some work ourselves. Let’s see what we can figure out about the beliefs of big man Höcke himself. **Is he a fascist? Does he want to abolish democracy? How far is he willing to go to deal with immigration?**
 
-Höcke seems to communicate almost exclusively in provocative and ambiguous statements.[[247]](#ftnt247) Take for example the following passages from a Höcke speech, for which he was almost kicked out of his party:
+Höcke seems to communicate almost exclusively in provocative and ambiguous statements.[[3]](#ftnt3) Take for example the following passages from a Höcke speech, for which he was almost kicked out of his party:
 
 > _“We will only have ourselves if we rebuild a positive relationship with our history. And Franz Josef Strauß already remarked that Vergangenheitsbewältigung (coming to terms with the past) as a permanent task for society as a whole paralyzes a nation. Dear friends, he was right, Franz Josef Strauß! And this stupid Bewältigungspolitik (policy of coming to terms with the past) paralyzes us even more today than it did in Franz Josef Strauß' day. We need nothing less than a 180-degree turnaround in the politics of remembrance!”_
 >
@@ -60,7 +60,7 @@ Most notable are the Syrian refugee crisis of 2015 and the current Ukraine crisi
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/24f84503d3bb0f08.png)
 
-There are, in my view, two main reasons for why refugees came to Germany. Firstly, because Germany has a rather comfortable welfare system and secondly, because Angela Merkel, the former German Chancellor, _literally_ asked for it. As a consequence of this migration policy mixed with past migration and relatively low native birth rates (1.36 (native) vs. 1.88 (non-native) per woman), the native population in Germany is gradually getting replaced. Consider the figure below, which shows the amount of individuals living in Germany by migrant background and age.[[248]](#ftnt248) Whereas only about 10% of retired people have a migration background, about 40% of children do.
+There are, in my view, two main reasons for why refugees came to Germany. Firstly, because Germany has a rather comfortable welfare system and secondly, because Angela Merkel, the former German Chancellor, _literally_ asked for it. As a consequence of this migration policy mixed with past migration and relatively low native birth rates (1.36 (native) vs. 1.88 (non-native) per woman), the native population in Germany is gradually getting replaced. Consider the figure below, which shows the amount of individuals living in Germany by migrant background and age.[[4]](#ftnt4) Whereas only about 10% of retired people have a migration background, about 40% of children do.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/360fe216ed322572.jpg)
 
@@ -193,3 +193,11 @@ It gives me no joy to say this, it rather fills me with concern for the future o
 2.  Vote for the AfD and risk an even quicker downfall in the hopes of preventing it.
 
 _Quo vadis, Germania?_
+
+[[1]](#ftnt_ref1) [Some](https://www.t-online.de/nachrichten/deutschland/id_100329260/ard-und-zdf-einseitige-berichterstattung-studie-zeigt-deutliches-ergebnis.html) [outlets](https://www.derwesten.de/politik/linksdrall-ard-zdf-oeffentlich-rechtliche-studie-bild-zeitung-medien-id300828155.html) have framed the results of this study as proving that public media are not unfair to the AfD because public media is not MORE unfair than private media. Of course, that’s not the point. Only public media has a mandate to be politically neutral. Thus, deriving a reasonable standard from the reporting behavior of private media is absurd.
+
+[[2]](#ftnt_ref2) Interestingly, in the German version CORRECTIV writes about “Vertreibung” (expulsion/eviction/displacement) of German citizens and they deny having used the word “[Deportation](https://twitter.com/hori_zont/status/1751675275002192195)” (deportation), despite using it in the English version. Anyways, German [media](https://www.zdf.de/nachrichten/politik/deutschland/afd-treffen-potsdam-cdu-abgrenzung-100.html) [and](https://www.zeit.de/politik/deutschland/2024-01/afd-rechtsextreme-potsdam-treffen-remigration-was-wir-wissen) [politicans](https://www.tagesschau.de/inland/innenpolitik/afd-geheimtreffen-bundestag-100.html) widely used the word “Deportation” to describe the plan.  
+
+[[3]](#ftnt_ref3) [Here](https://www.volksverpetzer.de/analyse/25-krasse-hoecke-zitate/) is a collection of Höcke’s greatest hits, collected by a hostile source.
+
+[[4]](#ftnt_ref4) Migrant background means that either you or at least one of your parents were born in a different country. Migrants of generation 3+ are counted as “German”. Some of the “migrants” are ethnic Germans who came back to Germany (“Aussiedler”).

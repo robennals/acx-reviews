@@ -29,7 +29,7 @@ But that might sound strange: why would anyone do anything they didn’t actuall
 
 Nick Winter’s _[The Motivation Hacker](https://www.nickwinter.net/the-motivation-hacker)_ is an exploration of how this misalignment arises, a highly practical review of techniques for correcting it, and a chronicle of his 3-month-long attempt to better approximate his utility-argmaxed self by running a startup, training for a marathon, increasing his subjective wellbeing from 6.3/10 to 7.3/10, and 15 other such ‘missions’ (including writing a book about it).
 
-It’s a uniquely valuable book, but most of its value comes from the circumstances under which it was written and the fact that it exists at all, rather than from the quality of its writing (it’s a bit too long at 30000 words and many of its copious footnotes add nothing of value[[94]](#ftnt94)).
+It’s a uniquely valuable book, but most of its value comes from the circumstances under which it was written and the fact that it exists at all, rather than from the quality of its writing (it’s a bit too long at 30000 words and many of its copious footnotes add nothing of value[[1]](#ftnt1)).
 
 It undeniably belongs in the self-help section, but it manages to sidestep most of that genre’s pervasive issues by its very nature: most self-help authors will give you 500 words’ worth of advice over 250 pages, and go on to demonstrate how their ideas can help you write another book and host a self-help podcast.
 
@@ -194,3 +194,5 @@ I don’t know if this failure is as bad as Winter or I make it out to be - a bo
 And if figuring all that out seems like a challenging problem, hopefully you can at least get yourself motivated to take on the challenge.
 
 * * *
+
+[[1]](#ftnt_ref1) At one point, Winter decides to interrupt his chapter on building self-belief with a footnote explaining what _Super Smash Bros._ is. It’s about as informative and worthwhile as this one.

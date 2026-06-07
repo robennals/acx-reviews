@@ -19,7 +19,7 @@ It’s about philosophy, sorry!
 
 The most disappointing thing about _Surviving Death_ is its premise. I want to lead with that. _Surviving Death_ is a book in the philosophy of personal identity, so any life extension routines are off the table. Moreover, even in the weird philosophical headspace, the book doesn’t promise the type of survival that it’s most natural to want, survival of one’s personality, subjectivity, etc. And, although it does offer a way to literally survive death, I’m not even totally convinced by that account of survival.
 
-What’s exciting about _Surviving Death_ is everything else. First and foremost, the book is just plain fun, at least as far as philosophy books go. Second, the book is an important work in the philosophy of personal identity. There’s all sorts of novel stuff here, in terms of both method and doctrine, even if you don’t buy the whole argument. Third, the book is an erudite engagement with the history of religious thought. For instance, do you know what Martin Luther thought happened to the soul after you die? I do now.[[45]](#ftnt45) Fourth and finally, the book engages with religious philosophy in an interesting way. It is (analytic, logical, mathematical rather than poetic) philosophy with religious (or continental, maybe) stakes.
+What’s exciting about _Surviving Death_ is everything else. First and foremost, the book is just plain fun, at least as far as philosophy books go. Second, the book is an important work in the philosophy of personal identity. There’s all sorts of novel stuff here, in terms of both method and doctrine, even if you don’t buy the whole argument. Third, the book is an erudite engagement with the history of religious thought. For instance, do you know what Martin Luther thought happened to the soul after you die? I do now.[[1]](#ftnt1) Fourth and finally, the book engages with religious philosophy in an interesting way. It is (analytic, logical, mathematical rather than poetic) philosophy with religious (or continental, maybe) stakes.
 
 ## Mark Johnston
 
@@ -59,9 +59,9 @@ Johnston thinks this is too hasty. For one, this idea that death makes goodness 
 
 So, what is there behind the emotion? Consider Wicked-world, a world where no good deed goes unpunished and all acts of evil are rewarded. As a matter of psychology, people would very understandably do less good. Is this rational? Is this ok? Well, from the “moral point of view” the answer should be no. Moral oughts are supposed to be categorical. “You should do X”, not “you should do X if you want to/if it’s in your self-interest”. Morality is supposed to place absolute restrictions on self-interest.
 
-Johnston’s claim is that the state of the world may not dampen the categorical force of morality’s dictums, but it may decrease the significance we give to these dictums in our practical reasoning.[[46]](#ftnt46)
+Johnston’s claim is that the state of the world may not dampen the categorical force of morality’s dictums, but it may decrease the significance we give to these dictums in our practical reasoning.[[2]](#ftnt2)
 
-Consider the case of etiquette. Etiquette is also categorical. It’s forks on the left, not forks on the left if you feel like it. But many of us just don’t care that much. We look at the world, the arbitrariness of the rules, and decide that there’s not too much reason to care about the dictums of etiquette.[[47]](#ftnt47)
+Consider the case of etiquette. Etiquette is also categorical. It’s forks on the left, not forks on the left if you feel like it. But many of us just don’t care that much. We look at the world, the arbitrariness of the rules, and decide that there’s not too much reason to care about the dictums of etiquette.[[3]](#ftnt3)
 
 Our world is not Wicked-world. But it doesn’t seem to be a world with much of a moral order. Good often is punished, evil often is rewarded (maybe more often than not). Should the universe’s indifference to the categories that morality says is so important not diminish the significance we give to these categories? Would an afterlife which sets things right not make our world make more moral sense?
 
@@ -101,7 +101,7 @@ What should we say about the seemingly ahead of their time Christian Mortalists?
 
 Why not? Well, we need more than just a body persisting normally (through exchange of matter with its environment, tissue repair, metabolism, etc.) - we need to allow divine recreation of a body. And that introduces unfortunate consequences.
 
-If we’re particular about the matter making up the body, we hit upon an ancient worry concerning resurrection: cannibals. If, as part of one’s death, one’s matter becomes part of someone else, then there is a real question about the distribution of matter on the Great Day. One answer, with a genuinely impressive pedigree[[48]](#ftnt48): both parties are a little bit smaller post-resurrection, since they have to share the matter. The case seems similar with regards to organ donation - is minor shrinkage how good is rewarded?
+If we’re particular about the matter making up the body, we hit upon an ancient worry concerning resurrection: cannibals. If, as part of one’s death, one’s matter becomes part of someone else, then there is a real question about the distribution of matter on the Great Day. One answer, with a genuinely impressive pedigree[[4]](#ftnt4): both parties are a little bit smaller post-resurrection, since they have to share the matter. The case seems similar with regards to organ donation - is minor shrinkage how good is rewarded?
 
 There’s another deeper problem, which Johnston terms the problem of perimortem duplicates. As I said, in order for the bodily/animal criterion to secure the possibility of resurrection, an additional principle, allowing for and describing recreation, is necessary. Thus:
 
@@ -141,7 +141,7 @@ This section might be disappointing for anyone deeply invested in this literatur
 
 ### De Se Reasons and the Doctrine Anatta
 
-At the basis of our practical reasoning are certain thoughts about our self and our self-interest. We are said to have basic _de se_[[49]](#ftnt49), of oneself, reasons for acting and caring. Indeed, our usual pattern of care is modeled as concentric circles containing, in the innermost layer, ourselves, and then, moving outward, our family, friends, acquaintances, and then perhaps our state or nation or other broader communities. We don’t reason as follows:
+At the basis of our practical reasoning are certain thoughts about our self and our self-interest. We are said to have basic _de se_[[5]](#ftnt5), of oneself, reasons for acting and caring. Indeed, our usual pattern of care is modeled as concentric circles containing, in the innermost layer, ourselves, and then, moving outward, our family, friends, acquaintances, and then perhaps our state or nation or other broader communities. We don’t reason as follows:
 
 1.  I happen to be from the U.S.
 2.  As a result, I feel patriotic for that country.
@@ -183,7 +183,7 @@ Unfortunately, the prototypical merely intentional object is the hallucination, 
 
 There are many questions about hallucinations which have no answer. What color is the back of Macbeth’s hallucinated dagger? Allow that Macbeth is not having a hallucinatory vision of a specific actual dagger which we could go check (this differs from the actual play), then so long as he doesn’t have a vision of the back of the dagger, there’s just no answer to what color the back is. Identity over time of a hallucinated object is the same way. As a convention, we simply default to what the hallucinator says. If Macbeth has a hallucination of a dagger one night and then has another the next it is simply up to him whether it is the same dagger or a different one. Of course, how the hallucination presents to him has a substantial say. It is not just an arbitrary choice he makes. But beyond the mode of presentation of the dagger there are no actual facts as to the persistence of the dagger. And it is entirely possible for two people to be presented with the same stimulus and come to different conclusions (two people may each have two hallucinations made up of the same qualitative characteristics and one of them may understand their experience as two hallucinated daggers while the other may think they hallucinated one dagger twice).
 
-Consider your own case. Whenever you wake up, how do you know you are experiencing the same arena? What conditions do you apply, moment to moment, to make this determination?[[50]](#ftnt50) This is just something we immediately know. As a result of our scientific knowledge, we know, or at least strongly suspect, that whatever phenomenology we have comes from our brain. And we always find the same old human being at the center, with presumably the same brain (have you ever checked?). But this is not the criteria by which we come to know we are the same self moment to moment. We just experience the arena we have as persisting.
+Consider your own case. Whenever you wake up, how do you know you are experiencing the same arena? What conditions do you apply, moment to moment, to make this determination?[[6]](#ftnt6) This is just something we immediately know. As a result of our scientific knowledge, we know, or at least strongly suspect, that whatever phenomenology we have comes from our brain. And we always find the same old human being at the center, with presumably the same brain (have you ever checked?). But this is not the criteria by which we come to know we are the same self moment to moment. We just experience the arena we have as persisting.
 
 In order for us to actually just know that the arena persists, we’d have to be offloading. We’d have to be letting the arena take care of its own persistence. But a hallucination is not the type of thing that can take care of its own survival. It is not in its nature to be self-maintaining and persistent through time.
 
@@ -269,7 +269,7 @@ Johnston’s conclusion seems crazy to me. I find there to be all sorts of inter
 
 From an outside perspective, Johnston has been publishing work in the philosophy of personal identity since before I was born. So it’s likely he’d be able to fool me (this is not to suggest the book is a con in any way, just that if its conclusion is false, Johnston’s argumentative chops may be sufficient to make it convincing anyway). Additionally, the book is nearly 400 pages. As the detailed recounting of the argument may suggest, I don’t claim to have grasped the single golden thread that makes it all clear. It seems overwhelmingly likely that there is some mistake in the details _somewhere_ that means the conclusion is totally off base.
 
-Philosophy, and reason more broadly, is often a lot like semantic satiation, the phenomenon of a word losing meaning through repetition. Digging deep enough into our conceptual apparatus - plumbing the depth of what we most truly are and what it most deeply is to exist - we are led to confusing positions, questions we wouldn’t normally ask, and loss of the regular senses of things. Indeed, it is a mainstay of modern philosophy that regarding any open issue, there is no position that allows us to hold everything we want to hold. Two seemingly unimpeachable everyday premises somehow contradict and we must adopt some partial answer that requires us to deny something seemingly obvious.[[51]](#ftnt51)
+Philosophy, and reason more broadly, is often a lot like semantic satiation, the phenomenon of a word losing meaning through repetition. Digging deep enough into our conceptual apparatus - plumbing the depth of what we most truly are and what it most deeply is to exist - we are led to confusing positions, questions we wouldn’t normally ask, and loss of the regular senses of things. Indeed, it is a mainstay of modern philosophy that regarding any open issue, there is no position that allows us to hold everything we want to hold. Two seemingly unimpeachable everyday premises somehow contradict and we must adopt some partial answer that requires us to deny something seemingly obvious.[[7]](#ftnt7)
 
 There is no obvious place to abandon Johnston’s ship. Certain questions are answered with slightly different methodologies and various types of arguments are employed throughout the work. But there is no single argument that is categorically different from all the others. Whatever you take, it is hard to find a principled reason to leave the rest.
 
@@ -291,114 +291,16 @@ Perhaps the most radical claim for philosophy is that we can answer the religiou
 
 I don’t worry so much about free will anymore. It honestly doesn’t have much to do with having a great answer to the question. Part of the story is just time. But part of it is reflection and engagement with the reflection of others. It seems clearer to me, at least, that my hasty derivations from lack of free will to a terrifying nihilism are not so easy. This is a way in which the semantic satiation effect of philosophy can be comforting. When we turn the light of reason on our existential worries, it is more difficult to maintain them. I’m not sure that philosophy can help us survive death. But perhaps it can help us live with it.
 
-* * *
+[[1]](#ftnt_ref1) He thinks it sleeps until resurrection day in a view derisively titled psychopannychism.
 
-[[1]](#ftnt_ref1) “Wait a minute, this is about a fake news website? Why is it in this contest?”
+[[2]](#ftnt_ref2) Part of Johnston’s case, I’m not sure if it’s an essential part, is that we have various points of view/sources of reasoning, e.g. moral, prudential, hedonic, which we put together somehow in our practical reasoning in order to determine what action to take. In this account, the moral point of view has diminished significance in our practical reasoning in a world that is morally incoherent. I’m not sure why we can’t just say morality’s significance is diminished while remaining agnostic about how exactly practical reasoning works. On his account, there’s some weirdness about whether morality is a self-contained “point of view” that we can go into or out of.
 
-Excellent question! To that, I offer several answers:
+[[3]](#ftnt_ref3) Are we just critiquing the etiquette point of view from the moral point of view, i.e. saying that given all the pressing moral demands in the world, the “good” of etiquette just isn’t enough to be worth considering?
 
-1.  A collection of fake news blog posts may as well be considered a long-running series of short stories, and I hope that we’d be allowed to review the collected short stories of an author even if they were never technically compiled into a book.
-2.  Scott told us to be less conventional in our choices.
-3.  I am a liberal arts graduate and I’m definitely not going to make the finals reviewing some nerdy non-fiction book.
+[[4]](#ftnt_ref4) For instance, Johnston cites the great early modern scientist Robert Boyle as defending this view.
 
-[[2]](#ftnt_ref2) Baxter also places a few tribunals in Guam.
+[[5]](#ftnt_ref5) The classic example: you notice a trail of sugar on the ground at the grocery store and think “One really should clean up one’s mess”. Then, looking down at your cart you notice it’s _your_ sugar that’s leaking. You apply the knowledge of who you are, to know which impersonal principles apply to you. This is a derivative _de se_ reason (you have an impersonal clean-up-after-yourself principle and apply it to your case). There are also presumably basic _de_ _se_ considerations, such as basic self-interest.
 
-[[3]](#ftnt_ref3) Yes, the stock photo on this article is Christian Bale playing Dick Cheney from the _Vice_ movie.
+[[6]](#ftnt_ref6) Of course, this may be your first time hearing about the arena. The question can be intuitively captured by something like how do you know you’re seeing through the same eyes, although that brings in elements of the body and the animal into the thought.
 
-[[4]](#ftnt_ref4) On the other hand, Jeffrey Epstein is [actually alive](https://realrawnews.com/2021/01/epstein-the-kraken-escaped-federal-custody-during-6-jan-riots/) – and at large, having escaped custody during the January 6 riot.
-
-[[5]](#ftnt_ref5) [A real person!](https://www.jag.navy.mil/about/leadership/jonathan-t-stephens/)
-
-[[6]](#ftnt_ref6) That [article](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) might be unpleasant to some (it describes child torture), but it does give Tom Hanks the best villain line in any artistic medium of the past half-decade: “Life ain’t like a box of chocolates, it’s like a bag of shit!”
-
-[[7]](#ftnt_ref7) It is _always_ Delta Force, SEALs, or Marines who undertake military operations in Real Raw News land. No exceptions.
-
-[[8]](#ftnt_ref8) The episode was titled “That 90s Show,” a joking reference to That 70s Show…except that, 15 years later, there now actually is a That 90s Show, and The Simpsons is still going.
-
-[[9]](#ftnt_ref9) And I mean the actual cut-your-head-off death penalty, none of that “outlawry” silliness from Njal’s Saga.
-
-[[10]](#ftnt_ref10) A real-life capital court martial requires at least 12 jury members, but in RRN it is only three.
-
-[[11]](#ftnt_ref11) This [sic] is from Baxter’s original article, describing a fictional quote about a fictional military tribunal. Like I said, the man’s a genius.
-
-[[12]](#ftnt_ref12) Another charming part of Baxter’s style is his love of a good thesaurus.com search.
-
-[[13]](#ftnt_ref13) Ironically, AI barely figures at all into Real Raw News’s reporting. Cloning, body doubles, and energy weapons pop up all the time. There’s plenty of footage that is faked the old-fashioned way, with studio sets and actors. Yet Real Raw News has never even used the _word_ “deepfake,” and AI has only appeared a handful of times as an easily-foiled tactic by the bad guys.
-
-[[14]](#ftnt_ref14) £22.52, which isn't that much, but more than I usually spend on books.
-
-[[15]](#ftnt_ref15) Subjective!
-
-[[16]](#ftnt_ref16) Which are often misleading without understanding the details, how they were defined/collected, potential biases, etc.
-
-[[17]](#ftnt_ref17) For example, Morris dismisses Ilan Pappe as [the world's sloppiest historian](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian). He recommends Avi Shlaim as a historian who he disagrees with, but is factually accurate.
-
-[[18]](#ftnt_ref18) That prize goes to [Sacred Causes](https://www.amazon.com/Sacred-Causes-Religion-Politics-Terror/dp/0060580968) which basically listed off reams of events without ever tying them together or putting it into a wider narrative.
-
-[[19]](#ftnt_ref19) Interestingly, the Balfour declaration was driven partly because the British, based on anti-semitic tropes, assumed the Jews were far more powerful than they were and could decide the fate of the war.
-
-[[20]](#ftnt_ref20) And almost provoking a war with the British who had a strong interest in the Sinai, given it bordered on the Suez.
-
-[[21]](#ftnt_ref21) For more on this period, read [Israel's Border Wars, 1949–1956](https://en.wikipedia.org/wiki/Israel%27s_Border_Wars,_1949%E2%80%931956).
-
-[[22]](#ftnt_ref22) Partly because the aim was to be seen to be doing something, to reassure the border settlers that the government was looking out for their welfare, rather than to actually prevent the terrorism.
-
-[[23]](#ftnt_ref23) This is a contentious point, as there were contradictory things said by Nasser and various Egyptian higher ups. There definitely was some talk of attacking the Negev desert to meet up with Jordan, but it's difficult to judge how fanciful it was - certainly the Egyptian positions did not reflect any such plans.
-
-[[24]](#ftnt_ref24) The Golan heights is a plateau dominating the sea of Galilee and the Hula valley, and so was a tactically difficult border to defend against as the Syrians had a strong height advantage, and could easily see and shell Israeli positions below. Israel had long coveted the heights to solve this issue.
-
-[[25]](#ftnt_ref25) The West Bank is much higher than the plains to the west, and overlooks Israel's narrow waist, just 15km wide at its thinnest. It would be easy for a well armed opponent to cut Israel in two from the West Bank, and all of Israel's most important cities are within easy artillery range of the West Bank. Meanwhile the border with Jordan reached by occupying the West Bank is along a major valley and so easy to defend.
-
-[[26]](#ftnt_ref26) The biblical territory of the Israelites is mostly in the West Bank, whereas the territory of modern day Israel was mostly Pagan (with lots of exceptions both spatially and temporally).  The Temple Mount, the most (arguably - only) important site in Judaism is located in East Jerusalem, as is the Cave of the Patriarchs and Rachel's Tomb.
-
-[[27]](#ftnt_ref27) The residents were offered citizenship, though most refused and received permanent residency instead. Since then very few have received citizenship, and there's some debate to what extent that's their decision vs Israel placing bureaucratic hurdles in their path. Anyway, none of this is discussed in Righteous Victims so I shouldn't really be telling you about it.
-
-[[28]](#ftnt_ref28) Surface to Air missiles.
-
-[[29]](#ftnt_ref29) Israel had suffered some 360 deaths by then, almost all soldiers. Egyptian losses are impossible to know, but Morris gives a ballpark estimate of 10,000 military + civilians killed.
-
-[[30]](#ftnt_ref30) The day of atonement. Almost all Jewish Israelis stay at home or go to the synagogue. The roads are so empty that children call it the bicycle festival, as they can safely cycle on even the busiest highways.
-
-[[31]](#ftnt_ref31) This force remains there to this day, and the border has been mostly quiet, excepting for some flare ups when Syria was fighting Islamic militants in the demilitarized zone during the ongoing civil war.
-
-[[32]](#ftnt_ref32) He was the ex head of the Irgun terror group.
-
-[[33]](#ftnt_ref33) South Lebanese Army, a Christian/Shiite/Druze force.
-
-[[34]](#ftnt_ref34) A different Palestinian terrorist organization shot the Israeli ambassador in London, likely to provoke exactly this war.
-
-[[35]](#ftnt_ref35) They were protected by an international force to safeguard their retreat.
-
-[[36]](#ftnt_ref36) The IDF knowingly let the Phalangists take revenge for his assassination, [massacring hundreds of Palestinians](https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre).
-
-[[37]](#ftnt_ref37) They generally earned less than Israelis could for the same work, and didn’t receive the standard protections and benefits Israeli workers did.
-
-[[38]](#ftnt_ref38) Clinton blamed the failure of the talks on Arafat, who he says failed to make any significant concessions. Alas the details of the talks are private, and Israeli and Palestinian claims as to what Israel offered differ wildly. Either way the talks were kind of moot, since by that stage Barak’s government was dead in the water, and basically had no chance of pushing through any sort of contentious peace deal.
-
-[[39]](#ftnt_ref39) Israel was founded in May 1948. India and Pakistan split in August 1947, which led to the massacres of hundreds of thousands of people, and the mass migration of millions of Muslims from India to Pakistan and millions of Hindus from Pakistan to India.
-
-[[40]](#ftnt_ref40) Ask WW2 Britain, which could have easily defeated Nazi Germany if it hadn’t handed over the Sudetenland without a fight.
-
-[[41]](#ftnt_ref41) They currently control about 10 percent of the Knesset, but this is likely an underestimate.
-
-[[42]](#ftnt_ref42) This is like Britain's reverse-1776: this is the year the Normans invaded, removed the Anglo-Saxons from power, and since then there has not been a single invasion of the British mainland. The Normans came from France but were actually originally from the Nordic countries, hence the name.
-
-[[43]](#ftnt_ref43) Often pronounced guh-WAYNE but properly pronounced GAH-win
-
-[[44]](#ftnt_ref44) I would recommend reading his piece which includes this [here](https://samkriss.substack.com/p/the-repulsive-crust).
-
-All pictures taken from Wikimedia Commons
-
-[[45]](#ftnt_ref45) He thinks it sleeps until resurrection day in a view derisively titled psychopannychism.
-
-[[46]](#ftnt_ref46) Part of Johnston’s case, I’m not sure if it’s an essential part, is that we have various points of view/sources of reasoning, e.g. moral, prudential, hedonic, which we put together somehow in our practical reasoning in order to determine what action to take. In this account, the moral point of view has diminished significance in our practical reasoning in a world that is morally incoherent. I’m not sure why we can’t just say morality’s significance is diminished while remaining agnostic about how exactly practical reasoning works. On his account, there’s some weirdness about whether morality is a self-contained “point of view” that we can go into or out of.
-
-[[47]](#ftnt_ref47) Are we just critiquing the etiquette point of view from the moral point of view, i.e. saying that given all the pressing moral demands in the world, the “good” of etiquette just isn’t enough to be worth considering?
-
-[[48]](#ftnt_ref48) For instance, Johnston cites the great early modern scientist Robert Boyle as defending this view.
-
-[[49]](#ftnt_ref49) The classic example: you notice a trail of sugar on the ground at the grocery store and think “One really should clean up one’s mess”. Then, looking down at your cart you notice it’s _your_ sugar that’s leaking. You apply the knowledge of who you are, to know which impersonal principles apply to you. This is a derivative _de se_ reason (you have an impersonal clean-up-after-yourself principle and apply it to your case). There are also presumably basic _de_ _se_ considerations, such as basic self-interest.
-
-[[50]](#ftnt_ref50) Of course, this may be your first time hearing about the arena. The question can be intuitively captured by something like how do you know you’re seeing through the same eyes, although that brings in elements of the body and the animal into the thought.
-
-[[51]](#ftnt_ref51) It is in this very context, that Johnston remarks, paraphrasing, that our best hope for philosophy is clarification of a subject without desiccation.
+[[7]](#ftnt_ref7) It is in this very context, that Johnston remarks, paraphrasing, that our best hope for philosophy is clarification of a subject without desiccation.

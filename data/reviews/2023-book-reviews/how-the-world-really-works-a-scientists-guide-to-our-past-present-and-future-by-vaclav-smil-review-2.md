@@ -179,3 +179,15 @@ If I had read this book before participating, I probably would have quit (and mi
 And that should be applied equally to the praise on the back cover from Gates and others. Smil’s pose of objectivity is specious, and some of his arguments about energy are questionable[[6]](#ftnt6).
 
 And it seems ironic that Smil’s greatest cheerleader is a self-declared ‘impatient optimist’ who is using his vast wealth and influence to at least try to solve major global problems. While I enjoyed the book for all its flaws, I couldn’t help thinking Smil should return the favour by reading more Bill.
+
+[[1]](#ftnt_ref1) [5 great books for the summer | Bill Gates (gatesnotes.com)](https://www.gatesnotes.com/Summer-Books-2022) 6 June, 2022
+
+[[2]](#ftnt_ref2) [An email from my younger self | Bill Gates (gatesnotes.com)](https://www.gatesnotes.com/Science-Books?WT.mc_id=20230220100000_Science-Books_BG-EM_&WT.tsrc=BGEM) 4 April 2023
+
+[[3]](#ftnt_ref3) Wikipedia [https://en.wikipedia.org/wiki/University\_of\_Manitoba](https://en.wikipedia.org/wiki/University_of_Manitoba) 
+
+[[4]](#ftnt_ref4) _[The realist](https://www.science.org/doi/full/10.1126/science.359.6382.1320)_ _-_ interview in _Science Magazine_ by Paul Voosen, 23 March 2018
+
+[[5]](#ftnt_ref5) [https://poets.org/poem/september-1-1939](https://poets.org/poem/september-1-1939) 
+
+[[6]](#ftnt_ref6) [How the World Really Works](https://blogs.lse.ac.uk/impactofsocialsciences/2022/09/17/book-review-how-the-world-really-works-a-scientists-guide-to-our-past-present-and-future-by-vaclav-smil/) in LSE Review of Books by Iancu Daramus, 17 September, 2022

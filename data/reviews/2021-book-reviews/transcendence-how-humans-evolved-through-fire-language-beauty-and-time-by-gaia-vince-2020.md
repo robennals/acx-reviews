@@ -21,7 +21,7 @@ _We've come a long way together_
 
 A few weeks ago, I got a nice email from the Executive Secretary of the Association of British Science Writers: “Hi Patrick, Many congratulations on winning third prize at last week’s Yahtzee tournament…”  
 
-I had to choose between a £50 case of wine, a £50 hamper of vegan organic chocolate, or five science books, two of which I had already read[[68]](#ftnt68). Being human, I naturally crave wine and chocolate, but as a cultured geek who occasionally transcends biological urges, I asked for the books.
+I had to choose between a £50 case of wine, a £50 hamper of vegan organic chocolate, or five science books, two of which I had already read[[1]](#ftnt1). Being human, I naturally crave wine and chocolate, but as a cultured geek who occasionally transcends biological urges, I asked for the books.
 
 They arrived with the fresh fragrance of FSC-certified paper. Attracted by the cover design (yes, we do judge by cultural criteria of beauty), I started with Transcendence by Gaia Vince, author of _Adventures in the Anthropocene_, who also looked nice in her photo. As the subtitle suggests, it’s a kaleidoscopic panorama of evolution of our own species, seen through rotating compound lenses of anthropology, population genetics, palaeontology, psychology and neuroscience.
 
@@ -36,3 +36,5 @@ And is there a moral to this multi-storied tale? Perhaps not, but to quote Fatbo
 Oh, and join your local science writing guild - you might just get lucky!
 
 * * *
+
+[[1]](#ftnt_ref1) The others are: The World According to Physics by Jim Al-Khalili; Superior by Angela Saini, The Double X Economy by Linda Scott, and The Great Pretender by Susannah Cahalan, also highly recommended!

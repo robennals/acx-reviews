@@ -83,7 +83,7 @@ Despite (or perhaps because of) his historical misconceptions, Rousseau’s lega
 > _“If freedom means doing what I want, well, don’t I gotta want something?”_  
 > _— Ramshackle Glory_
 
-The Davids outline three freedoms[[3]](#ftnt3) they find are neglected in the discourse of Western political philosophy. These are:
+The Davids outline three freedoms[[1]](#ftnt1) they find are neglected in the discourse of Western political philosophy. These are:
 
 1.  The freedom to move away or relocate from one’s surroundings
 2.  The freedom to ignore or disobey commands issued by others
@@ -95,7 +95,7 @@ The second freedom is of particular importance to the Davids’ project because 
 
 When Rousseau cooked up his state of nature, he was already familiar with the second freedom as understood by some indigenous Americans, whom the Davids explain, organized “their own lives in such a way as to minimize any possibility of one human being becoming subordinated to the will of another.” Rousseau refracted the indigenous emphasis on freedom through the prism of Roman Law, which was the central lens for European conceptions of individual freedom. On this view, “true freedom meant . . . being in no way dependent on other human beings.” Since one model minimizes coercion and the other minimizes dependence, we’re bound to see some misalignment.
 
-Indeed, the American Indian concept of freedom comes at the cost of guaranteed support from the community: you are free from starvation insofar as others will feed you, and you are free to travel insofar as others will shelter you. Under Roman Law, freedom is about _property_: freedom to use or destroy a possession and its products (including children and slaves)[[4]](#ftnt4), freedom to exclude others from your food or property. By centering European ideals in his state of nature, Rousseau co-opted indigenous critiques of Europe’s dismal conditions, while purging these critiques of their potential to reshape society. “In translating the indigenous critique into terms that French philosophers could understand,” the Davids mourn, “this sense of possibility is precisely what was lost.”
+Indeed, the American Indian concept of freedom comes at the cost of guaranteed support from the community: you are free from starvation insofar as others will feed you, and you are free to travel insofar as others will shelter you. Under Roman Law, freedom is about _property_: freedom to use or destroy a possession and its products (including children and slaves)[[2]](#ftnt2), freedom to exclude others from your food or property. By centering European ideals in his state of nature, Rousseau co-opted indigenous critiques of Europe’s dismal conditions, while purging these critiques of their potential to reshape society. “In translating the indigenous critique into terms that French philosophers could understand,” the Davids mourn, “this sense of possibility is precisely what was lost.”
 
 ## The Agency Argument
 
@@ -261,3 +261,7 @@ The earliest factories we have found were charitable temple institutions where n
 “Slavery was most likely abolished multiple times in history in multiple places . . . very possibly the same is true of war.”
 
 Eye rolling is a cultural universal, along with music and dance.
+
+[[1]](#ftnt_ref1) I am avoiding language about “rights,” which, while central to the concepts discussed here, do not receive adequate development in the book.
+
+[[2]](#ftnt_ref2) Some indigenous societies, however, did feature slavery or private property resembling the European variety, namely tribes on the Pacific coast of North America.

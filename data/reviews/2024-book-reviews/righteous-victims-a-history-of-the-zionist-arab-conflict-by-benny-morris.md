@@ -22,7 +22,7 @@ This is unfair. While the loudest voices may paint the world in black and white,
 
 Now for the most part my view is that unless you’re willing to put in the effort to deeply understand conflicts in far off lands, you’re best off not having an opinion on them, and definitely not one fed to you by the twitter or tiktok feed.  Expressing loud, confident opinions on unfamiliar conflicts often does more harm than good.
 
-Alas this conflict is not in a far away land. I live 20km from the border with Gaza. Most of my friends were called up to do reserve duty in the IDF. My children almost certainly will have to do the same once they grow up. Far too much of my income goes towards military spending rather than my bank account. I can’t take the easy way out, so I have to do things the hard way. So I bought a copy of Benny Morris’s Righteous Victims at exorbitant cost[[14]](#ftnt14), and plowed through it. And I thought I’d share with you what I learned, so that if you do decide to opine on the Israel Palestine conflict, your opinion will hopefully be more educated.
+Alas this conflict is not in a far away land. I live 20km from the border with Gaza. Most of my friends were called up to do reserve duty in the IDF. My children almost certainly will have to do the same once they grow up. Far too much of my income goes towards military spending rather than my bank account. I can’t take the easy way out, so I have to do things the hard way. So I bought a copy of Benny Morris’s Righteous Victims at exorbitant cost[[1]](#ftnt1), and plowed through it. And I thought I’d share with you what I learned, so that if you do decide to opine on the Israel Palestine conflict, your opinion will hopefully be more educated.
 
 ![Front Cover of Righteous Victims: A History of the Zionist-Arab Conflict, 1881-2001:  Benny Morris](https://acximages.ennals.org/images/2024-book-reviews/fb831a55bc958de7.jpg)
 
@@ -36,13 +36,13 @@ None of his (serious) critics accuse him of lying, and his mastery of the primar
 
 The first he readily admits himself in the introduction. Almost all sources about this conflict come from British or Israeli archives. Arab literacy was far lower, Arab historiography of this conflict is a relatively new and small field, and Arab documents have for the most part not been made publicly available even when they exist. Meanwhile a wealth of Zionist material has been released to the public, and we have plenty of contemporary documents to rely on. While he tries to decipher the Arab perspective from the Zionist one, and relies on Arab documents when they are available, this is naturally going to be both a blindspot and a source of systematic bias.
 
-The second is in choosing which events to highlight and which to ignore. This is an impossible task - over 120 years the amount of relevant information is going to outweigh by many orders of magnitude the amount of space you have in your book, and by carefully selecting which facts to tell you can paint any story you like without ever actually lying. In practice you deal with this by covering the most important[[15]](#ftnt15) events in plenty of detail, picking representative examples of other events, and giving aggregate statistics[[16]](#ftnt16) to place the representative sample in context.  However hard one tries here, it's always possible to accuse the author of favoring facts which paint one side or the other in a better or worse light. Indeed I often found myself flip-flopping which side I supported as the narrative changed focus from one perspective to another.
+The second is in choosing which events to highlight and which to ignore. This is an impossible task - over 120 years the amount of relevant information is going to outweigh by many orders of magnitude the amount of space you have in your book, and by carefully selecting which facts to tell you can paint any story you like without ever actually lying. In practice you deal with this by covering the most important[[2]](#ftnt2) events in plenty of detail, picking representative examples of other events, and giving aggregate statistics[[3]](#ftnt3) to place the representative sample in context.  However hard one tries here, it's always possible to accuse the author of favoring facts which paint one side or the other in a better or worse light. Indeed I often found myself flip-flopping which side I supported as the narrative changed focus from one perspective to another.
 
-With that in mind, I think that Morris probably strikes the best balance for a beginner to the field, but for a more nuanced view it would be worth looking at other authors - and making sure to cross reference their claims where possible as many will deliberately lie or distort the facts to suit their political agendas[[17]](#ftnt17).
+With that in mind, I think that Morris probably strikes the best balance for a beginner to the field, but for a more nuanced view it would be worth looking at other authors - and making sure to cross reference their claims where possible as many will deliberately lie or distort the facts to suit their political agendas[[4]](#ftnt4).
 
 ## Style
 
-This is not a particularly readable book, but it is definitely not the worst history book I've ever read in that regard[[18]](#ftnt18). It's long, but focuses on a long period of time. It chooses to resolve that by covering a lot of events in low detail, rather than a few in higher detail. Morris is a historian’s historian, rather than a popular one. He doesn't bother trying to paint a picture of recent immigrant soldiers carrying a rifle into their first battle under a blazing hot sun, or Arab villagers fleeing from their home with only a few belongings, unsure if they'll ever return. He just tells you the raw facts, and focuses almost exclusively on events directly relevant to the conflict.
+This is not a particularly readable book, but it is definitely not the worst history book I've ever read in that regard[[5]](#ftnt5). It's long, but focuses on a long period of time. It chooses to resolve that by covering a lot of events in low detail, rather than a few in higher detail. Morris is a historian’s historian, rather than a popular one. He doesn't bother trying to paint a picture of recent immigrant soldiers carrying a rifle into their first battle under a blazing hot sun, or Arab villagers fleeing from their home with only a few belongings, unsure if they'll ever return. He just tells you the raw facts, and focuses almost exclusively on events directly relevant to the conflict.
 
 While the chapters are (mostly) linear, they are subdivided into sections, which often are not. A number of sections will regularly cover the same period or overlapping periods of time, but from different perspectives. So first he'll have a section on the course of World War 1 in the Middle East, then another on Life in Palestine during World War 1, and then yet another on Arab and Zionist nationalism in this period, all covering 1914-1920. This can be somewhat frustrating when it feels like you're not making progress, or when some information is inevitably repeated since it has to appear in both sections.
 
@@ -85,7 +85,7 @@ The Zionist settlers did not do very much to ingratiate themselves with the nati
 *   Zionists bought land fair and square from their owners, but these owners were wealthy urban effendis, not those who actually lived on the land. They usually then forced the tenant farmers off the land for little or no compensation.
 *   Many settlers wished to remake themselves as 'new Jews', ones who would not be oppressed in 'their' land. They had a habit of overreacting to what they perceived as slights against them or their property, such as cruelly beating trespassers. This especially caused problems when there were differences between local Ottoman customs and European ones as to public rights to land.
 
-The British defeated the Ottomans in the first World War and established the British Mandate for Palestine in the territory that is today Israel, Gaza and the West Bank. Part of the mandate was to implement the Balfour declaration which called for the establishment of a Jewish homeland in Palestine[[19]](#ftnt19).
+The British defeated the Ottomans in the first World War and established the British Mandate for Palestine in the territory that is today Israel, Gaza and the West Bank. Part of the mandate was to implement the Balfour declaration which called for the establishment of a Jewish homeland in Palestine[[6]](#ftnt6).
 
 The combination of ill treatment and looming fear of dispossession resulted in increasing Arab antagonism towards the Yishuv. Accelerating during the British mandate, there were a number of pogroms in which in total hundreds of Jews were murdered. Between 1936-9 this turned into a full on war between the Arabs and the ruling British. The British responded both with a brutal crackdown, but also by limiting Jewish immigration, alas damning hundreds of thousands of European Jews to their fate at the hands of Nazi Germany.
 
@@ -117,7 +117,7 @@ The Haganah (now reconstituted as the IDF) used that month well, rearming, and t
 
 While Israel was relatively secure it was forced to maintain full mobilization, while the Arab countries only had to maintain a small standing army. They couldn’t afford to maintain the truce long term without bankrupting the country. Hoping to relieve the Negev they pushed a convoy though Egyptian lines. When it was attacked - contrary to the terms of the truce - they used it as a casus belli for a major operation to push back the Egyptians along the entire front, occupying numerous Palestinian villages and towns in the process. A Palestinian attack in the north provided an excuse for a similar operation there which captured the entire area up to the Lebanese border. The truce was quickly reimposed.
 
-Negotiations remained deadlocked. Hoping for a breakthrough, the IDF once again attacked the Egyptians, pushing into the Sinai and almost encircling the entire Egyptian forces[[20]](#ftnt20). The Egyptians agreed to an armistice in principle, and an agreement was soon signed. The Egyptians pulled back to Gaza and the Sinai.
+Negotiations remained deadlocked. Hoping for a breakthrough, the IDF once again attacked the Egyptians, pushing into the Sinai and almost encircling the entire Egyptian forces[[7]](#ftnt7). The Egyptians agreed to an armistice in principle, and an agreement was soon signed. The Egyptians pulled back to Gaza and the Sinai.
 
 With the taboo against negotiation broken, the other Arab countries soon followed. With the IDF clearly dominant Israel secured most of its demands, including concessions on territory and demilitarized areas along the Egyptian and Syrian border.
 
@@ -143,7 +143,7 @@ Israel meanwhile was satisfied with its situation. It had soundly trounced the A
 
 And so this chance at peace came and went, as many others would...
 
-#### Border Infiltrations and Reprisals[[21]](#ftnt21)
+#### Border Infiltrations and Reprisals[[8]](#ftnt8)
 
 There were over 700,000 Palestinian refugees scattered across the West Bank, Gaza, Jordan, Egypt, Lebanon and Syria. Many tried to infiltrate back over the border, either to return to their villages and towns, or to retrieve their property. Many also stole from the newly settled Israeli villages, which seemed perfectly justified to them - especially on occasions when the Israelis were living in their old village.
 
@@ -151,7 +151,7 @@ Initially, most infiltrators - who included children, women, and unarmed men - d
 
 The IDF responded by mining the borders, and shooting any infiltrator on sight. Thousands were killed, often even if they were just close to the border. The IDF also rounded up suspected infiltrators from Arab villages (which were under martial law until 1966), often beat them cruelly, and shipped them back across the border.
 
-Over time the infiltrations turned from petty theft to terrorism, partly in revenge for the IDF's cruel treatment to the earlier infiltrators. The IDF responded by raiding the infiltrator's villages in reprisal attacks, although these were not particularly targeted and often killed civilians instead of the perpetrators[[22]](#ftnt22).
+Over time the infiltrations turned from petty theft to terrorism, partly in revenge for the IDF's cruel treatment to the earlier infiltrators. The IDF responded by raiding the infiltrator's villages in reprisal attacks, although these were not particularly targeted and often killed civilians instead of the perpetrators[[9]](#ftnt9).
 
 At first the neighboring Arab states attempted to stop the infiltrators as they feared war with Israel, but given that those police officers who were meant to be guarding the border generally hated Israel, this was not very successful. Once Israel started raiding over the border the policy switched, and Egypt started arming and coordinating [Fedayeen](https://en.wikipedia.org/wiki/Palestinian_Fedayeen_insurgency) attacks from the Gaza Strip and Egypt into Israel.
 
@@ -187,7 +187,7 @@ Things spiraled and Israel came to believe a war against Syria would be necessar
 
 In response Israel was forced to call up its reserves to defend the Egyptian border. It was a tricky situation, as Egypt with its huge population could maintain a war footing indefinitely, while Israel relying on reserves could not. But it was also seen as an opportunity by some in Israel to improve on their strategic situation.
 
-After negotiations didn't seem to be progressing quickly, Israel quietly planned an attack on the Sinai. They also told their populace that the Arab armies were massing to destroy Israel, although that seems to be mostly false: while the Jordanians signed a defense pact with Egypt, both Jordan and Syria had no significant call up and maintained defensive positions. The Egyptians did have a large build up in the Sinai, but they were also defensively positioned and their main aim was probably to defend against an Israeli attack to reopen the Gulf of Aqaba[[23]](#ftnt23).
+After negotiations didn't seem to be progressing quickly, Israel quietly planned an attack on the Sinai. They also told their populace that the Arab armies were massing to destroy Israel, although that seems to be mostly false: while the Jordanians signed a defense pact with Egypt, both Jordan and Syria had no significant call up and maintained defensive positions. The Egyptians did have a large build up in the Sinai, but they were also defensively positioned and their main aim was probably to defend against an Israeli attack to reopen the Gulf of Aqaba[[10]](#ftnt10).
 
 #### The 6 Day War
 
@@ -197,11 +197,11 @@ On the ground the Egyptians stood no chance. They were a poorly trained, armed, 
 
 The Jordanians, fooled by Egyptian claims of initial success, opened fire from the West Bank on Israeli targets. Though the IDF troops on the Jordanian border were defensive territorial brigades, they counterattacked and made tactical gains in the Jordanian held West Bank. There doesn't seem to ever have been a concrete decision to fully occupy the West bank, but troops responded to local situations and exploited successes, till the entire West Bank was conquered.
 
-Syria only carried out ineffectual attacks from the Golan heights[[24]](#ftnt24) on IDF positions below, but on the 9th of June the decision was made to exploit the war to deliver the long sought blow to Syria. Though the fighting was tough and uphill, within two days the heights were conquered. The local population was later expelled (except for some Druze who were allowed to remain).
+Syria only carried out ineffectual attacks from the Golan heights[[11]](#ftnt11) on IDF positions below, but on the 9th of June the decision was made to exploit the war to deliver the long sought blow to Syria. Though the fighting was tough and uphill, within two days the heights were conquered. The local population was later expelled (except for some Druze who were allowed to remain).
 
 The UN security council imposed a ceasefire on June 10th, and Israel suddenly found itself in occupation of territories over three times larger than Israel itself, and about a million Palestinians. What to do with these territories?
 
-An offer was quietly made to return the Sinai and the Golan heights in return for peace (rather than armistice) with Egypt and Syria respectively, but this offer was rejected. There was never any consensus regarding Gaza, the West Bank, and especially East Jerusalem. Some were prepared to return all or parts in exchange for peace, others viewed them as necessary for military[[25]](#ftnt25) or cultural[[26]](#ftnt26) reasons. East Jerusalem, home to the Temple Mount, was formally annexed[[27]](#ftnt27). Either way, none of the Arab countries opened negotiations, so the situation was allowed to fester.
+An offer was quietly made to return the Sinai and the Golan heights in return for peace (rather than armistice) with Egypt and Syria respectively, but this offer was rejected. There was never any consensus regarding Gaza, the West Bank, and especially East Jerusalem. Some were prepared to return all or parts in exchange for peace, others viewed them as necessary for military[[12]](#ftnt12) or cultural[[13]](#ftnt13) reasons. East Jerusalem, home to the Temple Mount, was formally annexed[[14]](#ftnt14). Either way, none of the Arab countries opened negotiations, so the situation was allowed to fester.
 
 A minority of ideological Israelis were committed to keeping all the captured territories forever, and set up settlements in the Sinai, Gaza, the West Bank and the Golan heights. With a Government that was unsure of its aims for these territories there was no real opposition, and so without ever making any decision to do so Israel was suddenly settling the occupied territories.
 
@@ -215,9 +215,9 @@ Territories captured by Israel in the 6 Day War
 
 Israel and Egypt's new border was along the Suez canal (which was shut to all traffic during this period). Egypt hoped to restore its land and its pride but without provoking a full out war. To do so, they started a war of attrition, hoping to ground Israeli will down with sporadic artillery bombardments and commando raids. Egyptian capacity for casualties among a professional army in a huge country was far higher than that of Israel's conscript army drawn from a tiny population.
 
-Israel responded with air strikes against Egyptian targets. These were crippling, but failed to stop the artillery duels. Egypt decided to ask for Soviet help to push SAM[[28]](#ftnt28) sites closer to the frontline. Israel's attempts to destroy these sites were only partially successful and numerous planes were shot down.
+Israel responded with air strikes against Egyptian targets. These were crippling, but failed to stop the artillery duels. Egypt decided to ask for Soviet help to push SAM[[15]](#ftnt15) sites closer to the frontline. Israel's attempts to destroy these sites were only partially successful and numerous planes were shot down.
 
-Eventually Israel and Egypt agreed to a ceasefire[[29]](#ftnt29), and the artillery duels and infiltrations ended. However Egypt continued to prepare air defenses along the Suez, and by 1973 their coverage extended 6 miles into the Sinai.
+Eventually Israel and Egypt agreed to a ceasefire[[16]](#ftnt16), and the artillery duels and infiltrations ended. However Egypt continued to prepare air defenses along the Suez, and by 1973 their coverage extended 6 miles into the Sinai.
 
 #### The Yom Kippur War
 
@@ -225,7 +225,7 @@ By 1973 Egypt and Syria had prepared their forces, established effective air def
 
 The Egyptians had trained extensively for their tasks and every unit knew exactly what they were doing. The Syrians had concentrated extensive forces around the Golan. They knew they had no hope of defeating the IDF if Israel maintained air supremacy so their aims were limited to whatever could be achieved without leaving the protection of their SAM sites. For Syria that was recapturing the Golan heights, for Egypt crossing the Suez and advancing past Israel's defensive lines.
 
-The attack was launched on Yom Kippur[[30]](#ftnt30) when most soldiers were off duty. In the north the Syrians quickly made inroads, but the defenders were just about able to hold on, and eventually counterattack. The IDF hoped to reach Damascus to put pressure on Syria to surrender, but Syrian defenses proved too strong. Instead they reached within artillery distance, putting the Syrian capital at threat, but unable to advance any further.
+The attack was launched on Yom Kippur[[17]](#ftnt17) when most soldiers were off duty. In the north the Syrians quickly made inroads, but the defenders were just about able to hold on, and eventually counterattack. The IDF hoped to reach Damascus to put pressure on Syria to surrender, but Syrian defenses proved too strong. Instead they reached within artillery distance, putting the Syrian capital at threat, but unable to advance any further.
 
 The Egyptians crossed along the entire length of the Suez, and were able to cross all their forces before the IDF had mobilized and was ready to do anything about it. The IAF's attempts to use air power to change the situation in the north or south failed, and 100 planes were shot down. Israel was desperate, and there was even some talk of using nuclear weapons. It was then the Egyptians made a fatal mistake - they tried to press their gains out of range of their air defenses and into the now mobilized and far better trained Israeli divisions. They were routed with heavy losses, and the IDF used the opportunity to establish a bridgehead across the Suez, then turn south and trap half of the Egyptian army on the wrong side of the canal.
 
@@ -241,11 +241,11 @@ The situation on the Egyptian front was so untenable that some immediate agreeme
 
 While limited, these agreements laid the framework for a certain amount of goodwill. Egypt was forced to accept that it would not be able to achieve its aims militarily and Israel had realized that not all wars would be won so easily as the Six Day war.
 
-Syria proved far trickier, and continued to wage low level conflict with Israel, hoping to push them out via a slow trickle of casualties. But under intense American pressure an agreement was eventually signed and Israel retreated from the recently captured Syrian territory and a thin strip of the Golan. In exchange a UN peacekeeping force was established to guard the border, and a demilitarized zone was created.[[31]](#ftnt31)
+Syria proved far trickier, and continued to wage low level conflict with Israel, hoping to push them out via a slow trickle of casualties. But under intense American pressure an agreement was eventually signed and Israel retreated from the recently captured Syrian territory and a thin strip of the Golan. In exchange a UN peacekeeping force was established to guard the border, and a demilitarized zone was created.[[18]](#ftnt18)
 
 In 1975 Israel and Egypt took a step closer to peace, with Israel withdrawing further east (expanding the UN buffer zone) in exchange for an agreement not to use threats of force against each other and a commitment to work towards a lasting peace.
 
-And there things stood for a while, as changes of administration in both the USA and Israel delayed things. In Israel the new PM, Menachem Begin, was a devout right winger[[32]](#ftnt32). He wanted peace with Egypt, but was not willing to give up any territory to do so. Negotiations dragged out without any breakthroughs.
+And there things stood for a while, as changes of administration in both the USA and Israel delayed things. In Israel the new PM, Menachem Begin, was a devout right winger[[19]](#ftnt19). He wanted peace with Egypt, but was not willing to give up any territory to do so. Negotiations dragged out without any breakthroughs.
 
 In an effort to kick things forward, the president of Egypt, Anwar Sadat, flew to Jerusalem in 1977, implicitly recognising Israel and indicating his sincere desire for peace. He was warmly received, but still Begin was intransigent. Sadat wanted a complete withdrawal from the Sinai and the establishment of a Palestinian state in Gaza and the West Bank. Begin wasn't prepared to do either. Eventually Carter invited both Begin and Sadat to a retreat at Camp David to try and hammer things out. Negotiations were tough, but ultimately the mediators realized that Sadat was far more determined to restore lost Egyptian territory than he was to establish a Palestinian state, and Begin cared far more about settlements in Gaza and the West Bank than he did about those in the Sinai. Israel agreed to completely retreat from the Sinai in exchange for full peace and diplomatic relations with Egypt, and also committed to negotiations with Palestinians with a view to establishing an independent state. Both sides kept the letter of the agreement but Israel deliberately tanked the Palestinian negotiations and the peace with Egypt has always been relatively cold with very little economic integration.
 
@@ -257,17 +257,17 @@ Lebanon's population is split roughly evenly between Christians and Muslims. Mos
 
 In 1970 the PLO attempted an insurrection against the Jordanian Monarchy and were ultimately driven out of the country. The leadership fled to Lebanon where they recruited heavily in the Palestinian refugee camps, which they soon effectively ruled. From there they carried out an insurgency against Israel, infiltrating the border and carrying out numerous terrorist attacks.
 
-The Lebanese civil war broke out in 1975, and Israel provided military aid and training to the Christians, hoping to counter the PLO. In response to continued incursions, in 1978 Israel invaded Lebanon up to the [Litani river](https://en.wikipedia.org/wiki/Litani_River), driving out the PLO and propping up the SLA[[33]](#ftnt33) in their place.
+The Lebanese civil war broke out in 1975, and Israel provided military aid and training to the Christians, hoping to counter the PLO. In response to continued incursions, in 1978 Israel invaded Lebanon up to the [Litani river](https://en.wikipedia.org/wiki/Litani_River), driving out the PLO and propping up the SLA[[20]](#ftnt20) in their place.
 
 But Syria had entered the civil war, and the Christians were steadily being pushed back. Begin harbored secret dreams of saving the Lebanese Christians where the Christian West would not, and plans were drawn up to invade Lebanon, and create a Christian dominated buffer state to the north of Israel. But Israel also had more direct concerns - the PLO was still able to shell Israel with rockets and artillery, and carry out terrorist attacks. Less ambitious plans were also drawn up to push the PLO slightly further back.
 
-Realizing where things were headed the PLO avoided provoking Israel for a while, but in Israel June 1978 found a casus belli[[34]](#ftnt34) and geared for war. Ariel Sharon (the defense minister) deliberately misled the cabinet into thinking only the smaller, more limited invasion would go ahead, while secretly ordering troops to carry out the larger invasion. By the time the cabinet realized what had happened they were represented by a fait accompli. Israel had pushed back the Syrians and reached the Beirut-Damascus highway, cutting the PLO off from Syrian support. There they were forced to stop due to a US imposed ceasefire with Syria.
+Realizing where things were headed the PLO avoided provoking Israel for a while, but in Israel June 1978 found a casus belli[[21]](#ftnt21) and geared for war. Ariel Sharon (the defense minister) deliberately misled the cabinet into thinking only the smaller, more limited invasion would go ahead, while secretly ordering troops to carry out the larger invasion. By the time the cabinet realized what had happened they were represented by a fait accompli. Israel had pushed back the Syrians and reached the Beirut-Damascus highway, cutting the PLO off from Syrian support. There they were forced to stop due to a US imposed ceasefire with Syria.
 
-Instead their attention turned to the PLO held West Beirut. In an extremely bloody 9 week siege they eventually convinced the PLO to abandon Beirut[[35]](#ftnt35). Thousands of Lebanese civilians were killed.
+Instead their attention turned to the PLO held West Beirut. In an extremely bloody 9 week siege they eventually convinced the PLO to abandon Beirut[[22]](#ftnt22). Thousands of Lebanese civilians were killed.
 
 ### The Slow Retreat
 
-While Israel's military accomplishments were significant, their efforts at nation building fell flat. They attempted to set up the leader of the Christian Phalangist organization as the President of Lebanon, hoping to create a Christian puppet state. But when he was assassinated[[36]](#ftnt36) his replacement was far less friendly to Israel.
+While Israel's military accomplishments were significant, their efforts at nation building fell flat. They attempted to set up the leader of the Christian Phalangist organization as the President of Lebanon, hoping to create a Christian puppet state. But when he was assassinated[[23]](#ftnt23) his replacement was far less friendly to Israel.
 
 The Christians were thankful to Israel for saving them, but now wanted Israel to withdraw and respect their sovereignty. Israel first wanted a formal peace agreement between Lebanon and Israel first, and a full Syrian withdrawal. Neither were on the cards.
 
@@ -289,7 +289,7 @@ Israel immediately imposed a military government. While it did a lot of ordinary
 
 Israel prevented palestinian industrial development, forcing Palestinians to buy Israeli goods. They advised Palestinian farmers on how to grow staple Israeli crops, freeing Israeli farmers to grow more lucrative crops for export. Israel took over all state land, and for the most part didn’t free it for Palestinian usage.
 
-On the other hand Israel did not ignore Palestinian needs entirely - they built hospitals, universities and other services. Palestinians worked in Israel for much higher wages than they could earn domestically[[37]](#ftnt37). During the early part of the occupation Palestinian welfare did increase, partly thanks to Israel.
+On the other hand Israel did not ignore Palestinian needs entirely - they built hospitals, universities and other services. Palestinians worked in Israel for much higher wages than they could earn domestically[[24]](#ftnt24). During the early part of the occupation Palestinian welfare did increase, partly thanks to Israel.
 
 #### Settlements
 
@@ -345,7 +345,7 @@ _Status of the West Bank, 2005. In Area A the PA has both civil and military aut
 
 Ehud Barak won the premiership on a platform of final peace with the Palestinians and Syria, and ending the occupation of Lebanon. But his coalition was too divided for him to make good on his promises. The peace talks with Syria went nowhere, and he was forced to withdraw from Lebanon unilaterally and in far more of a hurry than originally planned. He tried to continue implementing Oslo, but was not able to do so at the pace the Palestinians desired, and settlement building continued apace, as did Palestinian terrorism.
 
-Clinton, hoping to knock out a diplomatic triumph in his final year as president, called Arafat and Barak to camp David hoping to hammer out a full agreement for a two state solution. Alas the two sides were too far apart, and the talks ended in failure[[38]](#ftnt38).
+Clinton, hoping to knock out a diplomatic triumph in his final year as president, called Arafat and Barak to camp David hoping to hammer out a full agreement for a two state solution. Alas the two sides were too far apart, and the talks ended in failure[[25]](#ftnt25).
 
 Shortly after, frustrated by a stalled peace process and triggered by Ariel Sharon’s visit to the temple mount, spontaneous rioting broke out among the Palestinians which quickly turned into a full-blown uprising. But unlike the previous intifada the Palestinians regularly used guns and light bombs against Israeli troops and civilians. Israel responded in kind, and the situation became far more lethal for both sides. The Israeli Arab street, frustrated by years of discrimination, also joined in with the rioting (but less so with the shooting). Arafat denied involvement with the violence, but continuously stirred it up, and definitely directed it to some extent. Barak was forced to resign and the hardliner Ariel Sharon, who had taken over from Netanyahu as head of Likud, won the elections.
 
@@ -379,17 +379,17 @@ If you go into this book believing standard Hasbara talking points about how the
 
 On the other hand I don’t think it would be wise to update too far in the other direction.
 
-It is true that Israel’s founding involved large scale ethnic cleansing - but unfortunately it is far too common for the creation of states to involve forced migrations and massacres, in both modern and ancient times[[39]](#ftnt39). Neither was the desire for ethnic cleansing one sided - the Arabs made no bones of their intentions to push the Jews into the sea.
+It is true that Israel’s founding involved large scale ethnic cleansing - but unfortunately it is far too common for the creation of states to involve forced migrations and massacres, in both modern and ancient times[[26]](#ftnt26). Neither was the desire for ethnic cleansing one sided - the Arabs made no bones of their intentions to push the Jews into the sea.
 
 It is also true that Israel has often been more aggressive and warmongering than it needs to be, but alas the same could be said for most countries. Let’s take Israel’s most pointless and least justified war, the Lebanon war. Has the USA ever invaded a foreign country because it provided a safe haven for terrorist attacks against them? Yes - Afghanistan. Has it ever invaded a country for what turns out to be spurious reasons while lying to its populace about the necessity? Yes - Iraq in 2003. Has it ever then abandoned its allies once the toll of the war becomes too high, leaving them to be massacred by a foe only emboldened by the intervention? Yes - Afghanistan again. Has it ever jumped into a conflict without considering its long term aims and whether intervening might actually just make everyone worse off? Oh boy Yes!
 
-This is not to say that Israel wasn’t wrong for starting the Lebanon war, or that America is excessively evil. It’s that these things are hard to get right, most countries get wrong, and the consequences of being too peaceful are usually worse than for being too belligerent[[40]](#ftnt40). Focussing on almost any country’s military history would make them look bad.
+This is not to say that Israel wasn’t wrong for starting the Lebanon war, or that America is excessively evil. It’s that these things are hard to get right, most countries get wrong, and the consequences of being too peaceful are usually worse than for being too belligerent[[27]](#ftnt27). Focussing on almost any country’s military history would make them look bad.
 
 For the most part Israel is a normal country trying to protect its interests in a difficult political situation. In doing so it has caused a huge amount of misery, much of which is not its fault, and much of which is. The solution to that is not to blame Zionism as the source of all evil in the Middle East, but to try and fix the situation.
 
 Where this viewpoint breaks down is the occupation. Israel had very limited justification for occupying the West Bank in 1967, and missed a number of opportunities to return it to Jordan or establish a Palestinian state. In 1967 Palestinian terrorism was limited - the occupation was the main driver of the mainstreaming of terrorism among the Palestinians. There was simply no need for Israel to occupy the West Bank.
 
-The lack of any solutions here was driven by the growth of an expansionist nationalist movement which saw the entirety of mandate Palestine as rightly Israeli. Although not a huge percentage of the country[[41]](#ftnt41), the general ambivalence of the Israeli populace towards the Palestinians allowed this minority to drive Israel’s policies in the territories.
+The lack of any solutions here was driven by the growth of an expansionist nationalist movement which saw the entirety of mandate Palestine as rightly Israeli. Although not a huge percentage of the country[[28]](#ftnt28), the general ambivalence of the Israeli populace towards the Palestinians allowed this minority to drive Israel’s policies in the territories.
 
 The nationalist movement inherently requires either apartheid, genocide, or mass ethnic cleansing. Since 5 million Palestinians do live in the occupied territories, and they are unprepared to grant them either their own state or citizenship in a Jewish one, the only possible solutions are a permanent lack of citizenship in a greater Israel, the destruction of the Palestinian people, or their mass expulsion.
 
@@ -425,3 +425,59 @@ So buy or borrow the book, and plough your way through it. And if you do, I prom
 ## Conclusion
 
 That’s actually it folks, I just feel that a book review ought to end in a conclusion. Thanks for reading!
+
+[[1]](#ftnt_ref1) £22.52, which isn't that much, but more than I usually spend on books.
+
+[[2]](#ftnt_ref2) Subjective!
+
+[[3]](#ftnt_ref3) Which are often misleading without understanding the details, how they were defined/collected, potential biases, etc.
+
+[[4]](#ftnt_ref4) For example, Morris dismisses Ilan Pappe as [the world's sloppiest historian](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian). He recommends Avi Shlaim as a historian who he disagrees with, but is factually accurate.
+
+[[5]](#ftnt_ref5) That prize goes to [Sacred Causes](https://www.amazon.com/Sacred-Causes-Religion-Politics-Terror/dp/0060580968) which basically listed off reams of events without ever tying them together or putting it into a wider narrative.
+
+[[6]](#ftnt_ref6) Interestingly, the Balfour declaration was driven partly because the British, based on anti-semitic tropes, assumed the Jews were far more powerful than they were and could decide the fate of the war.
+
+[[7]](#ftnt_ref7) And almost provoking a war with the British who had a strong interest in the Sinai, given it bordered on the Suez.
+
+[[8]](#ftnt_ref8) For more on this period, read [Israel's Border Wars, 1949–1956](https://en.wikipedia.org/wiki/Israel%27s_Border_Wars,_1949%E2%80%931956).
+
+[[9]](#ftnt_ref9) Partly because the aim was to be seen to be doing something, to reassure the border settlers that the government was looking out for their welfare, rather than to actually prevent the terrorism.
+
+[[10]](#ftnt_ref10) This is a contentious point, as there were contradictory things said by Nasser and various Egyptian higher ups. There definitely was some talk of attacking the Negev desert to meet up with Jordan, but it's difficult to judge how fanciful it was - certainly the Egyptian positions did not reflect any such plans.
+
+[[11]](#ftnt_ref11) The Golan heights is a plateau dominating the sea of Galilee and the Hula valley, and so was a tactically difficult border to defend against as the Syrians had a strong height advantage, and could easily see and shell Israeli positions below. Israel had long coveted the heights to solve this issue.
+
+[[12]](#ftnt_ref12) The West Bank is much higher than the plains to the west, and overlooks Israel's narrow waist, just 15km wide at its thinnest. It would be easy for a well armed opponent to cut Israel in two from the West Bank, and all of Israel's most important cities are within easy artillery range of the West Bank. Meanwhile the border with Jordan reached by occupying the West Bank is along a major valley and so easy to defend.
+
+[[13]](#ftnt_ref13) The biblical territory of the Israelites is mostly in the West Bank, whereas the territory of modern day Israel was mostly Pagan (with lots of exceptions both spatially and temporally).  The Temple Mount, the most (arguably - only) important site in Judaism is located in East Jerusalem, as is the Cave of the Patriarchs and Rachel's Tomb.
+
+[[14]](#ftnt_ref14) The residents were offered citizenship, though most refused and received permanent residency instead. Since then very few have received citizenship, and there's some debate to what extent that's their decision vs Israel placing bureaucratic hurdles in their path. Anyway, none of this is discussed in Righteous Victims so I shouldn't really be telling you about it.
+
+[[15]](#ftnt_ref15) Surface to Air missiles.
+
+[[16]](#ftnt_ref16) Israel had suffered some 360 deaths by then, almost all soldiers. Egyptian losses are impossible to know, but Morris gives a ballpark estimate of 10,000 military + civilians killed.
+
+[[17]](#ftnt_ref17) The day of atonement. Almost all Jewish Israelis stay at home or go to the synagogue. The roads are so empty that children call it the bicycle festival, as they can safely cycle on even the busiest highways.
+
+[[18]](#ftnt_ref18) This force remains there to this day, and the border has been mostly quiet, excepting for some flare ups when Syria was fighting Islamic militants in the demilitarized zone during the ongoing civil war.
+
+[[19]](#ftnt_ref19) He was the ex head of the Irgun terror group.
+
+[[20]](#ftnt_ref20) South Lebanese Army, a Christian/Shiite/Druze force.
+
+[[21]](#ftnt_ref21) A different Palestinian terrorist organization shot the Israeli ambassador in London, likely to provoke exactly this war.
+
+[[22]](#ftnt_ref22) They were protected by an international force to safeguard their retreat.
+
+[[23]](#ftnt_ref23) The IDF knowingly let the Phalangists take revenge for his assassination, [massacring hundreds of Palestinians](https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre).
+
+[[24]](#ftnt_ref24) They generally earned less than Israelis could for the same work, and didn’t receive the standard protections and benefits Israeli workers did.
+
+[[25]](#ftnt_ref25) Clinton blamed the failure of the talks on Arafat, who he says failed to make any significant concessions. Alas the details of the talks are private, and Israeli and Palestinian claims as to what Israel offered differ wildly. Either way the talks were kind of moot, since by that stage Barak’s government was dead in the water, and basically had no chance of pushing through any sort of contentious peace deal.
+
+[[26]](#ftnt_ref26) Israel was founded in May 1948. India and Pakistan split in August 1947, which led to the massacres of hundreds of thousands of people, and the mass migration of millions of Muslims from India to Pakistan and millions of Hindus from Pakistan to India.
+
+[[27]](#ftnt_ref27) Ask WW2 Britain, which could have easily defeated Nazi Germany if it hadn’t handed over the Sudetenland without a fight.
+
+[[28]](#ftnt_ref28) They currently control about 10 percent of the Knesset, but this is likely an underestimate.

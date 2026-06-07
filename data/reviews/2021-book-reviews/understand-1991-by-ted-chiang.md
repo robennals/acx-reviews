@@ -35,7 +35,7 @@ Greco is surprised by his scoring on the first pair of tests.  He doesn't _feel_
 
 Until the third ampule, Greco doesn't choose to be super—yet nor did he choose to exist.  His K-boost is not unlike the accident of birth, given the heritability of intelligence.
 
-Yet Sorensen Pharma _is_ in the business of cognitive enhancing—repair _is_ improvement, from damaged to normal.  And relative to your own volition, your native smarts are an accident; yet thru sexual selection, the species has been choosing bigger brains—or their expression in wit & other social competencies—all along.[[70]](#ftnt70)
+Yet Sorensen Pharma _is_ in the business of cognitive enhancing—repair _is_ improvement, from damaged to normal.  And relative to your own volition, your native smarts are an accident; yet thru sexual selection, the species has been choosing bigger brains—or their expression in wit & other social competencies—all along.[[1]](#ftnt1)
 
 ## his pre-K self is predictive of his post-
 
@@ -47,23 +47,23 @@ Back then, he couldn't read all he was interested in; post-K, he's burning throu
 
 Greco is like Eddie Morra in _Limitless_—prone to the drug's more dramatic effects.  Eddie is a writer already: a depressive over-cogitator, stalking our streets in a deep mental rut.  In a few bouts of key-pounding, NZT-Eddie writes an epoch-making Extravagance, a Manifesto to supplant, if not Marx from the Canon, then Eckhart Tolle from the Bestseller list.
 
-As Eddie's dealer confirms: "It works better if you're already smart".[[71]](#ftnt71)  Greco & Eddie remind me of the Exegetical Philip K. Dick, who is primed to receive the pink info-beam in 1974.  On the one hand, VALIS is out there, so
+As Eddie's dealer confirms: "It works better if you're already smart".[[2]](#ftnt2)  Greco & Eddie remind me of the Exegetical Philip K. Dick, who is primed to receive the pink info-beam in 1974.  On the one hand, VALIS is out there, so
 
-> I don't feel I was "picked" by a Future Force, as its instrument, etc., bidder, to make manifest its word, etc., any more than when you are watching a TV program the transmitter has picked you.[[72]](#ftnt72)
+> I don't feel I was "picked" by a Future Force, as its instrument, etc., bidder, to make manifest its word, etc., any more than when you are watching a TV program the transmitter has picked you.[[3]](#ftnt3)
 
 Yet "some people tune in, some do not."  Dick's query persists through eight years of unpacking the Signal: _Why me?_ 
 
-Perhaps because he'd shown, in his '60s Sci Fi, a feel for the Gnostic narrative that VALIS needs broadcast.  All his life, he'd never just look _at_ a wall: he'd try to see through it.  Like the color-blind Dalton, who didn't realize his anomaly till late into his 20's, Dick had to learn how odd he was: that for him, 'looking at' _meant_  'trying to look through'.[[73]](#ftnt73)
+Perhaps because he'd shown, in his '60s Sci Fi, a feel for the Gnostic narrative that VALIS needs broadcast.  All his life, he'd never just look _at_ a wall: he'd try to see through it.  Like the color-blind Dalton, who didn't realize his anomaly till late into his 20's, Dick had to learn how odd he was: that for him, 'looking at' _meant_  'trying to look through'.[[4]](#ftnt4)
 
 Dick, like Greco, had different ideas than his Professors.
 
-> The criticism, which I remember using in Philo 10A, a survey course at Cal, was that "What value does this metaphysical Eternal Real World of Forms of Plato have, since we can never encounter or experience it?. . ." [[74]](#ftnt74)
+> The criticism, which I remember using in Philo 10A, a survey course at Cal, was that "What value does this metaphysical Eternal Real World of Forms of Plato have, since we can never encounter or experience it?. . ." [[5]](#ftnt5)
 
 This is how I imagine Greco's youthful skepticism: an arrogance not yet earned, but promising. A skepticism healthy, a vital mind's willfulness.
 
-> It is an index of the ignorance of our world today that my instructor's answer was not, "But later on for eight hundred years people did experience Plato's world of the Idea," but rather was that if I was going to question all this, I should quit the class.  I did so.[[75]](#ftnt75)
+> It is an index of the ignorance of our world today that my instructor's answer was not, "But later on for eight hundred years people did experience Plato's world of the Idea," but rather was that if I was going to question all this, I should quit the class.  I did so.[[6]](#ftnt6)
 
-Dick gets his answer decades later, in the depths of his autodidactia: from the entry on Neoplatonism in his _Encyclopedia of Philosophy_; but first from his own gnosis that "really put an end to such bickering as I engaged in back in my college days." [[76]](#ftnt76)
+Dick gets his answer decades later, in the depths of his autodidactia: from the entry on Neoplatonism in his _Encyclopedia of Philosophy_; but first from his own gnosis that "really put an end to such bickering as I engaged in back in my college days." [[7]](#ftnt7)
 
 ## the Story gets better.  did Chiang get better?
 
@@ -71,7 +71,7 @@ Dr. Klausen is CIA: commissioned to assess & press-gang a savant strategist.  Hi
 
 One describes "mobilizing people to prevent the construction of a coal burning plant".  Indeed, this is realism   -  from Chiang.  A lesser writer might have asked Greco to _suppress_ the popular protest, the Gov being in bed with industries of dirty entropy.  But Chiang's CIA would have him infiltrate the Green movement, and lead it; or something more insidious & byzantine.
 
-The story gets better as we go.  This is proper, for it's told first-person by a person who improves.  With every emptied ampule, his language & the action that he narrates elevate.  George Saunders performs a similar feat in "Escape from Spiderhead" (2010)[[77]](#ftnt77), whose narrator's expressiveness ebbs & flows with the Verbaluce drip.   A closer model may be _Camp Concentration_ (1968) by Thomas Disch, another journal of burgeoning genius, of lab-borne apotheosis   -  yet Disch's Louie _begins_ a published poet with a high IQ [160]—which gives him room to grow into his author's 190, I suppose?[[78]](#ftnt78)
+The story gets better as we go.  This is proper, for it's told first-person by a person who improves.  With every emptied ampule, his language & the action that he narrates elevate.  George Saunders performs a similar feat in "Escape from Spiderhead" (2010)[[8]](#ftnt8), whose narrator's expressiveness ebbs & flows with the Verbaluce drip.   A closer model may be _Camp Concentration_ (1968) by Thomas Disch, another journal of burgeoning genius, of lab-borne apotheosis   -  yet Disch's Louie _begins_ a published poet with a high IQ [160]—which gives him room to grow into his author's 190, I suppose?[[9]](#ftnt9)
 
 Greco is the _fictive_ narrator.  Chiang is the author.   The latter too, gets better as we go.  The early pages struck me as a competent set-up, a bit familiar.   I was almost put off by the prologue nightmare Greco wakes screaming from, and by the Office Realism, the opening scene's yawny patient protocol.
 
@@ -113,7 +113,7 @@ He's aware of "many emotions beyond those of normal humans."  His prior love & a
 
 The stereotype of the high IQ decoupled from bodily competence is disconfirmed.  His brain is amped, but co-ordination is brain-centered, so "Skills that normally require thousands of repetitions to develop, I can learn in two or three."  He has somatic awareness of glandular secretions.  He's conscious of the role of neurotransmitters in thoughts, as he thinks.
 
-Perhaps he sees, while hugely gestalting, it's his superactive NMDA system.[[79]](#ftnt79)
+Perhaps he sees, while hugely gestalting, it's his superactive NMDA system.[[10]](#ftnt10)
 
 ## an unreliable Narrator?  How to do a Super-mind, first-person?
 
@@ -197,7 +197,7 @@ Yet Greco is as close to peer as Reynolds has, shall ever have.  A community of 
 
 What might a Dialogue of super-minds sound like?
 
-I love Scott's answer in "The Hour I First Believed": _Hypothetical_. [[80]](#ftnt80)  When interlocutors can perfectly model the other's mind, they may speak quieter than telepathy.  Their dialogue _is_ real in that it's consistent across the minds, and has effects on their post-dialogue behaviour.
+I love Scott's answer in "The Hour I First Believed": _Hypothetical_. [[11]](#ftnt11)  When interlocutors can perfectly model the other's mind, they may speak quieter than telepathy.  Their dialogue _is_ real in that it's consistent across the minds, and has effects on their post-dialogue behaviour.
 
 They've considered independently, in the days leading up to their showdown, a thousand crude moves—like smearing doorknobs with neurotoxins, or kill-strike by military satellite.
 
@@ -231,7 +231,7 @@ Greco's first attack is quite physical: a bio-feedback loop that would burst his
 
 Greco wants to Know.  His ambition is Faustian, tragic.
 
-My sister wonders: does Greco get, in death, what he'd sought?[[81]](#ftnt81) An enlightened mind can't be sustained on legacy wetware.  Yet perhaps it can be tasted as it burns thru its host.
+My sister wonders: does Greco get, in death, what he'd sought?[[12]](#ftnt12) An enlightened mind can't be sustained on legacy wetware.  Yet perhaps it can be tasted as it burns thru its host.
 
 Understand: that when you finally get it, your mind will collapse.  Remember Lovecraft's warning:
 
@@ -265,7 +265,7 @@ After Reynolds, you're still alive, still on-track for your doctorate; but who n
 
 We finish Chiang's novella, look up from the page, and see that this is _our_ world, already.  I don't mean hormone K or half of Pittsburgh wearing air filtration masks—though these are sort of true [e.g. the advent of nootropics] and quite true [COVID].  I mean the author's vision of history, where intelligence rules, and the super-intelligent few can change everything.
 
-A handful of Budapest-born Ashkenazi led the Manhattan Project,[[82]](#ftnt82) and thereby saved America and/or initiated the apocalypse.  Zooming out to evolution's timescale, we see that one Ape's engorged brain let it take the planet.  We have, in our spread, reduced our closer relatives: as a by-product of our expansion [the decimation of Great Apes in Africa]; and by trapping them—physically & genetically—in our farms & labs.  We sometimes enhance them, to model our own progress, then destroy them & convert them to data.
+A handful of Budapest-born Ashkenazi led the Manhattan Project,[[13]](#ftnt13) and thereby saved America and/or initiated the apocalypse.  Zooming out to evolution's timescale, we see that one Ape's engorged brain let it take the planet.  We have, in our spread, reduced our closer relatives: as a by-product of our expansion [the decimation of Great Apes in Africa]; and by trapping them—physically & genetically—in our farms & labs.  We sometimes enhance them, to model our own progress, then destroy them & convert them to data.
 
 In effect, if not by genocidal program, we've ensured we stay the smartest in the Zoo.  What would chimps have been two million years from now?  Squirrels, in ten?  In fact they may not be around, since we were first-past-the-post.
 
@@ -332,9 +332,9 @@ re the grand Unifying that Greco sought, the fusion of his lucid self-knowing wi
 
 He comes to this aphorism:
 
-> One would not see the Other; one would see _as_ the Other. [[83]](#ftnt83)
+> One would not see the Other; one would see _as_ the Other. [[14]](#ftnt14)
 
-Yet Dick means, by "Other", other living beings, the Buberian Thou—not the dead objects he demotes to "merely structure, much like the backdrop and artificial scenery in a formal play."[[84]](#ftnt84)
+Yet Dick means, by "Other", other living beings, the Buberian Thou—not the dead objects he demotes to "merely structure, much like the backdrop and artificial scenery in a formal play."[[15]](#ftnt15)
 
 To see "through" this insentient structure, thus to unify self & object, we must incarnate & animate it.
 
@@ -343,3 +343,35 @@ To sum his two achievements, I mean, Greco must make himself the Pantheos.  Beco
 How many shots of K, for this?!  And the mind-computer links he has planned, how vast!  He'd have to turn the whole thing to hardware—make the whole cosmos a brain of his favored Material.
 
 * * *
+
+[[1]](#ftnt_ref1) 
+
+Notes:  see e.g. Geoffrey Miller's _The Mating Mind_, 2000.
+
+[[2]](#ftnt_ref2) And if you take a lot of it.  In the novel   -   _The Dark Fields_ (2001) by Alan Glynn   -  we're given every reason to think that Eddie's ex, Melissa, is the smarter one.  Yet she's exposed to a less stable version of the drug, and stops after nine or ten trips.
+
+[[3]](#ftnt_ref3) _The Exegesis of Philip K. Dick_.  Edited by Pamela Jackson & Jonathan Lethem.   Houghton Mifflin Harcourt, 2011.  page 11
+
+[[4]](#ftnt_ref4) _The Exegesis,_ 165-66
+
+[[5]](#ftnt_ref5) _The Exegesis_, p 74
+
+[[6]](#ftnt_ref6) _The Exegesis_, p 75
+
+[[7]](#ftnt_ref7) _The Exegesis_, p 75
+
+[[8]](#ftnt_ref8) https://www.newyorker.com/magazine/2010/12/20/escape-from-spiderhead
+
+[[9]](#ftnt_ref9) In _The Dark Fields_, Glynn turns the trick by side-stepping it, somewhat.  Eddie narrates post-crash, out of MDT-48 and holed up in a Vermont motel: marveling & ruing the flame his mind once was.
+
+[[10]](#ftnt_ref10) [https://slatestarcodex.com/2016/09/12/its-bayes-all-the-way-up/](https://slatestarcodex.com/2016/09/12/its-bayes-all-the-way-up/)
+
+[[11]](#ftnt_ref11) [https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/](https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/)
+
+[[12]](#ftnt_ref12) We find a variant of this "thanatic enlightenment" in Greg Egan's "Eugene", where superintelligences converge on the same overriding preference: for radical non-Existence.  Eugene is the first of these, a buddha-boy whose sad, all-knowing face etherealizes on the TV of his progenitors, on the night they _would have_ conceived him.  It's a missive from his Seat in a nirvanic sky of Nothingness.  He informs them of his desire to have never existed. [from Egan's story collection _Axiomatic_, 1995]
+
+[[13]](#ftnt_ref13) [https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/)
+
+[[14]](#ftnt_ref14) _The Exegesis_, p 44
+
+[[15]](#ftnt_ref15) _The Exegesis_, p 56

@@ -45,15 +45,15 @@ We need to begin with one very important observation, something that cannot be o
 
 Shrier lays out the following statistics:
 
-> _Between 1946 and 1960, membership in the American Psychological Association_ _**quadrupled**__._[[14]](#ftnt14) _Then, from 1970 to 1995, the number of mental health professionals_ _**quadrupled again**__._[[15]](#ftnt15) _In the United States since 1986, nearly every decade has seen a_ _**doubling**_ _of expenditure on mental health over the one before._[[16]](#ftnt16)
+> _Between 1946 and 1960, membership in the American Psychological Association_ _**quadrupled**__._[[1]](#ftnt1) _Then, from 1970 to 1995, the number of mental health professionals_ _**quadrupled again**__._[[2]](#ftnt2) _In the United States since 1986, nearly every decade has seen a_ _**doubling**_ _of expenditure on mental health over the one before._[[3]](#ftnt3)
 >
 > _…And yet as treatments for anxiety and depression have become more sophisticated and more readily available, adolescent anxiety and depression have_ _**ballooned**__._
 >
-> _I’m not the only one to have found something fishy in the fact that more treatment has not resulted in less depression. A group of academic researchers recently noticed the same. They published a peer-reviewed paper titled “More Treatment but No Less Depression: The Treatment-Prevalence Paradox.”_[[17]](#ftnt17) _The authors note that treatment for major depression has become much more widely available (and,_ _**in their view, improved**__) since the 1980s worldwide. And yet in_ _**not a single Western country**_ _has this treatment made a dent in the incidence of major depressive disorder. Many countries saw an increase._
+> _I’m not the only one to have found something fishy in the fact that more treatment has not resulted in less depression. A group of academic researchers recently noticed the same. They published a peer-reviewed paper titled “More Treatment but No Less Depression: The Treatment-Prevalence Paradox.”_[[4]](#ftnt4) _The authors note that treatment for major depression has become much more widely available (and,_ _**in their view, improved**__) since the 1980s worldwide. And yet in_ _**not a single Western country**_ _has this treatment made a dent in the incidence of major depressive disorder. Many countries saw an increase._
 >
-> _The increased availability of effective treatments should shorten depressive episodes, reduce relapses, and curtail recurrences. Combined, these treatment advances unequivocally should result in lower point-prevalence estimates of depression,” they write. “__**Have these reductions occurred? The empirical answer clearly is NO**__.”_[[18]](#ftnt18)
+> _The increased availability of effective treatments should shorten depressive episodes, reduce relapses, and curtail recurrences. Combined, these treatment advances unequivocally should result in lower point-prevalence estimates of depression,” they write. “__**Have these reductions occurred? The empirical answer clearly is NO**__.”_[[5]](#ftnt5)
 >
-> _I checked with several of the paper’s authors. Two confirmed that the same might be said for anxiety. As treatment has become more widely available and dispersed, point-prevalence rates should go down._[[19]](#ftnt19) _They have not. And while the authors admit that there was likely more depression in the past than we realized, they argue that there is at least as much, and probably more, depression now._[[20]](#ftnt20) [Emphasis mine.]
+> _I checked with several of the paper’s authors. Two confirmed that the same might be said for anxiety. As treatment has become more widely available and dispersed, point-prevalence rates should go down._[[6]](#ftnt6) _They have not. And while the authors admit that there was likely more depression in the past than we realized, they argue that there is at least as much, and probably more, depression now._[[7]](#ftnt7) [Emphasis mine.]
 
 Why is this? We don’t see this happening with other diseases. Dedicating additional resources towards [cancer](https://www.cancer.gov/news-events/press-releases/2023/opportunities-to-reduce-cancer-death-rate#:~:text=According%20to%20their%20analysis%2C%20because,year%20from%202016%20to%202019.) and [heart disease](https://ourworldindata.org/grapher/cardiovascular-disease-death-rate-who-mdb?country=CAN~USA~RUS~HUN~BRA~AUS~DEU~FRA), for example, has improved outcomes, not worsened them.
 
@@ -89,7 +89,7 @@ This is the territory that Shrier focuses on, and it’s the space where most of
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/9b65a6d326c4d74b.png)
 
-This zone is composed of negative experiences which might be traumatic depending on the person, their previous experiences, and—most importantly for our purposes—how the negative experience is dealt with or treated. This is where the majority of our focus is going to be, and though she doesn’t lay it out as specifically as I have, this is the realm Shrier is concerned about. She provides numerous examples of situations and experiences that only become traumatic through misguided interventions. She doesn’t deny that some negative experiences definitely cause trauma, and that this trauma benefits from competent therapy.[[21]](#ftnt21) Her book isn’t against all therapy; it’s against _bad_ therapy, and the way we recognize it as bad is that rather than treating actual trauma it expands the definition and scope of trauma such that a greater number of negative experiences go from being potentially traumatic to definitely traumatic:
+This zone is composed of negative experiences which might be traumatic depending on the person, their previous experiences, and—most importantly for our purposes—how the negative experience is dealt with or treated. This is where the majority of our focus is going to be, and though she doesn’t lay it out as specifically as I have, this is the realm Shrier is concerned about. She provides numerous examples of situations and experiences that only become traumatic through misguided interventions. She doesn’t deny that some negative experiences definitely cause trauma, and that this trauma benefits from competent therapy.[[8]](#ftnt8) Her book isn’t against all therapy; it’s against _bad_ therapy, and the way we recognize it as bad is that rather than treating actual trauma it expands the definition and scope of trauma such that a greater number of negative experiences go from being potentially traumatic to definitely traumatic:
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/6d7de401820798cd.png)
 
@@ -105,7 +105,7 @@ The debate over the declining mental health of children (particularly teenagers)
 
 Shrier adds her take with this book, and while there are many areas of overlap with Haidt, she points out that the trend started much earlier:
 
-> _Instead, adolescent mental health has been in steady decline since the 1950s._[[22]](#ftnt22) _Between 1990 and 2007 (before any teens had smartphones), the number of mentally ill children rose_ _**thirty-five-fold**__._[[23]](#ftnt23) _And while overdiagnosis or the expansion of definitions of mental illness may partially account for this rapid change, it is hard to dismiss or contextualize away the startling rise in teen suicide: “Between 1950 and 1988, the proportion of adolescents aged between fifteen and nineteen who killed themselves_ _**quadrupled**__,” The New Yorker reported._[[24]](#ftnt24) _Mental illness became the leading cause of disability in children._ [Emphasis mine]
+> _Instead, adolescent mental health has been in steady decline since the 1950s._[[9]](#ftnt9) _Between 1990 and 2007 (before any teens had smartphones), the number of mentally ill children rose_ _**thirty-five-fold**__._[[10]](#ftnt10) _And while overdiagnosis or the expansion of definitions of mental illness may partially account for this rapid change, it is hard to dismiss or contextualize away the startling rise in teen suicide: “Between 1950 and 1988, the proportion of adolescents aged between fifteen and nineteen who killed themselves_ _**quadrupled**__,” The New Yorker reported._[[11]](#ftnt11) _Mental illness became the leading cause of disability in children._ [Emphasis mine]
 
 From Shrier’s perspective, while smartphones and social media are definitely very bad, they aren’t the primary cause of the problem, rather they acted as powerful accelerants for a misaligned therapeutic culture which already existed. How is it misaligned? Let’s look at some examples:
 
@@ -117,7 +117,7 @@ Shier opens the book by recounting a recent trip with her son to the urgent care
 2.  _In the past few weeks, have you felt that you or your family would be better off if you were dead?_
 3.  _In the past week, have you been having thoughts about killing yourself?_
 4.  _Have you ever tried to kill yourself? If yes, how? When?_
-5.  _Are you having thoughts of killing yourself right now? If yes, please describe._[[25]](#ftnt25)
+5.  _Are you having thoughts of killing yourself right now? If yes, please describe._[[12]](#ftnt12)
 
 Again, this was a visit to a pediatrician about a stomach ache. The nurse wasn’t a trained therapist, nor was Shrier or her son seeking any sort of therapy. .
 
@@ -167,7 +167,7 @@ This approach has crystallized into what might be called a meta-curriculum: [soc
 
 This methodology combines the ubiquity already mentioned...
 
-> _Sometimes described by enthusiasts as “__**a way of life,**__”_[[26]](#ftnt26) _social-emotional learning is the curricular juggernaut that devours billions in education spending each year and upward of 8 percent of teacher time._[[27]](#ftnt27) _(Many teachers say they try to ensure that social-emotional learning happens_ _**all day long**__.)_[[28]](#ftnt28) _Through prompts and exercises, social-emotional learning (SEL) pushes kids toward a series of personal reflections, aimed at teaching them “self-awareness,” “social awareness,” “relationship skills,” “self-management,” and “responsible decision-making.”_[[29]](#ftnt29) [Emphasis mine]
+> _Sometimes described by enthusiasts as “__**a way of life,**__”_[[13]](#ftnt13) _social-emotional learning is the curricular juggernaut that devours billions in education spending each year and upward of 8 percent of teacher time._[[14]](#ftnt14) _(Many teachers say they try to ensure that social-emotional learning happens_ _**all day long**__.)_[[15]](#ftnt15) _Through prompts and exercises, social-emotional learning (SEL) pushes kids toward a series of personal reflections, aimed at teaching them “self-awareness,” “social awareness,” “relationship skills,” “self-management,” and “responsible decision-making.”_[[16]](#ftnt16) [Emphasis mine]
 
 and the marination…
 
@@ -181,7 +181,7 @@ and the marination…
 
 with yet one more pseudo-therapeutic aspect—doing it while part of a group:
 
-> _Ever since her school adopted social-emotional learning in 2021, Ms. Julie_[[30]](#ftnt30) _routinely began the day by directing her Salt Lake City fifth graders to sit in one of the plastic chairs she’d arranged in a circle. How is each of you feeling this morning? she would ask, performing a more intensive version of the “emotions check-in.” One day, she cut to the chase: What is something that is making you really sad right now?_
+> _Ever since her school adopted social-emotional learning in 2021, Ms. Julie_[[17]](#ftnt17) _routinely began the day by directing her Salt Lake City fifth graders to sit in one of the plastic chairs she’d arranged in a circle. How is each of you feeling this morning? she would ask, performing a more intensive version of the “emotions check-in.” One day, she cut to the chase: What is something that is making you really sad right now?_
 >
 > _When it was his turn to speak, one boy began mumbling about his father’s new girlfriend. Then things fell apart. “All of a sudden, he just started bawling. And he was like, ‘I think that my dad hates me. And he yells at me all the time,’ ” said Laura, a mom of one of the other students._
 >
@@ -197,11 +197,11 @@ Had my son been subject to this gauntlet at the time of his experience at scout 
 
 **Why?**
 
-As a brief coda to all of this, it’s natural to ask why things have gone in this direction. Why is there so much pseudo-therapy in schools?[[31]](#ftnt31) As is the case with so many things, I think it proceeds from the best of intentions. Very few things are worse than suffering children, and anything which holds the promise of reducing that suffering would seem to be obviously good.
+As a brief coda to all of this, it’s natural to ask why things have gone in this direction. Why is there so much pseudo-therapy in schools?[[18]](#ftnt18) As is the case with so many things, I think it proceeds from the best of intentions. Very few things are worse than suffering children, and anything which holds the promise of reducing that suffering would seem to be obviously good.
 
 Unfortunately everything comes with second order effects, frequently negative, which can take a long time to manifest and are difficult to detect even then. Because of this there seemed to be very little downside to this vast expansion in therapeutic practices, and minimal harm if they weren’t done quite right. Unfortunately this has not been the case, there have been negative effects, and such negative effects are common in medicine. Treatments which are life saving for the desperately ill, can, somewhat paradoxically, result in significant harm if applied to those who are basically healthy. In medicine the formal term for this is iatrogenesis: harm caused by medical treatment. Shrier makes it one of the pillars of her book. Shrier offers up this startling list of iatrogenic counseling:
 
-> _Police officers who responded to a plane crash and then underwent debriefing sessions exhibited more disaster-related hyperarousal symptoms eighteen months later than those who did not receive the treatment._[[32]](#ftnt32) _Burn victims exhibited more anxiety after therapy than those left untreated._[[33]](#ftnt33) _Breast cancer patients have left peer support groups feeling worse about their condition than those who opted out._[[34]](#ftnt34) _And counseling sessions for normal bereavement often make it harder, not easier, for mourners to recover from loss._[[35]](#ftnt35) _Some people who say they “just don’t want to talk about it” know better than the experts what will help them: spending time with family; exercising; putting one foot in front of the other; gradually adjusting to the loss._[[36]](#ftnt36)
+> _Police officers who responded to a plane crash and then underwent debriefing sessions exhibited more disaster-related hyperarousal symptoms eighteen months later than those who did not receive the treatment._[[19]](#ftnt19) _Burn victims exhibited more anxiety after therapy than those left untreated._[[20]](#ftnt20) _Breast cancer patients have left peer support groups feeling worse about their condition than those who opted out._[[21]](#ftnt21) _And counseling sessions for normal bereavement often make it harder, not easier, for mourners to recover from loss._[[22]](#ftnt22) _Some people who say they “just don’t want to talk about it” know better than the experts what will help them: spending time with family; exercising; putting one foot in front of the other; gradually adjusting to the loss._[[23]](#ftnt23)
 
 If you want to dig deeper into therapeutic iatrogenesis then the book is an excellent resource, but my goal is to establish a continuum, speaking of which:
 
@@ -333,13 +333,13 @@ As is so often the case, history is both instructive and divisive. As an example
 >
 > _When my grandmother turned six, she had her first real stroke of good luck. Her eldest sister, Clayre…married Sammy, and they took my grandmother in and raised her._
 >
-> _When she was sixteen [my grandmother contracted] polio. [The doctor] ordered my grandmother into isolation at Gallinger Hospital._[[37]](#ftnt37) _Clayre burned all of my grandmother’s clothes…_
+> _When she was sixteen [my grandmother contracted] polio. [The doctor] ordered my grandmother into isolation at Gallinger Hospital._[[24]](#ftnt24) _Clayre burned all of my grandmother’s clothes…_
 >
 > _[M]y grandmother turned seventeen in an iron lung, straining to breathe and unable to swallow. Family visits were mimed through a hallway window: a wave, a smile, a blown kiss. The dreaded illness lasted a year until, one day, my grandmother’s tongue and pharynx enlivened enough to negotiate a teaspoon of water. Nurses crowded her bedside to witness her first sips._
 >
 > _If she mourned the loss of an entire year of high school, my grandmother never mentioned it…_
 >
-> _She completed law school at night and became one of the first female judges in Maryland history._[[38]](#ftnt38) _And until the last year of her life, at ninety-four, her sharp mind softened with age, she held fast to a feeling that would not leave her: every day alive was a miracle._
+> _She completed law school at night and became one of the first female judges in Maryland history._[[25]](#ftnt25) _And until the last year of her life, at ninety-four, her sharp mind softened with age, she held fast to a feeling that would not leave her: every day alive was a miracle._
 
 This is definitely resilience. Also we see a notable lack of potential trauma being turned into actual trauma. Of course up until very recently people encountered more than enough negative experiences to either make them resilient or break them entirely. That is no longer the case. Much of the reason for all of the behavior already documented in this review is that it finally seems possible to shield children from the sorts of tragedies experienced by Shrier’s grandmother; if that’s the case, why wouldn’t we? The review has already spent a lot of time answering that question, but the more specific reason is that they need to develop resilience. If we’re going to establish a healthy continuum of experiences we have to make a push for resilience. What does that mean? What does it look like?
 
@@ -370,3 +370,55 @@ The point here is not to force-feed your kids eggs; but that children are a lot 
 This is not to say it’s an easy problem; I’m glad that I’m not currently grappling with the decision of whether to force my son to go back to camp. But, particularly in hindsight, if it had come to that at the time, I would have.
 
 You may be looking back on this eight thousand word review and thinking, “That’s it? He just wanted to say that it’s difficult to balance comfort and coddling? We’ve known that for ages!” To a first approximation you’re completely correct. But also the reason people have been talking about it for ages is that it’s a really difficult problem. My hope is that the insights provided in this review will make it at least slightly easier.
+
+[[1]](#ftnt_ref1) In this case and all subsequent cases, when I quote from the book I will duplicate its footnotes:  
+  
+In 1946, Congress passed the National Mental Health Act. Between 1946 and 1960, membership in the American Psychological Association ballooned from 4,173 to 18,215. Moskowitz, In Therapy We Trust, 154.
+
+[[2]](#ftnt_ref2) Furedi, Frank, Therapy Culture: Cultivating Vulnerability in an Uncertain Age (New York: Routledge, 2004), 10.
+
+[[3]](#ftnt_ref3) “Statista Research Department, “Total U.S. Expenditure for Mental Health Services 1986–2020,” 2023, Statista, [www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services](http://www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services) 
+
+[[4]](#ftnt_ref4) Ormel, Johan, et al., “More Treatment but No Less Depression: The Treatment-Prevalence Paradox,” Clinical Psychology Review 91 (February 2022) 102111, [https://pubmed.ncbi.nlm.nih.gov/34959153](https://pubmed.ncbi.nlm.nih.gov/34959153).
+
+[[5]](#ftnt_ref5) Ormel et al., “More Treatment but No Less Depression.
+
+[[6]](#ftnt_ref6) See, for example, Ormel, Johan, and Michael VonKorff, “Reducing Common Mental Disorder Prevalence in Populations,” JAMA Psychiatry 78 no. 4 (April 2021): 359–60, [https://pubmed.ncbi.nlm.nih.gov/33112374](https://pubmed.ncbi.nlm.nih.gov/33112374).
+
+[[7]](#ftnt_ref7) It’s important to note that the authors looked at point prevalence, not lifetime prevalence. Point prevalence is the signal rate in this context. After all, if someone had had a depressive episode twenty years earlier, that would count in “lifetime prevalence” but not provide an accurate marker of whether the last twenty years of psychiatric gains had made a dent in rates of depression.
+
+[[8]](#ftnt_ref8) Therapy as treatment for trauma is not the only kind of therapy, but it’s the area Shrier spends all of her time on, so that’s where we’ll be focusing as well.
+
+[[9]](#ftnt_ref9) Between 1950 and 1988, the proportion of adolescents aged between fifteen and nineteen who killed themselves quadrupled,” The New Yorker reported. Andrew Solomon, “The Mystifying Rise of Child Suicide,” The New Yorker, April 4, 2022, [www.newyorker.com/magazine/2022/04/11/the-mystifying-rise-of-child-suicide](http://www.newyorker.com/magazine/2022/04/11/the-mystifying-rise-of-child-suicide).
+
+[[10]](#ftnt_ref10) Whitaker, Robert, Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America (New York: Crown, 2010), 8.
+
+[[11]](#ftnt_ref11) Whitaker, Anatomy of an Epidemic, 8.
+
+[[12]](#ftnt_ref12) Suicide Risk Screening Tool,” National Institute of Mental Health Toolkit, accessed August 6, 2023, [https://www.nimh.nih.gov/sites/default/files/documents/research/research-conducted-at-nimh/asq-toolkit-materials/asq-tool/screening\_tool\_asq\_nimh\_toolkit.pdf](https://www.nimh.nih.gov/sites/default/files/documents/research/research-conducted-at-nimh/asq-toolkit-materials/asq-tool/screening_tool_asq_nimh_toolkit.pdf).
+
+[[13]](#ftnt_ref13) As one school in Illinois put it: “SEL is more than a process, a methodology, a curriculum—it is a way of life.” “Social Emotional Learning,” Stevenson High School, accessed September 16, 2023, [https://www.d125.org/about/sel](https://www.d125.org/about/sel).
+
+[[14]](#ftnt_ref14) $1.72 billion spent in social-emotional learning educational materials alone. “United States Social and Emotional Learning (SEL) Market Report 2022: Instructional Materials were $1.72 Billion, up 25.9% Y-o-Y and are Forecast to Increase at a Lower Rate in 2023-2024,” GlobeNewswire, November 17, 2022, [www.globenewswire.com/news-release/2022/11/17/2557934/0/en/United-States-Social-and-Emotional-Learning-SEL-Market-Report-2022-Instructional-Materials-were-1-72-Billion-up-25-9-Y-o-Y-and-are-Forecast-to-Increase-at-a-Lower-Rate-in-2023-2024.html](http://www.globenewswire.com/news-release/2022/11/17/2557934/0/en/United-States-Social-and-Emotional-Learning-SEL-Market-Report-2022-Instructional-Materials-were-1-72-Billion-up-25-9-Y-o-Y-and-are-Forecast-to-Increase-at-a-Lower-Rate-in-2023-2024.html); Krachman, Sara Bartolino, et al., “Accounting for the Whole Child,” ASCD, February 1, 2018, [https://www.ascd.org/el/articles/accounting-for-the-whole-child](https://www.ascd.org/el/articles/accounting-for-the-whole-child).
+
+[[15]](#ftnt_ref15) Langreo, Lauraine, “How Much Time Should Schools Spend on Social-Emotional Learning?,” Education Week, May 24, 2022, [https://www.edweek.org/leadership/how-much-time-should-schools-spend-on-social-emotional-learning/2022/05](https://www.edweek.org/leadership/how-much-time-should-schools-spend-on-social-emotional-learning/2022/05).
+
+[[16]](#ftnt_ref16) “An important difference between SEL and character education is that some character education approaches are focused on developing morally responsible youth, and that is not the defining characteristic of SEL. It is important to make that distinction. Teaching morals and values can raise concerns about whether they can be changed, and whether instruction is the responsibility of families or schools.” Kim Gulbrandson, “Character Education and SEL: What You Should Know,” July 6, 2018, Committee for Children, [www.cfchildren.org/blog/2018/07/character-education-and-sel-what-you-should-know](http://www.cfchildren.org/blog/2018/07/character-education-and-sel-what-you-should-know).
+
+[[17]](#ftnt_ref17) Name changed to avoid embarrassing a teacher who was just doing precisely what her administrators directed.
+
+[[18]](#ftnt_ref18) And to be clear, it’s not all pseudo-therapy, while there's more than enough harm being caused by people with no licensing and very little training, there are also plenty of school psychologists, and I’ve seen no evidence that they act to mediate these practices, rather they seem to participate just as vigorously as those who haven’t been extensively trained.
+
+[[19]](#ftnt_ref19) Carlier, Ingrid V. E., et al., “Disaster-Related Post-Traumatic Stress in Police Officers: A Field Study of the Impact of Debriefing,” Stress Medicine 14, no. 3 (1998): 143–48, [https://doi.org/10.1002/(SICI)1099-1700(199807)14:3<143::AID-SMI770>3.0.CO;2-S](https://doi.org/10.1002/(SICI)1099-1700(199807)14:3).
+
+[[20]](#ftnt_ref20) Berk, Michael, et al., “The Elephant on the Couch: Side-Effects of Psychotherapy,” Australian and New Zealand Journal of Psychiatry (January 2009): 789, [https://doi.org/10.1080/00048670903107559](https://doi.org/10.1080/00048670903107559).
+
+[[21]](#ftnt_ref21) Helgeson, Vicki S., et al., “Education and Peer Discussion Group Interventions and Adjustment to Breast Cancer,” Archives of General Psychiatry 56, no. 4 (1999): 340–47, [https://jamanetwork.com/journals/jamapsychiatry/article-abstract/1152701](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/1152701).
+
+[[22]](#ftnt_ref22) Brody, Jane E., “Often, Time Beats Therapy for Treating Grief,” New York Times, January 27, 2004. See also Neimeyer, R.A., “Searching for the Meaning of Meaning: Grief Therapy and the Process of Reconstruction,” Death Studies 24, no. 6 (September 2000): 541–58, https://doi.org/10.1080/07481180050121480.
+
+[[23]](#ftnt_ref23) Bonanno, George A, The Other Side of Sadness: What the New Science of Bereavement Tells Us About Life After Loss (New York: Basic Books, 2009). See also Pinker, Susan, “Exercise Can Be the Best Antidepressant,” Wall Street Journal, March 23, 2023, [www.wsj.com/articles/exercise-can-be-the-best-antidepressant-5101a538?mod=e2tw](http://www.wsj.com/articles/exercise-can-be-the-best-antidepressant-5101a538?mod=e2tw). (“New research finds that as little as 12 weeks of regular exercise can alleviate symptoms of depression as effectively as medication.”)
+
+[[24]](#ftnt_ref24) The hospital was renamed D.C. General Hospital in 1953. In 2001, it closed. See “Gallinger Municipal Hospital Psychopathic Ward,” Wikipedia, accessed September 17, 2023, [https://en.wikipedia.org/wiki/Gallinger\_Municipal\_Hospital\_Psychopathic\_Ward](https://en.wikipedia.org/wiki/Gallinger_Municipal_Hospital_Psychopathic_Ward).
+
+[[25]](#ftnt_ref25) Estrada, Louie, “Bess Lavine, Half of Mother-Daughter Judge Team, Dies at 94,” Washington Post, October 5, 2022, [www.washingtonpost.com/obituaries/2022/10/05/bess-lavine-prince-georges-judge-dead](http://www.washingtonpost.com/obituaries/2022/10/05/bess-lavine-prince-georges-judge-dead).

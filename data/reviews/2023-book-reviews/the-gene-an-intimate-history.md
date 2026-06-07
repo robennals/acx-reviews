@@ -16,7 +16,7 @@ tags:
   - History
 ---
 
-This follow-up book to "The Emperor of all Maladies: A Biography of Cancer" chronicles some of the greatest biomedical advancements of the past 50 years: lab-synthetized protein drugs, the Human Genome Project, and gene therapy. A common angle in all these advancements is that while they've been (so far) overwhelmingly good for civilization[[5]](#ftnt5), there were also plenty of scientists and writers who cautioned us to watch out, tread carefully, go more slowly, warning of perils beyond our comprehension. And at the same time the pioneers would grumble and argue that the cautioners are just jealous and driven to mediocrity, and make it anyway. Those pioneers often found themselves outcasts of academia, in successful but ruthless new companies.
+This follow-up book to "The Emperor of all Maladies: A Biography of Cancer" chronicles some of the greatest biomedical advancements of the past 50 years: lab-synthetized protein drugs, the Human Genome Project, and gene therapy. A common angle in all these advancements is that while they've been (so far) overwhelmingly good for civilization[[1]](#ftnt1), there were also plenty of scientists and writers who cautioned us to watch out, tread carefully, go more slowly, warning of perils beyond our comprehension. And at the same time the pioneers would grumble and argue that the cautioners are just jealous and driven to mediocrity, and make it anyway. Those pioneers often found themselves outcasts of academia, in successful but ruthless new companies.
 
 But the thing about the people who said to slow down, is they have a way of sounding compelling even in hindsight. And two of them: Paul Berg and James Watson, have found themselves on both sides of these arguments. The author, physician Siddhartha Mukherjee, was a student of Paul Berg–and he tends to side with Berg and the cautionary establishment, but at the same time acknowledge the paradox of how things have shaken out. When it comes to this question of progress, this book doesn't really have a thesis, so this review is an epilogue absent in the main text.
 
@@ -41,7 +41,7 @@ Hereditary mental illness–that is the most opinionated heart of this sprawling
 >
 > The mismatch can be severe and debilitating. A child with the fiercest variation of autism who spends his days rocking monotonously in a corner, or scratching his skin into ulcers, possesses an unfortunate genetic endowment that is mismatched to nearly any environment or any goals. But another child with a different variant of autism may be functional in most situations, and possibly hyperfunctional in some (a chess game, say, or a memory contest). His illness is situational; it lies in the incongruity of his specific genotype and his specific circumstances.”
 
-I'll irresponsibly take this idea further. Perhaps Mukherjee himself is hyperfunctional from mild variants of his uncles' diseases. How does he write 500-page books filled with creative analogies on top of his many job responsibilities: as a professor and physician and founder of several companies? Book-tour interviewers have asked him, and this nephew of a manic man says he writes books in fits, where "once I'm in the zone, I can pull out 40 pages a day[[6]](#ftnt6)."
+I'll irresponsibly take this idea further. Perhaps Mukherjee himself is hyperfunctional from mild variants of his uncles' diseases. How does he write 500-page books filled with creative analogies on top of his many job responsibilities: as a professor and physician and founder of several companies? Book-tour interviewers have asked him, and this nephew of a manic man says he writes books in fits, where "once I'm in the zone, I can pull out 40 pages a day[[2]](#ftnt2)."
 
 Mildly-variant or not, Mukherjee is as protective as his grandmother was towards those with mental illness. The peril of thinking otherwise is draconian eugenics, and ending up like Carrie Buck. Carrie Buck didn't have a Priyabala to protect her. She was the diagnosed "Moron, middle-grade" daughter of a "low-grade moron." In 1924, a judge sent her to the Virginia State Colony for Epileptics and Feebleminded. The superintendent of the colony set Carrie up as the poster child for hereditary mental disability, and the Supreme Court agreed he could sterilize her, as "three generations of imbeciles is enough." Wait, three generations? Turns out Carrie had a daughter by rape before the colony sterilized her. The daughter, despite also being classified an imbecile, made honor roll in school. Mukherjee purposefully makes these diagnoses sound like an inexact science at best.
 
@@ -63,7 +63,7 @@ Some of the steps toward these discoveries make me flinch and think "the ends ju
 
 This is generally an expensive, inefficient process. On top of the cost, it can be unsanitary. The medicine was deadly to many hemophiliacs getting blot-clotting proteins from blood donors during the first years of the AIDS epidemic. But this was the only way anybody knew how to get patients the proteins they needed, until some fundamental science from the 60s and 70s suggested there could be a better way, leading to:
 
-**3) Trick a fast-growing bacteria**[[7]](#ftnt7) **into mass-producing the protein in a lab.**
+**3) Trick a fast-growing bacteria**[[3]](#ftnt3) **into mass-producing the protein in a lab.**
 
 To accomplish this, you have to change the bacteria's DNA. You cut open the bacteria DNA, add in the DNA sequence corresponding to the chemical makeup of the protein, and stitch the bacteria together again. Then when the bacteria divides and multiplies, it will also multiply the DNA code to make the protein with it. My friend says that doing this is easy today–it’s just a matter of mixing some beakers together and leaving the mixture out on a shelf while the bacteria multiply. Paul Berg invented this technique in 1968 and called it "recombinant DNA" because the technique combines the DNA from two species.
 
@@ -123,10 +123,18 @@ But I suspect Mukherjee is more generally disposed to take the cautious side. He
 
 > "In the wake of the monumental studies on the genetics of familial schizophrenia, I have often wondered about sequencing my [and my family's] genome. The technology exists: my own lab is equipped to do it…[but] if the history of the last century taught us the dangers of empowering governments to determine genetic "fitness", then the question that confronts our current era is what happens when this power devolves to the individual."
 
-There is a Great and Secret Knowledge hidden somewhere in the World that will grant us enormous powers once we have discovered it.[[8]](#ftnt8) Do you strain everything to hunt for it, or are you afraid of what you may find? Do you fear only for your own feeble sanity, or for what others may do, what casualties all may suffer from their search? Mukherjee fears for both, though the hunt consumes him.
+There is a Great and Secret Knowledge hidden somewhere in the World that will grant us enormous powers once we have discovered it.[[4]](#ftnt4) Do you strain everything to hunt for it, or are you afraid of what you may find? Do you fear only for your own feeble sanity, or for what others may do, what casualties all may suffer from their search? Mukherjee fears for both, though the hunt consumes him.
 
 ## In closing
 
 Before this reread of The Gene, I felt that Mukherjee was the best writer on the vast world of modern medicine. That in 500 pages he could advance my understanding of the scope of the field from a high-school biology level to a VC or division chief's level, and with a more engaging storyline than a college textbook. That if I reread carefully, I could appreciate the reasoning that led scientists to each discovery. But several of the explanations remain fuzzy no matter how much I stare at Mukherjee's words, and the topics still seem to jump around randomly. At several points Mukherjee offhandedly mentions things as if they are well-worn discussions, but does not elaborate. Maybe my golden memory came from Berg's blurb on the book jacket: "'The Gene' is a magnificent synthesis of the science of life." Once again Berg plays the villain misleading us.
 
 But it's hard to efficiently survey the life's work of so many brilliant people, which is why I neglected to review sections of Mukherjee's book. I skipped the bits about Darwin and Mendel, Watson and Crick and Franklin, and the brief ending about stem cells, CRISPR, and designer babies. Also, knowing how Bayesian priors determine how generously we listen to people, I've omitted his saucier coverage of race, sex, and epigenetics. And Nazis. If you, too, want a heftier feel for the ethics and biotech surrounding genetics than comes from essays, I still recommend this book as a relatively efficient and enjoyable journey into the vast fog.
+
+[[1]](#ftnt_ref1) Except for the Gelsinger family. More on them later.
+
+[[2]](#ftnt_ref2) From this [podcast](https://www.stitcher.com/show/poured-over/episode/siddhartha-mukherjee-on-the-song-of-the-cell-an-exploration-of-medicine-and-the-new-human-207909356), 11-13 minutes in
+
+[[3]](#ftnt_ref3) Protein synthesis doesn’t always use bacteria. It’s a case-by-case basis.
+
+[[4]](#ftnt_ref4) Quoted from the novel Piranesi

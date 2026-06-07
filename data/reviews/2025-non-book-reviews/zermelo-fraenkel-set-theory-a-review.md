@@ -183,19 +183,3 @@ My takeaway is that ZFC is like James Joyce’s _Ulysses_, or _Finnegan's Wake_.
 You don't have to agree that it navigates those pressures in just the right way. You don't have to agree that there _is_ a right way. But I think you do have to admit that ZFC is an elegant solution to those pressures: it is powerful enough to prove arithmetic, and do Cantor’s weird and wonderful things with infinities; but (with the possible exception of the Axiom of Choice) it doesn't just arbitrarily add axioms to get to a certain desired power. While some people feel that the undecidability of the Continuum Hypothesis in ZFC shows that there is yet some natural axiom missing, I kind of feel the opposite: it shows that ZFC didn't put “too much in by hand” and the result is a system that is balanced between two possibilities in a surprisingly beautiful way.
 
 I said before that unlike quantum mechanics, one’s choice of a foundational system of mathematics feels to me to be ultimately a matter of taste. I am not enough of a connoisseur of foundational systems to _really_ discriminate between ZFC and its competitors; my level of snootiness doesn’t rise beyond the equivalent of “ordering the house red”. But one thing about ZFC that appeals to _my_ taste at least, is that it’s a foundation system that still has space for that ambiguity about the Continuum Hypothesis. There’s something ineffably beautiful to me about the fact that the axioms of ZFC don’t totally banish all the mystery from Cantor’s paradise.
-
-* * *
-
-[[1]](#ftnt_ref1) I remain baffled by how Card’s method of taking distance from college as an instrumental variable ever made it past the drawing board. (People move for non-random reasons!)
-
-[[2]](#ftnt_ref2) The Journal of Economic Perspectives is a special journal, which commissions pieces to reflect the consensus on new advances in the field.
-
-[[3]](#ftnt_ref3) There would later be some controversy over whether the effects were accurately measured – I do not believe the criticism, however, which, after correcting a few small errors, hinge on treating groups which were in line to be treated, but were not yet treated, as part of the treatment group rather than the control group. This is bizarre to me, as the not-yet-treated groups are otherwise indistinguishable from the control groups. Also, they do not cover externalities argument in any depth. As [Chris Blattman](https://chrisblattman.com/blog/2015/07/23/dear-journalists-and-policymakers-what-you-need-to-know-about-the-worm-wars/) writes, “To be quite frank, you have throw so much crazy sh\*t at Miguel-Kremer to make the result go away that I believe the result even more than when I started.” For more, read “[Worm Wars](https://blogs.worldbank.org/en/impactevaluations/worm-wars-review-reanalysis-miguel-and-kremer-s-deworming-study)” from Berk Oezler, and the synoptic “[Worm Wars: The Anthology](https://blogs.worldbank.org/en/impactevaluations/worm-wars-anthology)”. In general, we need to separate out what we mean by “fails to replicate”, and “is not robust”. Arguing about which statistical practice is best is very different from the data being fake, or the supposed analysis plan not producing the actual results. I agree entirely with [Michael Clemens](https://www.cgdev.org/publication/meaning-failed-replications-review-and-proposal-working-paper-399) here.
-
-[[4]](#ftnt_ref4) As opposed to the actuality of time, which we won’t be getting into today.
-
-[[5]](#ftnt_ref5) And again (and again)
-
-[[6]](#ftnt_ref6) And as a side note, I do find it a bit worrisome how little I hear about nuclear concerns these days.  AI is certainly a more exciting way for a species to commit suicide, but we’ll be approximately as dead either way, and geopolitical tensions seem to be having a moment.  
-
-[[7]](#ftnt_ref7) Just a feeling.  I’m confident that isn’t literally the case, although it would, ironically, make a pretty great story.

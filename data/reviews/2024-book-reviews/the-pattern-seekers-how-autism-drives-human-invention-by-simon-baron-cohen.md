@@ -45,7 +45,7 @@ The systematising trait is genetic. It evolved somewhere between 70,000 and 100,
 
 If you are familiar with Boolean logic then you will know that these simple operations can be built up into arbitrarily complex calculations, limited only by the point at which your Excel sheet bricks your entire computer.
 
-In humans, this snowballing in complexity required a second catalyst: the theory of mind required to model what other people are feeling and thinking, also known as the **empathising trait**, which arose in roughly the same period.[[2]](#ftnt2)
+In humans, this snowballing in complexity required a second catalyst: the theory of mind required to model what other people are feeling and thinking, also known as the **empathising trait**, which arose in roughly the same period.[[1]](#ftnt1)
 
 Systematising and empathising are the twin helices that weave throughout Baron-Cohen's body of work. His research involves coming up with questions that allow us to express the ability to systematise and empathise as quotients (from here on in, 'SQ' and 'EQ'), then running large questionnaire-based studies to see how these traits are distributed amongst various populations, and what else they might be correlated with.
 
@@ -122,7 +122,7 @@ What happens when a set of fusty rules that science students reluctantly learn b
 
 Baron-Cohen argues that systems thinking is necessary not only for iterating lightbulb filaments, but for penning essays, practising free-throws, or composing violin concertos. The systematising trait determines how good you are at spotting patterns, which is a precondition for creating them in whatever domain you happen to be drawn towards.
 
-Could the actual medical condition of autism, as distinct from being a high-systematiser, convey any creative advantages? I think so, at least in some circumstances. Great musicians and auteurs of cinema often don’t care about pleasing anyone except themselves: they have a direct connection to the muse, and refuse the design-by-committee approach which would only dilute their work.[[3]](#ftnt3)
+Could the actual medical condition of autism, as distinct from being a high-systematiser, convey any creative advantages? I think so, at least in some circumstances. Great musicians and auteurs of cinema often don’t care about pleasing anyone except themselves: they have a direct connection to the muse, and refuse the design-by-committee approach which would only dilute their work.[[2]](#ftnt2)
 
 Where autists might be at a disadvantage is in creative acts that are specifically designed to elicit a certain emotional response from others, or involve accurately modelling other people's motivations and desires, e.g. literary fiction or psychology.
 
@@ -146,7 +146,7 @@ Chimps are a pretty great test case here, in that we have a recent common ancest
 
 Baron-Cohen works through a bunch of other potential counterexamples, from birdsong to sponge-wielding dolphins to hawks starting fires, arguing that these are all more parsimoniously explained as associative or mimetic learning.
 
-I found his arguments convincing, but then (just before deadline) I talked to an AI researcher who was equally convinced in the opposite direction by Frans de Waal's book _Are We Smart Enough to Know How Smart Animals Are?_[[4]](#ftnt4)
+I found his arguments convincing, but then (just before deadline) I talked to an AI researcher who was equally convinced in the opposite direction by Frans de Waal's book _Are We Smart Enough to Know How Smart Animals Are?_[[3]](#ftnt3)
 
 This seems like an important question to resolve. Fortunately, Baron-Cohen has given us a clear path to falsify his theory: all it would take is any example of an animal using a multi-step invention that couldn't plausibly have arisen by chance.
 
@@ -193,7 +193,7 @@ In his book _The Beginning of Infinity_, Deutsch points out that humans have ‘
 
 Of course, your microwave oven is also Turing-complete. What makes humans special is that we are _creative_, which Deutsch defines as the ability to come up with new explanations.
 
-This is the central pillar of Karl Popper’s epistemology, in which knowledge advances through good explanations, while experiment and empirical observations can only ever help us choose between existing theories (see: the [problem of induction](https://en.wikipedia.org/wiki/Problem_of_induction#:~:text=First%20formulated%20by%20David%20Hume,things%20based%20on%20previous%20observations.)).[[5]](#ftnt5)
+This is the central pillar of Karl Popper’s epistemology, in which knowledge advances through good explanations, while experiment and empirical observations can only ever help us choose between existing theories (see: the [problem of induction](https://en.wikipedia.org/wiki/Problem_of_induction#:~:text=First%20formulated%20by%20David%20Hume,things%20based%20on%20previous%20observations.)).[[4]](#ftnt4)
 
 Deutsch claims the ability to create explanations is something that you either have or you don't: once you have it, you are not only Turing-complete but a "universal explainer", or more simply, a person, regardless of whether you're instantiated in carbon, silicon, or space alien goop.
 
@@ -205,7 +205,7 @@ Now we come back to the systematising trait, which goes a long way towards resol
 
 There _is_ a binary here, in that a species either develops this cognitive module or it doesn't. But the fact that it's polygenic means there is a wide range of systematising ability within the population: some people are very good at doing the kind of thing that leads to inventions and new knowledge, and some people are very bad at it (while still being infinitely better than e.g. apes, who apparently can't do it at all).
 
-Deutsch would argue that low-SQ people are still capable of solving any given problem if they were sufficiently interested, had unlimited time, excellent tutors, the necessary cultural ‘software’, etc. Instead, we tend to gravitate towards doing things we’re good at: if some people find it especially taxing or boring to think systematically, that could be enough to explain the real-world divergence in problem-solving ability.[[6]](#ftnt6)
+Deutsch would argue that low-SQ people are still capable of solving any given problem if they were sufficiently interested, had unlimited time, excellent tutors, the necessary cultural ‘software’, etc. Instead, we tend to gravitate towards doing things we’re good at: if some people find it especially taxing or boring to think systematically, that could be enough to explain the real-world divergence in problem-solving ability.[[5]](#ftnt5)
 
 ### 2\. Are large language models a path to AGI?
 
@@ -310,3 +310,13 @@ But most of all it matters because—inshallah—we're going to get widespread p
 Would 'curing' autism ironically doom human civilization to never make progress again? I am much more confident in answering this weaker version of the question: no.
 
 But still. It would be really great to get some more clarity on this. If we are lucky, then perhaps an autist will examine it with the rigour it deserves.
+
+[[1]](#ftnt_ref1) Baron-Cohen makes a distinction between cognitive empathy, which is the classic theory-of-mind stuff, and affective empathy, which is the drive to respond to someone with an appropriate emotion. In this sense autists and sociopaths are inverted: autists tend to be bad at navigating social reality, but still care about other people's feelings, whereas sociopaths are unable to _sympathise_, but don't have problems modelling other minds.
+
+[[2]](#ftnt_ref2) Every time I googled someone who I think fits this mould (Mozart, Aphex Twin, Stanley Kubrick, Ingmar Bergman), the Internet said they were on the spectrum. I don't put much stock in this kind of 'diagnosis' but it sure is suggestive.
+
+[[3]](#ftnt_ref3) Another eleventh-hour addition to my reading list is [Robin Hanson's glowing endorsement](https://www.overcomingbias.com/p/hail-cecilia-heyes) of Cecilia Heyes' _Cognitive Gadgets: The Cultural Evolution of Thinking_, which seems to argue that causal reasoning can arise from associative learning in combination with sociality.
+
+[[4]](#ftnt_ref4)  In my experience the problem of induction is hard to fully internalise. [Deutsch's book](https://www.amazon.com.au/Beginning-Infinity-Explanations-Transform-World/dp/0143121359) gives the beginner-friendly version. For a shorter, more technical explanation, machine learning PhD Vaden Masrani asks ["did Popper disprove machine learning, or does machine learning disprove Popper?"](https://vmasrani.github.io/blog/2021/problem-of-induction/)
+
+[[5]](#ftnt_ref5)  We might reconcile universality and the IQ literature in a similar way. I have some ideas about how to do this but it probably deserves a separate post.

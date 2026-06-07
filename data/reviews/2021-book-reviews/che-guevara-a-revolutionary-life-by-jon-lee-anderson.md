@@ -17,7 +17,7 @@ tags:
   - Memoir
 ---
 
-The book makes one think about the role of personalities in history: Cuba became communist just because of the Argentine Che Guevara. He planted the idea of communism in the mind of Fidel Castro. Fidel wasn’t a communist in the beginning. Fidel was an ambitious, Che an idealist. Fidel wanted power, Che wanted a better world. Fidel had bourgeois leanings: he liked comfort, good food and beautiful women. Che pushed correctness and self-denial close to asceticism.  And still, Che, _le chevalier sans peur et sans reproche_[[11]](#ftnt11) of communism, had a far bigger negative impact. Without Che, Fidel would have been just an ordinary Latin American dictator.
+The book makes one think about the role of personalities in history: Cuba became communist just because of the Argentine Che Guevara. He planted the idea of communism in the mind of Fidel Castro. Fidel wasn’t a communist in the beginning. Fidel was an ambitious, Che an idealist. Fidel wanted power, Che wanted a better world. Fidel had bourgeois leanings: he liked comfort, good food and beautiful women. Che pushed correctness and self-denial close to asceticism.  And still, Che, _le chevalier sans peur et sans reproche_[[1]](#ftnt1) of communism, had a far bigger negative impact. Without Che, Fidel would have been just an ordinary Latin American dictator.
 
 * * *
 Don’t think that this book only shows Che Guevara’s qualities, although some people consider it a hagiography.  On the other hand, I’ve seen Marxist sites that consider Jon Lee Anderson as a detractor who tainted Che Guevara’s memory. Because Anderson tries to be objective: he also writes about the shootings ordered by Che Guevara and about his disastrous impact for the Cuban economy, as a Minister of Industry  (He was more communist than Moscow, he didn’t accept even the mild financial autonomy  of the companies  and financial rewards for workers allowed in other communist countries, he thought  that the economy could work only on moral motivations.) and about the toughness of this symbol of rebellion with his subordinates (for serious faults, he punished  his fighters with days without any food, and his subordinates at the Ministry, with months in the labor camp Guanahacabibes). Although the author lived for years in Cuba, when researching the book, the book is far from being pro-Cuban propaganda. I won’t be surprised to find that it’s banned in Cuba – actually, I would be surprised if it isn’t.
@@ -62,3 +62,5 @@ The book is well documented and rich in details, sometimes captivating like a go
 In conclusion, to paraphrase Steven Weinberg, for good people to do evil, that takes ideology. But, as someone quoted in the book said, I can’t help admiring him. In spite of everything.
 
 * * *
+
+[[1]](#ftnt_ref1) _le chevalier sans peur et sans reproche_   - the knight without fear or blame (French)

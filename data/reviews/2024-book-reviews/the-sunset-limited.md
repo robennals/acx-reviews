@@ -102,7 +102,7 @@ Most critics see McCarthy as a novelist who occasionally dabbled with writing a 
 
 Most authors tend to write in one of a few different points of view: first person, third-person limited, or third-person omniscient. McCarthy chose none of the above. His novels are written in something called the third-person dramatic, which can be imagined as if the narrator is sitting in an audience watching a play. The narrator has no knowledge of the characters’ internal thoughts, and only witnesses what they do or say as well as the setting around them.
 
-His novels often have long stretches of dialogue, often many pages or even an entire chapter of nothing but unbroken back-and-forth dialogue. One of his most famous novels, _No Country for Old Men_, began as a screenplay and remained a screenplay for his first four drafts until he eventually rewrote it as a novel. _Child of God_ started as a novel and remained a novel, but in the marginalia of his drafts, McCarthy wrote handwritten notes where he debated with himself on how to write a scene[[36]](#ftnt36). He eventually resolved his debate with the phrase “Hitchcock would just leave it.” In other words, he wrote his novels thinking about how a film director would write the scene.
+His novels often have long stretches of dialogue, often many pages or even an entire chapter of nothing but unbroken back-and-forth dialogue. One of his most famous novels, _No Country for Old Men_, began as a screenplay and remained a screenplay for his first four drafts until he eventually rewrote it as a novel. _Child of God_ started as a novel and remained a novel, but in the marginalia of his drafts, McCarthy wrote handwritten notes where he debated with himself on how to write a scene[[1]](#ftnt1). He eventually resolved his debate with the phrase “Hitchcock would just leave it.” In other words, he wrote his novels thinking about how a film director would write the scene.
 
 Most scripts aren’t very fun to read because they aren’t meant to be read, they’re meant to be watched during a performance. But _The Sunset Limited_ is fun to read but not as fun to watch. Tommy Lee Jones made an adaptation of it as a passion project with Samuel L. Jackson. They’re both great actors and they put as much effort into it as you’d expect from a personal passion project, but in the end, their film makes it clear that this script wasn’t meant to be performed. _The Sunset Limited: A Novel in Dramatic Form_ is undeniably a script, but is clearly meant to be read as novels are.
 
@@ -237,3 +237,5 @@ To students ardent for some positive impact
 The new Motto: _Aequum et beneficum est_
 
 _Potentias humanitatis conservare_?
+
+[[1]](#ftnt_ref1) You can see McCarthy’s drafts for yourself at the Wittliff Collection at Texas State University, or read a thorough investigation of them in [Books Are Made Out of Books](https://www.amazon.com/Books-Are-Made-Out-Influences/dp/1477313486).

@@ -119,3 +119,9 @@ Ever cautious, we stop and -
 Remain, and then - step outside.
 
 * * *
+
+[[1]](#ftnt_ref1) For example, regarding the first quote in Part 2, you learn from the footnotes that the two young wives had been married to two warrior brothers. They attempted to console their mother-in-law by wearing their husbands’ armor when they met her after their husbands’ deaths.
+
+[[2]](#ftnt_ref2) According to the footnote to this reference, Genmyo was a Chinese priest who “confined himself for fifteen years in a cave, which he named Death Gate.”
+
+[[3]](#ftnt_ref3) You would do well to note, however, that even in the original Japanese haiku did not always follow the standard five-seven-five structure. Irregular forms used by Basho himself include seven-seven-five and seven-eight-five.

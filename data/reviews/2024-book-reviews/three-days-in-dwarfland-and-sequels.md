@@ -20,7 +20,7 @@ In Soviet Russia, math is looking forward to you!
 
 *
 
-Vladimir Arthurovich Manasevich was born in 1904 in Baku, the capital of Azerbaijan, as a son of a millionaire and hereditary honorary citizen[[52]](#ftnt52), Arthur Borisovich Manasevich. In 1906 the Manasevich family moved to Moscow. The whole family was musically gifted; Vladimir recalls that at their home, someone was playing an instrument or singing almost all the time. Vladimir received music lessons, and planned to become a composer. He also studied French[[53]](#ftnt53), and physics.
+Vladimir Arthurovich Manasevich was born in 1904 in Baku, the capital of Azerbaijan, as a son of a millionaire and hereditary honorary citizen[[1]](#ftnt1), Arthur Borisovich Manasevich. In 1906 the Manasevich family moved to Moscow. The whole family was musically gifted; Vladimir recalls that at their home, someone was playing an instrument or singing almost all the time. Vladimir received music lessons, and planned to become a composer. He also studied French[[2]](#ftnt2), and physics.
 
 Then came the October Revolution. Everyone was required to find a worker’s job; even Vladimir needed to get a job first, so that he would be allowed to study at a university later. His father became a salesman in a cooperative store, and his mother worked in a nursery. Vladimir tried many things; he cooked soap, made combs, filled cartridges at a tobacco factory, and worked as a folder in a printing house. During that time, he also studied sculptures and painting, and at the age of sixteen he became a studio member of the Moscow Chamber Theater.
 
@@ -28,7 +28,7 @@ As an eighteen year old, Vladimir legally changed his surname to Levshin, and sw
 
 But even as a respected professor and scientist, Levshin continued doing art in his free time. He wrote one-act plays for pop artists and funny skits for circus clowns. In 1953 he wrote a fairy tale for children, “The Adventures of the Braggart Cat”. Then, as his wife describes it:
 
-> He once wrote a children's fairy tale about the Braggart Cat. The story was heard on the radio. Then they recorded it on a record. And then Vladimir Arturovich met the writer Lvovsky[[54]](#ftnt54) who told him: “You are a mathematician. You write for children. Why don’t you write to children about mathematics?”
+> He once wrote a children's fairy tale about the Braggart Cat. The story was heard on the radio. Then they recorded it on a record. And then Vladimir Arturovich met the writer Lvovsky[[3]](#ftnt3) who told him: “You are a mathematician. You write for children. Why don’t you write to children about mathematics?”
 
 Following the advice, in 1962, Levshin wrote his first book for children about mathematics: “Three Days in Dwarfland”. The book was reprinted several times, and a radio play was based on it. It was followed by two sequels, another trilogy, and a few more books.
 
@@ -38,7 +38,7 @@ Many of the books were co-authored by his wife, Emilia Borisovna Alexandrova. Sh
 >
 > But the rub is that it is sometimes difficult for an expert to imagine the train of thought of a non-expert. He does not always foresee what exactly can baffle the know-nothing. And when you write for children, it is necessary to anticipate this.
 
-Vladimir Arthurovich Levshin died in 1984 in Moscow. Emilia Borisovna Alexandrova survived him by ten years and died in 1994.[[55]](#ftnt55)
+Vladimir Arthurovich Levshin died in 1984 in Moscow. Emilia Borisovna Alexandrova survived him by ten years and died in 1994.[[4]](#ftnt4)
 
 *
 
@@ -52,7 +52,7 @@ Technically, there actually was a section on mathematics already in the Braggart
 >
 > 🐰 And you do know how to divide?
 >
-> 😼 I know everything. I have passed seven classes, didn’t miss a single one.[[56]](#ftnt56)
+> 😼 I know everything. I have passed seven classes, didn’t miss a single one.[[5]](#ftnt5)
 >
 > 🐰 Help us! It does not work.
 >
@@ -90,7 +90,7 @@ The children find themselves in a land of anthropomorphic digits (and other bein
 
 Mathematical explanations are mixed with silly stories, creating a unique experience. We meet colorful characters, such as little Zero, a mischievous boy who often gets in trouble, but is enthusiastic about learning (and in later books becomes one of the protagonists); his mother, a fat Eight; a young teacher Four with a ribbon in her hair; a sea captain One; etc.
 
-This book is _not_ a textbook; the author is not trying to teach us math systematically the way they do it at school. He just keeps mentioning interesting things related to math, and places them into the context of a story (which is mostly just: kids walking around, being curious). Sometimes he actually explains, e.g. that exponentiation means repeatedly multiplying the number by itself, and calculating a root is the opposite of that. Sometimes he just hints at more complex topics, e.g. that if we keep dividing something by smaller and smaller numbers, the results get bigger and bigger, and therefore a division by zero would give us infinity (but this is described as a dangerous thing that the citizens of Dwarfland usually try to avoid). Sometimes he paints a vivid visualization, e.g. a division of fractions is illustrated by acrobats jumping on a trapeze (the trapeze representing the fraction line). And sometimes he just says something silly, e.g. the origins of arithmetic are “explained” by prehistoric people needing to put the meat in a warehouse after the hunt.[[57]](#ftnt57)
+This book is _not_ a textbook; the author is not trying to teach us math systematically the way they do it at school. He just keeps mentioning interesting things related to math, and places them into the context of a story (which is mostly just: kids walking around, being curious). Sometimes he actually explains, e.g. that exponentiation means repeatedly multiplying the number by itself, and calculating a root is the opposite of that. Sometimes he just hints at more complex topics, e.g. that if we keep dividing something by smaller and smaller numbers, the results get bigger and bigger, and therefore a division by zero would give us infinity (but this is described as a dangerous thing that the citizens of Dwarfland usually try to avoid). Sometimes he paints a vivid visualization, e.g. a division of fractions is illustrated by acrobats jumping on a trapeze (the trapeze representing the fraction line). And sometimes he just says something silly, e.g. the origins of arithmetic are “explained” by prehistoric people needing to put the meat in a warehouse after the hunt.[[6]](#ftnt6)
 
 Sometimes the reader is invited to solve a problem along:
 
@@ -134,13 +134,13 @@ Topics mentioned in the book:
 *   divisibility rules
 *   prime numbers
 *   perfect numbers, amicable numbers
-*   Roman numerals, hieroglyphs, Cyrillic numerals[[58]](#ftnt58), Babylonian cuneiform numerals
+*   Roman numerals, hieroglyphs, Cyrillic numerals[[7]](#ftnt7), Babylonian cuneiform numerals
 *   comparing fractions
 *   division by zero
 *   dividing fractions
 *   positive and negative powers of 10
 *   repeating decimals
-*   famous historical mathematicians[[59]](#ftnt59)
+*   famous historical mathematicians[[8]](#ftnt8)
 *   usefulness of math at discovering planets, etc.
 
 Target audience… I would guess, children between 8 and 12 years old? Not sure.
@@ -157,14 +157,14 @@ The magical pod reveals a long secret underground passage leading somewhere out 
 
 While this book is similar in style to the previous one, there are also some noticeable differences. In the first book, the common theme was “arithmetic” (addition, subtraction, multiplication, and division), in the second one it is “algebra” (using letters in place of some numbers). In the first book, things were either explained or demonstrated by analogies. In the second book, there are also enthusiastic proposals made by little Zero… some of which turn out to be good ideas, while others turn out to be wrong.
 
-Towards the end of the book, the children master the techniques of _al-gebr_ and _al-muqabala_[[60]](#ftnt60) and rescue the cursed stranger.
+Towards the end of the book, the children master the techniques of _al-gebr_ and _al-muqabala_[[9]](#ftnt9) and rescue the cursed stranger.
 
 Topics mentioned in the book:
 
 *   substitution cipher
 *   arithmetic and geometric means
 *   number line, arithmetic operations using negative numbers
-*   Latin[[61]](#ftnt61) and Greek letters
+*   Latin[[10]](#ftnt10) and Greek letters
 *   decimal numbers, irrational numbers, complex numbers
 *   zero power, zero to the power of zero, half power, negative power
 *   using letters to represent numbers
@@ -230,7 +230,7 @@ Trying to find the right words that would explain my fascination with Levshin’
 
 > “If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
 
-I believe this is exactly what Levshin has achieved with his Dwarfland trilogy.[[62]](#ftnt62) Although the books may teach you a few new math concepts, the most important part is their “hidden curriculum” which says: math is a vast and exciting place full of interesting things to discover.
+I believe this is exactly what Levshin has achieved with his Dwarfland trilogy.[[11]](#ftnt11) Although the books may teach you a few new math concepts, the most important part is their “hidden curriculum” which says: math is a vast and exciting place full of interesting things to discover.
 
 *
 
@@ -238,3 +238,25 @@ For those who speak Russian, here is some audio on YouTube:
 
 *   [Braggart Cat](https://www.youtube.com/watch?v=VB4_XmNcaTI)
 *   The Adventures of little Zero: [Part 1](https://www.youtube.com/watch?v=2_TTIgG-Ffc); [Part 2](https://www.youtube.com/watch?v=mhj_nZQSViM); [Part 3](https://www.youtube.com/watch?v=3L1OMnb6u_Y)
+
+[[1]](#ftnt_ref1) a title in Russian Empire, a layer between the nobility and merchants, less than 1% of the population
+
+[[2]](#ftnt_ref2) taught by a niece of the poet Alexander Pushkin
+
+[[3]](#ftnt_ref3) as of now, Mikhail Lvovsky does not have a page on English Wikipedia, but he wrote scripts for several films that do: “[I Loved You](https://en.wikipedia.org/wiki/I_Loved_You_(film))”, “[Point, Point, Comma…](https://en.wikipedia.org/wiki/Point,_Point,_Comma...)”, “[I Ask to Accuse Klava K. of My Death](https://en.wikipedia.org/wiki/I_Ask_to_Accuse_Klava_K._of_My_Death)”, “[The Luncheon on the Grass](https://en.wikipedia.org/wiki/The_Luncheon_on_the_Grass_(film))”
+
+[[4]](#ftnt_ref4) There is also a tangential story I found, which seemed too cool not to mention: In 1971, Levshin published an article about Mikhail Bulgakov, author of the famous novel “The Master and Margarita”, describing that they were neighbors and friends despite the age difference of 13 years, and providing some insight into Bulgakov’s writing. For some reason, this article caused a big outrage in the Bulgakov fans community. Bulgakov’s ex wife called Levshin a liar and retaliated by doxxing him. (She publicly revealed that Levshin’s original surname was Manasevich. I have no idea what negative consequences, if any, this had for him.) This is a reminder that art is a cutthroat business.
+
+[[5]](#ftnt_ref5) as explained previously, the cat literally walked through a school and passed seven classrooms
+
+[[6]](#ftnt_ref6) this is a pun in Russian: “[складывать](https://en.wiktionary.org/wiki/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D1%8C)” = “to sum up”, but also “to put in a warehouse”
+
+[[7]](#ftnt_ref7) At school they taught me that Constantine the Philosopher (a.k.a. Cyril) and his brother Methodius invented a new alphabet for Slavs, but they didn’t mention that they also invented new numerals. Unlike the alphabet, which is still used by some nations thousand years later, the numerals were later replaced by the Arabic numerals.
+
+[[8]](#ftnt_ref8) The protagonists also meet Pierre de Fermat in his afterlife in Dwarfland, but he refuses to tell them the proof of his theorem, claiming that they are not ready yet. “After all, before listening to the proof, you need to get acquainted with the theorem itself! I'm only afraid that this is somewhat premature.”
+
+[[9]](#ftnt_ref9) based on Al-Khwarizmi’s _[The Compendious Book on Calculation by Completion and Balancing](https://en.wikipedia.org/wiki/Al-Jabr)_
+
+[[10]](#ftnt_ref10) the book was written for an audience using Cyrillic, so the Latin letters are a new thing for them
+
+[[11]](#ftnt_ref11) he even used the metaphor of the sea in the third book
