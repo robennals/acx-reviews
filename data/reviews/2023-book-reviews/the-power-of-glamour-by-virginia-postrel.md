@@ -11,6 +11,7 @@ wordCount: 3641
 readingTimeMinutes: 17
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc
+disableFootnotes: true
 tags:
   - Psychology
   - History

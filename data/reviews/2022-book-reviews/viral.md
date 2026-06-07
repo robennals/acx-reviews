@@ -70,7 +70,7 @@ These are only a few of many examples. According to the US Federal Select Agent 
 
 ## 3\. The outbreak location in Wuhan appears to be relevant
 
-There’s a famous [psychology experiment](https://psycnet.apa.org/record/1969-03938-001) [1] in which participants were told to wait in a room, and their reactions were recorded as the room gradually filled with smoke. In some cases, participants waited alone, while in other cases they waited with a group of people who, unbeknownst to the participant, were actors who had been instructed to ignore the smoke. Of the participants who waited alone, 75% reported the smoke. However, of the participants who waited with the group, _only 10% reported the smoke._
+There’s a famous [psychology experiment](https://psycnet.apa.org/record/1969-03938-001) [^1] in which participants were told to wait in a room, and their reactions were recorded as the room gradually filled with smoke. In some cases, participants waited alone, while in other cases they waited with a group of people who, unbeknownst to the participant, were actors who had been instructed to ignore the smoke. Of the participants who waited alone, 75% reported the smoke. However, of the participants who waited with the group, _only 10% reported the smoke._
 
 ![](https://substackcdn.com/image/fetch/$s_!mhjk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8199936-a484-4951-b90e-8ea42a0a4ebc_1600x758.jpeg)
 
@@ -116,13 +116,13 @@ The DRASTIC researchers discovered that RaTG13 was genetically identical to the 
 
 Although unhelpful throughout the investigation, the WIV eventually verified these facts when pressed on them, and an [addendum](https://www.nature.com/articles/s41586-020-2951-z) was added to the original paper confirming DRASTIC’s account of the origin of RaTG13. 
 
-So what should we make of this? Well, as I mentioned before, RaTG13 is no longer the closest known genetic match to SARS-CoV-2, so maybe the whole story is less important as it pertains to the origin of the pandemic. But the discovery of BANAL-52 doesn’t really resolve things either [2]. Laos is very far away from Wuhan (actually even further than Yunnan), so we’re left with the same question as before – how did SARS-CoV-2 make it all the way to Wuhan from such a distant natural reservoir without leaving a trail along the way?
+So what should we make of this? Well, as I mentioned before, RaTG13 is no longer the closest known genetic match to SARS-CoV-2, so maybe the whole story is less important as it pertains to the origin of the pandemic. But the discovery of BANAL-52 doesn’t really resolve things either [^2]. Laos is very far away from Wuhan (actually even further than Yunnan), so we’re left with the same question as before – how did SARS-CoV-2 make it all the way to Wuhan from such a distant natural reservoir without leaving a trail along the way?
 
 ## 5\. Lack of institutional transparency and competence
 
 A lot of the book is devoted to criticizing the Chinese government’s lack of transparency during the pandemic. Some brief examples:
 
-*   In the early days of the initial outbreak in Wuhan, hundreds of people were investigated and punished for the crime of “spreading rumors”. This included whistleblowing doctors who attempted to warn others [3] about the spread of the disease and its human-to-human transmission, which was being denied by the Chinese government at the time.
+*   In the early days of the initial outbreak in Wuhan, hundreds of people were investigated and punished for the crime of “spreading rumors”. This included whistleblowing doctors who attempted to warn others [^3] about the spread of the disease and its human-to-human transmission, which was being denied by the Chinese government at the time.
 
 
 *   Access to the Mojiang mine (the source of the RaTG13 virus discussed in the previous section) was blocked off, and journalists attempting to visit it were harassed and detained by police.
@@ -131,7 +131,7 @@ A lot of the book is devoted to criticizing the Chinese government’s lack of t
 *   According to Chinese government directives, all academic research papers written by Chinese scientists are now required to go through a process of government review before being submitted for journal publication.
 
 
-*   The WHO conducted an investigation that was apparently a sham. The investigation was composed of supervised, tightly-controlled visits to various sites in Wuhan, including a museum dedicated to China’s “heroic efforts to defeat the pandemic” – but the team was denied access to raw data from the early stages of the pandemic. At the end, they confidently concluded that a lab origin of SARS-CoV-2 was “extremely unlikely”, despite not having done any serious investigation into it. [4]
+*   The WHO conducted an investigation that was apparently a sham. The investigation was composed of supervised, tightly-controlled visits to various sites in Wuhan, including a museum dedicated to China’s “heroic efforts to defeat the pandemic” – but the team was denied access to raw data from the early stages of the pandemic. At the end, they confidently concluded that a lab origin of SARS-CoV-2 was “extremely unlikely”, despite not having done any serious investigation into it. [^4]
 
 
 *   Virus sample sequences from early COVID patients in China were originally uploaded to an online database, but later removed in an apparent attempt at obfuscation. [However, evolutionary biologist Jesse Bloom came up with a clever way to recover this data.](https://www.science.org/content/article/claim-chinese-team-hid-early-sars-cov-2-sequences-stymie-origin-hunt-sparks-furor)
@@ -144,11 +144,11 @@ At this point, we need to be cautious and police our emotions so that we don’t
 
 It’s possible that the Chinese government was trying to cover up a lab leak, but it’s also possible that this was just regular authoritarian government behavior. Interestingly, Chan and Ridley describe similar attempts at obfuscation during the original SARS epidemic in 2003 (which had a natural origin), in which the Chinese government hid infected patients so that they wouldn’t be discovered by international health authorities. So I don’t think these attempts at obfuscation should necessarily be taken as evidence for a lab origin.
 
-The book also criticizes a US-based research organization called the EcoHealth Alliance, and its president Peter Daszak. [5] The basic claim here, which I think has some merit, is that there was an attempt to artificially construct a scientific consensus from the top down, early on in the pandemic, even though such a consensus wasn’t (and isn’t) warranted by the evidence. This artificial scientific consensus was then picked up by tech companies, who used it to label discussion of the lab leak hypothesis as “misinformation”, as well as by media sources and fact checkers. I don’t want to get bogged down in all the convoluted details here, so I refer you to the book if you want to learn about it. It’s worth noting though that some of the scientists who publicly labeled the lab leak hypothesis as a “conspiracy theory” [apparently considered it to be plausible in their private communications,](https://twitter.com/Ayjchan/status/1511380491005415424) which were obtained through FOIA requests. 
+The book also criticizes a US-based research organization called the EcoHealth Alliance, and its president Peter Daszak. [^5] The basic claim here, which I think has some merit, is that there was an attempt to artificially construct a scientific consensus from the top down, early on in the pandemic, even though such a consensus wasn’t (and isn’t) warranted by the evidence. This artificial scientific consensus was then picked up by tech companies, who used it to label discussion of the lab leak hypothesis as “misinformation”, as well as by media sources and fact checkers. I don’t want to get bogged down in all the convoluted details here, so I refer you to the book if you want to learn about it. It’s worth noting though that some of the scientists who publicly labeled the lab leak hypothesis as a “conspiracy theory” [apparently considered it to be plausible in their private communications,](https://twitter.com/Ayjchan/status/1511380491005415424) which were obtained through FOIA requests. 
 
 Whatever we think of the whole Daszak / EcoHealth Alliance story, it’s pretty clear that at the start of the pandemic many respected institutions – scientific journals, tech companies, media networks, the WHO – expressed a level of confidence in the natural origins hypothesis that was not warranted by the evidence. How should we update our opinions based on this overconfidence? Does it tell us anything about the origins of the virus?
 
-Let’s say that your friend claims he can magically predict the result of a fair coin flip (only once). “There’s a 100% chance it’ll come up heads,” he says. If you’re gullible, you’ll update your belief in favor of heads. If you’re feeling annoyed at your friend, you might update in favor of tails out of spite [6]. Both of these would be wrong. The correct answer would be to not update at all on the object-level question of the coin flip (still 50-50), and to update negatively on the separate question of how trustworthy your friend’s predictions are. And remember, even if the coin _does_ come up heads, you should still update negatively on your friend’s trustworthiness – he was still overconfident even though he happened to get it right by chance.
+Let’s say that your friend claims he can magically predict the result of a fair coin flip (only once). “There’s a 100% chance it’ll come up heads,” he says. If you’re gullible, you’ll update your belief in favor of heads. If you’re feeling annoyed at your friend, you might update in favor of tails out of spite [^6]. Both of these would be wrong. The correct answer would be to not update at all on the object-level question of the coin flip (still 50-50), and to update negatively on the separate question of how trustworthy your friend’s predictions are. And remember, even if the coin _does_ come up heads, you should still update negatively on your friend’s trustworthiness – he was still overconfident even though he happened to get it right by chance.
 
 This is basically how I think we should handle this unwarranted overconfidence from respected institutions – it should decrease our trust in these institutions, but we need to be careful not to start favoring the lab leak hypothesis out of spite. In my opinion this loss of trust should not really affect our view of the object-level question of the virus’s origin at all (although it would be nice to see some of the data being hidden, like that WIV database that was taken offline).
 
@@ -176,7 +176,7 @@ Some of these bits are either false, misleading, or meaningless. For example, Ch
 
 This is a sad story about a scientist who tried to do the right thing, but ended up intellectually corrupted by forces beyond her control. It’s also a reminder of how much noise and false information is out there.
 
-It’s easy to dismiss the ridiculous claim that COVID began as a bioweapon, but other claims are more difficult to evaluate. For example, according to a US intelligence report, [three researchers at the WIV became so severely ill in November 2019 that they required hospitalization.](https://www.wsj.com/articles/intelligence-on-sick-staff-at-wuhan-lab-fuels-debate-on-covid-19-origin-11621796228?mod=e2tw) It was reported that they had symptoms consistent with both COVID-19 and regular seasonal illness. What should we make of this claim [7]? 
+It’s easy to dismiss the ridiculous claim that COVID began as a bioweapon, but other claims are more difficult to evaluate. For example, according to a US intelligence report, [three researchers at the WIV became so severely ill in November 2019 that they required hospitalization.](https://www.wsj.com/articles/intelligence-on-sick-staff-at-wuhan-lab-fuels-debate-on-covid-19-origin-11621796228?mod=e2tw) It was reported that they had symptoms consistent with both COVID-19 and regular seasonal illness. What should we make of this claim [^7]? 
 
 ## Conclusion 1: I have no idea whether the virus came from a lab or from nature
 
@@ -272,16 +272,16 @@ What’s even cooler is that much of this reevaluation was the result of amateur
 
 ## Footnotes
 
- **[1]** Latané and Darley (1968). I couldn’t find any positive or negative replications of this exact experiment, but the general conclusion, called the Bystander Effect, has been extensively replicated.
+[^1]: Latané and Darley (1968). I couldn’t find any positive or negative replications of this exact experiment, but the general conclusion, called the Bystander Effect, has been extensively replicated.
 
-**[2]** It’s hard to tell because this [article was originally in French](https://www.francetvinfo.fr/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html), but after [putting it through Google Translate](https://www-francetvinfo-fr.translate.goog/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=wapp), it sounds like the head of the research team who discovered BANAL-52, Marc Eloit, still considered the lab origin scenario to be plausible as of January 2022.
+[^2]: It’s hard to tell because this [article was originally in French](https://www.francetvinfo.fr/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html), but after [putting it through Google Translate](https://www-francetvinfo-fr.translate.goog/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=wapp), it sounds like the head of the research team who discovered BANAL-52, Marc Eloit, still considered the lab origin scenario to be plausible as of January 2022.
 
-**[3]**  In a reminder of the Orwellian nature of the Chinese government, one of these doctors was even made to sign a confession letter admitting to this “crime”.
+[^3]: In a reminder of the Orwellian nature of the Chinese government, one of these doctors was even made to sign a confession letter admitting to this “crime”.
 
-**[4]**  This report was widely criticized, with the governments of the US, Canada, Australia, Japan, South Korea, the UK, and others expressing “shared concerns” about the investigation. Even the head of the WHO, Dr. Tedros, suggested that a more thorough follow-up investigation might be required.
+[^4]: This report was widely criticized, with the governments of the US, Canada, Australia, Japan, South Korea, the UK, and others expressing “shared concerns” about the investigation. Even the head of the WHO, Dr. Tedros, suggested that a more thorough follow-up investigation might be required.
 
-**[5]**  For what it’s worth, I don’t agree with making this thing into a personal crusade against Daszak and the EcoHealth Alliance, like some people are trying to do.
+[^5]: For what it’s worth, I don’t agree with making this thing into a personal crusade against Daszak and the EcoHealth Alliance, like some people are trying to do.
 
-**[6]**  This is actually what I’m more worried about with the ACX community – most of us aren’t going to be gullible when it comes to believing a popular, mainstream narrative, but we might be prone to knee-jerk contrarian reactions to these narratives.
+[^6]: This is actually what I’m more worried about with the ACX community – most of us aren’t going to be gullible when it comes to believing a popular, mainstream narrative, but we might be prone to knee-jerk contrarian reactions to these narratives.
 
-**[7]** I don’t know.
+[^7]: I don’t know.

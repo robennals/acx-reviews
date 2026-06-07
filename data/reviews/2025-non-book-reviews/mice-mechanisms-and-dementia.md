@@ -132,7 +132,7 @@ What would we need to see to be convinced? Let's apply some key principles of ex
 
 **Temporality**: If amyloid beta (Aβ) drives pathology, plaques should appear first, followed by neurodegeneration, then cognitive deficits.
 
-**Sufficiency [**2**]:** If Alzheimer’s-like pathology can result from ramping up human APP expression alone, then the PDAPP mouse is a quasi-test of sufficiency. If this mouse model develops plaques, tangles, synaptic loss, neurodegeneration, and cognitive impairment, then Aβ might be sufficient to initiate the disease process.
+**Sufficiency**[^2]**:** If Alzheimer’s-like pathology can result from ramping up human APP expression alone, then the PDAPP mouse is a quasi-test of sufficiency. If this mouse model develops plaques, tangles, synaptic loss, neurodegeneration, and cognitive impairment, then Aβ might be sufficient to initiate the disease process.
 
 **Necessity**: An even stronger case for the amyloid cascade hypothesis requires showing that Alzheimer’s pathology can’t develop or progress if Aβ is absent or blocked.
 
@@ -370,7 +370,7 @@ At some point, science’s self-correcting machinery—and the brilliance and cu
 
 ### Endnotes:
 
-[1] I keep name-dropping journals (almost always _Nature_ and _Science_) and realize that this means little to most people. Nevertheless, having a passing understanding of the tiers of academic publishing is part of scientific literacy.
+[^1]: I keep name-dropping journals (almost always _Nature_ and _Science_) and realize that this means little to most people. Nevertheless, having a passing understanding of the tiers of academic publishing is part of scientific literacy.
 
 If you've ever wondered why scientists scramble to publish in _Nature_, _Science_, or _Cell_, think of them as the holy trinity of scientific prestige, each with its own personality. _Nature_ and _Science_ were established in the late 1800s—_Nature_ published by the Brits and _Science_ by the American upstarts. _Cell_ is the newcomer; established in 1974 in Cambridge, Massachusetts.
 
@@ -380,7 +380,7 @@ One tier down, you'll find specialty journals like _Neuron_, _Nature Neuroscienc
 
 Meanwhile, in medicine, _The Lancet_ and _The New England Journal of Medicine_ (_NEJM_) tower over most others with impact factors of 98.4 and 96.2, respectively (generally, the higher the impact factor the greater the prestige). This reflects their enormous readership—there are far more medical doctors than PhDs. But at the top, it’s _CA: A Cancer Journal for Clinicians_, with a staggering 286.13 impact factor, a reminder of cancer’s toll and where our research priorities and funding are concentrated.
 
-[2] A brief note on terminology: I use the terms “necessity” and “sufficiency” here as they were traditionally understood by molecular biologists in the 1990s.
+[^2]: A brief note on terminology: I use the terms “necessity” and “sufficiency” here as they were traditionally understood by molecular biologists in the 1990s.
 
 Strictly speaking, the terms originate in formal logic and philosophy, where they have precise meanings related to logical entailment: if _P_ is sufficient for _Q_, then whenever _P_ is true, _Q_ must also be true; if _Q_ is necessary for _P_, then _P_ cannot be true unless _Q_ is also true. These relationships are logical, not causal.
 

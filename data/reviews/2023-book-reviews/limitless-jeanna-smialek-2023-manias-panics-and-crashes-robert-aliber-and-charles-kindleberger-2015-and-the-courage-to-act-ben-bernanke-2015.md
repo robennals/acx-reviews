@@ -34,13 +34,13 @@ Bernanke saved the economy in 2008 and 2009, using trillions of dollars of the F
 
 Charles Kindleberger, an economic historian and original author of _Manias, Panics and Crashes_, gave away the central banker game 45 years ago.
 
-“Always come to the rescue” in a financial meltdown, he wrote in the book’s first edition. “But always leave it uncertain whether the rescue will arrive on time or at all.” “A neat trick,” he called it.1
+“Always come to the rescue” in a financial meltdown, he wrote in the book’s first edition. “But always leave it uncertain whether the rescue will arrive on time or at all.” “A neat trick,” he called it.[^1]
 
 The uncertainty is over. More-recent editions of the book say, “_eventually_ always come to the rescue.” But the jig is up.
 
 _Limitless_ is the right name for a book about people who create trillions of dollars in electronic credits (“money”) with a few keystrokes. Read together with _Manias_ and _The Courage to Act,_ Bernanke’s 2015 memoir of the subprime mortgage circus, _Limitless_ gives a clear view of the Fed’s growing power and a good idea of what to expect in the next crisis, in scale if not in detail.
 
-“Central banking is one big experiment, and people who claim to have it all figured out are oversimplifying,” Smialek writes. Her well-supported and slightly foreboding thesis: “Fed officials are ordinary people who control increasingly potent tools.”2
+“Central banking is one big experiment, and people who claim to have it all figured out are oversimplifying,” Smialek writes. Her well-supported and slightly foreboding thesis: “Fed officials are ordinary people who control increasingly potent tools.”[^2]
 
 The takeaway, of course, is that by building a floor under the markets the Fed has traded the risk of deflationary depression for the increasing likelihood of long-term inflation, of which we’re already getting a taste.
 
@@ -56,11 +56,11 @@ But inside the Federal Reserve Act, as amended in the worst year of the Depressi
 
 In 2008, during the subprime mortgage meltdown, the Fed invoked 13(3) for the first time since the Depression. By accepting “private-label” mortgage securities as collateral, not just Fannie Mae and Freddie Mac packages, it was backstopping investments not guaranteed by the US government.
 
-“We’re crossing certain lines,” Bernanke wrote to colleagues. “We’re doing things we haven’t done before.” They announced the move "in technical financial language" that didn't mention extraordinary levers untouched since the time of FDR, Bernanke writes. He says he didn't want to panic markets.3
+“We’re crossing certain lines,” Bernanke wrote to colleagues. “We’re doing things we haven’t done before.” They announced the move "in technical financial language" that didn't mention extraordinary levers untouched since the time of FDR, Bernanke writes. He says he didn't want to panic markets.[^3]
 
 “Doing things we haven’t done before” is the Fed’s 21st century motto.
 
-Its 2008 13(3) loans saved Bear Stearns and AIG, both dying of mortgage poison. Neither was a chartered bank. The Fed bailed out AIG again under 13(3) by buying mortgage securities that AIG owned and debt obligations that AIG had insured.4
+Its 2008 13(3) loans saved Bear Stearns and AIG, both dying of mortgage poison. Neither was a chartered bank. The Fed bailed out AIG again under 13(3) by buying mortgage securities that AIG owned and debt obligations that AIG had insured.[^4]
 
 Then it crossed another line. Normally the Fed helps a tepid economy by lowering short-term interest rates. But in late 2008 rates were already zero. Financial pundits had warned about this. The Fed had finally “run out of ammunition.” The economy was still collapsing.
 
@@ -74,7 +74,7 @@ New initiatives included purchases of corporate and municipal bonds and lending 
 
 There was more. Amazingly, for an institution that had always cared about credit quality, the Fed started buying exchange-traded junk-bond funds, propping up corporate CEOs who had overborrowed to finance stock buybacks and their own pay packages.
 
-Part of the central-banker “leave it uncertain” schtick is to talk about interventions as being extraordinary and brief. When regulators started invoking 13(3) in 2008 they said the measures were “temporary and precautionary.”5 One of Powell’s jobs in 2022 was “reestablish the Fed’s boundaries,” Smialek writes.
+Part of the central-banker “leave it uncertain” schtick is to talk about interventions as being extraordinary and brief. When regulators started invoking 13(3) in 2008 they said the measures were “temporary and precautionary.”[^5] One of Powell’s jobs in 2022 was “reestablish the Fed’s boundaries,” Smialek writes.
 
 But one lesson from these books is that the boundaries are flexible but not especially elastic. Heterodoxy in one crisis is orthodoxy during the next. Measures like QE last longer and return sooner than you expect.
 
@@ -90,17 +90,17 @@ It took the FDIC just a day after SVB’s seizure to say it would protect “uni
 
 Letting Lehman Brothers fail in 2008 is widely viewed as a terrible mistake that should never be repeated.
 
-“Economic history would have been different if the US government had become the dominant shareholder in Lehman Brothers and had kept it open,” writes Robert Aliber, who took over updating _Manias_ after Kindleberger died in 2003.6
+“Economic history would have been different if the US government had become the dominant shareholder in Lehman Brothers and had kept it open,” writes Robert Aliber, who took over updating _Manias_ after Kindleberger died in 2003.[^6]
 
 Bailouts are increasingly seen as triggers for virtuous cycles rather than market distortions. The Fed can’t lend to anybody without good collateral. But regulators have learned that intervention can fluff up the collateral, giving them room to intervene again.
 
 The Fed’s initial $85 billion loan to AIG stabilized markets and supported the price of iffy AIG assets. That paved the way for more financing including $40 billion in AIG preferred stock bought by Treasury.
 
-“There was some circularity here,” Bernanke says coyly.7
+“There was some circularity here,” Bernanke says coyly.[^7]
 
 A frozen Congress is another reason for the Fed to flex. Bernanke and Powell dispatched hundreds of billions of dollars in almost an instant while the legislature can’t even pass a budget.
 
-The Fed’s tools announced in March 2020 included something called the Main Street Business Lending Program. What was it? How would it work? Nobody knew. But Congress had failed to provide a hoped-for plan to aid middle-sized and small businesses. So the Fed “simply announced that a rescue was coming,” Smialek writes.8
+The Fed’s tools announced in March 2020 included something called the Main Street Business Lending Program. What was it? How would it work? Nobody knew. But Congress had failed to provide a hoped-for plan to aid middle-sized and small businesses. So the Fed “simply announced that a rescue was coming,” Smialek writes.[^8]
 
 The Fed now owns some $2.3 trillion in US Treasury debt, helping to finance perennial budget deficits that Congress has done little to address. This will continue.
 
@@ -112,52 +112,32 @@ Don’t be surprised if someday the Fed buys _stock_ ETFs in a meltdown. The Ban
 
 Fed officials will tell you that the law, the duty to protect taxpayers and the danger of promoting moral hazard all limit what they can do.
 
-"Laws can be stretched," Smialek writes. “Often when the Fed says it cannot do something, what it really means is that it does not want to.”9 Until it does.
+"Laws can be stretched," Smialek writes. “Often when the Fed says it cannot do something, what it really means is that it does not want to.”[^9] Until it does.
 
 The Dodd-Frank Act of 2010 supposedly removes 13(3) authority for the Fed to rescue particular entities, giving authorities instead the ability to seize and liquidate failing firms in a kind of hothouse bankruptcy. But for broad interventions, the “unusual and exigent” 13(3) wildcard remains.
 
 During the crisis Barney Frank was the ranking Democrat on the House Financial Services Committee in 2008. That should have given him some vague idea of the Fed’s wherewithal.
 
-He asked where Bernanke was going to get $85 billion to lend to AIG. “Barney looked stunned,” Bernanke writes. “He didn’t see why the Fed should have that amount of money at its disposal.”10
+He asked where Bernanke was going to get $85 billion to lend to AIG. “Barney looked stunned,” Bernanke writes. “He didn’t see why the Fed should have that amount of money at its disposal.”[^10]
 
 Bernanke explained 13(3) to the congressman. The Fed is never out of ammunition.
 
-1
+[^1]: Robert Z. Aliber and Charles P. Kindleberger, _Manias, Panics and Crashes: A History of Financial Crises,_ p. 35.
 
-Robert Z. Aliber and Charles P. Kindleberger, _Manias, Panics and Crashes: A History of Financial Crises,_ p. 35.
+[^2]: Smialek, Jeanna, _Limitless: The Federal Reserve Takes on a New Age of Crisis,_ p. 10.
 
-2
+[^3]: Bernanke, _The Courage to Act: A Memoir of a Crisis and Its Aftermath_, pp. 208-209.
 
-Smialek, Jeanna, _Limitless: The Federal Reserve Takes on a New Age of Crisis,_ p. 10.
+[^4]: Bernanke, pp. 365-367.
 
-3
+[^5]: Bernanke, p. 234.
 
-Bernanke, _The Courage to Act: A Memoir of a Crisis and Its Aftermath_, pp. 208-209.
+[^6]: Aliber and Kindleberger, p. 325.
 
-4
+[^7]: Bernanke, p. 282.
 
-Bernanke, pp. 365-367.
+[^8]: Smialek, p. 187.
 
-5
+[^9]: Smialek, p. 209.
 
-Bernanke, p. 234.
-
-6
-
-Aliber and Kindleberger, p. 325.
-
-7
-
-Bernanke, p. 282.
-
-8
-
-Smialek, p. 187.
-
-9
-
-Smialek, p. 209.
-
-10
-
-Bernanke, p. 285.
+[^10]: Bernanke, p. 285.

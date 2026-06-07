@@ -7,6 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.712Z'
 slug: one-dimensional-man-by-herbert-marcuse
+disableFootnotes: true
 wordCount: 4482
 readingTimeMinutes: 20
 originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco

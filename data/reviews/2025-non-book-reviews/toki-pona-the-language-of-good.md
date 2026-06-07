@@ -30,7 +30,7 @@ jan Alise: Toki Pona is the _language of good_. It has 120 words.
 
 Scott: I'm good with languages, Alice, but even I can't describe drug reviews using 120 words.
 
-jan Alise: The Oxford English Dictionary lists about 170,000 words. Your typical blog post uses about 1200 of them [1]. That's less than 1%! Surely, this is no where near the lower limit. Surely, it is your skill in arranging the words that makes your texts great, not the size of your vocabulary.
+jan Alise: The Oxford English Dictionary lists about 170,000 words. Your typical blog post uses about 1200 of them [^1]. That's less than 1%! Surely, this is no where near the lower limit. Surely, it is your skill in arranging the words that makes your texts great, not the size of your vocabulary.
 
 Scott: Well... how would you explain drug reviews to me in 120 words?
 
@@ -118,7 +118,7 @@ jan Alise: _supa li pakala. IKE A!_
 
 Scott: Alice, you are cherry-picking! With 120 words, there are 14400 two-word combinations. Let's say one in a thousand are funny, that leaves you with just a dozen puns, barely enough for a single blog post. I'm telling you, this language is too limiting.
 
-jan Alise: Consider the bright side. You have seen 31/120 words by now. That's about 25% of the vocabulary. In relative terms, you know Toki Pona better than an educated English speaker knows English. [2]
+jan Alise: Consider the bright side. You have seen 31/120 words by now. That's about 25% of the vocabulary. In relative terms, you know Toki Pona better than an educated English speaker knows English. [^2]
 
 Scott: I hope you aren't going to shoehorn all 120 words into this everything-except-drug review! That would be depressing.
 
@@ -132,7 +132,7 @@ Scott: And that helps?
 
 jan Alise: For example, you could use _“toki insa”_, inside talk, to describe it. Maybe this makes you more receptive to the idea that thoughts are just talk, and could be true or false or in-between.
 
-Scott: I see... but if _“toki insa”_ is the compound expression for thought, you have merely substituted one expression for another. It will become automatic, and people will forget the original meaning. Just like nobody realizes that “happen” and “happy” are related [3].
+Scott: I see... but if _“toki insa”_ is the compound expression for thought, you have merely substituted one expression for another. It will become automatic, and people will forget the original meaning. Just like nobody realizes that “happen” and “happy” are related [^3].
 
 jan Alise: You are right. This is why the Toki Pona community tries to avoid fixed compound expressions – what we call lexicalization. How about _“pilin sona”_, the feeling of knowledge, for thought? That might be more fitting for the process of recalling a memory. Or _“pali lawa”_, work of the head, for concentrated thoughts. _“musi insa”_ is inside play. Wouldn't that describe creative thoughts? There are so many possibilities.
 
@@ -170,11 +170,11 @@ jan Alise. Yes. It is called Sitelen Pona, good writing. And there is an active 
 
 Scott: That might be coincidental. Although, maybe we should explore the use of Toki Pona for AI? As a reasoning language, it would produce a smaller vocabulary and probably better embeddings... but NO! Toki Pona could become a kind of Neuralese. We must avoid this at all costs!
 
-jan Alise: You seem to know a lot more about AI than I do. As someone who is not an expert, I just find it interesting that AIs recently started to understand and produce Toki Pona [4]. But making AI good might be out of reach even for Toki Pona.
+jan Alise: You seem to know a lot more about AI than I do. As someone who is not an expert, I just find it interesting that AIs recently started to understand and produce Toki Pona [^4]. But making AI good might be out of reach even for Toki Pona.
 
 Scott: There could be new insights about learning efficiency. We should explore Toki Pona tasks for LLM benchmarking. I'll set aside an ACX grant for this. Alice, your language might yet be of use. Imagine the interpretability research made possible when we search activation patterns for each of the 120 words! Imagine humanity's last unscraped secrets, kept in logographic writing on someone's paper notebook. This could be our last chance ... or ... actually ... Alice, have you ever heard of someone enumerating Toki Pona word combinations to find names of God?
 
-jan Alise: What a silly project [5]! You make no sense, Scott. Toki Pona is less serious than that. Take kijetesantakalu, for example.
+jan Alise: What a silly project [^5]! You make no sense, Scott. Toki Pona is less serious than that. Take kijetesantakalu, for example.
 
 Scott: ki-what? If that's a name of God, it must have been hard to find.
 
@@ -188,9 +188,9 @@ Scott: I’m not so sure ;-) Let’s meet again for another post to discuss this
 
 —
 
-**[1]** [Njal's Saga](https://www.astralcodexten.com/p/your-book-review-njals-saga) has 1200 unique words, give or take, depending on the amount of normalization: from "a" (used 116 times) to "your" (used 25 times).
+[^1]: [Njal's Saga](https://www.astralcodexten.com/p/your-book-review-njals-saga) has 1200 unique words, give or take, depending on the amount of normalization: from "a" (used 116 times) to "your" (used 25 times).
 
-**[2]** The words that jan Alice used, in order of appearance in the text:
+[^2]: The words that jan Alice used, in order of appearance in the text:
 
 _toki:_ to talk, to explain, communication, language
 
@@ -268,9 +268,9 @@ _lawa_: the head, to lead
 
 _musi_: play, art
 
-**[3]** Both “happen” and “happy” derive from medieval hap: chance, a person's luck, fortune, or fate.
+[^3]: Both “happen” and “happy” derive from medieval hap: chance, a person's luck, fortune, or fate.
 
-**[4]** For jan Alise’s n=1 experiment, she gave the same task to a number of LLMs, keeping the API calls as similar as possible. The prompt asked for a packing list for a two-day hike, in Markdown format with checkboxes:
+[^4]: For jan Alise’s n=1 experiment, she gave the same task to a number of LLMs, keeping the API calls as similar as possible. The prompt asked for a packing list for a two-day hike, in Markdown format with checkboxes:
 
 > Mi en jan pona li wile tawa nena. tenpo pimeja la, mi wile lape lon poka nena. tenpo suno kama la, mi wile tawa sewi nena.
 >
@@ -294,8 +294,8 @@ Claude 3.7 Sonnet (thinking): Understanding 2/2, writing 3/3 = 5/5
 
 Gemini 2.5 pro experimental: Understanding 2/2, writing 3/3 = 5/5
 
-**[5]** Toki Pona being a minimal language, it has fewer sounds than English. Toki Pona speakers replace complex sounds like “sc” or “x” with simpler alternatives. A name like Scott Alexander might become jan Sotalesante in Toki Pona [6].
+[^5]: Toki Pona being a minimal language, it has fewer sounds than English. Toki Pona speakers replace complex sounds like “sc” or “x” with simpler alternatives. A name like Scott Alexander might become jan Sotalesante in Toki Pona [6].
 
 Names of God would presumably include parts that are tokiponized, such as "sewi Jupite". Due to the limited size of the Toki Pona alphabet, this reduces the search space, but probably not as much as Scott has hoped. Toki Pona uses the letters a, e, i, j, k, l, m, n, o, p, s, t, u, and w. The phonotactic rules require that each syllable starts with one of these, contains a vowel, and may optionally end in -n. The syllables "wu", "wo", "ji", and "ti" are excluded for being hard to distinguish. So any tokiponized name of God would be formed of a combination of the 92 legal syllables.
 
-**[6]** This might solve an important problem, if someone could just pitch Toki Pona to the New York Times.
+[^6]: This might solve an important problem, if someone could just pitch Toki Pona to the New York Times.

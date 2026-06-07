@@ -22,7 +22,7 @@ tags:
 
 “_The Society of the Spectacle_ will make no sense if the reader feels there is nothing fundamentally wrong with contemporary society.” 
 
-Guy Debord was a Marxist theorist and founding member of the [Situationist International](https://en.wikipedia.org/wiki/Situationist_International), among other things.  Like all great thinkers worth their salt, he was an embittered alcoholic who [took his own life](https://www.theguardian.com/books/2001/jul/28/biography.artsandhumanities) in despair. [1] 
+Guy Debord was a Marxist theorist and founding member of the [Situationist International](https://en.wikipedia.org/wiki/Situationist_International), among other things.  Like all great thinkers worth their salt, he was an embittered alcoholic who [took his own life](https://www.theguardian.com/books/2001/jul/28/biography.artsandhumanities) in despair. [^1] 
 
 ![](https://substackcdn.com/image/fetch/$s_!blsA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F44d8e1b7-2f91-4af0-ae3e-21b7656109c1_454x383.png)
 
@@ -40,7 +40,7 @@ It might seem strange for Debord to declare capitalism victorious at the height 
 
 Unsurprisingly, capitalism is the best system for the accumulation of capital.  And despite their pretensions, communist societies had the same goals as every modern nation - wealth, prosperity, innovation, and growth.  
 
-In Debord’s reading of history, “_the bourgeoisie is the only revolutionary class that has ever won_; and it is also the only class for which the development of the economy was both the cause and the consequence of its taking control of society.”  The revolutions of the previous centuries were economic in nature, replacing kings with merchant princes.  As a result, all societies began to judge themselves in almost purely economic terms, regardless of their ideological leanings. [2]
+In Debord’s reading of history, “_the bourgeoisie is the only revolutionary class that has ever won_; and it is also the only class for which the development of the economy was both the cause and the consequence of its taking control of society.”  The revolutions of the previous centuries were economic in nature, replacing kings with merchant princes.  As a result, all societies began to judge themselves in almost purely economic terms, regardless of their ideological leanings. [^2]
 
 Media developed symbiotically with capitalism, and together these twin forces changed the world. Twentieth-century forms of media were one-way communications.  The owners of society were also the owners of the media, and the messaging reflected this power dynamic.  Long before the general public became disillusioned with the news, Debord was woke to the fact that ‘the free press’ was largely a myth.  He saw the shaping of the narrative firsthand, and well knew the ability of the media to amplify or ignore as convenient.
 
@@ -67,7 +67,7 @@ Whatever the reasoning, we now arrive at one definition of the spectacle: "The s
 
 Well, that’s about as clear as Flint water.  Here’s something meatier: "In all of its particular manifestations — news, propaganda, advertising, entertainment — the spectacle represents the dominant _model_ of life."  
 
-If you’re familiar with Girard, that is a huge statement. [3]  Girardian mimetic desire is triangular; there is you (the desirer), the object (of desire), and the model (another person who also desires the object).  Most of our desires are rooted in imitation.  Nobody has to tell you to want steak or sex, but almost everything else is learned.  How does everybody know that they should want a Rolex or a Rolls Royce?  There’s no genetic imperative for luxury goods.  You acquire those tastes from the people around you.
+If you’re familiar with Girard, that is a huge statement. [^3]  Girardian mimetic desire is triangular; there is you (the desirer), the object (of desire), and the model (another person who also desires the object).  Most of our desires are rooted in imitation.  Nobody has to tell you to want steak or sex, but almost everything else is learned.  How does everybody know that they should want a Rolex or a Rolls Royce?  There’s no genetic imperative for luxury goods.  You acquire those tastes from the people around you.
 
 Or you used to, at least.  Before the spectacle, your models, mentors, and rivals were real people you knew in real life.  Now we have an acronym for that - IRL - because reality is everywhere in retreat.
 
@@ -85,7 +85,7 @@ This is an issue of The Map and The Territory.  Pre-modern Maps were narrow but
 
 Meanwhile, firsthand reality has been reduced to the narrow slices connecting house to car to work, with precious few exceptions.
 
-The Society Of The Spectacle is one long lament for this loss of The Real, although Debord doesn’t state it as such.  Borrowing again from The Uruk Machine, this sense of loss tracks with the gradual displacement of _metis_ [4] by _episteme_ [5],[6].
+The Society Of The Spectacle is one long lament for this loss of The Real, although Debord doesn’t state it as such.  Borrowing again from The Uruk Machine, this sense of loss tracks with the gradual displacement of _metis_ [^4] by _episteme_ [^5],[^6].
 
 ## III. Everything New Is Old Again
 
@@ -205,13 +205,13 @@ Irreversible time keeps marching on, giving us new widgets and new wonders, but 
 
 ## VI. The Coming Revolution
 
-Debord spends a good chunk of words describing how the spectacle has affected art [7] and physical space, but you can guess the gist by now.  Everything’s fake, everything’s worse, everything’s changing but also the same. 
+Debord spends a good chunk of words describing how the spectacle has affected art [^7] and physical space, but you can guess the gist by now.  Everything’s fake, everything’s worse, everything’s changing but also the same. 
 
 The last topic of the book worth discussing is the _imminent socialist revolution_.  Debord walks us through the various ways that Marxism has been done wrong, then attempts to offer an alternative.  He goes into a fair amount of detail, but it boils down to this:
 
 *   The anarchists properly rejected society in its entirety, but remained dogmatically attached to a 'one size fits all' mentality and failed to organize in an effective manner.
 
-*   The worker's movements took a reformist approach that fell victim to its own success. They achieved specific objectives and won elections, but by failing to challenge the system as a whole they got absorbed by the existing framework. [8]
+*   The worker's movements took a reformist approach that fell victim to its own success. They achieved specific objectives and won elections, but by failing to challenge the system as a whole they got absorbed by the existing framework. [^8]
 
 *   The Bolsheviks created a professional revolutionary class that successfully seized power, but it came at the cost of a top-down totalitarianism that recreated the rigid hierarchy communism was meant to eliminate.
 
@@ -240,7 +240,7 @@ Sure…
 
 > This 'historic mission of establishing truth in the world' can be carried out neither by isolated individual nor by atomized and manipulated masses, but only and always by the class that is able to dissolve all classes by reducing all power to the de-alienating form of realized democracy - to councils in which practical theory verifies itself and surveys its own actions.
 
-Right.  That’s a whole lotta words to say ‘fuck if I know’. [9]
+Right.  That’s a whole lotta words to say ‘fuck if I know’. [^9]
 
 Anybody can _say_ that the proletariat should become practical theorists who apply Situationist principles to every facet of their lives. Alas, he's a teensy bit fuzzy on how he plans to get construction foremen and HVAC technicians to become part-time philosophers.  Debord reaffirms my long-standing belief that there is a direct inverse correlation between movement success and frequent reference to ‘praxis’. 
 
@@ -268,7 +268,7 @@ The all-pervasive nature of mass media has led to the universal victory of form 
 
 > It is in these conditions that a parodic end of the division of labor suddenly appears, with carnivalesque gaiety, all the more welcome because it coincides with the generalized disappearance of all true competence. A financier can be a singer, a lawyer a police spy, a baker can parade his literary tastes, an actor can be president, a chef can philosophize on the movements of baking as if they were landmarks in universal history. Where the possession of ‘mediatic status’ has acquired infinitely more importance than the value of anything one might actually be capable of doing, it is normal for this status to be easily transferable and to confer the right to shine in the same fashion to anyone anywhere.
 
-Another major theme is the emergence of the Eternal Present.  [Pseudoevents](https://books.google.com/books/about/The_Image.html?id=qrBQ-WW7ITwC) [10] come and go in rapid succession, everywhere and then nowhere at all. Social media has only accelerated the turnover. The news cycle generates nonstop whiplash.  Yesterday it was Covid, today it’s Ukraine; tomorrow both will be memory-holed. Last year’s news has already vanished without a trace. Whither Kazakhstan? [Afghanistan](https://abcnews.go.com/International/afghans-struggle-humanitarian-crisis-millions-brink-starvation/story?id=82685490)? Who knows and who cares? 
+Another major theme is the emergence of the Eternal Present.  [Pseudoevents](https://books.google.com/books/about/The_Image.html?id=qrBQ-WW7ITwC) [^10] come and go in rapid succession, everywhere and then nowhere at all. Social media has only accelerated the turnover. The news cycle generates nonstop whiplash.  Yesterday it was Covid, today it’s Ukraine; tomorrow both will be memory-holed. Last year’s news has already vanished without a trace. Whither Kazakhstan? [Afghanistan](https://abcnews.go.com/International/afghans-struggle-humanitarian-crisis-millions-brink-starvation/story?id=82685490)? Who knows and who cares? 
 
 For that matter, why are we up in arms about Ukraine and not, say, [Yemen](https://www.hrw.org/world-report/2020/country-chapters/yemen)? There are clear reasons why - they just have nothing to do with democracy, sovereignty, war crimes, or human rights. I don't mean to say that nobody cares about those things. We all do, at least in a vague and abstract way. But that collective concern only becomes _acute_ when the spectacle brings it into focus. The spectacle's gaze roves and lingers according to its whims. Without that constant reminder to care, awareness dissipates.
 
@@ -342,7 +342,7 @@ It doesn’t let up.  He riffs on the Mafia, Big Pharma, false flags, faked aut
 
 ## IX. Fornever Wars
 
-Taken together, the _Comments_ form a precise description of [Fifth Generation Warfare](https://en.wikipedia.org/wiki/Fifth-generation_warfare) [11], well before the concept was invented. [12] 5GW is basically [hybrid warfare](https://en.wikipedia.org/wiki/Hybrid_warfare) without the kinetics.  It is a war of information and influence, where conflict is never outright declared and cannot even be proved to exist.  If “war is an act of force to compel the enemy to do our will”, 5GW is the most subtle and least violent way to conduct such a war;  it relies on “...the deliberate manipulation of an observer’s context to achieve a desired outcome.” [13]
+Taken together, the _Comments_ form a precise description of [Fifth Generation Warfare](https://en.wikipedia.org/wiki/Fifth-generation_warfare) [^11], well before the concept was invented. [^12] 5GW is basically [hybrid warfare](https://en.wikipedia.org/wiki/Hybrid_warfare) without the kinetics.  It is a war of information and influence, where conflict is never outright declared and cannot even be proved to exist.  If “war is an act of force to compel the enemy to do our will”, 5GW is the most subtle and least violent way to conduct such a war;  it relies on “...the deliberate manipulation of an observer’s context to achieve a desired outcome.” [^13]
 
 As you’ll recall, monetization inevitably results in politicization.  And what is war but the continuation of politics by other means? 
 
@@ -390,7 +390,7 @@ Now for some takeaways.  
 
 I’ve grown much more forgiving towards conspiracy theorists and idealogues of all stripes.  I used to judge harshly what I perceived to be moral and intellectual failings.  These days, I view misinformation and propaganda in the same predatory light as gambling and opiates.  It’s not fair to expect folks to take up independent journalism in their spare time.  Even views that I consider hateful or repugnant bother me less, now that I see their purveyors as victims of memetic contagion and spectacular dissonance.  
 
-The flip side of that coin is that I’m much more aware of the log in my own eye. [14] It never hurt anyone to reflect on how crude is the Map and how vast the Territory.  I’m continually astonished by the sheer variety of ways I manage to arrive at ‘Here Be Dragons’. It's disturbing how often I open my mouth and someone else comes out. ['Strong opinions, weakly held'](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/) used to be an appealing heuristic. Unfortunately, I keep noticing that the stronger my opinion, the more likely it is that I'm missing something.15
+The flip side of that coin is that I’m much more aware of the log in my own eye. [^14] It never hurt anyone to reflect on how crude is the Map and how vast the Territory.  I’m continually astonished by the sheer variety of ways I manage to arrive at ‘Here Be Dragons’. It's disturbing how often I open my mouth and someone else comes out. ['Strong opinions, weakly held'](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/) used to be an appealing heuristic. Unfortunately, I keep noticing that the stronger my opinion, the more likely it is that I'm missing something.[^15]
 
 If ignorance is bliss, incertitude is wisdom.
 
@@ -414,27 +414,27 @@ Me? I’ll be in [the van](https://dailypopulous.com/2021-10-07-morning/birds-ar
 
 **Endnotes**
 
-**1:** I suppose it would be in poor taste to make a Bon Jovi reference, so I won’t.
+[^1]: I suppose it would be in poor taste to make a Bon Jovi reference, so I won’t.
 
-**2:** [The Uruk series](https://samzdat.com/the-uruk-series/) by sam[]zdat is an excellent companion to this book, and I’ll reference it several times. The relevant piece here comes from Karl Polanyi’s The Great Transformation: “Polanyi calls the tendency to judge the world _solely financially_ the economic prejudice… A market society is one based entirely around a market. Any damage to the market damages the entire society.” All modern nations are market societies in some fashion, and fall prey to the economic prejudice.
+[^2]: [The Uruk series](https://samzdat.com/the-uruk-series/) by sam[]zdat is an excellent companion to this book, and I’ll reference it several times. The relevant piece here comes from Karl Polanyi’s The Great Transformation: “Polanyi calls the tendency to judge the world _solely financially_ the economic prejudice… A market society is one based entirely around a market. Any damage to the market damages the entire society.” All modern nations are market societies in some fashion, and fall prey to the economic prejudice.
 
-**3:** If you’re holding out for Scott’s review to get into Girard, Alex Danco has [a great introduction](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/) to tide you over.  He is embarrassingly off-base regarding Trump supporters, but he sums up the basics well. 
+[^3]: If you’re holding out for Scott’s review to get into Girard, Alex Danco has [a great introduction](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/) to tide you over.  He is embarrassingly off-base regarding Trump supporters, but he sums up the basics well. 
 
-**4:** _[Metis](https://samzdat.com/2017/08/28/the-uruk-machine/) “_...is a kind of accumulated, experiential knowledge. It’s the background process for whatever makes local knowledge work, and also the reason it’s hard to express in technical language. I tend to use it as shorthand…for the accumulated local knowledge of any given community.”
+[^4]: _[Metis](https://samzdat.com/2017/08/28/the-uruk-machine/) “_...is a kind of accumulated, experiential knowledge. It’s the background process for whatever makes local knowledge work, and also the reason it’s hard to express in technical language. I tend to use it as shorthand…for the accumulated local knowledge of any given community.”
 
-**5:** _Episteme_ - “Any nation-building requires a top-down view of the society it wants to organize. It’s either impossible or inefficient to draw a map with the same precision that local communities use. Because of this, certain details are elided, ignored, misplaced. This categorization process is ‘epistemic’, where _episteme_ (or epistemic rationalism, or just rationalism) means abstract, generalized, theoretical knowledge."
+[^5]: _Episteme_ - “Any nation-building requires a top-down view of the society it wants to organize. It’s either impossible or inefficient to draw a map with the same precision that local communities use. Because of this, certain details are elided, ignored, misplaced. This categorization process is ‘epistemic’, where _episteme_ (or epistemic rationalism, or just rationalism) means abstract, generalized, theoretical knowledge."
 
-**6:** “An important aspect of _metis_ is that it’s essentially a ‘worldview’. _Metis_ is deeply interwoven – performing one action also affirms the others, inasmuch as planting according to [ritual] tends to include much broader social and political and religious elements, all of which are affirmed and related… The fact that _metis_ is often explained…by ‘folksy’ reasoning at best means that epistemic knowledge rarely listens to it. The net result of this is that states tend to overrule _metis_ with _episteme_, and that protesting citizenry cannot even express _why this is bad_. The net result of _that_ is generally inefficiency, anger, and confusion.”
+[^6]: “An important aspect of _metis_ is that it’s essentially a ‘worldview’. _Metis_ is deeply interwoven – performing one action also affirms the others, inasmuch as planting according to [ritual] tends to include much broader social and political and religious elements, all of which are affirmed and related… The fact that _metis_ is often explained…by ‘folksy’ reasoning at best means that epistemic knowledge rarely listens to it. The net result of this is that states tend to overrule _metis_ with _episteme_, and that protesting citizenry cannot even express _why this is bad_. The net result of _that_ is generally inefficiency, anger, and confusion.”
 
-**7:** Art was a major part of the Situationist movement - they would probably be mortally offended that I just glossed over it.  I did so for two reasons.  First, I only have a highschool understanding of the relevant topics, so I don’t have much to say.  Second, I was thoroughly unimpressed by what I understood, and apparently [I’m not alone](https://en.wikipedia.org/wiki/Situationist_International#Criticism): “Critics of the Situationists frequently assert that their ideas are not in fact complex and difficult to understand, but are at best simple ideas expressed in deliberately difficult language, and at worst actually nonsensical.”
+[^7]: Art was a major part of the Situationist movement - they would probably be mortally offended that I just glossed over it.  I did so for two reasons.  First, I only have a highschool understanding of the relevant topics, so I don’t have much to say.  Second, I was thoroughly unimpressed by what I understood, and apparently [I’m not alone](https://en.wikipedia.org/wiki/Situationist_International#Criticism): “Critics of the Situationists frequently assert that their ideas are not in fact complex and difficult to understand, but are at best simple ideas expressed in deliberately difficult language, and at worst actually nonsensical.”
 
-**8:** Final Uruk reference, this time from [his piece](https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/) on Hoffer: “Mass movements are not the result of calculated thought, nor of a genuine interest in the ideology, but of _frustration_… Frustration is, ultimately, about the inability to achieve a personal goal or a group goal…A corollary of this is that mass movements are less about _achieving_ anything meaningful than about fostering frustration. A ‘good’ movement – not as in ‘taking power’ (which plenty do), but as in completing goals, bettering the life of its adherents, making them more active, making them powerful – will leave them less frustrated. The movement will then disband – can’t have one without a frustrated mass.” 
+[^8]: Final Uruk reference, this time from [his piece](https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/) on Hoffer: “Mass movements are not the result of calculated thought, nor of a genuine interest in the ideology, but of _frustration_… Frustration is, ultimately, about the inability to achieve a personal goal or a group goal…A corollary of this is that mass movements are less about _achieving_ anything meaningful than about fostering frustration. A ‘good’ movement – not as in ‘taking power’ (which plenty do), but as in completing goals, bettering the life of its adherents, making them more active, making them powerful – will leave them less frustrated. The movement will then disband – can’t have one without a frustrated mass.” 
 
-**9:** Neil Gaiman has [some thoughts](https://www.goodreads.com/quotes/477087-remember-when-people-tell-you-something-s-wrong-or-doesn-t-work) on the subject.
+[^9]: Neil Gaiman has [some thoughts](https://www.goodreads.com/quotes/477087-remember-when-people-tell-you-something-s-wrong-or-doesn-t-work) on the subject.
 
-**10:** Debord addresses Boorstin by name in The Society of the Spectacle, but I couldn’t fit it in.  His critique in one sentence: Boorstin's views "...amount to blaming the spectacle on modern man's excessive inclination to be a spectator."
+[^10]: Debord addresses Boorstin by name in The Society of the Spectacle, but I couldn’t fit it in.  His critique in one sentence: Boorstin's views "...amount to blaming the spectacle on modern man's excessive inclination to be a spectator."
 
-**11:** _The Handbook Of 5GW_ is a truly terrible, poorly formatted, endlessly repetitive collection of essays.  Nevertheless, it has some gold among the dross:
+[^11]: _The Handbook Of 5GW_ is a truly terrible, poorly formatted, endlessly repetitive collection of essays.  Nevertheless, it has some gold among the dross:
 
 > "The problem with using a narrower definition of war is that the enemy may fight you with a form of war that you not only can’t see, but, even worse, don’t even believe in. If the enemy uses a broader definition of war than you, any attack on that portion of the spectrum where you are defenseless may inflict a decisive defeat. The worst part of such a defeat may be that: 
 > 
@@ -450,10 +450,10 @@ Me? I’ll be in [the van](https://dailypopulous.com/2021-10-07-morning/birds-ar
 > 
 > A successful fifth-generation war would be one that an opponent never even realized he lost."
 
-**12:** Many experts consider the generational model of warfare outdated, preferring a gradient framework (sometimes referred to as xGW).  Depending on your definitions, you can find examples of counterinsurgency and hybrid warfare throughout history, which invalidates the notion of successive generations of war.  Instead, warfare exists on a spectrum, with Hobbesian total war at one end and fifth generation/gradient warfare at the other. 
+[^12]: Many experts consider the generational model of warfare outdated, preferring a gradient framework (sometimes referred to as xGW).  Depending on your definitions, you can find examples of counterinsurgency and hybrid warfare throughout history, which invalidates the notion of successive generations of war.  Instead, warfare exists on a spectrum, with Hobbesian total war at one end and fifth generation/gradient warfare at the other. 
 
-**13:** Both quotes from _The Handbook Of 5GW_.
+[^13]: Both quotes from _The Handbook Of 5GW_.
 
-**14:** Shut up, I _like_ mixing metaphors.
+[^14]: Shut up, I _like_ mixing metaphors.
 
-**15:** From the link: “The failure mode is that ‘Strong Opinions, Weakly Held’ turns into ‘Strong Opinions, Justified Loudly, Until Evidence Indicates Otherwise, At Which Point You Invoke It To Protect Your Ass.’”
+[^15]: From the link: “The failure mode is that ‘Strong Opinions, Weakly Held’ turns into ‘Strong Opinions, Justified Loudly, Until Evidence Indicates Otherwise, At Which Point You Invoke It To Protect Your Ass.’”
