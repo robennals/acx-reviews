@@ -31,7 +31,7 @@ I’ll begin with my first exposure to these songs, Shel Silverstein’s _Bury M
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/9d160c3eb2014e76.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/99d115ca5214b204.png)
 
-_Bury Me in My Shades_ is one of his songs, satirizing the libertine Beatnik (proto-Hippie) culture of which he was a participant. The narrator of the song recounts how he and other “junkies and loners and coffee shop owners” gathered around as “the last of the hipsters [1] lay dying”.
+_Bury Me in My Shades_ is one of his songs, satirizing the libertine Beatnik (proto-Hippie) culture of which he was a participant. The narrator of the song recounts how he and other “junkies and loners and coffee shop owners” gathered around as “the last of the hipsters [^1] lay dying”.
 
 The narrator then quotes the dying man as he dictates how his meagre possessions should be disposed of. Some bequests carry homey nostalgic overtones:
 
@@ -76,7 +76,7 @@ Sadly for the Hipster, the narrator and the other deathbed associates prove less
 > And Bob got his records and Ed got his books  
 > And I got the poor beatnik’s shades
 
-Musically, the song follows a folk song pattern, but with a syncopated rhythm [2]. The song uses a very loose variant of Ballad Meter, which as its name implies is commonly used in folk ballads. Ballad Meter is closely related to Common Meter (alternating lines of iambic tetrameter and iambic trimeter, recognizable by the test of “Can you sing it to the tune of _Amazing Grace_ or the _Gilligan’s Island Theme Song_”), but is less regular and may insert additional unstressed syllables.
+Musically, the song follows a folk song pattern, but with a syncopated rhythm [^2]. The song uses a very loose variant of Ballad Meter, which as its name implies is commonly used in folk ballads. Ballad Meter is closely related to Common Meter (alternating lines of iambic tetrameter and iambic trimeter, recognizable by the test of “Can you sing it to the tune of _Amazing Grace_ or the _Gilligan’s Island Theme Song_”), but is less regular and may insert additional unstressed syllables.
 
 Silverstein takes the irregularity a step further and often starts lines spoken by the Hipster with a stressed syllable, making his lines trochaic or dactyl instead. This gives them a sense of emphasis and urgency, and also is useful in distinguishing the narrator’s words from those of the Hipster, similarly to how in Dr. Seuss’s _Green Eggs and Ham,_ the protagonist speaks in iambic meter and Sam-I-Am speak in dactyl.
 
@@ -87,10 +87,6 @@ The satirical message can be understood as a cautionary tale. The Hipster seems 
 **Rating**: 7/10, recommended
 
 * * *
-
-[1] “Hipster” here is used in the early-to-mid-20th century sense of jazz/blues subculture and its imitators, not the modern subculture of the same name. The Beatniks of the 1950s and the Hippies of the 1960s are often considered to be successors of the Hipsters of the 1940s and before.
-
-[2] Structured irregularities in the beat of the music, much more typical of Jazz or Rock music than of Folk, although Silverstein’s music is often a blend of Folk and Rock elements and he often employed heavy syncopation even in his more Folk-styled pieces.
 
 ## Tie Me Kangaroo Down, Sport
 
@@ -140,7 +136,7 @@ This song, too, follows the now-familiar story structure of the narrator arrivin
 > Throw bunches of roses all over my coffin.  
 > Roses to deaden the clods as they fall.
 >
-> Then beat the drum slowly, play the fife lowly. [1]  
+> Then beat the drum slowly, play the fife lowly. [^3]  
 > Play the dead march as you carry me along.  
 > Take me to the green valley, lay the sod over me,  
 > I’m a young cowboy and I know I’ve done wrong.
@@ -150,7 +146,7 @@ And the next verse instructs the narrator to write a letter to the Cowboy’s mo
 > But please not one word of the man who had killed me.  
 > Don’t mention his name and his name will pass on.
 
-This can be read two different ways. It may be intended to treat the Cowboy’s killer to _Damnatio Memoriae_ [2], or it might be the Cowboy renouncing thoughts of being avenged, forgiving his killer, and focusing on his own shortcomings. I quite like the latter for its own sake, and moreover I am tempted to endorse it for the sake of drawing parallels between the Cowboy’s killer’s fate in _Laredo_ and the Hipster’s own fate in _Shades_. But the themes of _Laredo_ seem to cut towards the other interpretation, with the repeated line that “I’m a young cowboy and I know I’ve done wrong” and the subtext that the Cowboy seems to be presenting his death as a cautionary tale for the narrator’s benefit, which the narrator is taking to heart.
+This can be read two different ways. It may be intended to treat the Cowboy’s killer to _Damnatio Memoriae_ [^4], or it might be the Cowboy renouncing thoughts of being avenged, forgiving his killer, and focusing on his own shortcomings. I quite like the latter for its own sake, and moreover I am tempted to endorse it for the sake of drawing parallels between the Cowboy’s killer’s fate in _Laredo_ and the Hipster’s own fate in _Shades_. But the themes of _Laredo_ seem to cut towards the other interpretation, with the repeated line that “I’m a young cowboy and I know I’ve done wrong” and the subtext that the Cowboy seems to be presenting his death as a cautionary tale for the narrator’s benefit, which the narrator is taking to heart.
 
 The second to last verse describes the Cowboy passing away around sunset as he finishes his tale, the streets also growing “as cold as the clay”, and then the narrator and some unnamed companions (implied by the use of the pronoun “we” without elaboration) carry out the Cowboy’s funeral arrangements precisely as requested, with the final verse being a reprise of the middle verse, identical except for substituting pronouns:
 
@@ -167,7 +163,7 @@ About half of the earliest versions in the Roud Index seem to contain some varia
   
 Marty Robbins’s version (1960, five years prior to Cash’s) has fewer verses, omitting the instructions to inform the Cowboy’s mother and the “Six jolly cowboys” verse of the funeral instructions, while the “play the drum slowly” verse is used as a chorus rather than as a reprised verse. The verse describing the Cowboy’s death is similar, but has the notable difference that it occurs as the narrator is fetching him a glass of water, not at dusk with the narrator present.
 
-The oldest version I can find in full is a recording by Dick Devall, released in a CD compilation published in 1996 [3] of African American music of the 1920s and 1930s, apparently recorded in 1929 [4]. I couldn’t find this recording in the Roud Index, although I did find a different recording by Devall there dated 1946. Devall’s rendition takes place in “Tom Sherman’s barroom” rather than Laredo, and largely follows the same structure as Robbins’s later rendition with the “play the drum slowly” verse as chorus. The verse about bearing news to the Cowboy’s mother, present in Cash’s version and absent in Robbins’s, is also present here in recognizable but modified form. The most significant change is saying “Don’t forget a word that I’ve told you” where Cash’s Cowboy said “But please not one word of the man who had killed me.” Devall uses a very loosely related melody for the song, which unlike that used by Cash or Robbins is syncopated in a similar pattern to the one Silverstein uses in _Shades_.
+The oldest version I can find in full is a recording by Dick Devall, released in a CD compilation published in 1996 [^5] of African American music of the 1920s and 1930s, apparently recorded in 1929 [^6]. I couldn’t find this recording in the Roud Index, although I did find a different recording by Devall there dated 1946. Devall’s rendition takes place in “Tom Sherman’s barroom” rather than Laredo, and largely follows the same structure as Robbins’s later rendition with the “play the drum slowly” verse as chorus. The verse about bearing news to the Cowboy’s mother, present in Cash’s version and absent in Robbins’s, is also present here in recognizable but modified form. The most significant change is saying “Don’t forget a word that I’ve told you” where Cash’s Cowboy said “But please not one word of the man who had killed me.” Devall uses a very loosely related melody for the song, which unlike that used by Cash or Robbins is syncopated in a similar pattern to the one Silverstein uses in _Shades_.
 
 Overall, this is a beautiful song with effective and tragic imagery.
 
@@ -187,25 +183,17 @@ Also in 1962, Alan Sherman released _The Streets of Miami_, which takes the tune
 
 * * *
 
-[1] I’m quoting these verses in full for reasons that will become clear later.
-
-[2] “Damnation of memory”, a practice in Rome and several other ancient and classical cultures of attempting to erase certain wrongdoers from the historical record, condemning them to be forgotten by posterity.
-
-[3] Before the Blues: The Early American Black Music Scene, Volume 1, published by Yazoo Records
-
-[4] From the description on [this YouTube](https://www.youtube.com/watch?v=2scL1BSL5dc) listing of the song, also from [this listing of the original 78 single release](https://www.discogs.com/release/7551343-Dick-Devall-Tom-Shermans-Barroom-Out-On-The-Lone-Star-Cow-Trail?srsltid=AfmBOopKH9YFmh4yZgXjn4ytmeK1lzaJJOYF0OD36CxJzeCy8oL4LopI) of the recording.
-
 ## The Unfortunate Lad
 
 Next, we look back to the long-promised ancestral song, _The Unfortunate Lad_, Roud Index No. 2. Even more so than _Laredo_, this song’s origins are lost in the mists of time. It has quite the variety of titles associated with it. “Lad” is sometimes replaced with “Lass” or “Girl” or “Soldier” or “Sailor”, depending on the identity of the dying person upon whom the song is centered. It’s also referred to (like _Laredo_ being called _The Cowboy’s Lament_) as something like _The Sailor’s Lament_ or _A Young Girl Cut Down in Her Prime_, in either case with other subjects variously substituted. It’s also given various titles derived from its opening lines or from its location. But _Unfortunate Lad_ seems to be the best-attested form, as of the latter half of the 19th century when the record starts becoming clear.
 
-There seem to be two competing interpretations of the song’s origin [1]. The conventional view is that _The Unfortunate Rake_ is the older version of the song, dating back to Ireland in the early 19th century or before. At least one recent publication [2] claims to trace it to a c. 1800 Irish broadsheet called _The Buck’s Elegy_ or _The Buck’s Lament_, which I will treat separately. Another recent publication [3] argues that the conventional view is badly mistaken, with many load-bearing pieces of evidence for the narrative being very old mistakes or speculation that have been uncritically accepted in the meantime. In particular, Jenkins and others have argued that _The Unfortunate Rake_, as a variant of _The Unfortunate Lad,_ is a mid-20th century phenomenon inadvertently created by careless folklorists who came across older references to an unrelated Irish ballad, which coincidentally had a similar title to _The Unfortunate Lad_ and, lacking detail about the song’s contents, assumed it to be an earlier form of the same song. Those assumptions fed back into popular culture because musicians informed by the folklorists’ conclusions started performing variations of the song under what they thought was the “original” title.
+There seem to be two competing interpretations of the song’s origin [^7]. The conventional view is that _The Unfortunate Rake_ is the older version of the song, dating back to Ireland in the early 19th century or before. At least one recent publication [^8] claims to trace it to a c. 1800 Irish broadsheet called _The Buck’s Elegy_ or _The Buck’s Lament_, which I will treat separately. Another recent publication [^9] argues that the conventional view is badly mistaken, with many load-bearing pieces of evidence for the narrative being very old mistakes or speculation that have been uncritically accepted in the meantime. In particular, Jenkins and others have argued that _The Unfortunate Rake_, as a variant of _The Unfortunate Lad,_ is a mid-20th century phenomenon inadvertently created by careless folklorists who came across older references to an unrelated Irish ballad, which coincidentally had a similar title to _The Unfortunate Lad_ and, lacking detail about the song’s contents, assumed it to be an earlier form of the same song. Those assumptions fed back into popular culture because musicians informed by the folklorists’ conclusions started performing variations of the song under what they thought was the “original” title.
 
-The oldest clearly-attested and unambiguously identifiable versions of the song date from English publications c. 1864, titled _The Unfortunate Lad_. I’ll be primarily analyzing one of these, a broadsheet ballad published by H. P. Such of London [4].
+The oldest clearly-attested and unambiguously identifiable versions of the song date from English publications c. 1864, titled _The Unfortunate Lad_. I’ll be primarily analyzing one of these, a broadsheet ballad published by H. P. Such of London [^10].
 
 The narrative structure of the song is virtually identical to the first three quarters of the pattern of _Shades_, _Kangaroo_, and _Laredo_: the narrator is recounting a visit to the bedside of a dying man, reciting a verbatim account of that man’s dying speech. Like all three, a large part of that speech concerns funeral arrangements. The song ends there, omitting the final return to the framing story which details how the narrator and his companions honored the dying man’s request.
 
-The dying man is encountered in a “lock hospital”, i.e. one dedicated to the treatment and quarantine of odious diseases. Karen Heath’s commentary on the song [5] explains that the original Lock Hospital was a 17th century institution in London for treating leprosy, but by the mid 19th century the term had shifted, referring instead to similar institutions targeted at sexually transmitted infection [6]. Unlike the Hipster from _Shades_ or the Stockman from _Kangaroo_, whose causes of death were obscure, or the Cowboy from _Laredo_, who was mortally wounded in a gunfight, the titular Unfortunate Lad was most likely dying of syphilis. This implication is confirmed in the chorus, when the Lad laments his lover’s failure to tell him she’d infected him in time for him to take “salts and pills of white mercury”, which at the time were the standard treatment for syphilis. Evidence for its effectiveness is spotty at best, but at the time there was no clearly effective treatment and mercury was prescribed out of desperation.
+The dying man is encountered in a “lock hospital”, i.e. one dedicated to the treatment and quarantine of odious diseases. Karen Heath’s commentary on the song [^11] explains that the original Lock Hospital was a 17th century institution in London for treating leprosy, but by the mid 19th century the term had shifted, referring instead to similar institutions targeted at sexually transmitted infection [^12]. Unlike the Hipster from _Shades_ or the Stockman from _Kangaroo_, whose causes of death were obscure, or the Cowboy from _Laredo_, who was mortally wounded in a gunfight, the titular Unfortunate Lad was most likely dying of syphilis. This implication is confirmed in the chorus, when the Lad laments his lover’s failure to tell him she’d infected him in time for him to take “salts and pills of white mercury”, which at the time were the standard treatment for syphilis. Evidence for its effectiveness is spotty at best, but at the time there was no clearly effective treatment and mercury was prescribed out of desperation.
 
 The Lad is described as being “wrapped in white flannel”, nearly identical to how the Cowboy was “wrapped in white linen”. Like the Hipster and the Stockman but unlike the Cowboy, the Lad is not a stranger to the narrator, but rather the narrator’s “own dear comrade”. In the second and third verses, the Lad tells the narrator how he came to be “injured and sadly disordered” by his sweetheart and goes on to lament failing to heed his father’s chidings against the Lad’s “wicked ways”.
 
@@ -224,23 +212,9 @@ Cecil Sharp’s handwritten notes, published in the Roud Index, do contain a fra
 
 * * *
 
-[1] Here, I am relying heavily on [The Myth of the Origins of St James’ Infirmary Blues and The Unfortunate Rake](https://earlyblues.org/essays-the-myth-of-the-origins-of-st-james-infirmary-blues-and-the-unfortunate-rake/), by Karen Heath.
-
-[2] Steve Roud and Julia Bishop, _The New Penguin Book of English Folk Songs_, 2014. Yes, the same Roud as in the Roud Database I keep nattering about.
-
-[3] Richard Jenkins, _The Unfortunate Rake’s Progress: A Case Study of the Construction of Folklore by Collectors and Scholars_, Folklore Volume 130, April 2019.
-
-[4] Heath, op cit
-
-[5] Ibid
-
-[6] Heath also brings up British laws requiring women believed to be prostitutes to be screened for symptoms of STIs and, if the results were positive, confined to Lock Hospitals. She takes this to imply that Lock Hospitals only treated women, seemingly at odds with the subject of the song being a man. I suspect she may be mistaken on this point: from what I can gather Lock Hospitals, including the original London Lock Hospital, primarily or exclusively treated women and the relevant provisions Contagious Disease Acts only mandated confinement for suspected prostitutes, but Lock Hospitals being female-only does not seem to have been a universal characteristic.
-
-[7] [https://archives.vwml.org/records/CJS2/10/401](https://archives.vwml.org/records/CJS2/10/401)
-
 ## The Buck’s Elegy
 
-This is another broadsheet ballad, undated but probably from around 1800, about 60 years before the earliest known extant version of _The Unfortunate Lad_. As I’ve already mentioned, Bishop and Roud identify this as an early form of _Lad_, and Karen Heath is inclined to agree [1]. I am also inclined to concur with this assessment: _Buck_ fits the pattern of _Lad_ almost exactly, with only details changed. As with _Lad_, the narrator meets an old friend, here “my dearest comrade”, wrapped in flannel, although the color is unspecified and the meeting place is Covent Garden, now a touristy shopping district in central London, but then a notorious den of prostitution. The Comrade, like the Lad, wishes he had discovered his disease in time to treat it with white mercury, but doesn’t blame a particular woman for failing to tell him, nor does he include a verse about disregarding cautions against his wicked ways. In the third verse, the Comrade instructs the doctors to discontinue treatment as he prepares to die.
+This is another broadsheet ballad, undated but probably from around 1800, about 60 years before the earliest known extant version of _The Unfortunate Lad_. As I’ve already mentioned, Bishop and Roud identify this as an early form of _Lad_, and Karen Heath is inclined to agree [^14]. I am also inclined to concur with this assessment: _Buck_ fits the pattern of _Lad_ almost exactly, with only details changed. As with _Lad_, the narrator meets an old friend, here “my dearest comrade”, wrapped in flannel, although the color is unspecified and the meeting place is Covent Garden, now a touristy shopping district in central London, but then a notorious den of prostitution. The Comrade, like the Lad, wishes he had discovered his disease in time to treat it with white mercury, but doesn’t blame a particular woman for failing to tell him, nor does he include a verse about disregarding cautions against his wicked ways. In the third verse, the Comrade instructs the doctors to discontinue treatment as he prepares to die.
 
 The last three verses, like _Lad_, concern funeral arrangements. The first of these three verses has no direct parallel:
 
@@ -260,20 +234,18 @@ The next two are much closer to their counterparts in _Lad_ and _Laredo_. The si
 
 * * *
 
-[1] Heath (Op Cit) refers to it eight times as _The Buck’s Elegy_ and twice as _The Buck’s Lament_. I’m not sure whether this is a historical alternate name or a modern error.
-
 ## St. James Infirmary Blues and Gambler’s Blues
 
-Prior to _The Unfortunate Lad_, the trail gets murky. Before _The Buck’s Elegy_, it goes cold entirely [1], so we will proceed forward in time once more. Starting in the early 20th century, references to songs with titles like _St. James Hospital_ or _St. James Infirmary_ start showing up in folklore and folk song collections, including the same Cecil Sharp collection where _The Streets of Laredo_ first definitively appeared. Many of these are categorized by the Roud Index as variants of either _Lad_ or _Laredo_. Sharp lists _St. James Hospital_ both as a variant of _Lad_ and as an alternate title for _Laredo_. Heath (Ibid) notes, and the Roud Index confirms, that the early _St. James_ versions are almost exclusively collected in the US or Canada, while the non-_St._ _James_ versions of _Lad_ are mostly British.
+Prior to _The Unfortunate Lad_, the trail gets murky. Before _The Buck’s Elegy_, it goes cold entirely [^15], so we will proceed forward in time once more. Starting in the early 20th century, references to songs with titles like _St. James Hospital_ or _St. James Infirmary_ start showing up in folklore and folk song collections, including the same Cecil Sharp collection where _The Streets of Laredo_ first definitively appeared. Many of these are categorized by the Roud Index as variants of either _Lad_ or _Laredo_. Sharp lists _St. James Hospital_ both as a variant of _Lad_ and as an alternate title for _Laredo_. Heath (Ibid) notes, and the Roud Index confirms, that the early _St. James_ versions are almost exclusively collected in the US or Canada, while the non-_St._ _James_ versions of _Lad_ are mostly British.
 
-In the 1920s, a cluster of related Blues songs started showing up in the repertoires of several Jazz and Blues singers called _Gambler’s Blues_ or _St. James Infirmary_ (Ibid). The later title, or the minor variant _St. James Infirmary Blues_ very quickly became standard. The former was published as sheet music in 1925 and as a record in 1927 by Phil Baxter and Carl Moore, while the latter was first recorded in 1928 by Louis Armstrong [2]. Since then, it’s been performed and recorded by countless artists. Cab Calloway, who first recorded the song in 1930, is probably the most iconically associated with the song. More recently, it’s been recorded by Arlo Gunthrie (2007) and Hugh Laurie (2011).
+In the 1920s, a cluster of related Blues songs started showing up in the repertoires of several Jazz and Blues singers called _Gambler’s Blues_ or _St. James Infirmary_ (Ibid). The later title, or the minor variant _St. James Infirmary Blues_ very quickly became standard. The former was published as sheet music in 1925 and as a record in 1927 by Phil Baxter and Carl Moore, while the latter was first recorded in 1928 by Louis Armstrong [^16]. Since then, it’s been performed and recorded by countless artists. Cab Calloway, who first recorded the song in 1930, is probably the most iconically associated with the song. More recently, it’s been recorded by Arlo Gunthrie (2007) and Hugh Laurie (2011).
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/63c1fab263898f85.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/7c971217600b04a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/91e338944762a634.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c70f3c94ce564ca1.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/b104a56ee140e793.png)
 
 > _Top Row: Phil Baxter, Louis Armstrong, Cab Calloway_
 > _Bottom Row: Arlo Gunthrie, Hugh Laurie_
 
-The original Baxter/Moore version used something close to a “talking blues” vocal style, accompanied by a tune that as far as I know is original. Louis Armstrong’s performance set the song instead to a different tune, extremely similar to an instrumental jazz piece recorded in 1924 by The California Ramblers, under the title _Charleston Cabin_ [3]. Calloway, Guthrie, Laurie, and every other recording I’ve heard has used minor variants of the Armstrong tune.
+The original Baxter/Moore version used something close to a “talking blues” vocal style, accompanied by a tune that as far as I know is original. Louis Armstrong’s performance set the song instead to a different tune, extremely similar to an instrumental jazz piece recorded in 1924 by The California Ramblers, under the title _Charleston Cabin_ [^17]. Calloway, Guthrie, Laurie, and every other recording I’ve heard has used minor variants of the Armstrong tune.
 
 Armstrong’s version of the song is lyrically short and simple, consisting of three verses. In the first, the narrator describes going down to the titular St. James Infirmary and finding his “baby” (presumably his girlfriend or fiance) there, apparently dead or nearly so:
 
@@ -293,8 +265,8 @@ The final verse tells how the narrator wants to be prepared for burial when he d
 
 > When I die, want you to dress me in straight lace shoes  
 > Box-back coat and a Stetson hat  
-> Put a twenty dollar gold piece [4] on my watch chain  
-> So the boys will know that I died standing pat [5]
+> Put a twenty dollar gold piece [^18] on my watch chain  
+> So the boys will know that I died standing pat [^19]
 
 Calloway adds two more verses at the end of this, one reminiscent of but distinct from the pallbearer verse familiar from _Laredo_, _Lad_, and _Buck_:
 
@@ -324,7 +296,7 @@ Laurie performs nearly identical lyrics to Armstrong’s version. Gunthrie’s i
 
 In the context of the pattern we’re reviewing, this is enormously important. WIthout this verse, the nested first/second person narrative structure of all five other songs we’ve looked at is missing from _St. James_, but with it the structure is present. The scene being set in “old Joe’s barroom” is similar to Dick Devall’s version of _Laredo_, which takes place in “Tom Sherman’s barroom”. There’s still an interesting wrinkle, that in all previous songs, it’s the speaker being quoted by the narrator who is dying, but here it’s a third character, the second character’s “baby” who seems to be dying, triggering the second person (Big Joe McKennedy in Gunthrie’s version) to consider his own mortality.
 
-Heath [6] has an interesting interpretation of this modification. She believes the same thing was implied in _Lad_ where the dying man was encountered “by” or “near” the Lock Hospital rather than inside of it, and that since these hospitals primarily treated women suffering from syphilis, the man must have discovered his wife or sweetheart among the afflicted. If she had it, then his death was sure to follow. If _St. James_ is taken to be a retelling of the same story as _Lad_, then the same thing is happening here: Big Joe has discovered his sweetheart dead or dying of a communicable disease [7] and realized that he was also mortally ill of the same disease. This also suggests another interpretation of the “let her go” verse: for his sweetheart to have caught syphilis and given it to Big Joe suggests that she got it from somewhere else. So perhaps Big Joe is accepting his late sweetheart’s newly-revealed infidelity at the same time he’s processing his grief over her death.
+Heath [^20] has an interesting interpretation of this modification. She believes the same thing was implied in _Lad_ where the dying man was encountered “by” or “near” the Lock Hospital rather than inside of it, and that since these hospitals primarily treated women suffering from syphilis, the man must have discovered his wife or sweetheart among the afflicted. If she had it, then his death was sure to follow. If _St. James_ is taken to be a retelling of the same story as _Lad_, then the same thing is happening here: Big Joe has discovered his sweetheart dead or dying of a communicable disease [^21] and realized that he was also mortally ill of the same disease. This also suggests another interpretation of the “let her go” verse: for his sweetheart to have caught syphilis and given it to Big Joe suggests that she got it from somewhere else. So perhaps Big Joe is accepting his late sweetheart’s newly-revealed infidelity at the same time he’s processing his grief over her death.
 
 Crucially to the history of the song, the “Old Joe’s barroom” verse was not original to Gunthrie, nor were the pallbearers and “another shot of booze” verses original to Calloway: both were present in the Baxter/Moore original version. It appears that Armstrong trimmed more than half of the Baxter/Moore lyrics, which were gradually reintroduced into the song’s tradition by other artists over the following years and decades. There are several minor differences between the original lyrics and those of later versions: many spoken asides, the second person being named Sam Jackson instead of Big Joe McKennedy, and various minor differences in wording. But the structure of the story and most of the phrasing of Calloway’s and Gunthrie’s versions are closely derived from the Baxter/Moore version.
 
@@ -337,35 +309,17 @@ There is one more verse that’s present in the Baxter/Moore original and in Gun
 
 The tune Baxter wrote for his and Moore’s original version of the song is unique among these five recordings of the song. It's an extremely slow and somber jazz melody which puts me in mind of the baroque song _Dead March_ from the third act of Handel’s 1738 oratorio _Saul_. The latter song is very commonly played at state funerals in many countries, including Britain and the United States, and I expect it is the same _Dead March_ referred to in _Laredo_, _Lad_, and _Elegy_. If this resemblance was deliberate on Baxter’s part and not merely coincidence or figment of my imagination, it seems a very significant link between _St. James_ and the _Lad_ tradition.
 
-The tune Armstrong used and which became standard for _St. James_, which as previously mentioned seems to be closely derived from _Charleston Cabin_, is faster paced and more upbeat than Baxter’s version. Armstrong uses his signature style of alternating between playing the melody on the trumpet and singing verses while his band plays accompaniment. Calloway sings the lead vocals with few pauses, accompanied by his orchestra. Laurie plays an extended piano intro and starts singing along with it about halfway along. After a brief intro, Guthrie sings throughout the rest of the performance, accompanying himself on his guitar. These arrangement choices probably go a long way towards explaining the omitted verses: Armstrong and Laurie pare the lyrics to the bone in order to make room for the instrumental segments. Calloway’s vocals take center stage, so he can fit more verses while still keeping it in his standard song length of a little less than three minutes. Gunthrie can fit even more in because he’s comfortable recording much longer songs: his most famous original song, _Alice’s Restaurant_ (1967) [8], clocks in at eighteen and a half minutes.
+The tune Armstrong used and which became standard for _St. James_, which as previously mentioned seems to be closely derived from _Charleston Cabin_, is faster paced and more upbeat than Baxter’s version. Armstrong uses his signature style of alternating between playing the melody on the trumpet and singing verses while his band plays accompaniment. Calloway sings the lead vocals with few pauses, accompanied by his orchestra. Laurie plays an extended piano intro and starts singing along with it about halfway along. After a brief intro, Guthrie sings throughout the rest of the performance, accompanying himself on his guitar. These arrangement choices probably go a long way towards explaining the omitted verses: Armstrong and Laurie pare the lyrics to the bone in order to make room for the instrumental segments. Calloway’s vocals take center stage, so he can fit more verses while still keeping it in his standard song length of a little less than three minutes. Gunthrie can fit even more in because he’s comfortable recording much longer songs: his most famous original song, _Alice’s Restaurant_ (1967) [^22], clocks in at eighteen and a half minutes.
 
-All five versions of the song are solid interpretations of hauntingly beautiful lyrics. Baxter’s music fits the mood of the lyrics perfectly, while the music used by Armstrong et al is a stronger tune in its own right. This was my first and only exposure to Baxter and Moore, but I’ve been at least a casual fan of Armstrong, Calloway, Laurie, and Gunthry as musicians for quite some time [9], and they’ve all lived up to their usual standards with their renditions of this song.
+All five versions of the song are solid interpretations of hauntingly beautiful lyrics. Baxter’s music fits the mood of the lyrics perfectly, while the music used by Armstrong et al is a stronger tune in its own right. This was my first and only exposure to Baxter and Moore, but I’ve been at least a casual fan of Armstrong, Calloway, Laurie, and Gunthry as musicians for quite some time [^23], and they’ve all lived up to their usual standards with their renditions of this song.
 
 **Rating**: 8/10 strongly recommended, overall. Which performance is best is a matter of taste; my ranking would place Gunthrie’s first, followed by Calloway’s.
 
 * * *
 
-[1] Heath (Op Cit) mentions an older genre of “Neck Ballads” or “Goodnight Ballads”, about condemned criminals giving speeches at the gallows, often concluding with funeral requests. These have clear thematic similarities, but she does not cite any (nor have I been able to find any on my own) that show signs of being clear ancestors of most of the songs I’m analyzing.
-
-[2] Ibid, and also [Phil Baxter, 1925 co-composer of Gambler's Blues (aka St. James Infirmary)](https://iwentdowntostjamesinfirmary.blogspot.com/2020/03/phil-baxter-1925-co-composer-of.html) by Robert Harwood, 2020.
-
-[3] [Charleston Cabin - The California Ramblers - 1924](https://www.youtube.com/watch?v=vgpmeFyu8zk)
-
-[4] $374 in 2025 dollars, or about 50 hours wages for a common laborer in 1930, according to the Bureau of Labor Statistics. CPI calculator and the 1936 Handbook of Labor Statistics, respectively.
-
-[5] In draw poker or blackjack, to stand pat is to play the hand you’ve been dealt without drawing any (more) cards. Source: it is known.
-
-[6] Op Cit
-
-[7] It could still have been syphilis as of the 1920s. At least two effective cures had been discovered: a protocol of deliberate infection with malaria to induce a high fever that killed the syphilis bacteria, developed in the late 19th century, and an arsenic-based antimicrobial drug called Salvarsan, invented c. 1910. Both had severe and dangerous side effects, required arduous courses of treatment, and the latter in particular was only effective relatively early in the progression of the disease. Penicillin treatment didn’t become available until the 1940s, and problems with access to diagnosis and treatment meant nearly a hundred thousand people a year were still dying of syphilis in the US three decades after that.
-
-[8] In which Gunthrie tells a mostly-true story about his attempt to help clean out a friend’s home on Thanksgiving and its consequences. A film adaptation was made in 1969, in which both Gunthrie and the local police chief who had arrested him (William Obanahan) played themselves.
-
-[9] Laurie also has an extensive career in acting and sketch comedy, of which I am even more a fan. You may know him from _House MD, Blackadder, Jeeves and Wooster_, or _A Bit of Fry and Laurie_.
-
 ## Dying Crapshooter Blues
 
-_Dying Crapshooter Blues_ is another song that cropped up in the historical record in the 1920s. It’s conventionally attributed to the great early Blues singer Blind Willie McTell, who first recorded the song in 1940 and then re-recorded it in 1956 with a spoken intro claiming that he’d written it over the four year period from 1929 to 1932. This claim is seemingly contradicted by several recordings by different performers (Martha Copeland being the first) in 1927, which Max Haymes [1] attributes to misrecollection of dates on McTell’s part. Robert Harwood [2] has a different interpretation, considering it a settled fact that _Crapshooter_ was written by Porter Grainger, who was the credited songwriter on Copeland’s recording.
+_Dying Crapshooter Blues_ is another song that cropped up in the historical record in the 1920s. It’s conventionally attributed to the great early Blues singer Blind Willie McTell, who first recorded the song in 1940 and then re-recorded it in 1956 with a spoken intro claiming that he’d written it over the four year period from 1929 to 1932. This claim is seemingly contradicted by several recordings by different performers (Martha Copeland being the first) in 1927, which Max Haymes [^24] attributes to misrecollection of dates on McTell’s part. Robert Harwood [^25] has a different interpretation, considering it a settled fact that _Crapshooter_ was written by Porter Grainger, who was the credited songwriter on Copeland’s recording.
 
 There are a number of covers of _Crapshooter_ after McTell’s recordings, but it doesn’t seem to be anything like the major genre standard that _St. James_ became. My favorite of these is by The Wiyos, recorded in 2007. The song appears to be strongly associated with McTell, and if it was at all popular as a live performance in the 20s and 30s, this does not seem to be attested in written or recorded sources.
 
@@ -421,7 +375,7 @@ Apart from the musical genre shift, I believe the core distinction between the t
 
 On the question of authorship, I think Harwood has the better of it in attributing it to Grainger. He seems to be basing his conclusion on studies of Grainger’s life and a recorded interview where Copeland talks about the origin of the song, while Haymes seems to be relying almost exclusively on information by and about McTell.
 
-On the closely related question of McTell’s honesty, I think both Harwood and Haynes might be misreading McTell’s 1956 intro. In this intro [3], McTell describes finishing the song for the 1932 funeral of his friend Jesse Williams. Williams was dying after being shot by police and requested McTell play it at his funeral. McTell says that he arranged most of the funeral pomp described in the song, paid for by Williams’s father, except for the girls from North Atlanta, which was too far away to arrange. Crucially, McTell says the following in the intro:
+On the closely related question of McTell’s honesty, I think both Harwood and Haynes might be misreading McTell’s 1956 intro. In this intro [^26], McTell describes finishing the song for the 1932 funeral of his friend Jesse Williams. Williams was dying after being shot by police and requested McTell play it at his funeral. McTell says that he arranged most of the funeral pomp described in the song, paid for by Williams’s father, except for the girls from North Atlanta, which was too far away to arrange. Crucially, McTell says the following in the intro:
 
 > I had to steal music from every which way to get it, to get it, to get it to fit. But I, I, messed it up in a way just to suit him. I finally played what he wanted…
 
@@ -433,26 +387,20 @@ _Crapshooter_ is still a much more serious song than _Shades_ or _Kangaroo_, but
 
 * * *
 
-[1] [Tracing The Origins Of Dying Crapshooters' Blues Back To English And Irish Folksong In The Eighteenth Century](https://www.earlyblues.com/Essay%20-%20Tracing%20The%20Origins%20of%20Dying%20Crapshooters%20Blues%20-%20Chapter%20I.htm), originally a 1989 dissertation, revised in 2012.
-
-[2] [Blind Willie McTell and the authorship of Dyin' Crapshooter's Blues](https://iwentdowntostjamesinfirmary.blogspot.com/2009/06/blind-willie-mctell-and-authorship-of.html), 2009.
-
-[3] Haynes, [Appendix II](https://www.earlyblues.com/Essay%20-%20Tracing%20The%20Origins%20of%20Dying%20Crapshooters%20Blues%20-%20Appendix%20II.htm), Op Cit.
-
 ## Green Fields of France
 
-We reach the last major song that is conventionally considered to be part of the _Unfortunate Lad_ tradition [1]. As a change of pace from the last few songs, its origin is clearly attested and undisputed. This is _No Man’s Land_, written by the Scottish-Australian folk musician Eric Bogle in 1975-6, It’s also known as _Willie McBride_ or _The Green Fields of France_ [2]. It’s been covered by a number of other performers, including The Dropkick Murphys, The High Kings, The Clancy Brothers, and John McDermott of The Irish Tenors. All the covers I’ve heard stick very close to the original, which simplifies my task as a reviewer.
+We reach the last major song that is conventionally considered to be part of the _Unfortunate Lad_ tradition [^27]. As a change of pace from the last few songs, its origin is clearly attested and undisputed. This is _No Man’s Land_, written by the Scottish-Australian folk musician Eric Bogle in 1975-6, It’s also known as _Willie McBride_ or _The Green Fields of France_ [^28]. It’s been covered by a number of other performers, including The Dropkick Murphys, The High Kings, The Clancy Brothers, and John McDermott of The Irish Tenors. All the covers I’ve heard stick very close to the original, which simplifies my task as a reviewer.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/a7ff9c9cc9736bb0.png)
 
-This song is quite a significant departure from the familiar story structure. The narrator is walking through France and stops to rest at the grave of a fallen soldier from the First World War, a private named William (or Willie, in most covers) McBride who died six decades before the song was written. Based on the name and circumstances, McBride was likely an Irishman [3] enrolled in the British Army. It’s more likely than not he died in the Battle of the Somme, but soldiers died of bullets, shells, accidents, and disease even in “quiet” areas of the front.
+This song is quite a significant departure from the familiar story structure. The narrator is walking through France and stops to rest at the grave of a fallen soldier from the First World War, a private named William (or Willie, in most covers) McBride who died six decades before the song was written. Based on the name and circumstances, McBride was likely an Irishman [^29] enrolled in the British Army. It’s more likely than not he died in the Battle of the Somme, but soldiers died of bullets, shells, accidents, and disease even in “quiet” areas of the front.
 
 > And I see by your gravestone that you were only nineteen  
 > When you joined the glorious fallen in 1916  
 > Well I hope you died quick and I hope you died clean  
 > Or, William McBride, was it slow and obscene?
 
-Interestingly, and in contrast to our other songs, the narrator is addressing his remarks to the late Pvt. McBride, not to the audience. In the next verse he wonders who yet survives who knew and misses McBride, if he had a “wife or sweetheart” who still carries memories of her young lost love in her heart [4], but he also considers the alternative:
+Interestingly, and in contrast to our other songs, the narrator is addressing his remarks to the late Pvt. McBride, not to the audience. In the next verse he wonders who yet survives who knew and misses McBride, if he had a “wife or sweetheart” who still carries memories of her young lost love in her heart [^30], but he also considers the alternative:
 
 > Or are you a stranger without even a name,  
 > Forever enshrined behind some glass pane,
@@ -487,29 +435,17 @@ Besides changing tense and pronouns and rephrasing the instructions as questions
 
 Bogle performs the song to a tune closely derived from the same _Bard of Armagh_ traditional Irish ballad tune that has become the standard tune for _Laredo_ and _Lad_. I might be imagining it, but I think Bogle might also have worked in some motifs from _Flowers of the Forest_ as minor elements. Between the choice of tune and the inclusion of the chorus, it seems very likely that Bogle deliberately constructed the song as part of the _Lad_ tradition. I can’t say for sure if he had symbolic significance in mind or merely found the mood of the song appropriate, but the link to _Laredo_ as a cautionary tale against senseless violence fits _France_ perfectly.
 
-Bogle wrote the song while touring battlefields, war cemeteries, and memorials in France and meditating on the horrors of war in general and the First World War in particular. He’s said that the particular William McBride of the song is fictional, intended to be metronymic for all the dead of that war, with the name McBride chosen for its Irish connotations and to rhyme with “graveside”. As it happens there were approximately twenty soldiers of that name who died in the Great War, eleven of whom are known to be buried in battlefield cemeteries in France or Belgium [5].
+Bogle wrote the song while touring battlefields, war cemeteries, and memorials in France and meditating on the horrors of war in general and the First World War in particular. He’s said that the particular William McBride of the song is fictional, intended to be metronymic for all the dead of that war, with the name McBride chosen for its Irish connotations and to rhyme with “graveside”. As it happens there were approximately twenty soldiers of that name who died in the Great War, eleven of whom are known to be buried in battlefield cemeteries in France or Belgium [^31].
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/8bb2907c5078b7cc.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/5edd1ff6caa1643d.png)
 
-_Of the eleven real William McBrides killed in the war and resting in France, this is the one who has been identified as most closely resembling Bogle’s fictional McBride [6]_
+_Of the eleven real William McBrides killed in the war and resting in France, this is the one who has been identified as most closely resembling Bogle’s fictional McBride [^32]_
 
 _France_ is widely considered one of the greatest anti-war and First World War memorial songs of all time, and I am inclined to agree. I’ve quoted from its lyrics with less restraint than I have most of the other songs, including a bit over half of it in relatively large blocks, because I want to make sure I convey its beauty.
 
 **Rating**: 10/10. Bogle’s original recording and every major cover I’ve heard of this song have been nearly uniformly outstanding. If I had to choose a favorite among them, I’d probably choose McDermott’s, with Bogle’s original as a very close second. Bogle has said that McDermott’s his favorite cover of the song as well.
 
 * * *
-
-[1] But not the last song we’ll be examining in detail. I’ve got one more song coming up after this one, and it’s a bit of a stretch to include it.
-
-[2] I’m using _Green Fields of France_ in preference to Bogle’s original title because it’s more distinctive and because most of the high-profile covers seem to use that title.
-
-[3] “MacBride” can also be a Scottish name, but the “Mc” spelling used by Bogle is the Irish spelling. Bogle has said [in a 2014 Radio New Zealand interview](https://www.rnz.co.nz/national/programmes/anzacday/audio/201798285/eric-bogle-making-peace-with-songs-about-war) (starting around the 12 minute timestamp) that he specifically chose an Irish name for the soldier as a counter to anti-Irish settlement in the UK. The context was that he was writing in 1976, in the middle of the Troubles in Northern Ireland.
-
-[4] If she’s the same age as McBride, and the song is taking place when Bogle wrote it, then she would be 79 years old.
-
-[5] Bogle RNZ interview, Op Cit
-
-[6] [Find A Grave for Pvt William McBride](https://www.findagrave.com/memorial/22808965/william-mcbride) of County Armagh, Ireland. The notes on this source contradict details of Bogle’s account in the RNZ interview. I think I believe Bogle over whoever wrote those notes.
 
 ## The Great Conch Train Robbery
 
@@ -521,10 +457,10 @@ _The Great Conch Train Robbery_ (1979) is another song written by Shel Silverste
 
 > ...I'm tired of being a shrimper  
 > Cuz a shrimper's life's too tame  
-> So I'm gonna rob [1] the Conch Train, boys,  
+> So I'm gonna rob [^33] the Conch Train, boys,  
 > And be like Jesse James.
 
-The narrator then explains to the audience that the Conch Train is “a tourist toy” used for sightseeing trips and is “like some weird ride from Disneyland”. If anything, this undersells the absurdity of Sam’s proposed career change. The Conch Train is real [2]; it’s a rubber-wheeled tram with open-sided cars (similar to the ones that shuttle guests to and from amusement park parking lots), styled like an old-fashioned steam train, that drives around city streets at little more than a jogging pace for a one-hour tour.
+The narrator then explains to the audience that the Conch Train is “a tourist toy” used for sightseeing trips and is “like some weird ride from Disneyland”. If anything, this undersells the absurdity of Sam’s proposed career change. The Conch Train is real [^34]; it’s a rubber-wheeled tram with open-sided cars (similar to the ones that shuttle guests to and from amusement park parking lots), styled like an old-fashioned steam train, that drives around city streets at little more than a jogging pace for a one-hour tour.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/a67e5d74f4cb079c.png)
 
@@ -533,14 +469,14 @@ Sam defends his plan to the audience by explaining that the tourists carry cash,
 > [In] case you didn’t hear me the first three times  
 > [I’m] gonna be like Jesse James
 
-The narrator then tells us how Sam seduced the engineer of the Conch Train, Betsy Wright, and convinced her to join the heist by slowing the train down and allowing Sam to do his thing [3].
+The narrator then tells us how Sam seduced the engineer of the Conch Train, Betsy Wright, and convinced her to join the heist by slowing the train down and allowing Sam to do his thing [^35].
 
-On the fateful day, Sam jumps naked out of the ocean, where he had been hiding, onto the train and holds up the tourists with his filet knife. Things do not go well for our hero [4], as near the back of the train rides Kelso Bolls, whom the narrator describes as “A redneck of respect and a marksman of renown”, who draws a concealed pistol and shoots Sam three times. The narrator spends two full verses describing Bolls and his one-sided shootout with Sam, explicitly comparing them to two classic Western movie stars:
+On the fateful day, Sam jumps naked out of the ocean, where he had been hiding, onto the train and holds up the tourists with his filet knife. Things do not go well for our hero [^36], as near the back of the train rides Kelso Bolls, whom the narrator describes as “A redneck of respect and a marksman of renown”, who draws a concealed pistol and shoots Sam three times. The narrator spends two full verses describing Bolls and his one-sided shootout with Sam, explicitly comparing them to two classic Western movie stars:
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/16bbabcc334a92a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/31e6c13338695565.png)_…and the third time that he shot poor Sam,_  
 > _You could see in both their eyes_
 > _Lash LaRue [Left] and Randolph Scott [Right]_
-_Beneath the Western skies._ [5]
+_Beneath the Western skies._ [^37]
 
 The closing verses are what at long last converge towards the deathbed ballad format, as a group that includes the narrator, Betsy, and Kelso carry Sam back to the nearby beach and listen to his dying words. Sam bears remarkably little ill will towards his killer, saying only that he “botched the job” and asking “But how can a boy be Jesse James / Without a train to rob?”
 
@@ -553,7 +489,7 @@ Kelso meets Sam’s sentiment in kind, mourning the man he has slain and express
 > But I only got to play Pat Garrett  
 > Cuz you played Jesse James.
 
-Kelso is mangling the history but getting the narrative perfectly. Pat Garrett was a legendary Western lawman and Jesse James an even more legendary Western outlaw, but Garrett is not the one who shot James. Jesse James was famously shot in the back by Robert Ford, a member of his gang, who was motivated by a promised reward and pardon. Ford is not well remembered in popular culture and Western legend [6]. Pat Garrett is best known for hunting down and killing Billy the Kid.
+Kelso is mangling the history but getting the narrative perfectly. Pat Garrett was a legendary Western lawman and Jesse James an even more legendary Western outlaw, but Garrett is not the one who shot James. Jesse James was famously shot in the back by Robert Ford, a member of his gang, who was motivated by a promised reward and pardon. Ford is not well remembered in popular culture and Western legend [^38]. Pat Garrett is best known for hunting down and killing Billy the Kid.
 
 The song closes with the narrator telling how they buried Sam there on the beach, Besty Wright regularly visits his grave to mourn him, and Sam’s tombstone bears the epitaph,
 
@@ -569,34 +505,22 @@ On the surface, _Conch Train_ doesn’t really seem to belong in the company of 
 
 * * *
 
-[1] Online lyrics listings universally say “ride”, but I’m pretty sure Silverstein is singing “rob”, which makes more sense in context.
-
-[2] As is Sloppy Joe’s bar. The Conch Train Tour’s website features a picture of the train driving past the aforementioned bar.
-
-[3] This is a case of “write what you know”. At the time, Silverstein lived in Key West and was in a relationship with Sarah Spenser, who worked as a Conch Train tour guide.
-
-[4] To be precise, I think Sam is an antihero at best. You can make a pretty good case for “villain protagonist”. His arc has the essential character of a classical tragic hero undone by his own hubris.
-
-[5] According to the Oracle of Bacon, LaRou and Scott never appeared together in the same movie. Both played heroes more often than villains, although LaRou’s heroic characters were often villain-coded and Scott’s villains were rarely depicted and entirely evil.
-
-[6] C.f. the 1983 novel and 2007 movie, _The Assassination of Jesse James by the Coward Robert Ford_.
-
 ## The Synoptic Problem
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/63d150319fa779dc.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/3b9e68497c7aedec.png)
 
-Of the four canonical Gospels of the New Testament, three of them, Matthew, Mark, and Luke, have enormous overlaps between them, and not just the way that we’d expect if they were independently-formulated accounts of the same events. To a large extent, they tell exactly the same stories in approximately the same order using very similar wordings. Some of this is all three, some is only present in two of the three, and there are major stylistic differences between the Luke/Matthew double tradition and the material that either or both share with Mark. These three books are known collectively as the “Synoptic [1] Gospels”, and the analysis of why they share these similarities in ways that the Gospel of John lacks is the “Synoptic Problem”. There are a plethora of hypotheses that have been offered to explain this, of which the currently most accepted is that Mark was written first and Luke and Matthew independently drew their shared material from a lost and unattested source known as the Q Gospel.
+Of the four canonical Gospels of the New Testament, three of them, Matthew, Mark, and Luke, have enormous overlaps between them, and not just the way that we’d expect if they were independently-formulated accounts of the same events. To a large extent, they tell exactly the same stories in approximately the same order using very similar wordings. Some of this is all three, some is only present in two of the three, and there are major stylistic differences between the Luke/Matthew double tradition and the material that either or both share with Mark. These three books are known collectively as the “Synoptic [^39] Gospels”, and the analysis of why they share these similarities in ways that the Gospel of John lacks is the “Synoptic Problem”. There are a plethora of hypotheses that have been offered to explain this, of which the currently most accepted is that Mark was written first and Luke and Matthew independently drew their shared material from a lost and unattested source known as the Q Gospel.
 
 There is a considerable body of scholarship attempting to analyze the cause of the thematic and textual overlaps between _Lad_, _Laredo_, _St. James_, _Crapshooter_, _France_, and other similar songs and poems. I’m familiar with some of the literature, but far from all of it. The conventional view is that all of them are straight-line derivative works of a single ancestral Irish ballad, usually referred to in the literature as _The Unfortunate Rake_, of which _Buck_ is often identified as one of the earliest surviving forms. _Laredo_ and _France_ are straight-line descendants of _Rake_ via _Lad_, and _St. James_ and _Crapshooter_ are an offshoot branch that grew within the African American musical tradition. Of the authors I’ve referenced so far, this view seems to be accepted by Bishop, Roud, and Haymes.
 
-More recent scholarship has questioned major elements of this narrative. Robert Harwood [2], seems to be the main pioneer here. He raises objections to the conventional theory and proposes an alternate one. Richard Jenkins [3] built on Harwood’s conclusions by tracing where and how the conventional narrative went wrong. And Karen Heath [4] wrote an essay summarizing the conventional and the Harwood theses, coming down mostly but not entirely on Harwood’s side, then after original publication she read Jenkins’s article and produced a revised version that briefly summarizes Jenkins’s view [5]. To summarize my understanding of where the Harwood/Jenkins thesis differs from conventional narrative,
+More recent scholarship has questioned major elements of this narrative. Robert Harwood [^40], seems to be the main pioneer here. He raises objections to the conventional theory and proposes an alternate one. Richard Jenkins [^41] built on Harwood’s conclusions by tracing where and how the conventional narrative went wrong. And Karen Heath [^42] wrote an essay summarizing the conventional and the Harwood theses, coming down mostly but not entirely on Harwood’s side, then after original publication she read Jenkins’s article and produced a revised version that briefly summarizes Jenkins’s view [^43]. To summarize my understanding of where the Harwood/Jenkins thesis differs from conventional narrative,
 
 1.  _The Unfortunate Lad_ is an early-to-mid 19th century English composition originating in or around London, probably inspired generally from a much older tradition of “Neck Ballads” about condemned criminals asking forgiveness for their wrongdoings and making requests for their funerals
 2.  _The Unfortunate Rake_ is an entirely unrelated Irish ballad that merely has a coincidentally similar title.
 3.  _St. James Infirmary Blues_ and _Dying Crapshooter Blues_ are the products of a seperate tradition that shares themes with _Lad_ and its direct descendants. The two traditions may have influenced one another, but they should be regarded as cousins or friends rather than descendants. The conventional view here, it is argued, was the result of poorly-supported speculation by an English journalist, A. L. “Bert” Lloyd, which generations of folklorists have taken for granted.
 4.  The mistakes in 2 and 3 have been compounded by generations of scholars and casual observers taking the conventional narrative for granted and allowing that to skew their own analyses as a collective exercise in confirmation bias and trapped priors.
 
-I think they make a fairly persuasive case, especially for 1 and 2. I am not entirely convinced on 3, but I have updated my views in the revisionist direction. I agree with their  point that there is substantial novelty in the _St. James/Crapshooter_ double traditional and the individual songs that deserves to be acknowledged as unique creative output and not as a mere Bad Quarto [6] of the _Lad_ tradition.
+I think they make a fairly persuasive case, especially for 1 and 2. I am not entirely convinced on 3, but I have updated my views in the revisionist direction. I agree with their  point that there is substantial novelty in the _St. James/Crapshooter_ double traditional and the individual songs that deserves to be acknowledged as unique creative output and not as a mere Bad Quarto [^44] of the _Lad_ tradition.
 
 If I understand correctly, the case for the _St. James_ and _Crapsh_ooter being an entirely separate tradition from _Lad_ and _Laredo_ rests on the lack of clear specific overlap between them in music or lyrics. I hesitate to put much weight on the melody being musically unrelated because all four songs have versions set to unrelated music: _Lad_ doesn’t even reliably share a tune with itself, and the same is true of the other three songs. As for lyrics, I think they do have some notable similarities. The story structure, at least for the longer forms of _St. James_, is virtually identical. The Devall version of _Laredo_ starts almost identically to _St. James_. The Roud Index does contain clear _Lad_ variants before the 1920s that reference St. James Infirmary or Hospital. If the musical resemblance I noticed between the tune of Baxter/Moore version of _St. James_ and Handel’s _Dead March_ was real and intentional, that would represent a fairly strong link to one of the most distinct and durable parts of the _Lad_ tradition. Despite the lack of shared passages, the two traditions do seem to have several motifs in common.
 
@@ -634,18 +558,6 @@ Unsurprisingly, all three of Silverstein’s songs (_Shades, Conch Train_, and _
 
 * * *
 
-[1] From Greek for “viewing together”.
-
-[2] Op Cit
-
-[3] Op Cit
-
-[4] Op Cit
-
-[5] I am extremely grateful to her for this, since I have been unable to a version of Jenkins’s paper available on reasonable terms so I am dependent on her essay and other summaries for my understanding of his arguments.
-
-[6] My characterization of Lloyd's supposition that _St. James_ was a corrupted derivative work of the _Lad_ tradition. A “quarto” is an Early Modern book-printing format where each page is formed from a quarter leaf of paper, generally a cheaper alternative to the “folio” format where each page was a half leaf. Early printed editions of Shakespeare’s plays come in two major flavors: authorized folio editions (especially the “First Folio”)  prepared and bootleg editions believed to have been transcribed by memory by cast or audience members, usually published in quarto format and referred to by Shakespeare scholars as the Bad Quartos.
-
 ## Closing Thoughts
 
 So what is it about these songs that interested me enough to spend fifteen thousand words and a two page spreadsheet analyzing them? Why have so many singers and songwriters been interested enough to add to the tradition, and why have so many of them (especially _St. James Infirmary_ and _The Streets of Laredo_) found many eager listeners? And if you, dear reader, are still with me, that suggests that the subject matter carries at least a bit of interest to you as well.
@@ -660,10 +572,98 @@ The nested story structure is also significant. The narrator tells how he meets 
 
 The format also gives songwriters an opportunity to explore themes of regret and negative examples. Almost every song I’ve reviewed has been some kind of cautionary tale. _Shades_ has themes of wasted potential and surrounding oneself with unworthy companions. _Laredo_ and _France_ warn against senseless violence. _Lad_ and _Elegy_ are explicit and heavy-handed cautions against high-risk sexual behaviors. _St. James_ may be telling that same story more subtly. _Crapshooter_’s protagonist dies and faces damnation after a life as a crooked hard-hearted underground gambler. And _Conch Train_ warns against throwing away what you have by chasing after hollow glory. Only the silly and tenuously-related _Kangaroo_ seems to lack major cautionary themes.
 
-I don’t think it’s an accident that _Lad_, _Buck_, and (if Heath is correct) _St. James_ all deal with death by syphilis. Today, almost eighty years after the advent of penicillin, and in an era where latex condoms are relatively cheap and widely available, syphilis is easily cured or avoided and there is little living memory of a time when it wasn’t. It’s easy to overlook that at the time of the first flush of mass popularity of _Lad_ or _St. James_, syphilis was arguably as devastating as the AIDS pandemic was in the late 20th century and for similar reasons. It’s a long-simmering disease spread through intimate contact. It can be spread by asymptomatic carriers. The disease was heavily stigmatized by association with shameful behavior and marginalized communities, which perversely often led to people refusing to acknowledge they were carriers and either seek treatment or avoid passing it to others. Untreated syphilis is less universally fatal than AIDS, but it can disfigure its late-stage sufferers so horrifically that it’s been hypothesized that it contributed to zombie legends [1].
+I don’t think it’s an accident that _Lad_, _Buck_, and (if Heath is correct) _St. James_ all deal with death by syphilis. Today, almost eighty years after the advent of penicillin, and in an era where latex condoms are relatively cheap and widely available, syphilis is easily cured or avoided and there is little living memory of a time when it wasn’t. It’s easy to overlook that at the time of the first flush of mass popularity of _Lad_ or _St. James_, syphilis was arguably as devastating as the AIDS pandemic was in the late 20th century and for similar reasons. It’s a long-simmering disease spread through intimate contact. It can be spread by asymptomatic carriers. The disease was heavily stigmatized by association with shameful behavior and marginalized communities, which perversely often led to people refusing to acknowledge they were carriers and either seek treatment or avoid passing it to others. Untreated syphilis is less universally fatal than AIDS, but it can disfigure its late-stage sufferers so horrifically that it’s been hypothesized that it contributed to zombie legends [^45].
 
 The songs that don’t involve syphilis replace it with other pervasive horrors. In _Laredo_, it’s interpersonal violence. In _France_, it’s the slow-motion apocalypse of the First World War. In _Conch Train_, it’s destructive glory-seeking. In _Crapshooter_, it’s a combination of Jesse’s own cutthroat conduct and police violence. All of these are problems that have left deep wounds on generations and communities, and several of them at least rhyme with issues that are still relevant today.
 
 * * *
 
-[1] If you are morbidly curious, here is a (NSFW, NSFL) [reddit thread with a compilation of photos](https://www.reddit.com/r/MorbidHistory/comments/m6p8xo/effects_of_syphilis_before_salvarsan_and/) of people with severe physical disfigurement from tertiary syphilis.
+[^1]: “Hipster” here is used in the early-to-mid-20th century sense of jazz/blues subculture and its imitators, not the modern subculture of the same name. The Beatniks of the 1950s and the Hippies of the 1960s are often considered to be successors of the Hipsters of the 1940s and before.
+
+[^2]: Structured irregularities in the beat of the music, much more typical of Jazz or Rock music than of Folk, although Silverstein’s music is often a blend of Folk and Rock elements and he often employed heavy syncopation even in his more Folk-styled pieces.
+
+[^3]: I’m quoting these verses in full for reasons that will become clear later.
+
+[^4]: “Damnation of memory”, a practice in Rome and several other ancient and classical cultures of attempting to erase certain wrongdoers from the historical record, condemning them to be forgotten by posterity.
+
+[^5]: Before the Blues: The Early American Black Music Scene, Volume 1, published by Yazoo Records
+
+[^6]: From the description on [this YouTube](https://www.youtube.com/watch?v=2scL1BSL5dc) listing of the song, also from [this listing of the original 78 single release](https://www.discogs.com/release/7551343-Dick-Devall-Tom-Shermans-Barroom-Out-On-The-Lone-Star-Cow-Trail?srsltid=AfmBOopKH9YFmh4yZgXjn4ytmeK1lzaJJOYF0OD36CxJzeCy8oL4LopI) of the recording.
+
+[^7]: Here, I am relying heavily on [The Myth of the Origins of St James’ Infirmary Blues and The Unfortunate Rake](https://earlyblues.org/essays-the-myth-of-the-origins-of-st-james-infirmary-blues-and-the-unfortunate-rake/), by Karen Heath.
+
+[^8]: Steve Roud and Julia Bishop, _The New Penguin Book of English Folk Songs_, 2014. Yes, the same Roud as in the Roud Database I keep nattering about.
+
+[^9]: Richard Jenkins, _The Unfortunate Rake’s Progress: A Case Study of the Construction of Folklore by Collectors and Scholars_, Folklore Volume 130, April 2019.
+
+[^10]: Heath, op cit
+
+[^11]: Ibid
+
+[^12]: Heath also brings up British laws requiring women believed to be prostitutes to be screened for symptoms of STIs and, if the results were positive, confined to Lock Hospitals. She takes this to imply that Lock Hospitals only treated women, seemingly at odds with the subject of the song being a man. I suspect she may be mistaken on this point: from what I can gather Lock Hospitals, including the original London Lock Hospital, primarily or exclusively treated women and the relevant provisions Contagious Disease Acts only mandated confinement for suspected prostitutes, but Lock Hospitals being female-only does not seem to have been a universal characteristic.
+
+[^13]: [https://archives.vwml.org/records/CJS2/10/401](https://archives.vwml.org/records/CJS2/10/401)
+
+[^14]: Heath (Op Cit) refers to it eight times as _The Buck’s Elegy_ and twice as _The Buck’s Lament_. I’m not sure whether this is a historical alternate name or a modern error.
+
+[^15]: Heath (Op Cit) mentions an older genre of “Neck Ballads” or “Goodnight Ballads”, about condemned criminals giving speeches at the gallows, often concluding with funeral requests. These have clear thematic similarities, but she does not cite any (nor have I been able to find any on my own) that show signs of being clear ancestors of most of the songs I’m analyzing.
+
+[^16]: Ibid, and also [Phil Baxter, 1925 co-composer of Gambler's Blues (aka St. James Infirmary)](https://iwentdowntostjamesinfirmary.blogspot.com/2020/03/phil-baxter-1925-co-composer-of.html) by Robert Harwood, 2020.
+
+[^17]: [Charleston Cabin - The California Ramblers - 1924](https://www.youtube.com/watch?v=vgpmeFyu8zk)
+
+[^18]: $374 in 2025 dollars, or about 50 hours wages for a common laborer in 1930, according to the Bureau of Labor Statistics. CPI calculator and the 1936 Handbook of Labor Statistics, respectively.
+
+[^19]: In draw poker or blackjack, to stand pat is to play the hand you’ve been dealt without drawing any (more) cards. Source: it is known.
+
+[^20]: Op Cit
+
+[^21]: It could still have been syphilis as of the 1920s. At least two effective cures had been discovered: a protocol of deliberate infection with malaria to induce a high fever that killed the syphilis bacteria, developed in the late 19th century, and an arsenic-based antimicrobial drug called Salvarsan, invented c. 1910. Both had severe and dangerous side effects, required arduous courses of treatment, and the latter in particular was only effective relatively early in the progression of the disease. Penicillin treatment didn’t become available until the 1940s, and problems with access to diagnosis and treatment meant nearly a hundred thousand people a year were still dying of syphilis in the US three decades after that.
+
+[^22]: In which Gunthrie tells a mostly-true story about his attempt to help clean out a friend’s home on Thanksgiving and its consequences. A film adaptation was made in 1969, in which both Gunthrie and the local police chief who had arrested him (William Obanahan) played themselves.
+
+[^23]: Laurie also has an extensive career in acting and sketch comedy, of which I am even more a fan. You may know him from _House MD, Blackadder, Jeeves and Wooster_, or _A Bit of Fry and Laurie_.
+
+[^24]: [Tracing The Origins Of Dying Crapshooters' Blues Back To English And Irish Folksong In The Eighteenth Century](https://www.earlyblues.com/Essay%20-%20Tracing%20The%20Origins%20of%20Dying%20Crapshooters%20Blues%20-%20Chapter%20I.htm), originally a 1989 dissertation, revised in 2012.
+
+[^25]: [Blind Willie McTell and the authorship of Dyin' Crapshooter's Blues](https://iwentdowntostjamesinfirmary.blogspot.com/2009/06/blind-willie-mctell-and-authorship-of.html), 2009.
+
+[^26]: Haynes, [Appendix II](https://www.earlyblues.com/Essay%20-%20Tracing%20The%20Origins%20of%20Dying%20Crapshooters%20Blues%20-%20Appendix%20II.htm), Op Cit.
+
+[^27]: But not the last song we’ll be examining in detail. I’ve got one more song coming up after this one, and it’s a bit of a stretch to include it.
+
+[^28]: I’m using _Green Fields of France_ in preference to Bogle’s original title because it’s more distinctive and because most of the high-profile covers seem to use that title.
+
+[^29]: “MacBride” can also be a Scottish name, but the “Mc” spelling used by Bogle is the Irish spelling. Bogle has said [in a 2014 Radio New Zealand interview](https://www.rnz.co.nz/national/programmes/anzacday/audio/201798285/eric-bogle-making-peace-with-songs-about-war) (starting around the 12 minute timestamp) that he specifically chose an Irish name for the soldier as a counter to anti-Irish settlement in the UK. The context was that he was writing in 1976, in the middle of the Troubles in Northern Ireland.
+
+[^30]: If she’s the same age as McBride, and the song is taking place when Bogle wrote it, then she would be 79 years old.
+
+[^31]: Bogle RNZ interview, Op Cit
+
+[^32]: [Find A Grave for Pvt William McBride](https://www.findagrave.com/memorial/22808965/william-mcbride) of County Armagh, Ireland. The notes on this source contradict details of Bogle’s account in the RNZ interview. I think I believe Bogle over whoever wrote those notes.
+
+[^33]: Online lyrics listings universally say “ride”, but I’m pretty sure Silverstein is singing “rob”, which makes more sense in context.
+
+[^34]: As is Sloppy Joe’s bar. The Conch Train Tour’s website features a picture of the train driving past the aforementioned bar.
+
+[^35]: This is a case of “write what you know”. At the time, Silverstein lived in Key West and was in a relationship with Sarah Spenser, who worked as a Conch Train tour guide.
+
+[^36]: To be precise, I think Sam is an antihero at best. You can make a pretty good case for “villain protagonist”. His arc has the essential character of a classical tragic hero undone by his own hubris.
+
+[^37]: According to the Oracle of Bacon, LaRou and Scott never appeared together in the same movie. Both played heroes more often than villains, although LaRou’s heroic characters were often villain-coded and Scott’s villains were rarely depicted and entirely evil.
+
+[^38]: C.f. the 1983 novel and 2007 movie, _The Assassination of Jesse James by the Coward Robert Ford_.
+
+[^39]: From Greek for “viewing together”.
+
+[^40]: Op Cit
+
+[^41]: Op Cit
+
+[^42]: Op Cit
+
+[^43]: I am extremely grateful to her for this, since I have been unable to a version of Jenkins’s paper available on reasonable terms so I am dependent on her essay and other summaries for my understanding of his arguments.
+
+[^44]: My characterization of Lloyd's supposition that _St. James_ was a corrupted derivative work of the _Lad_ tradition. A “quarto” is an Early Modern book-printing format where each page is formed from a quarter leaf of paper, generally a cheaper alternative to the “folio” format where each page was a half leaf. Early printed editions of Shakespeare’s plays come in two major flavors: authorized folio editions (especially the “First Folio”)  prepared and bootleg editions believed to have been transcribed by memory by cast or audience members, usually published in quarto format and referred to by Shakespeare scholars as the Bad Quartos.
+
+[^45]: If you are morbidly curious, here is a (NSFW, NSFL) [reddit thread with a compilation of photos](https://www.reddit.com/r/MorbidHistory/comments/m6p8xo/effects_of_syphilis_before_salvarsan_and/) of people with severe physical disfigurement from tertiary syphilis.

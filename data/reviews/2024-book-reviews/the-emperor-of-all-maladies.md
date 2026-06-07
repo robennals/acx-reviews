@@ -15,6 +15,7 @@ tags:
   - Fiction
   - History
   - Science
+disableFootnotes: true
 ---
 
 ## GENESIS

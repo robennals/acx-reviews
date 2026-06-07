@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Biology
   - History
+disableFootnotes: true
 ---
 
 * * *

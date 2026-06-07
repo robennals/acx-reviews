@@ -1,6 +1,310 @@
 {
+  "0th-dimension-infinite-theory": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "a-poor-wise-man": {
+    "disableFootnotes": true
+  },
+  "a-residence-of-twenty-one-years-in-the-sandwich-islands": {
+    "skipFetch": true
+  },
+  "a-swim-in-a-pond-in-the-rain-by-george-saunders-2022": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "aesopian-language-in-russian-literature": {
+    "dropLeadingContentLines": 2
+  },
+  "antonio-damasios-feeling-knowing-making-minds-conscious": {
+    "dropBeforeLineContaining": "I have always been fascinated"
+  },
+  "battle-hymn-of-the-tiger-mother": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "being-you-a-new-science-of-consciousness-by-anil-seth": {
+    "skipFetch": true
+  },
+  "candide": {
+    "skipFetch": true
+  },
+  "capitalist-realism": {
+    "disableItalicAsBlockquote": true,
+    "dropLeadingContentLines": 1
+  },
+  "choosing-elites-by-robert-klitgaard": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "chuang-tzu-the-inner-chapters-by-a-c-graham": {
+    "forcePoetryQuotes": true
+  },
+  "consequences-of-language-from-primary-to-enhanced-intersubjectivity": {
+    "skipFetch": true
+  },
+  "coriolanus": {
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true,
+    "skipFetch": true
+  },
+  "cultural-evolution": {
+    "skipFetch": true
+  },
+  "deathbed-ballads": {
+    "skipFetch": true
+  },
+  "deja-vu": {
+    "skipFetch": true
+  },
+  "der-untergang-des-abendlandes": {
+    "disableItalicAsBlockquote": true,
+    "minorityFontAsBlockquote": true,
+    "dropLeadingContentLines": 1
+  },
+  "food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
+    "docUrlOverride": "https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI/edit",
+    "joinAdjacentParagraphs": true
+  },
+  "from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "getting-things-done-by-david-allen": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "ghosts": {
+    "skipFetch": true
+  },
+  "gilead": {
+    "skipFetch": true
+  },
+  "grave-of-the-fireflies": {
+    "skipFetch": true
+  },
+  "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness": {
+    "skipFetch": true
+  },
+  "how-i-killed-pluto-and-why-it-had-it-coming": {
+    "skipFetch": true
+  },
+  "how-language-began": {
+    "skipFetch": true
+  },
+  "how-minds-change-by-david-mcraney": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "how-to-prevent-coups-dtat": {
+    "skipFetch": true
+  },
+  "into-the-universe-of-technical-images": {
+    "shortLinesAsBlockquote": true
+  },
+  "joan-of-arc": {
+    "skipFetch": true
+  },
+  "lesbian-fanfiction": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "lying-for-money": {
+    "skipFetch": true
+  },
+  "meeting-hardly-meeting": {
+    "shortLinesAsPoetryStanzas": true
+  },
+  "mistletoe-and-memorandums-by-claude": {
+    "quoteAfterListIsContinuation": true
+  },
+  "moscow-petushki-by-venedikt-yerofeyev": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "my-fathers-instant-mashed-potatoes": {
+    "skipFetch": true
+  },
+  "njals-saga": {
+    "skipFetch": true
+  },
+  "ollantay": {
+    "skipFetch": true
+  },
+  "on-taste": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "orality-and-literacy-by-walter-ong": {
+    "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
+    "insertBlankAfter": "^\\*\\*Changes\\*\\*:"
+  },
+  "painting-abstract-landscapes": {
+    "skipFetch": true
+  },
   "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
     "truncateAtLineContaining": "not for publication",
+    "skipFetch": true
+  },
+  "piranesi-by-susanna-clarke": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "planecrash-es-yudwkosky": {
+    "disableQuotedParagraphAsBlockquote": true
+  },
+  "plotting-your-fantasy-novel": {
+    "bulletsAfterQuoteAreQuoted": true
+  },
+  "plutarchs-parallel-lives-tiberius-and-gaius-gracchi": {
+    "allowBoldHeadingWithPunct": true
+  },
+  "probability-theory-the-logic-of-science": {
+    "imageReplacements": {
+      "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",
+      "5374534c3e17ded8": "$$\\left(\\frac{M}{N}\\right)^r$$"
+    }
+  },
+  "progress-and-poverty": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "progressive-myths": {
+    "disableFootnotes": true
+  },
+  "project-xanadu": {
+    "skipFetch": true
+  },
+  "public-citizens": {
+    "skipFetch": true
+  },
+  "python-data-science-handbook": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "rationality-what-it-is-why-it-seems-scarce-why-it-matters-by-steven-pinker": {
+    "skipFetch": true
+  },
+  "real-raw-news": {
+    "skipFetch": true
+  },
+  "religion-for-atheists": {
+    "skipFetch": true
+  },
+  "sadly-porn": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "safe-enough": {
+    "skipFetch": true
+  },
+  "school": {
+    "skipFetch": true
+  },
+  "sense-of-style-by-stephen-pinker": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "shall-the-religious-inherit-the-earth-by-eric-kaufmann": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "siddhartha-1922-by-hermann-hesse": {
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true
+  },
+  "state-of-competitive-debating-unions-address": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "summa-technologiae": {
+    "disableBlockquotes": true
+  },
+  "that-hideous-strength": {
+    "skipFetch": true
+  },
+  "the-brothers-karamazov": {
+    "skipFetch": true
+  },
+  "the-case-against-the-sexual-revolution-by-louise-perry": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "the-culture-of-narcissism-by-christopher-lasch": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "the-emperor-of-all-maladies": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "the-epic-of-gilgamesh": {
+    "forcePoetryQuotes": true,
+    "skipFetch": true
+  },
+  "the-family-that-couldnt-sleep": {
+    "skipFetch": true
+  },
+  "the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical": {
+    "skipFetch": true
+  },
+  "the-ghost-in-my-brain": {
+    "disableItalicAsBlockquote": true
+  },
+  "the-gods-themselves": {
+    "disableFootnotes": true
+  },
+  "the-irony-of-american-history-by-reinhold-niebuhr": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "the-ladder-of-causation": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "the-laws-of-trading": {
+    "skipFetch": true
+  },
+  "the-lever-of-riches": {
+    "skipFetch": true
+  },
+  "the-man-who-was-thursday": {
+    "skipFetch": true
+  },
+  "the-master-margarita": {
+    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit",
+    "disableFootnotes": true
+  },
+  "the-matter-with-things-by-iain-mcgilchrist": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "the-merry-wives-of-windsor": {
+    "removeBlanksBeforeMatching": "^>\\s*\\(Act "
+  },
+  "the-pale-king": {
+    "skipFetch": true
+  },
+  "the-pillow-book": {
+    "preserveLeadingHeading": true
+  },
+  "the-pre-training-data": {
+    "disableFootnotes": true
+  },
+  "the-radicalism-of-the-american-revolution": {
+    "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
+  },
+  "the-rise-and-fall-of-the-third-reich": {
+    "skipFetch": true
+  },
+  "the-rule-of-law": {
+    "numberedListAsBullets": true
+  },
+  "the-simulacra": {
     "skipFetch": true
   },
   "the-sins-of-gk-chesterton": {
@@ -10,189 +314,45 @@
     },
     "forcePoetryQuotes": true
   },
-  "aesopian-language-in-russian-literature": {
-    "dropLeadingContentLines": 2
-  },
-  "summa-technologiae": {
-    "disableBlockquotes": true
-  },
-  "the-pillow-book": {
-    "preserveLeadingHeading": true
-  },
-  "the-epic-of-gilgamesh": {
-    "forcePoetryQuotes": true,
-    "skipFetch": true
-  },
-  "orality-and-literacy-by-walter-ong": {
-    "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
-    "insertBlankAfter": "^\\*\\*Changes\\*\\*:"
-  },
-  "chuang-tzu-the-inner-chapters-by-a-c-graham": {
-    "forcePoetryQuotes": true
-  },
-  "the-merry-wives-of-windsor": {
-    "removeBlanksBeforeMatching": "^>\\s*\\(Act "
-  },
-  "capitalist-realism": {
-    "disableItalicAsBlockquote": true,
-    "dropLeadingContentLines": 1
-  },
-  "tortilla-flat-by-john-steinbeck": {
-    "minorityFontAsBlockquote": true
-  },
-  "der-untergang-des-abendlandes": {
-    "disableItalicAsBlockquote": true,
-    "minorityFontAsBlockquote": true,
-    "dropLeadingContentLines": 1
-  },
-  "coriolanus": {
-    "disableItalicAsBlockquote": true,
-    "disableQuotedParagraphAsBlockquote": true,
-    "skipFetch": true
-  },
-  "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review": {
-    "docUrlOverride": "https://docs.google.com/document/d/1XDRg03enDnyrl4hY7xwrPgssSigAydbdSYuHTjh5MUI/edit",
-    "joinAdjacentParagraphs": true
-  },
-  "plutarchs-parallel-lives-tiberius-and-gaius-gracchi": {
-    "allowBoldHeadingWithPunct": true
-  },
-  "the-ghost-in-my-brain": {
-    "disableItalicAsBlockquote": true
-  },
-  "time-gifts": {
-    "disableItalicAsBlockquote": true,
-    "disableQuotedParagraphAsBlockquote": true
-  },
-  "siddhartha-1922-by-hermann-hesse": {
-    "disableItalicAsBlockquote": true,
-    "disableQuotedParagraphAsBlockquote": true
-  },
-  "how-i-killed-pluto-and-why-it-had-it-coming": {
-    "skipFetch": true
-  },
-  "the-gods-themselves": {
-    "disableFootnotes": true
-  },
-  "the-sun-also-rises": {
-    "disableFootnotes": true
-  },
-  "the-pre-training-data": {
-    "disableFootnotes": true
-  },
   "the-son-also-rises": {
     "superscriptFootnotes": true
-  },
-  "a-poor-wise-man": {
-    "disableFootnotes": true
-  },
-  "progressive-myths": {
-    "disableFootnotes": true
-  },
-  "the-radicalism-of-the-american-revolution": {
-    "promoteToSubheading": "^>\\s+_\\d+\\\\\\.\\s+[^_]+_\\s*$"
-  },
-  "the-rule-of-law": {
-    "numberedListAsBullets": true
-  },
-  "the-master-margarita": {
-    "docUrlOverride": "https://docs.google.com/document/d/1TJzYPjmGTFdxR9AJN173ZXUcb0mwLFyeKvTFZvVlPTo/edit",
-    "disableFootnotes": true
-  },
-  "mistletoe-and-memorandums-by-claude": {
-    "quoteAfterListIsContinuation": true
-  },
-  "plotting-your-fantasy-novel": {
-    "bulletsAfterQuoteAreQuoted": true
-  },
-  "planecrash-es-yudwkosky": {
-    "disableQuotedParagraphAsBlockquote": true
-  },
-  "into-the-universe-of-technical-images": {
-    "shortLinesAsBlockquote": true
-  },
-  "meeting-hardly-meeting": {
-    "shortLinesAsPoetryStanzas": true
-  },
-  "antonio-damasios-feeling-knowing-making-minds-conscious": {
-    "dropBeforeLineContaining": "I have always been fascinated"
-  },
-  "probability-theory-the-logic-of-science": {
-    "imageReplacements": {
-      "19796f48ef730e08": "$$\\frac{M!(N-r)!}{(M-r)!N!}$$",
-      "5374534c3e17ded8": "$$\\left(\\frac{M}{N}\\right)^r$$"
-    }
-  },
-  "a-residence-of-twenty-one-years-in-the-sandwich-islands": {
-    "skipFetch": true
-  },
-  "candide": {
-    "skipFetch": true
-  },
-  "that-hideous-strength": {
-    "skipFetch": true
-  },
-  "the-brothers-karamazov": {
-    "skipFetch": true
   },
   "the-sovereign-child": {
     "skipFetch": true
   },
-  "ghosts": {
+  "the-sun-also-rises": {
+    "disableFootnotes": true
+  },
+  "the-tale-of-the-princess-kaguya": {
     "skipFetch": true
   },
-  "world-war-z": {
+  "the-weirdest-people-in-the-world": {
     "skipFetch": true
   },
   "the-wisdom-of-mike-mentzer": {
     "skipFetch": true
   },
-  "the-man-who-was-thursday": {
-    "skipFetch": true
+  "time-gifts": {
+    "disableItalicAsBlockquote": true,
+    "disableQuotedParagraphAsBlockquote": true
   },
-  "painting-abstract-landscapes": {
-    "skipFetch": true
-  },
-  "works-by-isaac-bickerstaff": {
-    "skipFetch": true
-  },
-  "how-to-prevent-coups-dtat": {
-    "skipFetch": true
-  },
-  "being-you-a-new-science-of-consciousness-by-anil-seth": {
-    "skipFetch": true
+  "tortilla-flat-by-john-steinbeck": {
+    "minorityFontAsBlockquote": true
   },
   "traces-erased-by-the-sun": {
     "skipFetch": true
   },
-  "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness": {
+  "why-nations-fail": {
     "skipFetch": true
   },
-  "religion-for-atheists": {
+  "why-people-die-by-suicide-by-thomas-joiner": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
+  "works-by-isaac-bickerstaff": {
     "skipFetch": true
   },
-  "the-lever-of-riches": {
-    "skipFetch": true
-  },
-  "gilead": {
-    "skipFetch": true
-  },
-  "the-simulacra": {
-    "skipFetch": true
-  },
-  "consequences-of-language-from-primary-to-enhanced-intersubjectivity": {
-    "skipFetch": true
-  },
-  "grave-of-the-fireflies": {
-    "skipFetch": true
-  },
-  "the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical": {
-    "skipFetch": true
-  },
-  "the-tale-of-the-princess-kaguya": {
-    "skipFetch": true
-  },
-  "cultural-evolution": {
+  "world-war-z": {
     "skipFetch": true
   }
 }

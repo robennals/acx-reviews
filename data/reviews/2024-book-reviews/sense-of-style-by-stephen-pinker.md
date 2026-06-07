@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Psychology
   - Society
+disableFootnotes: true
 ---
 
 If your 7th-grade experience looked anything like mine, you probably studied grammar rules. You structured five-paragraph essays. You memorized the [do's and don'ts of style guides](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X).

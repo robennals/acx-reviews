@@ -15,6 +15,7 @@ tags:
   - Psychology
   - Society
   - History
+disableFootnotes: true
 ---
 
 What is the sexual revolution, and what does [Louise Perry](https://www.louisemperry.co.uk/), a millennial and former rape crisis counselor, have against it?

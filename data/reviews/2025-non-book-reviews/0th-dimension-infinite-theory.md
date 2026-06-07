@@ -13,6 +13,7 @@ originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94
 source: gdoc
 tags:
   - Philosophy
+disableFootnotes: true
 ---
 
 _Anti-Realist Argument - The Conceivable & Inconceivable Argument_

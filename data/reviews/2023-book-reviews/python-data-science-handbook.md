@@ -13,6 +13,7 @@ originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSs
 source: gdoc
 tags:
   - Technology
+disableFootnotes: true
 ---
 
 This is a review of an O’Reilly book, so something between a textbook and a “how to” book. It’s a different book than most of the book review targets for Astral Codex Ten. Still, given the audience of the site and the topic, I thought it might be interesting to the readership. I was looking for something that would get me back into doing some data analysis. So, if you know some Python and some data analysis, is this a good book to refresh and get some practice on those topics? Yes, it’s pretty good, even without any previous data analysis experience. For me, the book ticked a number of boxes:

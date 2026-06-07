@@ -13,6 +13,7 @@ originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe
 source: gdoc
 tags:
   - Society
+disableFootnotes: true
 ---
 
 (But Reviewed Good This Time)

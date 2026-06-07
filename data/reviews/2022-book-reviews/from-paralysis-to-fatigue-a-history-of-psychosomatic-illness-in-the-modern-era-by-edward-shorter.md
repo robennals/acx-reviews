@@ -15,6 +15,7 @@ tags:
   - Psychology
   - History
   - Science
+disableFootnotes: true
 ---
 
 ## PART 1
