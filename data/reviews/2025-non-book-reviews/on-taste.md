@@ -13,6 +13,7 @@ originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPD
 source: gdoc
 tags:
   - Philosophy
+disableFootnotes: true
 ---
 
 > “**29** When Moses came down from Mount Sinai with the two tablets of the covenant law in his hands, he was not aware that his face was radiant because he had spoken with the Lord. **30** When Aaron and all the Israelites saw Moses, his face was radiant, and they were afraid to come near him.”

@@ -13,6 +13,7 @@ originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPD
 source: gdoc
 tags:
   - Society
+disableFootnotes: true
 ---
 
 Li Shengwu is atypical many times over. He is a renowned economist. He is a grandson of Singapore’s founding father who emigrated to the United States. He received tenure from Harvard University at the age of 39. In another lifetime--that of the Obama era--he was also extremely successful in the world of competitive debate.

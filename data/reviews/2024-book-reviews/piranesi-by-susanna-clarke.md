@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Fiction
   - Philosophy
+disableFootnotes: true
 ---
 
 Susanna Clarke’s _[Piranesi](https://www.bloomsbury.com/us/piranesi-9781635575637/)_ is a novel of magical realism. There are three reasons that the ACX crowd should be interested. First, it’s about reason versus naive religious belief. Second, it’s about good versus evil. And third, the novel is an adult post-traumatic response to C.S. Lewis’s _Chronicles of Narnia_.

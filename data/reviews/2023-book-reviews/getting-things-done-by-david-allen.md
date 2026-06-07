@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Psychology
   - Society
+disableFootnotes: true
 ---
 
 ## I.

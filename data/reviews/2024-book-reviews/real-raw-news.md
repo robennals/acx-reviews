@@ -46,7 +46,7 @@ And then there is one site where a _very different_ narrative is unfolding:
 > 
 > _The floor beneath Garland’s feet fell away, and he dropped. His neck snapped, ending his miserable life._
 
-Ladies and gentlemen, welcome to [Real Raw News.](https://realrawnews.com/)[1](#footnote-1)
+Ladies and gentlemen, welcome to [Real Raw News.](https://realrawnews.com/)[^1]
 
 #### The World According to Michael Baxter
 
@@ -75,15 +75,15 @@ The basic summary of the past four years of world history, according to RRN, are
 *   The lack of evidence that all this is happening is entirely explained through coordinated media silence as well as the widespread use of body doubles and clones.
 
 
-The heart of Real Raw News, and the source of most of its entertainment value, is its accounts of the supposed secret military tribunals occurring at America’s Guantanamo Bay Naval Base in Cuba, better known as Gitmo[2](#footnote-2). For more than three years, the site has produced one article after another describing the arrest, trial, and execution of dozens of major and not-so-major figures in American life. 
+The heart of Real Raw News, and the source of most of its entertainment value, is its accounts of the supposed secret military tribunals occurring at America’s Guantanamo Bay Naval Base in Cuba, better known as Gitmo[^2]. For more than three years, the site has produced one article after another describing the arrest, trial, and execution of dozens of major and not-so-major figures in American life. 
 
 Hillary Clinton? [Arrested](https://realrawnews.com/2021/03/navy-seals-arrest-hillary-clinton/), [tried](https://realrawnews.com/2021/04/clinton-military-tribunal-day-5-conviction/), [executed](https://realrawnews.com/2021/04/hillary-clinton-hanged-at-gitmo/).
 
 Bill Gates? [Arrested](https://realrawnews.com/2021/08/military-arrests-bill-gates/), [tried](https://realrawnews.com/2021/09/military-convicts-bill-gates/), [executed](https://realrawnews.com/2021/10/bill-gates-hanged-at-gimo-ahead-of-schedule/).
 
-Dick Cheney? Fled the country via a [secret underground tunnel](https://realrawnews.com/2021/12/dick-cheney-flees-u-s-for-new-zealand/) to a CIA airfield, but then returned to America on vacation [for some reason](https://realrawnews.com/2021/12/dick-cheney-arrested/)[3](#footnote-3), arrested, [tried](https://realrawnews.com/2022/01/dick-cheney-convicted-of-treason-homicide/), [executed](https://realrawnews.com/2022/01/dick-cheney-hanged-at-gitmo/).
+Dick Cheney? Fled the country via a [secret underground tunnel](https://realrawnews.com/2021/12/dick-cheney-flees-u-s-for-new-zealand/) to a CIA airfield, but then returned to America on vacation [for some reason](https://realrawnews.com/2021/12/dick-cheney-arrested/)[^3], arrested, [tried](https://realrawnews.com/2022/01/dick-cheney-convicted-of-treason-homicide/), [executed](https://realrawnews.com/2022/01/dick-cheney-hanged-at-gitmo/).
 
-[George W. Bush](https://realrawnews.com/2022/01/george-w-bush-hanged-at-gitmo/), [Hunter Biden](https://realrawnews.com/2021/10/hunter-biden-hanged-at-gitmo/), [Anthony Fauci](https://realrawnews.com/2022/04/gitmo-double-header-execution-anthony-fauci-loretta-lynch/), [Gavin Newsom](https://realrawnews.com/2022/01/gavin-newsom-gets-death-penalty/), [Mark Milley](https://realrawnews.com/2023/10/mark-milley-hanged-at-gitmo/), [Victoria Nuland](https://realrawnews.com/2024/04/nuland-hanged-at-gitmo-ahead-of-schedule/), [Tom Hanks](https://realrawnews.com/2021/07/military-executes-tom-hanks/) (?), [Brian Stelter](https://realrawnews.com/2022/09/brian-stelter-executed/) (???) – All arrested and executed, in turn[4](#footnote-4). Almost all defendants are hanged, which actually is not the method prescribed by the Uniform Code of Military Justice, but has the advantage of being far more cinematic. 
+[George W. Bush](https://realrawnews.com/2022/01/george-w-bush-hanged-at-gitmo/), [Hunter Biden](https://realrawnews.com/2021/10/hunter-biden-hanged-at-gitmo/), [Anthony Fauci](https://realrawnews.com/2022/04/gitmo-double-header-execution-anthony-fauci-loretta-lynch/), [Gavin Newsom](https://realrawnews.com/2022/01/gavin-newsom-gets-death-penalty/), [Mark Milley](https://realrawnews.com/2023/10/mark-milley-hanged-at-gitmo/), [Victoria Nuland](https://realrawnews.com/2024/04/nuland-hanged-at-gitmo-ahead-of-schedule/), [Tom Hanks](https://realrawnews.com/2021/07/military-executes-tom-hanks/) (?), [Brian Stelter](https://realrawnews.com/2022/09/brian-stelter-executed/) (???) – All arrested and executed, in turn[^4]. Almost all defendants are hanged, which actually is not the method prescribed by the Uniform Code of Military Justice, but has the advantage of being far more cinematic. 
 
 It would be easy for all of this to get old, but like with [variations](https://en.wikipedia.org/wiki/Variation_(music)) in classical music, subtle differences to each iteration enrich the whole. Some defendants desperately try to deny responsibility for their crimes. Some arrogantly taunt the tribunal, assuming until the very end that they are untouchable. Some literally scream as though demon-possessed. Some fake senility or amnesia. But crucially, all of them face justice, one way or another. 
 
@@ -93,7 +93,7 @@ An [entry](https://realrawnews.com/2024/05/jag-sentences-deep-state-judge-to-han
 > 
 > _“Then I’ll take care of the people here and this place,” McAfee said._
 > 
-> _“Mr. McAfee, I’m told you are of sound mind and know where you are, right?” Admiral Stephens asked_[5](#footnote-5)_._
+> _“Mr. McAfee, I’m told you are of sound mind and know where you are, right?” Admiral Stephens asked_[^5]_._
 > 
 > _“I’m in a Kangaroo court in the Banana Republic of Trump, staring at a guy who couldn’t hack it in the real world, couldn’t run a private practice, get a partnership, or sit on a real bench, so he went into the military,” McAfee said._
 > 
@@ -115,7 +115,7 @@ Yes, this is the judge of Trump’s criminal case in Fulton County. In the Real 
 
 That motive, it appears, is getting evil judges to expose their bias by ruling against him, so that they can be arrested and executed for treason. 
 
-The site often offers an alternative narrative regarding events in the official, Deep State-backed news narrative. When Colin Powell died, RRN was there to explain that he actually [committed suicide](https://realrawnews.com/2021/10/colin-powell-committed-suicide/), fearing arrest by the military. When former Tom Hanks co-star Peter Scolari died of cancer, RRN swooped in to attribute his demise to an unexpected military tribunal[6](#footnote-6). This pattern is one of the chief reasons fans cite for believing the site: Isn’t it incredible, they say, how some of the _same people_ RRN reports the executions of _just happen_ to have recently died or been hospitalized in the mainstream press? What are the odds?
+The site often offers an alternative narrative regarding events in the official, Deep State-backed news narrative. When Colin Powell died, RRN was there to explain that he actually [committed suicide](https://realrawnews.com/2021/10/colin-powell-committed-suicide/), fearing arrest by the military. When former Tom Hanks co-star Peter Scolari died of cancer, RRN swooped in to attribute his demise to an unexpected military tribunal[^6]. This pattern is one of the chief reasons fans cite for believing the site: Isn’t it incredible, they say, how some of the _same people_ RRN reports the executions of _just happen_ to have recently died or been hospitalized in the mainstream press? What are the odds?
 
 Perhaps surprisingly, the star figure in Real Raw News’s tapestry of blood is not Donald Trump; like Gandalf or Dumbledore, he is a heroic but distant and largely off-screen figure. Instead, the primary hero is Rear Admiral Darse Crandall, who dispenses lethal justice with shocking efficiency while always being ready with a good quip:
 
@@ -161,7 +161,7 @@ When Baxter reported on the [arrest](https://realrawnews.com/2022/04/military-ar
 
 I’ll admit, I find Baxter’s efforts to maintain narrative integrity incredibly charming, given how they clash with the latent absurdity of the whole endeavor. Like most fictional universes, the Real Raw Newsiverse crumbles if you think about it too hard. If there are White Hat and Black Hat partitions of the military, how does military procurement work? How do newly-enlisted personnel know which faction they are joining? Do the two factions have separate recruiters? And when literally everyone carries a basic video camera in their pocket, and social media access is universal, how are major battles being fought on American soil with zero video evidence anywhere?
 
-At the meta level, the entire construct gets even sillier. The conceit of the site is that Trump has _secretly_ left power to entrap his foes…yet then his allies go and blab the entire “real” story to an online blog. The cover for this is that the masses simply don’t believe it, but you know who would _definitely_ know whether the blog is accurate? The Deep State! Yet despite this, in RRN lore sinister actors from Andrew Cuomo to Oprah are always caught off guard when Delta Force[7](#footnote-7) smashes down their door and zip-ties their hands for a one-way trip to Cuba. 
+At the meta level, the entire construct gets even sillier. The conceit of the site is that Trump has _secretly_ left power to entrap his foes…yet then his allies go and blab the entire “real” story to an online blog. The cover for this is that the masses simply don’t believe it, but you know who would _definitely_ know whether the blog is accurate? The Deep State! Yet despite this, in RRN lore sinister actors from Andrew Cuomo to Oprah are always caught off guard when Delta Force[^7] smashes down their door and zip-ties their hands for a one-way trip to Cuba. 
 
 #### Okay, But So What?
 
@@ -189,7 +189,7 @@ The Real Raw Newsiverse, and other modern conspiracy theories, also function lik
 
 Fans of comic books, soap operas, or The Simpsons might be familiar with something TVTropes calls [“comic book time.”](https://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTime) Certain facets of a fictional reality are locked in place, and with the passage of time everything else is gradually retconned to maintain the status quo.
 
-In season 2 of the Simpsons, Homer and Marge started dating [in 1974](https://en.wikipedia.org/wiki/The_Way_We_Was), in Season 3 Marge becomes pregnant with Bart in 1980 (after a date watching The Empire Strikes Back), and in season 4 it’s revealed that Homer missed the Moon Landing to [listen to “Yummy, Yummy, Yummy.”](https://www.facebook.com/watch/?v=437396369959970) Tragically, though, The Simpsons kept going past season 10, and if Homer was 18 in 1974 that would make him eligible for a full Social Security benefit today. So in 2008, the continuity changed so that Homer was [in a Nineties grunge band](https://www.youtube.com/watch?v=7x35ETy2sbg) just before marrying Marge[8](#footnote-8). The Simpsons writers have avoided rejiggering the canon since, but if they do, they’ll have to confront the fact that 30-something Homer and Marge are now millennials, and in a decade they’ll be members of Gen Z. You may live to see a Simpsons flashback episode about Homer and Marge living as hipsters in Brooklyn during the 2010s (truly, we live in cursed times.)
+In season 2 of the Simpsons, Homer and Marge started dating [in 1974](https://en.wikipedia.org/wiki/The_Way_We_Was), in Season 3 Marge becomes pregnant with Bart in 1980 (after a date watching The Empire Strikes Back), and in season 4 it’s revealed that Homer missed the Moon Landing to [listen to “Yummy, Yummy, Yummy.”](https://www.facebook.com/watch/?v=437396369959970) Tragically, though, The Simpsons kept going past season 10, and if Homer was 18 in 1974 that would make him eligible for a full Social Security benefit today. So in 2008, the continuity changed so that Homer was [in a Nineties grunge band](https://www.youtube.com/watch?v=7x35ETy2sbg) just before marrying Marge[^8]. The Simpsons writers have avoided rejiggering the canon since, but if they do, they’ll have to confront the fact that 30-something Homer and Marge are now millennials, and in a decade they’ll be members of Gen Z. You may live to see a Simpsons flashback episode about Homer and Marge living as hipsters in Brooklyn during the 2010s (truly, we live in cursed times.)
 
 But the same phenomenon exists in the world of conspiracies. Instead of a consistent, elaborate canon, what we have is a few story beats with a lot of customization and the occasional retcon.
 
@@ -238,7 +238,7 @@ At the height of the French Revolution’s Reign of Terror, the Committee of Pub
 
 *   Abolishing all witnesses, if “moral proofs” against the accused make such witnesses unnecessary.
 
-*   Making the sentence for all crimes identical: Mandatory death penalty[9](#footnote-9).
+*   Making the sentence for all crimes identical: Mandatory death penalty[^9].
 
 
 As far as perfidious methods to deliberately destroy due process and engineer mass executions go, the Law of 22 Prairial is pretty much unmatched in human history. And yet: In the roughly two months of the law’s existence, about one-fifth of defendants were still acquitted! 
@@ -247,7 +247,7 @@ No such good fortune exists in Gitmo. The White Hats’ secret tribunal is a tri
 
 Not only does the rate of death sentences at Gitmo seem to exceed 90 percent, Baxter makes very little effort to portray the proceedings as fair or just. Upon arrest, instead of being read their rights, detainees are informed that they have _no_ rights, and are instead “enemy combatants.” Yet despite being classified as “enemy combatants,” defendants are almost without exception charged with treason. The U.S. Constitution defines treason narrowly as levying war against the United States, or giving aid and comfort to its enemies, and requires at least two witnesses to the same specific act, but in Gitmo the label is invoked with a liberality that would make Robespierre blush. “Traitors” have been arrested and convicted for [telling troops not to attend Trump rallies](https://realrawnews.com/2023/11/marines-arrest-treasonous-air-force-colonel-in-north-dakota/) and for [ruling against Donald Trump in court](https://realrawnews.com/2024/04/jag-arrests-deep-state-georgia-judge/).
 
-Defense attorneys are denied access to evidence pre-trial, and many defendants get no lawyers at all. Trials work a lot like Phoenix Wright, in that at any point the three-officer panel[10](#footnote-10) can simply declare they’ve seen enough evidence and pronounce a conviction with death sentence immediately. In the case of former Tom Hanks co-star, this has happened [within five minutes.](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) Appeals are non-existent. The actual executions sometimes involve [tormenting](https://realrawnews.com/2023/06/gretchen-whitmer-hanged-at-gitmo/) the condemned with fake escape attempts or pardons:
+Defense attorneys are denied access to evidence pre-trial, and many defendants get no lawyers at all. Trials work a lot like Phoenix Wright, in that at any point the three-officer panel[^10] can simply declare they’ve seen enough evidence and pronounce a conviction with death sentence immediately. In the case of former Tom Hanks co-star, this has happened [within five minutes.](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) Appeals are non-existent. The actual executions sometimes involve [tormenting](https://realrawnews.com/2023/06/gretchen-whitmer-hanged-at-gitmo/) the condemned with fake escape attempts or pardons:
 
 > _The driver told Whitmer he needed to make a pitstop to grab her “exoneration paperwork.”_
 > 
@@ -267,7 +267,7 @@ Defense attorneys are denied access to evidence pre-trial, and many defendants g
 
 During the treason trial of Hillary Clinton crucial evidence is provided by former campaign manager John Podesta, who accepts a plea deal for life in prison in return for testifying about Clinton’s child-trafficking activities. But after Clinton had safely been hanged, the military tribunal simply decided to revoke Podesta’s plea deal because, well, they felt like it. 
 
-> _“Even though he’s not prosecuting Podesta’s case, Vice Adm. John G. Hannink made the decision to renege on the deal. He’s the one who offered it. The severity of Podesta’s crimes matched Clinton’s—a lot of stuff they did in tandem, together. When you think about it, there’s really no reason why he should get special treatment. He’s a sodomist [sic.]_[11](#footnote-11)_.  Before breaking the deal, he called Trump,” our source said._
+> _“Even though he’s not prosecuting Podesta’s case, Vice Adm. John G. Hannink made the decision to renege on the deal. He’s the one who offered it. The severity of Podesta’s crimes matched Clinton’s—a lot of stuff they did in tandem, together. When you think about it, there’s really no reason why he should get special treatment. He’s a sodomist [sic.]_[^11]_.  Before breaking the deal, he called Trump,” our source said._
 > 
 > _But Trump, our source noted, recused himself from the decision-making process, as he didn’t want his personal feelings of the defendant to interfere with military justice. […] “If the court wants him to hang, let him hang,” Trump reportedly said._
 
@@ -279,7 +279,7 @@ The figure of Vladimir Putin is also a vessel for fans’ darker desires. Trump 
 
 > _The Army … pulled the condemned from their cells 25 at a time, binding the criminals to logs staked in the ground and blindfolding them. They had received no trials, last meals, Last Rites, or final words. A firing squad taught them the consequences of vaccine adherence._
 > 
-> _The Army didn’t bother removing the corpses before lining up the next 25; they simply let the dead bodies flop to the ground and forced the next group to witness the ineluctable fate awaiting them, the outcome of their insouciance_[12](#footnote-12)_._
+> _The Army didn’t bother removing the corpses before lining up the next 25; they simply let the dead bodies flop to the ground and forced the next group to witness the ineluctable fate awaiting them, the outcome of their insouciance_[^12]_._
 
 What to make of all this? Honestly, I’m not entirely sure, and the takeaway might simply be “Michael Baxter needs to mix it up to keep the site interesting.” It might also speak to the bewildering complexity of modern life and the desire for something simpler and more cinematic. As people sometimes complain, [Nothing Ever Happens](https://knowyourmeme.com/memes/nothing-ever-happens). But on RRN, the Happening is relentless and constant. The normal legal system is aggravatingly glacial, taking years to resolve cases and often imposing meager sentences when a case finally concludes. Most of one’s political enemies, even if they lose an election, simply lateral to a high-paying private sector job or at worst fade into obscurity. But in a real, raw legal system, evil is sniffed out with much greater alacrity; the bad people are so obvious and their crimes so glaring that they can be taken out extrajudicially with no worry about a miscarriage of justice. The apparently-complex conspiracy cinematic universes is actually appealing because it makes the world far, far simpler. The bad people are all maximally bad, deserving of hastily-dispensed maximum justice.
 
@@ -301,7 +301,7 @@ Do I think that’s what happened here? Not at all – Real Raw News is way too 
 
 But what about five years from now? What if there were some technological change that would make it far, far easier to produce evidence of a sweeping conspiracy theory?
 
-That’s right, this review is actually about AI[13](#footnote-13). 
+That’s right, this review is actually about AI[^13]. 
 
 The rise of realistic artificial intelligence has created a lot of fretting about deepfakes, and it’s also created a lot of fretting about porn. Will young men really bother with the pain and difficulty and awkwardness of dating in real life, when they can just create a custom AI girlfriend to their exact specifications, then simulate sex with her using virtual reality? Will women bother with seeking out a boyfriend if they can use an LLM to give them perfect 24/7 empathy and emotional validation?
 
@@ -327,9 +327,7 @@ Online, the world throws a million potential narratives at you. In some of them,
 
 So, what happens if you choose to believe the story you find most enjoyable? And what if millions of others choose the same?
 
-[1](#footnote-anchor-1)
-
- “Wait a minute, this is about a fake news website? Why is it in this contest?”
+[^1]:  “Wait a minute, this is about a fake news website? Why is it in this contest?”
 
 Excellent question! To that, I offer several answers:
 
@@ -339,51 +337,26 @@ Excellent question! To that, I offer several answers:
 
 3.  I am a liberal arts graduate and I’m definitely not going to make the finals reviewing some nerdy non-fiction book.
 
+[^2]: Baxter also places a few tribunals in Guam.
 
-[2](#footnote-anchor-2)
+[^3]: Yes, the stock photo on this article is Christian Bale playing Dick Cheney from the _Vice_ movie.
 
-Baxter also places a few tribunals in Guam.
+[^4]: On the other hand, Jeffrey Epstein is [actually alive](https://realrawnews.com/2021/01/epstein-the-kraken-escaped-federal-custody-during-6-jan-riots/) – and at large, having escaped custody during the January 6 riot.
 
-[3](#footnote-anchor-3)
+[^5]:  [A real person!](https://www.jag.navy.mil/about/leadership/jonathan-t-stephens/)
 
-Yes, the stock photo on this article is Christian Bale playing Dick Cheney from the _Vice_ movie.
+[^6]: That [article](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) might be unpleasant to some (it describes child torture), but it does give Tom Hanks the best villain line in any artistic medium of the past half-decade: “Life ain’t like a box of chocolates, it’s like a bag of shit!”
 
-[4](#footnote-anchor-4)
+[^7]: It is _always_ Delta Force, SEALs, or Marines who undertake military operations in Real Raw News land. No exceptions.
 
-On the other hand, Jeffrey Epstein is [actually alive](https://realrawnews.com/2021/01/epstein-the-kraken-escaped-federal-custody-during-6-jan-riots/) – and at large, having escaped custody during the January 6 riot.
+[^8]:  The episode was titled “That 90s Show,” a joking reference to That 70s Show…except that, 15 years later, there now actually is a That 90s Show, and The Simpsons is still going.
 
-[5](#footnote-anchor-5)
+[^9]: And I mean the actual cut-your-head-off death penalty, none of that “outlawry” silliness from Njal’s Saga.
 
- [A real person!](https://www.jag.navy.mil/about/leadership/jonathan-t-stephens/)
+[^10]: A real-life capital court martial requires at least 12 jury members, but in RRN it is only three.
 
-[6](#footnote-anchor-6)
+[^11]: This [sic] is from Baxter’s original article, describing a fictional quote about a fictional military tribunal. Like I said, the man’s a genius.
 
-That [article](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) might be unpleasant to some (it describes child torture), but it does give Tom Hanks the best villain line in any artistic medium of the past half-decade: “Life ain’t like a box of chocolates, it’s like a bag of shit!”
+[^12]: Another charming part of Baxter’s style is his love of a good thesaurus.com search.
 
-[7](#footnote-anchor-7)
-
-It is _always_ Delta Force, SEALs, or Marines who undertake military operations in Real Raw News land. No exceptions.
-
-[8](#footnote-anchor-8)
-
- The episode was titled “That 90s Show,” a joking reference to That 70s Show…except that, 15 years later, there now actually is a That 90s Show, and The Simpsons is still going.
-
-[9](#footnote-anchor-9)
-
-And I mean the actual cut-your-head-off death penalty, none of that “outlawry” silliness from Njal’s Saga.
-
-[10](#footnote-anchor-10)
-
-A real-life capital court martial requires at least 12 jury members, but in RRN it is only three.
-
-[11](#footnote-anchor-11)
-
-This [sic] is from Baxter’s original article, describing a fictional quote about a fictional military tribunal. Like I said, the man’s a genius.
-
-[12](#footnote-anchor-12)
-
-Another charming part of Baxter’s style is his love of a good thesaurus.com search.
-
-[13](#footnote-anchor-13)
-
-Ironically, AI barely figures at all into Real Raw News’s reporting. Cloning, body doubles, and energy weapons pop up all the time. There’s plenty of footage that is faked the old-fashioned way, with studio sets and actors. Yet Real Raw News has never even used the _word_ “deepfake,” and AI has only appeared a handful of times as an easily-foiled tactic by the bad guys.
+[^13]: Ironically, AI barely figures at all into Real Raw News’s reporting. Cloning, body doubles, and energy weapons pop up all the time. There’s plenty of footage that is faked the old-fashioned way, with studio sets and actors. Yet Real Raw News has never even used the _word_ “deepfake,” and AI has only appeared a handful of times as an easily-foiled tactic by the bad guys.

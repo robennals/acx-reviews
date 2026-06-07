@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Society
   - Fiction
+disableFootnotes: true
 ---
 
 An introduction to fandom culture through the lens of lesbian shipping

@@ -15,6 +15,7 @@ source: gdoc
 tags:
   - Fiction
   - Philosophy
+disableFootnotes: true
 ---
 
 Shit. What a story!

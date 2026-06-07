@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Society
   - Economics
+disableFootnotes: true
 ---
 
 Forty years ago Robert Klitgaard was a Harvard golden boy. Still in his mid-thirties, with three Harvard degrees (A.B., Philosophy; M.P.P., Public Policy; and Ph.D., Public Policy), he was an associate professor at the Kennedy School of Government while spending half his time as Special Assistant to Harvard President Derek Bok. He had also served as Admissions Chairman for Harvard’s Public Policy Program and published extensively. He appeared to be on a fast track leading to the presidency of, if not Harvard, at least Yale, Princeton, or Stanford.

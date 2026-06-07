@@ -13,6 +13,7 @@ originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd
 source: gdoc
 tags:
   - Fiction
+disableFootnotes: true
 ---
 
 **Preface**: this Russian-language book has three translations, which (in order of both publication and quality) are _Moscow to the End of the Line_, _Moscow Circles_, and _Moscow Stations._ Its title in the original Russian is “Moscow-Petushki”. Being a big-brain genius, I’ve read all three (except I didn’t finish the first one because it sucked), and the original Russian text; I’ll be referring to the work as “Moscow-Petushki” (that’s how it is generally referred to in literary journals), and will be using _Moscow Stations_ translated by Stephen Murline for quoted text throughout.

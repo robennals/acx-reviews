@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Psychology
   - Society
+disableFootnotes: true
 ---
 
 In 2009, Eliezer Yudkowsky published _[Raising the Sanity Waterline](https://www.lesswrong.com/posts/XqmjdBKa4ZaXJtNmf/raising-the-sanity-waterline)_. It was the first article in his [Craft and the Community](https://www.lesswrong.com/s/pvim9PZJ6qHRTMqD3) sequence about the rationality movement itself, and this first article served as something of a mission statement. The rough thesis behind this article—really, the thesis behind the _entire rationalist movement_—can be paraphrased as something like this:

@@ -14,6 +14,7 @@ source: acx
 tags:
   - Economics
   - Politics
+disableFootnotes: true
 ---
 
 [_This is the third of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]

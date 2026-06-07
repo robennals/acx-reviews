@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Society
   - Memoir
+disableFootnotes: true
 ---
 
 Chinese parenting clashes with the West, neither leaves unscathed

@@ -19,15 +19,15 @@ tags:
 
 [_This is one of the finalists in the 2024 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
 
-For the longest time, I avoided reading _The Pale King_. It wasn’t the style—in places thick with the author’s characteristic footnotes,[1](#footnote-1) sentences that run for pages, and spasms of dense technical language. Nor was it the subject matter—the book is set at an IRS Center and tussles with postmodernism. Nor the themes, one of which concerns the existential importance of boredom, which the book, at times, takes pains to exemplify.
+For the longest time, I avoided reading _The Pale King_. It wasn’t the style—in places thick with the author’s characteristic footnotes,[^1] sentences that run for pages, and spasms of dense technical language. Nor was it the subject matter—the book is set at an IRS Center and tussles with postmodernism. Nor the themes, one of which concerns the existential importance of boredom, which the book, at times, takes pains to exemplify.
 
 No—I couldn’t read _The Pale King_ because it was the book that killed him.
 
 ## Prelude: First Encounter
 
-David Foster Wallace died in 2008, a year before I encountered his work; but I didn’t know it at the time. I was nineteen, with a broken wrist that forced me to drop all of my courses and left me homebound and bored. I decided to revenge myself on these irritating circumstances by spending four months lying in bed, stoned, reading fiction and eating snacks.[2](#footnote-2) And I happened to have a copy of _Infinite Jest_.
+David Foster Wallace died in 2008, a year before I encountered his work; but I didn’t know it at the time. I was nineteen, with a broken wrist that forced me to drop all of my courses and left me homebound and bored. I decided to revenge myself on these irritating circumstances by spending four months lying in bed, stoned, reading fiction and eating snacks.[^2] And I happened to have a copy of _Infinite Jest_.
 
-What to say about _Infinite Jest_? It remains Wallace’s masterpiece, widely considered the greatest novel of Generation X. It takes place in a near future where the US, Canada and Mexico have been merged into a single state. Each year is corporately branded, with most of the action taking place in “The Year of the Depend Adult Undergarment.” It’s set in three locales: a drug rehabilitation center, an elite tennis academy, and a Quebecois terrorist cell.[3](#footnote-3) The novel clocks in at over a thousand pages, two hundred of which are footnotes. It includes sentences of absurd length, with some descending into multi-page molecular descriptions of various drugs. The book pulls the kind of stunts that shouldn’t work, but in _Infinite Jest_ they do, because the book is that good, the characters that deep, the subject matter that prescient. _Infinite Jest_ is often considered the “first internet novel,” predicting in particular its addictive allure.
+What to say about _Infinite Jest_? It remains Wallace’s masterpiece, widely considered the greatest novel of Generation X. It takes place in a near future where the US, Canada and Mexico have been merged into a single state. Each year is corporately branded, with most of the action taking place in “The Year of the Depend Adult Undergarment.” It’s set in three locales: a drug rehabilitation center, an elite tennis academy, and a Quebecois terrorist cell.[^3] The novel clocks in at over a thousand pages, two hundred of which are footnotes. It includes sentences of absurd length, with some descending into multi-page molecular descriptions of various drugs. The book pulls the kind of stunts that shouldn’t work, but in _Infinite Jest_ they do, because the book is that good, the characters that deep, the subject matter that prescient. _Infinite Jest_ is often considered the “first internet novel,” predicting in particular its addictive allure.
 
 By all rights, I should have hated it. Long, ostentatious, packed with dozens of characters, 90% of whom happened to be straight white males. As I read, I tallied the number of named female characters (three), imagining the tirades I would go on with my similarly politically-inclined friends.
 
@@ -45,7 +45,7 @@ His major concerns were:
 
 2) The deforming effects of entertainment culture
 
-Postmodernism can be understood as the idea that we’re so trapped within language that reality remains remote. At its most extreme, postmodernism seems to suggest that language is all that exists. In politics, this manifests as movements that focus on how people speak, much more than movements of the past; and in literature, as writing that aims not to immerse the reader in a plausible world, but to keep the reader hyper-focused on the fact that they’re reading a work of fiction. Wallace began his literary career as a postmodernist,[4](#footnote-4) before swerving away mid-career, most dramatically with _Infinite Jest_.
+Postmodernism can be understood as the idea that we’re so trapped within language that reality remains remote. At its most extreme, postmodernism seems to suggest that language is all that exists. In politics, this manifests as movements that focus on how people speak, much more than movements of the past; and in literature, as writing that aims not to immerse the reader in a plausible world, but to keep the reader hyper-focused on the fact that they’re reading a work of fiction. Wallace began his literary career as a postmodernist,[^4] before swerving away mid-career, most dramatically with _Infinite Jest_.
 
 He wasn’t some simple reactionary. His work wove in postmodern self-awareness, metacommentary and irony, all while arguing that we had to transcend it. And to do so, we need the very principles postmodernism had spent the past half-century deconstructing: decency, sincerity, responsibility, neighborliness, sacrifice. As he said in his famous Kenyon commencement address, _This is Water_, “The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day.”
 
@@ -55,7 +55,7 @@ He believed contemporary fiction was stuck in two modes: cheap entertainment, or
 
 After I left the radical left, it was hard to find anything to believe in. The rightists were refreshingly frank, but dealt with postmodernism mainly by strawmanning it, ignoring its strongest points and asserting the naivest of realisms. Besides, their ideas were ugly and brutal. Religion offered another path, but again, it felt like mere reaction—giving up on synthesis and bowing out of the intellectual conversation altogether.
 
-Wallace was one of the few suggesting something new. In Wallace’s world, postmodernism and consumer culture form a wicked duo, the former reducing reality to discourse, and the latter papering over the resulting emptiness with a carnival of glittering distractions. His work uses the techniques of postmodernism to depict the frenetic, saturated tempo of modern life, but through it all unearthed the perennially human—like he was saying _look, we haven’t seen it in awhile, but it’s still here!_ The project of writing sincere fiction striving for moral depth was so out of vogue, it’s almost shocking at times to read; while his style is arch-modern, he considered 19th\-century novelists his spiritual inspiration. Wallace offered a worldview which was old fashioned but not right-wing, beautiful and true, but also _sophisticated_.[5](#footnote-5)
+Wallace was one of the few suggesting something new. In Wallace’s world, postmodernism and consumer culture form a wicked duo, the former reducing reality to discourse, and the latter papering over the resulting emptiness with a carnival of glittering distractions. His work uses the techniques of postmodernism to depict the frenetic, saturated tempo of modern life, but through it all unearthed the perennially human—like he was saying _look, we haven’t seen it in awhile, but it’s still here!_ The project of writing sincere fiction striving for moral depth was so out of vogue, it’s almost shocking at times to read; while his style is arch-modern, he considered 19th\-century novelists his spiritual inspiration. Wallace offered a worldview which was old fashioned but not right-wing, beautiful and true, but also _sophisticated_.[^5]
 
 In short, I became a huge Wallace stan. I began devouring his essays and short stories, name-dropping him constantly, even pinned a David Foster Wallace button to my backpack. I was a little discomfited by talk of the [supposed obnoxiousness of his fans](https://electricliterature.com/men-recommend-david-foster-wallace-to-me/): “David Foster Wallace lit-bros,” who “played ultimate frisbee, rallied against multinational beverage corporations, listened to The Mountain Goats, and told me to read _Infinite Jest_.”
 
@@ -65,9 +65,9 @@ Besides, Wallace’s fans were supposedly dudes. My femaleness was counterargume
 
 ## His Sickness
 
-In his youth, Wallace was beset by mental breakdowns. He dropped out of school multiple times, underwent electroshock therapy, and contemplated suicide. When in grad school, he was put on Nardil, an MAOI. MAOIs work by inhibiting Monoamine Oxidase, which in turn hoovers up monoamine neurotransmitters like serotonin, dopamine and norepinephrine. This double negative leaves the user with a more motivated, peaceful and energized brain chemistry.[6](#footnote-6)
+In his youth, Wallace was beset by mental breakdowns. He dropped out of school multiple times, underwent electroshock therapy, and contemplated suicide. When in grad school, he was put on Nardil, an MAOI. MAOIs work by inhibiting Monoamine Oxidase, which in turn hoovers up monoamine neurotransmitters like serotonin, dopamine and norepinephrine. This double negative leaves the user with a more motivated, peaceful and energized brain chemistry.[^6]
 
-This was the neuropharmacological lot in which Wallace was parked in 1985.[7](#footnote-7) He remained on Nardil through the writing of _Infinite Jest_, two collections of essays, two books of short stories, and the rough draft of _The Pale King_. Through it all, Wallace would’ve been on the Tyramine Diet, avoiding cheese, hot dogs and fermented foods. He was never entirely satisfied with being on antidepressants. [In the words of his friend](https://www.newyorker.com/magazine/2011/04/18/farther-away-jonathan-franzen), Jonathan Franzen, he was a “perfectionist” with an “aversion to seeing himself as permanently mentally ill.” He tried going off Nardil in 1988, but fell into a profound depression, and was only able to get Nardil to work again by combining it with electroshock therapy.
+This was the neuropharmacological lot in which Wallace was parked in 1985.[^7] He remained on Nardil through the writing of _Infinite Jest_, two collections of essays, two books of short stories, and the rough draft of _The Pale King_. Through it all, Wallace would’ve been on the Tyramine Diet, avoiding cheese, hot dogs and fermented foods. He was never entirely satisfied with being on antidepressants. [In the words of his friend](https://www.newyorker.com/magazine/2011/04/18/farther-away-jonathan-franzen), Jonathan Franzen, he was a “perfectionist” with an “aversion to seeing himself as permanently mentally ill.” He tried going off Nardil in 1988, but fell into a profound depression, and was only able to get Nardil to work again by combining it with electroshock therapy.
 
 ## Writing _The Pale King_
 
@@ -101,7 +101,7 @@ To give a sense of the disparate voices in the book:
 
 - A chapter where everyone turns pages: “Ken Wax turns a page. Matt Redgate turns a page. ‘Groovy’ Bruce Channing turns a page. Ann Williams turns a page. Anand Singh turns two pages at once by mistake and turns one back which makes a slightly different sound. David Cusk turns a page.”
 
-- A ‘prologue’ Wallace inserted 70 pages into the book, written in the 2005 authorial voice, launches into a diatribe about how the book is really a memoir of his time working for the IRS, but for legal reasons the publishers insist on classifying it as a work of fiction. “This might appears to set up an irksome paradox. The book’s legal disclaimer defines everything that follows it as fiction, including this Forward, but now, here in this Forward I’m saying that the whole thing really is nonfiction; so if you believe one you can’t believe the other, & c., & c.”[8](#footnote-8)
+- A ‘prologue’ Wallace inserted 70 pages into the book, written in the 2005 authorial voice, launches into a diatribe about how the book is really a memoir of his time working for the IRS, but for legal reasons the publishers insist on classifying it as a work of fiction. “This might appears to set up an irksome paradox. The book’s legal disclaimer defines everything that follows it as fiction, including this Forward, but now, here in this Forward I’m saying that the whole thing really is nonfiction; so if you believe one you can’t believe the other, & c., & c.”[^8]
 
 The characters are monumentally well-developed. We follow IRS bureaucrats as they suffer childhood abuse in dusty trailer parks, struggle with “attacks” of copious sweating, watch a father die in a subway accident. And these lives—which feel so _human_ and so _real_—are juxtaposed with the tedium of their work at the IRS. 
 
@@ -109,17 +109,17 @@ We can’t help but be reminded that faceless bureaucrats are real people, as re
 
 But Wallace suggests this impulse is wrong. He’s not trying to depict these IRS examiners as being in any way exceptional, despite our identification with them—rather, he’s trying to show that every human being is that deep, and that interesting, if we take the time to know them. He enjoins us to avoid relating to others as “the great gray abstract mass,” even if they form part of some tedious and unappealing bureaucracy. To take on the burden of always, in every moment, relating to others as fully human.
 
-This injunction is central to Wallace’s approach to transcending postmodernism. His great innovation was to use the tools of postmodern writing (meant to remind the reader that they’re reading words, not experiencing reality) to create work that loops back around and becomes as immersive and convincing as the finest of realist prose. His writing embodies the nerve-fraying and frenetic pace of modern life, with the technical jargon and long sentences and footnotes capturing something of the feel of the internet. And through it all, his characters shine through, heartbreakingly human, capable not only of cruelty[9](#footnote-9), but of goodness that surprises even themselves.
+This injunction is central to Wallace’s approach to transcending postmodernism. His great innovation was to use the tools of postmodern writing (meant to remind the reader that they’re reading words, not experiencing reality) to create work that loops back around and becomes as immersive and convincing as the finest of realist prose. His writing embodies the nerve-fraying and frenetic pace of modern life, with the technical jargon and long sentences and footnotes capturing something of the feel of the internet. And through it all, his characters shine through, heartbreakingly human, capable not only of cruelty[^9], but of goodness that surprises even themselves.
 
 Wallace’s writing is maximalist in that he forces you to deal with all of it: the difficulty in escaping the web of discourse, the fact that you’re reading a novel, the fragmented nature of modern life, the fact that the IRS asshole auditing you has as rich and deeply felt a human experience as your own.
 
 ## Pale King: Themes
 
-The plot builds towards a war over the future of the IRS: with one side wanting the IRS to remain committed to civic virtue, its tax examinations carried out by humans; and the other wanting the IRS focused on maximizing profits, its examiners to be replaced by computers. The IRS here is standing in for all institutions where people operate both as individuals and as part of a larger collective: the conflict between the IRS as civic organization and the IRS as corporation reflects a general conflict taking place in the 80s[10](#footnote-10), and arguably still today.
+The plot builds towards a war over the future of the IRS: with one side wanting the IRS to remain committed to civic virtue, its tax examinations carried out by humans; and the other wanting the IRS focused on maximizing profits, its examiners to be replaced by computers. The IRS here is standing in for all institutions where people operate both as individuals and as part of a larger collective: the conflict between the IRS as civic organization and the IRS as corporation reflects a general conflict taking place in the 80s[^10], and arguably still today.
 
 Wallace is, of course, on team human. His criticism of the profit motive parallels his rejection of minimalism, the aesthetic of postmodernism: when we reduce reality to a thin, abstract variable, whether that be profit or discourse, we mutilate it. And once we’re there , all that’s left is our role as solipsistic consumers.
 
-One of the most moving sections of the book is a 100-page novella smack in the middle, written from the perspective of wastoid[11](#footnote-11)\-turned-accountant Chris Fogel. Chris’ 1970s youth was spent in partying and shallow rebellion, once again, papering over a deep emptiness: “I think the truth is that I was the worst kind of nihilist—the kind who isn’t even aware he’s a nihilist. I was like a piece of paper on the street in the wind, thinking, ‘Now I think I’ll blow this way, now I think I’ll blow that way.’ My essential response to everything was ‘Whatever.’”[12](#footnote-12)
+One of the most moving sections of the book is a 100-page novella smack in the middle, written from the perspective of wastoid[^11]\-turned-accountant Chris Fogel. Chris’ 1970s youth was spent in partying and shallow rebellion, once again, papering over a deep emptiness: “I think the truth is that I was the worst kind of nihilist—the kind who isn’t even aware he’s a nihilist. I was like a piece of paper on the street in the wind, thinking, ‘Now I think I’ll blow this way, now I think I’ll blow that way.’ My essential response to everything was ‘Whatever.’”[^12]
 
 The emotional core of the story is Chris’ relationship with his father, who’s sardonic, dutiful, and old-fashioned: “His attitude towards life was that there are certain things that have to be done and you simply have to do them—such as, for instance, going to work every day.” Chris resents his father’s conformity, while blind to his own: “I was just as much a conformist as he was, plus a hypocrite, a ‘rebel’ who really just sponged off of society in the form of his parents.”
 
@@ -131,7 +131,7 @@ This speech is set in the 80s, but was written in the 00s, when the internet was
 
 It hasn’t gone down exactly as Wallace predicted. He was concerned about the withering effects of hedonism (which true to his predictions have persisted), but he underestimated the resurgence of doctrinaire political ideology. 
 
-_The Pale King_ is in many ways revanchist, arguing for reclamation of territory lost to hedonism in the name of old-fashioned ideals like civic responsibility, neighborliness, and going to work every day. And revanchism has certainly made a comeback: today we face a proliferation of conservative/Trad movements, but very few seem interested in rehabilitating old fashioned civic virtue.[13](#footnote-13) Cynicism in societal institutions is endemic on both the right and the left, perhaps with good reason: while a bureaucrat in the 80s could expect to own a home and support a family, these days an ‘ordinary’ job doesn’t cut it. The IRS’s of the world have taken the path that Wallace warned against, embracing automation and the bottom line, and neglecting the real, human realities of the people they’re meant to serve.
+_The Pale King_ is in many ways revanchist, arguing for reclamation of territory lost to hedonism in the name of old-fashioned ideals like civic responsibility, neighborliness, and going to work every day. And revanchism has certainly made a comeback: today we face a proliferation of conservative/Trad movements, but very few seem interested in rehabilitating old fashioned civic virtue.[^13] Cynicism in societal institutions is endemic on both the right and the left, perhaps with good reason: while a bureaucrat in the 80s could expect to own a home and support a family, these days an ‘ordinary’ job doesn’t cut it. The IRS’s of the world have taken the path that Wallace warned against, embracing automation and the bottom line, and neglecting the real, human realities of the people they’re meant to serve.
 
 The Millennial/Gen Z complaint is real: the economic conditions are harder than they were in the 50s/70s/90s; the world of our parents no longer exists; starting a family is exorbitant. So why should we subject ourselves to bureaucratic tedium and keep society running, when society doesn’t seem to care much about us?
 
@@ -145,7 +145,7 @@ But Wallace does more than diagnose the illness—he’s trying, his perennial c
 
 ## The Path Forward
 
-Wallace suggests that boredom, far from being something to avoid, might point the way to deeper self-knowledge. “Maybe dullness is associated with psychic pain because something that’s dull or opaque fails to provide enough stimulation to distract people from some other, deeper type of pain that is always there, if only in an ambient low-level way, and which most of us spend nearly all our time and energy trying to distract ourselves from feeling, or at least from feeling directly or with our full attention.” Boredom might even gesture towards enlightenment: “It turns out that bliss—a second-by-second joy + gratitude at the gift of being alive, conscious—lies on the other side of crushing, crushing boredom. Pay close attention to the most tedious thing you can find (tax returns, televised golf), and, in waves, a boredom like you’ve never known will wash over you and just about kill you. Ride these out, and it’s like stepping from black and white into color. Like water after days in the desert. Constant bliss in every atom.”[14](#footnote-14)
+Wallace suggests that boredom, far from being something to avoid, might point the way to deeper self-knowledge. “Maybe dullness is associated with psychic pain because something that’s dull or opaque fails to provide enough stimulation to distract people from some other, deeper type of pain that is always there, if only in an ambient low-level way, and which most of us spend nearly all our time and energy trying to distract ourselves from feeling, or at least from feeling directly or with our full attention.” Boredom might even gesture towards enlightenment: “It turns out that bliss—a second-by-second joy + gratitude at the gift of being alive, conscious—lies on the other side of crushing, crushing boredom. Pay close attention to the most tedious thing you can find (tax returns, televised golf), and, in waves, a boredom like you’ve never known will wash over you and just about kill you. Ride these out, and it’s like stepping from black and white into color. Like water after days in the desert. Constant bliss in every atom.”[^14]
 
 In Wallace’s conception, boredom isn’t only personally enlightening—it can also be a heroic sacrifice for the collective good. At one point Chris Fogel wanders into the wrong classroom and ends up in the exam review for Advanced Tax, taught by a capable and dignified Jesuit (possibly the eponymous “pale king”). The Jesuit makes a speech which sparks an epiphany in Chris, where he declares the profession of accounting a heroic one: “True heroism is you, alone, in a designated work space. True heroism is minutes, hours, weeks, year upon year of the quiet, precise, judicious exercise of probity and care—with no one there to see or cheer.’”
 
@@ -157,15 +157,15 @@ The problem with all this, of course, is that in the middle of writing the book,
 
 For a long time I, like so many others, romanticized David Foster Wallace’s suicide. It crystallized him as a tragic figure, eternally 46, handsome, at the height of his powers—we never saw him go gray and saggy, grow uncool, post cringey takes on Twitter. His death preserved him in his youth, and elevated him to the almost angelic.
 
-I was too self-aware to utter the cliché “too beautiful for this world,” but I might as well have. In a sense, there’s truth to it:[15](#footnote-15) both Wallace’s brilliance and his depression were intertwined with his sensitivity. The world impinged on his nervous system more harshly than it did on others, furnishing a world of details and intricacies and interconnections that allowed him to experience modernity differently and perhaps more deeply than anyone else—but also left him overwhelmed, spending much of his life in the quiet Midwest, and at times totally short-circuited.
+I was too self-aware to utter the cliché “too beautiful for this world,” but I might as well have. In a sense, there’s truth to it:[^15] both Wallace’s brilliance and his depression were intertwined with his sensitivity. The world impinged on his nervous system more harshly than it did on others, furnishing a world of details and intricacies and interconnections that allowed him to experience modernity differently and perhaps more deeply than anyone else—but also left him overwhelmed, spending much of his life in the quiet Midwest, and at times totally short-circuited.
 
-Of course I wished he wasn’t dead.[16](#footnote-16) I researched the technical details of MAOIs, trawling for clues in the beautiful mystery of his absence. I burned through his essays, until there were none left, and there never would be again.
+Of course I wished he wasn’t dead.[^16] I researched the technical details of MAOIs, trawling for clues in the beautiful mystery of his absence. I burned through his essays, until there were none left, and there never would be again.
 
 Franzen, in a posthumous essay, seems disgruntled with Wallace fans romanticizing his old friend. “Flickering beneath his beautiful moral intelligence and his lovable human weakness was the old addict’s consciousness, the secret self, which, after decades of suppression by the Nardil, finally glimpsed its chance to break free and have its suicidal way.” He seems particularly disappointed in Wallace’s decision to hang himself on his back porch, where he would’ve known his wife would find his body.
 
 Franzen suggests that Wallace’s writing style, the “footnotes-within-footnotes self-consciousness,” might mirror his sickness—the dense technical jargon, hyper-multi-clause sentences, nested footnotes—that the whole beautiful mess could become self-annihilating. I’ve heard people call his style called both maximalist and masturbatory—and while I lean, always, towards the charitable interpretations of Wallace, I do have to admit that it’s impossible to remain consistently absorbed in his work: one minute he’ll rearrange your mind into new shapes, making you feel things it never would’ve occurred to you to feel—and the next you’ll catch yourself reading the same 200-word sentence over and over.
 
-It’s possible that Wallace’s style, innovative though it was, became something of a trap, a writing tic that mirrored a mental one, to the point that it was no longer intentional, but compulsive. This possibility worried Wallace: “I am tired of myself, it seems: tired of my thoughts, associations, syntax, various verbal habits that have gone from discovery to technique to tic.”[17](#footnote-17)
+It’s possible that Wallace’s style, innovative though it was, became something of a trap, a writing tic that mirrored a mental one, to the point that it was no longer intentional, but compulsive. This possibility worried Wallace: “I am tired of myself, it seems: tired of my thoughts, associations, syntax, various verbal habits that have gone from discovery to technique to tic.”[^17]
 
 I knew that Wallace had been posthumously #MeToo’ed. Having felt the sting of being judged by the left for what felt like trivial indiscretions, it was easy at first to pattern-match onto Wallace. Surely the allegations weren’t so serious, not that I knew since I wasn’t looking too closely, but no one’s perfect, and besides, wasn’t there something ugly about kicking someone who couldn’t defend themselves? The truth was simpler: I’d been through so many disillusionments that I didn’t want to face another.
 
@@ -173,7 +173,7 @@ But the allegations weren’t great. And actually they weren’t even allegation
 
 I finally had to face it. How is it that someone who so stressed decency was capable of treating someone in his life so poorly?
 
-Postmodernism, of all things, offers a way out: the Death of the Author. Sure, Wallace was a flawed person, but that doesn’t need to mean anything for his work. His work exists separately, an discursive experience on the reader’s end, etc, etc. But Wallace himself rejected the Death of the Author,[18](#footnote-18) and treating his work in this way would totally undermine his project. You can’t cut away the messy human bits to preserve your clean, linguistic sanctum.
+Postmodernism, of all things, offers a way out: the Death of the Author. Sure, Wallace was a flawed person, but that doesn’t need to mean anything for his work. His work exists separately, an discursive experience on the reader’s end, etc, etc. But Wallace himself rejected the Death of the Author,[^18] and treating his work in this way would totally undermine his project. You can’t cut away the messy human bits to preserve your clean, linguistic sanctum.
 
 I’ve been reading D. T Max’s biography of Wallace, and, in spite of his at-times-not-great actions, the picture that emerges isn’t of a wicked man—it’s of a desperate one. I wondered if this is what went wrong: he was a convert to his old-fashioned moral style, and perhaps he embraced it with something of a convert’s fervor. Maybe the reason he failed to predict the popularity of 21st century political dogmatism is because he was himself, on some level, a dogmatist, embracing morality with a tightness that sometimes feels rigid. 
 
@@ -193,77 +193,41 @@ If Wallace had lived, his vision wouldn’t have reached any ultimate closure, b
 
 ## Footnotes
 
-[1](#footnote-anchor-1)
+[^1]: Yes, in a work of fiction. Many footnotes spawn their own footnotes\*, creating a looping, self-referential effect not unlike the Strange Loops described in _Gödel, Escher, Bach_, a book Wallace loved.
 
-Yes, in a work of fiction. Many footnotes spawn their own footnotes\*, creating a looping, self-referential effect not unlike the Strange Loops described in _Gödel, Escher, Bach_, a book Wallace loved.
+[^2]: Likely some combination of sour keys, Aero bars and shrink wrapped pastries\*\*, along with take-out to balance the inevitable glycemic spikes. Please let it be noted, I eat much healthier now.
 
-[2](#footnote-anchor-2)
+[^3]: The terrorists are wheelchair-bound, but no less menacing for it.
 
-Likely some combination of sour keys, Aero bars and shrink wrapped pastries\*\*, along with take-out to balance the inevitable glycemic spikes. Please let it be noted, I eat much healthier now.
+[^4]: His first novel, _Broom of the System_, centers on Lenore, who worries that “all that really exists of [her] life is what can be said about it.” This novel is a postmodern romp in the vein of Pynchon, ironic and wacky and at its core amoral. His second book, a short story collection entitled _Girl With Curious Hair_, walks the line between postmodern play and an urge to move beyond it. He wouldn’t truly embrace sincerity until _Infinite Jest_, which would lead him to being viewed as the father of the New Sincerity movement and what’s now called Metamodernism.
 
-[3](#footnote-anchor-3)
+[^5]: tl;dr: if Wallace wins this argument, we get to care about things again.
 
-The terrorists are wheelchair-bound, but no less menacing for it.
+[^6]: MAOIs are by and large considered [Old School](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136031/). The very first antidepressant discovered was an MAOI, the antitubercular agent iproniazid, which, when administered in the tuberculosis ward, had patients rising from gloomy stumors to eat, and socialize, “[dancing in the halls tho' they had holes in their lungs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8203803/).” MAOIs fell out of vogue when it was discovered that they interfere with tyramine digestion, and require a carefully controlled diet, with risks of severe hypertensive reactions.
 
-[4](#footnote-anchor-4)
+[^7]: By then MAOIs were on the way out, and SSRIs were ascendant (and to a lesser extent tricyclics). If we’re really going to get into the weeds, and this is a DFW essay so why not, we might focus in on the fact that MAOIs got ditched not because of their efficacy, but because of side effects: [MAOIs work better for many forms of depression than SSRIs](https://www.psychiatrictimes.com/view/not-obsolete-continuing-roles-tcas-and-maois). I haven’t found any studies comparing the effects of MAOIs and SSRIs on creativity, but one might speculate that SSRIs, which leave many users complain of creative dysfunction, and which reduce serotonin reuptake in particular parts of the brain, might in a sense bind the brain more tightly than the looser MAOIs, which produce a more global increase across a richer buffet of monoamines. But that’s just speculation.
 
-His first novel, _Broom of the System_, centers on Lenore, who worries that “all that really exists of [her] life is what can be said about it.” This novel is a postmodern romp in the vein of Pynchon, ironic and wacky and at its core amoral. His second book, a short story collection entitled _Girl With Curious Hair_, walks the line between postmodern play and an urge to move beyond it. He wouldn’t truly embrace sincerity until _Infinite Jest_, which would lead him to being viewed as the father of the New Sincerity movement and what’s now called Metamodernism.
+[^8]: All of this is, of course, baloney—the book is fiction. But you’ll wonder for a second.
 
-[5](#footnote-anchor-5)
+[^9]: Modern fiction has just about made a contest of depicting humans at their most odious and depraved; it’s almost jarring to read a scene where a character is poised to do something awful or cowardly, but instead finds himself affected by another human being and does the right thing after all.
 
-tl;dr: if Wallace wins this argument, we get to care about things again.
+[^10]: The IRS really did shift its focus from compliance to maximizing profit during the Reagan era,\*\*\* a significant ideological reordering that _The Pale King_ explains as politically necessary: Reagan ran on a platform both of reducing taxes and increasing defense spending. The only way this was possible was if the IRS got more efficient at collecting. Reagan could even capitalize politically on the IRS’s new methods: “‘The Service’s more aggressive treatment of TPs, especially if it’s high-profile, would seem to keep in the electorate’s mind a fresh and eminently disposable image of Big Government that the Rebel Outsider President could continue to define himself against and decry as just the sort of government intrusion into the private lives and wallets of hardworking Americans he ran for office to fight against.’”\*\*\*\*
 
-[6](#footnote-anchor-6)
+[^11]: Wastoid, according to ChatGPT: someone who is perceived as wasting their life or potential, often through excessive drug or alcohol use. It can imply that the person is unproductive or disengaged from meaningful activities or responsibilities.
 
-MAOIs are by and large considered [Old School](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136031/). The very first antidepressant discovered was an MAOI, the antitubercular agent iproniazid, which, when administered in the tuberculosis ward, had patients rising from gloomy stumors to eat, and socialize, “[dancing in the halls tho' they had holes in their lungs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8203803/).” MAOIs fell out of vogue when it was discovered that they interfere with tyramine digestion, and require a carefully controlled diet, with risks of severe hypertensive reactions.
+[^12]: The Chris Fogel novella has been published separately as _Something to Do with Paying Attention_. It’s one of the best pieces DFW ever wrote, the only part of _The Pale King_ I’d recommend unreservedly.
 
-[7](#footnote-anchor-7)
+[^13]: We might observe that neither right nor the left youth movements circa 2024 place much emphasis on getting jobs and working for the good of society; we might further observe that cynical rejection of the existing social order is a top-notch reason to avoid putting in those long, tedious, back-bending 9-5s. But then, such an observation might make us the cynics, which is certainly something to guard against.
 
-By then MAOIs were on the way out, and SSRIs were ascendant (and to a lesser extent tricyclics). If we’re really going to get into the weeds, and this is a DFW essay so why not, we might focus in on the fact that MAOIs got ditched not because of their efficacy, but because of side effects: [MAOIs work better for many forms of depression than SSRIs](https://www.psychiatrictimes.com/view/not-obsolete-continuing-roles-tcas-and-maois). I haven’t found any studies comparing the effects of MAOIs and SSRIs on creativity, but one might speculate that SSRIs, which leave many users complain of creative dysfunction, and which reduce serotonin reuptake in particular parts of the brain, might in a sense bind the brain more tightly than the looser MAOIs, which produce a more global increase across a richer buffet of monoamines. But that’s just speculation.
+[^14]: This quote is essentially from the margins of Wallace’s notebook, rough notes _about_ the novel which were never intended to make the novel itself; DFW at his most unmediated.
 
-[8](#footnote-anchor-8)
+[^15]: Wallace was sympathetic to clichés: “Clichés earned their status as clichés because they're so obviously true”
 
-All of this is, of course, baloney—the book is fiction. But you’ll wonder for a second.
+[^16]: An essential element of romanticizing his death (the beating of the breasts, etc.)
 
-[9](#footnote-anchor-9)
+[^17]: The best part of _The Pale King_ was where he managed to abandon his usual style. Much of the Chris Fogel novella is composed of simple sentences: “I’m not sure I even know what to say. To be honest, a good bit of it I don’t remember. I don’t think my memory works in quite the way it used to. It may be that this kind of work changes you. Even just rote exams. It might actually change your brain. For the most part, it’s now almost as if I’m trapped in the present. If I drank, for instance, some Tang, it wouldn’t remind me of anything—I’d just taste the Tang.”
 
-Modern fiction has just about made a contest of depicting humans at their most odious and depraved; it’s almost jarring to read a scene where a character is poised to do something awful or cowardly, but instead finds himself affected by another human being and does the right thing after all.
-
-[10](#footnote-anchor-10)
-
-The IRS really did shift its focus from compliance to maximizing profit during the Reagan era,\*\*\* a significant ideological reordering that _The Pale King_ explains as politically necessary: Reagan ran on a platform both of reducing taxes and increasing defense spending. The only way this was possible was if the IRS got more efficient at collecting. Reagan could even capitalize politically on the IRS’s new methods: “‘The Service’s more aggressive treatment of TPs, especially if it’s high-profile, would seem to keep in the electorate’s mind a fresh and eminently disposable image of Big Government that the Rebel Outsider President could continue to define himself against and decry as just the sort of government intrusion into the private lives and wallets of hardworking Americans he ran for office to fight against.’”\*\*\*\*
-
-[11](#footnote-anchor-11)
-
-Wastoid, according to ChatGPT: someone who is perceived as wasting their life or potential, often through excessive drug or alcohol use. It can imply that the person is unproductive or disengaged from meaningful activities or responsibilities.
-
-[12](#footnote-anchor-12)
-
-The Chris Fogel novella has been published separately as _Something to Do with Paying Attention_. It’s one of the best pieces DFW ever wrote, the only part of _The Pale King_ I’d recommend unreservedly.
-
-[13](#footnote-anchor-13)
-
-We might observe that neither right nor the left youth movements circa 2024 place much emphasis on getting jobs and working for the good of society; we might further observe that cynical rejection of the existing social order is a top-notch reason to avoid putting in those long, tedious, back-bending 9-5s. But then, such an observation might make us the cynics, which is certainly something to guard against.
-
-[14](#footnote-anchor-14)
-
-This quote is essentially from the margins of Wallace’s notebook, rough notes _about_ the novel which were never intended to make the novel itself; DFW at his most unmediated.
-
-[15](#footnote-anchor-15)
-
-Wallace was sympathetic to clichés: “Clichés earned their status as clichés because they're so obviously true”
-
-[16](#footnote-anchor-16)
-
-An essential element of romanticizing his death (the beating of the breasts, etc.)
-
-[17](#footnote-anchor-17)
-
-The best part of _The Pale King_ was where he managed to abandon his usual style. Much of the Chris Fogel novella is composed of simple sentences: “I’m not sure I even know what to say. To be honest, a good bit of it I don’t remember. I don’t think my memory works in quite the way it used to. It may be that this kind of work changes you. Even just rote exams. It might actually change your brain. For the most part, it’s now almost as if I’m trapped in the present. If I drank, for instance, some Tang, it wouldn’t remind me of anything—I’d just taste the Tang.”
-
-[18](#footnote-anchor-18)
-
-“For those of civilians who know in our gut that writing is an act of communication between one human being and another, the whole question seems sort of arcane.”
+[^18]: “For those of civilians who know in our gut that writing is an act of communication between one human being and another, the whole question seems sort of arcane.”
 
 *Like this. I should add, I hope the affectation of footnotes for this essay isn’t cloying or obvious. I worried that it would be, but a friend convinced me it would be funny anyway, and besides, the piece was already glutted with many parentheticals so I figured, why not.
 

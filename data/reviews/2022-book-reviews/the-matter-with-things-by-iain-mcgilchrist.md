@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Science
   - Philosophy
+disableFootnotes: true
 ---
 
 ### Why is this worth your time?

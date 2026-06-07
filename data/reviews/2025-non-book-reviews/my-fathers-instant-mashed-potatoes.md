@@ -115,7 +115,7 @@ In researching whether the ancient Andean peoples really did boil and mash potat
 
 ![](https://substackcdn.com/image/fetch/$s_!GFq8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee286622-7cfd-45fa-b18e-6fc06b9fea81_739x919.png)
 
-There is a rhetorical sleight of hand happening in this Reddit post title.[1](https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed#footnote-1-167090712) The phrasing implies that chuño resembles modern instant mashed potatoes in some way, that instant mashed potatoes are in some sense continuous with indigenous ways of potato-knowing. But there is no continuity of process, because the way chuño is created has no particular commonalities with the Philadelphia Cook beyond the removal of moisture. There is no continuity of form, for chuño actually looks like this:
+There is a rhetorical sleight of hand happening in this Reddit post title.[^1] The phrasing implies that chuño resembles modern instant mashed potatoes in some way, that instant mashed potatoes are in some sense continuous with indigenous ways of potato-knowing. But there is no continuity of process, because the way chuño is created has no particular commonalities with the Philadelphia Cook beyond the removal of moisture. There is no continuity of form, for chuño actually looks like this:
 
 ![](https://substackcdn.com/image/fetch/$s_!dL21!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7f74da-27ee-4ffa-8d76-ea9fa3853394_1280x855.png)
 
@@ -144,7 +144,7 @@ Consider an abstracted version of the saga of my father’s instant mashed potat
 
 Pared back to this level of abstraction, a surprising amount of stuff starts to seem like my father’s instant mashed potatoes.
 
-The other foods in this category are obvious - McNuggets reconstituted out of pink slime, American cheese product, instant coffee, deli ham, Pringles minted from the very same potato flakes that go into IMPs. We’ve even developed a whole new health scare over them: “Ultra processed foods”[2](https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed#footnote-2-167090712) are as demonized now as butter and whole milk were when my parents were young.
+The other foods in this category are obvious - McNuggets reconstituted out of pink slime, American cheese product, instant coffee, deli ham, Pringles minted from the very same potato flakes that go into IMPs. We’ve even developed a whole new health scare over them: “Ultra processed foods”[^2] are as demonized now as butter and whole milk were when my parents were young.
 
 Expand the pattern to the built environment. Pressboard, particle board, and other reconstituted material composites likely make up a majority of new furniture sold in the US. These are an IMPish imitation of actual wood furniture. Take care while assembling not to ding your brittle sheetrock walls, an IMPish upgrade over lath and plaster. Often these interiors live inside an apartment building clad in a mish-mash of random ornament, anti-massing regulations demanding an IMPish simulation of a varied city block.
 
@@ -158,7 +158,7 @@ The gig economy makes IMPish jobs. Swiping apps produce IMPish flirting. Meta-st
 
 The internet scrapes together IMPish communities. We’re not atomized; we’re flaked. We’re Philadelphia Cooked, and we’re stewing here together in the microwave.
 
-Large Language Models can gall on an aesthetic level because they are IMPish slurries of thought itself, every word ever written dried into weights and vectors and lubricated with the margarine of RLHF.[3](https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed#footnote-3-167090712)
+Large Language Models can gall on an aesthetic level because they are IMPish slurries of thought itself, every word ever written dried into weights and vectors and lubricated with the margarine of RLHF.[^3]
 
 Since World War II and the large-scale industrialization it fully unleashed, a core method driving ‘progress’ across many different fields of human endeavor has been to shred something real and reconstitute it into a faster, easier, less appealing IMPish substitute for what we used to make out of it. This is the parsimonious recipe for industry to fulfill our urges. We’ve got the food processor whirring, and absolutely everything is going in.
 
@@ -212,14 +212,8 @@ Sources of potato facts (verified with primary sources linked within whenever po
 
 [https://spudsmart.com/spud-history-instant-mashed-potatoes/](https://spudsmart.com/spud-history-instant-mashed-potatoes/)
 
-[1](https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed#footnote-anchor-1-167090712)
+[^1]: Ignoring the error that Ainu potato treatments like munini-imo are not ‘ancient’ at all, deriving from the long tail of the Columbian exchange in the 16th through 19th centuries like every other Old World potato dish. Comparisons between Instant Mashed Potatoes and munini-imo are precisely as inapt as with chuño, for the same reasons.
 
-Ignoring the error that Ainu potato treatments like munini-imo are not ‘ancient’ at all, deriving from the long tail of the Columbian exchange in the 16th through 19th centuries like every other Old World potato dish. Comparisons between Instant Mashed Potatoes and munini-imo are precisely as inapt as with chuño, for the same reasons.
+[^2]: “Processed” is a slippery term that evokes all kinds of chemical perversions, but the physical transformation of chopping into tiny bits is fundamental to the notion. Consider what a “food processor” does.
 
-[2](https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed#footnote-anchor-2-167090712)
-
-“Processed” is a slippery term that evokes all kinds of chemical perversions, but the physical transformation of chopping into tiny bits is fundamental to the notion. Consider what a “food processor” does.
-
-[3](https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed#footnote-anchor-3-167090712)
-
-Claude, by the way, estimates that 30-40% of all mashed potatoes eaten in the US are the instant kind. ChatGPT says 25-35%.
+[^3]: Claude, by the way, estimates that 30-40% of all mashed potatoes eaten in the US are the instant kind. ChatGPT says 25-35%.

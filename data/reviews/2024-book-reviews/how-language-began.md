@@ -132,7 +132,7 @@ Another way Chomsky moves the goalposts is by distinguishing _E-languages_, like
 
 Not only should linguistics _primarily_ be interested in studying I-languages, but to try and study E-languages at all may be a fool’s errand:  (_Chomsky’s Universal Grammar: An Introduction_, pg. 13)
 
-> Chomsky claims that the history of generative linguistics shows a shift from an E-language to an I-language approach; ‘the shift of focus from the dubious concept of E-language to the significant notion of I-language was a crucial step in early generative grammar’ (Chomsky, 1991b, pg. 10). … Indeed Chomsky is extremely dismissive of E-language approaches: ‘E-language, if it exists at all, is derivative, remote from mechanisms and of no particular empirical significance, perhaps none at all’ (Chomsky, 1991b, pg. 10).[1](#footnote-1)
+> Chomsky claims that the history of generative linguistics shows a shift from an E-language to an I-language approach; ‘the shift of focus from the dubious concept of E-language to the significant notion of I-language was a crucial step in early generative grammar’ (Chomsky, 1991b, pg. 10). … Indeed Chomsky is extremely dismissive of E-language approaches: ‘E-language, if it exists at all, is derivative, remote from mechanisms and of no particular empirical significance, perhaps none at all’ (Chomsky, 1991b, pg. 10).[^1]
 
 I Am Not A Linguist (IANAL), but this redefinition of the primary concern of linguistics seems crazy to me. Is studying a language like English as it is actually used _really_ of no particular empirical significance? 
 
@@ -150,7 +150,7 @@ In summary, to Chomsky and many of the linguists working in his tradition, the s
 
 All of this matters because the dominance of Chomskyan linguistics has had downstream effects in adjacent fields like artificial intelligence (AI), evolutionary biology, and neuroscience. Chomsky has [long been an opponent](https://norvig.com/chomsky.html) of the statistical learning tradition of language modeling, essentially claiming that it does not provide insight about what humans know about languages, and that engineering success probably can’t be achieved without explicitly incorporating important mathematical facts about the underlying structure of language. Chomsky’s ideas have motivated researchers to look for a “language gene” and “language areas” of the brain. Arguably, no one has yet found either—but more on that later. 
 
-How Chomsky attained this stranglehold on linguistics is an interesting sociological question, but not our main concern in the present work[2](#footnote-2). The intent here is not to pooh-pooh Chomsky, either; brilliant and hard-working people are often wrong on important questions. Consider that his academic career began in the early 1950s—over 70 years ago!—when our understanding of language, anthropology, biology, neuroscience, and artificial intelligence, among many other things, was substantially more rudimentary. 
+How Chomsky attained this stranglehold on linguistics is an interesting sociological question, but not our main concern in the present work[^2]. The intent here is not to pooh-pooh Chomsky, either; brilliant and hard-working people are often wrong on important questions. Consider that his academic career began in the early 1950s—over 70 years ago!—when our understanding of language, anthropology, biology, neuroscience, and artificial intelligence, among many other things, was substantially more rudimentary. 
 
 Where are we going with this? All of this is context for understanding the ideas of a certain bomb-throwing terrorist blight on the face of linguistics: [Daniel Everett](https://en.wikipedia.org/wiki/Daniel_Everett). _How Language Began_ is a book he wrote about, well, what language is and how it began. Everett is the anti-Chomsky.
 
@@ -180,7 +180,7 @@ Everett interviewing some Pirahã people. ([source](https://www.52-insights.com/
 
 Everett did eventually learn their language, and it’s worth taking a step back to appreciate just how _hard_ that task was. No Pirahã spoke Portuguese, apart from some isolated phrases they used for bartering. They didn’t speak any other language at all—_just_ Pirahã. How do you learn another group’s language when you have no languages in common? The technical term is [monolingual fieldwork](https://www.youtube.com/watch?v=sYpWp7g7XWU). But this is just a fancy label for some combination of pointing at things, listening, crude imitation, and obsessively transcribing whatever you hear. For _years_. 
 
-It doesn’t help that the Pirahã language seems genuinely hard to learn in a few different senses. First, it is probably conventionally difficult for Westerners to learn since it is a tonal language (two tones: high and low) with a small number of phonemes (building block sounds) and a few unusual sounds[3](#footnote-3). Second, there is no written language. Third, the language has a variety of ‘channels of discourse’, or ways of talking specialized for one or another cultural context. One of these is ‘whistle speech’; Pirahãs can communicate purely in whistles. This feature appears to be extremely useful during hunting trips: (_Don’t Sleep, There Are Snakes_, Ch. 11, pg. 187-188)
+It doesn’t help that the Pirahã language seems genuinely hard to learn in a few different senses. First, it is probably conventionally difficult for Westerners to learn since it is a tonal language (two tones: high and low) with a small number of phonemes (building block sounds) and a few unusual sounds[^3]. Second, there is no written language. Third, the language has a variety of ‘channels of discourse’, or ways of talking specialized for one or another cultural context. One of these is ‘whistle speech’; Pirahãs can communicate purely in whistles. This feature appears to be extremely useful during hunting trips: (_Don’t Sleep, There Are Snakes_, Ch. 11, pg. 187-188)
 
 > My first intense contact with whistle speech came one day when the Pirahãs had given me permission to go hunting with them. After we’d been walking for about an hour, they decided that they weren’t seeing any game because I, with my clunking canteens and machete and congenital clumsiness, was making too much noise. “You stay here and we will be back for you later.” Xaikáibaí said gently but firmly. …
 > 
@@ -304,7 +304,7 @@ In the above example, we can in principle generate infinitely many new sentences
 
 > Everett reports that there are no signs of no multiple coordination (_It takes [skill, nerve, initiative, and courage]_), complex determiners (_[[[my] son’s] wife’s] family_), stacked modifiers (_a [nice, [cosy, [inexpensive [little cottage]]]]_), or—most significant of all—reiterable clause embedding (_I thought [ you already knew [that she was here ] ]_). These are the primary constructions that in English permit sentences of any arbitrary finite length to be constructed, yielding the familiar argument that the set of all definable grammatical sentences in English is infinite.
 
-Regardless of the details, a generic prediction should be that there is no longest sentence in a language whose grammar is recursive. This doesn’t mean that one can say an arbitrarily long sentence in real life[4](#footnote-4). Rather, one can say that, given a member of some large set of sentences, one can always extend it.
+Regardless of the details, a generic prediction should be that there is no longest sentence in a language whose grammar is recursive. This doesn’t mean that one can say an arbitrarily long sentence in real life[^4]. Rather, one can say that, given a member of some large set of sentences, one can always extend it.
 
 Everett takes the claim “All natural human languages have recursion.” to mean that, if there exists a natural human language without recursion, the claim is false. Or, slightly more subtly, if there exists a language which uses recursion so minimally that linguists have a hard time determining whether a corpus of linguistic data falsifies it or not, sentence-level recursion is probably not a bedrock principle of human languages. 
 
@@ -332,7 +332,7 @@ Chomsky and linguists working in his tradition sometimes write in a way consiste
 
 To be clear, this usage of ‘recursion’ seems consistent with how many other Chomskyan linguists have used the term. And with all due respect to these researchers, I find this notion of recursion completely insane, because it would imply (i) any language with more than one word in its sentences has recursion, and that (ii) all sentences are necessarily constructed recursively. 
 
-The first implication means that “All natural human languages have recursion.” reduces to the vacuously true claim that “All languages allow more than one word in their sentences.”[5](#footnote-5) The second idea is more interesting, because it relates to how the brain constructs sentences, but as far as I can tell this claim cannot be tested using purely observational linguistic data. One would have to do some kind of experiment to check the order in which subjects mentally construct sentences, and ideally make brain activity measurements of some sort. 
+The first implication means that “All natural human languages have recursion.” reduces to the vacuously true claim that “All languages allow more than one word in their sentences.”[^5] The second idea is more interesting, because it relates to how the brain constructs sentences, but as far as I can tell this claim cannot be tested using purely observational linguistic data. One would have to do some kind of experiment to check the order in which subjects mentally construct sentences, and ideally make brain activity measurements of some sort. 
 
 Aside from sometimes involving a strange notion of recursion, another feature of the Chomskyan response to Everett relates to the distinction we discussed earlier between so-called E-languages and I-languages. Consider the following exchange from a [2012 interview](https://libcom.org/article/chomsky-new-scientist) with Chomsky:
 
@@ -425,7 +425,7 @@ Why did we end up with certain symbols and not others? Well, there’s no good _
 
 When did language—in the sense of communication using symbols—begin? Everett makes two kinds of arguments here. One kind of argument is that certain feats are hard enough that they probably required language in this sense. Another kind of argument relates to how we know human anatomy has physically changed on evolutionary time scales.
 
-The feats Everett talks about are things like traveling long distances across continents, possibly even in a directed rather than random fashion; manufacturing nontrivial hand tools (e.g., [Oldowan](https://en.wikipedia.org/wiki/Oldowan) and [Mousterian](https://en.wikipedia.org/wiki/Mousterian)); building complex settlements (e.g., the one found at [Gesher Benot Ya'aqov](https://en.wikipedia.org/wiki/Gesher_Benot_Ya%27aqov)); controlling fire; and using boats to successfully navigate treacherous waters. Long before _sapiens_ arose, paleoanthropological evidence suggests that our predecessors _[Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus)_ did all of these things. Everett argues that they might have had language over one million years ago[6](#footnote-6).
+The feats Everett talks about are things like traveling long distances across continents, possibly even in a directed rather than random fashion; manufacturing nontrivial hand tools (e.g., [Oldowan](https://en.wikipedia.org/wiki/Oldowan) and [Mousterian](https://en.wikipedia.org/wiki/Mousterian)); building complex settlements (e.g., the one found at [Gesher Benot Ya'aqov](https://en.wikipedia.org/wiki/Gesher_Benot_Ya%27aqov)); controlling fire; and using boats to successfully navigate treacherous waters. Long before _sapiens_ arose, paleoanthropological evidence suggests that our predecessors _[Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus)_ did all of these things. Everett argues that they might have had language over one million years ago[^6].
 
 This differs from Chomsky’s proposal by around an order of magnitude, time-wise, and portrays language as something not necessarily unique to modern humans. In Everett’s view, _Homo sapiens_ probably _improved_ on the language technology bestowed upon them by their _erectus_ ancestors, but did not invent it.
 
@@ -441,7 +441,7 @@ Phew. Let’s go back to the question of innateness before we wrap up. 
 
 Everett’s answer to the innateness question is complicated and in some ways subtle. He agrees that certain features of the human anatomy evolved to support language (e.g., the pharynx and ears). He also agrees that modern humans are probably much better than _Homo erectus_ at working with language, if indeed _Homo erectus_ did have language. 
 
-He mostly seems to take issue with the idea that some region of our brain is specialized for language. Instead, he thinks that our ability to produce and comprehend language is due to a mosaic of generally-useful cognitive capabilities, like our ability to remember things for relatively long times, our ability to form and modify habits, and our ability to reason under uncertainty. This last capability seems particularly important since, as Everett points out repeatedly, most language-based communication is ambiguous, and it is important for participants to exploit cultural and contextual information to more reliably infer the intended messages of their conversation partners. Incidentally, this is a feature of language Chomskyan theory tends to neglect[7](#footnote-7).
+He mostly seems to take issue with the idea that some region of our brain is specialized for language. Instead, he thinks that our ability to produce and comprehend language is due to a mosaic of generally-useful cognitive capabilities, like our ability to remember things for relatively long times, our ability to form and modify habits, and our ability to reason under uncertainty. This last capability seems particularly important since, as Everett points out repeatedly, most language-based communication is ambiguous, and it is important for participants to exploit cultural and contextual information to more reliably infer the intended messages of their conversation partners. Incidentally, this is a feature of language Chomskyan theory tends to neglect[^7].
 
 Can’t lots of animals do all those things? Yes. Everett views the difference as one of degree, not necessarily of quality. 
 
@@ -485,30 +485,16 @@ Regardless of who’s right and who’s wrong, the study language is certainly i
 > 
 > It is easy to be misled in an assessment of the current scene; nevertheless, it seems to me that the decline of dogmatism and the accompanying search for new approaches to old and often still intractable problems are quite unmistakable, not only in linguistics but in all of the disciplines concerned with the study of mind.
 
-[1](#footnote-anchor-1)
+[^1]: Chomsky 1991b refers to “Linguistics and adjacent fields: a personal view”, a chapter of _The Chomskyan Turn_. I couldn’t access the original text, so this quote-of-a-quote will have to do.
 
-Chomsky 1991b refers to “Linguistics and adjacent fields: a personal view”, a chapter of _The Chomskyan Turn_. I couldn’t access the original text, so this quote-of-a-quote will have to do.
+[^2]: Chomsky’s domination of linguistics is probably due to a combination of factors. First, he is indeed brilliant and prolific. Second, Chomsky’s theories promised to ‘unify’ linguistics and make it more like physics and other ‘serious’ sciences; for messy fields like linguistics, I assume this promise is extremely appealing. Third, he helped create and successfully exploited the [cognitive zeitgeist](https://en.wikipedia.org/wiki/Cognitive_revolution) that for the first time portrayed the mind as something that can be scientifically studied in the same way that atoms and cells can. Moreover, he was one of the first to make interesting connections between our burgeoning understanding of fields like molecular biology and neuroscience on the one hand, and language on the other. Fourth, Chomsky was not afraid to get into [fights](https://en.wikipedia.org/wiki/Linguistics_wars), which can be beneficial if you usually win.
 
-[2](#footnote-anchor-2)
+[^3]: One such sound is the [bilabial trill](https://en.m.wikipedia.org/wiki/Voiced_bilabial_trill), which kind of sounds like blowing a raspberry.
 
-Chomsky’s domination of linguistics is probably due to a combination of factors. First, he is indeed brilliant and prolific. Second, Chomsky’s theories promised to ‘unify’ linguistics and make it more like physics and other ‘serious’ sciences; for messy fields like linguistics, I assume this promise is extremely appealing. Third, he helped create and successfully exploited the [cognitive zeitgeist](https://en.wikipedia.org/wiki/Cognitive_revolution) that for the first time portrayed the mind as something that can be scientifically studied in the same way that atoms and cells can. Moreover, he was one of the first to make interesting connections between our burgeoning understanding of fields like molecular biology and neuroscience on the one hand, and language on the other. Fourth, Chomsky was not afraid to get into [fights](https://en.wikipedia.org/wiki/Linguistics_wars), which can be beneficial if you usually win.
+[^4]: This reminds me of a math [joke](https://scottaaronson.blog/?p=103).
 
-[3](#footnote-anchor-3)
+[^5]: Why is this vacuously true? If, given some particular notion of ‘sentence’, the sentences of any language could only have one word at most, we would just define some other notion of ‘word collections’.
 
-One such sound is the [bilabial trill](https://en.m.wikipedia.org/wiki/Voiced_bilabial_trill), which kind of sounds like blowing a raspberry.
+[^6]: He and archaeologist Lawrence Barham provide a more self-contained argument in [this 2020 paper](https://link.springer.com/article/10.1007/s10816-020-09480-9).
 
-[4](#footnote-anchor-4)
-
-This reminds me of a math [joke](https://scottaaronson.blog/?p=103).
-
-[5](#footnote-anchor-5)
-
-Why is this vacuously true? If, given some particular notion of ‘sentence’, the sentences of any language could only have one word at most, we would just define some other notion of ‘word collections’.
-
-[6](#footnote-anchor-6)
-
-He and archaeologist Lawrence Barham provide a more self-contained argument in [this 2020 paper](https://link.springer.com/article/10.1007/s10816-020-09480-9).
-
-[7](#footnote-anchor-7)
-
-A famous line at the beginning of Chomsky’s _Aspects of the Theory of Syntax_ goes: “Linguistic theory is concerned primarily with an ideal speaker-listener, in a completely homogeneous speech community, who knows its language perfectly and is unaffected by such grammatically irrelevant conditions as memory limitations, distractions, shifts of attention and interest, and errors (random or characteristic) in applying his knowledge of the language in actual performance.”
+[^7]: A famous line at the beginning of Chomsky’s _Aspects of the Theory of Syntax_ goes: “Linguistic theory is concerned primarily with an ideal speaker-listener, in a completely homogeneous speech community, who knows its language perfectly and is unaffected by such grammatically irrelevant conditions as memory limitations, distractions, shifts of attention and interest, and errors (random or characteristic) in applying his knowledge of the language in actual performance.”

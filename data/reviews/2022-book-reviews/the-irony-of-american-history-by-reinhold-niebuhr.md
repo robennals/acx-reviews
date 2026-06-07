@@ -15,6 +15,7 @@ tags:
   - History
   - Religion
   - Politics
+disableFootnotes: true
 ---
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/37070ed6c8e6d1d3.png)

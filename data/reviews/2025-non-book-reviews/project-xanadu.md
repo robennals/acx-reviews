@@ -36,7 +36,7 @@ In _The Atlantic_, Bush returned to a pre-war obsession with communication and k
 > 
 > The difficulty seems to be, not so much that we publish unduly in view of the extent and variety of present day interests, but rather that **publication has been extended far beyond our present ability to make real use of the record**. The summation of human experience is being expanded at a prodigious rate, and the means we use for threading through the consequent maze to the momentarily important item is the same as was used in the days of square-rigged ships.
 
-Bush thought we were ripe for a paradigm shift. Some new method of spreading research, connecting it across fields and domains, and making new discoveries in the in-betweens. The most exciting Next Big Thing of the era was microfilm, and so when Bush let his imagination run a little wild,[1](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-1-167093537) he envisioned a machine enabling us to do grand new things with long books shrunk into tidy rolls:
+Bush thought we were ripe for a paradigm shift. Some new method of spreading research, connecting it across fields and domains, and making new discoveries in the in-betweens. The most exciting Next Big Thing of the era was microfilm, and so when Bush let his imagination run a little wild,[^1] he envisioned a machine enabling us to do grand new things with long books shrunk into tidy rolls:
 
 > Consider a future device for individual use, which is a sort of mechanized private file and library. It needs a name, and, to coin one at random, “memex” will do. A memex is a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.
 > 
@@ -125,7 +125,7 @@ And then he paused, and the screen went blank. He explained that he and his coll
 
 Engelbart “froze” the initial statement, clicked on the acronym, and below the words “Augmented-Human-Intellect Research Center” appeared. He kept clicking and freezing, and a trail of nested and related information appeared—a list of funders, a graph of staffing over time, a mission statement. This was _hypermedia_. These were _hyperlinks_, he explained. NLS was a _hypertext system_.
 
-The presentation went on for 90 minutes longer, and became known as _The Mother of All Demos_.[2](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-2-167093537) At around the 75-minute mark, Engelbart shows that two different NLS users could edit a single document simultaneously. While this was extremely impressive functionality, it was achieved with time-sharing—computation was done on a single machine, switching rapidly between tasks—and became infeasible the very next year, when ARPANET was released and the number of machines you could connect to one system grew rapidly.
+The presentation went on for 90 minutes longer, and became known as _The Mother of All Demos_.[^2] At around the 75-minute mark, Engelbart shows that two different NLS users could edit a single document simultaneously. While this was extremely impressive functionality, it was achieved with time-sharing—computation was done on a single machine, switching rapidly between tasks—and became infeasible the very next year, when ARPANET was released and the number of machines you could connect to one system grew rapidly.
 
 Engelbart’s hypertext system was impressive in its own right, even without collaborativity. And still, little came of it—Andy van Dam, an attendee and revolutionary computer scientist himself, [would reflect](https://www.youtube.com/watch?v=g0yx-F1FGnc&list=PLEFuVIEJ66OWGcsiuwTUa6yjYA3zeKkyV&index=6&t=1755s) decades later: “Everybody was blown away … and nothing else happened. There was almost no further impact.” Engelbart’s ideas were just a little too _out there_.
 
@@ -143,9 +143,9 @@ Well, one man cared.
 
 Ted Nelson was born in 1937 to two twenty-year-olds, Ralph Nelson and Celeste Holm. His parents divorced in 1939, leaving him to be raised by his grandparents. Both Nelson (the elder) and Holm would go on to extremely-successful film careers: the former became an Emmy-winning director; the latter an Oscar-winning actress. And, at first, Ted seemed to be following in their footsteps.
 
-As a philosophy major at Swarthmore College, he produced a film called _The Epiphany of Slocum Furlow_, which he described as “a short comedy about loneliness at college and the meaning of life.”[3](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-3-167093537) Nelson also [claims](http://hyperland.com/TNvita) to have “[d]irected [and written] book and lyrics for what was apparently the first rock musical” in his junior year at Swarthmore.
+As a philosophy major at Swarthmore College, he produced a film called _The Epiphany of Slocum Furlow_, which he described as “a short comedy about loneliness at college and the meaning of life.”[^3] Nelson also [claims](http://hyperland.com/TNvita) to have “[d]irected [and written] book and lyrics for what was apparently the first rock musical” in his junior year at Swarthmore.
 
-Thankfully, his interest in a career as an entertainer soon waned, and Nelson went off to study sociology in grad school—first at the University of Chicago, then at Harvard. Nelson took a computer class at Harvard, in 1960, and “[his] world exploded.”[4](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-4-167093537) He realized the incredible power of computing, quickly intuited that these new machines could be generally applied to _everything_, and founded **Project Xanadu**.[5](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-5-167093537)
+Thankfully, his interest in a career as an entertainer soon waned, and Nelson went off to study sociology in grad school—first at the University of Chicago, then at Harvard. Nelson took a computer class at Harvard, in 1960, and “[his] world exploded.”[^4] He realized the incredible power of computing, quickly intuited that these new machines could be generally applied to _everything_, and founded **Project Xanadu**.[^5]
 
 Initially, Xanadu’s scope was pretty limited. Word processors weren’t around yet, but Nelson wanted to build something strikingly similar: he wanted to write a program that could store and display documents, with version histories and edits all stored and displayed at the same time too. Later, Nelson would call this version-history feature “intercomparison.” _(Strange coinages will be a… theme; I’m just trying to get you ready.)_
 
@@ -230,7 +230,7 @@ Nelson answered (in 1974):
 
 *   The _docuverse_ keeps track! Xanadu wouldn’t simply be a platform for linkage—it would be the repository for all existing connections between human thought. It would be a universal library.
 
-*   Storage of the docuverse will be distributed, people can use pseudonyms, and eventually we’ll figure out some good system for authenticating the texts everyone’s linking to.[6](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-6-167093537)
+*   Storage of the docuverse will be distributed, people can use pseudonyms, and eventually we’ll figure out some good system for authenticating the texts everyone’s linking to.[^6]
 
 *   Simply put a royalty on the links. If you want to reference a copyrighted New York Times article, then you’ve got to pay the author a little bit. And if someone else links to what you’ve written, then you get a small payout. Presumably, you could build in caveats for short excerpts and fair use kinds of things—“a universal flexible rule [still] has to be worked out.”
 
@@ -241,7 +241,7 @@ He helpfully diagrammed the whole idea, in case it was at all confusing:
 
 A pay-per-click system like Nelson described would first be implemented in 1996.
 
-_Computer Lib/Dream Machines_ became a cult favorite, and Nelson began to gather a small following. In 1979, he moved back to Swarthmore with a group of disciples, and they got to work. The crack team included:[7](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-7-167093537)
+_Computer Lib/Dream Machines_ became a cult favorite, and Nelson began to gather a small following. In 1979, he moved back to Swarthmore with a group of disciples, and they got to work. The crack team included:[^7]
 
 *   Roger Gregory, a University of Michigan graduate and Ann Arbor local who’d been corresponding over telephone with Nelson since reading _Computer Lib_ in 1974. Gregory was a whiz with hardware, but suffered from regular bouts of depression, sometimes so strong they would render him “incapable of working.” Gregory paid for the house in Pennsylvania.
 
@@ -260,7 +260,7 @@ In Swarthmore, Nelson hoped his decades-old dream of Xanadu would finally materi
 
 # 5\. Developing Xanadu
 
-Ted Nelson had built Project Xanadu into, for lack of better terminology, a cult.[8](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-8-167093537) He writes:
+Ted Nelson had built Project Xanadu into, for lack of better terminology, a cult.[^8] He writes:
 
 > We all were deeply concerned about the Bad Guys, who we saw as a combination of IBM and the government. (The others were all Libertarians, I still called myself a Cynical Socialist.) The Bad Guys would spy on people, withhold and block information, and give us inferior hypertext. We had to Do It Right, to help prevent this.
 > 
@@ -286,7 +286,7 @@ The team came nowhere close to meeting them. Infighting broke out between two fa
 
 The PARC faction began to drive Gregory up the wall. According to Nelson, it got to the point that he “was throwing things and acting crazy.” So Nelson called John Walker, the two “summoned Roger to meet [them] at John’s house at Muir Beach, and Walker told Roger he was no longer in charge.”
 
-Miller took over and began the rewrite in Smalltalk. Walker’s deadline came and went, and the team delivered nothing. Xanadu’s offices descended into chaos—Miller anointed two PARC programmers to be “co-architects,” and the three of them increasingly left the rest of the team out of the loop. For four years, Miller dawdled about, adding features, giving them clever names (files were “berts,” after Bertrand Russell, and so, for symmetry’s sake, royalty-generating transclusions became “ernies”), and never building them.[9](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-9-167093537)
+Miller took over and began the rewrite in Smalltalk. Walker’s deadline came and went, and the team delivered nothing. Xanadu’s offices descended into chaos—Miller anointed two PARC programmers to be “co-architects,” and the three of them increasingly left the rest of the team out of the loop. For four years, Miller dawdled about, adding features, giving them clever names (files were “berts,” after Bertrand Russell, and so, for symmetry’s sake, royalty-generating transclusions became “ernies”), and never building them.[^9]
 
 Meanwhile, Ted Nelson was living on a houseboat, attending sex retreats and [Keristan](https://en.wikipedia.org/wiki/Kerista) orgies, and giving talks in Singapore. He recorded a new soundtrack for his student film, the one from 1959.
 
@@ -397,40 +397,22 @@ By all accounts, that day is only six months away.
 
 ![](https://substackcdn.com/image/fetch/$s_!Ck9E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c2766e8-0736-4296-8769-2fc78d38809c_1600x367.png)
 
-[1](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-1-167093537)
-
-Before getting onto the information-sharing mechanisms of the future, Vannevar Bush did a little imagining about information-recording too: he suggested that Bell Labs’ Vocoder (an early mechanical phoneme-to-text system) could be combined with a stenotype (a human operated, much more extensive, speaking speed–capable phoneme-to-text system) to produce a working speech-to-text machine. Then researchers would have no need to learn typing or to hire a secretary—they could simply speak their findings aloud, and have them automatically entered into the record! It’s interesting to me how this both absolutely came to be—lots of people use very impressively functional speech-to-text systems nowadays—and also largely didn’t—I typed the words you’re reading now with my own non-automated hands. This theme will recur—Bush having very good and important ideas that everyone claims inspiration from, but actually end up mostly perverting or ignoring.
+[^1]: Before getting onto the information-sharing mechanisms of the future, Vannevar Bush did a little imagining about information-recording too: he suggested that Bell Labs’ Vocoder (an early mechanical phoneme-to-text system) could be combined with a stenotype (a human operated, much more extensive, speaking speed–capable phoneme-to-text system) to produce a working speech-to-text machine. Then researchers would have no need to learn typing or to hire a secretary—they could simply speak their findings aloud, and have them automatically entered into the record! It’s interesting to me how this both absolutely came to be—lots of people use very impressively functional speech-to-text systems nowadays—and also largely didn’t—I typed the words you’re reading now with my own non-automated hands. This theme will recur—Bush having very good and important ideas that everyone claims inspiration from, but actually end up mostly perverting or ignoring.
 
 Bush also wrote, presciently-though-not-quite-as-presciently-as-Turing-ly, that “[w]e may some day click off arguments on a machine with the same assurance that we now enter sales on a cash register.” He thought this would be a fairly deterministic process—eventually we’d find some way to encode our semantics perfectly into computer-readable symbols, and then we could use those new computer-readable symbols to construct logical arguments. This isn’t really what today’s arguing-machines do at all, but if you squint enough, it’s not a terribly inaccurate picture.
 
-[2](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-2-167093537)
+[^2]: [It’s on Youtube](https://www.youtube.com/watch?v=yJDv-zdhzMY); I think you should watch it. When I was younger, my dad had me watch Steve Jobs’ iPhone presentation; held it up as a prime example of tech and sales, innovation and elegance all rolled up. I liked it at the time. Now, having watched Engelbart’s presentation, I recognize it for what it is: patronizing, mass-market garbage. It’s just nowhere near as _cool_.
 
-[It’s on Youtube](https://www.youtube.com/watch?v=yJDv-zdhzMY); I think you should watch it. When I was younger, my dad had me watch Steve Jobs’ iPhone presentation; held it up as a prime example of tech and sales, innovation and elegance all rolled up. I liked it at the time. Now, having watched Engelbart’s presentation, I recognize it for what it is: patronizing, mass-market garbage. It’s just nowhere near as _cool_.
+[^3]: [This one’s on Youtube](https://www.youtube.com/watch?v=rFgul6rwNbQ) too. I don’t really recommend it. It’s pretty much what you’d expect upon hearing the description “late 1950s experimental student film about being a college student.” In some regard, it’s impressive for what it is, but it’s also _very much_ what it is.
 
-[3](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-3-167093537)
+[^4]: Here, I’m quoting Nelson’s autobiography, published in 2010. It’s called _POSSIPLEX: Movies, Intellect, Creative Control, My Computer Life and the Fight for Civilization_, and it’s even weirder than the title suggests.
 
-[This one’s on Youtube](https://www.youtube.com/watch?v=rFgul6rwNbQ) too. I don’t really recommend it. It’s pretty much what you’d expect upon hearing the description “late 1950s experimental student film about being a college student.” In some regard, it’s impressive for what it is, but it’s also _very much_ what it is.
+[^5]: Taking a page out of [Jon Bois’ playbook](https://vimeo.com/1082418220), I’m gonna recommend you stop here for a moment, put on your headphones, turn the volume down to a not-so-misophonic level, and listen to twenty seconds or so of “[Doomed Moon](https://youtu.be/VAvgieiML9w?si=_YTQZ87e7w-lz7Gv&t=32)” from the 32-second mark, while staring unblinkingly at the words **Project Xanadu**. Your reading experience will be much enhanced.
 
-[4](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-4-167093537)
+[^6]: In the 1987 edition of _Computer Lib/Dream Machines_, Nelson writes, “these are now called ‘authentication systems;’ very sophisticated ones exist, and the government is trying to suppress them.” He’s referring to public key cryptography, which wasn’t invented until 1976, and how an NSA official named Joseph A. Meyer had contacted three researchers—named **R**ivest, **S**hamir, and **A**dleman—just before they released a paper in 1977 that introduced a revolutionary new cryptosystem based on the public-key breakthrough.
 
-Here, I’m quoting Nelson’s autobiography, published in 2010. It’s called _POSSIPLEX: Movies, Intellect, Creative Control, My Computer Life and the Fight for Civilization_, and it’s even weirder than the title suggests.
+[^7]: My description of these men comes both from Nelson’s autobiography and from a classic article in the June 1995 edition of _WIRED_ magazine called “[The Curse of Xanadu](https://www.wired.com/1995/06/xanadu/#1).” The author, Gary Wolf, takes a somewhat less charitable view of Ted Nelson than I do: he describes Xanadu as “the longest-running vaporware project in the history of computing” and Nelson as “the king of unsuccessful software development.” In my view, the last 30 years of internet history have been extremely kind to Nelson’s legacy, and are reason to disregard much of Wolf’s snottiness in the article. (I do still recommend reading it, though, for a more detailed play-by-play of Xanadu’s history.)
 
-[5](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-5-167093537)
+[^8]: What is it with hypertext pioneers and cults? I wonder if this simply has to do with the fact that these guys were _so_ ahead of their time—the big guys like Tim Berners-Lee didn’t even _start_ thinking about hypertext until 1980. Nelson had, at this point, been at it for _20 years_—the kind of person who does that is also the kind of person who writes in his autobiography, “I knew ten times more fifty years ago, when I started in computers, than most people think I know now,” and also absolutely the kind of person who starts a cult.
 
-Taking a page out of [Jon Bois’ playbook](https://vimeo.com/1082418220), I’m gonna recommend you stop here for a moment, put on your headphones, turn the volume down to a not-so-misophonic level, and listen to twenty seconds or so of “[Doomed Moon](https://youtu.be/VAvgieiML9w?si=_YTQZ87e7w-lz7Gv&t=32)” from the 32-second mark, while staring unblinkingly at the words **Project Xanadu**. Your reading experience will be much enhanced.
-
-[6](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-6-167093537)
-
-In the 1987 edition of _Computer Lib/Dream Machines_, Nelson writes, “these are now called ‘authentication systems;’ very sophisticated ones exist, and the government is trying to suppress them.” He’s referring to public key cryptography, which wasn’t invented until 1976, and how an NSA official named Joseph A. Meyer had contacted three researchers—named **R**ivest, **S**hamir, and **A**dleman—just before they released a paper in 1977 that introduced a revolutionary new cryptosystem based on the public-key breakthrough.
-
-[7](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-7-167093537)
-
-My description of these men comes both from Nelson’s autobiography and from a classic article in the June 1995 edition of _WIRED_ magazine called “[The Curse of Xanadu](https://www.wired.com/1995/06/xanadu/#1).” The author, Gary Wolf, takes a somewhat less charitable view of Ted Nelson than I do: he describes Xanadu as “the longest-running vaporware project in the history of computing” and Nelson as “the king of unsuccessful software development.” In my view, the last 30 years of internet history have been extremely kind to Nelson’s legacy, and are reason to disregard much of Wolf’s snottiness in the article. (I do still recommend reading it, though, for a more detailed play-by-play of Xanadu’s history.)
-
-[8](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-8-167093537)
-
-What is it with hypertext pioneers and cults? I wonder if this simply has to do with the fact that these guys were _so_ ahead of their time—the big guys like Tim Berners-Lee didn’t even _start_ thinking about hypertext until 1980. Nelson had, at this point, been at it for _20 years_—the kind of person who does that is also the kind of person who writes in his autobiography, “I knew ten times more fifty years ago, when I started in computers, than most people think I know now,” and also absolutely the kind of person who starts a cult.
-
-[9](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-anchor-9-167093537)
-
-Well, the team did manage _one_ accomplishment during these years: in 1990, Robin Hanson showed up and [ran the first ever corporate prediction market](https://www.overcomingbias.com/p/first_known_bushtml) at Xanadu. Its employees assigned a 7% probability to verification of the [cold fusion experiment](https://en.wikipedia.org/wiki/Cold_fusion#Fleischmann%E2%80%93Pons_experiment) in the next year, and a 70% probability to releasing Xanadu before Deng Xiaoping died. Cold fusion was debunked, and Deng died long before any version of Xanadu would be released. Bonus trivia: this story from Robin Hanson is how I first learned of Xanadu’s existence!
+[^9]: Well, the team did manage _one_ accomplishment during these years: in 1990, Robin Hanson showed up and [ran the first ever corporate prediction market](https://www.overcomingbias.com/p/first_known_bushtml) at Xanadu. Its employees assigned a 7% probability to verification of the [cold fusion experiment](https://en.wikipedia.org/wiki/Cold_fusion#Fleischmann%E2%80%93Pons_experiment) in the next year, and a 70% probability to releasing Xanadu before Deng Xiaoping died. Cold fusion was debunked, and Deng died long before any version of Xanadu would be released. Bonus trivia: this story from Robin Hanson is how I first learned of Xanadu’s existence!
