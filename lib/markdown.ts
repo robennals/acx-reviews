@@ -8,6 +8,8 @@ import rehypeKatex from 'rehype-katex';
 import rehypeStringify from 'rehype-stringify';
 import { extractFootnotes } from './footnotes';
 import type { ReviewFootnote } from './types';
+import { lookupDimensions } from './image-dimensions';
+import { computeDisplaySize } from './image-size';
 
 /**
  * Parse frontmatter and content from markdown file
@@ -15,6 +17,34 @@ import type { ReviewFootnote } from './types';
 export function parseMarkdown(fileContent: string) {
   const { data, content } = matter(fileContent);
   return { frontmatter: data, content };
+}
+
+/**
+ * rehype plugin: stamp width/height attributes onto every <img> whose src has
+ * an entry in the image-dimensions manifest, using the pure display-size
+ * policy. Images with no manifest entry (external URLs, not-yet-backfilled
+ * contests) are left untouched — this is what scopes the sizing rollout.
+ * Hand-walks the hast tree to avoid adding a unist-util-visit dependency.
+ */
+function rehypeImageDimensions() {
+  return (tree: any) => {
+    const visit = (node: any) => {
+      if (node.type === 'element' && node.tagName === 'img' && node.properties?.src) {
+        const dim = lookupDimensions(String(node.properties.src));
+        if (dim) {
+          const size = computeDisplaySize(dim);
+          if (size) {
+            node.properties.width = size.width;
+            node.properties.height = size.height;
+          }
+        }
+      }
+      if (Array.isArray(node.children)) {
+        for (const child of node.children) visit(child);
+      }
+    };
+    visit(tree);
+  };
 }
 
 async function mdToHtml(md: string): Promise<string> {
@@ -36,6 +66,7 @@ async function mdToHtml(md: string): Promise<string> {
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeKatex)
+    .use(rehypeImageDimensions)
     .use(rehypeStringify, { allowDangerousHtml: true })
     .process(md);
   return result.toString();
