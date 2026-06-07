@@ -152,6 +152,11 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  /* Stamped width/height attributes (see lib/markdown.ts) set the intended
+   * display size and reserve layout space; on viewports narrower than the
+   * stamped width, cap to the column and let height follow the aspect ratio. */
+  max-width: 100%;
+  height: auto;
 }
 .prose figure {
   margin-left: auto;
