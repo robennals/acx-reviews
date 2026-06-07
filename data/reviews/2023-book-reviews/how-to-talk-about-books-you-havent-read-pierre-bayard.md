@@ -62,7 +62,7 @@ This doesn't stop him from rating books. His rating system includes the followin
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/619cf91ee0e033d9.png)
 
-This system makes explicit a process that many of us already do: We have opinions on books we haven't read. Think of your favorite ACX reviews. Or think of controversial books like Robin DeAngelo's _White Fragility_ or Charles Murray's _The Bell Curve_[[7]](#ftnt7).
+This system makes explicit a process that many of us already do: We have opinions on books we haven't read. Think of your favorite ACX reviews. Or think of controversial books like Robin DeAngelo's _White Fragility_ or Charles Murray's _The Bell Curve_[[1]](#ftnt1).
 
 In the spirit of Bayard, I'll follow his classification and rating system.
 
@@ -72,7 +72,7 @@ Bayard uses each chapter to analyze a different book to support his claims. The 
 
 Rather than an admonition of reading, Bayard’s book is best thought of as a love letter to literature. It’s an ode to our creative engagement with it in more ways than reading.
 
-Be warned, when analyzing the different books he doesn’t avoid spoilers. Another warning is that some of his spoilers just ain’t so. For each book he references, he changes one plot point without mention and treats it as he does the rest of the analysis[[8]](#ftnt8).
+Be warned, when analyzing the different books he doesn’t avoid spoilers. Another warning is that some of his spoilers just ain’t so. For each book he references, he changes one plot point without mention and treats it as he does the rest of the analysis[[2]](#ftnt2).
 
 For instance, in his discussion of the ending of _The Third Man_, he unites the protagonist Rollo Martins with the girlfriend of the antagonist Harry Lime. In the original text, she walks on by.
 
@@ -92,11 +92,11 @@ He argues that we never understand a book _completely_ from simply reading it. T
 
 A book is not an isolated object: It's a part of a vast sea of knowledge.
 
-Full understanding requires background context. Not only its direct influences, but other ideas that support or contradict the main thesis. It's impossible to have read every relevant book. As Taleb says in the _Incerto_[[9]](#ftnt9), the further into the ocean you swim, the more you appreciate its depth. Our [anti-library](https://www.themarginalian.org/2015/03/24/umberto-eco-antilibrary/) is forever growing.  
+Full understanding requires background context. Not only its direct influences, but other ideas that support or contradict the main thesis. It's impossible to have read every relevant book. As Taleb says in the _Incerto_[[3]](#ftnt3), the further into the ocean you swim, the more you appreciate its depth. Our [anti-library](https://www.themarginalian.org/2015/03/24/umberto-eco-antilibrary/) is forever growing.  
 
 Counting a book as “read” by having turned 100% of the pages rather than 60% or 20% is wrongheaded. It’s like being an ethical vegetarian rather than a vegan: the threshold is symbolic. It sets us up as victims of [Goodhart's Law](https://www.formpl.us/blog/goodharts-law#:~:text=Goodhart's%20Law%20states%20that%20when,those%20measures%20become%20less%20useful.). Our goal should be accretion of knowledge. Not pages read.
 
-Voracious readers don’t tend to finish books. This may even be what it means to be a big reader. Many systematically skim as outlined in Adler’s classic _How to Read a Book_[[10]](#ftnt10). For instance, Marshall Mcluhan always skips the first 60 pages. Tyler Cowen finishes 10% of what he starts. Patrick Collison often skips ahead a few times before putting it down.
+Voracious readers don’t tend to finish books. This may even be what it means to be a big reader. Many systematically skim as outlined in Adler’s classic _How to Read a Book_[[4]](#ftnt4). For instance, Marshall Mcluhan always skips the first 60 pages. Tyler Cowen finishes 10% of what he starts. Patrick Collison often skips ahead a few times before putting it down.
 
 Bayard cites Valéry, who freely admits to systematically skimming Marcel Proust when writing criticism. Valéry instead chooses to seek passages that catch his attention:
 
@@ -112,17 +112,17 @@ Another reason we shouldn’t be concerned about finishing books is that we are 
 
 > _Reading is not just acquainting ourselves with a text or acquiring knowledge; it is also, from its first moments, an inevitable process of forgetting._
 
-When making this point, Bayard cites the _Essais_[[11]](#ftnt11) where Montaigne, the ultimate man of reading, incessantly laments his terrible memory and prefers to describe himself as a “man of no retentiveness”.
+When making this point, Bayard cites the _Essais_[[5]](#ftnt5) where Montaigne, the ultimate man of reading, incessantly laments his terrible memory and prefers to describe himself as a “man of no retentiveness”.
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/795b9b43453312c2.png)Montaigne’s flawed memory is one of the best remembered facts from the Essais
 
 Claiming we have read a book becomes a form of metonymy, Bayard points out. When discussing books, we are really discussing our approximate recollections of them.
 
-I assume many readers of ACX are all too familiar with that feeling when, having finished a book we genuinely enjoyed, we go to tell someone about it and only remember a vague outline or a few details. Reminiscent of Woody Allen’s insight after reading _War and Peace_[[12]](#ftnt12): It’s about Russia.
+I assume many readers of ACX are all too familiar with that feeling when, having finished a book we genuinely enjoyed, we go to tell someone about it and only remember a vague outline or a few details. Reminiscent of Woody Allen’s insight after reading _War and Peace_[[6]](#ftnt6): It’s about Russia.
 
 This is fine if we were just seeking enjoyment. But it’s harder to justify this if the reason we picked up the large non-fiction tome was the hope of genuine learning. Picking up the next one shortly after forgetting the previous resembles Sisyphus and the boulder.
 
-This ubiquitous forgetting is why Andy Matuschak argues that [books don't work](https://andymatuschak.org/books/)[[13]](#ftnt13). However, he doesn’t think our memory is doomed. He’s a proponent of implementing a [spaced repetition system](http://augmentingcognition.com/ltm.html) as a strategy to help remember what we’ve read (i.e. making flashcard prompts for repeated reviews).
+This ubiquitous forgetting is why Andy Matuschak argues that [books don't work](https://andymatuschak.org/books/)[[7]](#ftnt7). However, he doesn’t think our memory is doomed. He’s a proponent of implementing a [spaced repetition system](http://augmentingcognition.com/ltm.html) as a strategy to help remember what we’ve read (i.e. making flashcard prompts for repeated reviews).
 
 On our inexorable memory loss, Bayard is wrong. We aren’t condemned to a state of forgetting if we diligently implement this system. Although, even with the best systems, some of the book will still turn to oblivion. And it’s not like we all use these systems anyway. For most of us, at a descriptive level, Bayard is right: We forget what we read. He would also likely point out that we can gain many of the benefits of the system without actually reading all that many books but by reading and talking about them.
 
@@ -130,7 +130,7 @@ On our inexorable memory loss, Bayard is wrong. We aren’t condemned to a state
 
 This brings us to one of Bayard’s central points: Understanding a book's location is as important as understanding its content. By a book's location, he means knowing where it sits among other books and ideas. Which books influenced it? Which books make reference to it? Which books disagree?
 
-When making this point, Bayard cites Robert Musil’s _The Man Without Qualities_[[14]](#ftnt14).
+When making this point, Bayard cites Robert Musil’s _The Man Without Qualities_[[8]](#ftnt8).
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/0cebbf206eff3959.png)
 
@@ -140,23 +140,23 @@ Bayard focuses on the librarian character who never has time to read any book. H
 
 The librarian has encyclopedic knowledge of the interconnectedness of books yet has not read a single page.
 
-We don’t have time to read every book worth reading let alone every book that exists. Even if we can [Lex Friedman it](https://twitter.com/lexfridman/status/1609301085524578304?lang=en)[[15]](#ftnt15) and read one book per week that’s only around 2,600 in 50 years. To some extent, we have to focus on learning _about_ books.
+We don’t have time to read every book worth reading let alone every book that exists. Even if we can [Lex Friedman it](https://twitter.com/lexfridman/status/1609301085524578304?lang=en)[[9]](#ftnt9) and read one book per week that’s only around 2,600 in 50 years. To some extent, we have to focus on learning _about_ books.
 
-Fortunately, we can learn a lot about books without reading them. Bayard cites Joyce's _Ulysses_[[16]](#ftnt16) which most of us haven’t read. Yet we know about it. We know that it's a retelling of _The Odyssey_[[17]](#ftnt17). Heck, we probably haven’t read that either. We know that it's set in Ireland, it takes place over a single day, and it's written in stream of consciousness. We are able to talk sensibly about it. We also know how influential _The Odyssey_ is on books in general.
+Fortunately, we can learn a lot about books without reading them. Bayard cites Joyce's _Ulysses_[[10]](#ftnt10) which most of us haven’t read. Yet we know about it. We know that it's a retelling of _The Odyssey_[[11]](#ftnt11). Heck, we probably haven’t read that either. We know that it's set in Ireland, it takes place over a single day, and it's written in stream of consciousness. We are able to talk sensibly about it. We also know how influential _The Odyssey_ is on books in general.
 
 Having a relational understanding goes beyond simply reading a book. It involves a comprehensive understanding of books as an interconnected system. It’s being able to place each one in its proper context.
 
-Bayard's emphasis on relational understanding strikes at the heart of what it means to understand something. As Wittgenstein elegantly said in _Philosophical Investigations_[[18]](#ftnt18):
+Bayard's emphasis on relational understanding strikes at the heart of what it means to understand something. As Wittgenstein elegantly said in _Philosophical Investigations_[[12]](#ftnt12):
 
 > _“A wheel that can be turned though nothing else moves with it, is not a part of the mechanism”_
 
 Understanding something means integrating new ideas with our existing knowledge. We can begin doing so without necessarily reading the content of a particular book.
 
-For instance, let’s look at two university students, Alice and Bob. Let’s assume both are completely unfamiliar with Hegel. In their philosophy class, they are assigned a chapter from _The Phenomenology of Spirit_[[19]](#ftnt19).
+For instance, let’s look at two university students, Alice and Bob. Let’s assume both are completely unfamiliar with Hegel. In their philosophy class, they are assigned a chapter from _The Phenomenology of Spirit_[[13]](#ftnt13).
 
 Bob struggled through this chapter. He read it in isolation and didn’t do any other background research. Unfortunately, he wasn’t able to attend the tutorial discussion.
 
-Alice, on the other hand, didn't read a word of Hegel (like most normal people). She instead read Wikipedia, Stanford Encyclopedia of Philosophy, Singer’s _Very Short Introduction_[[20]](#ftnt20) and the relevant sections from Fukiyama’s _End of History_[[21]](#ftnt21). She learned that Hegel influenced Marx and annoyed Schopenhauer, both of who's work she was somewhat familiar with.
+Alice, on the other hand, didn't read a word of Hegel (like most normal people). She instead read Wikipedia, Stanford Encyclopedia of Philosophy, Singer’s _Very Short Introduction_[[14]](#ftnt14) and the relevant sections from Fukiyama’s _End of History_[[15]](#ftnt15). She learned that Hegel influenced Marx and annoyed Schopenhauer, both of who's work she was somewhat familiar with.
 
 Alice then attended the tutorial and stayed after class discussing Hegel at length with her knowledgeable tutor.
 
@@ -170,7 +170,7 @@ Bayard labels Alice’s process as _active non-reading_: a vital component to un
 
 We can talk about Popper if we’ve read [Deutsch](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359). Korzybski if we’ve read [Yudkowsky](https://www.lesswrong.com/tag/sequences). Darwin if we’ve read [Dawkins](https://en.wikipedia.org/wiki/The_Selfish_Gene). Freud if we’ve read [The Last Psychiatrist](https://thelastpsychiatrist.com/). Even if we’ve only talked to people who have read them.
 
-The university example above may have been contrived, but this sort of thing happens all the time. My friend read Piketty's _Capital_[[22]](#ftnt22) last year. Took notes at the time and everything. He’s forgotten most of it apart from the sorts of things that can be gleaned in a blog post, like r > g.
+The university example above may have been contrived, but this sort of thing happens all the time. My friend read Piketty's _Capital_[[16]](#ftnt16) last year. Took notes at the time and everything. He’s forgotten most of it apart from the sorts of things that can be gleaned in a blog post, like r > g.
 
 Interestingly, another friend, who hadn’t read it, had better relational understanding on some points. For instance, he was aware of Piketty's huge whiff of ignoring depreciation. As was pointed out by the [grad student Matthew Rognlie](https://www.vox.com/2015/4/1/8320937/this-26-year-old-grad-student-didnt-really-debunk-piketty-but-what-he): The difference between r and g was due to land appreciation.
 
@@ -202,9 +202,9 @@ Successful active-nonreading presupposes that it’s possible to engage with and
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/325f8f99f7a635c2.png)
 
-The protagonist, English detective Baskerville (an homage to Sherlock Holmes), figures out the mystery without fully reading the pivotal item at the center of it: Aristotle’s _Poetics_[[23]](#ftnt23). He does this in part by engaging with others’ reactions to the text.
+The protagonist, English detective Baskerville (an homage to Sherlock Holmes), figures out the mystery without fully reading the pivotal item at the center of it: Aristotle’s _Poetics_[[17]](#ftnt17). He does this in part by engaging with others’ reactions to the text.
 
-Bayard makes the point that learning is an active process from another angle: No two people have the same understanding of a book. Reading a book does not directly transmit its knowledge to the reader like pouring water into a vessel. Karl Popper in _Objective Knowledge_[[24]](#ftnt24) calls this misconception the bucket theory of knowledge. The reader creates meaning.
+Bayard makes the point that learning is an active process from another angle: No two people have the same understanding of a book. Reading a book does not directly transmit its knowledge to the reader like pouring water into a vessel. Karl Popper in _Objective Knowledge_[[18]](#ftnt18) calls this misconception the bucket theory of knowledge. The reader creates meaning.
 
 In _The Name of the Rose,_ the monk Jorge from Burgos (an homage to Jorge Luis Borges) interprets _Poetics_ as at odds with faith because Aristotle’s legitimization of laughter turns anything into an object of derision. Baskerville disagrees. But, importantly, he is able to engage with it in part based on the monk’s reaction to it. Discussions allow access to books without reading them.
 
@@ -212,7 +212,7 @@ Bayard also cites Oscar Wilde’s notes on criticism to discuss creative non-rea
 
 Hence the opening epigraph: “I never read a book I must review, it prejudices you so".
 
-This quote was actually misattributed to Wilde in Alberto Manguel’s _A History of Reading_[[25]](#ftnt25). Bayard buries this caveat in a footnote later in the book. Funnily enough, when we now search this quote, google attributes it to Wilde due to the success of Bayard’s book.
+This quote was actually misattributed to Wilde in Alberto Manguel’s _A History of Reading_[[19]](#ftnt19). Bayard buries this caveat in a footnote later in the book. Funnily enough, when we now search this quote, google attributes it to Wilde due to the success of Bayard’s book.
 
 Similar to his meddling with plot points, Bayard claims that in a sense this quote _is_ Wilde’s. It certainly feels Wildeian and we could imagine him saying it. Kind of like [Voltaire’s](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall): "I disapprove of what you say, but I will defend to the death your right to say it" which is as Voltairian as it gets. Or Sherlock Holmes’s “Elementary, my dear Watson”.
 
@@ -224,7 +224,7 @@ This is a little post-modern for my taste. I agree that quote _is_ Voltairian bu
 
 Even though discussing books that we haven't read is a near-universal behavior, we feel ashamed of it.
 
-School infuses this shame by emphasizing reading from the first page to the last. Sometimes the onerous task of reading difficult books turns us off reading altogether. Many have wounds from giving up books we “should” read: Our unfinished copies of Infinite Jest[[26]](#ftnt26) look as tired as we did reading them.
+School infuses this shame by emphasizing reading from the first page to the last. Sometimes the onerous task of reading difficult books turns us off reading altogether. Many have wounds from giving up books we “should” read: Our unfinished copies of Infinite Jest[[20]](#ftnt20) look as tired as we did reading them.
 
 We lie about the way we read and what we’ve read. Our lies tend to be proportionate to the perceived significance of the book.
 
@@ -232,19 +232,19 @@ We also lie to ourselves. We view ourselves as having read books that we may hav
 
 > “I know few areas of private life, with the exception of finance and sex, in which it’s as difficult to obtain accurate information,”.
 
-Bayard seems to endorse our lies. By raising the status of non-reading, Bayard wants us to genuinely stop feeling guilty. Although he doesn’t expect us to start including caveats in our essays like “I’ve partly read Moby Dick[[27]](#ftnt27) a few times before giving up”. He’s fine with us to continue allusions implying that we’ve read it. He thinks we’re all sort of in on it anyway.
+Bayard seems to endorse our lies. By raising the status of non-reading, Bayard wants us to genuinely stop feeling guilty. Although he doesn’t expect us to start including caveats in our essays like “I’ve partly read Moby Dick[[21]](#ftnt21) a few times before giving up”. He’s fine with us to continue allusions implying that we’ve read it. He thinks we’re all sort of in on it anyway.
 
 I view lying as less of a benign act as Bayard. Anne Frank hiding in your basement aside, we [should tell the truth](https://www.amazon.com/Lying-Sam-Harris/dp/1940051002). Although I agree with Bayard that there is often no clear line with reading vs not-reading.
 
 He includes a humorous practical tip: If you ever find yourself talking to an author about their book you haven’t read (a scenario that a French literary theorist probably finds himself in far more than us), we should be overwhelmingly positive: “Praise it without going into detail.”
 
-He cites Rollo Martins, the American adventure novelist visiting Austria, in Graham Greene’s _The Third Man_ who is mistaken for another author that shares the last name Martins. Rollo successfully responds to literary critics questions on books in the Western Canon[[28]](#ftnt28) which he very much has not read.
+He cites Rollo Martins, the American adventure novelist visiting Austria, in Graham Greene’s _The Third Man_ who is mistaken for another author that shares the last name Martins. Rollo successfully responds to literary critics questions on books in the Western Canon[[22]](#ftnt22) which he very much has not read.
 
 ### Dangers of Reading
 
 Bayard reminds us that it’s important to stop reading at some point. Not only due to the opportunity cost in time, but because it’s hard to hear our own voice. Original thoughts require solitude. Something we all find difficult as evidenced by the fact we [prefer to shock ourselves](https://www.science.org/doi/10.1126/science.1250830) than sit in a room being bored.
 
-When we read, our default is to let the author do the thinking for us. Schopenhauer, in _Essays and Aphorisms_[[29]](#ftnt29), said we can “read ourselves stupid”:
+When we read, our default is to let the author do the thinking for us. Schopenhauer, in _Essays and Aphorisms_[[23]](#ftnt23), said we can “read ourselves stupid”:
 
 > _When we read, someone else thinks for us: we merely repeat his mental process. … It stems from this that whoever reads very much and almost the whole day, but in between recovers by thoughtless pastime, gradually loses the ability to think on his own – as someone who always rides forgets in the end how to walk._
 
@@ -254,7 +254,7 @@ At some point we must stop reading. We must consciously engage with our own thou
 
 Bayard's doesn’t mention risks. One assumes they don’t exist in Bayard’s world. One obvious problem in talking about books we haven’t read is that we are far more prone to misrepresenting an author’s ideas if we skip the ‘reading them’ part.
 
-It’s common for authors to complain about critics missing the point from obviously not reading the book. Richard Dawkins wonders if many critics got past the provocative title when reviewing _The Selfish Gene_[[30]](#ftnt30). The phrase “selfish gene” may easily mislead if someone skips the “large footnote of the book itself”.
+It’s common for authors to complain about critics missing the point from obviously not reading the book. Richard Dawkins wonders if many critics got past the provocative title when reviewing _The Selfish Gene_[[24]](#ftnt24). The phrase “selfish gene” may easily mislead if someone skips the “large footnote of the book itself”.
 
 Oliver Traldi outlines this in [Nobody Reads](https://medium.com/arc-digital/nobody-reads-f30882091f7c): We risk misrepresentation. Although he makes many similar points to Bayard: He concedes that people who haven’t read a book may know more about it than those who have not. He admits that he talks about numerous books he hasn’t read. And he claims that we’re often on safer grounds discussing books we’ve read _about_ than those we’ve read. Bayardian indeed.
 
@@ -264,7 +264,7 @@ My feeling is Bayard would reject the criticism of increased risk of misrepresen
 
 Another issue is that a book’s reputation influences our perception of it. Bayard makes this point, and thinks this is why it’s important to non-read. For him, the cultural osmosis of the book is far more important than the book itself. But this can make it hard to form your own opinion. It’s kind of like how everyone ignores the fact that they found _There Will Be Blood_ boring when they watched it as a 16 year old aspiring filmy because it’s the best film of the decade. Or that indie music fan who doesn’t like rap but feels like he needs to earn his open-minded bonafides so he gives it a whirl. He goes straight for Nas’s acclaimed _Illmatic_. Whether he likes it or not, he’s going to write a banal summary on [RateYourMusic](https://rateyourmusic.com/) with a few caveats that “hip hop isn’t really my thing but it was really impressive” and then give it 4-5 stars.
 
-This sets me up nicely to inform you that some impressive people endorse _How to Talk About Books You Haven’t Read._ [Umberto Eco loves it](https://www.youtube.com/watch?v=X41aZlw503U). Venkatesh Rao lists it as his number one book [on Ribbonfarm](https://www.ribbonfarm.com/now-reading/)[[31]](#ftnt31). So feel free to rank it up there with Paul Thomas Anderson and Nas.
+This sets me up nicely to inform you that some impressive people endorse _How to Talk About Books You Haven’t Read._ [Umberto Eco loves it](https://www.youtube.com/watch?v=X41aZlw503U). Venkatesh Rao lists it as his number one book [on Ribbonfarm](https://www.ribbonfarm.com/now-reading/)[[25]](#ftnt25). So feel free to rank it up there with Paul Thomas Anderson and Nas.
 
 ### Conclusion
 
@@ -273,3 +273,53 @@ Bayard is a little postmodern at times and he underrates some risks but his main
 The title may sound like you’re signing up for a productivity hack but Bayard is erudite, deep, and his light-hearted approach and constant wit makes for a pleasant read.
 
 I won’t make the obvious joke that I didn’t read this book as it’s not true. However, I happily endorse any reading or non-reading of this book.
+
+[[1]](#ftnt_ref1) The [Straussian](https://marginalrevolution.com/marginalrevolution/2023/01/ask-the-beast.html) in me will refrain from rating these books.
+
+[[2]](#ftnt_ref2) In fact, David Lodge wrote to Bayard pointing out that he got a plot point wrong in Lodge’s _Small World_. Bayard would have chuckled: Like all good non-readers, Lodge must have skipped the bit where Bayard explains the changes.
+
+[[3]](#ftnt_ref3) SB+
+
+[[4]](#ftnt_ref4) SB++
+
+[[5]](#ftnt_ref5) SB++
+
+[[6]](#ftnt_ref6) HB++
+
+[[7]](#ftnt_ref7) FB++
+
+[[8]](#ftnt_ref8) HB++
+
+[[9]](#ftnt_ref9) I wonder what Lex is doing right now.
+
+[[10]](#ftnt_ref10) HB++
+
+[[11]](#ftnt_ref11) HB++
+
+[[12]](#ftnt_ref12) HB+
+
+[[13]](#ftnt_ref13) HB-
+
+[[14]](#ftnt_ref14) FB+
+
+[[15]](#ftnt_ref15) FB+
+
+[[16]](#ftnt_ref16) HB-
+
+[[17]](#ftnt_ref17) HB++
+
+[[18]](#ftnt_ref18) HB+
+
+[[19]](#ftnt_ref19) HB++
+
+[[20]](#ftnt_ref20) HB+
+
+[[21]](#ftnt_ref21) HB++
+
+[[22]](#ftnt_ref22) HB++
+
+[[23]](#ftnt_ref23) FB++
+
+[[24]](#ftnt_ref24) FB++
+
+[[25]](#ftnt_ref25) Of course he updates his list for the first time in years and it no longer holds the top spot. It is now aptly under “Forgotten/Fading”. Montaigne and Bayard would nod approvingly. .

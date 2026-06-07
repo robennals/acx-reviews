@@ -48,7 +48,7 @@ Who is in the wrong here—Beach or the woman in front of him? Officially, while
 
 But the real monsters, according to Heller and Salzman, are the airlines: They are effectively _selling the same wedge of space twice_.
 
-On modern aircrafts, the average pitch (a.k.a, legroom) has [shrunk in recent years](https://www.vox.com/videos/23823756/airplane-legroom-shrinking-travel-flight) from an average of 35 inches down to 31 inches, and on some planes is as small as 28. This is valuable for airlines—per _Mine!_: “one inch of pitch saved per row can add up to six extra seats per flight to sell.” Moreover, the airlines get away with it because of _strategic ambiguity_: The companies generally don’t advertise the right to recline because confusion is part of their profit model; if everyone considers the space in front _and_ behind to be, sort of, theirs, they’ll tolerate less space.[[239]](#ftnt239)
+On modern aircrafts, the average pitch (a.k.a, legroom) has [shrunk in recent years](https://www.vox.com/videos/23823756/airplane-legroom-shrinking-travel-flight) from an average of 35 inches down to 31 inches, and on some planes is as small as 28. This is valuable for airlines—per _Mine!_: “one inch of pitch saved per row can add up to six extra seats per flight to sell.” Moreover, the airlines get away with it because of _strategic ambiguity_: The companies generally don’t advertise the right to recline because confusion is part of their profit model; if everyone considers the space in front _and_ behind to be, sort of, theirs, they’ll tolerate less space.[[1]](#ftnt1)
 
 Plane example #2 comes from Southwest Airlines, which famously employs an open seating policy: Upon boarding the plane in group A, B, or C (you can pay extra to be in group A), passengers get unrestricted seat selection throughout the aircraft.
 
@@ -73,7 +73,7 @@ The six foundational stories of ownership are:
 5.  _**First-in-time;**_ and
 6.  _**Labor**_
 
-_Mine!_ devotes a full chapter to each of these stories.[[240]](#ftnt240) In this review, I’ll give just a few paragraphs of cherry-picked concepts and examples.
+_Mine!_ devotes a full chapter to each of these stories.[[2]](#ftnt2) In this review, I’ll give just a few paragraphs of cherry-picked concepts and examples.
 
 ### Self-ownership
 
@@ -126,7 +126,7 @@ Many of _Mine!_’s illustrations of attachment revolve around property—for ex
 
 *   shoot down drones above their house (in Heller and Salzman’s example, the [#DroneSlayer won his case](https://arstechnica.com/tech-policy/2017/03/judge-rules-in-favor-of-drone-slayer-dismisses-lawsuit-filed-by-pilot/));
 *   dig deeper and deeper wells to compete for oil or aquifer access (the coordination problem here is solved through “unitization”: profit-sharing in proportion to the owners’ acreage over the underground resources);
-*   and protest their lost ocean access as a result of state-subsidized beach replenishment (in this last case, a woman’s property had originally extended from her front door to wherever the water began; when Florida imported more sand to save the disappearing coastline, courts ruled that the public would now be able to access her previously private property).[[241]](#ftnt241)
+*   and protest their lost ocean access as a result of state-subsidized beach replenishment (in this last case, a woman’s property had originally extended from her front door to wherever the water began; when Florida imported more sand to save the disappearing coastline, courts ruled that the public would now be able to access her previously private property).[[3]](#ftnt3)
 
 Conceptual attachment, on the other hand, applies to any sort of legal structure that yokes together multiple owners (e.g., shareholders or coop members). These structures come with certain advantages—economies of scale, pooling of resources, etc.—but there are, naturally, strings attached. In one Californica condo, a resident named Jeffrey DeMarco was [fined for having too many rosebushes on his property](https://www.latimes.com/archives/la-xpm-1993-09-20-mn-37281-story.html), subsequently sued his homeowner’s association, and ended up losing both his home and $70,000 in legal fees. In another case, an elderly woman named Pamela McMahan was [fined and eventually kicked out of her condo](https://neowin.net/forum/topic/505107-the-runaway-power-of-homeowners-associations/) for failing to carry her dog across the lobby. (Her actions were in violation of a “no paws on the floor” rule.)
 
@@ -162,7 +162,7 @@ For the most part, this seems like a relatively neutral way to determine ownersh
 
 And again, as we’ve seen, once a definition is established, people can manipulate the system to cut the line. Heller and Salzman describe professional “line standers,” who wait on the behalf of customers hoping to secure anything from a view of Supreme Court cases to an audition on _Shark Tank_. Similarly, on ticket websites like StubHub, hackers-turned-scalpers write programs to snatch up seats at popular events the instant they go live, then flip them for a profit.
 
-Faced with this reality, some companies have realized _they_ can capture the value/effort people will expend to cut the line. Disney famously created a tiered line-cutting system at its amusement parks: a FastPass+, which lets customers reserve time slots at up to three rides; and a Private VIP Tour, which lets them cut any line for the entire day.[[242]](#ftnt242)
+Faced with this reality, some companies have realized _they_ can capture the value/effort people will expend to cut the line. Disney famously created a tiered line-cutting system at its amusement parks: a FastPass+, which lets customers reserve time slots at up to three rides; and a Private VIP Tour, which lets them cut any line for the entire day.[[4]](#ftnt4)
 
 Absent these kinds of markets, competition for first-in-time can get fierce. In rare instances, this zeal may be desirable. (Heller and Salzman give the example of the “Cameron Crazies,” who camp out for thirty-six hours straight to enter a _lottery_ for Duke basketball tickets; with this design, Duke ensures only the most dedicated fans, and students enjoy the rite of passage.) More often, the competition leads to violence or a wasteful expenditure of resources. For many years in Alaska, for example, fishermen who wanted to make a living had to participate in “derby fishing” in order to compete:
 
@@ -224,7 +224,7 @@ Then, once one or two ownership stories are dominant, people will also go to gre
 
 Eventually, if the Battle is mutually harmful or socially impactful enough, some form of **Control** is born out of necessity.
 
-Here, the options range in their administrative ease and egalitarianism in roughly inverse proportion. At the “easier to administer but less egalitarian” side of the continuum sits _monopolies_ (think surfer or lobster gangs who claim exclusive beach access); at the “more egalitarian but harder to administer” side of the continuum sits _collective ownership_ schemes (unitization of oil fields); and in the middle of the continuum sits _brokered_ forms of ownership in which an authority/middleman offers “slices” of what would previously have been a “lump” (think line standers, or mandatory licensing).[[243]](#ftnt243)
+Here, the options range in their administrative ease and egalitarianism in roughly inverse proportion. At the “easier to administer but less egalitarian” side of the continuum sits _monopolies_ (think surfer or lobster gangs who claim exclusive beach access); at the “more egalitarian but harder to administer” side of the continuum sits _collective ownership_ schemes (unitization of oil fields); and in the middle of the continuum sits _brokered_ forms of ownership in which an authority/middleman offers “slices” of what would previously have been a “lump” (think line standers, or mandatory licensing).[[5]](#ftnt5)
 
 To drive this home, consider three possible Controls to solve the problem of limited legroom on airplanes:
 
@@ -308,7 +308,7 @@ Furthermore, in addition to being fairer on the merits, a mandatory license for 
 
 For most of human history, the supply of our attention so greatly outstripped demand that it would barely have registered as a “resource.” In hunter-gatherer societies, where subsistence activities would have consumed at most [half of people’s waking hours](https://petergray.substack.com/i/139706985/hunter-gatherers-work-was-playful-because-there-wasnt-too-much-of-it), the dominant mental states must have been either boredom and flow. In a pre-digital modern era, people might have gotten busier (i.e., with tedious farm work or factory jobs), but they surely still experienced relatively few interruptions and mostly did one task at one time. In other words, attention existed in Abundance.
 
-Now, of course, the situation has changed dramatically: Demands on attention exceed supply, and advertisers and online creators must compete for it. This results in familiar Battle dynamics, in which, vying desperately for scarce eyeballs, all content converges toward brevity, outrage, and porn. That claiming battle has negative externalities on both mental health and our general ability to get great stuff done.[[244]](#ftnt244)
+Now, of course, the situation has changed dramatically: Demands on attention exceed supply, and advertisers and online creators must compete for it. This results in familiar Battle dynamics, in which, vying desperately for scarce eyeballs, all content converges toward brevity, outrage, and porn. That claiming battle has negative externalities on both mental health and our general ability to get great stuff done.[[6]](#ftnt6)
 
 Right now, it’s difficult to envision what Controls would fix this claiming battle for attention. You could imagine some brute-force regulations (e.g., requiring opt-in for autoplay or push notifications), but these seem like tinkering on the margins. While there are more focus tools available to users now than even five years ago (e.g., Apple beefing up Do Not Disturb and Screen Time tracking), individual solutions only go so far to solve the collective action problem. Talk of a “[right to disconnect](https://natlawreview.com/article/proposed-california-bill-provides-workers-right-disconnect-work)” from professional communications outside of working hours also seems like a positive development in the conversation around attention.
 
@@ -348,3 +348,15 @@ The dystopia I fear is one where, like the ambiguous wedge of space on an airpla
 This dystopia is one many of us already find ourselves drifting toward in an increasingly online world. The self is increasingly unbundled and financialized—the boundaries more porous than ever. We find ourselves on a beach vacation, sipping a Mai Tai in one hand and checking our work email in the other: the uncanny valley between leisure and labor. In a future where we’ve already ceded much ownership over our data—data which is then used to capture our attention and train ever more powerful and data-hungry models—this tale does not end well.
 
 Or we can fight the framing battle while we still hold most of the sticks: insist on a right to moments free of suggestion, interruption, and attentional extraction; on the peace to recline fully in our magazine-reserved beach chairs, watching the surfer gangs and lobstermen duke it out. There is, for now, still time.
+
+[[1]](#ftnt_ref1) I actually think that there’s a potentially more generous interpretation here: If some of the airlines’ savings flow back to customers in the form of cheaper tickets, then maybe the social cost—i.e., of the occasional awkward interaction with other passengers—is a price worth paying? Depending on your personal wealth and utility function, you can decide whether you want to pay more in dollars or units of unpleasantness.
+
+[[2]](#ftnt_ref2) In _Mine!_ the order is actually: first-in-time; possession; labor; attachment; self-ownership; family. I find Heller and Salzman’s sequence less natural than the progression above.
+
+[[3]](#ftnt_ref3) Describing her lost beach access, the woman declared: “It had to be how the French felt when they saw the German tanks coming across their property. It was an absolute, total violation of our constitutional rights.”
+
+[[4]](#ftnt_ref4) Even this is not a foolproof system. Upon learning that some disabled individuals (who also receive accommodations to skip lines) were renting themselves out as a bootleg VIP pass for $130/hour or more, Disney ended their accommodation program, calling the behavior “deplorable.”
+
+[[5]](#ftnt_ref5) These terms, “slices and lumps,” [were coined](https://www.amazon.com/Slices-Lumps-Division-Aggregation-Life/dp/022665026X) by legal academic Lee Anne Fennell.
+
+[[6]](#ftnt_ref6) I believe as expressed this is a fairly mainstream view, one which I associated most closely with [Jonathan Haidt](https://substack.com/@jonathanhaidt). For some compelling counterarguments, check out Haidt’s [interview with Tyler Cowen](https://conversationswithtyler.com/episodes/jonathan-haidt-anxious-generation/).

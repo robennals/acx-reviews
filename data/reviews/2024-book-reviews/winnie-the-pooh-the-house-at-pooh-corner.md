@@ -19,7 +19,7 @@ Sing, O Muse, of the Many-Mannered Bear!
 
 ## I
 
-A story is always more interesting than its Disney adaptation would lead you to believe. Carlo Collodi’s _Pinocchio_ has Pinocchio killing the Talking Cricket.[[81]](#ftnt81) Hans Christian Andersen’s “The Little Mermaid” involves the titular character having her _tongue_ cut out.
+A story is always more interesting than its Disney adaptation would lead you to believe. Carlo Collodi’s _Pinocchio_ has Pinocchio killing the Talking Cricket.[[1]](#ftnt1) Hans Christian Andersen’s “The Little Mermaid” involves the titular character having her _tongue_ cut out.
 
 And A.A. Milne’s Winnie-the-Pooh books belong to the very old and respected genre of heroic epic.
 
@@ -33,7 +33,7 @@ Winnie-the-Pooh and his friends are now, [notoriously](https://en.wikipedia.org/
 
 If I were to hazard a guess, I would say that the Walt Disney Company's success with Winnie-the-Pooh has limited our ability to see the potential in these stories. The Disney adaptations are iconic—it’s Disney’s version of Winnie-the-Pooh that made that $48.5 billion, after all. And while the original books may be in the public domain, the Disney adaptations aren’t. So what’s the point of doing new Winnie-the-Pooh things when Disney has already made the definitive Winnie-the-Pooh adaptation?
 
-What people don’t realize is that there’s so much more to the Winnie-the-Pooh stories than what Disney has chosen to repackage and resell. Even people who _have_ read the original books often see them through Disney-colored glasses—it’s hard to avoid when the Pooh of our collective consciousness is the one in the Disney-provided red t-shirt![[82]](#ftnt82)
+What people don’t realize is that there’s so much more to the Winnie-the-Pooh stories than what Disney has chosen to repackage and resell. Even people who _have_ read the original books often see them through Disney-colored glasses—it’s hard to avoid when the Pooh of our collective consciousness is the one in the Disney-provided red t-shirt![[2]](#ftnt2)
 
 Everybody knows the Pooh of our collective consciousness already. This book review isn’t about him. I set out to read the Pooh books with an eye to finding the Pooh we _don’t_ know—the one who hasn’t yet graced the silver screen. And when I added up all the new and surprising things I discovered while reading the Pooh stories and tried to find one idea that captured them all, I realized that that one idea was that the Pooh books are heroic epics.
 
@@ -45,17 +45,17 @@ _Artistic challenge: reinvent this meme so that Tuxedo Pooh is replaced with Ach
 
 ## III
 
-For those not familiar, the Winnie-the-Pooh canon consists of two books of short stories: _Winnie-the-Pooh_ and _The House At Pooh Corner_.[[83]](#ftnt83) The stories are episodic but interrelated, and they follow the adventures of the titular teddy bear and his friends in the Forest.[[84]](#ftnt84) 
+For those not familiar, the Winnie-the-Pooh canon consists of two books of short stories: _Winnie-the-Pooh_ and _The House At Pooh Corner_.[[3]](#ftnt3) The stories are episodic but interrelated, and they follow the adventures of the titular teddy bear and his friends in the Forest.[[4]](#ftnt4) 
 
 Now, it’s going to be impossible to talk about these stories if you don’t know a little bit about the characters, so let’s start with a catalog.
 
-**Winnie-the-Pooh:** Winnie-the-Pooh is, as Milne tells us in the introduction to the first book_,_ “the favorite.” He’s our poetic hero and our heroic poet (but more about all that later). He’s fond of honey and condensed milk. You can tell right away that he’s a Hero of the Old Sort  by the number of _names_ he has. Edward Bear he is called, sometimes shortened to Bear. Then, of course, there’s Winnie-the-Pooh, Pooh for short. He also lives under the name Sanders.[[85]](#ftnt85) And, just as surely as we know that “swift-footed son of Peleus” means Achilles, we know “Bear of Very Little Brain” means Pooh.
+**Winnie-the-Pooh:** Winnie-the-Pooh is, as Milne tells us in the introduction to the first book_,_ “the favorite.” He’s our poetic hero and our heroic poet (but more about all that later). He’s fond of honey and condensed milk. You can tell right away that he’s a Hero of the Old Sort  by the number of _names_ he has. Edward Bear he is called, sometimes shortened to Bear. Then, of course, there’s Winnie-the-Pooh, Pooh for short. He also lives under the name Sanders.[[5]](#ftnt5) And, just as surely as we know that “swift-footed son of Peleus” means Achilles, we know “Bear of Very Little Brain” means Pooh.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/2a6eb40d31eb4e94.png)
 
 _What’s even the point of Winnie-the-Pooh being in the public domain if no one is going to put high-res scans of the illustrations online where I can find them?_
 
-**Christopher Robin:** Christopher Robin was author A.A. Milne’s real-life son and the owner of all the stuffed animals featured in the Pooh stories.[[86]](#ftnt86) Within the narrative, Christopher Robin is the one all of the other characters look to for Making Big Decisions or Getting Out of Trouble. He seems to be about five-years-old.
+**Christopher Robin:** Christopher Robin was author A.A. Milne’s real-life son and the owner of all the stuffed animals featured in the Pooh stories.[[6]](#ftnt6) Within the narrative, Christopher Robin is the one all of the other characters look to for Making Big Decisions or Getting Out of Trouble. He seems to be about five-years-old.
 
 **Rabbit:** Rabbit is a rabbit. He’s the practical one. He likes Organizing All the Others and Making Lists. He doesn’t especially like the Arrival of Strange New Animals. Aside from Christopher Robin, he seems to be the only character who can reliably read and write. The Disney adaptations do Rabbit dirty, making him a neurotic, ear-wringing killjoy—but this doesn’t match the books at all.
 
@@ -69,7 +69,7 @@ _What’s even the point of Winnie-the-Pooh being in the public domain if no one
 
 **Tigger:** Tigger is a stuffed tiger prone to bouncing and overestimating his abilities. The only thing he’ll eat is Extract of Malt. He doesn’t appear at all until the second book (which led him to enter the public domain a bit later than the rest of the cast).
 
-**Rabbit’s Friends-and-Relations:** An assortment of rabbits, hedgehogs, mice, ferrets, toads, insects and what-have-you, comprising pretty much everyone in the forest besides the main cast.[[87]](#ftnt87)
+**Rabbit’s Friends-and-Relations:** An assortment of rabbits, hedgehogs, mice, ferrets, toads, insects and what-have-you, comprising pretty much everyone in the forest besides the main cast.[[7]](#ftnt7)
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/9ead7f8f6c093e0d.png)
 
@@ -320,7 +320,7 @@ In Chapter Eight of _The House at Pooh Corner_, Pooh and Piglet decide to use a 
 > “Supposing a tree fell down, Pooh, when we were underneath it?”  
 > “Supposing it didn’t,” said Pooh after careful thought.
 
-But Piglet’s supposition turns out to be  closer to the truth. They’ve only been at Owl’s house for a few moments when the wind brings down the tree and the house crashes to the ground on its side.[[88]](#ftnt88)
+But Piglet’s supposition turns out to be  closer to the truth. They’ve only been at Owl’s house for a few moments when the wind brings down the tree and the house crashes to the ground on its side.[[8]](#ftnt8)
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/af36623b434dc332.png)
 
@@ -428,10 +428,28 @@ You see a similar thing when Pooh receives his Special Pencil Case.
 
 _“‘Oh, Pooh!” said everybody else except Eeyore.”_
 
-The others (except Eeyore) all crowd around Pooh, excited about, and admiring of, his prize. They’re seemingly able to enjoy their role as _witnesses_ of Pooh’s honor. In the Forest, the solution to the zero-sum nature of honor is for members of the community to see value in _other positions_ within the honor economy besides that of laureate.[[89]](#ftnt89)
+The others (except Eeyore) all crowd around Pooh, excited about, and admiring of, his prize. They’re seemingly able to enjoy their role as _witnesses_ of Pooh’s honor. In the Forest, the solution to the zero-sum nature of honor is for members of the community to see value in _other positions_ within the honor economy besides that of laureate.[[9]](#ftnt9)
 
 That’s one Bit of Wisdom from the Pooh stories, anyway. And perhaps it’s a bit of wisdom shared with Homer, who seems to suggest in the _Odyssey_ that there’s just as much _kleos_ for Penelope waiting at home enduring offenses as there is for Odyseeus running about and performing more traditional heroic feats.
 
 Anyhow, if anyone wants to try to get a slice of that $48.5 billion in Pooh money by making a video game where you go around the Forest completing quests and trying to get a Respectful Pooh Song written about you, I’ll _totally_ buy a copy!
 
 I recommend you call it _Winnie-the-Pooh and the Search for the West Pole_.
+
+[[1]](#ftnt_ref1) He is later haunted by its ghost.
+
+[[2]](#ftnt_ref2) Learn about Pooh’s red shirt [here](https://en.wikipedia.org/wiki/Winnie-the-Pooh#Red_shirt_Pooh).
+
+[[3]](#ftnt_ref3) Devotees will know, of course, that the character of Pooh first appeared in the poem “Teddy Bear” from Milne’s poetry collection _When We Were Very Young_. It’s about Pooh joining the fat acceptance movement decades before it became fashionable. I recommend it.
+
+[[4]](#ftnt_ref4) If you’ve been corrupted by Disney adaptations, you might protest that the adventures are supposed to happen in the Hundred Acre Wood. In the original books, though, the Hundred Acre Wood is just one small region of the Forest.
+
+[[5]](#ftnt_ref5) Which means he has the name over the door in gold letters, and lives under it.
+
+[[6]](#ftnt_ref6) These stuffed animals are now kept by [the New York Public Library.](https://www.nypl.org/about/locations/schwarzman/childrens-center-42nd-street/pooh)
+
+[[7]](#ftnt_ref7) The Forest may also house one or two Woozles, a Heffalump, a Jagular, and a Spotted (or perhaps Herbaceous) Backson—but the reader is given ample reason to Suspect Not.
+
+[[8]](#ftnt_ref8) It’s in this context that Pooh writes his poem about being crushed under a chair.
+
+[[9]](#ftnt_ref9) Interestingly, Eeyore, who is the one denizen of the Forest unwilling to accept anything short of Being Center Stage, is depicted as being uniquely isolated from the rest of the community. As Rabbit says, “You’ve never been to see any of us. You just stay here in this one corner of the Forest waiting for the other to come to you.” Eeyore’s unwillingness to accept being a bestower of honor rather than a receiver is reflected in his misanthropy.

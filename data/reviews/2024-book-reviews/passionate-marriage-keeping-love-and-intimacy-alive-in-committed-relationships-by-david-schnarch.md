@@ -17,9 +17,9 @@ tags:
 
 ## Introduction: A fight I wanted someone to fight.
 
-POV: It is 2013. You’re wandering around the internet, as people do. People on the internet are arguing, as they do. There was this one time when an online forum was debating a rather evergreen relationships topic[[294]](#ftnt294) and someone dropped in a link to a blog post with a subtle, understated title–**“Sex.”**
+POV: It is 2013. You’re wandering around the internet, as people do. People on the internet are arguing, as they do. There was this one time when an online forum was debating a rather evergreen relationships topic[[1]](#ftnt1) and someone dropped in a link to a blog post with a subtle, understated title–**“Sex.”**
 
-I liked the blog post because [it neutralized two powerful false narratives](https://web.archive.org/web/20130331003242/https://www.theveryworstmissionary.com/2013/03/sex.html) (purity culture’s and moral-relativism culture’s[[295]](#ftnt295)), simultaneously puncturing the assumptions of both sides of an argument and saying much-neglected things. (More importantly, one of the people on the thread who was most unlikely to approve of random Christian moralizing liked it!)
+I liked the blog post because [it neutralized two powerful false narratives](https://web.archive.org/web/20130331003242/https://www.theveryworstmissionary.com/2013/03/sex.html) (purity culture’s and moral-relativism culture’s[[2]](#ftnt2)), simultaneously puncturing the assumptions of both sides of an argument and saying much-neglected things. (More importantly, one of the people on the thread who was most unlikely to approve of random Christian moralizing liked it!)
 
 The blogger wrapped up the post with some awe-inspiring conclusions. She said something like this: Sex is sacred. While she held that virginity before marriage is desirable, it was not the “be-all, end-all” measure of our worth as a human being! (as some of the communities she’d been within had assumed.) Yet, we can still hold ourselves and those who we care about to a high standard before and after entering marriage—for ourselves and for others’ sakes.
 
@@ -61,9 +61,9 @@ And that gets me back to the author’s map of the relational world: He arrived 
 
 David Schnarch, the author of “Passionate Marriage,” is a sex and marital therapist. Accordingly, there are stories from his counseling practice. Since some of the couples come into his office are on the verge of divorce, some of them involve horrific fights. Since he’s a sex therapist, some of them involve the very personal details that he clearly _only knows_ because his clients re-capped how things went with the, ahem …“at-home lab portion”.. of the, ermm, “program of studies” on sexual and marital relationships they “signed up” to take together.
 
-I don’t want to assume that all readers of this are, to a man, ignorant of or uncomfortable reading about sexual functions and practices described in the book. _Of course not!_[[296]](#ftnt296) But I also _will_ assume that this book review will cross the eyeballs of a few people who wouldn't have sought out the level of detail of a book on sexual and marital therapy, and aren’t comfortable with a high level of detail on that.
+I don’t want to assume that all readers of this are, to a man, ignorant of or uncomfortable reading about sexual functions and practices described in the book. _Of course not!_[[3]](#ftnt3) But I also _will_ assume that this book review will cross the eyeballs of a few people who wouldn't have sought out the level of detail of a book on sexual and marital therapy, and aren’t comfortable with a high level of detail on that.
 
-For that reason, (and a few others) I’ve decided to mostly stick to very _general_ descriptions of actions involving foreplay and the genitals.[[297]](#ftnt297) This choice on my part might lead you to believe that the book has such a restrained vocabulary that it never talks about the nitty-gritty details of physical specifics. That… would be inaccurate. There are even two layers of distancing: the author, too, exercised his own editorial restraint when he recounted some of his clients’ most personal moments.[[298]](#ftnt298)
+For that reason, (and a few others) I’ve decided to mostly stick to very _general_ descriptions of actions involving foreplay and the genitals.[[4]](#ftnt4) This choice on my part might lead you to believe that the book has such a restrained vocabulary that it never talks about the nitty-gritty details of physical specifics. That… would be inaccurate. There are even two layers of distancing: the author, too, exercised his own editorial restraint when he recounted some of his clients’ most personal moments.[[5]](#ftnt5)
 
 Oh–and about the terrible fights in the counseling sessions: these are _wildly_ interesting to read. Since I’m only relaying a small portion of the counseling, (This book is great about following individual couples through the process of their transformations–and all the aspects that come up in counseling and in their responses to the “push” when their back home and throughout their lives. Even while illustrating a single aspect of human nature or of his approach, Schnarch doesn’t usually often mention one-off anecdotes about a couple, who you then never hear about them again.) I think a reader who picks up the book might find some of them are “dialed-down” by comparison.
 
@@ -121,7 +121,7 @@ When Joan did make her request, Bill was stunned. Their drama continued:
 >
 > Very rapidly, Bill’s refusal confronted them both with his selfishness. Normally, Joan would jump out of bed in a huff and move into the guest bedroom for several nights. But this time, she stayed in bed. She didn’t make a show of moving to the far edge of the bed to get away from him, and she didn’t reach out to reconcile. She lay awake in the dark, alert, saying nothing, but not letting the issue slide. The silence was deafening. Neither of them could sleep.
 
-And then, about an hour later, he agreed.[[299]](#ftnt299) Leading up to that decision, his mind had gone in a lot of different directions: _“first he thought about criticizing Joan for the way she had asked him, then feeling embarrassed and immediately assuming it was because she made him feel like he wasn’t good enough–just like his father did.”_ Then trying to convince himself Joan was insensitive, next trying to convince himself to be “independent” and not let her tell him what to do.. Yadda-yadda. These were the _familiar_ paths of thought.
+And then, about an hour later, he agreed.[[6]](#ftnt6) Leading up to that decision, his mind had gone in a lot of different directions: _“first he thought about criticizing Joan for the way she had asked him, then feeling embarrassed and immediately assuming it was because she made him feel like he wasn’t good enough–just like his father did.”_ Then trying to convince himself Joan was insensitive, next trying to convince himself to be “independent” and not let her tell him what to do.. Yadda-yadda. These were the _familiar_ paths of thought.
 
 But as he hung in there, in the quiet, there were some unfamiliar things for him to contend with as well. He saw what he had to contend with:
 
@@ -154,7 +154,7 @@ Okay, those are the bad ones he listed. He gave the good ones first, but I figur
 *   The soft but electric kiss of a familiar lover.
 *   The hard kiss of passion.
 *   The breathy, languid kiss of tasting and smelling each other’s body.
-*   The gentle bite on the lip from someone begging to be [redacted][[300]](#ftnt300).
+*   The gentle bite on the lip from someone begging to be [redacted][[7]](#ftnt7).
 
 Notice how if your spouse gives you a lousy kiss, this is _such_ a hard thing to call them on. (Or maybe just you know. But maybe if he or she doesn’t even know, that’s worse!) Yet it alters the tone of the interaction in ways that are perfectly perceptible. This is an instance which, as the author likes to point out, even if nobody’s saying a word, is full of rich communication.
 
@@ -166,7 +166,7 @@ Notice how if your spouse gives you a lousy kiss, this is _such_ a hard thing to
 
 This model we’re using here anticipates family members around each-other will get “locked in” to certain modes of behavior (how we “always” do it), and be constrained by little deceptions and personal myths which become, for one reason or another, difficult to shake. They warp one's vision of oneself and one's family members. From the inside, though, they may even seem utterly necessary.
 
-Sometimes one false word, one misunderstood action… in an anxious family system… might result in you feeling pretty compelled to perpetuate a lie about who you are. I remember once marveling that a Christian book about sex technique[[301]](#ftnt301) advised that in the situation where a wife has been faking orgasms for years or decades _“I believe that the husband, in most cases, is better off not knowing.”_ This was based on horror stories of disastrous results seen as a result of this “attempt at honesty” in their counseling practice.
+Sometimes one false word, one misunderstood action… in an anxious family system… might result in you feeling pretty compelled to perpetuate a lie about who you are. I remember once marveling that a Christian book about sex technique[[8]](#ftnt8) advised that in the situation where a wife has been faking orgasms for years or decades _“I believe that the husband, in most cases, is better off not knowing.”_ This was based on horror stories of disastrous results seen as a result of this “attempt at honesty” in their counseling practice.
 
 And really, how do “walk back” from that one? “The sex we had… I may not actually have enjoyed it as much as I’d led you to believe at the time?”
 
@@ -222,7 +222,7 @@ Well, that’s a _way_ to make things look like your counselor is the one with t
 >
 > “…Yes.”
 
-You can look at situations like this as an excuse to say “oh no, what terrible people” or “this is inexplicably crazy, and she’s hindering herself from _her own_ desires[[302]](#ftnt302),” but if you assume inexplicable chaos, does that have _predictive power_? I’m not saying you should believe that the therapist in the anecdote is doing way better than that (even though I happen to think so), but let’s look at his comment on this moment / see what happened next:
+You can look at situations like this as an excuse to say “oh no, what terrible people” or “this is inexplicably crazy, and she’s hindering herself from _her own_ desires[[9]](#ftnt9),” but if you assume inexplicable chaos, does that have _predictive power_? I’m not saying you should believe that the therapist in the anecdote is doing way better than that (even though I happen to think so), but let’s look at his comment on this moment / see what happened next:
 
 > _This_ was a ray of hope–but as far as Audrey could see, it was another step towards Armageddon. But she took it. There would have been no way to resolve the situation unless the truth finally came out.
 
@@ -241,7 +241,7 @@ Now we want to know how his theories and principles guide him as he tries to tra
 1.  ### A certain style of persuasion
     
 
-One of the more blunt and forceful commentators analyzing our present cultural climate whom I’ve ever read wrote up an [interview with a high-profile Rationalist, pro-natalist couple](https://unherd.com/2023/11/can-liberals-save-themselves-from-extinction/) a bit ago[[303]](#ftnt303). A thing that stuck with me was how she chose to repeatedly “ding” them for dodging (as she perceived it) from addressing moral absolutes:
+One of the more blunt and forceful commentators analyzing our present cultural climate whom I’ve ever read wrote up an [interview with a high-profile Rationalist, pro-natalist couple](https://unherd.com/2023/11/can-liberals-save-themselves-from-extinction/) a bit ago[[10]](#ftnt10). A thing that stuck with me was how she chose to repeatedly “ding” them for dodging (as she perceived it) from addressing moral absolutes:
 
 _“meticulously Californian in their aversion to offer explicit moral judgement [sic]”_
 
@@ -253,7 +253,7 @@ So, back to that interview:
 
 _“...they studiously route round any explicit moral statement that might impose coercive obligations on someone else…”_
 
-Well okay, but maybe this couple has a set of moral convictions that binds them to not carelessly say things that impose coercive obligations on someone else? That IS a morality. (It actually sounds like something about which multiple major in-world treatises would exist in _Terra Ignota_[[304]](#ftnt304)--and _for reasons_.)
+Well okay, but maybe this couple has a set of moral convictions that binds them to not carelessly say things that impose coercive obligations on someone else? That IS a morality. (It actually sounds like something about which multiple major in-world treatises would exist in _Terra Ignota_[[11]](#ftnt11)--and _for reasons_.)
 
 If you have “access” to the ears of lots of people who don’t automatically agree with you, have not chosen to bind themselves by the same ethical constraints as you have, yet you want to persuasively speak truth into that person’s life to get him or her to CHANGE… isn’t that a good and beautiful thing? That type of verbal self-restraint… in a world that relishes “letting the outgroup have it,” that… that could be powerful.
 
@@ -272,11 +272,11 @@ He doesn’t exactly push for his clients to “do X or Y because it's a morally
 
 Why not “push” someone that way? Because, you see, the other person has a really obvious way to respond if pushed past the limits of what they’re willing to consider: They walk.  “But,” you say, “If a person is coming to counseling–even if it’s because he or she promised their spouse to do so, they can’t just ditch, now can they?”  Ha. Ha. Ha.  There are ways of “running” which don’t even require you to get up out of your chair.
 
-And, in fact, thinking about whether one person’s choice[[305]](#ftnt305) is or is not “morally-superior” can trigger a variety of failure modes: looking down on the other (if I am the one with the morally-superior choice), or if not despairing that the way I’ve hurt my partner has been terrible (which can have its own form of self-pity) and I’ll never get it right.
+And, in fact, thinking about whether one person’s choice[[12]](#ftnt12) is or is not “morally-superior” can trigger a variety of failure modes: looking down on the other (if I am the one with the morally-superior choice), or if not despairing that the way I’ve hurt my partner has been terrible (which can have its own form of self-pity) and I’ll never get it right.
 
 He makes a point that goes something like this:
 
-You should not even _want_ for someone to start espousing different beliefs at a drop of a hat, just at your say-so. (however awful their original of their beliefs are.) It would be a problem with their integrity. Part of integrity is holding firm on the inside to the things you advocate for on the outside. Changing what you think or what you do… is a thing that comes in response to receiving new information[[306]](#ftnt306) or a greater concern for how your choices and actions affect others.
+You should not even _want_ for someone to start espousing different beliefs at a drop of a hat, just at your say-so. (however awful their original of their beliefs are.) It would be a problem with their integrity. Part of integrity is holding firm on the inside to the things you advocate for on the outside. Changing what you think or what you do… is a thing that comes in response to receiving new information[[13]](#ftnt13) or a greater concern for how your choices and actions affect others.
 
 TLDR for this section: Sometimes it looks like he’s repeatedly dodging whether something is a moral issue.  He does this skillfully, and seems to be doing it when _he does not think people are prepared to deal with it._
 
@@ -318,7 +318,7 @@ So then what do you do when someone tries to put that on you? Schnarch admitted 
 
 I look Ken in the eye and invite him to join me as a competent man. “If you’re becoming more of a man–especially, your own man–why not answer the question for yourself?”
 
-Ken clearly isn’t expecting my response. We talk a few minutes more. He walks out a little shaken. Karen[[307]](#ftnt307) looks a little worried.
+Ken clearly isn’t expecting my response. We talk a few minutes more. He walks out a little shaken. Karen[[14]](#ftnt14) looks a little worried.
 
 It’s just a very different set of priorities from what we’re used to.
 
@@ -367,3 +367,31 @@ The author quotes Pulitzer Prize winner Ernest Becker saying "our social ‘maps
 Be a hero.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/6cd0792ed1108eb6.png)
+
+[[1]](#ftnt_ref1) Is the need for sex a stronger drive in humans than 'Love'?”, if you must know! But that question is not precisely the focus of this essay. (Unless it is.)
+
+[[2]](#ftnt_ref2) To use the blogger’s words, the morally-relativistic narrative of the latter “tells us that sex outside of marriage isn't a big deal,” while the purity narrative of many Christian subcultures, in practice, communicates “that sex outside of marriage is the biggest deal of all the deals ever.”
+
+[[3]](#ftnt_ref3) Notice how apologetic I am there!  
+
+[[4]](#ftnt_ref4) I think nearly all adults are aware that the following exist: foreplay, sexual arousal, erections, male and female orgasms, and “pleasuring” specifically of one partner or the other.  
+
+[[5]](#ftnt_ref5) He goes into this dilemma about choice of material and detail level in his first book, more targeted at colleagues in his field, “Constructing the Sexual Crucible: An Integration of Sexual and Marital Therapy.”
+
+[[6]](#ftnt_ref6) I wonder if roughly half the people reading this are thinking “Well if you want me to lie still in silence for an hour to get what I want, that’s just not happening” and the other half are thinking “If lying in silence for an hour was all it took to get my way, that would be great.”
+
+[[7]](#ftnt_ref7) This image in the phrase I redacted is just a seriously-intense metaphor. Sheesh, don’t complain, people!
+
+[[8]](#ftnt_ref8) “Intended for Pleasure: Sex Technique and Sexual Fulfillment in Christian Marriage,” Ed Wheat, M.D. and Gaye Wheat. (Ninth printing.) Can be located in the index under: “honesty in sexual relationship.”
+
+[[9]](#ftnt_ref9) And you could say that’s at least half-right! Her therapist literally told her “You’re willing to cut off _your_ nose to spite _his_ face” a couple minutes before the above dialogue.
+
+[[10]](#ftnt_ref10) Admittedly, this section  is a bit of a digression from “the main event,” but I promise it will be interesting if you like words, discussing certain types of meta, or have ever fantasized about “What if there wasn’t culture war?”
+
+[[11]](#ftnt_ref11) Not to mention that L.E. Modesitt literally [wrote a book](https://en.wikipedia.org/wiki/Adiamante) where, when a far-future earth was repopulated after the huge global civil war between the thoroughly-transhumanistically-biohacker human-cyborg/robot alliance gray tribe and the blue tribe that it turns out ascended to somehow becoming literal telepaths… like, this was literally one of their chief guiding principles of world government. (Note: I’m not 100% sure the gray tribe was an alliance of human cyborgs and robots; I was kind of confused by some of the in-world chat logs and in-world background lore. Also, it wasn’t clear how many kinds of encrypted WiFi there were, and also when people were talking over WiFi/texting with arbitrary visual/audio/sensory effects, and what was telepathy. Which is what I really want to know more about.)
+
+[[12]](#ftnt_ref12) Your choice to, for example, be sexually-generous with your spouse when you’re both in the bedroom, or to be sexually-faithful when you’re far from home staying in a hotel room, or to be more mature in pursuing personal integrity–whether it’s in the boardroom, a chat room, or just inside your own head.
+
+[[13]](#ftnt_ref13) which, admittedly, might be more like becoming un-blinded to information that was already right in front of your nose
+
+[[14]](#ftnt_ref14) You in the back row: Stop snickering! This book was published in 1997! The wife’s name was not a meme name back then! And for your information, we didn’t have memes back then–at least not in the present sense of the word: We created ASCII art in pico and Notepad, like _adults_.

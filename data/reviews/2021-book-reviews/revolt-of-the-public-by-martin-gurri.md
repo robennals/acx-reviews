@@ -42,37 +42,3 @@ What about economic inequality?  Numerous other analysts have blamed economic in
 I found myself frequently contrasting Gurri’s work with Ezra Klein’s _Why We’re Polarized._  Both authors offer compelling explanations for the disfunction in modern American politics.  Klein identifies polarization as a key issue. Who is right?  I see their approaches co-existing: Klein explains Mitch McConnell, while Gurri explains Trump and Bernie Sanders.  In other words, Klein’s polarization explains why traditional parties will not or cannot compromise to get things done.  Gurri explains the emergence of radicals who reject the parties altogether.  On the surface, these trends look similar.  Trump certainly polarizes people.  But Trump is not fundamentally a radical Republican.  He is a radical against the system.
 
 I’m not convinced by Gurri’s proposed solutions.  Maybe I didn’t fully understand them.  I also think this is a hard problem with no simple answers.  Gurri deserves credit for articulating it. I believe he has identified an existential threat to modern democracy. To solve this, it is important to remember Gurri’s lesson on complex systems: they are inherently unpredictable.  I believe experimentation is the only path forward.  We, as a society, will have to try a wide range of potential solutions to find the few that actually work.
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-[[1]](#ftnt_ref1)        Non-native English speakers, please see [https://en.wikipedia.org/wiki/Bar\_joke](https://en.wikipedia.org/wiki/Bar_joke).
-
-[[2]](#ftnt_ref2)        Oops! I mean “bears.”
-
-[[3]](#ftnt_ref3)        I have a libertarian background myself; I wish the Free State Project success, and I don’t relish the Free Town Project’s failures or feel outraged at its participants’ views or anything. In this review, I’ll try to describe what I learned from the book, not defend libertarian ideology or accuse the Free Towners of not being Real Libertarians™.
-
-[[4]](#ftnt_ref4)        You can also place this book in a larger tradition of writing about intentional and utopian communities, where many of what Esperantists might call _samideanoj_ choose to move en masse to a single spot and make life the way they think it ought to be. The United States is the undisputed world champion in intentional-community-forming, and there are huge numbers of interesting accounts of the fates of the different communities. Hongoltz-Hetling describes a prior episode in Grafton history in which Unification Church members (“Moonies”) also led a mass influx to the town, altering its culture and provoking anxiety among other residents. Other examples today include the several entire Yiddish-speaking towns in New York state founded by Orthodox Jewish denominations and, of course, the Amish and other Anabaptist communities that have tried to live mostly apart from the larger society for centuries.
-
-[[5]](#ftnt_ref5)        A possible counterexample is tort liability for actual injuries, possibly coupled with a requirement to carry insurance against such liability. But this is easier in cases like car crashes than something like transmission of a disease, where direct causality and responsibility may not be apparent at all. It’s certainly not typical for the estates of people who die of transmissible diseases to try to identify and sue the individuals who served as the vectors of their infections.
-
-[[6]](#ftnt_ref6)        Some people who are building a politically eclectic kind of squatter camp or temporary autonomous zone in the nearby woods actually _do_ start to put up some anti-bear walls. They aren’t all that effective, but I feel like you just want to cheer for the forest dwellers’ efforts. Or, in any case, at least refer to their walls as bearicades?
-
-[[7]](#ftnt_ref7)        The chronology gets a little muddled here. The book made me think the Free State Project migration and electoral successes were all _later_ than the main events of the book, but Wikipedia suggests they were mostly contemporaneous. However, Hongoltz-Hetling focuses on the “trigger” declaration in 2016 in which a Free State Project founder publicly called for everyone who was part of the project to act on their pledges to move to New Hampshire. I think the Free State Project had already accomplished a great deal before that and the 2016 event was sort of a declaration of victory.
-
-[[8]](#ftnt_ref8)        Other sources suggest it was more like 100 miles, but I can’t resist my mental image of the bear singing: “Just to _be_ the bear who walked a thousand miles / To fall down at your door...”
-
-[[9]](#ftnt_ref9)        At one point he starts investigating an incident in which a group of town residents—not necessarily all or mainly libertarian newcomers—reacted to a bear attack on a human by forming a clandestine hunting posse and illegally killing a substantial number of hibernating bears, in clear violation of New Hampshire state hunting regulations. The reaction to his inquiries about this is pretty sinister, as various people imply in different ways that the hibernating-bear poachers might be happy to switch to nosy-journalist poaching.
-
-[[10]](#ftnt_ref10)        If you’re, say, a secular urban European social democrat, I fear you may think every single character in the book, including the “moderates” who express skepticism toward the Free Towners, is stark raving mad.
-
-[[11]](#ftnt_ref11) _le chevalier sans peur et sans reproche_   - the knight without fear or blame (French)
-
-[[12]](#ftnt_ref12)https://www.addictioncenter.com/addiction/homelessness/
-
-[[13]](#ftnt_ref13)https://historicengland.org.uk/research/inclusive-heritage/disability-history/1832-1914/the-growth-of-the-asylum/

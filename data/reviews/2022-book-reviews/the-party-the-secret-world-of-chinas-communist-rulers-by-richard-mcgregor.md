@@ -67,7 +67,7 @@ The PLA was the military wing of the CPC. The CPC itself was founded by Mao as a
 
 Three things are notable about the tether between the two most powerful institutions in China.
 
-First, the CPC convinced the PLA that territorial expansion and military competition would lead to conflict which would be detrimental to China's growth as an economic superpower. It would hamstring the policymakers' ability to steward the economy. This worked. While the US and USSR were involved in a Cold War, China saw steady growth that empowered a new middle class. During the 15 year period starting around the end of the disastrous Cultural Revolution in 1977 and ending just after the collapse of the Soviet Union in 1992, Chinese GDP grew at an average annual rate of 9.45%.[[10]](#ftnt10) 
+First, the CPC convinced the PLA that territorial expansion and military competition would lead to conflict which would be detrimental to China's growth as an economic superpower. It would hamstring the policymakers' ability to steward the economy. This worked. While the US and USSR were involved in a Cold War, China saw steady growth that empowered a new middle class. During the 15 year period starting around the end of the disastrous Cultural Revolution in 1977 and ending just after the collapse of the Soviet Union in 1992, Chinese GDP grew at an average annual rate of 9.45%.[[1]](#ftnt1) 
 
 Second, the CPC realised the potential of a revolution when some PLA commanders refused to carry out orders during the 1989 Tiananmen revolution. The lead-up to Tiananmen was characterised by a decade of liberalisation where university professors and students were allowed to voice their opinions about wanting a more representative government. The CPC "woke-up" to the existential threat that the PLA could pose. McGregor describes the 6 months after Tiananmen as "tense" as people at think-tanks, universities, and at the PLA who had supported or expressed sympathy for the protests were imprisoned.
 
@@ -110,7 +110,7 @@ Protests at Tiananmen square in 1989 were a turning point for the CPC because it
 
 The tool that they used to achieve both ends was the Communist state enterprise: Public sector companies that would be just as efficient as private sector companies, compete with each other, and go abroad to get foreign investment.
 
-This policy **worked.** There are no two ways about it: **It worked.** State enterprises shed 48 million employees between 1993 and 2003.[[11]](#ftnt11) These were people who had been inefficiently employed by state enterprises and promised pensions. Once they were let go, they could be employed in other industries where labour was actually **required.** The surplus labour undoubtedly powered the growth of China as a manufacturing hub since 2000.
+This policy **worked.** There are no two ways about it: **It worked.** State enterprises shed 48 million employees between 1993 and 2003.[[2]](#ftnt2) These were people who had been inefficiently employed by state enterprises and promised pensions. Once they were let go, they could be employed in other industries where labour was actually **required.** The surplus labour undoubtedly powered the growth of China as a manufacturing hub since 2000.
 
 Apart from Economic growth, the Party also uses its control on personnel to keep dissent in check within the professional elite. As there is no concept of private property that is independent of the Party in China for these executives, a single misstep can lead to their massive fortunes being appropriated by the State. (Jack Ma's disappearance and subsequent reappearance was a prominent example which happened after this book was published.)
 
@@ -130,3 +130,7 @@ The CPC has had an uncanny ability to foresee the booms of the future. When pres
 In each case, the policies are beneficial to both the Party and the Chinese people. As McGregor indicates lightly, it will become increasingly difficult to differentiate between the interests of the Chinese people, the Chinese state and the CPC. These three will fuse into a single entity that is stewarded by the CPC.
 
 * * *
+
+[[1]](#ftnt_ref1)        [World Bank data](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=cn&start=1961&view=chart).
+
+[[2]](#ftnt_ref2)        Employment went down from 76 million to 28 million in this period.

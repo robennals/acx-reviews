@@ -19,7 +19,7 @@ The Postrat Gospel
 
 Kurt Vonnegut is difficult to classify. He’s often described as a science fiction writer, but that never struck me as accurate. Many of his stories involve the future or advanced technology, but those elements seem to be afterthoughts in his stories which are actually about mundane human struggles. His novels could plausibly be described as works of philosophy, but what novel couldn’t? What I’ve realized is that Vonnegut _is_ a science fiction writer, but the speculative technology he writes about isn’t mechanical or digital. Vonnegut writes about _social_ technology, and much of the time he really nails it.
 
-The hardest part of this review was about picking which Vonnegut novel to cover. I considered his 1952 novel about humanity’s angst at being replaced by AI (_Player Piano_), his 1959 novel lampooning wokeness and its obsession with privilege (_The Sirens of Titan_)[[39]](#ftnt39), or his 1962 novel about the dangers of trolling too hard (_Mother Night_).
+The hardest part of this review was about picking which Vonnegut novel to cover. I considered his 1952 novel about humanity’s angst at being replaced by AI (_Player Piano_), his 1959 novel lampooning wokeness and its obsession with privilege (_The Sirens of Titan_)[[1]](#ftnt1), or his 1962 novel about the dangers of trolling too hard (_Mother Night_).
 
 I settled on _Cat’s Cradle,_ Vonnegut’s 1963 novel about postrationalism. Like most of his other novels, the actual story isn’t the point, but rather serves as a scaffold to bring out the true meaning of the novel - in this case the religion Bokononism.
 
@@ -81,7 +81,7 @@ In that spirit, I propose that discussions of Bokononism be banned in ACX commen
 
 Though _Cat’s Cradle_ was published in 1963, Bokononism is a religion made for the modern world. And the modern world is in need! Belief in traditional religions has been falling dramatically, but rather than religion fading into the background, a [new secular religion has arisen to take their place](https://twitter.com/tracewoodgrains/status/1718019769872392550), often with devastating effects. The main problem with religions - old and new - is that they are lies but they claim to be true. People fight, kill, and inflict untold suffering out of faith in the truth of their comforting falsehoods. Bokonism, on the other hand, is explicitly false. The title page of the First Book of Bokonon consists of a warning: “Don't be a fool! Close this book at once! It is nothing but _foma_!” The narrator helpfully adds: “_foma_, of course, are lies.” It has a built-in defense against ever taking it too seriously.
 
-Bokononism is perfect for the online world because the internet runs on irony and Bokononism has irony at its core. LARPing a belief system that you know is fake so hard that you forget it’s fake but still maintain plausible deniability is a pretty good description of most internet subcultures I know of. Bokononism fits in perfectly with the terminally online.[[40]](#ftnt40) 
+Bokononism is perfect for the online world because the internet runs on irony and Bokononism has irony at its core. LARPing a belief system that you know is fake so hard that you forget it’s fake but still maintain plausible deniability is a pretty good description of most internet subcultures I know of. Bokononism fits in perfectly with the terminally online.[[2]](#ftnt2) 
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/de081b7b4ab106fa.png)
 
@@ -137,7 +137,7 @@ If a _karass_ is a wheel, the hub is the _wampeter_. A _wampeter_ is the Macguff
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/5511d2b173926559.png)
 
-We may be able to identify certain members of our _karass_ or one of our _wampeters_ at any given time_,_ though we will inevitably fail to see the extent of them. Bokonon admonishes that “anyone who thinks he sees what God is Doing” is a fool.[[41]](#ftnt41) When Bokononists think of how complicated and unpredictable everything is, rather than attempt to understand, they simply whisper “busy busy busy.”
+We may be able to identify certain members of our _karass_ or one of our _wampeters_ at any given time_,_ though we will inevitably fail to see the extent of them. Bokonon admonishes that “anyone who thinks he sees what God is Doing” is a fool.[[3]](#ftnt3) When Bokononists think of how complicated and unpredictable everything is, rather than attempt to understand, they simply whisper “busy busy busy.”
 
 > Tiger got to hunt,  
 > Bird got to fly;  
@@ -239,7 +239,7 @@ Bokononists are encouraged to mingle their awareness with anyone they please. Up
 >
 > “What was that?”
 >
-> “A _sin-wat_!” she cried. “A man who wants all of somebody’s love. That’s very bad.”[[42]](#ftnt42)
+> “A _sin-wat_!” she cried. “A man who wants all of somebody’s love. That’s very bad.”[[4]](#ftnt4)
 
 Bokonon preaches that it’s wrong “not to love everyone exactly the same.” This is probably the most difficult part of Bokononism. Who could possibly love everyone the same? Bokonon, of course, would probably call you wise for objecting to what he says. I choose to view it as aspirational. We can’t actually love everyone the same, but we can always strive to love each other more than we do. And most of us could probably stand to be less of a _sin-wat_.
 
@@ -326,3 +326,11 @@ I will leave you now with the last rites of the Bokononist faith, which you can 
 > Amen.
 
 Busy busy busy!
+
+[[1]](#ftnt_ref1) Later made into a much shorter story you may have heard of called _[Harrison Bergeron](https://www.tnellen.com/cybereng/harrison.html)_
+
+[[2]](#ftnt_ref2) You, reader. I’m talking about you.
+
+[[3]](#ftnt_ref3) In typical Bokonon fashion, he can’t help adding “and so am I.”
+
+[[4]](#ftnt_ref4) In hindsight, I really should have known I was not cut out for monogamy back in my teenage years when I first read this. I was always completely on Mona’s side!

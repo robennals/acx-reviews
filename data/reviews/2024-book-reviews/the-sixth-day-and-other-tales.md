@@ -34,11 +34,11 @@ Before setting out to write this review, I assumed the English [version](https:/
 
 _The Italian 2022 edition by Einaudi, Levi’s long time publisher._
 
-What’s more, the English version, while more abundant, doesn’t contain[[20]](#ftnt20) some stories that are instead included in the Italian one. Based on the synopses on the book’s [Wikipedia page](https://en.wikipedia.org/wiki/The_Sixth_Day_and_Other_Tales), I find the English version somewhat grimmer (suicidal lemmings, really? People needing convincing to being born? Life-matters decision-making governed by light signs?), but that’s probably just a prejudice, as, like we’ll see in a moment, the 15 pieces I _can_ talk about are grim enough on their own.
+What’s more, the English version, while more abundant, doesn’t contain[[1]](#ftnt1) some stories that are instead included in the Italian one. Based on the synopses on the book’s [Wikipedia page](https://en.wikipedia.org/wiki/The_Sixth_Day_and_Other_Tales), I find the English version somewhat grimmer (suicidal lemmings, really? People needing convincing to being born? Life-matters decision-making governed by light signs?), but that’s probably just a prejudice, as, like we’ll see in a moment, the 15 pieces I _can_ talk about are grim enough on their own.
 
 ## 3\. The themes.
 
-The Italian title of the collection, _Storie Naturali_ (“Natural Histories”), seems to me less of a mockery of traditional taxonomy and more of a playful, if a little didactic[[21]](#ftnt21), description of the topics of the short stories, which are very _there are more things in heaven and earth, Horatio,_ etc.
+The Italian title of the collection, _Storie Naturali_ (“Natural Histories”), seems to me less of a mockery of traditional taxonomy and more of a playful, if a little didactic[[2]](#ftnt2), description of the topics of the short stories, which are very _there are more things in heaven and earth, Horatio,_ etc.
 
 There is a whole lot of inventors, scientists, technologists-turned-salesmen, early adopters, all sorts of animals, minerals, inter-species experiments, and extravagant machines bridging the gap between the organic and the synthetic; in fact, the science fiction label is restrictive, as several pieces border with fantasy, dystopian fiction, weird, and not least autobiography, with frequent, overt references to Levi’s Holocaust memories, particularly to the Nazi’s eugenics experiments.
 
@@ -90,7 +90,7 @@ _The Sixth Day_’s stories have got a wide variety of registers. Two are writte
 
 The confidentiality with which Levi indirectly addresses the reader to lure them into his stories (the most absurd facts are preceded by expressions such as "It is known .."; fictional laws and product functionalities are "well-know", etc.) is contagious, and provides a solid reality check. Like any Italian intellectual trained in the classics, Levi invents many words drawing from Greek.
 
-Several passages[[22]](#ftnt22) light up with the sparks of Levi’s extraordinary linguistic creativity, with few, well-placed words depicting whole universes:
+Several passages[[3]](#ftnt3) light up with the sparks of Levi’s extraordinary linguistic creativity, with few, well-placed words depicting whole universes:
 
 _Some people even keep… an alive cat or dog._
 
@@ -100,13 +100,13 @@ The title tale, _The Sixth Day_, in which a committee of zealous god-like techni
 
 I love _The Versemaker_ (named after a ChatGPT-like machine for creative work assistance) for its play-like form and the irresistible characterization of the self-important Poet, the god-fearing but intelligent Secretary, and the comic NATCA Salesman.
 
-Another favorite story[[23]](#ftnt23) is _The Mnemogogues_, where an old country doctor discovers a way to recreate memories, for the seamless way in which the absurd slips into a typical Torino countryside still life – one could almost smell the fog of the hills in autumn and take a seat in the man’s dusty office. I like the use of the sense of smell as one of a chemist’s finest tools – something that Levi relied on himself in his early professional days as a chemistry consultant. Unlike most other stories, this isn’t doom-infused, but the lingering threat given by the never explicitly mentioned addictive potential of the memory device makes it all the more unsettling.
+Another favorite story[[4]](#ftnt4) is _The Mnemogogues_, where an old country doctor discovers a way to recreate memories, for the seamless way in which the absurd slips into a typical Torino countryside still life – one could almost smell the fog of the hills in autumn and take a seat in the man’s dusty office. I like the use of the sense of smell as one of a chemist’s finest tools – something that Levi relied on himself in his early professional days as a chemistry consultant. Unlike most other stories, this isn’t doom-infused, but the lingering threat given by the never explicitly mentioned addictive potential of the memory device makes it all the more unsettling.
 
 ## 7\. Conclusion
 
 Maybe it so just happens that the life I live now is connected to Levi in many forms. I too live in Torino, the city where he lived and died; I cycle past his family house on Corso Re Umberto as part of my daily commute to the city center. The places where he spent his childhood summer vacation, southwest of the city, are where I have my happiest memories with my own friends; chemistry, Levi’s lifelong occupation before becoming a full-time intellectual, is also the profession of both of my parents, who failed at instilling the subject in me but succeeded in passing one of Levi’s ethical archetypes: that of
 
-_loving one's job [...] is the best concrete approximation to happiness on earth._[[24]](#ftnt24) 
+_loving one's job [...] is the best concrete approximation to happiness on earth._[[5]](#ftnt5) 
 
 though many people from my generation disagree.
 
@@ -150,3 +150,13 @@ These are the additional tales that are included in the English edition but not 
 21.  The Servant (_Il servo_)
 22.  "Mutiny: To Mario Rigoni Stern (_Ammutinamento_)
 23.  Excellent Is the Water (_Ottima è l’acqua_)
+
+[[1]](#ftnt_ref1) These are the missing stories: _Censura in Bitinia_ (“Censorship in Bitinia”), a dystopian regime’s dry account on the outsourcing of routine censorship work to chickens; _Il Versificatore_ (“The Versemaker”), about a machine that’s able to invent stories on behalf of The Poet – who still needs the convincing of an old-school/seasoned salesman to make up his mind and buy the thing; _Quaestio de Centauris_, in which the myth-respecting wisdom of a centaur named Trachi does not save him from going mad for love; and _«Cladonia Rapida»_ («Fast-acting Cladonia»). If anyone has information on whether they ever got translated and where, I’d be interested to know!
+
+[[2]](#ftnt_ref2) One Amazon reviewer notes Levi’s “relevance to us as science teachers”.
+
+[[3]](#ftnt_ref3) Translations from Italian are mine.
+
+[[4]](#ftnt_ref4) Among the ones that are included in the English version
+
+[[5]](#ftnt_ref5) From _The Monkey Wrench,_ 1978.

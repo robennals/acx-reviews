@@ -183,3 +183,17 @@ I’ve watched_Detective Pikachu_ at least five times now, and I still lack the 
 My first viewing actually gave me a life-changing ecstatic experience beyond expression in ordinary language. For more on this, see my forthcoming memoir,_That Time Detective Pikachu Convinced Me To Drop Acid And Become A Conservative_.
 
 Until then:_Detective Pikachu_ is a weird but fun movie. 8/10.
+
+[[1]](#ftnt_ref1) Diglett is a mole-like pokemon known for digging holes.
+
+[[2]](#ftnt_ref2) If you’re not familiar with Pokemon, they are creatures that generally look like enlarged, cartoonified versions of natural phenomena. (Rats the size of cats, dogs the size of horses, etc.) Most are based on real plants or animals, but some are based on minerals, mythical beasts, manufactured objects, or abstract concepts. Some are humanoid or partially humanoid. They have what we’d consider supernatural or comic-book super-powers, but are mostly regarded as part of the natural world, save for a few that are explicitly ghosts, gods, or faeries. A few pokemon have human intelligence and/or speak human language, but most of them can only say their own name, and have intelligence ranging from “real animal” levels to “smart cartoon animal” levels. The Pokemon video games are about capturing many wild pokemon and training them to fight in arenas for prestige and cash prizes. Most Pokemon TV shows and movies have also focused on training pokemon for combat, although usually the hero has a smaller number of pokemon and deeper relationships with them than would be the case in the game. As we will see later, _Detective Pikachu_ significantly departs from the default Pokemon narrative.
+
+[[3]](#ftnt_ref3) Pikachu is a yellow mouse pokemon with electrical powers. The name is Japanese for sparkle rat.
+
+[[4]](#ftnt_ref4) Mr. Mime is a mime Pokemon.
+
+[[5]](#ftnt_ref5) Lickitung is a Pokemon that licks you, with its tongue.
+
+[[6]](#ftnt_ref6) I don’t remember whether it was Koffing or Wheezing.
+
+[[7]](#ftnt_ref7) Psyduck is a psychic duck.

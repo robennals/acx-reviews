@@ -21,7 +21,7 @@ Most of us are somewhat familiar with World War II. As far as the military campa
 
 But if this is history through a mirror, it is a dark mirror. The author, General Armin von Roon, was a professional German soldier who - like many others - served willingly and eagerly under Hitler. The military analysis is frequently interrupted for discussions of Hitler’s vision for Germany, or arguments about why Germany deserved to conquer, exploit and starve the people of Eastern Europe.
 
-He takes time to lay out the overall aims and ambitions of Germany, in his view a nation unfairly victimised by Versailles, shut out by England and France from colonial possessions, with Hitler a flawed genius doing no more than claiming his due. Mussolini and Churchill become self-aggrandising bombasts, Hirohito a gallant underdog and Stalin a mass murderer[[91]](#ftnt91). But for von Roon, it is Roosevelt who is the real villain of the war, the crippled genius in his wheelchair[[92]](#ftnt92), orchestrating tens of millions of deaths so that America could achieve world domination:
+He takes time to lay out the overall aims and ambitions of Germany, in his view a nation unfairly victimised by Versailles, shut out by England and France from colonial possessions, with Hitler a flawed genius doing no more than claiming his due. Mussolini and Churchill become self-aggrandising bombasts, Hirohito a gallant underdog and Stalin a mass murderer[[1]](#ftnt1). But for von Roon, it is Roosevelt who is the real villain of the war, the crippled genius in his wheelchair[[2]](#ftnt2), orchestrating tens of millions of deaths so that America could achieve world domination:
 
 > _“This great manipulator so managed the war that other nations bled themselves almost to death, so as to hand his country the rule of the earth on a silver platter... America in four years of global war lost about three hundred thousand on all fronts including her war with Japan! For this almost bloodless conquest of the earth, which has no parallel in all history, the American people can thank that enigmatic, still shrouded figure, the Augustus of the industrial age, the Dutch-descended millionaire cripple, Roosevelt.”_  
 
@@ -29,7 +29,7 @@ The book was first published in 1965, at a time when von Roon was still serving 
 
 The version I read was translated into English a year later by a senior US naval officer, Victor Henry - and in this review I will also be referring to his translation notes at times, particularly where they offer a biting comment on the (in)accuracies of von Roon’s account. As he puts it:
 
-> _“His version of events, while professional and well informed, can scarcely be taken at face value. He was a German through and through. On the whole I have let General von Roon describe the war his own way. I could not, however, translate certain passages without challenging them; hence my occasional comments. - VH_[[93]](#ftnt93)_.”_
+> _“His version of events, while professional and well informed, can scarcely be taken at face value. He was a German through and through. On the whole I have let General von Roon describe the war his own way. I could not, however, translate certain passages without challenging them; hence my occasional comments. - VH_[[3]](#ftnt3)_.”_
 
 In this review we will be looking in some detail at the war’s opening stages, as well as von Roon’s - deplorable - views on Hitler, the other belligerents and the Holocaust. We will skip most of the blow-by-blow military analysis, though I will include a couple of examples, to give a flavour. And we will conclude by considering the book’s overall theme, of ‘World Empire’ won and lost, and the extent to which the war can be considered “_The War of the British Succession.”_
 
@@ -41,7 +41,7 @@ _“In these pages, therefore, one peers into an able but distorted mind. - VH�
 
 There are plenty of other good histories of World War II. However good the military analysis in World Empire Lost, why not read one of the many alternatives that were not written by a Nazi?
 
-The great question we must face when looking back at World War II is not, “Why did they do what they did?” but “How might it happen here?” There was nothing unique about Germany. As an American Pulitzer Prize winner reminded us in October 2001, after a small group of Al-Qaida terrorists had flown planes into the Twin Towers, _“That eternal benchmark of barbarism [the Holocaust], let us remember, was set not by a Third World country, not by Orientals, not by the Muslims, but by the Germans, an advanced European nation. The evil in human hearts knows no boundary, except the deeper, stronger human will to freedom, order, and justice.”_[[94]](#ftnt94)
+The great question we must face when looking back at World War II is not, “Why did they do what they did?” but “How might it happen here?” There was nothing unique about Germany. As an American Pulitzer Prize winner reminded us in October 2001, after a small group of Al-Qaida terrorists had flown planes into the Twin Towers, _“That eternal benchmark of barbarism [the Holocaust], let us remember, was set not by a Third World country, not by Orientals, not by the Muslims, but by the Germans, an advanced European nation. The evil in human hearts knows no boundary, except the deeper, stronger human will to freedom, order, and justice.”_[[4]](#ftnt4)
 
 In less than a decade, Hitler and the Nazi party took Germany from a respectable member of the community of nations to a global pariah at war with the world and the perpetrator of a slaughter that has never been equalled, before or since. How did he do it? Why did the millions of Germans, in industry, in the diplomatic service and above all in the military - many of whom had not initially supported the Nazis - go along with him so enthusiastically? As Henry says, when discussing why he translated him,
 
@@ -51,9 +51,9 @@ The worst of reading World Empire Lost is that, the more one reads, the more von
 
 It is true, after all, that the Poles treated the Jews appallingly - and that the rest of the world refused to take in them, even once Germany’s actions were revealed:
 
-> _“If Hebrews were no longer welcome in Germany, it developed that they were not much more welcome anywhere else. Year by year after Hitler took power, western Europe stiffened its restrictions against admitting Jews. The sparsely settled vast lands of the New World, led by the “haven of oppressed mankind,” the U.S.A., clanged iron doors shut in the Jews’ faces. This was a black chapter in the tale of man’s inhumanity to man.”_[[95]](#ftnt95)
+> _“If Hebrews were no longer welcome in Germany, it developed that they were not much more welcome anywhere else. Year by year after Hitler took power, western Europe stiffened its restrictions against admitting Jews. The sparsely settled vast lands of the New World, led by the “haven of oppressed mankind,” the U.S.A., clanged iron doors shut in the Jews’ faces. This was a black chapter in the tale of man’s inhumanity to man.”_[[5]](#ftnt5)
 
-Von Roon’s justification of atrocities is indefensible and at times hard to read. One can have more understanding when he discusses the failures of the Weimar Republic and the Great Depression - and the very real threat the communists posed to Germany. Most seductive is his central thesis, that underpins the entirety of _World Empire Lost_ including the title, that _“Franklin Delano Roosevelt’s one war aim was to destroy Germany so as to win unimpeded rule of the world for American monopoly capital.”_[[96]](#ftnt96) 
+Von Roon’s justification of atrocities is indefensible and at times hard to read. One can have more understanding when he discusses the failures of the Weimar Republic and the Great Depression - and the very real threat the communists posed to Germany. Most seductive is his central thesis, that underpins the entirety of _World Empire Lost_ including the title, that _“Franklin Delano Roosevelt’s one war aim was to destroy Germany so as to win unimpeded rule of the world for American monopoly capital.”_[[6]](#ftnt6) 
 
 To read World Empire Lost is to voluntarily dip oneself into a cesspit. It is not comfortable, nor is it pleasant; upon emerging, one must check oneself to be sure that no stain remains. But the events described in it did happen, and were justified and carried out by tens, if not hundreds, of thousands who thought the same way as von Roon. That is something it behooves us to understand.
 
@@ -109,9 +109,9 @@ The book is also open about German weaknesses:
 
 > _“While the Luftwaffe played a strong support role, it was the horse-drawn artillery massed outside Warsaw, and not the air bombardment, that in the end knocked out the city’s capacity to resist and brought the eventual surrender. This heavy reliance on horses betrayed our serious lack of combat readiness for world war.”_
 
-Poland aside, these opening stages are described in quite high-level, strategic terms - in contrast to the level of detail with which Von Roon will describe later campaigns.  We learn of the Winter War between Russia and Finland (in which Russia performed abysmally), and of the invasion of Denmark, Belgium and Norway. For my part, I had always been rather uncertain about why Germany had invaded Norway[[97]](#ftnt97), but von Roon explains that, in doing so, Germany, “_forestalled the British, opened up a much wider coastline to counter the blockade, and secured the Swedish iron ore supply for the rest of the war.”_
+Poland aside, these opening stages are described in quite high-level, strategic terms - in contrast to the level of detail with which Von Roon will describe later campaigns.  We learn of the Winter War between Russia and Finland (in which Russia performed abysmally), and of the invasion of Denmark, Belgium and Norway. For my part, I had always been rather uncertain about why Germany had invaded Norway[[7]](#ftnt7), but von Roon explains that, in doing so, Germany, “_forestalled the British, opened up a much wider coastline to counter the blockade, and secured the Swedish iron ore supply for the rest of the war.”_
 
-He is appropriately scathing about France’s lamentable preparations and performance. Von Roon’s pen deals treats the ‘cheese-eating surrender monkeys’[[98]](#ftnt98) no more mercifully than Guderian’s panzers, with his description of the Maginot Line being one of my favourite passages in the book:
+He is appropriately scathing about France’s lamentable preparations and performance. Von Roon’s pen deals treats the ‘cheese-eating surrender monkeys’[[8]](#ftnt8) no more mercifully than Guderian’s panzers, with his description of the Maginot Line being one of my favourite passages in the book:
 
 > _“Informed military men had a question or two about this Maginot Line. It was indeed a marvel of engineering, but was it not too short? Beginning at the Swiss Alps, it ran along the French-German border for more than a hundred miles to a place called Longuyon. There it stopped. Between Longuyon and the English Channel, there still remained a hole of open level country, the boundary between France and Belgium, at least as long as the Line itself. In 1914, we bestial Germans had attacked through Belgium precisely because this hole offered such a flat fine road to Paris. Couldn’t we just go around the famous Maginot Line and come down by that route again?”_
 
@@ -125,7 +125,7 @@ Von Roon has a love-hate relationship with Hitler. On the one hand he repeatedly
 
 But like so many Germans of that period, at other times he falls under the siren song of Hitler that seduced the German nation to follow him. Despite his later blunders, the defeat and catastrophe to which he led Germany, the scales can never entirely fall from his eyes. The man who _“brought prosperity and rearmed us_” could be forgiven a multitude of sins.
 
-A traditional army officer from an aristocratic Prussian family[[99]](#ftnt99), von Roon was not a natural fan of the Nazis: he writes that _“A riffraff of vulgar agitators, philosophic idealists, fanatics, opportunists, bullies, and adventurers, some of them extremely able and energetic, swept into power with Hitler.”_ Even top Nazis, such as Goering and Himmler do notescape the caustic stroke of his pen _(“Himmler’s idea of generalship was to execute officers who failed to hold hopeless positions he had ordered held.”)._
+A traditional army officer from an aristocratic Prussian family[[9]](#ftnt9), von Roon was not a natural fan of the Nazis: he writes that _“A riffraff of vulgar agitators, philosophic idealists, fanatics, opportunists, bullies, and adventurers, some of them extremely able and energetic, swept into power with Hitler.”_ Even top Nazis, such as Goering and Himmler do notescape the caustic stroke of his pen _(“Himmler’s idea of generalship was to execute officers who failed to hold hopeless positions he had ordered held.”)._
 
 But Hitler is different. His successes von Roon attributes to genius - even when they stem from the same meddling impulses that caused the disasters. On a purely objective level, he is correct that Hitler’s rise from obscure nobody to all-powerful dictator of Germany, its successful rearming, and its bloodless capture of Austria and Czechoslovakia was an achievement of a highly successful, if utterly immoral, politician.
 
@@ -159,7 +159,7 @@ In keeping with Nazi ideology, racial stereotypes underly World Empire Lost’s 
 
 Meanwhile the Americans are “_a mongrel nation”,_ the _“spoiled children of modern history_” while the English pilots in the Battle of Britain “_performed with dash and valor, like their German racial cousins_.”
 
-Von Roon is schizophrenic with respect to the Japanese. At one point he asserts, without evidence, that, “_Adolf Hitler at once embraced these doughty little Asians as comrades. The mystical bunkum of Nordic supremacy was for Nazi fanatics_,” later going on to argue that, _“It was far more moral for this Asiatic people to take over administration of this rich sphere, than for a few drunken white civil servants of defunct European empires to continue their pukka-sahib parasitism_[[100]](#ftnt100)_. Adolf Hitler had sought only friendly ties with this clever hard-working people of destiny.”_
+Von Roon is schizophrenic with respect to the Japanese. At one point he asserts, without evidence, that, “_Adolf Hitler at once embraced these doughty little Asians as comrades. The mystical bunkum of Nordic supremacy was for Nazi fanatics_,” later going on to argue that, _“It was far more moral for this Asiatic people to take over administration of this rich sphere, than for a few drunken white civil servants of defunct European empires to continue their pukka-sahib parasitism_[[10]](#ftnt10)_. Adolf Hitler had sought only friendly ties with this clever hard-working people of destiny.”_
 
 On the other hand, racial stereotypes pervade his discussions of specific Japanese admirals and their decisions, and in his discussion of Midway his Nazi race essentialism shines through strongly:
 
@@ -237,7 +237,7 @@ These sections are amongst the most unpleasant of _World Empire Lost_ to read. T
 
 In keeping with his racial views, von Roon’s writing contains a certain base-level of antisemitism - probably not dissimilar to those of many Germans of his era (and, regrettably, many Poles, French and Britons). He does not appear to actively desire their genocide - but rather represents the antipathy that caused so many in Germany to follow orders, or to stand by and do nothing, as the Jews were sent to their deaths. Von Roon acknowledges that, _“the essence of this policy was the elimination of the Jewish race in Europe,”_ but this, for him, is at worst, _“regrettable.”_ At one point he says, of the worst crime in history, _“Tragically, it all depended on the point of view.”_
 
-The arguments put forward in _World Empire Lost_ closely reflect those made in other German writings, including Mein Kampf, as well as information contained within the Wannsee Protocol, a surviving Nazi document that contains the minutes of the January 1942 Nazi conference at which plans for the ‘Final Solution’ were developed and agreed[[101]](#ftnt101). I will spare the reader all but a small taste of this:
+The arguments put forward in _World Empire Lost_ closely reflect those made in other German writings, including Mein Kampf, as well as information contained within the Wannsee Protocol, a surviving Nazi document that contains the minutes of the January 1942 Nazi conference at which plans for the ‘Final Solution’ were developed and agreed[[11]](#ftnt11). I will spare the reader all but a small taste of this:
 
 > _“But the Jews were the backbone of German liberalism. Liberalism had given them the rights and privileges of citizens. Liberalism had turned them loose to use their energy and cleverness in finance, the professions, and the arts. These people who had been kept apart were now to be seen everywhere— prosperous, exotic, holding high places, and indiscreetly displaying their new-won gains. To the Jews, liberalism was their salvation. Therefore, to a dedicated nationalist like Adolf Hitler, the Jews appeared as ultimate enemies…_
 >
@@ -365,7 +365,7 @@ More interesting are the strategic decisions that could have been taken differen
 >
 >  _Even if Roosevelt had sent his Navy, defying half his public, against the entrenched Japanese in East Asia, this fleet would have fought its showdown battle at the end of a long supply line, in enemy waters, within range of Japan’s land-based air force. It would have been another Battle of Tsushima Strait, with air power added. This humiliating slaughter in an unpopular cause might have brought on the impeachment of the none too popular Machiavellian in the White House.”_
 
-No Pearl Harbour, no United States in the war, no German declaration of war on the United States, victory for Germany and Japan. It persuaded me.[[102]](#ftnt102)
+No Pearl Harbour, no United States in the war, no German declaration of war on the United States, victory for Germany and Japan. It persuaded me.[[12]](#ftnt12)
 
 The two ‘what if’s I found most fascinating, however, were these:
 
@@ -386,7 +386,7 @@ Victor Henry, in one of his translator’s notes, argues that Von Roon makes ‘
 
 > _“My friends in the Royal Navy stoutly deny that even in June the Germans could have made it across the Channel. They would have thrown in every last ship they had, of course, to drown the invaders. It is a moot point, but in my judgment Roon makes out a fair case. The U-boats, which he does not mention, would have wreaked havoc in the narrow Channel against a defensively positioned fleet - VH.”_
 
-Beyond the purely material considerations, the momentum was with the Nazis: France had fallen, suddenly, shockingly; the British Expeditionary Force driven into the sea, Germany was triumphant everywhere[[103]](#ftnt103). Had Hitler pressed the attack, would the British have rallied - or buckled, as France had?
+Beyond the purely material considerations, the momentum was with the Nazis: France had fallen, suddenly, shockingly; the British Expeditionary Force driven into the sea, Germany was triumphant everywhere[[13]](#ftnt13). Had Hitler pressed the attack, would the British have rallied - or buckled, as France had?
 
 As a Brit, I like to think we would have defeated this and sunk the Nazis in the Channel. But it is hard to be certain of it.
 
@@ -446,7 +446,7 @@ And as Germany goes down in flames, he continues to see the struggle as one betw
 
 > _“But essentially what happened in Normandy was that Franklin Roosevelt beat Adolf Hitler, as surely as Wellington beat Napoleon at Waterloo. In Normandy the two men at last clashed in head-on armed shock. Hitler’s mistakes gave Roosevelt the victory; just as at Waterloo it was less Wellington who won than Napoleon who lost.”_
 
-Early on, von Roon states that, _“In writing this book, I have only one aim: to defend the honor of the German soldier._” Throughout the book, the Wehrmacht can do no wrong. Its leaders were mysteriously ignorant of German atrocities[[104]](#ftnt104) and, when it loses in battle, it is either overwhelmed by insurmountable odds, or betrayed by the foolish decisions of politics. Von Roon appears to think that military prowess can make up for moral failings, saying, “_The feats that our nation performed against odds will someday be justly treated in history, when passions die and the stain of certain minor excesses can be seen in perspective_.”
+Early on, von Roon states that, _“In writing this book, I have only one aim: to defend the honor of the German soldier._” Throughout the book, the Wehrmacht can do no wrong. Its leaders were mysteriously ignorant of German atrocities[[14]](#ftnt14) and, when it loses in battle, it is either overwhelmed by insurmountable odds, or betrayed by the foolish decisions of politics. Von Roon appears to think that military prowess can make up for moral failings, saying, “_The feats that our nation performed against odds will someday be justly treated in history, when passions die and the stain of certain minor excesses can be seen in perspective_.”
 
 Needless to say, at this ‘aim’, _World Empire Lost_ fails utterly.
 
@@ -464,20 +464,62 @@ _World Empire Lost_ is a fiction.
 
 To be more precise, it is a fictional work of non-fiction. It exists - and at approximately 80,000 words long, is as long as many books one might find in a bookshop. All quotes and translator’s notes produced here are genuine quotations from material that actually exists.
 
-General Armin von Roon, however, never existed. _World Empire Lost_ was instead written by the American author Herman Wouk, and spliced into his masterpiece _The Winds of War / War and Remembrance_[[105]](#ftnt105), an epic[[106]](#ftnt106) duology of the Second World War and the Holocaust. While the bulk of the books follow an American naval family (including Victor Henry, the ‘translator’) and other families they come into contact with, ever few chapters he presents an excerpt from _World Empire Lost._ 
+General Armin von Roon, however, never existed. _World Empire Lost_ was instead written by the American author Herman Wouk, and spliced into his masterpiece _The Winds of War / War and Remembrance_[[15]](#ftnt15), an epic[[16]](#ftnt16) duology of the Second World War and the Holocaust. While the bulk of the books follow an American naval family (including Victor Henry, the ‘translator’) and other families they come into contact with, ever few chapters he presents an excerpt from _World Empire Lost._ 
 
 Does this mean that it is valueless? It is, after all, written not by a Nazi war criminal, but by an American Jew. How much insight can we gain from it?
 
-I previously made a comparison to C. S. Lewis’s _The Screwtape Letters_. That book is considered valuable by many, despite it being written by a human Christian, rather than being literally written by a devil[[107]](#ftnt107). But where Lewis focused on spiritual evil, Wouk peered into the heart of a material evil, one of the worst the world has ever seen.
+I previously made a comparison to C. S. Lewis’s _The Screwtape Letters_. That book is considered valuable by many, despite it being written by a human Christian, rather than being literally written by a devil[[17]](#ftnt17). But where Lewis focused on spiritual evil, Wouk peered into the heart of a material evil, one of the worst the world has ever seen.
 
 No book can speak for everyone. Yet _World Empire Lost_ is an honest account to portray the war as many senior German military officers saw it, giving due account to both their success in battle and willingness to commit, and be complicit in, horrendous atrocities.
 
-Though a work of fiction, it draws heavily upon and is well aligned with the writings and public statements of real Nazis, testimonials at the Nuremberg trials and documents such as the Wannsee Protocol. Von Roon may not have existed, but Rommel, Guderian, Jodel, Keitel and thousands of others did: senior military men who, whatever they personally thought of Hitler[[108]](#ftnt108), fought to the best of their abilities for his regime.
+Though a work of fiction, it draws heavily upon and is well aligned with the writings and public statements of real Nazis, testimonials at the Nuremberg trials and documents such as the Wannsee Protocol. Von Roon may not have existed, but Rommel, Guderian, Jodel, Keitel and thousands of others did: senior military men who, whatever they personally thought of Hitler[[18]](#ftnt18), fought to the best of their abilities for his regime.
 
 It is all very well to say read the original sources. But which of us, unless we are a professional historian, has or will read _Mein Kampf_, the Wannsee Protocol or the court records of Nuremberg? Fiction can, and does, shine a light on history.
 
-I would close with the words of the true author, Herman Wouk, writing almost fifty years after he first began work on _The Winds of War._ He considered the book, and its successor, to be his ‘Main Task’, akin to a religious obligation: “_to bring the Holocaust to life in a frame of global war_.”[[109]](#ftnt109) The novels to him were not only an attempt to write a brilliant story - though he succeeded in that - but a commemoration.
+I would close with the words of the true author, Herman Wouk, writing almost fifty years after he first began work on _The Winds of War._ He considered the book, and its successor, to be his ‘Main Task’, akin to a religious obligation: “_to bring the Holocaust to life in a frame of global war_.”[[19]](#ftnt19) The novels to him were not only an attempt to write a brilliant story - though he succeeded in that - but a commemoration.
 
-He considered _World Empire Lost_ an integral part of that work, both as structure to the narrative, and as a rebuttal to those “_who consistently exculpates the Germans, most of all the army, from complicity in [the Holocaust._”[[110]](#ftnt110) Though his editor was initially sceptical, he insisted on maintaining the section and, looking back aged one hundred, wrote, _“If I had to submit to a court of angels a sample of my stuff, it might well be General Armin von Roon_[[111]](#ftnt111)_.”_
+He considered _World Empire Lost_ an integral part of that work, both as structure to the narrative, and as a rebuttal to those “_who consistently exculpates the Germans, most of all the army, from complicity in [the Holocaust._”[[20]](#ftnt20) Though his editor was initially sceptical, he insisted on maintaining the section and, looking back aged one hundred, wrote, _“If I had to submit to a court of angels a sample of my stuff, it might well be General Armin von Roon_[[21]](#ftnt21)_.”_
 
 The readers of Astralcodexten may be considered the next best thing.
+
+[[1]](#ftnt_ref1) Von Roon is not wrong about everything.
+
+[[2]](#ftnt_ref2) Reflecting Nazi attitudes, von Roon is peculiarly obsessed with Roosevelt’s disability. No doubt confronting the fact that a man who in Germany would have been sent to the gas chambers was a key instrument of German defeat causes him serious difficulties.
+
+[[3]](#ftnt_ref3) Quotations from the translator’s footnotes will be marked by his initials, VH.
+
+[[4]](#ftnt_ref4) Herman Wouk, October 2001.
+
+[[5]](#ftnt_ref5) The shame of Western nations not to offer sanctuary to the Jews of Europe is indeed a stain upon our conscience. But von Roon appears to forget that it was only because of the Nazis that that sanctuary was required.
+
+[[6]](#ftnt_ref6) To be absolutely clear: I do not, and nor should any sane person, believe Roosevelt masterminded World War II to destroy the European empires and Germany and secure American dominance.
+
+[[7]](#ftnt_ref7) Other than the fact that the Nazis liked invading people.
+
+[[8]](#ftnt_ref8) As Groundsman Willie might put it.
+
+[[9]](#ftnt_ref9) As one can tell from the ‘von’.
+
+[[10]](#ftnt_ref10) It does not seem to occur to von Roon that these nations could have ruled themselves.
+
+[[11]](#ftnt_ref11) The BBC have produced an outstanding docudrama of the Wannsee Conference, based closely on the detailed minutes that were kept. I would strongly recommend watching it. To see senior government discuss in calm, logical and bureaucratic tones how to exterminate millions of people, in a manner which - aside from its subject matter - could be any other high level government meeting - is utterly chilling
+
+[[12]](#ftnt_ref12) There is a question as to whether or not the Soviet Union could have defeated Germany without the United States entering the war. My understanding is that this is an open question, with much depending upon (a) whether or not Britain, fighting alone, could keep open the sea lines, and (b) whether Japan, free of threat from America, broke its treaty with Russia. My own feeling is that the first, at least, is unlikely, given how close run a thing the Battle of the Atlantic was - even with American convoys.
+
+[[13]](#ftnt_ref13) Anyone who has watched the 2017 film, Darkest Hour, will have a sense of the near despair of these times.
+
+[[14]](#ftnt_ref14) This is simply not true.
+
+[[15]](#ftnt_ref15) Technically speaking, Wouk breaks von Roon’s books into two, _World Empire Lost_ and _World Holocaust,_ to match his own structure. This felt an unnecessary complication for this review and I have referred to both books as _World Empire Lost._
+
+[[16]](#ftnt_ref16) The books are an epic in every sense of the word, [including Scott’s:](https://unsongbook.com/) they begin in media res, take place in multiple lands, contain a long catalog of objects (various listings of military vessels), feature divine intervention (various characters prayers are answered) and include a journey into hell (Auschwitz). As Ana says, ‘THE TALKING SHIP IS OPTIONAL.’
+
+[[17]](#ftnt_ref17) Indeed, whether or not one believes in the existence of literal devils.
+
+[[18]](#ftnt_ref18) Which varied.
+
+[[19]](#ftnt_ref19) Wouk, Herman. Sailor and Fiddler: Reflections of a 100-Year-Old Author.
+
+[[20]](#ftnt_ref20) Wouk, Herman. The Will To Live On: This is Our Heritage.
+
+[[21]](#ftnt_ref21) Wouk, Herman. Sailor and Fiddler: Reflections of a 100-Year-Old Author.

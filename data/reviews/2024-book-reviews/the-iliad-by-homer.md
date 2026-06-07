@@ -28,7 +28,7 @@ Achilles gets upset and decides to stop fighting for Agamemnon. He prays to his 
 
 So Zeus sends a dream to Agamemnon, telling him to attack Troy. Agamemnon decides to test the Greek fighters, telling them it’s time to give up and sail home. So they start running back to the ships, but Athena tells Odysseus to stop them, which he does mostly by telling them to obey orders.
 
-There’s a bunch of fighting between Greeks and Trojans, and bickering among the gods, and occasionally mortals even fight gods. In the middle of it there’s a one-day truce, which the Greeks use to build a wall, complete with gates. Poseidon says it’s such a good wall that people will forget the wall of Troy, which upsets him because they didn’t get the gods’ blessing to build it.[[45]](#ftnt45) Agamemnon tries to convince Achilles to fight again by offering massive rewards, including the woman he stole earlier, whom he swears he has not had sex with as is the normal way between men and women.
+There’s a bunch of fighting between Greeks and Trojans, and bickering among the gods, and occasionally mortals even fight gods. In the middle of it there’s a one-day truce, which the Greeks use to build a wall, complete with gates. Poseidon says it’s such a good wall that people will forget the wall of Troy, which upsets him because they didn’t get the gods’ blessing to build it.[[1]](#ftnt1) Agamemnon tries to convince Achilles to fight again by offering massive rewards, including the woman he stole earlier, whom he swears he has not had sex with as is the normal way between men and women.
 
 Eventually the Trojans fight past the wall and reach the Greek fleet. At this point Patroclus, Achilles’ bff (not explicitly lover, but people have been shipping them for thousands of years), puts on Achilles’ armor and goes to fight. He’s skilled and scary enough that the Trojans flee. Achilles told him not to chase them, but he does so anyway, and he’s killed by Hector. Hector takes the weapons and armor, and there’s a big fight for his body, but the Greeks manage to drag it back to their camp.
 
@@ -144,7 +144,7 @@ And how much is the original versus the translation, or even the narrator of the
 
 What is up with classics?
 
-Like, what makes something a classic? Why do we keep reading them?[[46]](#ftnt46) Why did it feel vaguely blasphemous for me to say the Iliad isn’t very good?
+Like, what makes something a classic? Why do we keep reading them?[[2]](#ftnt2) Why did it feel vaguely blasphemous for me to say the Iliad isn’t very good?
 
 I’m probably not being original here, but….
 
@@ -158,7 +158,7 @@ A cynical answer is that it’s all **signaling**. We read something because all
 
 (Of course we’re not going to get a whole crowd of admirers to admit “there’s nothing here really, we just pretend to like this to seem sophisticated”. So even if this is most of the story, we might not expect to find a clear example.)
 
-To the extent that this is going on, then we’d expect me to be scared to criticize the Iliad because that exposes me as uneducated. Or we might expect me to criticize it extra harshly to show how independent-minded I am. Or both![[47]](#ftnt47) And in fact I don’t fully trust myself to have judged it neutrally, without regard to its status.
+To the extent that this is going on, then we’d expect me to be scared to criticize the Iliad because that exposes me as uneducated. Or we might expect me to criticize it extra harshly to show how independent-minded I am. Or both![[3]](#ftnt3) And in fact I don’t fully trust myself to have judged it neutrally, without regard to its status.
 
 My guess: this is why some people read the Iliad, but it’s not the main thing that makes it a classic.
 
@@ -166,7 +166,7 @@ Less cynically, we might observe that classics are often referenced, and we want
 
 In fact, it’s not a coincidence that I listened to the Iliad soon after reading [Terra Ignota](https://en.wikipedia.org/wiki/Terra_Ignota). I don’t really guess this is a large part of why others read it, but maybe.
 
-(Also not a coincidence that I read [A Midsummer Night’s Dream](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream) soon after watching [Get Over It](https://en.wikipedia.org/wiki/Get_Over_It_(film)). Reading the source material radically changed my opinion of that film. It went from “this is pretty fun, worth watching” to “this is excellent, one of my favorite movies”.[[48]](#ftnt48) Similarly, [See How They Run](https://en.wikipedia.org/wiki/See_How_They_Run_(2022_film)) was improved by having recently seen [The Mousetrap](https://en.wikipedia.org/wiki/The_Mousetrap).)
+(Also not a coincidence that I read [A Midsummer Night’s Dream](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream) soon after watching [Get Over It](https://en.wikipedia.org/wiki/Get_Over_It_(film)). Reading the source material radically changed my opinion of that film. It went from “this is pretty fun, worth watching” to “this is excellent, one of my favorite movies”.[[4]](#ftnt4) Similarly, [See How They Run](https://en.wikipedia.org/wiki/See_How_They_Run_(2022_film)) was improved by having recently seen [The Mousetrap](https://en.wikipedia.org/wiki/The_Mousetrap).)
 
 A closely related thing here is that because lots of other people have read the classics, they’ve also written about the classics and about reading the classics. So if you enjoy reading commentary on the thing you’ve just read, the classics have you covered.
 
@@ -217,3 +217,13 @@ I can't read the marks in the Iliad. I don’t know what parts of what it shows 
 I listened to the audiobook of the Iliad because I happened to know that it was originally listened-to, not read, so it seemed closer to the intended experience. But in hindsight, I can't get the intended experience and I shouldn’t have tried.
 
 I think to get the most out of the Iliad, I should have read it along with copious historical notes, and deliberately treated it as "learning about ancient Greece" at least as much as "reading a fun story".
+
+[[1]](#ftnt_ref1) Why didn’t they build it sooner? My headcanon is that they were waiting to get blessings to go ahead, but it was stuck in planning committees for nine years. Eventually they decided to build without the proper permits. Zeus says Poseidon will be allowed to tear it down after they leave - it wouldn’t do to have construction lying around that’s not up to code.
+
+[[2]](#ftnt_ref2) These might seem like similar questions, since we can think of classics as “the things we keep reading”. But I think it makes sense to think of cultural trends as distinct from “individual trends multiplied over lots of individuals”. Like, you could explain an election result as “lots of people have individual trends towards voting for someone they think was good for the economy last term”. But that misses that there was a deliberate media effort encouraging people to think about specific parts of the economy and not so much about other parts of the economy or about foreign policy.
+
+Also… are there old-but-popular things that don’t get labeled “classics”? Nothing comes to mind, but that doesn’t mean they don’t exist.
+
+[[3]](#ftnt_ref3) Sure is convenient how many observations this theory can explain.
+
+[[4]](#ftnt_ref4) Spoilers follow. Get Over It is a musical adaptation of A Midsummer Night’s Dream, set in a high school where the students are putting on a musical adaptation of A Midsummer Night’s Dream. What I love about it is the way the adaptation in the film interacts with the adaptation that is the film. The play-in-the-film is a musical, so that makes the film a musical. And more twistily, the protagonist of the film plays the protagonist of the play, and the antagonist plays the antagonist, as you’d expect. But these roles have been swapped - Lysander is the protagonist of the play but the antagonist of the film, playing Demetrius in the play; and Demetrius is the antagonist of the play but the protagonist of the film, playing Lysander in the play. Hermia and Helena play themselves. In the climax, film-Demetrius declares his love for film-Helena by improvising some lines where play-Lysander declares his love for play-Helena. So he changes the ending of their play, which makes the ending of the film match the ending of the original play.

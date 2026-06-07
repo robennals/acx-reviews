@@ -97,3 +97,7 @@ Third, if you cannot find trustworthy frequency data for your situation, try to 
 Fourth, given that middle-class American parents seem to be too cautious about almost everything related to their children, it might be good to just try to be one of the least cautious parents in your social group.
 
 Any future children I may have, I now speak directly to you. I will try to avoid helicopter parenting and becoming a paranoid wreck. If you at any point feel that I am straying from this goal, please direct my attention back to this review.
+
+[[1]](#ftnt_ref1) Sometimes it is said that small risks of ex post very bad events are particularly hard to estimate, but I think the issue is general to all small risks, and it is just that small risks of catastrophic outcomes are more important and hence more worth discussing.
+
+[[2]](#ftnt_ref2) This is related to the idea of the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic).

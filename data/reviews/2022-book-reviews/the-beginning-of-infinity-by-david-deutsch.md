@@ -20,11 +20,11 @@ _Deutsch eats rationalism_
 
 The philosopher Dan Dennet describes evolution, his pick for [the best idea that anyone's had](https://www.sfgate.com/books/article/Darwin-s-Theory-as-the-Best-Idea-Ever-3029303.php#:~:text=%22If%20I%20were%20to%20give,%2C%20mechanism%20and%20physical%20law.%22), as [universal acid](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea#Universal_acid): A liquid so corrosive it eats through any substance that attempts to contain it.
 
-The ideas in _The Beginning of Infinity (BoI)_, the 2011 book by the brilliant and eccentric[[15]](#ftnt15) Oxford physicist David Deutsch, form a universal acid: They can dissolve your entire worldview. Especially if your worldview happens to contain Bayesianism, forecasting, evolutionary psychology, behavioral genetics, cognitive biases, concerns for animal welfare, and an unease about the existential risks posed from the development of artificial intelligence. Did I miss anything?
+The ideas in _The Beginning of Infinity (BoI)_, the 2011 book by the brilliant and eccentric[[1]](#ftnt1) Oxford physicist David Deutsch, form a universal acid: They can dissolve your entire worldview. Especially if your worldview happens to contain Bayesianism, forecasting, evolutionary psychology, behavioral genetics, cognitive biases, concerns for animal welfare, and an unease about the existential risks posed from the development of artificial intelligence. Did I miss anything?
 
 Deutsch is a physicist by trade. He discovered the theory of quantum computing in the 1980s for which he was made a Royal Society Fellow. Remarkably, this achievement isn't the most interesting thing about him. Or, at least, it isn't the reason why he inspires so many. Deutsch's achievements in physics invariably end up as footnotes or preambles in interviews to get to his _other_ ideas. Namely, those about knowledge.
 
-Reading BoI can feel like you're in the presence of an alien mind[[16]](#ftnt16). It completely avoids relying on conventional wisdom, both scientific and philosophical. In fact, it starts by redefining knowledge: How it’s created, its significance in the universe, and how it enables the unbounded potential of human progress. The later chapters are a tilt-a-whirl journey covering the impacts of knowledge on an eclectic range of topics from voting systems to flowers.
+Reading BoI can feel like you're in the presence of an alien mind[[2]](#ftnt2). It completely avoids relying on conventional wisdom, both scientific and philosophical. In fact, it starts by redefining knowledge: How it’s created, its significance in the universe, and how it enables the unbounded potential of human progress. The later chapters are a tilt-a-whirl journey covering the impacts of knowledge on an eclectic range of topics from voting systems to flowers.
 
 The book is filled with bold ideas, having one of the highest insight-per-page ratios I’ve encountered. It constantly makes provocative assertions: meta-claims that permeate all fields. And, as someone whose worldview very much does contain the rationalist canon, it leaves one in a mess, with many problems to be solved.
 
@@ -90,7 +90,7 @@ Not only that, the argument that some things are unknowable proves too much. Phe
 
 If knowledge can solve all problems, it must be quite important. For Deutsch, knowledge, as a building block of the universe, is up there with the laws of physics. In fact, knowledge is arguably the _most_ important thing in the universe. This in turn elevates the importance of humans: as we are the ones who create knowledge.
 
-Another conventional wisdom among scientists is that humans are insignificant in the cosmic scheme of things. The universe is massive and old and wasn’t designed with us in mind. A [young Alvy Singer](https://www.youtube.com/watch?v=5U1-OmAICpU) doesn’t see the point in doing his homework when he learns that the universe is expanding[[17]](#ftnt17). A [much older Stephen Hawking](https://www.goodreads.com/quotes/523470-the-human-race-is-just-a-chemical-scum-on-a) calls us “insignificant chemical scum”.
+Another conventional wisdom among scientists is that humans are insignificant in the cosmic scheme of things. The universe is massive and old and wasn’t designed with us in mind. A [young Alvy Singer](https://www.youtube.com/watch?v=5U1-OmAICpU) doesn’t see the point in doing his homework when he learns that the universe is expanding[[3]](#ftnt3). A [much older Stephen Hawking](https://www.goodreads.com/quotes/523470-the-human-race-is-just-a-chemical-scum-on-a) calls us “insignificant chemical scum”.
 
 As Deutsch says: “Feeling insignificant because the universe is large has exactly the same logic as feeling inadequate for not being a cow.” Our significance is not due to our size or bovinity, but to our ability to create knowledge. The deserts we can irrigate are not limited to earth but lie in distant galaxies.
 
@@ -126,27 +126,27 @@ Gettier problems are clever (or silly) on their own terms, but the criticism the
 
 Reminiscent of Deutsch's response when [being interviewed by](https://www.samharris.org/blog/surviving-the-cosmos) the podcaster Sam Harris: "You've made three different arguments. All of which are wrong."
 
-(That's another thing you'll notice about Deutsch: His confidence to criticize ideas that are well-subscribed to but mistaken. Entire fields even. One chapter laments how physics went awry in the early 20th century. Another on philosophy. It's the sort of untroubled confidence that perhaps only an acclaimed quantum physicist gets away with[[18]](#ftnt18).)
+(That's another thing you'll notice about Deutsch: His confidence to criticize ideas that are well-subscribed to but mistaken. Entire fields even. One chapter laments how physics went awry in the early 20th century. Another on philosophy. It's the sort of untroubled confidence that perhaps only an acclaimed quantum physicist gets away with[[4]](#ftnt4).)
 
 Most importantly for Deutsch, knowledge isn’t justified. This is for quite a simple reason: Nothing can be ultimately justified. It's turtles all the way down. Any attempt to provide a justified foundation for knowledge results in an infinite regress. You are always left with the question: What justifies the justification?
 
-According to Deutsch, we need to change the question. Instead, we should ask: How can this idea solve my problem[[19]](#ftnt19)? Or: How can we find a better theory?
+According to Deutsch, we need to change the question. Instead, we should ask: How can this idea solve my problem[[5]](#ftnt5)? Or: How can we find a better theory?
 
 (Deutsch does this “let’s-just-change-the-question” move a few times. I'm not entirely sure it's legitimate. You’re still left with this nagging voice inside you asking: “How do we _really_ know?” You don’t. So stop asking.)
 
 Deutsch argues that ultimate justification is a chimera. And seeking it “may well have wasted more philosophers’ time and effort than any other idea.” Knowledge, according to Deutsch, is literally guesswork. Einstein’s theory of relativity was a bold guess. As was Darwin’s theory of evolution. We make guesses then submit them to criticism. This criticism can take the form of arguments or empirical tests.
 
-The corollary is that we can never be sure that we have arrived at the truth. Deutsch is a proponent of _fallibilism_: the claim that all people are subject to error. Although objective truth exists, we can never be certain we have found it[[20]](#ftnt20).
+The corollary is that we can never be sure that we have arrived at the truth. Deutsch is a proponent of _fallibilism_: the claim that all people are subject to error. Although objective truth exists, we can never be certain we have found it[[6]](#ftnt6).
 
 Deutsch’s fallibilism permeates his morality. He is non-authoritarian as it is irrational to discount other people's theories and criticisms. This is because (1) knowledge grows by correcting errors, and (2) there’s no basis to privilege his ideas over anyone else's.
 
 (His anti-authoritarianism gets fairly serious fairly quickly. He thinks democratic voting systems should enable the [peaceful removal](https://www.economist.com/democracy-in-america/2016/01/31/from-the-archives-the-open-society-and-its-enemies-revisited) of leaders. He doesn't teach at his university as it implies an authoritarian relationship between teacher and student. He [thinks](https://www.fitz-claridge.com/introduction-to-the-theory-of-taking-children-seriously/) most parenting norms, where the parent assumes power over the child, are immoral. He even refuses to give advice.)
 
-And Deutsch doesn't believe in belief either[[21]](#ftnt21).
+And Deutsch doesn't believe in belief either[[7]](#ftnt7).
 
 ### Footnotes to Popper
 
-The book is largely a repackaging of the views of Karl Popper. In fact, Deutsch's worldview _is_ Popperian. Although there are fingerprints from other thinkers sprinkled throughout, Deutsch happily describes his work as footnotes to Popper[[22]](#ftnt22).
+The book is largely a repackaging of the views of Karl Popper. In fact, Deutsch's worldview _is_ Popperian. Although there are fingerprints from other thinkers sprinkled throughout, Deutsch happily describes his work as footnotes to Popper[[8]](#ftnt8).
 
 But you aren't required to have read Popper to start BoI. In fact, Deutsch is the best place to learn Popperian philosophy. He's a better writer and has improved on it in places by emphasizing explanations and taking Popper’s views to their natural extensions. If nothing else, BoI is a clear introduction to Popper's ideas.
 
@@ -168,7 +168,7 @@ It's fair to assume that this should hold internally for your own views. Inconsi
 
 The rest of the essay will evaluate where Deutsch might disagree with rationalists. It doesn’t resolve all the inconsistencies but hopes to at least point out some fruitful areas where more work is needed.
 
-If I was to have a go at listing some of the main facets of rationalism, my nominees would be: Bayesianism, forecasting, evolutionary psychology, behavioral genetics, cognitive biases, AI risk, and game theory[[23]](#ftnt23). With the exception of game theory, the Deutschian worldview pierces through them all.
+If I was to have a go at listing some of the main facets of rationalism, my nominees would be: Bayesianism, forecasting, evolutionary psychology, behavioral genetics, cognitive biases, AI risk, and game theory[[9]](#ftnt9). With the exception of game theory, the Deutschian worldview pierces through them all.
 
 ### Different rats
 
@@ -196,11 +196,11 @@ To be clear, evolutionary psychology was a [view-quake](https://marginalrevoluti
 
 Then there’s behavioral genetics. Robert Plomin, a doyen in the field, provides an accessible overview of the literature in _Blueprint (2018)_. The main findings, via twin and adoptions studies, are: all behavioral characteristics are heritable; parenting doesn’t matter for long term outcomes; and environmental effects are idiosyncratic.
 
-But the problem with explaining human behavior in terms of genes, as a Deutschian, is it quickly runs [counter](https://twitter.com/DavidDeutschOxf/status/1019612551691239425?s=20&t=8FPazcF3-G9Nr0zUxDH_0g) to human universality. There are no barriers to knowledge creation, so genetic influence cannot be immutable[[24]](#ftnt24).
+But the problem with explaining human behavior in terms of genes, as a Deutschian, is it quickly runs [counter](https://twitter.com/DavidDeutschOxf/status/1019612551691239425?s=20&t=8FPazcF3-G9Nr0zUxDH_0g) to human universality. There are no barriers to knowledge creation, so genetic influence cannot be immutable[[10]](#ftnt10).
 
 Many denials of human nature are due to commitments to ideology or political correctness. This is the topic of Steven Pinker’s _The Blank Slate (2002)_. If people differ, in part, due to their genes, then hopes of an egalitarian society are weakened. The most taboo being any discussion about group differences.
 
-Deutsch, however, does not seem motivated by political correctness. Elsewhere in BoI, he’s willing to defend politically sensitive views such as open societies in the West being better than closed societies or primitive societies[[25]](#ftnt25).
+Deutsch, however, does not seem motivated by political correctness. Elsewhere in BoI, he’s willing to defend politically sensitive views such as open societies in the West being better than closed societies or primitive societies[[11]](#ftnt11).
 
 Deutsch doesn’t totally reject genetics either. As we’ve covered, knowledge can be instantiated in genes. We are not blank slates. It actually neatly solves the problem of where human knowledge originally comes from. New ideas build on earlier ideas. Which were built on even earlier ideas. Going back to inborn ideas. His main criticism is that these influences are not immutable.  
   
@@ -208,9 +208,9 @@ To be fair to evolutionary psychologists and behavioral geneticists, many don’
 
 So where’s the disagreement? I think it lies in (1) to what extent current outcomes are due to genetic influence, and (2) how easy this influence is to overcome.
 
-Deutsch seems to think that attributing current human behavior to genes is wrongheaded. That it’s _easy_ to override our inborn instincts and perhaps even to over_write_ them _given the right knowledge_. In fact, any genetic component is itself dependent on culture. He doesn’t explicitly say this in BoI, but he hints at it in interviews and it’s a corollary of his views on knowledge[[26]](#ftnt26): There are no barriers.
+Deutsch seems to think that attributing current human behavior to genes is wrongheaded. That it’s _easy_ to override our inborn instincts and perhaps even to over_write_ them _given the right knowledge_. In fact, any genetic component is itself dependent on culture. He doesn’t explicitly say this in BoI, but he hints at it in interviews and it’s a corollary of his views on knowledge[[12]](#ftnt12): There are no barriers.
 
-It’s hard to square this with the behavioral genetic literature where identical twins turn out so similarly (even when they’re reared apart) and adopted children turn out so differently to their adoptive parents. The most parsimonious explanation seems to be genetic influence on personality and IQ[[27]](#ftnt27). If not immutable, it seems to be very sticky. But any stickiness must not violate human universality. An important problem to be solved indeed.
+It’s hard to square this with the behavioral genetic literature where identical twins turn out so similarly (even when they’re reared apart) and adopted children turn out so differently to their adoptive parents. The most parsimonious explanation seems to be genetic influence on personality and IQ[[13]](#ftnt13). If not immutable, it seems to be very sticky. But any stickiness must not violate human universality. An important problem to be solved indeed.
 
 ### Bayesianism
 
@@ -232,7 +232,7 @@ Secondly, Deutsch emphasizes _explanations_: Priors and updates are irrelevant i
 
 (Priors also lead to an infinite regress. How confident are you in your 90% prior?)
 
-Finally, confirming evidence doesn’t increase the likelihood of a theory being true, as shown by examples of black swans in the antipodes and the [anthropomorphic chicken](https://www.relicsworld.com/bertrand-russell/the-chicken-noticed-that-the-farmer-came-every-day-to-feed-it-author-bertrand-russell) that gets eaten for Christmas dinner[[28]](#ftnt28). Newton’s gravitational theory had as much confirming evidence as anything. It got displaced too.
+Finally, confirming evidence doesn’t increase the likelihood of a theory being true, as shown by examples of black swans in the antipodes and the [anthropomorphic chicken](https://www.relicsworld.com/bertrand-russell/the-chicken-noticed-that-the-farmer-came-every-day-to-feed-it-author-bertrand-russell) that gets eaten for Christmas dinner[[14]](#ftnt14). Newton’s gravitational theory had as much confirming evidence as anything. It got displaced too.
 
 Is it not simply induction to base our priors on the likelihood of war between North and South Korea on historic rates? And what are the correct rates to use as our [outside view](https://www.lesswrong.com/posts/BcYfsi7vmhDvzQGiF/taboo-outside-view) anyway? Wars in Korea? Wars between countries where at least one is developed? Or those with nuclear weapons?
 
@@ -268,7 +268,7 @@ If early 20th century proto-rationalists were sitting around betting on world af
 
 If your model of the 20th century didn’t include the discovery of nuclear fission, your predictions around war, energy, and the environment will suffer. But how could it have been included? Nuclear fission hadn’t been invented.
 
-But Deutsch makes predictions in BoI, for example, on aging[[29]](#ftnt29):
+But Deutsch makes predictions in BoI, for example, on aging[[15]](#ftnt15):
 
 > _Illness and old age are going to be cured soon — certainly within the next few lifetimes — and technology will also be able to prevent deaths through homicide or accidents by creating backups of the states of brains, which could be uploaded into new, blank brains in identical bodies if a person should die._
 
@@ -316,7 +316,7 @@ We can suffer without experiencing physical pain. And we can be in pain without 
 
 As like most other things, it depends on knowledge. Whether our pain causes us to suffer depends on our _explanation_ for the pain. However, animals do not create explanatory knowledge.
 
-The psychologist Paul Bloom [describes](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007) that our _theories_ around an experience affect the pleasure we receive. Imagine someone informing you part way through eating Sunday roast dinner (ignore the fact we are eating animals for the minute) that the food you are eating is the family dog. The same physical sensations would suddenly become disgusting. Incidentally, I heard from a Muslim guy who described his attitude towards eating pork as how we in the west would react to eating dog meat[[30]](#ftnt30).
+The psychologist Paul Bloom [describes](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007) that our _theories_ around an experience affect the pleasure we receive. Imagine someone informing you part way through eating Sunday roast dinner (ignore the fact we are eating animals for the minute) that the food you are eating is the family dog. The same physical sensations would suddenly become disgusting. Incidentally, I heard from a Muslim guy who described his attitude towards eating pork as how we in the west would react to eating dog meat[[16]](#ftnt16).
 
 However, I’m not sure if this obviates Singer’s argument for animal welfare. Singer may have been too quick to claim animals self-evidently suffer, but the new criterion may just be if an animal can create universal explanatory knowledge.
 
@@ -353,3 +353,35 @@ Fortunately, if there really are no barriers to understanding the cosmos, we can
 | AI Risk | Terminator scenarios are science fiction, right?. And why would they want to harm us anyway? | AGI is plausibly the biggest x-risk along with nuclear destruction.The alignment problem is key. We need to obviate the risk rather than react to it.Timeline doesn’t ultimately matter re importance of preventing risk, but plausible AGI will be developed in 10-20 years. | The current approach won’t achieve AGI breakthrough.AGI are people. It’s immoral to try to constrain them.A true AGI won’t be constrained by a goal because they will be a universal explainer.Once AGI is developed it will be trivial to improve our hardware to catch up. Software is universal. |
 
 * * *
+
+[[1]](#ftnt_ref1) One of my favorite Deutsch [stories](https://www.newyorker.com/magazine/2011/05/02/dream-machine) is when a Japanese film crew ran an interview at his house. They asked to tidy up as it was apparently messy. Deutsch only allowed it if they agreed to put everything back as it was afterwards.  
+
+[[2]](#ftnt_ref2) I had a similar uneasy "I'm-in-the-presence-of-aliens" feeling when first reading the philosopher [Derek Parfit](https://www.newyorker.com/magazine/2011/09/05/how-to-be-good) (whose ideas are unrelated to Deutsch's).
+
+[[3]](#ftnt_ref3) Deutsch incidentally agrees that there’s no point in doing homework if you don’t want to. Not because he thinks human affairs are meaningless. Rather, he’s anti-coercion. A stance he lands on due to, you guessed it, his views on knowledge.
+
+[[4]](#ftnt_ref4)  It’s worth noting that Deutsch's views both on quantum physics and knowledge are minority views within their respective fields.
+
+[[5]](#ftnt_ref5) There may be similarities with Philosophical Pragmatism, but I haven’t read any William James, let alone Rorty or Dewey, to make a comment on that one.  
+
+[[6]](#ftnt_ref6) Deutsch is a realist. He provides a crisp argument against Solipsism: That it’s not parsimonious as it has to posit the additional claim that everything looks like it independently exists without any explanation as to why. It’s analogous to geocentric models: convoluted in a way so that the planet’s orbits [look like](https://imgur.com/tBCC7P4) a heliocentric model would.
+
+[[7]](#ftnt_ref7) Knowledge can exist without belief. It’s instantiated in books, computer programs, and genes. Further, knowledge may be inexplicit or unconscious. We effortlessly use grammar and laugh appropriately in social situations. Though I’m a little unclear if Deutsch thinks knowledge is never belief. Darwin surely _believed in_ natural selection, right?  
+
+[[8]](#ftnt_ref8) Other thinkers including Hugh Everrett, Richard Dawkins, Jacob Bronowski, Alan Turing, and William Godwin.  
+
+[[9]](#ftnt_ref9) Behavioral genetics may not be a core tenet of rationalism, but many rats subscribe to the idea that genes significantly influence intelligence.
+
+[[10]](#ftnt_ref10) Cognitive biases have the same issue, viz: barriers. Deutsch prefers to call them errors. However, aren’t biases simply _systematic_ errors?  
+
+[[11]](#ftnt_ref11) His arguments against genetic influence also apply to homosexuality and transgenderism which is the one area where the politically correct version is it’s all nature.
+
+[[12]](#ftnt_ref12) Some interviews where Deutsch touches on genetic influence: [here](https://www.youtube.com/watch?v=O14HyFNYVFY&t=4227s), [here](https://www.youtube.com/watch?v=bbOVOY9PCpQ&t=566s), and [here](https://www.youtube.com/watch?v=Qrt0XXg0QKM&t=6717s).
+
+[[13]](#ftnt_ref13) Deutsch criticizes IQ as a measure for intelligence too. Firstly, IQ tests are a function of motivation. Secondly, it violates human universality. We can’t differ in the type of intelligence that makes humans unique: the ability to create explanatory knowledge. (Although our hardware can differ genetically, which amounts to speed and memory. But we don’t think of the village idiot simply needing more time to make Einstein’s discovery.)  
+
+[[14]](#ftnt_ref14) In fact, whether evidence is confirming or disconfirming depends on your _explanation_ of it anyway. Since evidence never “confirms”, we should instead call evidence _consistent_ with theories.
+
+[[15]](#ftnt_ref15) The possibility of aging being cured is an area where rationalists would surely agree with Deutsch (via the arguments of Aubrey de Grey).
+
+[[16]](#ftnt_ref16) He had an exception for the smell of crispy bacon. That seemed to transcend the influence of his particular cultural memes.

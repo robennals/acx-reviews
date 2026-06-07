@@ -144,3 +144,7 @@ If there’s any appetite for experimental government anywhere, this is my sugge
 ## Conclusion
 
 Barring a wave of popularity triggered by this book review, I doubt this will change the world. Politicians won’t relinquish power so easily, and if they do, there will be strings attached. But for me at least, that’s not the point. What I really got from this book was a reminder that we’re not done thinking about these issues. It’s all too easy to be cynical about government, especially when the problems are structural and all proposals to fix them are too small in scope. But that last part isn’t true! There _are_ grand proposals to Fix Everything. They have problems, yes, but they exist! We’re still thinking about it! That conversation between Aristotle, Hobbes, Rousseau and Jefferson isn’t over, and one of these days someone is going to figure something out. I applaud Van Reybrouck for his contribution to that conversation, and heartily recommend _Against Elections_ to anyone with an interest in government.
+
+[[1]](#ftnt_ref1) A small amount of research tells me that the precise details (of course) depend on the time and place. I am presenting Van Reybrouck’s sanitized version which appears to be basically correct.
+
+[[2]](#ftnt_ref2) Elections became democratic in popular perception with the rise of universal suffrage, which Van Reybrouck regards as a sort of hill-climb to a local but not global maximum.

@@ -37,7 +37,7 @@ Only Chicago’s remains. It’s not only alive and well, but more powerful than
 
 Luckily, you have a guide with you. Although the Zyn-powered time travel vortex consumed your Oura ring, crypto wallet, and vintage “FTX Summer Intern” t-shirt, one accessory made it through with you: Milton Rakove’s 1975 book _Don’t Make No Waves, Don’t Back No Losers,_ an insider’s account of the Chicago machine’s inner workings.
 
-Even better, _Don’t Make No Waves_ isn’t some boring work of egghead political science. It’s a firsthand ethnography: to write the book, Rakove went inside the machine, volunteering for the local party and even running (unsuccessfully) for office himself. “One stint on the campaign trail,” he writes, “provided more insights than would a half-dozen models of a campaign structure.”[[47]](#ftnt47)
+Even better, _Don’t Make No Waves_ isn’t some boring work of egghead political science. It’s a firsthand ethnography: to write the book, Rakove went inside the machine, volunteering for the local party and even running (unsuccessfully) for office himself. “One stint on the campaign trail,” he writes, “provided more insights than would a half-dozen models of a campaign structure.”[[1]](#ftnt1)
 
 And so, with Rakove as your [non-antisemitic Svengali](https://en.wikipedia.org/wiki/Svengali), you begin your journey.
 
@@ -49,7 +49,7 @@ Now, if you were already rich, you could buy your way into a lesser office with 
 
 Since you can’t Mike Bloomberg your way into office, you need two things: the right ethnicity, and a track record of proven loyalty.
 
-The “right” ethnicity is any one with voting power in Chicago, so it’s a good thing this vortex made you Irish. Being Polish, German, Italian, Jewish, or even Black could work too, but the Irish are the largest ethnic group in the city, and thus the dominant force in its politics[[48]](#ftnt48). Like everyone else, you’re familiar with the old saying about Chicago: “The Jews own it, the Irish run it, and the Blacks live in it.”
+The “right” ethnicity is any one with voting power in Chicago, so it’s a good thing this vortex made you Irish. Being Polish, German, Italian, Jewish, or even Black could work too, but the Irish are the largest ethnic group in the city, and thus the dominant force in its politics[[2]](#ftnt2). Like everyone else, you’re familiar with the old saying about Chicago: “The Jews own it, the Irish run it, and the Blacks live in it.”
 
 With your ethnic credential secured, it’s time to prove your loyalty to the party. And there’s no question about which party. Vaudeville comic Will Rogers once joked, “I am not a member of any organized political party—I am a Democrat,” but Will Rogers never lived in Chicago. Chicago is a one-party town, and the machine is the _Democratic_ machine.
 
@@ -59,7 +59,7 @@ You’ll think more about the Republicans later. For now, it’s time to prove y
 
 ## Itty-Bitty City Committees
 
-Chicago is divided into fifty neighborhood districts called wards, and each ward has a local representative called a committeeman[[49]](#ftnt49). This is technically an elected position, but like most local offices, in practice it’s entirely controlled by the party: becoming a candidate requires collecting so many signatures that it’s essentially impossible for anyone to gather them without a bunch of machine volunteers like you helping out.
+Chicago is divided into fifty neighborhood districts called wards, and each ward has a local representative called a committeeman[[3]](#ftnt3). This is technically an elected position, but like most local offices, in practice it’s entirely controlled by the party: becoming a candidate requires collecting so many signatures that it’s essentially impossible for anyone to gather them without a bunch of machine volunteers like you helping out.
 
 You’ve never volunteered for anything before—typical ACX reader that you were, you took the efficient route and just donated a portion of your salary to effective altruism-related causes. On your first day, your ward committeeman explains how things work.
 
@@ -95,7 +95,7 @@ As Election Day approaches, your get-out-the-vote operation shifts into full gea
 
 When you fantasized about time travel as a kid, you always thought you’d hang out with Socrates in ancient Greece, or maybe give the old kill Hitler thing a try. At the very least, you thought you’d at least get to meet your past self and tell them not to post that one YouTube video where they’re smoking salvia.
 
-Now it’s actually happened, and somehow all you want to do is secure a spot on Chicago’s City Council[[50]](#ftnt50). You’re ready: you’ve proven yourself as a loyal party volunteer, and maybe you’ve even spent some time as a ward committeeman yourself. The party agrees to slate you, and you win with barely any campaigning.
+Now it’s actually happened, and somehow all you want to do is secure a spot on Chicago’s City Council[[4]](#ftnt4). You’re ready: you’ve proven yourself as a loyal party volunteer, and maybe you’ve even spent some time as a ward committeeman yourself. The party agrees to slate you, and you win with barely any campaigning.
 
 A councilman’s job is so easy that it makes [being an Account Strategist at Google](https://www.tiktok.com/@julesmonica/video/7075516936813235502?lang=en) look like being an Alaskan crab fisherman. Unless you’re one of the mayor’s top two or three lackeys, you can pretty much get away with doing absolutely nothing. Here’s how the _Chicago Tribune_ described a typical council meeting in 1965:
 
@@ -109,7 +109,7 @@ If you don’t have to do any work or get any legislative influence, why do you 
 
 It also comes with de facto immunity from all but the most serious crimes. Case in point: longtime alderman Paddy Breuler once shot two cops in a bar fight—because, he claimed, they called him “a fat Dutch pig”—and suffered no consequences. (In his defense, he wasn’t even that fat.) Violence involving aldermen is common, as they often got themselves mixed up in various shady situations. That’s why in 1967, a newspaper reporter wrote: “This was a good year for the City Council. Only 4% of aldermen were shot.”
 
-One thing you almost certainly don’t want to do is use your seat as a springboard to state or national office. Almost without exception, machine politicians are incredibly parochial. To some degree, this is just a necessary trade-off: the do-nothing jobs and low-level corruption that flies in Chicago would be politically radioactive at the state or national level. But it’s also the rational move given your desires. If you care less about power, and more about money and social climbing within your community, then sticking to local politics is better. It provides more money-making opportunities and more of the direct connection with your constituents that you, as a social gadfly, thrive on[[51]](#ftnt51). One party politician explained why he didn’t care about higher office like so: “How many jobs does a U.S. Senator have to give out anyway?”
+One thing you almost certainly don’t want to do is use your seat as a springboard to state or national office. Almost without exception, machine politicians are incredibly parochial. To some degree, this is just a necessary trade-off: the do-nothing jobs and low-level corruption that flies in Chicago would be politically radioactive at the state or national level. But it’s also the rational move given your desires. If you care less about power, and more about money and social climbing within your community, then sticking to local politics is better. It provides more money-making opportunities and more of the direct connection with your constituents that you, as a social gadfly, thrive on[[5]](#ftnt5). One party politician explained why he didn’t care about higher office like so: “How many jobs does a U.S. Senator have to give out anyway?”
 
 Another reason you’re probably not interested in higher office has to do with your likely attitude. This is a stereotype, of course, and it doesn’t apply to everyone, but the truth is that you and most of your kind are just a parochial, local-minded guy. You’ll probably die in the same neighborhood you were born in, surrounded by fellow immigrants who share your background and ethnicity. It would never occur to you to move somewhere else. It might not even occur to you to take a vacation outside the state. You identify first with your neighborhood, then with Chicago, and only lastly with the United States as a whole.
 
@@ -121,9 +121,9 @@ As a result, out of 68 aldermen, only a handful are Republicans or independent-m
 
 **King Richard**
 
-The man you and your fellow aldermen are rubber-stamping for is Chicago’s longest-serving mayor, six-termer Richard J. Daley[[52]](#ftnt52). Daley didn’t create the machine, but he consolidated it and, in many ways, came to define it. Like you, he started as a ward committeeman and worked his way up through the system, becoming both mayor and, simultaneously, the head of the official party organization.
+The man you and your fellow aldermen are rubber-stamping for is Chicago’s longest-serving mayor, six-termer Richard J. Daley[[6]](#ftnt6). Daley didn’t create the machine, but he consolidated it and, in many ways, came to define it. Like you, he started as a ward committeeman and worked his way up through the system, becoming both mayor and, simultaneously, the head of the official party organization.
 
-Daley is the platonic ideal of a machine politician. He’s obsessed with his work and with Chicago—as a fellow lawmaker said, “Daley loves this city like you love your wife and kids. He considers Chicago _his_ city and he doesn’t want anyone else to screw it up.” His entire “personal life,” to the extent he can be said to have one, is based around Chicago politics: he has no friends, only constituents, and he sees them not as a faceless body politic but as individual people he can relate to one by one. He attends every parade, luncheon, or ribbon-cutting ceremony he can possibly get invited to, and he fucking loves it[[53]](#ftnt53).
+Daley is the platonic ideal of a machine politician. He’s obsessed with his work and with Chicago—as a fellow lawmaker said, “Daley loves this city like you love your wife and kids. He considers Chicago _his_ city and he doesn’t want anyone else to screw it up.” His entire “personal life,” to the extent he can be said to have one, is based around Chicago politics: he has no friends, only constituents, and he sees them not as a faceless body politic but as individual people he can relate to one by one. He attends every parade, luncheon, or ribbon-cutting ceremony he can possibly get invited to, and he fucking loves it[[7]](#ftnt7).
 
 Daley is pretty honest, at least by the standards of Chicago politicians—three of his four immediate predecessors had major corruption scandals. Sure, he engages in his fair share machine patronage: over 100 of his relatives have government jobs, and he gets a highway named for an old buddy with no notable political or civic accomplishments. But he doesn’t steal from the city or conspicuously enrich himself. In fact, throughout his whole mayoralty he lives in the same blue-collar area he grew up in.
 
@@ -143,9 +143,9 @@ If you can look past the party labels, the status quo actually isn’t too bad f
 
 On the rare occasion when an ambitious Republican politician in the city does gain some traction, the machine’s non-ideological nature means it can usually co-opt them by convincing them to switch parties. They won’t even have to change that many of their policy positions.
 
-Outside of the city limits, the machine isn’t even all that partisan. It only cares about Democratic victories in offices that are essential for its own self-perpetuation: it keeps an iron grip on the state attorney’s office, which could cause them legal trouble, but it doesn’t really care if the governor or president is a Republican[[54]](#ftnt54). To stay on good terms with national Republicans, the machine even has an official policy of supporting every president, regardless of party, on all issues not important to their local interests. Daley, for example, supported the Vietnam War to the very end, and was vocally against the _New York Times_ publishing the Pentagon Papers.
+Outside of the city limits, the machine isn’t even all that partisan. It only cares about Democratic victories in offices that are essential for its own self-perpetuation: it keeps an iron grip on the state attorney’s office, which could cause them legal trouble, but it doesn’t really care if the governor or president is a Republican[[8]](#ftnt8). To stay on good terms with national Republicans, the machine even has an official policy of supporting every president, regardless of party, on all issues not important to their local interests. Daley, for example, supported the Vietnam War to the very end, and was vocally against the _New York Times_ publishing the Pentagon Papers.
 
-Most importantly, though, Republican officeholders feared the unpredictable nature of political change. Once a reform wave gets going, who knows where it’ll end up? One day you’re Louis XVI, calling for a new constitution to solidify your power; the next day, a mob storms the Bastille and your head gets separated from your body. A predictable electorate benefits the insiders in both parties, and any change that pushes machine Democrats out of office might end up with Republican incumbents getting thrown out too. Even if such a change would benefit the Republican party in the long run, it’s not in the interests of any individual Republican officeholder[[55]](#ftnt55).
+Most importantly, though, Republican officeholders feared the unpredictable nature of political change. Once a reform wave gets going, who knows where it’ll end up? One day you’re Louis XVI, calling for a new constitution to solidify your power; the next day, a mob storms the Bastille and your head gets separated from your body. A predictable electorate benefits the insiders in both parties, and any change that pushes machine Democrats out of office might end up with Republican incumbents getting thrown out too. Even if such a change would benefit the Republican party in the long run, it’s not in the interests of any individual Republican officeholder[[9]](#ftnt9).
 
 ## Not With a Bang
 
@@ -187,118 +187,22 @@ Without a sense of the machine’s effectiveness at actually governing the city,
 
 Because ultimately, that’s what I wanted to know: were the trade-offs of machine politics in any way worth the results? Could we possibly bring back some of its positive elements without all the downsides? If a little more corruption and graft is what it takes to get there, that’s a trade I might be willing to make.
 
-I still don’t feel like I have the answer to that question, but I’m grateful to have learned more about what politics was like during other times in this country’s history. Such knowledge is always interesting, but it’s especially relevant today, when every election involves talk of American democracy itself being on the ballot. When I remind myself that “American democracy” has had many different meanings throughout this country’s short history, my nightmares are soothed. I may still have unanswered questions about the machine, but at least I’m sleeping better. 
+I still don’t feel like I have the answer to that question, but I’m grateful to have learned more about what politics was like during other times in this country’s history. Such knowledge is always interesting, but it’s especially relevant today, when every election involves talk of American democracy itself being on the ballot. When I remind myself that “American democracy” has had many different meanings throughout this country’s short history, my nightmares are soothed. I may still have unanswered questions about the machine, but at least I’m sleeping better.
 
-* * *
+[[1]](#ftnt_ref1) This also means the book is much less well-sourced than the typical work of political science. Although the author interviewed many machine politicians, every single one of them declined to be named.
 
-[[1]](#ftnt_ref1) Chapter 4 - Name
+[[2]](#ftnt_ref2) Two other factors contribute to the disproportionate Irish representation in Chicago and other cities. First, many of the first wave of immigrants ran local gathering places like bars and taverns, which gave them a head start forming local connections. Secondly, as non-continental Europeans, the Irish were mostly immune from the factional rivalries and prejudices that many other immigrants brought over from the continent.
 
-[[2]](#ftnt_ref2) Chapter 5 - Role
+[[3]](#ftnt_ref3) And they are all men. The term won’t be officially changed to the more gender-neutral “committeeperson” until… wait for it… _2018_.
 
-[[3]](#ftnt_ref3) Chapter 14 - Villian
+[[4]](#ftnt_ref4) I’ve oversimplified things for this review. In reality, the path wasn’t always so linear: you might want to hold an administrative office like treasurer or county assessor, which were actually the seats of significant power.
 
-[[4]](#ftnt_ref4) One of the darkest notes of irony was that the _Essex_’s crew had the opportunity to sail for either the Marquesas Islands or the Society Islands, which were relatively close at hand, but did not—for fear of the islanders being cannibals. This was an incorrect assumption; the islanders of the time were actually very friendly to the crew of passing ships.
+[[5]](#ftnt_ref5) This is decidedly no longer true today, when national politicians can use the internet and social media to connect directly with their constituents, and can easily get rich once leaving office with a cushy think-tank job or a spot as a TV commentator.
 
-[[5]](#ftnt_ref5) I realize now that this is perhaps a macabre digression for what’s supposed to be a review of a cookbook.
+[[6]](#ftnt_ref6) His record will later be beaten by his son, Richard M. Daley, who also served six terms (from 1989–2011), but who’ll slightly outlast his father by not dying in office before his last term is up.
 
-[[6]](#ftnt_ref6) The Wikipedia article highlights several amusing blunders which can be verified for one’s self. My favorite is how, on the same page, we are told that the tomato is “a wholesome fruit, and digests easily” but then in the next paragraph the tomato is denounced for its “disagreeable odour, and its juice, subjected to the action of the fire, emits a vapour so powerful as to cause vertigo and vomiting.” Make up your mind, Mrs. Beeton!
+[[7]](#ftnt_ref7) He’s also incredibly uncharismatic and a notoriously poor speaker. Way before George W. Bush, Daley was a master of malapropisms, like the time he addressed a meeting of the League of Women Voters as “ladies and gentlemen.”
 
-[[7]](#ftnt_ref7) Alternately spelled [penuche](https://en.wikipedia.org/wiki/Penuche), a confection similar to fudge or tablet.
+[[8]](#ftnt_ref8) In forty years, machine Democrats only lost control of the state attorney’s office twice, and once was when they renominated someone who had already been indicted for hiding evidence.
 
-[[8]](#ftnt_ref8) Murderbot uses the pronouns ‘it/its’ to refer to itself. Following this convention, that and which are also used as pronouns throughout
-
-[[9]](#ftnt_ref9) https://reactormag.com/murderbot-an-autistic-coded-robot-done-right/
-
-[[10]](#ftnt_ref10) Botha, M., & Cage, E. (2022). "Autism research is in crisis": A mixed method study of researcher's constructions of autistic people and autism research. _Frontiers in psychology_, _13_, 1050897. https://doi.org/10.3389/fpsyg.2022.1050897
-
-[[11]](#ftnt_ref11) https://middletownpubliclib.org/wp-content/uploads/2020/09/Interview-with-Martha-Wells.pdf
-
-[[12]](#ftnt_ref12) https://www.polygon.com/24132068/someone-you-can-build-a-nest-in-john-wiswell-author-interview
-
-[[13]](#ftnt_ref13) Try searching  Murderbot in r/autism
-
-[[14]](#ftnt_ref14) In this case and all subsequent cases, when I quote from the book I will duplicate its footnotes:  
-  
-In 1946, Congress passed the National Mental Health Act. Between 1946 and 1960, membership in the American Psychological Association ballooned from 4,173 to 18,215. Moskowitz, In Therapy We Trust, 154.
-
-[[15]](#ftnt_ref15) Furedi, Frank, Therapy Culture: Cultivating Vulnerability in an Uncertain Age (New York: Routledge, 2004), 10.
-
-[[16]](#ftnt_ref16) “Statista Research Department, “Total U.S. Expenditure for Mental Health Services 1986–2020,” 2023, Statista, [www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services](http://www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services) 
-
-[[17]](#ftnt_ref17) Ormel, Johan, et al., “More Treatment but No Less Depression: The Treatment-Prevalence Paradox,” Clinical Psychology Review 91 (February 2022) 102111, [https://pubmed.ncbi.nlm.nih.gov/34959153](https://pubmed.ncbi.nlm.nih.gov/34959153).
-
-[[18]](#ftnt_ref18) Ormel et al., “More Treatment but No Less Depression.
-
-[[19]](#ftnt_ref19) See, for example, Ormel, Johan, and Michael VonKorff, “Reducing Common Mental Disorder Prevalence in Populations,” JAMA Psychiatry 78 no. 4 (April 2021): 359–60, [https://pubmed.ncbi.nlm.nih.gov/33112374](https://pubmed.ncbi.nlm.nih.gov/33112374).
-
-[[20]](#ftnt_ref20) It’s important to note that the authors looked at point prevalence, not lifetime prevalence. Point prevalence is the signal rate in this context. After all, if someone had had a depressive episode twenty years earlier, that would count in “lifetime prevalence” but not provide an accurate marker of whether the last twenty years of psychiatric gains had made a dent in rates of depression.
-
-[[21]](#ftnt_ref21) Therapy as treatment for trauma is not the only kind of therapy, but it’s the area Shrier spends all of her time on, so that’s where we’ll be focusing as well.
-
-[[22]](#ftnt_ref22) Between 1950 and 1988, the proportion of adolescents aged between fifteen and nineteen who killed themselves quadrupled,” The New Yorker reported. Andrew Solomon, “The Mystifying Rise of Child Suicide,” The New Yorker, April 4, 2022, [www.newyorker.com/magazine/2022/04/11/the-mystifying-rise-of-child-suicide](http://www.newyorker.com/magazine/2022/04/11/the-mystifying-rise-of-child-suicide).
-
-[[23]](#ftnt_ref23) Whitaker, Robert, Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America (New York: Crown, 2010), 8.
-
-[[24]](#ftnt_ref24) Whitaker, Anatomy of an Epidemic, 8.
-
-[[25]](#ftnt_ref25) Suicide Risk Screening Tool,” National Institute of Mental Health Toolkit, accessed August 6, 2023, [https://www.nimh.nih.gov/sites/default/files/documents/research/research-conducted-at-nimh/asq-toolkit-materials/asq-tool/screening\_tool\_asq\_nimh\_toolkit.pdf](https://www.nimh.nih.gov/sites/default/files/documents/research/research-conducted-at-nimh/asq-toolkit-materials/asq-tool/screening_tool_asq_nimh_toolkit.pdf).
-
-[[26]](#ftnt_ref26) As one school in Illinois put it: “SEL is more than a process, a methodology, a curriculum—it is a way of life.” “Social Emotional Learning,” Stevenson High School, accessed September 16, 2023, [https://www.d125.org/about/sel](https://www.d125.org/about/sel).
-
-[[27]](#ftnt_ref27) $1.72 billion spent in social-emotional learning educational materials alone. “United States Social and Emotional Learning (SEL) Market Report 2022: Instructional Materials were $1.72 Billion, up 25.9% Y-o-Y and are Forecast to Increase at a Lower Rate in 2023-2024,” GlobeNewswire, November 17, 2022, [www.globenewswire.com/news-release/2022/11/17/2557934/0/en/United-States-Social-and-Emotional-Learning-SEL-Market-Report-2022-Instructional-Materials-were-1-72-Billion-up-25-9-Y-o-Y-and-are-Forecast-to-Increase-at-a-Lower-Rate-in-2023-2024.html](http://www.globenewswire.com/news-release/2022/11/17/2557934/0/en/United-States-Social-and-Emotional-Learning-SEL-Market-Report-2022-Instructional-Materials-were-1-72-Billion-up-25-9-Y-o-Y-and-are-Forecast-to-Increase-at-a-Lower-Rate-in-2023-2024.html); Krachman, Sara Bartolino, et al., “Accounting for the Whole Child,” ASCD, February 1, 2018, [https://www.ascd.org/el/articles/accounting-for-the-whole-child](https://www.ascd.org/el/articles/accounting-for-the-whole-child).
-
-[[28]](#ftnt_ref28) Langreo, Lauraine, “How Much Time Should Schools Spend on Social-Emotional Learning?,” Education Week, May 24, 2022, [https://www.edweek.org/leadership/how-much-time-should-schools-spend-on-social-emotional-learning/2022/05](https://www.edweek.org/leadership/how-much-time-should-schools-spend-on-social-emotional-learning/2022/05).
-
-[[29]](#ftnt_ref29) “An important difference between SEL and character education is that some character education approaches are focused on developing morally responsible youth, and that is not the defining characteristic of SEL. It is important to make that distinction. Teaching morals and values can raise concerns about whether they can be changed, and whether instruction is the responsibility of families or schools.” Kim Gulbrandson, “Character Education and SEL: What You Should Know,” July 6, 2018, Committee for Children, [www.cfchildren.org/blog/2018/07/character-education-and-sel-what-you-should-know](http://www.cfchildren.org/blog/2018/07/character-education-and-sel-what-you-should-know).
-
-[[30]](#ftnt_ref30) Name changed to avoid embarrassing a teacher who was just doing precisely what her administrators directed.
-
-[[31]](#ftnt_ref31) And to be clear, it’s not all pseudo-therapy, while there's more than enough harm being caused by people with no licensing and very little training, there are also plenty of school psychologists, and I’ve seen no evidence that they act to mediate these practices, rather they seem to participate just as vigorously as those who haven’t been extensively trained.
-
-[[32]](#ftnt_ref32) Carlier, Ingrid V. E., et al., “Disaster-Related Post-Traumatic Stress in Police Officers: A Field Study of the Impact of Debriefing,” Stress Medicine 14, no. 3 (1998): 143–48, [https://doi.org/10.1002/(SICI)1099-1700(199807)14:3<143::AID-SMI770>3.0.CO;2-S](https://doi.org/10.1002/(SICI)1099-1700(199807)14:3).
-
-[[33]](#ftnt_ref33) Berk, Michael, et al., “The Elephant on the Couch: Side-Effects of Psychotherapy,” Australian and New Zealand Journal of Psychiatry (January 2009): 789, [https://doi.org/10.1080/00048670903107559](https://doi.org/10.1080/00048670903107559).
-
-[[34]](#ftnt_ref34) Helgeson, Vicki S., et al., “Education and Peer Discussion Group Interventions and Adjustment to Breast Cancer,” Archives of General Psychiatry 56, no. 4 (1999): 340–47, [https://jamanetwork.com/journals/jamapsychiatry/article-abstract/1152701](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/1152701).
-
-[[35]](#ftnt_ref35) Brody, Jane E., “Often, Time Beats Therapy for Treating Grief,” New York Times, January 27, 2004. See also Neimeyer, R.A., “Searching for the Meaning of Meaning: Grief Therapy and the Process of Reconstruction,” Death Studies 24, no. 6 (September 2000): 541–58, https://doi.org/10.1080/07481180050121480.
-
-[[36]](#ftnt_ref36) Bonanno, George A, The Other Side of Sadness: What the New Science of Bereavement Tells Us About Life After Loss (New York: Basic Books, 2009). See also Pinker, Susan, “Exercise Can Be the Best Antidepressant,” Wall Street Journal, March 23, 2023, [www.wsj.com/articles/exercise-can-be-the-best-antidepressant-5101a538?mod=e2tw](http://www.wsj.com/articles/exercise-can-be-the-best-antidepressant-5101a538?mod=e2tw). (“New research finds that as little as 12 weeks of regular exercise can alleviate symptoms of depression as effectively as medication.”)
-
-[[37]](#ftnt_ref37) The hospital was renamed D.C. General Hospital in 1953. In 2001, it closed. See “Gallinger Municipal Hospital Psychopathic Ward,” Wikipedia, accessed September 17, 2023, [https://en.wikipedia.org/wiki/Gallinger\_Municipal\_Hospital\_Psychopathic\_Ward](https://en.wikipedia.org/wiki/Gallinger_Municipal_Hospital_Psychopathic_Ward).
-
-[[38]](#ftnt_ref38) Estrada, Louie, “Bess Lavine, Half of Mother-Daughter Judge Team, Dies at 94,” Washington Post, October 5, 2022, [www.washingtonpost.com/obituaries/2022/10/05/bess-lavine-prince-georges-judge-dead](http://www.washingtonpost.com/obituaries/2022/10/05/bess-lavine-prince-georges-judge-dead).
-
-[[39]](#ftnt_ref39) Later made into a much shorter story you may have heard of called _[Harrison Bergeron](https://www.tnellen.com/cybereng/harrison.html)_
-
-[[40]](#ftnt_ref40) You, reader. I’m talking about you.
-
-[[41]](#ftnt_ref41) In typical Bokonon fashion, he can’t help adding “and so am I.”
-
-[[42]](#ftnt_ref42) In hindsight, I really should have known I was not cut out for monogamy back in my teenage years when I first read this. I was always completely on Mona’s side!
-
-[[43]](#ftnt_ref43) If you ask the Internet or an LLM why there are so many languages in these places, you will essentially be told “geography”. But no geography is an egg carton, hopelessly cordoning off small groups from one another! What, the rivers were too wide for raping and pillaging and conquering? That doesn’t sound like us. In addition to Dunbar’s own work on group-splits at 150, here’s additional evidence for my extended-stuck-at-150-era proposal, from Ara Norenzayan’s 2013 _Big Gods: How Religion Transformed Cooperation and Conflict_, pg 126. “Limits to group size are demonstrated also in the ethnographic work among the Arapesh, in remote parts of New Guinea, where villages routinely split once they exceed about 300 people (or 150 adults). The anthropologist Donald Tuzin reports on the historical emergence of an anomalous village of 1,500 people, and explains how additional cultural norms sustaining social organization, marriage, rituals and morally involved supernatural agents converged to galvanize cooperation in a locale where this scale was previously unknown.” The work being cited is “Groups fissure in New Guinea”: Tuzin, 2001. So the splitting-at-150 phenomenon was still happening in remote parts of New Guinea in or near the 21st century, and may still be, for all I know.
-
-[[44]](#ftnt_ref44) [This one from 2010 on depression](https://www.youtube.com/watch?v=NOAgplgTxfc) was so popular that Sapolsky did [an extended, updated](https://www.youtube.com/watch?v=fzUXcBTQXKM) [version](https://www.youtube.com/watch?v=fzUXcBTQXKM) of it in 2023. Highly recommended.
-
-[[45]](#ftnt_ref45) Benjamin Libet demonstrated in 1983 that simple decisions are made in the unconscious mind milliseconds before we become aware of “making them” in consciousness. We’re still arguing about what that means today.
-
-[[46]](#ftnt_ref46) The raw data for this claim is from _[Race & Economics: How Much Can Be Blamed on Discrimination](https://www.amazon.com/Race-Economics-Discrimination-Institution-Publication/dp/0817912452)_ by Walter E. Williams, Table 3.2
-
-[[47]](#ftnt_ref47) This also means the book is much less well-sourced than the typical work of political science. Although the author interviewed many machine politicians, every single one of them declined to be named.
-
-[[48]](#ftnt_ref48) Two other factors contribute to the disproportionate Irish representation in Chicago and other cities. First, many of the first wave of immigrants ran local gathering places like bars and taverns, which gave them a head start forming local connections. Secondly, as non-continental Europeans, the Irish were mostly immune from the factional rivalries and prejudices that many other immigrants brought over from the continent.
-
-[[49]](#ftnt_ref49) And they are all men. The term won’t be officially changed to the more gender-neutral “committeeperson” until… wait for it… _2018_.
-
-[[50]](#ftnt_ref50) I’ve oversimplified things for this review. In reality, the path wasn’t always so linear: you might want to hold an administrative office like treasurer or county assessor, which were actually the seats of significant power.
-
-[[51]](#ftnt_ref51) This is decidedly no longer true today, when national politicians can use the internet and social media to connect directly with their constituents, and can easily get rich once leaving office with a cushy think-tank job or a spot as a TV commentator.
-
-[[52]](#ftnt_ref52) His record will later be beaten by his son, Richard M. Daley, who also served six terms (from 1989–2011), but who’ll slightly outlast his father by not dying in office before his last term is up.
-
-[[53]](#ftnt_ref53) He’s also incredibly uncharismatic and a notoriously poor speaker. Way before George W. Bush, Daley was a master of malapropisms, like the time he addressed a meeting of the League of Women Voters as “ladies and gentlemen.”
-
-[[54]](#ftnt_ref54) In forty years, machine Democrats only lost control of the state attorney’s office twice, and once was when they renominated someone who had already been indicted for hiding evidence.
-
-[[55]](#ftnt_ref55) The one powerful Republican who did try to break the machine was the notoriously vengeful Richard Nixon, who was convinced that Chicago Democrats had stolen Illinois, and thus the presidency, in the 1960 election he lost to JFK. His Justice Department managed to get some machine politicians on corruption charges, but it wasn’t enough to shake the overall system, since most of the ways the machine maintained power weren’t technically illegal.
+[[9]](#ftnt_ref9) The one powerful Republican who did try to break the machine was the notoriously vengeful Richard Nixon, who was convinced that Chicago Democrats had stolen Illinois, and thus the presidency, in the 1960 election he lost to JFK. His Justice Department managed to get some machine politicians on corruption charges, but it wasn’t enough to shake the overall system, since most of the ways the machine maintained power weren’t technically illegal.

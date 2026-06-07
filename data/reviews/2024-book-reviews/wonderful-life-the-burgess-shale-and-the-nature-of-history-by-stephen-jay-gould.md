@@ -204,7 +204,7 @@ First of all, to be clear, broad forces of history abound, less than academic hi
 
 Take the two most important figures of the civil rights movement: Martin Luther King, Jr. and Lyndon Johnson. Ask most people whether we’d be living with southern _de jure_ apartheid in the United States past the 1960s without those two historical figures and I’d bet many, if not most, would say yes.
 
-Personally, I’d put my money on no. Take away those two and I bet the Civil Rights Act of 1965 and Voting Rights Act, in some form, both pass in the 1960s. It was the biggest issue of the day with two-thirds public support. It was a national embarrassment at the height of America’s Cold War rivalry with the Soviet Union. MLK was surrounded by other competent, notable Black activist leaders, and LBJ by other powerful civil rights-supporting politicians. I just don’t see these two individuals as the choke points of history here.[[90]](#ftnt90)
+Personally, I’d put my money on no. Take away those two and I bet the Civil Rights Act of 1965 and Voting Rights Act, in some form, both pass in the 1960s. It was the biggest issue of the day with two-thirds public support. It was a national embarrassment at the height of America’s Cold War rivalry with the Soviet Union. MLK was surrounded by other competent, notable Black activist leaders, and LBJ by other powerful civil rights-supporting politicians. I just don’t see these two individuals as the choke points of history here.[[1]](#ftnt1)
 
 But what Gould argues through case study is that the Cambrian explosion and subsequent, massive pruning of diversity was one critical node where the ancestors of everything living today survived by the logic of contingency, rather than any general rule.
 
@@ -235,3 +235,5 @@ Gould writes that he finds this exhilarating. He’s grateful he’s alive. It�
 Though I suppose it’s possible you’re miserable and history’s contingencies, like dominoes since the dawn of time, have led to this unlikely moment.
 
 In which case: I’m sorry this happened to you.
+
+[[1]](#ftnt_ref1) The details matter, though, to millions of people. Would the Civil Rights Act of 1968, which protected against housing discrimination, have passed with a different set of politicians and activists? That seems way more doubtful.

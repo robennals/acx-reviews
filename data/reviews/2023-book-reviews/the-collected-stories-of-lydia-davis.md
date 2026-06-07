@@ -161,3 +161,11 @@ Over the next few years, I'm going to have to weigh the right dose of AI efficie
 ### Final "?"
 
 Should this review have been disqualified from the contest? Many texts using GPT have already been disqualified from contests, but... would this type of review have been possible without GPT? What was your opinion before you read it? And after reading it?
+
+[[1]](#ftnt_ref1) Follow this Erik Hoel, he won a review contest last year.
+
+[[2]](#ftnt_ref2) By the way, this is what ChatGPT thinking as the weakest points of my review:  
+  
+_The review of "The Collected stories of Lydia Davis" appears to be a positive review with very few critical comments. However, there are no obvious weaknesses in the review as it appears to be well-written and provides detailed insights into the collection of stories. The reviewer appears to be well-versed in the author's work and has provided specific examples of the author's style and content, including examples of the author's moral perspectives and the philosophical ideas expressed in the collection. Overall, the review is well-balanced and informative, providing an honest evaluation of the author's work._  
+  
+Not sure if happy because there are no obvious weak points or sad because it is even clearer that I have said nothing new.

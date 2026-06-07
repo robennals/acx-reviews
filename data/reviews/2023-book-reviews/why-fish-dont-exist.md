@@ -128,4 +128,20 @@ _Why Fish Don’t Exist_ uses “giving up the fish” as a metaphor for looking
 
 So, what will _you_ get when you give up the fish?
 
-* * *
+[[1]](#ftnt_ref1) Jordan’s own score on the [Puritan checklist](https://slatestarcodex.com/2019/03/12/puritan-spotting/) is a respectable 27, by my count. +1 for upstate NY, +1 for four siblings, +2 for weird Biblical names in family, +3 for achievements in diverse
+
+fields, +3 Wrote [a book about heterodox religious views](https://books.google.com/books/about/The_Religion_of_a_Sensible_American.html?id=lHwiPQAACAAJ), +3 for really weird books, +3 Social reformer, +3 Supported Prohibition, +3 Founded their own school (I’m going to count Stanford), +3 Ideals that were utopian yet racist, +1 Pacifist yet war supporter (though not “rabidly”, so doesn’t earn +3). +1 for [moderately weird hair](https://www.archives.gov/files/nhprc/images/jordan.jpg).
+
+[[2]](#ftnt_ref2) She died of pneumonia in 1885; in 1887, Jordan re-married, to a 21-year old student at Indiana University
+
+[[3]](#ftnt_ref3) And today there’s a strong push to remove Agassiz’s name from things, for example from [a neighborhood in Cambridge MA](https://www.thecrimson.com/article/2020/2/12/city-approves-agassiz-rename-resolution/).
+
+[[4]](#ftnt_ref4) Crucially, a **small** amount. Here, the author takes some humorous jabs at Angela Duckworth’s concept that “grit” and self-esteem can overcome anything.
+
+[[5]](#ftnt_ref5) For a good review of the science and its social implications, see _[The Genetic Lottery](https://press.princeton.edu/books/hardcover/9780691190808/the-genetic-lottery)_, a recent book by Kathryn Paige Harden.
+
+[[6]](#ftnt_ref6) I was convinced to support [longtermism](https://www.williammacaskill.com/longtermism) by a similar argument.
+
+[[7]](#ftnt_ref7) Latin: “ladder of nature”. Is the [Tierzoo Youtube channel](https://www.youtube.com/c/tierzoo), which I have greatly enjoyed, a slippery slope towards eugenics?
+
+[[8]](#ftnt_ref8) But not bees. [Sorry, California](https://www.americanbar.org/groups/environment_energy_resources/publications/trends/2022-2023/november-december-2022/a-california-court-decision/).

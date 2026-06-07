@@ -82,3 +82,9 @@ The litany of rich and individuated characters in the series cannot be overstate
 Given the way in which the world-building is both deep and multifaceted, the cast of characters is vast and complex, and the web serial format, the works I would most compare PGtE to are[Worm](https://parahumans.wordpress.com/) and _[UNSONG](https://unsongbook.com/)_.  Wildbow, the author of _Worm_, was unquestionably a better writer than EE at the start of the series, but even _Worm_ takes a few “arcs” to get really Good, and PGtE also has this earlier “slog” pay off immensely in the end.  _UNSONG_, by contrast, is well-written and immensely enjoyable throughout, but doesn’t have the same story synergy that makes the book seem Even Better once you have completed it.  In a purely utils-per-word sense, _UNSONG_ also can’t hold a candle to some of Scott’s short stories.  PGtE, by contrast, seems to get continuously better in all aspects as the books go on.  Mechanically, this makes sense as EE was improving their craft continuously, but in-story it also makes sense as characters reflecting on their knowledge and experience literally makes them Better at affecting their world.  
 
 So, if you begin_A Practical Guide to Evil_ and it does not hook you for the first few chapters, that’s somewhat understandable.  But if you see potential in it, I can attest that you’ll be well-rewarded.
+
+[[1]](#ftnt_ref1) Chapter 4 - Name
+
+[[2]](#ftnt_ref2) Chapter 5 - Role
+
+[[3]](#ftnt_ref3) Chapter 14 - Villian

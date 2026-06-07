@@ -41,7 +41,7 @@ Composed in 1832,
 
 Then ten years on rewritten anew,
 
-I chose the second to review[[49]](#ftnt49)
+I chose the second to review[[1]](#ftnt1)
 
 (The version I already knew)
 
@@ -225,7 +225,7 @@ As for culture, it belongs
 
 Within the great Arthurian throng
 
-Born of the Mabinogion[[50]](#ftnt50),
+Born of the Mabinogion[[2]](#ftnt2),
 
 A fandom that goes on and on,
 
@@ -255,7 +255,7 @@ About the scenes which were made up
 
 (which frankly is ridiculous.
 
-Pots and kettles, mate!)[[51]](#ftnt51).
+Pots and kettles, mate!)[[3]](#ftnt3).
 
 And since then the poem's shaped
 
@@ -299,7 +299,7 @@ Turning to my own history,
 
 Way back when I was just fourteen
 
-My English teacher, Miss McGee[[52]](#ftnt52),
+My English teacher, Miss McGee[[4]](#ftnt4),
 
 Had made a bet with Upper Three
 
@@ -348,3 +348,11 @@ I think in meter all the time,
 So here I'll draw my final line
 
 'neath the Lady of Shalott.
+
+[[1]](#ftnt_ref1) The versions are very similar, but to my mind the rhyme and meter are better in version two, and it's basically an improvement on version one, so that's the one I chose to review here. Forgive me for not putting the footnotes in verse as well.
+
+[[2]](#ftnt_ref2) Y Goddoddin is technically the first literature to mention Arthur (~7th-11th century), but that is just a reference in one line and the Mabinogion (12th-13th century) has much more story-wise. Besides, I couldn't resist the rhyme.
+
+[[3]](#ftnt_ref3) William Holman Hunt painted the Lady entangled in the threads of her tapestry as she turns to look at Lancelot, trying to capture the whole poem in one image (her "weird fate"). Tennyson complained that the scene was not what the poem described, which didn't stop Hunt painting it again, much larger, later in life. He was really fascinated by the concept, which I think is a real compliment to Tennyson's poem. I also think it's pretty rich for Tennyson to whinge about artistic licence given everything he changed about the scanty accounts of Elaine of Astolat/Escalot.
+
+[[4]](#ftnt_ref4) Yes, this is anonymised. Yes, I picked it to rhyme, come on, what did you expect?
