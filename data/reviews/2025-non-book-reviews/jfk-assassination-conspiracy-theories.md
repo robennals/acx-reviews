@@ -26,7 +26,7 @@ Conspiracy theories may have been born in ancient Persia, but it’s America tha
 
 You could even say the United States itself was founded on a conspiracy theory: the Founding Fathers wove a tale of powerful elites (King George) secretly plotting against ordinary people (the colonists) to advance a villainous scheme (subjugate them through oppressive taxation and military control). As with many conspiracy theories, there’s a kernel of truth to this story—but the reality is that what the founders interpreted (or spun) as a deliberate plot against them was really just a patchwork of clumsy, improvised policies from a disorganized British government.
 
-If conspiracy theories are the Great American Art Form, there’s no question as to which is the canonical work of art—our _Kind of Blue_, _West Side Story_, Superman, and _Illmatic_ all rolled into one: the theories surrounding the 1963 assassination of our third-best president named “John,” John Fitzgerald Kennedy[[1]](#h.fjbrhtbnats5). The belief that Lee Harvey Oswald didn’t act alone is the country’s most widely-believed conspiracy theory—if, indeed, it even _is_ a conspiracy theory—sustained across generations and deeply woven into American cultural memory through countless books, movies, and TV shows.
+If conspiracy theories are the Great American Art Form, there’s no question as to which is the canonical work of art—our _Kind of Blue_, _West Side Story_, Superman, and _Illmatic_ all rolled into one: the theories surrounding the 1963 assassination of our third-best president named “John,” John Fitzgerald Kennedy[^1]. The belief that Lee Harvey Oswald didn’t act alone is the country’s most widely-believed conspiracy theory—if, indeed, it even _is_ a conspiracy theory—sustained across generations and deeply woven into American cultural memory through countless books, movies, and TV shows.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/e69eee24dfe80409.jpg)
 
@@ -46,17 +46,17 @@ _Kennedy: “No, you certainly can’t.”_
 
 _—JFK’s last words_
 
-On November 22, 1963, President Kennedy took a break from his busy schedule of shooting amphetamines[[2]](#h.hhkgz55hu67q), hiding his medical issues from the American public[[3]](#h.iutwippop5l6), and taking teenagers’ virginities in the White House[[4]](#h.5icsy6s8fubs) to campaign in Texas—which, if you can believe it, was a swing state back then. To secure reelection, Kennedy needed to preserve a fragile coalition of conservative Southern racists and liberal Northern industrialists, a political marriage of convenience already strained even by his tepid, cautious support for civil rights.
+On November 22, 1963, President Kennedy took a break from his busy schedule of shooting amphetamines[^2], hiding his medical issues from the American public[^3], and taking teenagers’ virginities in the White House[^4] to campaign in Texas—which, if you can believe it, was a swing state back then. To secure reelection, Kennedy needed to preserve a fragile coalition of conservative Southern racists and liberal Northern industrialists, a political marriage of convenience already strained even by his tepid, cautious support for civil rights.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/92bfbf71c998de4b.png)
 
 “So I campaigned in Texas, which was a swing state at the time…”
 
-As part of this Texas tour, Kennedy was riding in an open-top motorcade through Dallas’ Dealey Plaza, with the Secret Service—at Kennedy’s insistence—following in a second car rather than riding with him[[5]](#h.la3olvqf87v). At 12:30pm, three shots were fired. Kennedy was hit twice, once in the neck and once in the head. He was rushed to the nearby Parkland Memorial Hospital and pronounced dead thirty minutes later. Texas Governor John Connally, also in the motorcade, was hit in the back, but survived with no long-term injuries.
+As part of this Texas tour, Kennedy was riding in an open-top motorcade through Dallas’ Dealey Plaza, with the Secret Service—at Kennedy’s insistence—following in a second car rather than riding with him[^5]. At 12:30pm, three shots were fired. Kennedy was hit twice, once in the neck and once in the head. He was rushed to the nearby Parkland Memorial Hospital and pronounced dead thirty minutes later. Texas Governor John Connally, also in the motorcade, was hit in the back, but survived with no long-term injuries.
 
 In a nearby building, police found a gun owned by Lee Harvey Oswald, a local delinquent and prime example of why you should never trust someone with three first names. Oswald managed to leave the scene of the crime without arousing suspicion, then shot and killed a nearby policeman over a minor altercation. He once again escaped without getting caught, only to finally, after all that, get busted for the comically small-scale crime of sneaking into a movie theater without paying. He was arrested at 1:36pm and immediately denied masterminding the assassination, famously claiming “I’m just a patsy.”
 
-Two days later, an eccentric Dallas nightclub owner and Kennedy superfan named Jack Ruby[[6]](#h.yhnkcbokz32z) emerged from a crowd of reporters in Dallas Police Headquarters, where Oswald was being transferred to county jail, and fired a single, fatal shot. The entire thing was captured on live television, in an unprecedented moment in American broadcast history: the first time a murder was witnessed in real time by the general public.
+Two days later, an eccentric Dallas nightclub owner and Kennedy superfan named Jack Ruby[^6] emerged from a crowd of reporters in Dallas Police Headquarters, where Oswald was being transferred to county jail, and fired a single, fatal shot. The entire thing was captured on live television, in an unprecedented moment in American broadcast history: the first time a murder was witnessed in real time by the general public.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/9900219f368fd93a.jpg)
 
@@ -68,7 +68,7 @@ One week later, new President Lyndon B. Johnson established the Warren Commissio
 
 Notably, of the Commission’s seven members, three—Senators Richard Russell and John Sherman, and Representative Hale Boggs—are now known to have had internal misgivings about their own report. None of them fully bought the single-bullet theory, but the White House pressured them into signing on, despite the fact that LBJ himself [secretly doubted](https://www.latimes.com/archives/la-xpm-1994-04-16-mn-46511-story.html?utm_source=chatgpt.com) the theory as well.
 
-The Warren Commission’s compromised and unsatisfying report completely failed to quell public speculation about the assassination. Another report—that of the House Select Committee on Assassinations (HSCA), released fifteen years later in 1979—muddled the picture even further, concluding that there was a “high probability” of a second gunman and that Kennedy was “probably assassinated as the result of a conspiracy,” though, paradoxically, it also explicitly ruled out every common conspiracy theory[[7]](#h.rx1wjgdmkeef).
+The Warren Commission’s compromised and unsatisfying report completely failed to quell public speculation about the assassination. Another report—that of the House Select Committee on Assassinations (HSCA), released fifteen years later in 1979—muddled the picture even further, concluding that there was a “high probability” of a second gunman and that Kennedy was “probably assassinated as the result of a conspiracy,” though, paradoxically, it also explicitly ruled out every common conspiracy theory[^7].
 
 Every generation of history nerds and conspiracy diehards has clung to hope that some future document dump will finally crack the case—and every generation has been disappointed. Donald Trump’s much-hyped declassification order earlier this year ended up revealing almost nothing new, and at this point, barely any relevant documents remain unreleased. It seems probable that we’ll never know with 100% certainty what happened.
 
@@ -88,7 +88,7 @@ So the CIA had plenty of reasons to dislike Kennedy. But did they dislike him en
 
 One person who suspected they might was Attorney General/nepo brother Robert F. Kennedy, whose first move after the assassination was to give CIA a call to directly ask if they were involved. (What exactly did he expect—that they’d pick up the phone and be like, “Guilty as charged, Bobby, our bad!”) During his own presidential campaign, he told associates that if he won, he planned to reopen the investigation into his brother’s assassination. At times, Lyndon Johnson also speculated that the CIA might have had something to do with it.
 
-As with most of these theories, there is no single definitive version of the CIA hypothesis, but the general idea is that the agency, or rogue elements within, used Oswald to eliminate Kennedy because they saw him as a threat to their own interests. The highest-profile public believer in this theory was New Orleans District Attorney Jim Garrison, who in 1966 charged businessman and part-time CIA contact Clay Shaw with being part of the conspiracy—in a case that’s now regarded as an embarrassing overreach by a hot-headed, media-hungry prosecutor. Shaw was acquitted of all charges in less than an hour of jury deliberation, and a federal judge later ruled that the charges against him had been brought in bad faith. He remains the only person ever charged in connection with the Kennedy assassination[[8]](#h.tjqdxak0ccsz).
+As with most of these theories, there is no single definitive version of the CIA hypothesis, but the general idea is that the agency, or rogue elements within, used Oswald to eliminate Kennedy because they saw him as a threat to their own interests. The highest-profile public believer in this theory was New Orleans District Attorney Jim Garrison, who in 1966 charged businessman and part-time CIA contact Clay Shaw with being part of the conspiracy—in a case that’s now regarded as an embarrassing overreach by a hot-headed, media-hungry prosecutor. Shaw was acquitted of all charges in less than an hour of jury deliberation, and a federal judge later ruled that the charges against him had been brought in bad faith. He remains the only person ever charged in connection with the Kennedy assassination[^8].
 
 Believers in the CIA theory often cite the agency’s sketchy behavior in the aftermath of the assassination. The CIA certainly acted like it had something to hide—because it did. But it wasn’t hiding a role in Kennedy’s murder. Rather, the CIA was desperate to conceal its string of cloak-and-dagger plots to assassinate Fidel Castro. These probably-unlawful schemes, which tended to fail in comically embarrassing ways, made the agency look both sinister and incompetent. Compounding the problem, it turns out the CIA had long been monitoring Oswald, but had utterly failed to flag him as a potential threat.
 
@@ -110,7 +110,7 @@ In the heated atmosphere of the Cold War, Communist plots tended to become the d
 
 Believers in this theory point to a quietly unsettling reality: the U.S. government really, really didn’t want to find out that the Soviets had done it. Johnson’s administration feared that accusing Moscow—especially without proof, but possibly even with it—could escalate into nuclear war. They leaned on the Warren Commission not to look too closely into this theory, and the commission obliged.
 
-Still, this version of events runs up against a few inconvenient historical truths. By 1963, Khrushchev’s and Kennedy’s relationship was actually pretty good, at least by Cold War standards—they’d just signed a nuclear test ban treaty, and Khrushchev had praised a recent Kennedy speech calling for a reset in U.S.-Soviet relations. Besides, the Politburo prized stability above all else, seeing unpredictability—especially in foreign affairs—as a direct threat to regime security. American intelligence later confirmed that far from celebrating Kennedy’s death, Soviet leaders were deeply alarmed, even briefly panicking that someone on their side actually _had_ killed Kennedy without running it all the way up the ladder first[[9]](#h.a5b3b78nvp2x). Khrushchev was reportedly so distraught upon hearing the news that he fell to his knees and wept, and even Castro reacted with concern. Associates report that he started frantically asking his deputies what this Lyndon Johnson guy was like, worried that the next president would be even worse for Cuba.
+Still, this version of events runs up against a few inconvenient historical truths. By 1963, Khrushchev’s and Kennedy’s relationship was actually pretty good, at least by Cold War standards—they’d just signed a nuclear test ban treaty, and Khrushchev had praised a recent Kennedy speech calling for a reset in U.S.-Soviet relations. Besides, the Politburo prized stability above all else, seeing unpredictability—especially in foreign affairs—as a direct threat to regime security. American intelligence later confirmed that far from celebrating Kennedy’s death, Soviet leaders were deeply alarmed, even briefly panicking that someone on their side actually _had_ killed Kennedy without running it all the way up the ladder first[^9]. Khrushchev was reportedly so distraught upon hearing the news that he fell to his knees and wept, and even Castro reacted with concern. Associates report that he started frantically asking his deputies what this Lyndon Johnson guy was like, worried that the next president would be even worse for Cuba.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/5216c4325a3cbe28.jpg)
 
@@ -140,7 +140,7 @@ The circumstantial evidence was compelling enough for the HSCA’s chief counsel
 
 Lyndon Johnson and Bobby Kennedy, shown here leaning in for a kiss, famously hated each other. Johnson once said of Kennedy, “He’s trying to run the government from his brother’s grave.”
 
-The backroom election-theft plot makes for a great story—but it probably didn’t happen. Yes, there was voter fraud in Illinois in 1960, as in pretty much every midcentury election there. But it was concentrated in Chicago, where Mayor Daley’s machine was powerful enough that the additional involvement of the mob—already in decline by the sixties—wouldn’t have been necessary. Even if the Mafia _could_ have swung the election, it’s absurd to think they’d trust Kennedy—especially with his brother, the country’s top anti-mob crusader, by his side. And if they _had_ struck a deal, why kill JFK but leave RFK untouched?[[10]](#h.dxo8upus2etu)
+The backroom election-theft plot makes for a great story—but it probably didn’t happen. Yes, there was voter fraud in Illinois in 1960, as in pretty much every midcentury election there. But it was concentrated in Chicago, where Mayor Daley’s machine was powerful enough that the additional involvement of the mob—already in decline by the sixties—wouldn’t have been necessary. Even if the Mafia _could_ have swung the election, it’s absurd to think they’d trust Kennedy—especially with his brother, the country’s top anti-mob crusader, by his side. And if they _had_ struck a deal, why kill JFK but leave RFK untouched?[^10]
 
 Of course, the Mafia could have come for Kennedy even in the absence of a secret election-theft deal. But this would have been a big departure from their usual behavior: unlike their Sicilian counterparts, the American Mafia historically went out of its way not to kill politicians, knowing that to do so would bring potentially existential law enforcement scrutiny. The most prominent political figures known with certainty to have been killed by the mob are all city aldermen—going from those nobodies to the president would be an enormous leap.
 
@@ -159,7 +159,7 @@ In a crowded field of backstabbers and power-grabbers, Lyndon Johnson takes the 
 
 I’m pretty sure Johnson didn’t use the toilet with his pants on, but ChatGPT wouldn’t generate this image unless both men were fully clothed.
 
-And although he never made Kennedy watch him poop, their relationship still ranks among the most dysfunctional of any modern presidential team. Kennedy never liked Johnson and only picked him to secure Southern votes; Johnson, in turn, felt disrespected and marginalized. He was excluded from key decisions and mocked by Kennedy aides, who called him “a political barnyard animal,” and came up with awesome nicknames for him like “Uncle Cornhole” and “Huckleberry Capone.” “They treat me like I’m some kind of bastard at a family reunion,” LBJ said, later referring to the Vice Presidency as “the worst damn fool mistake I ever made.” [[11]](#h.hxuywizeiuzi)
+And although he never made Kennedy watch him poop, their relationship still ranks among the most dysfunctional of any modern presidential team. Kennedy never liked Johnson and only picked him to secure Southern votes; Johnson, in turn, felt disrespected and marginalized. He was excluded from key decisions and mocked by Kennedy aides, who called him “a political barnyard animal,” and came up with awesome nicknames for him like “Uncle Cornhole” and “Huckleberry Capone.” “They treat me like I’m some kind of bastard at a family reunion,” LBJ said, later referring to the Vice Presidency as “the worst damn fool mistake I ever made.” [^11]
 
 The Roman consul Cassius said that to solve a crime, you should first ask “cui bono?”—who benefits? By that measure, Johnson—the single largest beneficiary of Kennedy’s death—should be suspect #1. In 1963, Johnson was in serious political and even legal danger due to a corruption investigation into one of his longtime aides that was getting close to implicating Johnson himself, and leading Kennedy to consider dropping him from the ticket. But the assassination instantly shifted the political dynamics. Congress couldn’t stomach investigating a new president during a time of national mourning and crisis, and the inquiries dried up overnight.
 
@@ -167,7 +167,7 @@ The Roman consul Cassius said that to solve a crime, you should first ask “cui
 
 Cui bono?
 
-Of course, plenty of people profit from events they didn’t instigate. In the decades since Johnson’s presidency, we’ve been gifted with an endless stream of unflattering details about him: his corruption, his habit of [whipping out his dick](https://melmagazine.com/en-us/story/lyndon-b-johnson-penis) in front of congressmen and reporters, his many extramarital affairs, his insistence on having a custom shower installed in the White House that would blast water directly onto his ass[[12]](#h.be7ajlt4e5gw). But the only “evidence” that’s ever surfaced tying him to the assassination is a sketchy deathbed claim by Watergate burglar Howard Hunt, a known perjurer who had previously derided conspiracy theorists and supported the Warren Report’s conclusions.
+Of course, plenty of people profit from events they didn’t instigate. In the decades since Johnson’s presidency, we’ve been gifted with an endless stream of unflattering details about him: his corruption, his habit of [whipping out his dick](https://melmagazine.com/en-us/story/lyndon-b-johnson-penis) in front of congressmen and reporters, his many extramarital affairs, his insistence on having a custom shower installed in the White House that would blast water directly onto his ass[^12]. But the only “evidence” that’s ever surfaced tying him to the assassination is a sketchy deathbed claim by Watergate burglar Howard Hunt, a known perjurer who had previously derided conspiracy theorists and supported the Warren Report’s conclusions.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/d8eba1d07076cfae.png)
 
@@ -187,7 +187,7 @@ _“If we do what they want us to do, none of us will be alive.” —Kennedy on
 
 The best conspiracy theory villains are powerful, shadowy groups whose exact contours and membership remain stubbornly vague: the Illuminati, the Freemasons, the lizard people, the… military-industrial complex? Everyone thinks they know what the military-industrial complex is, but no one can really explain it, which makes it an ideal bogeyman. Why would it—whoever “is” is—come for Kennedy? Well, it’s simple: he was scaling back the Cold War, getting us out of Vietnam, and thus threatening the profits of Big Military.
 
-There are certainly shreds of truth here. Kennedy wasn’t particularly hawkish, at least by the standard of U.S. presidents: he pushed for a nuclear test ban treaty and back-channeled peace feelers to Castro and Khrushchev, and he resisted some of the Joint Chiefs’ more aggressive proposals. More importantly, his most ardent defenders insist that had he lived, there would have been no Vietnam War—he had reportedly approved plans to withdraw U.S. advisors from Vietnam after the 1964 election, though whether he would have actually followed through is an open question[[13]](#h.kdratogqrz5).
+There are certainly shreds of truth here. Kennedy wasn’t particularly hawkish, at least by the standard of U.S. presidents: he pushed for a nuclear test ban treaty and back-channeled peace feelers to Castro and Khrushchev, and he resisted some of the Joint Chiefs’ more aggressive proposals. More importantly, his most ardent defenders insist that had he lived, there would have been no Vietnam War—he had reportedly approved plans to withdraw U.S. advisors from Vietnam after the 1964 election, though whether he would have actually followed through is an open question[^13].
 
 Ultimately, this theory is so broad that it’s hardly a theory at all. Blaming Kennedy’s assassination on the military-industrial complex is like blaming social ills on “society” or “the system”—it might make you sound smart to the guy next to you at the bar, but it doesn’t really explain anything. It’s also not very entertaining, since a good story needs characters. That’s probably why the depictions of this theory in pop culture—most famously Oliver Stone’s _JFK_, but also the lesser-known, Dalton Trumbo-written _[Executive Action](https://en.wikipedia.org/wiki/Executive_Action_(film))_—tend to have the military guys as secondary actors, typically working with the CIA and/or the Mafia and/or communists.
 
@@ -207,7 +207,7 @@ Yes, the title of this book is referencing what you think it’s referencing.
 
 What separates this theory from your run-of-the-mill antisemitic nonsense? Well, the Mossad really are master assassinators, and it’s true that Kennedy didn’t want Israel to get nuclear weapons—though his stance was rooted in a broader anti-proliferation philosophy rather than being Israel-specific. But, obviously, the Israelis didn’t kill Kennedy, they didn’t do 9/11, and if Collins Piper had ever talked to an Israeli, he’d certainly know they’re not exactly fans of being politically correct. This isn’t even the best Mossad conspiracy theory—that award goes to the one about [their agents training sharks to attack Egyptian tourists](https://www.discovermagazine.com/planet-earth/shark-attack-in-egypt-must-be-the-work-of-israeli-agents).
 
-This theory is perhaps most interesting for its bizarre mirror twin, in which the real killers are anonymous gentiles who orchestrated the assassination specifically to _frame_ the Jews. The main believer of that idea? None other than Jack Ruby himself[[14]](#h.6yl1vmne2cp6).
+This theory is perhaps most interesting for its bizarre mirror twin, in which the real killers are anonymous gentiles who orchestrated the assassination specifically to _frame_ the Jews. The main believer of that idea? None other than Jack Ruby himself[^14].
 
 #### The bankers did it
 
@@ -221,7 +221,7 @@ In 1963, Kennedy signed an [obscure executive order](https://en.wikipedia.org/wi
 
 The second shooter, allegedly
 
-The irony of “powerful financiers” being behind the Kennedy assassination is, of course, that Kennedy himself came from a family of powerful financiers. He was our second-wealthiest president (after Trump)[[15]](#h.nst7wj2e6e98), and his administration was generally pretty friendly to finance and business. And this allegedly Fed-threatening Executive Order did nothing but delegate already-existing powers to the Secretary of the Treasury—C. Douglas Dillon, a Republican and former investment banker who was himself _also_ a powerful financier.
+The irony of “powerful financiers” being behind the Kennedy assassination is, of course, that Kennedy himself came from a family of powerful financiers. He was our second-wealthiest president (after Trump)[^15], and his administration was generally pretty friendly to finance and business. And this allegedly Fed-threatening Executive Order did nothing but delegate already-existing powers to the Secretary of the Treasury—C. Douglas Dillon, a Republican and former investment banker who was himself _also_ a powerful financier.
 
 So while it’s fun to imagine JFK as a martyr to populist monetary policy, in reality, he was more Goldman Sachs than gold standard, and it doesn’t make sense to think the bankers would have targeted one of their own.
 
@@ -231,7 +231,7 @@ _“I killed Kennedy! I killed Kennedy!” —Charles Harrelson (during a cocain
 
 A lifetime ago in 2016, Trump accused Ted Cruz’s dad of being involved in the Kennedy assassination. But there’s another, wilder theory involving a _different_ famous guy’s dad: Charles Harrelson, Woody’s father, who really was a contract killer.
 
-Harrelson was convicted of multiple murders for hire, including the assassination of a district judge on behalf of a drug dealer about to be sentenced[[16]](#h.se8m05fozqh2). He “confessed” to killing Kennedy near the tail end of a six-hour standoff with police, but then later recanted the confession, explaining that he had been out of his mind on cocaine at the time.
+Harrelson was convicted of multiple murders for hire, including the assassination of a district judge on behalf of a drug dealer about to be sentenced[^16]. He “confessed” to killing Kennedy near the tail end of a six-hour standoff with police, but then later recanted the confession, explaining that he had been out of his mind on cocaine at the time.
 
 The full story of the standoff is pretty wild. From a _Texas Monthly_ [article](https://www.texasmonthly.com/true-crime/man-who-killed-judge-wood/) about Harrelson:
 
@@ -275,7 +275,7 @@ The year was 1865, and the president’s name was Abraham Lincoln. Yet within a 
 
 Until researching this review, I was one of the 65% who didn’t buy the official story. For most of my life, I would have said essentially the same thing as that unsatisfying 1979 House Select Committee report: I didn’t know who killed Kennedy, but I doubted the official narrative contained the whole story. It just felt too implausible: a conveniently dead suspect, a witness pool riddled with contradictions, and sworn testimony from intelligence agencies who we know weren’t telling the whole truth.
 
-But having now gone deeper down the Kennedy rabbit hole than any sane man should go, I’ve been convinced otherwise. To butcher Winston Churchill: Lee Harvey Oswald acting alone is the worst explanation for the Kennedy assassination—except for all the others[[17]](#h.r2vectj7dij0).
+But having now gone deeper down the Kennedy rabbit hole than any sane man should go, I’ve been convinced otherwise. To butcher Winston Churchill: Lee Harvey Oswald acting alone is the worst explanation for the Kennedy assassination—except for all the others[^17].
 
 It’s not just that every specific conspiracy theory has good arguments against it. All of them, even the most plausible, suffer from the same fatal flaw: using someone as unreliable as Oswald as your assassin makes no sense. Here was a mentally unstable guy with a history of violent outbursts who couldn’t even defect to the Soviet Union right, and who, after the assassination, basically begged to get caught, shooting a cop in broad daylight and then deciding it’s a good time to go a see a movie right by the scene of the crime. As Kennedy himself eerily foreshadowed, a competent assassin probably could have killed the president and gotten away with it—as, indeed, many people believe happened with the alleged second shooter. But if the second shooter was real, why even bother with Oswald? Competent conspirators would have never enlisted Lee Harvey Oswald, and incompetent conspirators wouldn’t have been able to keep their scheme a secret for the past six decades.
 
@@ -317,42 +317,40 @@ Besides, a vibrant and innovative culture requires an unruly, freethinking socie
 
 In one final irony, Jack Ruby was never held fully liable for killing Lee Harvey Oswald. He was convicted and sentenced to death, but this was overturned on appeal, and he was granted a new trial—only to conveniently fall ill and die before the new trial could begin. Legally speaking, Ruby died an innocent man—a fittingly unsatisfying coda to a story as messy and irritating as America itself.
 
-#### Endnotes
+[^1]: I’d rank him below both John and John Quincy Adams, but above John Tyler and John Calvin Coolidge, who’s better known by his middle name.
 
-##### [1] I’d rank him below both John and John Quincy Adams, but above John Tyler and John Calvin Coolidge, who’s better known by his middle name. [↩](#h.8aqayzf6n8vk)
+[^2]: Kennedy received regular amphetamine injections from Max Jacobson aka “Dr. Feelgood,” who also “treated” Elvis Presley, Marilyn Monroe, Leonard Bernstein, Judy Garland, Humphrey Bogart, Elizabeth Taylor, Cecil B. DeMille, Liza Minnelli, Tennessee Williams, and Truman Capote, among others. It was actually Kennedy’s Secret Service who coined the “Dr. Feelgood” nickname.
 
-##### [2] Kennedy received regular amphetamine injections from Max Jacobson aka “Dr. Feelgood,” who also “treated” Elvis Presley, Marilyn Monroe, Leonard Bernstein, Judy Garland, Humphrey Bogart, Elizabeth Taylor, Cecil B. DeMille, Liza Minnelli, Tennessee Williams, and Truman Capote, among others. It was actually Kennedy’s Secret Service who coined the “Dr. Feelgood” nickname. [↩](#h.a3yihneiy36)
+[^3]: Kennedy suffered from [a host of serious health problems](https://archive.ph/r3Kfk), including chronic back pain, Addison’s disease (a potentially life-threatening adrenal disorder), and frequent gastrointestinal issues, all of which he concealed from the public. His speed injections began as a supposed “treatment” for these issues. It even seems likely that Kennedy’s back issues was indirectly responsible for his death: under his suit, he was wearing a stiff back brace, which likely prevented him from ducking under fire.
 
-##### [3]  Kennedy suffered from [a host of serious health problems](https://archive.ph/r3Kfk), including chronic back pain, Addison’s disease (a potentially life-threatening adrenal disorder), and frequent gastrointestinal issues, all of which he concealed from the public. His speed injections began as a supposed “treatment” for these issues. It even seems likely that Kennedy’s back issues was indirectly responsible for his death: under his suit, he was wearing a stiff back brace, which likely prevented him from ducking under fire. [↩](#h.a3yihneiy36)
+[^4]: One of the teenagers in question, Mimi Alford, [wrote a tell-all book](https://people.com/politics/how-jfk-seduced-white-house-intern-mimi-alford/) in 2012.
 
-##### [4]. One of the teenagers in question, Mimi Alford, [wrote a tell-all book](https://people.com/politics/how-jfk-seduced-white-house-intern-mimi-alford/) in 2012. [↩](#h.a3yihneiy36)
+[^5]: A file declassified in 2021 quoted Kennedy as rejecting Secret Service supervisor Floyd Benis’ plan for agents to ride in the main car: “It’s excessive, Floyd. And it’s giving the wrong impression to people. We’ve got an election coming up. The whole point is for me to be accessible to the people.”
 
-##### [5] A file declassified in 2021 quoted Kennedy as rejecting Secret Service supervisor Floyd Benis’ plan for agents to ride in the main car: “It’s excessive, Floyd. And it’s giving the wrong impression to people. We’ve got an election coming up. The whole point is for me to be accessible to the people.” [↩](#h.a3yihneiy36)
+[^6]: A few of Ruby’s more entertaining eccentricities: 1) At the nightclub he owned, he would regularly intervene in choreography and change dancers’ costumes himself. 2) He referred to his dachshund Sheba as his “wife.” 3) He had a habit of taking off his shirt and pounding his chest in public, seemingly at random.
 
-##### [6] A few of Ruby’s more entertaining eccentricities: 1) At the nightclub he owned, he would regularly intervene in choreography and change dancers’ costumes himself. 2) He referred to his dachshund Sheba as his “wife.” 3) He had a habit of taking off his shirt and pounding his chest in public, seemingly at random. [↩](#h.a3yihneiy36)
+[^7]: Compounding the uncertainty, [a 1982 report from the National Academy of Sciences](https://nap.nationalacademies.org/catalog/10264/report-of-the-committee-on-ballistic-acoustics) concluded that one of the key pieces of evidence in the the HSCA report was probably misinterpreted.
 
-##### [7] Compounding the uncertainty, [a 1982 report from the National Academy of Sciences](https://nap.nationalacademies.org/catalog/10264/report-of-the-committee-on-ballistic-acoustics) concluded that one of the key pieces of evidence in the the HSCA report was probably misinterpreted. [↩](#h.a3yihneiy36)
+[^8]: Garrison’s case was not only legally shaky, it was also wildly homophobic. Shaw—who was closeted until the prosecution outed him—was smeared and stereotyped throughout the trial, which used his participation in underground gay life to paint him as a sinister and malicious figure.
 
-##### [8] Garrison’s case was not only legally shaky, it was also wildly homophobic. Shaw—who was closeted until the prosecution outed him—was smeared and stereotyped throughout the trial, which used his participation in underground gay life to paint him as a sinister and malicious figure. [↩](#h.o118n7jtophl)
+[^9]: After confirming their own lack of involvement, Soviet leadership also concluded that Lee Harvey Oswald didn’t act alone. They blamed far-right extremists within the U.S.
 
-##### [9] After confirming their own lack of involvement, Soviet leadership also concluded that Lee Harvey Oswald didn’t act alone. They blamed far-right extremists within the U.S. [↩](#h.vm408zigdqa3)
+[^10]: For the time being, at least…
 
-##### [10] For the time being, at least… [↩](#h.uixo2jszon47)
+[^11]: It’s hard not to feel bad for Johnson here, who essentially seems to have been on the losing end of White House class war, earning the ire of Kennedy’s young, rich, East Coast staffers not for any of his political positions but just for being Southern, ill-mannered, and of poor stock.
 
-##### [11] It’s hard not to feel bad for Johnson here, who essentially seems to have been on the losing end of White House class war, earning the ire of Kennedy’s young, rich, East Coast staffers not for any of his political positions but just for being Southern, ill-mannered, and of poor stock. [↩](#h.7ovwlqolbizi)
+[^12]: I swear the shower thing is true. Look it up.
 
-##### [12] I swear the shower thing is true. Look it up. [↩](#h.7ovwlqolbizi)
+[^13]: The [withdrawal plan](https://en.wikipedia.org/wiki/National_Security_Action_Memorandum_263) was based on assumptions—most notably, the resilience of President Diem’s soon-to-collapse South Vietnamese government—that were quickly overtaken by actual events. Johnson signed a similar memo, but that didn’t prevent him from escalating the war as the situation on the ground changed.
 
-##### [13] The [withdrawal plan](https://en.wikipedia.org/wiki/National_Security_Action_Memorandum_263) was based on assumptions—most notably, the resilience of President Diem’s soon-to-collapse South Vietnamese government—that were quickly overtaken by actual events. Johnson signed a similar memo, but that didn’t prevent him from escalating the war as the situation on the ground changed. [↩](#h.s7ebjq3cg6mj)
+[^14]: In interviews and jailhouse conversations, Ruby repeatedly insisted that “the Jews” were being blamed for Kennedy’s death, and that darker forces had manipulated the entire situation to provoke a pogrom.
 
-##### [14] In interviews and jailhouse conversations, Ruby repeatedly insisted that “the Jews” were being blamed for Kennedy’s death, and that darker forces had manipulated the entire situation to provoke a pogrom. [↩](#h.h06ipeam3dhk)
+[^15]: If you want to get nitpicky, Kennedy was only our second-richest president when including family money. He had effectively unlimited access to, but did not technically control, the Kennedy family fortune.
 
-##### [15] If you want to get nitpicky, Kennedy was only our second-richest president when including family money. He had effectively unlimited access to, but did not technically control, the Kennedy family fortune. [↩](#h.30bt1hprdvd9)
+[^16]: The judge, John H. Wood Jr, earned the incredibly cool nickname of “Maximum John” due to his propensity for handing down unusually long prison terms.
 
-##### [16] The judge, John H. Wood Jr, earned the incredibly cool nickname of “Maximum John” due to his propensity for handing down unusually long prison terms. [↩](#h.hhtbdeoulf8c)
+[^17]: This is a good time to share the old joke about the JFK conspiracy theorist who dies and goes to heaven, where God offers to answer any question he has about the universe. Obviously, our conspiracy theorist asks, “Who really killed JFK?”
 
-##### [17] This is a good time to share the old joke about the JFK conspiracy theorist who dies and goes to heaven, where God offers to answer any question he has about the universe. Obviously, our conspiracy theorist asks, “Who really killed JFK?”
+    “Lee Harvey Oswald,” God tells him, “acting alone.”
 
-##### “Lee Harvey Oswald,” God tells him, “acting alone.”
-
-##### Our man’s eyes go wide. “Wow,” he says. “This goes even higher up than I thought!” [↩](#h.jtnc1mrg3fx5)
+    Our man’s eyes go wide. “Wow,” he says. “This goes even higher up than I thought!”

@@ -3,10 +3,19 @@
     "skipFetch": true,
     "disableFootnotes": true
   },
+  "a-canticle-for-leibowitz-by-walter-m-miller-jr-2024": {
+    "skipFetch": true
+  },
+  "a-history-of-generation-ships-in-science-fiction": {
+    "skipFetch": true
+  },
   "a-poor-wise-man": {
     "disableFootnotes": true
   },
   "a-residence-of-twenty-one-years-in-the-sandwich-islands": {
+    "skipFetch": true
+  },
+  "a-review-of-the-proposition-the-goat-is-humanitys-best-tutor": {
     "skipFetch": true
   },
   "a-swim-in-a-pond-in-the-rain-by-george-saunders-2022": {
@@ -18,6 +27,9 @@
   },
   "antonio-damasios-feeling-knowing-making-minds-conscious": {
     "dropBeforeLineContaining": "I have always been fascinated"
+  },
+  "as-little-as-possible-slave-morality-in-chinatown-and-spec-ops-the-line": {
+    "skipFetch": true
   },
   "battle-hymn-of-the-tiger-mother": {
     "skipFetch": true,
@@ -62,6 +74,12 @@
     "minorityFontAsBlockquote": true,
     "dropLeadingContentLines": 1
   },
+  "drunk-how-we-sipped-danced-and-stumbled-our-way-to-civilization": {
+    "skipFetch": true
+  },
+  "face-the-fear-worldbuild-the-future-the-games-and-world-of-project-moon": {
+    "skipFetch": true
+  },
   "food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna": {
     "skipFetch": true,
     "disableFootnotes": true
@@ -73,6 +91,9 @@
   "from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter": {
     "skipFetch": true,
     "disableFootnotes": true
+  },
+  "games-people-play-the-psychology-of-human-relationships-by-eric-berne": {
+    "skipFetch": true
   },
   "getting-things-done-by-david-allen": {
     "skipFetch": true,
@@ -106,18 +127,33 @@
   "into-the-universe-of-technical-images": {
     "shortLinesAsBlockquote": true
   },
+  "jfk-assassination-conspiracy-theories": {
+    "skipFetch": true
+  },
   "joan-of-arc": {
+    "skipFetch": true
+  },
+  "keystroke-capitalism-by-aaron-sahr": {
     "skipFetch": true
   },
   "lesbian-fanfiction": {
     "skipFetch": true,
     "disableFootnotes": true
   },
+  "limitless-jeanna-smialek-2023-manias-panics-and-crashes-robert-aliber-and-charles-kindleberger-2015-and-the-courage-to-act-ben-bernanke-2015": {
+    "skipFetch": true
+  },
   "lying-for-money": {
     "skipFetch": true
   },
   "meeting-hardly-meeting": {
     "shortLinesAsPoetryStanzas": true
+  },
+  "metamorphosis-by-shindo-l": {
+    "skipFetch": true
+  },
+  "mice-mechanisms-and-dementia": {
+    "skipFetch": true
   },
   "mistletoe-and-memorandums-by-claude": {
     "quoteAfterListIsContinuation": true
@@ -129,6 +165,10 @@
   "my-fathers-instant-mashed-potatoes": {
     "skipFetch": true
   },
+  "nicotine-as-a-nootropic": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
   "njals-saga": {
     "skipFetch": true
   },
@@ -139,11 +179,18 @@
     "skipFetch": true,
     "disableFootnotes": true
   },
+  "one-dimensional-man-by-herbert-marcuse": {
+    "skipFetch": true,
+    "disableFootnotes": true
+  },
   "orality-and-literacy-by-walter-ong": {
     "removeBlanksBetweenMatching": "^\\*\\*(?:Oral|Written|Changes)\\*\\*:",
     "insertBlankAfter": "^\\*\\*Changes\\*\\*:"
   },
   "painting-abstract-landscapes": {
+    "skipFetch": true
+  },
+  "parliament-ltd-a-journey-to-the-dark-heart-of-british-politics": {
     "skipFetch": true
   },
   "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
@@ -177,6 +224,9 @@
     "disableFootnotes": true
   },
   "project-xanadu": {
+    "skipFetch": true
+  },
+  "public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania": {
     "skipFetch": true
   },
   "public-citizens": {
@@ -217,6 +267,9 @@
     "disableItalicAsBlockquote": true,
     "disableQuotedParagraphAsBlockquote": true
   },
+  "society-of-the-spectacle": {
+    "skipFetch": true
+  },
   "state-of-competitive-debating-unions-address": {
     "skipFetch": true,
     "disableFootnotes": true
@@ -224,10 +277,22 @@
   "summa-technologiae": {
     "disableBlockquotes": true
   },
+  "summer-camp-for-sluts-young-swingers-week-at-hedonism-ii-in-negril-jamaica": {
+    "skipFetch": true
+  },
+  "testosterone": {
+    "skipFetch": true
+  },
   "that-hideous-strength": {
     "skipFetch": true
   },
+  "the-beginning-after-the-end-of-humanity-circus": {
+    "skipFetch": true
+  },
   "the-brothers-karamazov": {
+    "skipFetch": true
+  },
+  "the-call-of-cthulhu-by-h-p-lovecraft": {
     "skipFetch": true
   },
   "the-case-against-the-sexual-revolution-by-louise-perry": {
@@ -237,6 +302,9 @@
   "the-culture-of-narcissism-by-christopher-lasch": {
     "skipFetch": true,
     "disableFootnotes": true
+  },
+  "the-delusion-of-infinite-economic-growth": {
+    "skipFetch": true
   },
   "the-emperor-of-all-maladies": {
     "skipFetch": true,
@@ -249,6 +317,9 @@
   "the-family-that-couldnt-sleep": {
     "skipFetch": true
   },
+  "the-future-of-fusion-energy": {
+    "skipFetch": true
+  },
   "the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical": {
     "skipFetch": true
   },
@@ -256,6 +327,10 @@
     "disableItalicAsBlockquote": true
   },
   "the-gods-themselves": {
+    "disableFootnotes": true
+  },
+  "the-horse-the-wheel-and-language-by-david-w-anthony-2007": {
+    "skipFetch": true,
     "disableFootnotes": true
   },
   "the-irony-of-american-history-by-reinhold-niebuhr": {
@@ -272,6 +347,9 @@
   "the-lever-of-riches": {
     "skipFetch": true
   },
+  "the-lifes-work-of-banerjee-duflo-and-kremer": {
+    "skipFetch": true
+  },
   "the-man-who-was-thursday": {
     "skipFetch": true
   },
@@ -286,11 +364,18 @@
   "the-merry-wives-of-windsor": {
     "removeBlanksBeforeMatching": "^>\\s*\\(Act "
   },
+  "the-outlier": {
+    "skipFetch": true
+  },
   "the-pale-king": {
     "skipFetch": true
   },
   "the-pillow-book": {
     "preserveLeadingHeading": true
+  },
+  "the-power-of-glamour-by-virginia-postrel": {
+    "skipFetch": true,
+    "disableFootnotes": true
   },
   "the-pre-training-data": {
     "disableFootnotes": true
@@ -320,6 +405,12 @@
   "the-sovereign-child": {
     "skipFetch": true
   },
+  "the-spreadsheet-humanitys-most-misunderstood-programming-language": {
+    "skipFetch": true
+  },
+  "the-suicide-of-reason-by-lee-harris": {
+    "skipFetch": true
+  },
   "the-sun-also-rises": {
     "disableFootnotes": true
   },
@@ -336,10 +427,19 @@
     "disableItalicAsBlockquote": true,
     "disableQuotedParagraphAsBlockquote": true
   },
+  "toki-pona-the-language-of-good": {
+    "skipFetch": true
+  },
   "tortilla-flat-by-john-steinbeck": {
     "minorityFontAsBlockquote": true
   },
   "traces-erased-by-the-sun": {
+    "skipFetch": true
+  },
+  "viral": {
+    "skipFetch": true
+  },
+  "what-the-buddha-taught-by-walpola-rahula-thero": {
     "skipFetch": true
   },
   "why-nations-fail": {

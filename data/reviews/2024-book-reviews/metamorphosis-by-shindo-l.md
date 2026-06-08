@@ -21,7 +21,7 @@ tags:
 
 In fanspeak, “_X_ porn” is akin to “superstimulus”: a description of something that exists in reality, but taken to a level beyond what most people are likely to ever encounter. George R.R. Martin’s multi-page descriptions of banquets are food porn. The shopping scene in _John Wick: Chapter 2_ is gun porn. The brilliant ad hoc engineering efforts in _Apollo 13_ and _The Martian_ are competence porn.
 
-Shindo L’s _Metamorphosis_1 is misery porn. It’s the story of Saki Yoshida, a lonely, once innocent high school girl, pushed into experimenting with drugs and casual sex, followed by her being assaulted, kicked out of her home, and turning to prostitution to pay for her worsening drug addiction. _Metamorphosis_ is not merely depressing: it’s tragedy stacked upon tragedy, illustrated in lurid detail, and compressed into a couple hundred pages of disturbingly well-drawn artwork.
+Shindo L’s _Metamorphosis_[^1] is misery porn. It’s the story of Saki Yoshida, a lonely, once innocent high school girl, pushed into experimenting with drugs and casual sex, followed by her being assaulted, kicked out of her home, and turning to prostitution to pay for her worsening drug addiction. _Metamorphosis_ is not merely depressing: it’s tragedy stacked upon tragedy, illustrated in lurid detail, and compressed into a couple hundred pages of disturbingly well-drawn artwork.
 
 It’s also porn. As in: pornography.
 
@@ -31,7 +31,7 @@ The first page of _Metamorphosis_, and one of the few pages I can show while kee
 
 ## II.
 
-Among English-speaking fans, “ecchi” refers to soft-core or merely sexually suggestive anime and manga, while “hentai” is reserved for sexually explicit Japanese media.2 The line between the two is not always clear, especially as [some](https://en.wikipedia.org/wiki/Redo_of_Healer#Anime) [works](https://en.wikipedia.org/wiki/Interspecies_Reviewers#Anime) force platforms to reconsider what they are willing to keep in their library.
+Among English-speaking fans, “ecchi” refers to soft-core or merely sexually suggestive anime and manga, while “hentai” is reserved for sexually explicit Japanese media.[^2] The line between the two is not always clear, especially as [some](https://en.wikipedia.org/wiki/Redo_of_Healer#Anime) [works](https://en.wikipedia.org/wiki/Interspecies_Reviewers#Anime) force platforms to reconsider what they are willing to keep in their library.
 
 But _Metamorphosis_ is _definitely_ hentai. However, unlike many hentai manga, the plot doesn’t read like an excuse to move from sex scene to sex scene. Instead, the sex scenes are critical to making the story work: Saki’s admittedly poor decisions seem more understandable, and her tragedy feels that much more terrible for how explicitly it is portrayed.
 
@@ -47,7 +47,7 @@ And it will remain the most pleasurable experience in her entire life. She spend
 
 Shindo L's portrayal of drug use in sex scenes is clever, maybe even brilliant. It feels titillating, forbidden, and comes with no immediate negative consequences. It’s only later that Saki and, most likely, _the reader_ feel that something has gone very, very wrong.
 
-Saki wants to fit in with her classmates, but can’t afford to buy clothes or fashion accessories. She learns that she can make money via compensated dating3, with the promise that all she has to do is have dinner with clients. Saki is reluctant to have sex with the older man she goes to dinner with, but relents as he bribes her with a large sum of money. Afterwards, some of her classmates, having inadvertently discovered her on the date, blackmail her into having sex with them as well.
+Saki wants to fit in with her classmates, but can’t afford to buy clothes or fashion accessories. She learns that she can make money via compensated dating[^3], with the promise that all she has to do is have dinner with clients. Saki is reluctant to have sex with the older man she goes to dinner with, but relents as he bribes her with a large sum of money. Afterwards, some of her classmates, having inadvertently discovered her on the date, blackmail her into having sex with them as well.
 
 Next, Saki’s father, returning home drunk after losing his job, rapes her. When her mother finds out, her father claims that Saki seduced him, and her mother believes him, blaming Saki. Saki flees her home and starts living with Hayato who pushes her into prostitution and harder drugs.
 
@@ -85,7 +85,7 @@ Rui Ai as Saki
 
 ## V.
 
-As implausible as this sounds, I think _Metamorphosis_ is culturally significant. Beyond the explicit illustrations and shocking story content, it captures a deep fear present in the modern world. Stumble off the socially accepted path of high school to college to gainful employment, and it’s easy to be targeted by a predator and/or turn to drugs to try to escape. _Metamorphosis_ may be “a tragic and preachy story”4, but the elements of the story are all too real.
+As implausible as this sounds, I think _Metamorphosis_ is culturally significant. Beyond the explicit illustrations and shocking story content, it captures a deep fear present in the modern world. Stumble off the socially accepted path of high school to college to gainful employment, and it’s easy to be targeted by a predator and/or turn to drugs to try to escape. _Metamorphosis_ may be “a tragic and preachy story”[^4], but the elements of the story are all too real.
 
 What makes a book a “classic” depends on many criteria. A classic should capture the zeitgeist of its era, yet remain timeless. It should be skilfully written, while still speaking with its own unique style. It should be subversive in a way that makes it particularly memorable.
 
@@ -97,10 +97,10 @@ I don’t go around recommending _Metamorphosis_ to people. But I can’t help b
 
 These book reviews often end with a picture of the cover. But that’s not safe for work, so here’s a t-shirt that I own.
 
-[1] Published in Japan as 変身 ([Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization): _Henshin_), originally subtitled _Emergence_
+[^1]: Published in Japan as 変身 ([Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization): _Henshin_), originally subtitled _Emergence_
 
-[2] This is a western invention. In Japanese, エッチ (“etchi”) refers to all things sexual, and 変態 (“hentai”) is a catch-all for perversion, not necessarily sexual.
+[^2]: This is a western invention. In Japanese, エッチ (“etchi”) refers to all things sexual, and 変態 (“hentai”) is a catch-all for perversion, not necessarily sexual.
 
-[3] [Enjo kōsai](https://en.wikipedia.org/wiki/Enjo_k%C5%8Dsai), similar to Western sugar dating
+[^3]: [Enjo kōsai](https://en.wikipedia.org/wiki/Enjo_k%C5%8Dsai), similar to Western sugar dating
 
-[4] Shindo L’s own words from the afterword
+[^4]: Shindo L’s own words from the afterword

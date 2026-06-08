@@ -66,7 +66,7 @@ The _possible_ downsides are many and varied, because testosterone affects nearl
 12.  Over time, it suppresses your HPG axis and you stop producing testosterone endogenously
 13.  It impacts fertility and sperm quality, with exogenous testosterone being a 60-98% effective male fertility suppressant while you’re on it
 
-If you dig into the literature, you’ll even find individual case studies where people claim to have suffered tumors, liver failure, and cardiomyopathy from steroid use.¹
+If you dig into the literature, you’ll even find individual case studies where people claim to have suffered tumors, liver failure, and cardiomyopathy from steroid use.[^1]
 
 Man. Well, you know, some of that stuff sounds pretty bad, actually.
 
@@ -82,7 +82,7 @@ And just speaking firsthand for myself, and from my dad, and from a few other ol
 
 From Llewellyn’s _Anabolics_, 10th ed:
 
-> “Unlike steroid abuse, hormone replacement therapy may have benefits with regard to cardiovascular disease risk. For example, studies tend to show hormone replacement as having a positive effect on serum lipids. This includes a reduction in LDL and total cholesterol levels, combined with no significant change in HDL (good) cholesterol levels.² Testosterone supplementation also reduces midsection obesity, and improves insulin sensitivity and glycemic control.³ These are important factors in metabolic syndrome, which may also be involved in the progression of atherosclerosis.”
+> “Unlike steroid abuse, hormone replacement therapy may have benefits with regard to cardiovascular disease risk. For example, studies tend to show hormone replacement as having a positive effect on serum lipids. This includes a reduction in LDL and total cholesterol levels, combined with no significant change in HDL (good) cholesterol levels.[^2] Testosterone supplementation also reduces midsection obesity, and improves insulin sensitivity and glycemic control.[^3] These are important factors in metabolic syndrome, which may also be involved in the progression of atherosclerosis.”
 
 Worried about aggression or “roid rage?”  TRT levels are physiological, and countless studies have failed to find correlations between physiological T levels and aggression.
 
@@ -94,7 +94,7 @@ And of course, we can bracket the health and aggression risks by looking at high
 
 ### 300-600mg / week risks
 
-So given that supraphysiological doses are technically illegal, if quite common,⁴ it’s difficult to find RCT’s comparing steroid users to placebo groups. I’ve tried to find and highlight only the strongest and highest quality studies here.
+So given that supraphysiological doses are technically illegal, if quite common,[^4] it’s difficult to find RCT’s comparing steroid users to placebo groups. I’ve tried to find and highlight only the strongest and highest quality studies here.
 
 **(A)** How about a 25 study Cochran, medline, embase meta analysis studying AAS use in athletes and looking at the side effects:
 
@@ -148,7 +148,7 @@ From Patel, et al. _[Testosterone Is a Contraceptive and Should Not Be Used in M
 
 ### What is the answer if you’re worried about fertility?
 
-If you’re worried about fertility and want to preserve it while on T, the two ways to do so are by using HCG⁵ whenever you’re on anabolics (which ensures your endogenous production of testosterone never stops), or by cycling on and off for roughly equal 10-12 week time blocks and doing Post Cycle Therapy (PCT), where you take tamoxifen or clomid for several weeks to restart your HPG axis (this is typically done at “steroid level” doses and is called “blasting and cruising.”)
+If you’re worried about fertility and want to preserve it while on T, the two ways to do so are by using HCG[^5] whenever you’re on anabolics (which ensures your endogenous production of testosterone never stops), or by cycling on and off for roughly equal 10-12 week time blocks and doing Post Cycle Therapy (PCT), where you take tamoxifen or clomid for several weeks to restart your HPG axis (this is typically done at “steroid level” doses and is called “blasting and cruising.”)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/24c5c24162f7a771.jpg)
 
@@ -355,34 +355,24 @@ The downsides are measurable and mitigatable, and the potential upsides are imme
 
 #### Footnotes:
 
-[1]
+[^1]: As seen in things like this (relatively scaremongering, IMO) survey of AAS possible side effects:
 
-As seen in things like this (relatively scaremongering, IMO) survey of AAS possible side effects:
+    Modlinski et al. [The Effect of Anabolic Steroids on the Gastrointestinal System, Kidneys, and Adrenal Glands](https://journals.lww.com/acsm-csmr/fulltext/2006/04000/the_effect_of_anabolic_steroids_on_the.10.aspx) (2006)
 
-Modlinski et al. [The Effect of Anabolic Steroids on the Gastrointestinal System, Kidneys, and Adrenal Glands](https://journals.lww.com/acsm-csmr/fulltext/2006/04000/the_effect_of_anabolic_steroids_on_the.10.aspx) (2006)
+    The kidney and liver problems are always driven by orals. Tumors, mostly benign (likely a result of mTor up regulation, this is why you take breaks and/or use rapamycin every other week). The really bad long tail effects like this are based on 1 or 2 single-person case studies. But the global lifetime gear use worldwide is 6.5%, which argues in the west it’s probably 10-15%. So these side effects are super rare empirically and probably down to particular idiosyncratic things in those individual’s biology.
 
-The kidney and liver problems are always driven by orals. Tumors, mostly benign (likely a result of mTor up regulation, this is why you take breaks and/or use rapamycin every other week). The really bad long tail effects like this are based on 1 or 2 single-person case studies. But the global lifetime gear use worldwide is 6.5%, which argues in the west it’s probably 10-15%. So these side effects are super rare empirically and probably down to particular idiosyncratic things in those individual’s biology.
+[^2]: “Effect of testosterone replacement therapy on lipids and lipoproteins in hypogonadal and elderly men. Zgliczynski S, Ossowski M et al. Atherosclerosis. 1996 Mar;121(1):35-43.53.
 
-[2]
+    Testosterone and other anabolic steroids as cardiovascular drugs. Shaprio J, Christiana J et al. Am J Ther 1999 May;6(3):167-74”
 
-“Effect of testosterone replacement therapy on lipids and lipoproteins in hypogonadal and elderly men. Zgliczynski S, Ossowski M et al. Atherosclerosis. 1996 Mar;121(1):35-43.53.
+[^3]: “Androgen deficiency as a predictor of metabolic syndrome in aging men: an opportunity for intervention? Kapoor D, Jones TH. Drugs Aging. 2008;25(5):357-69.”
 
-Testosterone and other anabolic steroids as cardiovascular drugs. Shaprio J, Christiana J et al. Am J Ther 1999 May;6(3):167-74”
+[^4]: The global lifetime steroid use worldwide is 6.5% in surveys, which argues in the West it’s probably 10-15% overall.
 
-[3]
+    Even high schoolers hit about 1% steroid usage incidence (I’m assuming the highest incidence is in football players).
 
-“Androgen deficiency as a predictor of metabolic syndrome in aging men: an opportunity for intervention? Kapoor D, Jones TH. Drugs Aging. 2008;25(5):357-69.”
+[^5]: HCG is human chorionic gonadotropin.
 
-[4]
+    Meliegy et al. _Systematic review of hormone replacement therapy in the infertile ma_n (2017)
 
-The global lifetime steroid use worldwide is 6.5% in surveys, which argues in the West it’s probably 10-15% overall.
-
-Even high schoolers hit about 1% steroid usage incidence (I’m assuming the highest incidence is in football players).
-
-[5]
-
-HCG is human chorionic gonadotropin.
-
-Meliegy et al. _Systematic review of hormone replacement therapy in the infertile ma_n (2017)
-
-Ohlander et al. _Testosterone and Male Infertility_ (2016)
+    Ohlander et al. _Testosterone and Male Infertility_ (2016)

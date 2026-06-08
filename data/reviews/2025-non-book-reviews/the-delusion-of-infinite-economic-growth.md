@@ -21,7 +21,7 @@ tags:
 1.  Here are one hundred different resources we rely on that at present our consumption of seems to be growing exponentially, but must have a limit. For instance, oil on earth.
 2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
 3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
-4.  And when we reach the limit, bad things happen.[1]
+4.  And when we reach the limit, bad things happen.[^1]
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/9b0bd9ef3fbc9d65.png)
 
@@ -42,7 +42,7 @@ There’s one thing we know is irreversible, which I hinted to with my assumptio
 
 So we found some limiter, but how is this a resource we are consuming with an exponential increase in the rate of extraction? Well, we have some amount of entropy in our relevant bubble of the universe right now, and if we rearrange all this matter into a high entropy state (say, a black hole) we get the maximum entropy state.
 
-The amount of entropy we have in our bubble right now is minuscule compared to that black hole, and so we can say that we can increase our entropy by approximately a “bubble black hole” amount. This isn’t a resource – we create more of it, not use it up. But we can call the reverse negative entropy, or as coined by Schrödinger in his 1944 book “What is Life?”, [negentropy](https://en.wikipedia.org/wiki/Entropy_and_life). That is our resource.[2]
+The amount of entropy we have in our bubble right now is minuscule compared to that black hole, and so we can say that we can increase our entropy by approximately a “bubble black hole” amount. This isn’t a resource – we create more of it, not use it up. But we can call the reverse negative entropy, or as coined by Schrödinger in his 1944 book “What is Life?”, [negentropy](https://en.wikipedia.org/wiki/Entropy_and_life). That is our resource.[^2]
 
 So the only truly irreplaceable resource is negentropy. And we currently use it as part of everything we do, and the proportion of whatever activity we do that is not reversible is because of its use. The only reason future humanity won't be able to convert matter to energy (E=mc^2), use the energy for our purposes (energy is conserved), convert it back to matter (m=E/c^2), and then repeat the cycle to accomplish infinite work, is because this process increases entropy as a side effect, that is, consumes negentropy. At the end of the day, negentropy is our finite resource, and extending our technology to the limits allowed by our understanding of physics, it is our only truly non-renewable one.
 
@@ -52,7 +52,7 @@ Ok, we did a lot. Abstracting away technological growth to the physical limit, o
 
 We’re still obeying the initial Scientific American/degrowth framing. Constant exponential growth for X years, up to a collapse at the limit. Now to get years, we need numbers. How much negentropy is humanity consuming, what’s the rate of growth, and what’s the limit where the negentropy reservoir of our light cone is exhausted by our consumption?
 
-The amount of negentropy in our light cone itself depends on how far in the future the limit is reached, because the light cone is constantly expanding. The amount of negentropy it contains grows in spurts, since the amount in every cubic meter of galactic volume really depends on if it is a cubic meter of interstellar medium or a cubic meter of Proxima Centauri. We will simplify things by noticing that regardless of when we reach the limit, our light cone at least includes our solar system, and at most somewhat less than the entire Milky Way.[3]
+The amount of negentropy in our light cone itself depends on how far in the future the limit is reached, because the light cone is constantly expanding. The amount of negentropy it contains grows in spurts, since the amount in every cubic meter of galactic volume really depends on if it is a cubic meter of interstellar medium or a cubic meter of Proxima Centauri. We will simplify things by noticing that regardless of when we reach the limit, our light cone at least includes our solar system, and at most somewhat less than the entire Milky Way.[^3]
 
 ## Doing some calculations
 
@@ -76,8 +76,8 @@ Regardless of whether you view our limit as the accumulation of pollution or the
 
 **ENDNOTES**
 
-**[1]** What these bad things are depends on the article, in the SA article it is merely implied that it will be bad. Often it is the death of capitalism, because it is said, capitalism requires exponential economic growth (why these articles frame the death of capitalism as a bad thing, when it is clearly their greatest wish, is not clear). Sometimes it is instead an argument that some proportion of our resources are required to maintain our current stock of resource-extractors and living standards, which I find more convincing.
+[^1]: What these bad things are depends on the article, in the SA article it is merely implied that it will be bad. Often it is the death of capitalism, because it is said, capitalism requires exponential economic growth (why these articles frame the death of capitalism as a bad thing, when it is clearly their greatest wish, is not clear). Sometimes it is instead an argument that some proportion of our resources are required to maintain our current stock of resource-extractors and living standards, which I find more convincing.
 
-**[2]** An alternative would be to jump over to the complementary framing of pollution, which some would argue has the same dynamic. In this case instead of taking negentropy as a resource, we would simply take entropy itself as a type of pollution. I personally felt the resource framing is clearer.
+[^2]: An alternative would be to jump over to the complementary framing of pollution, which some would argue has the same dynamic. In this case instead of taking negentropy as a resource, we would simply take entropy itself as a type of pollution. I personally felt the resource framing is clearer.
 
-**[3]** We can see that even assuming we do have access to the entire Milky Way, we reach the limit in 7,000 years, which is before the entire Milky Way enters our light cone. As such it is an upper limit, we run out of negentropy before any structures outside it enter our light cone.
+[^3]: We can see that even assuming we do have access to the entire Milky Way, we reach the limit in 7,000 years, which is before the entire Milky Way enters our light cone. As such it is an upper limit, we run out of negentropy before any structures outside it enter our light cone.

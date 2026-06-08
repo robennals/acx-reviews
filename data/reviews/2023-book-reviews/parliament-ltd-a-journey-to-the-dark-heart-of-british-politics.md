@@ -25,7 +25,7 @@ To do so, I present a review of a relatively obscure book which I believe repres
 
 This book delves into the financial interests of the United Kingdom’s Members of Parliament (MPs). In doing so, it highlights a plethora of second jobs, questionable expense claims, and dodgy directorships. As the name suggests, it develops the argument that the cases of questionable behaviour identified should not be viewed as isolated incidents but instead as being indicative of a systemic cultural issue which exists within Parliament. Specifically, that large numbers of Parliamentarians see nothing wrong with using their status as an MP to enrich themselves, often to the detriment of the people they are elected to represent. Meanwhile, those MPs who object to such behaviour are heavily incentivised not to challenge it – while the systems which the public might reasonably expect to protect against self-interested behaviour range from woefully inadequate to completely non-existent.
 
-While a book of this nature could easily have slipped into populist rhetoric – denigrating all politicians as being out of touch elites, calling for their salaries to be reduced to the minimum wage, and demanding that their ability to re-claim expenses be rescinded – Williams manages not to fall into this trap. Instead, his introduction cautions against the dangers of such thinking and touches on the surprisingly lengthy portion of history in which MPs themselves were, by and large, opposed to receiving salaries for the performance of their duties. In doing so, he recounts the demands of the Chartist movement. This being a 19th century working class movement which, in 1839, presented a petition to Parliament signed by 1.28 million people. It contained the following six demands1:
+While a book of this nature could easily have slipped into populist rhetoric – denigrating all politicians as being out of touch elites, calling for their salaries to be reduced to the minimum wage, and demanding that their ability to re-claim expenses be rescinded – Williams manages not to fall into this trap. Instead, his introduction cautions against the dangers of such thinking and touches on the surprisingly lengthy portion of history in which MPs themselves were, by and large, opposed to receiving salaries for the performance of their duties. In doing so, he recounts the demands of the Chartist movement. This being a 19th century working class movement which, in 1839, presented a petition to Parliament signed by 1.28 million people. It contained the following six demands[^1]:
 
 ·        All men to have the vote (universal manhood suffrage)
 
@@ -65,7 +65,7 @@ Perhaps a contingent of the general public will even share his views. After all,
 
 Having read the interview, I came away with the view that Bridgen has developed a kind of self-delusion to justify his behaviour to himself. I’m reminded of the immortal words of author and political candidate, Upton Sinclair who said: “_it is difficult to get a man to understand something, when his salary depends on his not understanding it_.”
 
-Throughout _Parliament Ltd_ Williams highlights instances of a similar attitude being held by MPs from across the political spectrum. For example, in 2009, the right-leaning newspaper _The Daily Telegraph_ began publishing leaked details about expense claims submitted by MPs. This exposed widespread abuse of the expenses system, including outright criminality. Particularly unedifying examples included a £1,645 claim, submitted by Conservative MP Peter Viggers for an “_ornamental duck island_”2 and a £600 claim for “_hanging baskets and potted plants_” by Labour MP Margaret Beckett3.
+Throughout _Parliament Ltd_ Williams highlights instances of a similar attitude being held by MPs from across the political spectrum. For example, in 2009, the right-leaning newspaper _The Daily Telegraph_ began publishing leaked details about expense claims submitted by MPs. This exposed widespread abuse of the expenses system, including outright criminality. Particularly unedifying examples included a £1,645 claim, submitted by Conservative MP Peter Viggers for an “_ornamental duck island_”[^2] and a £600 claim for “_hanging baskets and potted plants_” by Labour MP Margaret Beckett[^3].
 
 Although this scandal occurred several years before Williams wrote _Parliament Ltd_. he provides a reminder of the attitudes expressed by many MPs at the time. He recounts how Conservative MP, Eric Pickles attempted to justify his own expense claims on an episode of political discussion show, Question Time:
 
@@ -75,9 +75,9 @@ _‘Like a job, in other words?’ asked [the host] David Dimbleby._
 
 _‘Yes,’ Pickles replied. ‘Exactly like a job’.”_
 
-It’s worth reiterating here that Pickles would have been fully aware that the matter of expense abuses was front page news on almost every newspaper in the land prior to his appearance on Question Time. While he seemed surprised at the strength of feeling expressed by the audience (sarcastically quipping that he’d “_make_ [his own] _brief contribution to hang an MP week_”)4 it still seems surprising that any politician could be so monumentally out of touch with public opinion as to express himself in such a way.
+It’s worth reiterating here that Pickles would have been fully aware that the matter of expense abuses was front page news on almost every newspaper in the land prior to his appearance on Question Time. While he seemed surprised at the strength of feeling expressed by the audience (sarcastically quipping that he’d “_make_ [his own] _brief contribution to hang an MP week_”)[^4] it still seems surprising that any politician could be so monumentally out of touch with public opinion as to express himself in such a way.
 
-But, as Williams explores the state of Parliament in the post-expense scandal world, it becomes apparent that we would perhaps be wrong to express surprise at Pickles’ comments. Ultimately, expressing himself in this manner seems to have had little impact on his political career. Today, Pickles’ has been provided with a seat in the House of Lords, which effectively guarantees him a taxpayer funded job for the rest of his life (his biography on the Parliamentary website also notes that he was “_the Prime Minister’s Anti-Corruption Champion from 2015 to Spring 2017_”5). Likewise, Margaret Beckett, who felt it appropriate that the taxpayer should shell out money for sprucing up her garden, remains an MP to this day. As Williams puts it “_rules only work if they are enforced_”.
+But, as Williams explores the state of Parliament in the post-expense scandal world, it becomes apparent that we would perhaps be wrong to express surprise at Pickles’ comments. Ultimately, expressing himself in this manner seems to have had little impact on his political career. Today, Pickles’ has been provided with a seat in the House of Lords, which effectively guarantees him a taxpayer funded job for the rest of his life (his biography on the Parliamentary website also notes that he was “_the Prime Minister’s Anti-Corruption Champion from 2015 to Spring 2017_”[^5]). Likewise, Margaret Beckett, who felt it appropriate that the taxpayer should shell out money for sprucing up her garden, remains an MP to this day. As Williams puts it “_rules only work if they are enforced_”.
 
 Here, it becomes necessary to explain exactly how the expenses system within the UK Parliament works. On this point, Williams really comes into his own, and the importance of the long-form exploration of this subject becomes particularly apparent. As, rather than acting simply as a collection of one-off interviews and essays, his book develops the narrative of how the expenses system has developed and changed over time.
 
@@ -158,9 +158,9 @@ I’m not sure how I would categorise Williams as I still know very little about
 
 At this point I had planned to conclude this summary by encouraging you to consider paying for high quality, investigative journalism. I also thought to touch briefly on some of the other issues covered by _Parliament Ltd_ (my remaining notes include the phrases “sweatshops”, “arms manufacture”, and “mining company related gang-rapes”). But, instead I will finish with the following.
 
-While writing this review a couple of fortuitous things happened. Firstly, rumours began circulating that disgraced former Prime Minister, Boris Johnson was planning to provide his father with an honorary knighthood6.
+While writing this review a couple of fortuitous things happened. Firstly, rumours began circulating that disgraced former Prime Minister, Boris Johnson was planning to provide his father with an honorary knighthood[^6].
 
-As well as the expected allegations of nepotism this created, anger was also inflamed further by revelations that Johnson’s father, Stanley, was had been accused by his wife of punching her in the face7 and of course questions were also raised about why a Prime Minster who was forced out of office should be allowed to issue honours at all (Johnson was embroiled in a number of scandals during his tenure, but was ultimately ousted when it was revealed he had promoted one of his PMs, Christopher Pincher despite knowing he was under investigation for allegations of sexual misconduct – allegedly joking that he was “Pincher by name, pincher by nature)8.
+As well as the expected allegations of nepotism this created, anger was also inflamed further by revelations that Johnson’s father, Stanley, was had been accused by his wife of punching her in the face[^7] and of course questions were also raised about why a Prime Minster who was forced out of office should be allowed to issue honours at all (Johnson was embroiled in a number of scandals during his tenure, but was ultimately ousted when it was revealed he had promoted one of his PMs, Christopher Pincher despite knowing he was under investigation for allegations of sexual misconduct – allegedly joking that he was “Pincher by name, pincher by nature)[^8].
 
 Separately to this, a campaign group called “Led By Donkeys” posed as a fictitious South Korean company and filmed former Health Secretary, Matt Hancock, and former Chancellor of the Exchequer, Kwasi Kwarteng, agreeing to work on their behalf in exchange for fees of £10,000 per day.9
 
@@ -168,28 +168,26 @@ To be clear, there’s no suggestion that any rule breaking has taken place here
 
 I mention all of this because I think it acts as a reminder of some of the attitudes exposed in _Parliament Ltd_. For many MPs, all that matters is that they’re complying with the letter of the laws they work under. Whether they’re complying with the spirit of them, or whether the laws themselves are sufficient and appropriate seems to be of little concern to them.
 
-It might be tempting to note that each of the MPs I’ve just listed is a member of the governing Conservative party, which has been in power for over a decade, and conclude that a change of government might reduce some of these attitudes. This is of course a possibility. As it stands the Labour party is currently polling as likely to win the next election, with its leader, Kier Starmer, the clear favourite to become form the next government. While Starmer has called for a ban on second jobs and talked tough on PMs having outside interests generally10, it’s worth noting that he has engaged in legal consultancy work himself while sitting as an MP and he is yet to ban Labour MPs from having second jobs despite having the power to do so in his role as party leader. So, I remain unoptimistic.
+It might be tempting to note that each of the MPs I’ve just listed is a member of the governing Conservative party, which has been in power for over a decade, and conclude that a change of government might reduce some of these attitudes. This is of course a possibility. As it stands the Labour party is currently polling as likely to win the next election, with its leader, Kier Starmer, the clear favourite to become form the next government. While Starmer has called for a ban on second jobs and talked tough on PMs having outside interests generally[^10], it’s worth noting that he has engaged in legal consultancy work himself while sitting as an MP and he is yet to ban Labour MPs from having second jobs despite having the power to do so in his role as party leader. So, I remain unoptimistic.
 
 Although this might seem like a rather depressing note to end on, I think this is the best way of emphasizing my main takeaway from _Parliament Ltd._ That is, politicians can broadly be expected to act in accordance with their own selfish self-interests, at least when it comes to matters relating to their own finances. The main tools which we as members of the public have to hold them to account are: choosing to fund high quality journalism, consuming and disseminating stories uncovered by said journalism, and, of course, by investigating the character of candidates before casting a vote in the ballot box.
 
-References
+[^1]: [https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/)
 
-1.          [https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/)
+[^2]: [https://www.bbc.co.uk/news/uk-england-hampshire-52219896](https://www.bbc.co.uk/news/uk-england-hampshire-52219896)
 
-2.          [https://www.bbc.co.uk/news/uk-england-hampshire-52219896](https://www.bbc.co.uk/news/uk-england-hampshire-52219896)
+[^3]: [https://www.telegraph.co.uk/news/newstopics/mps-expenses/5293973/Margaret-Becketts-600-claim-for-hanging-baskets-and-pot-plants-MPs-expenses.html](https://www.telegraph.co.uk/news/newstopics/mps-expenses/5293973/Margaret-Becketts-600-claim-for-hanging-baskets-and-pot-plants-MPs-expenses.html)
 
-3.          [https://www.telegraph.co.uk/news/newstopics/mps-expenses/5293973/Margaret-Becketts-600-claim-for-hanging-baskets-and-pot-plants-MPs-expenses.html](https://www.telegraph.co.uk/news/newstopics/mps-expenses/5293973/Margaret-Becketts-600-claim-for-hanging-baskets-and-pot-plants-MPs-expenses.html)
+[^4]: [https://www.youtube.com/watch?v=6MrFV4c\_sVY&](https://www.youtube.com/watch?v=6MrFV4c_sVY&)
 
-4.          [https://www.youtube.com/watch?v=6MrFV4c\_sVY&](https://www.youtube.com/watch?v=6MrFV4c_sVY&)
+[^5]: [https://www.gov.uk/government/people/eric-pickles](https://www.gov.uk/government/people/eric-pickles)
 
-5.          [https://www.gov.uk/government/people/eric-pickles](https://www.gov.uk/government/people/eric-pickles)
+[^6]: [https://www.bbc.co.uk/news/uk-politics-64911178](https://www.bbc.co.uk/news/uk-politics-64911178)
 
-6.          [https://www.bbc.co.uk/news/uk-politics-64911178](https://www.bbc.co.uk/news/uk-politics-64911178)
+[^7]: [https://www.theguardian.com/commentisfree/2023/mar/12/wife-of-sir-stanley-couldnt-tolerate-his-abuse-neither-should-rest-of-us](https://www.theguardian.com/commentisfree/2023/mar/12/wife-of-sir-stanley-couldnt-tolerate-his-abuse-neither-should-rest-of-us)
 
-7. [https://www.theguardian.com/commentisfree/2023/mar/12/wife-of-sir-stanley-couldnt-tolerate-his-abuse-neither-should-rest-of-us](https://www.theguardian.com/commentisfree/2023/mar/12/wife-of-sir-stanley-couldnt-tolerate-his-abuse-neither-should-rest-of-us)
+[^8]: [https://www.bbc.co.uk/news/uk-politics-62039540](https://www.bbc.co.uk/news/uk-politics-62039540)
 
-8.          [https://www.bbc.co.uk/news/uk-politics-62039540](https://www.bbc.co.uk/news/uk-politics-62039540)
+[^9]: [https://www.bbc.co.uk/news/uk-65077273](https://www.bbc.co.uk/news/uk-65077273)
 
-9.          [https://www.bbc.co.uk/news/uk-65077273](https://www.bbc.co.uk/news/uk-65077273)
-
-10.    [https://www.bbc.co.uk/news/av/uk-politics-59311123](https://www.bbc.co.uk/news/av/uk-politics-59311123)
+[^10]: [https://www.bbc.co.uk/news/av/uk-politics-59311123](https://www.bbc.co.uk/news/av/uk-politics-59311123)
