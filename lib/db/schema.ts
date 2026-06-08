@@ -115,6 +115,30 @@ export const favorites = sqliteTable(
   (t) => [primaryKey({ columns: [t.userId, t.reviewId] })]
 );
 
+// Feedback from a signed-in reader to a review's author. One row per
+// (user, review). Stored during the contest; emailed only afterward by
+// scripts/send-feedback.ts, which stamps sent_at. Editable/deletable while
+// sent_at is null.
+export const feedback = sqliteTable(
+  'feedback',
+  {
+    userId: text('sender_user_id')
+      .notNull()
+      .references(() => users.id, { onDelete: 'cascade' }),
+    reviewSlug: text('review_slug').notNull(),
+    senderName: text('sender_name').notNull(),
+    message: text('message').notNull(),
+    createdAt: integer('created_at', { mode: 'timestamp_ms' })
+      .notNull()
+      .default(sql`(unixepoch() * 1000)`),
+    updatedAt: integer('updated_at', { mode: 'timestamp_ms' })
+      .notNull()
+      .default(sql`(unixepoch() * 1000)`),
+    sentAt: integer('sent_at', { mode: 'timestamp_ms' }),
+  },
+  (t) => [primaryKey({ columns: [t.userId, t.reviewSlug] })]
+);
+
 // Singleton row of admin-controlled site flags. Always id = 'singleton'.
 export const siteFlags = sqliteTable('site_flags', {
   id: text('id').primaryKey(),
