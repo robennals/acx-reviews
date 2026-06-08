@@ -20,7 +20,9 @@ import fs from 'fs';
 import { isNull, eq, and } from 'drizzle-orm';
 import { db } from '../lib/db/client';
 import { feedback, users } from '../lib/db/schema';
-import { buildAuthorEmailMap, type CsvAuthorRow } from './lib/author-email-map';
+import { getAllReviews } from '../lib/reviews';
+import { slugify } from '../lib/utils';
+import { buildAuthorEmailMap, duplicateTitleSlugs, type CsvAuthorRow } from './lib/author-email-map';
 import { sendFeedbackEmail } from '../lib/feedback/feedback-sender-postmark';
 
 const DEFAULT_CSV =
@@ -68,7 +70,16 @@ async function main() {
   const csvIdx = args.indexOf('--csv');
   const csvPath = csvIdx >= 0 ? args[csvIdx + 1] : DEFAULT_CSV;
 
-  const authorMap = buildAuthorEmailMap(parseCsv(csvPath));
+  const csvRows = parseCsv(csvPath);
+  const authorMap = buildAuthorEmailMap(csvRows);
+  const dupSlugs = duplicateTitleSlugs(csvRows);
+
+  // Authoritative review slug -> title (real slugs can diverge from
+  // slugify(title) via collision de-dup, rename exceptions, empty-title
+  // fallbacks). We resolve the feedback slug to its title via the index,
+  // then match the title to the CSV.
+  const titleBySlug = new Map<string, string>();
+  for (const r of await getAllReviews()) titleBySlug.set(r.slug, r.title);
 
   const rows = await db
     .select({
@@ -86,12 +97,24 @@ async function main() {
   let sent = 0;
   let skipped = 0;
 
+  const unmatched: string[] = [];
+  const ambiguous: string[] = [];
+
   for (const row of rows) {
-    const author = authorMap.get(row.reviewSlug);
+    const title = titleBySlug.get(row.reviewSlug);
+    const titleSlug = title ? slugify(title) : undefined;
+    const author = titleSlug ? authorMap.get(titleSlug) : undefined;
     if (!author) {
-      console.warn(`SKIP ${row.reviewSlug}: no author email in CSV`);
+      console.warn(
+        `SKIP ${row.reviewSlug}: ${title ? `no CSV author for title "${title}"` : 'review slug not in index'}`
+      );
+      unmatched.push(row.reviewSlug);
       skipped++;
       continue;
+    }
+    if (titleSlug && dupSlugs.has(titleSlug)) {
+      console.warn(`AMBIGUOUS ${row.reviewSlug}: title "${title}" matches multiple CSV rows; using last`);
+      ambiguous.push(row.reviewSlug);
     }
     if (dryRun) {
       console.log(
@@ -122,6 +145,13 @@ async function main() {
   }
 
   console.log(`Done. sent=${sent} skipped=${skipped}`);
+
+  if (unmatched.length || ambiguous.length) {
+    console.warn(
+      `\n⚠️  ${unmatched.length} unmatched and ${ambiguous.length} ambiguous row(s). ` +
+        `Resolve these before a real send — unmatched feedback will NOT reach its author.`
+    );
+  }
 }
 
 main().catch((e) => {
