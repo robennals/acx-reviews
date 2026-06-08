@@ -7,6 +7,7 @@ import { getReviewAudio } from '@/lib/server/audio-manifest';
 import { FootnotesSection } from '@/components/footnotes-section';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
 import { RatingCard } from '@/components/rating-card';
+import { FeedbackCard } from '@/components/feedback-card';
 import { BackToArchiveLink } from '@/components/back-to-archive-link';
 import { SITE_URL } from '@/lib/constants';
 
@@ -155,6 +156,11 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
             stop before reaching the footnotes section. */}
         <div className="max-w-3xl mx-auto px-6 sm:px-8">
           <RatingCard reviewId={review.id} reviewYear={review.year} />
+        </div>
+
+        {/* Send-feedback-to-author card (2026 only; renders nothing otherwise). */}
+        <div className="max-w-3xl mx-auto px-6 sm:px-8">
+          <FeedbackCard reviewSlug={review.slug} reviewYear={review.year} />
         </div>
 
         {/* Footnotes section (renders nothing when there are none). */}
