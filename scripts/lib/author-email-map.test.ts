@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { buildAuthorEmailMap } from './author-email-map';
+import { buildAuthorEmailMap, duplicateTitleSlugs } from './author-email-map';
 import { slugify } from '../../lib/utils';
 
 test('maps each title to its slug with author email + title', () => {
@@ -29,4 +29,22 @@ test('later rows win on duplicate slug', () => {
     { name: 'B', email: 'second@x.co', title: 'Dup' },
   ]);
   assert.equal(m.get(slugify('Dup'))?.email, 'second@x.co');
+});
+
+test('duplicateTitleSlugs returns slugs that appear more than once', () => {
+  const dups = duplicateTitleSlugs([
+    { name: 'A', email: 'a@x.co', title: 'Same Book' },
+    { name: 'B', email: 'b@x.co', title: 'Same Book' },
+    { name: 'C', email: 'c@x.co', title: 'Unique' },
+  ]);
+  assert.deepEqual([...dups], [slugify('Same Book')]);
+});
+
+test('duplicateTitleSlugs ignores blank-email/blank-title rows and returns empty when all unique', () => {
+  const dups = duplicateTitleSlugs([
+    { name: 'A', email: '', title: 'Same Book' },
+    { name: 'B', email: 'b@x.co', title: 'Same Book' },
+    { name: 'C', email: 'c@x.co', title: 'Unique' },
+  ]);
+  assert.equal(dups.size, 0);
 });
