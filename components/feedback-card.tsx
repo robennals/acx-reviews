@@ -169,7 +169,7 @@ export function FeedbackCard({ reviewSlug, reviewYear }: Props) {
               disabled={busy || !name.trim() || !message.trim()}
               className="rounded-md bg-foreground text-background px-4 py-2 text-sm font-medium disabled:opacity-50"
             >
-              {stored ? 'Update feedback' : 'Send feedback'}
+              {stored ? 'Update feedback' : 'Save feedback'}
             </button>
             {stored && (
               <button
