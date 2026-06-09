@@ -86,7 +86,7 @@ Throughout the novel, an entire set of activities is imagined, usually revolving
 
 _Blam, Funkenstein, Čutura vs Kocsis 1 (abbreviations of speakers added for clarity):_
 
-> _Kocsis: “Mr. Blam!”_
+_Kocsis: “Mr. Blam!”_
 
 _Blam: “Mr. Kocsis. I’m sure I don’t know...”_
 
@@ -114,7 +114,7 @@ _Aleksander Tišma, The Book of Blam_
 
 Blam can’t even confront Kocsis himself, even after others have brought them face to face and given Blam the seemingly easy upper-hand. And still, Blam doesn’t interrogate Kocsis at all—Čutura does most of the speaking. It is not even Blam who has told us the precise details of the Blam family murder; the revelation that takes place near the end of the novel doesn’t even come from Blam’s own lips, but instead the mental projection of Čutura. And it is Čutura who now hands Blam the imaginary pistol, allowing Blam to carry out the rightful sentence, even just in his mind. And it is Blam who refuses to take it:
 
-> _Blam, Funkenstein, Čutura vs Kocsis 2 (abbreviations of speakers added for clarity):_
+_Blam, Funkenstein, Čutura vs Kocsis 2 (abbreviations of speakers added for clarity):_
 
 _Č: “Take the pistol, I tell you. Take it and shoot him. Don’t be afraid. Nobody will ever know.”_
 

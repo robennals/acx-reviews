@@ -244,9 +244,11 @@ Not to be cruel, but to force her to confront the absurdity of her reality—and
 
 This is the turning point.
 
-> _Kreedis: You can walk away from nirvana. Most people do._  
-> _Albee: I mean, it doesn’t seem to have brought you anything but more pain._  
-> _Kreedis: This reality is pain, yeah absolutely._
+_Kreedis: You can walk away from nirvana. Most people do._
+
+_Albee: I mean, it doesn’t seem to have brought you anything but more pain._
+
+_Kreedis: This reality is pain, yeah absolutely._
 
 The scene continues to cut back and forth between Albee’s internal unraveling and the external absurdity of the nachos threatening to engulf her friends. It’s a surreal juxtaposition: cosmic truth and food-based apocalypse. But it works.
 
@@ -408,17 +410,15 @@ I questioned whether or not to submit this review, not sure if I actually had an
 
 * * *
 
-> _Kreedis: These beautiful memories. Do they matter to the universe?_  
-> _Albee: No._  
-> _Kreedis: Do they matter to you?_  
-> _Albee: Yes._  
-> _Kreedis: Is that enough?_
+_Kreedis: These beautiful memories. Do they matter to the universe?_  
+_Albee: No._  
+_Kreedis: Do they matter to you?_  
+_Albee: Yes._  
+_Kreedis: Is that enough?_  
+_Albee:_ Yes.  
+_Kreedis: Hell yeah._  
+_Albee:_ Hell yeah.
 
-_Albee:_ Yes.
-
-> _Kreedis: Hell yeah._  
-> _Albee: Hell yeah._
->
-> * * *
+* * *
 
 … it is okay for something to matter only to you.

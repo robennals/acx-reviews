@@ -22,11 +22,11 @@ I was a ball player, a catcher for the Pittsburgh Pirates in 1960 when we took t
 
 I heard this story from someone I don’t remember – a player, a reporter, someone. In hot July when we were in first place in the National League and had been since May, Myron Cope, freelance sportswriter, landed an assignment from a local newspaper to profile the players. He began with the team leader, shortstop Dick Groat, doing an interview, writing it up, and seeing it published the next day. After that, when the Pirates played home games, he booked in turn each player a day ahead and arranged to meet them before or after the day’s game.The project clicked along. An artist did up an agreeable line drawing of the featured player that went with the stories, printed at eight inches high, three columns wide. On July 14, 1960, Cope checked his list. Bill Virdon, outfielder, today, Dick Stuart, first baseman, tomorrow. Stuart had just returned to town from a day off that he’d spent performing in two television episodes of “Home Run Derby.”  He’d won one match, lost one, taking home a winner’s check for $2,500 and a loser’s check of $1,000.  When Cope asked him if he’d be available the next day, Stuart said yes, as long as Cope was willing to pay.
 
-            “None of the others asked for pay,” said Cope.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; “None of the others asked for pay,” said Cope.
 
-            “They got their own lives. I want paid.”
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; “They got their own lives. I want paid.”
 
-            “I’m not going to pay you.”
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; “I’m not going to pay you.”
 
 “Then I’m not doing an interview.”
 
