@@ -28,14 +28,10 @@ Is this book a work of fiction, perhaps one published before 1900? Well, no, it�
 
 ### A Speck on a Speck on a Speck
 
-_Maybe tomorrow, the pills I couldn't swallow_
-
-_They'll seem small, small, small, small, small_
-
-_Sometimes I feel like a raindrop in the ocean_
-
-_Fell from the sky, I melted into nothing_
-
+_Maybe tomorrow, the pills I couldn't swallow_  
+_They'll seem small, small, small, small, small_  
+_Sometimes I feel like a raindrop in the ocean_  
+_Fell from the sky, I melted into nothing_  
 — Debbii Dawson, “Eulogy for Nobody”
 
 Lulu Miller has an ancient problem. She was raised by a disabusive father, so as an adult she struggles with depression. The particular fiction of which her father disabused her was the idea that her life held some sort of cosmic importance. At age seven, she looked up at her dad to ask, “What’s the meaning of life?” And the cheeky bastard exclaimed, “Nothing!”
@@ -84,20 +80,13 @@ Rejecting her father’s example, Lulu does what anyone in that position is supp
 
 ### So You Want to Be a Starr?
 
-_I made a deal with you_
-
-_What I desire is man's red fire_
-
-_To make my dream come true_
-
-_Now, give me the secret, mancub_
-
-_C'mon, clue me what to do_
-
-_Give me the power of man's red flower_
-
-_So I can be like you_
-
+_I made a deal with you_  
+_What I desire is man's red fire_  
+_To make my dream come true_  
+_Now, give me the secret, mancub_  
+_C'mon, clue me what to do_  
+_Give me the power of man's red flower_  
+_So I can be like you_  
 — The Jungle Book, “I Wanna Be Like You”
 
 Why does Lulu expect David Starr Jordan, of all people, to possess the secret wisdom she seeks? For one, he bore an uncanny resemblance to Lulu’s father. David, too, was not above tasting the subjects of his scientific inquiry. He wrote children’s books “that portrayed a claustrophobic world in which the characters could not escape the cold rules of our universe . . . There was [no true magic, even for children](https://hpmor.com). Just survival born of the creative harnessing of these cold, harsh rules.” In his writing for adults, David crusaded against “trying to believe [what we know is not true](https://www.lesswrong.com/tag/litany-of-tarski).” His syllabus for a course on evolution declares, “Nature [no respecter](https://www.lesswrong.com/posts/pLRogvJLPPg6Mrvg4/an-alien-god) of persons . . . Tampering impossible . . . Her laws [immutable](https://nickbostrom.com/fut/evolution) . . . He who defies them wields a club of air.” Simply oozing with Rationality. Dedicating a day to the pessimism of evolution, David even repeats Lulu’s father’s favorite line: “There is grandeur in this view.”
@@ -136,13 +125,10 @@ So Lulu indulges her infatuation with David and purchases his _[two](https://www
 
 ### A Starr Is Born
 
-_With eyes that know the darkness in my soul . . ._
-
-_Now, I understand_
-
-_What you tried to say to me  
-And how you suffered for your sanity_
-
+_With eyes that know the darkness in my soul . . ._  
+_Now, I understand_  
+_What you tried to say to me_  
+_And how you suffered for your sanity_  
 —   Don McLean, “Vincent”
 
 David was nearly born too late: by the time of his youth, the world had entered something of a taxonomy winter. The Age of Discovery had whetted the world’s appetite for exotic creatures, but globalization had already fed the hunger. Carl Linnaeus, the father of modern taxonomy, had effectively shut the book on the topic with the publication of _Systema Naturae_ in 1758—almost a hundred years before David was born. History might have frustrated David’s taxonomic destiny if it were not for the careers of two scientists.
@@ -161,22 +147,14 @@ Illnesses like the ones that killed so many of the people close to David. To hel
 
 ### The Ladder of Nature
 
-_No one knows where the ladder goes_
-
-_You're gonna lose what you love the most_
-
-_You're not alone in anything_
-
-_You're not unique in dying . . ._
-
-_Don't hang around once the promise breaks_
-
-_Or you'll be there when the next one's made_
-
-_Kiss the feet of a charlatan_
-
-_Some imagined freedom_
-
+_No one knows where the ladder goes_  
+_You're gonna lose what you love the most_  
+_You're not alone in anything_  
+_You're not unique in dying . . ._  
+_Don't hang around once the promise breaks_  
+_Or you'll be there when the next one's made_  
+_Kiss the feet of a charlatan_  
+_Some imagined freedom_  
 — Bright Eyes, “The Ladder Song”
 
 While David would come to owe a great intellectual debt to both men, Agassiz denied Darwin’s theory of evolution until the bitter end. Agassiz was too invested in a particular view of nature that was incompatible with Darwin’s. Born into a lineage of Protestant clergymen extending back seven generations, Agassiz treated nature as a kind of scripture. Before inviting his campers to pray, he taught that “a laboratory is a sanctuary where nothing profane should enter.” To study the species of the world was to “translat[e] into human language . . . the thoughts of the Creator.” Agassiz believed, and David agreed, that there existed an ordinal ranking of the animal kingdom according to the creatures’ favor in God’s eyes. Humans are superior to lizards, who outrank fish, and so on. Excavating the divine order revealed moral instructions that humans could follow to become more perfect, making taxonomy “missionary work of the highest order.”
@@ -325,34 +303,20 @@ I find this whiplash conclusion, with its “at long lasts,” cliché and unsat
 
 ### Taking the Long Way
 
-_All the rest is predictable_
-
-_You can say you're the first to know_
-
-_Bought a mantra to concentrate . . ._
-
-_We'll welcome the new age_
-
-_Covered in warrior paint_
-
-_Lights from the jungle to the sky_
-
-_See now a star is born_
-
-_Looks just like a blood orange_
-
-_Don't_ _it just make you want to cry?_
-
-_Precious friend of mine_
-
-_Will I know when it's finally done?_
-
-_This whole life is a hallucination_
-
-_You're not alone in anything_
-
-_You're not alone in trying to be_
-
+_All the rest is predictable_  
+_You can say you're the first to know_  
+_Bought a mantra to concentrate . . ._  
+_We'll welcome the new age_  
+_Covered in warrior paint_  
+_Lights from the jungle to the sky_  
+_See now a star is born_  
+_Looks just like a blood orange_  
+_Don't it just make you want to cry?_  
+_Precious friend of mine_  
+_Will I know when it's finally done?_  
+_This whole life is a hallucination_  
+_You're not alone in anything_  
+_You're not alone in trying to be_  
 — Bright Eyes, “The Ladder Song”
 
 The great tragedy of _Why Fish_, on a rationalist reading, is that for all Lulu’s proto-rat priming, it is the hairline fractures in her reasoning that cause her undoing. Casting her problem in existential terms [privileged the question](https://www.lesswrong.com/posts/6vcxuRHzeM99jYcYd/privileging-the-question) of how to reconcile science and significance, over a question like how to correct a neurochemical imbalance. The simplest explanation I see for her father’s satisfaction and David’s moxy is that they lucked into happy brains; Lulu could have focused directly on improving her welfare instead of seeking arcane wisdom. Instead, Lulu’s favored framing leads to a wild goose chase through David’s life story.

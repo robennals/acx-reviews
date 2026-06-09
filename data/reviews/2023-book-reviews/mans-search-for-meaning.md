@@ -129,46 +129,32 @@ I took upon myself to translate some of his poems to English. Please, dear reade
 
 > **The Ten Commandments**
 > 
-> “I am thy Lord…” — Yes, so I heard somewhere.
-> 
-> “Thou shal’ve no others…” — What about gold?
-> 
-> “Thou shalt not take My name in vain” — Well, there
-> 
+> “I am thy Lord…” — Yes, so I heard somewhere.  
+> “Thou shal’ve no others…” — What about gold?  
+> “Thou shalt not take My name in vain” — Well, there  
 > I must confess, I took Thy name threefold.
 > 
-> “Remember Sabbath…” — Such a dull mandate!
-> 
-> I can indulge my idleness more often.
-> 
-> “Honour thy parents…” — Yes. — “Thou shan’t adulterate…” 
-> 
+> “Remember Sabbath…” — Such a dull mandate!  
+> I can indulge my idleness more often.  
+> “Honour thy parents…” — Yes. — “Thou shan’t adulterate…”  
 > — This one’s so grim, my limbs begin to soften.
 > 
-> “Shan’t kill” — Should I forgive my critics’ crimes? 
+> “Shan’t kill” — Should I forgive my critics’ crimes?  
+> “Shan’t steal” — But how then will I get my rhymes?  
+> “Shan’t bear false witness” — Oh, go on and shove it!
 > 
-> “Shan’t steal” — But how then will I get my rhymes?
-> 
-> “Shan’t bear false witness” — Oh, go on and shove it! 
-> 
-> “Shan’t covet thee thy neighbor's wife or ass…” — 
-> 
-> (Oh Lord, this list is long, forgive my sass!)
-> 
+> “Shan’t covet thee thy neighbor's wife or ass…” —  
+> (Oh Lord, this list is long, forgive my sass!)  
 > And if my neighbor is an ass — can then his wife I covet?
 
 Things changed for du Vintrais after August 24th, 1572, also known as “St. Bartholomew's Eve massacre”. It is unknown whether he was a Huguenot himself, but his friends, both d'Aubigné and Henry of Navarre, certainly were. He fiercely protected them, first with his sword, then with his quill. His poems became political, he attacked Henry de Guise, a staunch supporter of Huguenot persecution, then Queen Mother Catherine de' Medici, then King Charles IX himself. He was arrested, sent to Bastille. At the last moment, the king changed his sentence: from execution to exile. He came back to France in secret just to learn that his friend, Henry of Navarre, converted to Catholicism in order to become King Henry IV of France. That was perceived as a betrayal. 
 
-> I was your arms-bearer, friend, your shadow even… 
+> I was your arms-bearer, friend, your shadow even…  
+> You’ve just become the crowned King of France.  
+> Now, I’m afraid, we end this kind of dance.  
+> Guillaume’s new songs, my friend, you won’t believe in.
 > 
-> You’ve just become the crowned King of France.
-> 
-> Now, I’m afraid, we end this kind of dance.
-> 
-> Guillaume’s new songs, my friend, you won’t believe in. 
-> 
-> Enough! I will not lie, nor fawn, nor pester,
-> 
+> Enough! I will not lie, nor fawn, nor pester,  
 > And most of all, I will not be your jester.
 
 Guillaume du Vintrais went back to his quaint estate in beloved homeland, beautiful Gascony, where he passed the time with an old tome and an older bottle of wine. He passed away quietly in 1602. 
@@ -209,32 +195,22 @@ To finish this part it would make sense to cite one more of Guillaume du Vintrai
 
 > **Four words**
 > 
-> Since childhood I nurture these four words,
-> 
-> I have repeated them a thousand times at least.
-> 
-> I heard them in the songs of wind and birds,
-> 
+> Since childhood I nurture these four words,  
+> I have repeated them a thousand times at least.  
+> I heard them in the songs of wind and birds,  
 > My Gascony had them to me bequeathed.
 > 
-> I throw them in the face of those I kill,
-> 
-> I whisper them to my beloved indoors.
-> 
-> I took them to exile, to Bastille,
-> 
+> I throw them in the face of those I kill,  
+> I whisper them to my beloved indoors.  
+> I took them to exile, to Bastille,  
 > I sent them, like a prayer, to my shores.
 > 
-> I’ve lost my Motherland and my recourse,
-> 
-> I am Quichote — silly, I admit.
-> 
-> But even if my quill will finally split,
-> 
+> I’ve lost my Motherland and my recourse,  
+> I am Quichote — silly, I admit.  
+> But even if my quill will finally split,  
 > I’ll scrape them on my crest — just these four words.
 > 
-> Till I expire, nothing would precede’em.
-> 
+> Till I expire, nothing would precede’em.  
 > France. Wine. Love. And the final one is Freedom.
 
 ## Part 3.

@@ -39,9 +39,9 @@ Halfway through the walk of our life, I awoke in a dark wood, for the straight p
 
 It’s short and sweet, so how come that in Mandelbaum’s version it becomes:
 
-When I had journeyed half of our life’s way,  
-I found myself within a shadowed forest,  
-for I had lost the path that does not stray.
+> When I had journeyed half of our life’s way,  
+> I found myself within a shadowed forest,  
+> for I had lost the path that does not stray.
 
 See the problem?
 
@@ -532,11 +532,11 @@ In Circle 5, a shade whom Dante recognizes seeks out compassion: “Look, I’m 
 
 Further down, in Circle 8, Dante weeps at the sight of tortured sinners, and Vergil scolds him.
 
-… Art thou, too, of the other fools ?
-
-Here pity lives when it is wholly dead;  
-Who is a greater reprobate than he  
-Who feels compassion at the doom divine ? (Longfellow)
+> … Art thou, too, of the other fools ?
+>
+> Here pity lives when it is wholly dead;  
+> Who is a greater reprobate than he  
+> Who feels compassion at the doom divine ? (Longfellow)
 
 If you compare translations, you’ll notice that different translators interpret these lines differently.
 
@@ -804,22 +804,22 @@ The people we encounter here are those who repented close to death. They must sp
 
 One of the first shade we meet says, smiling:
 
-“Horrible my iniquities had been”  (Longfellow)
+> “Horrible my iniquities had been”  (Longfellow)
 
 which is stunning, because nobody in hell ever spoke like this.
 
 Here, to meet a shade you personally know is a reason to rejoice.
 
-Noble Judge Nino—what delight was mine  
-when I saw you were not among the damned!
-
-There was no gracious greeting we neglected  
-before he asked me: “When did you arrive,  
-across long seas, beneath this mountainside?”
-
-I told him, “Oh, by way of the sad regions,  
-I came this morning; I am still within  
-the first life—  (Mandelbaum)
+> Noble Judge Nino—what delight was mine  
+> when I saw you were not among the damned!
+>
+> There was no gracious greeting we neglected  
+> before he asked me: “When did you arrive,  
+> across long seas, beneath this mountainside?”
+>
+> I told him, “Oh, by way of the sad regions,  
+> I came this morning; I am still within  
+> the first life—  (Mandelbaum)
 
 Alas! translations are so, so unlike the original. Not that mine is necessarily better, mind you. Each translator tries to do something different. But this doesn’t convey at all -at all!- the joyfulness and straightforward colloquialness mixed with incredible poetic grace of the original. It’s so bad. It’s as bad as every translation of Shakespeare into Italian.
 
@@ -859,23 +859,23 @@ The final step of the purification journey - Dante must walk through a wall of f
 
 He is petrified with fear.
 
-Scanning the fire, and vividly recalling  
-The human bodies I had once seen burned. (Longfellow)
+> Scanning the fire, and vividly recalling  
+> The human bodies I had once seen burned. (Longfellow)
 
 Virgil, as always, is there to comfort him. “See, son, this wall is between you and Beatrice.”
 
 They enter the fire.
 
-When I was in it, into molten glass
-
-I would have cast me to refresh myself,  
-So without measure was the burning there! (Longfellow)
+> When I was in it, into molten glass
+>
+> I would have cast me to refresh myself,  
+> So without measure was the burning there! (Longfellow)
 
 As soon as our heroes are on the other side, the atmosphere is again idyllic, as it was in the earlier part of Purgatory.
 
 Once the purifying ascent is finally over, Virgil tells Dante that his free will is now healthy, and he no longer needs mentoring:
 
-“I crown and miter you over yourself.” (Longfellow I think)
+> “I crown and miter you over yourself.” (Longfellow I think)
 
 We have reached Eden, located at the top of Purgatory. It looks as you think Eden would. Singing birds, pleasant woods, waters purer than any other, the tree of good and evil. Virgil is still there for now, but a woman from Heaven is the one to show Dante around, Mathelda, who comes across as the embodiment of innocence and serenity (she is initially seen picking flowers).
 
@@ -1081,14 +1081,14 @@ we were accepted by the timeless pearl.
 
 Contrast with how the Moon is described in Orlando Furioso 200 years later:
 
-Here other river, lake, and rich champaign  
-Are seen, than those which are below descried;  
-Here other valley, other hill and plain,  
-With towns and cities of their own supplied;  
-Which mansions of such mighty size contain,  
-Such never he before of after spied.  
-Here spacious hold and lonely forest lay,  
-Where nymphs for ever chased the panting prey.  (William Stewart Rose)
+> Here other river, lake, and rich champaign  
+> Are seen, than those which are below descried;  
+> Here other valley, other hill and plain,  
+> With towns and cities of their own supplied;  
+> Which mansions of such mighty size contain,  
+> Such never he before of after spied.  
+> Here spacious hold and lonely forest lay,  
+> Where nymphs for ever chased the panting prey.  (William Stewart Rose)
 
 How had space changed in 200 years! And that was still before Copernicanism
 
@@ -1222,16 +1222,16 @@ Dante and Beatrice fly along the stairway, reaching Gemini, the author’s own z
 
 From the top of the physical universe, Dante looks back at it. He describes the planets with grand words and classical references - except the Earth, which looks so small and lowly! We should think little of it.
 
-…and I beheld this globe  
-Such that I smiled at its ignoble semblance.
-
-(…)
-
-The threshing—floor that maketh us so proud,  
-To me revolving with the eternal Twins,  
-Was all apparent made from hill to harbour!
-
-Then to the beauteous eyes mine eyes I turned. (Longfellow)
+> …and I beheld this globe  
+> Such that I smiled at its ignoble semblance.
+>
+> (…)
+>
+> The threshing—floor that maketh us so proud,  
+> To me revolving with the eternal Twins,  
+> Was all apparent made from hill to harbour!
+>
+> Then to the beauteous eyes mine eyes I turned. (Longfellow)
 
 Longfellow uses “proud”, but the word is “feroci”, ferocious, violent. The Earth is “the little courtyard that makes us so ferocious”.
 
@@ -1601,9 +1601,9 @@ but since I mean to tell the good found there,
 
 all else I’ve come across will too be said.
 
-Longfellow: So bitter is it, death is little more;
+> Longfellow: So bitter is it, death is little more;
 
-Mandelbaum: so bitter — death is hardly more severe!
+> Mandelbaum: so bitter — death is hardly more severe!
 
 Imagine one whose gasps still pour and pour,
 
@@ -1619,9 +1619,9 @@ that never let a living person flee.        <———
 
 Longfellow:
 
-So did my soul, that still was fleeing onward,  
-Turn itself back to re-behold the pass  
-Which never yet a living person left.
+> So did my soul, that still was fleeing onward,  
+> Turn itself back to re-behold the pass  
+> Which never yet a living person left.
 
 These lines hint at death so much, without saying he died!
 

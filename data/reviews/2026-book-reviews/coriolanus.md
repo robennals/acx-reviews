@@ -718,16 +718,11 @@ Menenius steps forward into the brewing riot. Like Coriolanus, Menenius takes hi
 
 He denies the patrician hand in the famine.
 
-> I tell you, friends, most charitable care
->
-> Have the patricians of you. For your wants,
->
-> Your suffering in this dearth, you may as well
->
-> Strike at the heaven with your staves as lift them
->
-> … For the dearth [famine],
->
+> I tell you, friends, most charitable care  
+> Have the patricians of you. For your wants,  
+> Your suffering in this dearth, you may as well  
+> Strike at the heaven with your staves as lift them  
+> … For the dearth [famine],  
 > The gods, not the patricians, make it.
 
 But the plebs do not buy this:
@@ -736,78 +731,52 @@ But the plebs do not buy this:
 
 In reply, Menenius gives them “_a pretty tale_” and here the play’s thesis starts. It should be among the _dramatis personae_—it’s the character that explains the play’s five acts.
 
-> There was a time when all the body’s members
->
-> Rebell’d against the belly, thus accused it:
->
-> That only like a gulf it did remain
->
-> I’ the midst o’ the body, idle and unactive,
->
-> Still cupboarding the viand, never bearing
->
-> Like labour with the rest, where the other instruments
->
-> Did see and hear, devise, instruct, walk, feel,
->
-> And, mutually participate, did minister
->
-> Unto the appetite and affection common
->
+> There was a time when all the body’s members  
+> Rebell’d against the belly, thus accused it:  
+> That only like a gulf it did remain  
+> I’ the midst o’ the body, idle and unactive,  
+> Still cupboarding the viand, never bearing  
+> Like labour with the rest, where the other instruments  
+> Did see and hear, devise, instruct, walk, feel,  
+> And, mutually participate, did minister  
+> Unto the appetite and affection common  
 > Of the whole body.
 
 On the surface, Menenius’s fable seems to be only common sense. A body needs food to reach every part that needs it, and if each part does its job, the whole body has health. In this parable Shakespeare identifies a fitness interdependence in Rome: all parts rise and fall together; each pools effort and draws by need or by work done; and all of it runs under a coordination organized by the Senate that dovetails their separate acts, mortise and tenon, into one larger working polity.
 
 But the plebs already know the fable and can detect that they are being played. The Second Citizen cuts in:
 
-> Your belly’s answer? What!
->
-> The kingly-crowned head, the vigilant eye,
->
-> The counsellor heart, the arm our soldier,
->
-> Our steed the leg, the tongue our trumpeter,
->
-> With other muniments and petty helps
->
+> Your belly’s answer? What!  
+> The kingly-crowned head, the vigilant eye,  
+> The counsellor heart, the arm our soldier,  
+> Our steed the leg, the tongue our trumpeter,  
+> With other muniments and petty helps  
 > In this our fabric…
 
 _In this our fabric._ The plebeians grasp that the fable is not neutral. The citizen attacks Menenius’s distribution—
 
-> should by the cormorant belly be restrain’d,
->
+> should by the cormorant belly be restrain’d,  
 > Who is the sink o’ the body.
 
 Menenius has gamed the fable. He exposes this when he has the belly answer its accusers—and in doing so, the belly reveals whom it favors:
 
-> True is it, my incorporate friends,” quoth he,
->
-> “That I receive the general food at first
->
-> Which you do live upon; and fit it is,
->
-> Because I am the storehouse and the shop
->
-> Of the whole body. But, if you do remember,
->
-> I send it through the rivers of your blood
->
-> Even to the court, the heart, to th’ seat o’ th’ brain;
->
-> And, through the cranks and offices of man,
->
-> The strongest nerves and small inferior veins
->
-> From me receive that natural competency
->
+> True is it, my incorporate friends,” quoth he,  
+> “That I receive the general food at first  
+> Which you do live upon; and fit it is,  
+> Because I am the storehouse and the shop  
+> Of the whole body. But, if you do remember,  
+> I send it through the rivers of your blood  
+> Even to the court, the heart, to th’ seat o’ th’ brain;  
+> And, through the cranks and offices of man,  
+> The strongest nerves and small inferior veins  
+> From me receive that natural competency  
 > Whereby they live.
 
 The food, when it moves, goes “_through the rivers of your blood_” first “_to the court, the heart, to th’ seat o’ th’ brain_.” The ruling faculties go first; the rest follow—”*the strongest nerves and small inferior vein*s.” The language here subtly changes. The brain and the heart receive from the belly as partners in a common enterprise. But the rest, in contrast, receive only “_that natural competency, whereby they live_.” The brain partners. The other organs take what the belly decides to send. Menenius has swapped the fable’s _mutually participate_ for _from me receive_.
 
 Then Menenius drops the pretense of mutuality:
 
-> The senators of Rome are this good belly,
->
+> The senators of Rome are this good belly,  
 > And you the mutinous members.
 
 The fable was a political kayfabe. In entertainment wrestling, contestants win and lose and the fights look real—but they follow a script. The promoters once denied the scripting. Then they found that the spectators did not mind being in on the secret. Politics can be similar. Institutions that claim to represent every citizen fairly and equally even though they do not get credit for doing so. So long as the gap between claim and practice does not grow too big, people go along. A democracy that fails to keep its promise still beats no democracy. Even autocracies stage elections and work to keep up the pretense that they are not what they are. If people think it is a con, they rebel or become “difficult.”
@@ -816,10 +785,8 @@ Menenius finishes, turns to the Second Citizen, and calls him “_the great toe 
 
 The Second Citizen retorts:
 
-> SECOND CITIZEN. I the great toe? Why the great toe?
->
-> MENENIUS. For that, being one o’ th’ lowest, basest, poorest
->
+> SECOND CITIZEN. I the great toe? Why the great toe?  
+> MENENIUS. For that, being one o’ th’ lowest, basest, poorest  
 > Of this most wise rebellion, thou go’st foremost…
 
 Menenius begins with a fable about a body whose parts “_mutually participate_.” He ends by calling one of them the “_lowest, basest, poorest_.”
@@ -830,10 +797,8 @@ Ralph Fiennes’s 2011 film, _Coriolanus_, cuts all of this. Menenius stays, but
 
 Before the plebeians can answer Menenius, Caius Marcius (the future Coriolanus) walks on. He denies any shared fate and fitness interdependence:
 
-> What’s the matter, you dissentious rogues,
->
-> That, rubbing the poor itch of your opinion,
->
+> What’s the matter, you dissentious rogues,  
+> That, rubbing the poor itch of your opinion,  
 > Make yourselves scabs?
 
 His first words to the plebs make them a disease on the body politic’s skin. But if the plebs are scabs, no yoke binds his welfare to theirs—they do not rise and fall in the polity together. They could as well exist in different bodies. Caius Marcius only wants to scrape them off. Within twenty lines of his speech they have become “_curs, hares, geese_”—and finally, when the tribunes take office to represent them, he adds:
@@ -858,20 +823,16 @@ Deeds one way. Acceptance the other. Each freely given. This is not a market exc
 
 Coriolanus can only, however, understand interdependence as an exchange:
 
-> To brag unto them “Thus I did, and thus!”
->
-> Show them th’ unaching scars, which I should hide,
->
-> As if I had received them for the hire
->
+> To brag unto them “Thus I did, and thus!”  
+> Show them th’ unaching scars, which I should hide,  
+> As if I had received them for the hire  
 > Of their breath [for their vocal support] only!
 
 Another soldier might have accepted that he and the citizens in the city’s fate were interdependent. But Coriolanus cannot grant the interdependence implied by such acceptance.
 
 As he says earlier, he hates the very idea:
 
-> I had rather have my wounds to heal again
->
+> I had rather have my wounds to heal again  
 > Than hear say how I got them.
 
 He eventually is persuaded to go through with the ritual—but he cannot keep down his contempt for the yoke the ritual asks him to show. The plebeians initially give him their voices and back his consulship.
@@ -882,36 +843,27 @@ But the plebeians then change. The Third Citizen says: “_Was not this mockery_
 
 Sicinius, a tribune, sets the banishment in motion.
 
-> It shall be so, it shall be so! Let him away!
->
-> He’s banished, and it shall be so.
->
-> …
->
+> It shall be so, it shall be so! Let him away!  
+> He’s banished, and it shall be so.  
+> …  
 > He’s a disease that must be cut away.
 
 The patrician Menenius agrees on the disease—but sees it as curable:
 
-> O, he’s a limb that has but a disease;
->
+> O, he’s a limb that has but a disease;  
 > Mortal, to cut it off; to cure it, easy.
 
 He explains:
 
-> Consider this: he has been bred i’ th’ wars
->
-> Since he could draw a sword, and is ill schooled
->
-> In bolted language; meal and bran together
->
+> Consider this: he has been bred i’ th’ wars  
+> Since he could draw a sword, and is ill schooled  
+> In bolted language; meal and bran together  
 > He throws without distinction.
 
 But to no avail. The citizens get Coriolanus banished “out at gates”. But not before Coriolanus first banishes them.
 
-> … I banish you!
->
-> … For you the city, thus I turn my back.
->
+> … I banish you!  
+> … For you the city, thus I turn my back.  
 > There is a world elsewhere.
 
 He never belonged to Rome. You cannot be cast out of a body of which you were never part.
@@ -922,30 +874,18 @@ Banished, Coriolanus walks to Antium. Wearing a beggar’s cloak, he arrives at 
 
 There, Shakespeare gives him one soliloquy:
 
-> O world, thy slippery turns! Friends now fast sworn,
->
-> Whose double bosoms seems to wear one heart,
->
-> Whose hours, whose bed, whose meal and exercise
->
-> Are still together, who twin, as ‘twere, in love
->
-> Unseparable, shall within this hour,
->
-> On a dissension of a doit, break out
->
-> To bitterest enmity; so fellest foes,
->
-> Whose passions and whose plots have broke their sleep
->
-> To take the one the other, by some chance,
->
-> Some trick not worth an egg, shall grow dear friends
->
-> And interjoin their issues. So with me:
->
-> My birthplace hate I, and my love’s upon
->
+> O world, thy slippery turns! Friends now fast sworn,  
+> Whose double bosoms seems to wear one heart,  
+> Whose hours, whose bed, whose meal and exercise  
+> Are still together, who twin, as ‘twere, in love  
+> Unseparable, shall within this hour,  
+> On a dissension of a doit, break out  
+> To bitterest enmity; so fellest foes,  
+> Whose passions and whose plots have broke their sleep  
+> To take the one the other, by some chance,  
+> Some trick not worth an egg, shall grow dear friends  
+> And interjoin their issues. So with me:  
+> My birthplace hate I, and my love’s upon  
 > This enemy town.
 
 The soliloquy denies interdependence. Friends who share bed, meal, exercise—twinned in love—beat as one heart this hour and break as foes the next. Enemies sworn to kill turn kin over “_a trick not worth an egg_.” No yoke binds fates here—only alignments of interest that “_interjoin their issues_,” that is, until they do not.
@@ -954,28 +894,19 @@ Coriolanus speaks Roberts’s equation and kills it. The equation, _sb − c > 0
 
 Coriolanus enters the house. He offers himself to Aufidius as a pure transaction:
 
-> … if thou dost not believe
->
-> That I am Aufidius, and hate Rome, make good
->
-> Upon the love thou bear’st me, thy revenge
->
+> … if thou dost not believe  
+> That I am Aufidius, and hate Rome, make good  
+> Upon the love thou bear’st me, thy revenge  
 > Through the heart of Caesar, or else bury me.
 
 Aufidius cheers him in public. In private—in a later aside to a lieutenant—he understands the man he has just welcomed differently:
 
-> So our virtues
->
-> Lie in the interpretation of the time:
->
-> And power, unto itself most commendable,
->
-> Hath not a tomb so evident as a chair
->
-> To extol what it hath done.
->
-> One fire drives out one fire; one nail, one nail;
->
+> So our virtues  
+> Lie in the interpretation of the time:  
+> And power, unto itself most commendable,  
+> Hath not a tomb so evident as a chair  
+> To extol what it hath done.  
+> One fire drives out one fire; one nail, one nail;  
 > Rights by rights falter, strengths by strengths do fail.
 
 Aufidius has seen in Coriolanus what the soliloquy has revealed—and now knows what to do with him. A man whose worth lies in “_the interpretation of the time_” is a man you use while time runs your way—and then dump—one fire drives out one fire—when it turns.
@@ -986,14 +917,10 @@ Why is Coriolanus like this? One reason is in his very name, _Coriolanus_. In Ac
 
 The general Cominius names him after the city he has just taken:
 
-> … from this time,
->
-> For what he did before Corioles, call him,
->
-> With all th’ applause and clamor of the host,
->
-> Martius Caius Coriolanus! Bear
->
+> … from this time,  
+> For what he did before Corioles, call him,  
+> With all th’ applause and clamor of the host,  
+> Martius Caius Coriolanus! Bear  
 > Th’ addition nobly ever!
 
 The cognomen honors him—but it also cuts him from Rome. Had he taken Corioles with the Roman army, the name would have bound him, through them, to his city. He did not. Instead the name marks him as independent.
@@ -1002,8 +929,7 @@ The cognomen honors him—but it also cuts him from Rome. Had he taken Corioles 
 
 Coriolanus, however, has one yoke of interdependence—the yoke to his mother. Volumnia has built him for war. The play shows this early, when Volumnia speaks of him:
 
-> Thy valiantness was mine, thou suck’dst it from me,
->
+> Thy valiantness was mine, thou suck’dst it from me,  
 > But owe thy pride thyself.
 
 His courage is her milk. His pride, the one thing he might claim as his own, was—as the play shows at its end—hers.
@@ -1018,8 +944,7 @@ In Act 5, Volumnia triggers Coriolanus’s death. He stands outside Rome at the 
 
 Coriolanus sees his mother and steels himself:
 
-> But, out, affection,
->
+> But, out, affection,  
 > All bond and privilege of nature, break!
 
 He kneels first, as a son:
@@ -1028,50 +953,34 @@ He kneels first, as a son:
 
 His mother kneels to him:
 
-> O, stand up blest,
->
-> Whilst with no softer cushion than the flint
->
-> I kneel before thee, and unproperly
->
-> Show duty, as mistaken all this while
->
+> O, stand up blest,  
+> Whilst with no softer cushion than the flint  
+> I kneel before thee, and unproperly  
+> Show duty, as mistaken all this while  
 > Between the child and parent.
 
 He raises her, stunned:
 
-> What’s this?
->
+> What’s this?  
 > Your knees to me? to your corrected son?
 
 She tells him what the chronicles will record about his name if he sacks Rome. He is silent. Then she stings:
 
-> There’s no man in the world
->
-> More bound to ‘s mother; yet here he lets me prate
->
-> Like one i’ th’ stocks. Thou hast never in thy life
->
-> Show’d thy dear mother any courtesy,
->
-> When she, poor hen, fond of no second brood,
->
-> Has cluck’d thee to the wars and safely home,
->
+> There’s no man in the world  
+> More bound to ‘s mother; yet here he lets me prate  
+> Like one i’ th’ stocks. Thou hast never in thy life  
+> Show’d thy dear mother any courtesy,  
+> When she, poor hen, fond of no second brood,  
+> Has cluck’d thee to the wars and safely home,  
 > Loaden with honour.
 
 He turns away. She turns:
 
-> Down, ladies; let us shame him with our knees…
->
-> Nay, behold’s:
->
-> This boy, that cannot tell what he would have
->
-> But kneels and holds up hands for fellowship,
->
-> Does reason our petition with more strength
->
+> Down, ladies; let us shame him with our knees…  
+> Nay, behold’s:  
+> This boy, that cannot tell what he would have  
+> But kneels and holds up hands for fellowship,  
+> Does reason our petition with more strength  
 > Than thou hast to deny’t.
 
 She kneels again. His wife kneels. The boy kneels and “_holds up hands for fellowship_.”
@@ -1080,18 +989,12 @@ The one interdependence he has ever known—the yoke to his mother—stops him. 
 
 Then the words break out of him:
 
-> O mother, mother!
->
-> What have you done? Behold, the heavens do ope,
->
-> The gods look down, and this unnatural scene
->
-> They laugh at. O my mother, mother! O!
->
-> You have won a happy victory to Rome;
->
-> But, for your son, believe it, O, believe it,
->
+> O mother, mother!  
+> What have you done? Behold, the heavens do ope,  
+> The gods look down, and this unnatural scene  
+> They laugh at. O my mother, mother! O!  
+> You have won a happy victory to Rome;  
+> But, for your son, believe it, O, believe it,  
 > Most dangerously you have engaged him.
 
 He knows that what he has done will cost him his life. “_Most dangerously you have engaged him_.” The Volscians cannot risk a crying general who bends to his Roman mom.
@@ -1104,26 +1007,19 @@ What Coriolanus has instead is a negative bond—to Aufidius.
 
 In the opening scene, Marcius (he is not yet Coriolanus), told that the Volscians are arming, comments:
 
-> They have a leader,
->
-> Tullus Aufidius, that will put you to’t.
->
-> I sin in envying his nobility,
->
-> And were I anything but what I am,
->
+> They have a leader,  
+> Tullus Aufidius, that will put you to’t.  
+> I sin in envying his nobility,  
+> And were I anything but what I am,  
 > I would wish me only he.
 
 He does not envy Aufidius’s army, his cause, his political position; he envies the inner thing, the substance of him as a man. He calls his envy a sin—the language not of rivalry but of confession. He goes further: “_were I anything but what I am, I would wish me only he_.” That’s the only interdependence left to him—fates linked by inversion, one’s up the other’s down.
 
 He then expands:
 
-> Were half to half the world by the ears, and he
->
-> Upon my party, I’d revolt to make
->
-> Only my wars with him: he is a lion
->
+> Were half to half the world by the ears, and he  
+> Upon my party, I’d revolt to make  
+> Only my wars with him: he is a lion  
 > That I am proud to hunt.
 
 If the whole world were at war and Aufidius were on his own side, he would defect to fight him. The inverted bond to Aufidius is stronger than any positive one. The hunter is interdependent with his prey—he needs the prey to exist, for him to exist. Interdependence lived like a film negative.

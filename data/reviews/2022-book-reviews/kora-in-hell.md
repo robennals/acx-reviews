@@ -17,9 +17,9 @@ tags:
 
 _[This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked._]
 
-> The sense that everything is poetical is a  
-> thing solid and absolute; it is not a mere matter  
-> of phraseology or persuasion.
+> _The sense that everything is poetical is a_  
+> _thing solid and absolute; it is not a mere matter_  
+> _of phraseology or persuasion._
 
 — G.K. Chesterton
 
@@ -39,10 +39,8 @@ So yet another interpretation of the title is that WCW is not the Spring taken t
 
 As its name implies, the Improvisations is not a meticulously planned book. It’s not a high concept type of thing where you literally move the Eleusinian Myth to New Jersey. William Carlos Williams simply went to work in the morning and when he returned home at night, no matter how late it was, before going to bed, he wrote something, anything, and at the end of the year he had a pile of texts in front of him which were now the rough precursor of a book. Those texts were loosely based on what had happened to him throughout that day, or on something he had seen or thought about. Williams wrote the book during 1917, when he was around 34 years old. That’s the age Dante had when he began the Divine Comedy:
 
-> _“Nel mezzo del cammin di nostra vita_
-> 
-> _mi ritrovai per una selva oscura_
-> 
+> _“Nel mezzo del cammin di nostra vita_  
+> _mi ritrovai per una selva oscura_  
 > _ché la diritta via era smarrita.”_
 
 Middle life, dark jungle, lost the way. Or, as WCW puts it:
