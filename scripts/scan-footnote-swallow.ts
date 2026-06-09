@@ -76,7 +76,11 @@ for (const contest of fs.readdirSync(ROOT)) {
         bigId: big.id,
         bigChars: r.length,
         signals,
-        highConfidence: hasHeading || hasHrule || r.length > 3000,
+        // Only an embedded heading or thematic break is a DEFINITIVE swallow
+        // signal — a real footnote can never contain one. HUGE/MANYPARA are
+        // merely suggestive (some authors write genuinely long footnotes, e.g.
+        // Pinker #68 = 11k chars), so those are review-by-eye, not high-confidence.
+        highConfidence: hasHeading || hasHrule,
         snippet: r.replace(/\s+/g, ' ').slice(0, 120),
       });
     }
