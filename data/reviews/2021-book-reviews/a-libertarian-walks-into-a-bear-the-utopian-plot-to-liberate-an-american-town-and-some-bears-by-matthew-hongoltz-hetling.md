@@ -16,16 +16,16 @@ tags:
   - Society
 ---
 
-Out in the storybook land are many leagues of the wild  
-        Wise and uncontainable as a windy-haired child  
-        There are the youth truth movements and they’re springing from the ground  
-        Freak flag wavers and you cannot chop them down  
-        Hey, it’s the home of the brave, you’ll get the threat of the free  
-        Go to the woods
-
-Go to the woods and see
-
-— Dar Williams, “Go to the Woods”
+> Out in the storybook land are many leagues of the wild  
+> Wise and uncontainable as a windy-haired child  
+> There are the youth truth movements and they’re springing from the ground  
+> Freak flag wavers and you cannot chop them down  
+> Hey, it’s the home of the brave, you’ll get the threat of the free  
+> Go to the woods
+>
+> Go to the woods and see
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Dar Williams, “Go to the Woods”
 
 _A Libertarian Walks Into a Bear_ builds on its awesome title[[1]](#ftnt1) in a charming vein: each chapter sports[[2]](#ftnt2) its very own carefully-chosen literary epigraph about bears, kind of like the humongous chapter of whale epigraphs at the beginning of _Moby-Dick_. The book also holds out the promise of a carefully-researched account of how some libertarian idealism went awry in practice—in this case, a more-radical and smaller-scale predecessor to the [Free State Project](https://www.fsp.org/). Instead of trying to take over the whole state of New Hampshire, the Free Town Project proposed to take over just a single small town there. As you might already guess from the title, that didn’t turn out very well[[3]](#ftnt3).
 

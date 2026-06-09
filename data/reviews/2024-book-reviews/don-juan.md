@@ -41,13 +41,11 @@ And one to tell the tale, plus two disarming
 Poor commoners who— well, you get the point.  
 Blake? [That’s been done](http://unsongbook.com/). Keats? There’s no doubt he’s charming,  
 But [none too popular](https://www.lesswrong.com/posts/x4dG4GhpZH2hgz59x/joy-in-the-merely-real) around this joint.  
-Ovid’s just porn; [Piet Hein](https://allpoetry.com/Piet-Hein)’s too bent on harming
-
-> Our eyes  
->  with all  
->  those line breaks  
->  to anoint.
-
+Ovid’s just porn; [Piet Hein](https://allpoetry.com/Piet-Hein)’s too bent on harming  
+    Our eyes  
+     with all  
+     those line breaks  
+     to anoint.  
 Pope? Clickbait, ‘less you’ve realized — I’ll reward ya —  
 “Pope, Alexander” won’t refer to [Borgia](https://en.wikipedia.org/wiki/Pope_Alexander_VI).
 
