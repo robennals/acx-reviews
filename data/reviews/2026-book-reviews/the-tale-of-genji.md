@@ -141,13 +141,6 @@ A few concrete examples of women acting with agency in a world that mostly kept 
 * An empress seeks to solidify her son’s power by getting him married well, and works hard behind the scenes to secure a specific young lady as her son’s wife.
 * A woman neglected by her lover sends her living spirit to possess his other lover and make her ill.
 * A young woman goes into hiding from men who desire her, and chooses to become a nun so that she would be out of their reach. This was one of the few socially acceptable ways for a woman to avoid marriage or get out of an existing one, but often the woman needed her husband’s or a male relative’s permission to do so.
-    * He hears a rumour that a woman is particularly beautiful.
-    * He hears a rumour that a man has brought up his daughter with particular care.
-    * He is sneaking about somewhere he shouldn’t be, and catches a glimpse of her exquisite hair, arm, face, or another enticing body part.
-    * He hears her play an instrument or sing beautifully.
-    * She has beautiful handwriting and is quick to compose sophisticated poems.
-    * He really wants a princess as one of his wives and she happens to be one.
-    * She reminds him of his mother/stepmother/sister/wife/former lover.
 
 One could also consider women having agency in more indirect forms, such as working hard to learn skills that would help attract a desirable man or deciding which men’s advances to encourage and which ones to reject.
 
@@ -160,6 +153,14 @@ Relationships of various kinds formed the fabric of life in the Imperial Court, 
 However, the overall landscape of relationships was much more complicated. Relationships and affairs were generally considered private business, and were not policed very strictly. Short dalliances could become longer semi-formal relationships where the man provided for the woman and their children. Aristocratic households had female servants and companions who were by position expected to be sexually available to the men of the house, but these weren’t considered actual relationships and they didn’t threaten anyone’s power or position. The Heian aristocracy was sometimes surprisingly practical, and it was not impossible for a woman to leave a marriage she didn’t want to be in and even go on to marry someone else.
 
 Here is a non-exhaustive list of reasons why the men in _Genji_ fall in love:
+
+* He hears a rumour that a woman is particularly beautiful.
+* He hears a rumour that a man has brought up his daughter with particular care.
+* He is sneaking about somewhere he shouldn’t be, and catches a glimpse of her exquisite hair, arm, face, or another enticing body part.
+* He hears her play an instrument or sing beautifully.
+* She has beautiful handwriting and is quick to compose sophisticated poems.
+* He really wants a princess as one of his wives and she happens to be one.
+* She reminds him of his mother/stepmother/sister/wife/former lover.
 
 It’s harder to make a similar list for women, because in the story, most of the time women fall in love off-screen, somewhere in the process of courtship. Women do of course catch glimpses of men, and definitely know who is good-looking and refined and smells good, but they don’t start sending love letters without him initiating it. Courting, of course, was generally only relevant for relationships outside of marriage. Here’s a common approach, based on my impression after reading _Genji_:
 
