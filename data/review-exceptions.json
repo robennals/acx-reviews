@@ -414,6 +414,9 @@
   "the-sun-also-rises": {
     "disableFootnotes": true
   },
+  "the-tale-of-genji": {
+    "skipFetch": true
+  },
   "the-tale-of-the-princess-kaguya": {
     "skipFetch": true
   },
