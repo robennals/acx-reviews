@@ -37,3 +37,19 @@ test('throws on a row with too few fields', () => {
   const csv = 'voter_email,rating,review_title,review_slug,rated_at\nbad,row\n';
   assert.throws(() => parseVotesCsv(csv), /malformed/i);
 });
+
+test('throws on an empty rating field', () => {
+  const csv =
+    'voter_email,rating,review_title,review_slug,rated_at\n' +
+    'a@x.com,,T,t,2026-06-01T00:00:00Z\n';
+  assert.throws(() => parseVotesCsv(csv), /malformed|invalid/i);
+});
+
+test('handles escaped double-quotes inside a quoted field', () => {
+  const csv =
+    'voter_email,rating,review_title,review_slug,rated_at\n' +
+    'a@x.com,8,"A ""Great"" Book",a-great-book,2026-06-01T00:00:00Z\n';
+  const rows = parseVotesCsv(csv);
+  assert.equal(rows[0].rating, 8);
+  assert.equal(rows[0].slug, 'a-great-book');
+});

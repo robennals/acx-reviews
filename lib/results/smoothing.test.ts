@@ -22,3 +22,10 @@ test('a spike spreads to neighbors', () => {
 test('bandwidth 0 returns a copy unchanged', () => {
   assert.deepEqual(gaussianSmooth([1, 2, 3], 0), [1, 2, 3]);
 });
+
+test('bandwidth <= 0 returns a copy, not the original array', () => {
+  const orig = [1, 2, 3];
+  const result = gaussianSmooth(orig, 0);
+  result[0] = 99;
+  assert.equal(orig[0], 1);
+});

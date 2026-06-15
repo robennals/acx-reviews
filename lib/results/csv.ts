@@ -45,8 +45,8 @@ export function parseVotesCsv(text: string): VoteRecord[] {
       throw new Error(`malformed CSV row ${i + 1}: expected 5 fields, got ${f.length}`);
     }
     const rating = Number(f[1]);
-    if (!Number.isInteger(rating)) {
-      throw new Error(`malformed CSV row ${i + 1}: non-integer rating "${f[1]}"`);
+    if (f[1].trim() === '' || !Number.isFinite(rating) || !Number.isInteger(rating)) {
+      throw new Error(`malformed CSV row ${i + 1}: invalid rating "${f[1]}"`);
     }
     rows.push({ email: f[0], rating, slug: f[3], ratedAt: f[4] });
   }
