@@ -41,13 +41,8 @@ export function VotingBanner({ year }: { year?: number }) {
           )}
           {votingEnd && (
             <span className="text-amber-700">
-              Closes{' '}
-              {votingEnd.toLocaleDateString('en-US', {
-                month: 'short',
-                day: 'numeric',
-                year: 'numeric',
-                timeZone: 'UTC',
-              })}
+              {/* Last full day to vote. Hard-coded for this contest. */}
+              Last day to vote is June 15
             </span>
           )}
         </span>
