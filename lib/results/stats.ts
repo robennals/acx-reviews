@@ -1,4 +1,4 @@
-import type { VoteRecord } from './types';
+import type { VoteRecord, ReviewRef } from './types';
 import { gaussianSmooth } from './smoothing';
 
 // --- grouping ---
@@ -169,8 +169,6 @@ export function bayesianScores(
   return out;
 }
 
-import type { ReviewRef } from './types';
-
 // Two-way additive model rating_ij ≈ mu + quality_i + bias_j, fit by
 // alternating mean updates. Optional shrinkage pulls thin reviews' quality
 // toward 0 by factor n/(n+shrinkage).
@@ -215,6 +213,8 @@ export function twoWayModel(
       maxDelta = Math.max(maxDelta, Math.abs(shrunk - (quality.get(slug) ?? 0)));
       quality.set(slug, shrunk);
     }
+    // Quality is updated last each pass, so its convergence implies bias has
+    // also settled — checking quality alone is a sufficient stopping condition.
     if (maxDelta < 1e-7) break;
   }
   return { mu, quality, bias };
@@ -234,7 +234,7 @@ export interface RankedReview {
 }
 
 function rankMap(rows: { slug: string; value: number }[]): Map<string, number> {
-  const sorted = [...rows].sort((a, b) => b.value - a.value);
+  const sorted = [...rows].sort((a, b) => b.value - a.value || a.slug.localeCompare(b.slug));
   const ranks = new Map<string, number>();
   sorted.forEach((r, i) => ranks.set(r.slug, i + 1));
   return ranks;
@@ -282,6 +282,6 @@ export function assembleRankings(
     };
   }
   // Default sort: Bayesian (the headline robust ranking), best first.
-  base.sort((a, b) => b.bayesian - a.bayesian);
+  base.sort((a, b) => b.bayesian - a.bayesian || a.slug.localeCompare(b.slug));
   return base;
 }

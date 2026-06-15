@@ -152,4 +152,10 @@ test('assembleRankings returns one row per voted review with all four metrics', 
   assert.ok(typeof s1.adjusted === 'number');
   // ranks present per method
   assert.ok(s1.ranks.mean >= 1 && s1.ranks.adjusted >= 1);
+  const s2 = rows.find((r) => r.slug === 's2')!;
+  assert.equal(rows[0].slug, 's1'); // default sort is Bayesian desc
+  assert.ok(s1.mean > s2.mean);
+  assert.ok(s1.normalized > s2.normalized);
+  assert.ok(s1.bayesian > s2.bayesian);
+  assert.ok(s1.adjusted > s2.adjusted);
 });
