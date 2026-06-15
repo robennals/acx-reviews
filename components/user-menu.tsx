@@ -79,13 +79,22 @@ export function UserMenu({
             {session.user.email}
           </div>
           {isAdmin && (
-            <Link
-              href="/admin"
-              className="block px-3 py-2 text-sm hover:bg-muted no-underline"
-              onClick={() => setMenuOpen(false)}
-            >
-              Admin
-            </Link>
+            <>
+              <Link
+                href="/results"
+                className="block px-3 py-2 text-sm hover:bg-muted no-underline"
+                onClick={() => setMenuOpen(false)}
+              >
+                Results
+              </Link>
+              <Link
+                href="/admin"
+                className="block px-3 py-2 text-sm hover:bg-muted no-underline"
+                onClick={() => setMenuOpen(false)}
+              >
+                Admin
+              </Link>
+            </>
           )}
           <button
             onClick={() => {
