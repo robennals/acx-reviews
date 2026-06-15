@@ -60,3 +60,23 @@ test('driveByClusters counts single-vote 9-10 ballots per review', () => {
   const s2 = clusters.find((c) => c.slug === 's2')!;
   assert.equal(s2.driveByCount, 3);
 });
+
+test('extreme-bias flags a low-variance reviewer far from the global mean', () => {
+  const votes = [
+    ...consensus(),
+    v('harsh@x.com', 's1', 1), v('harsh@x.com', 's2', 1), v('harsh@x.com', 's3', 1),
+    v('harsh@x.com', 's4', 1), v('harsh@x.com', 's5', 1),
+  ];
+  const harsh = analyzeSuspicion(votes).find((r) => r.email === 'harsh@x.com')!;
+  assert.ok(harsh.flags.includes('extreme-bias'));
+});
+
+test('extreme-bias does NOT flag a low-variance reviewer near the global mean', () => {
+  const votes = [
+    ...consensus(),
+    v('mid@x.com', 's1', 6), v('mid@x.com', 's2', 6), v('mid@x.com', 's3', 6),
+    v('mid@x.com', 's4', 6), v('mid@x.com', 's5', 6),
+  ];
+  const mid = analyzeSuspicion(votes).find((r) => r.email === 'mid@x.com')!;
+  assert.ok(!mid.flags.includes('extreme-bias'));
+});

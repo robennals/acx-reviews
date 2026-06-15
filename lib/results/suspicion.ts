@@ -40,16 +40,16 @@ function pearson(a: number[], b: number[]): number | null {
   const mb = mean(b);
   let num = 0;
   let da = 0;
-  let dbb = 0;
+  let db = 0;
   for (let i = 0; i < n; i++) {
     const xa = a[i] - ma;
     const xb = b[i] - mb;
     num += xa * xb;
     da += xa * xa;
-    dbb += xb * xb;
+    db += xb * xb;
   }
-  if (da === 0 || dbb === 0) return null;
-  return num / Math.sqrt(da * dbb);
+  if (da === 0 || db === 0) return null;
+  return num / Math.sqrt(da * db);
 }
 
 export function analyzeSuspicion(votes: VoteRecord[]): SuspiciousReviewer[] {
@@ -131,7 +131,8 @@ export function analyzeSuspicion(votes: VoteRecord[]): SuspiciousReviewer[] {
 }
 
 // Per-review count of single-vote ballots (voter rated only this review) that
-// handed it a 9-10 — a coordinated-ballot-stuffing smell.
+// handed it a 9-10 — a coordinated-ballot-stuffing smell. Reviews with zero
+// drive-by ballots are omitted from the result.
 export function driveByClusters(votes: VoteRecord[]): DriveByCluster[] {
   const byEmail = ratingsByEmail(votes);
   const bySlug = ratingsBySlug(votes);
