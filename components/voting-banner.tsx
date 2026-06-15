@@ -41,12 +41,14 @@ export function VotingBanner({ year }: { year?: number }) {
           )}
           {votingEnd && (
             <span className="text-amber-700">
-              Closes{' '}
-              {votingEnd.toLocaleDateString('en-US', {
+              Closes end of{' '}
+              {/* votingEnd is the exclusive close instant; show the last
+                  votable day in Pacific time (one ms before the boundary). */}
+              {new Date(votingEnd.getTime() - 1).toLocaleDateString('en-US', {
                 month: 'short',
                 day: 'numeric',
                 year: 'numeric',
-                timeZone: 'UTC',
+                timeZone: 'America/Los_Angeles',
               })}
             </span>
           )}
