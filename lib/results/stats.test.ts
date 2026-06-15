@@ -54,3 +54,34 @@ test('rawMeanCI with n=1 returns a degenerate interval', () => {
   assert.equal(one.ciLow, 7);
   assert.equal(one.ciHigh, 7);
 });
+
+import { uniformizeBallot, normalizedScores } from './stats';
+
+test('uniformizeBallot maps a ballot to midrank uniform values', () => {
+  // ascending ratings -> ascending uniform values (rank-0.5)/k
+  assert.deepEqual(uniformizeBallot([2, 5, 9]), [
+    (1 - 0.5) / 3,
+    (2 - 0.5) / 3,
+    (3 - 0.5) / 3,
+  ]);
+});
+
+test('uniformizeBallot gives all-equal ratings the neutral 0.5', () => {
+  assert.deepEqual(uniformizeBallot([7, 7, 7]), [0.5, 0.5, 0.5]);
+});
+
+test('uniformizeBallot: single vote is neutral 0.5', () => {
+  assert.deepEqual(uniformizeBallot([3]), [0.5]);
+});
+
+test('normalizedScores averages per-reviewer uniform values per review', () => {
+  // Reviewer A: s1=10, s2=1 -> uniform s1=0.75, s2=0.25
+  // Reviewer B: s1=1, s2=10 -> uniform s1=0.25, s2=0.75
+  const votes: VoteRecord[] = [
+    v('A', 's1', 10), v('A', 's2', 1),
+    v('B', 's1', 1), v('B', 's2', 10),
+  ];
+  const m = normalizedScores(votes);
+  assert.ok(Math.abs((m.get('s1') ?? 0) - 0.5) < 1e-9);
+  assert.ok(Math.abs((m.get('s2') ?? 0) - 0.5) < 1e-9);
+});

@@ -101,3 +101,41 @@ export function rawMeanCI(ratings: number[]): MeanCI {
   const t = tCritical975(n - 1);
   return { n, mean, ciLow: mean - t * se, ciHigh: mean + t * se };
 }
+
+// Convert one reviewer's ratings into uniform [0,1] values via average ranks:
+// value = (avgRank - 0.5) / k. Ties share the mean of their ranks, so an
+// all-equal ballot maps to all 0.5; a single rating maps to 0.5.
+export function uniformizeBallot(ratings: number[]): number[] {
+  const k = ratings.length;
+  if (k === 0) return [];
+  if (k === 1) return [0.5];
+  const idx = ratings.map((r, i) => ({ r, i })).sort((a, b) => a.r - b.r);
+  const avgRank = new Array<number>(k);
+  let i = 0;
+  while (i < k) {
+    let j = i;
+    while (j + 1 < k && idx[j + 1].r === idx[i].r) j++;
+    // ranks are 1-based positions i+1..j+1; their mean:
+    const mean = (i + 1 + (j + 1)) / 2;
+    for (let t = i; t <= j; t++) avgRank[idx[t].i] = mean;
+    i = j + 1;
+  }
+  return avgRank.map((rank) => (rank - 0.5) / k);
+}
+
+// For each review, the mean of the uniform values assigned by its voters.
+export function normalizedScores(votes: VoteRecord[]): Map<string, number> {
+  const byEmail = ratingsByEmail(votes);
+  const sum = new Map<string, number>();
+  const cnt = new Map<string, number>();
+  for (const records of byEmail.values()) {
+    const u = uniformizeBallot(records.map((r) => r.rating));
+    records.forEach((rec, i) => {
+      sum.set(rec.slug, (sum.get(rec.slug) ?? 0) + u[i]);
+      cnt.set(rec.slug, (cnt.get(rec.slug) ?? 0) + 1);
+    });
+  }
+  const out = new Map<string, number>();
+  for (const [slug, s] of sum) out.set(slug, s / (cnt.get(slug) ?? 1));
+  return out;
+}
