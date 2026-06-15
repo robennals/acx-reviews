@@ -139,3 +139,32 @@ export function normalizedScores(votes: VoteRecord[]): Map<string, number> {
   for (const [slug, s] of sum) out.set(slug, s / (cnt.get(slug) ?? 1));
   return out;
 }
+
+// Prior strength C for shrinkage: the median number of votes per review.
+export function defaultPriorStrength(bySlug: Map<string, number[]>): number {
+  const counts = [...bySlug.values()].map((a) => a.length).sort((a, b) => a - b);
+  if (counts.length === 0) return 0;
+  const mid = Math.floor(counts.length / 2);
+  return counts.length % 2 ? counts[mid] : (counts[mid - 1] + counts[mid]) / 2;
+}
+
+// IMDb-style weighted rating: (n*mean + C*globalMean) / (n + C).
+export function bayesianScores(
+  bySlug: Map<string, number[]>,
+  C: number
+): Map<string, number> {
+  let total = 0;
+  let n = 0;
+  for (const arr of bySlug.values()) {
+    for (const r of arr) total += r;
+    n += arr.length;
+  }
+  const globalMean = n > 0 ? total / n : 0;
+  const out = new Map<string, number>();
+  for (const [slug, arr] of bySlug) {
+    const k = arr.length;
+    const mean = k > 0 ? arr.reduce((a, b) => a + b, 0) / k : 0;
+    out.set(slug, (k * mean + C * globalMean) / (k + C || 1));
+  }
+  return out;
+}

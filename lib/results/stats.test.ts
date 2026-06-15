@@ -85,3 +85,30 @@ test('normalizedScores averages per-reviewer uniform values per review', () => {
   assert.ok(Math.abs((m.get('s1') ?? 0) - 0.5) < 1e-9);
   assert.ok(Math.abs((m.get('s2') ?? 0) - 0.5) < 1e-9);
 });
+
+import { defaultPriorStrength, bayesianScores } from './stats';
+
+test('defaultPriorStrength is the median votes-per-review', () => {
+  const ratings = new Map<string, number[]>([
+    ['s1', [5]],
+    ['s2', [5, 5, 5]],
+    ['s3', [5, 5, 5, 5, 5]],
+  ]);
+  assert.equal(defaultPriorStrength(ratings), 3);
+});
+
+test('bayesianScores pulls thin reviews toward the global mean', () => {
+  // global mean is ~5.5. s1 has one 10 (thin), s2 has ten 10s (heavy).
+  const votes: VoteRecord[] = [v('a', 's1', 10)];
+  for (let i = 0; i < 10; i++) votes.push(v(`u${i}`, 's2', 10));
+  for (let i = 0; i < 10; i++) votes.push(v(`w${i}`, 's3', 1)); // anchors global mean lower
+  const by = ratingsBySlug(votes);
+  const scores = bayesianScores(by, 5);
+  assert.ok((scores.get('s1') ?? 0) < (scores.get('s2') ?? 0), 'thin pulled below heavy');
+  assert.ok((scores.get('s1') ?? 0) < 10, 'thin shrunk below its raw mean of 10');
+});
+
+test('bayesianScores with C=0 recovers the raw mean', () => {
+  const by = ratingsBySlug([v('a', 's1', 4), v('b', 's1', 8)]);
+  assert.ok(Math.abs((bayesianScores(by, 0).get('s1') ?? 0) - 6) < 1e-9);
+});
