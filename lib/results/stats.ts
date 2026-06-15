@@ -326,10 +326,7 @@ export interface CoverageBucket {
 // drill into any cluster to see which reviews landed there and how they scored.
 const COVERAGE_BUCKET_RANGES: readonly { label: string; min: number; max: number }[] =
   Object.freeze([
-    { label: '0', min: 0, max: 0 },
-    { label: '1', min: 1, max: 1 },
-    { label: '2–5', min: 2, max: 5 },
-    { label: '6–10', min: 6, max: 10 },
+    { label: '0–10', min: 0, max: 10 },
     { label: '11–20', min: 11, max: 20 },
     { label: '21–50', min: 21, max: 50 },
     { label: '51+', min: 51, max: Infinity },
