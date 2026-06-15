@@ -21,6 +21,7 @@ export default async function ResultsPage() {
   const CONTEST_ID = await getResultsContestId();
 
   const reviews = await getReviewsByContest(CONTEST_ID);
+  const contestTitle = reviews[0]?.contestName ?? CONTEST_ID;
   const refs = reviews.map((r) => ({ slug: r.slug, title: r.title }));
   const allSlugs = refs.map((r) => r.slug);
   const knownSlugs = new Set(allSlugs);
@@ -41,7 +42,7 @@ export default async function ResultsPage() {
 
   return (
     <div className="max-w-4xl mx-auto px-6 py-12">
-      <h1 className="font-serif text-3xl">Results · {CONTEST_ID}</h1>
+      <h1 className="font-serif text-3xl">Results · {contestTitle}</h1>
       <p className="text-muted-foreground mt-2">
         {totalVotes} votes · {refs.length} reviews · {zeroVote} with no votes
       </p>
