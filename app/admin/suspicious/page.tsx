@@ -5,14 +5,15 @@ import { isAdminEmail } from '@/lib/admin';
 import { getReviewsByContest } from '@/lib/reviews';
 import { getReportVotes } from '@/lib/results/votes-source';
 import { analyzeSuspicion, driveByClusters } from '@/lib/results/suspicion';
+import { getResultsContestId } from '@/lib/results/active-contest';
 
 export const dynamic = 'force-dynamic';
-
-const CONTEST_ID = '2026-book-reviews';
 
 export default async function SuspiciousPage() {
   const session = await auth();
   if (!isAdminEmail(session?.user?.email)) redirect('/');
+
+  const CONTEST_ID = await getResultsContestId();
 
   const reviews = await getReviewsByContest(CONTEST_ID);
   const titleOf = new Map(reviews.map((r) => [r.slug, r.title]));

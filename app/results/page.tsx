@@ -8,16 +8,17 @@ import {
   scoreDistribution,
   assembleRankings,
 } from '@/lib/results/stats';
-import { DistributionChart, RankBar } from '@/components/results/charts';
+import { DistributionChart, RankingList } from '@/components/results/charts';
+import { getResultsContestId } from '@/lib/results/active-contest';
 
 export const dynamic = 'force-dynamic';
-
-const CONTEST_ID = '2026-book-reviews';
 
 export default async function ResultsPage() {
   const session = await auth();
   // Admin-gated for now. To make public later, remove these two lines.
   if (!isAdminEmail(session?.user?.email)) redirect('/');
+
+  const CONTEST_ID = await getResultsContestId();
 
   const reviews = await getReviewsByContest(CONTEST_ID);
   const refs = reviews.map((r) => ({ slug: r.slug, title: r.title }));
@@ -112,34 +113,12 @@ export default async function ResultsPage() {
 
       <section className="mt-10">
         <h2 className="font-serif text-2xl">Full ranking by mean</h2>
-        <div className="mt-3 space-y-1">
-          {[...rankings]
-            .sort((a, b) => b.mean - a.mean)
-            .map((r, i) => (
-              <div key={r.slug} className="flex items-center gap-3 text-sm">
-                <span className="w-6 text-right text-muted-foreground">{i + 1}</span>
-                <span className="flex-1 truncate">{r.title}</span>
-                <span className="w-32"><RankBar value={r.mean} max={maxMean} /></span>
-                <span className="w-12 text-right tabular-nums">{r.mean.toFixed(2)}</span>
-              </div>
-            ))}
-        </div>
+        <RankingList items={[...rankings].sort((a, b) => b.mean - a.mean).map((r) => ({ slug: r.slug, title: r.title, value: r.mean }))} max={maxMean} decimals={2} />
       </section>
 
       <section className="mt-10">
         <h2 className="font-serif text-2xl">Full ranking by normalized score</h2>
-        <div className="mt-3 space-y-1">
-          {[...rankings]
-            .sort((a, b) => b.normalized - a.normalized)
-            .map((r, i) => (
-              <div key={r.slug} className="flex items-center gap-3 text-sm">
-                <span className="w-6 text-right text-muted-foreground">{i + 1}</span>
-                <span className="flex-1 truncate">{r.title}</span>
-                <span className="w-32"><RankBar value={r.normalized} max={maxNorm} /></span>
-                <span className="w-12 text-right tabular-nums">{r.normalized.toFixed(3)}</span>
-              </div>
-            ))}
-        </div>
+        <RankingList items={[...rankings].sort((a, b) => b.normalized - a.normalized).map((r) => ({ slug: r.slug, title: r.title, value: r.normalized }))} max={maxNorm} decimals={3} />
       </section>
     </div>
   );

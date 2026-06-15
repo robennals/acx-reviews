@@ -21,9 +21,12 @@ export function DistributionChart({
   const H = 200;
   const n = points.length;
   const step = n > 1 ? W / (n - 1) : W;
-  const curve = points
-    .map((p, i) => `${i === 0 ? 'M' : 'L'} ${i * step} ${H - (p.smooth / maxVal) * H}`)
-    .join(' ');
+  const curve =
+    n < 2
+      ? ''
+      : points
+          .map((p, i) => `${i === 0 ? 'M' : 'L'} ${i * step} ${H - (p.smooth / maxVal) * H}`)
+          .join(' ');
 
   return (
     <div className="my-4">
@@ -47,7 +50,7 @@ export function DistributionChart({
           preserveAspectRatio="none"
           aria-hidden
         >
-          <path d={curve} fill="none" stroke="currentColor" strokeWidth={2} className="text-primary" />
+          <path d={curve} fill="none" stroke="currentColor" strokeWidth={2} className="text-primary" vectorEffect="non-scaling-stroke" />
         </svg>
       </div>
       <div className="flex justify-between text-xs text-muted-foreground mt-1">
@@ -64,6 +67,31 @@ export function RankBar({ value, max }: { value: number; max: number }) {
   return (
     <div className="h-2 bg-muted rounded">
       <div className="h-2 bg-primary rounded" style={{ width: `${pct}%` }} />
+    </div>
+  );
+}
+
+export function RankingList({
+  items,
+  max,
+  decimals,
+}: {
+  items: { slug: string; title: string; value: number }[];
+  max: number;
+  decimals: number;
+}) {
+  return (
+    <div className="mt-3 space-y-1">
+      {items.map((it, i) => (
+        <div key={it.slug} className="flex items-center gap-3 text-sm">
+          <span className="w-6 text-right text-muted-foreground">{i + 1}</span>
+          <span className="flex-1 truncate">{it.title}</span>
+          <span className="w-32">
+            <RankBar value={it.value} max={max} />
+          </span>
+          <span className="w-12 text-right tabular-nums">{it.value.toFixed(decimals)}</span>
+        </div>
+      ))}
     </div>
   );
 }
