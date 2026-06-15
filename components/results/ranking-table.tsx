@@ -21,7 +21,7 @@ const COLUMNS: { key: SortKey; label: string; tip: string }[] = [
   {
     key: 'adjusted',
     label: 'Adjusted',
-    tip: "A two-way model that estimates each review's quality while subtracting each reviewer's personal harshness or leniency.",
+    tip: "Adjusted for reviewer bias. Some people rate everything high, others low — this estimates each reviewer's personal lean and subtracts it, so a review rated mostly by harsh critics isn't penalized and one rated by easy graders isn't flattered. Unlike Normalized (which rescales each ballot on its own), it uses the overlap in who rated what to put every review on one common scale, even though no reviewer rated them all. Reviews with few votes are nudged toward the average.",
   },
 ];
 
