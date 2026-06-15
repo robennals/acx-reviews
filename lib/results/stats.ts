@@ -285,3 +285,61 @@ export function assembleRankings(
   base.sort((a, b) => b.bayesian - a.bayesian || a.slug.localeCompare(b.slug));
   return base;
 }
+
+// --- coverage buckets (clustered, drill-down) ---
+
+export interface BucketReview {
+  slug: string;
+  title: string;
+  votes: number;
+  mean: number | null; // null when the review got no votes
+}
+
+export interface CoverageBucket {
+  label: string;
+  min: number;
+  max: number; // Infinity for the open-ended top bucket
+  count: number;
+  reviews: BucketReview[];
+}
+
+// Cluster ranges for the votes-per-review distribution. The exact-count view is
+// noisy; these buckets give a readable shape while still letting the reader
+// drill into any cluster to see which reviews landed there and how they scored.
+const COVERAGE_BUCKET_RANGES: readonly { label: string; min: number; max: number }[] =
+  Object.freeze([
+    { label: '0', min: 0, max: 0 },
+    { label: '1', min: 1, max: 1 },
+    { label: '2–5', min: 2, max: 5 },
+    { label: '6–10', min: 6, max: 10 },
+    { label: '11–20', min: 11, max: 20 },
+    { label: '21–50', min: 21, max: 50 },
+    { label: '51+', min: 51, max: Infinity },
+  ]);
+
+// Group every contest review into a vote-count bucket, carrying each review's
+// vote count and mean score so a reader can see whether low-interest reviews
+// also scored poorly. `refs` is the full contest review list (so zero-vote
+// reviews appear in the '0' bucket).
+export function coverageBuckets(
+  votes: VoteRecord[],
+  refs: ReviewRef[]
+): CoverageBucket[] {
+  const bySlug = ratingsBySlug(votes);
+  const reviews: BucketReview[] = refs.map((r) => {
+    const ratings = bySlug.get(r.slug) ?? [];
+    const n = ratings.length;
+    return {
+      slug: r.slug,
+      title: r.title,
+      votes: n,
+      mean: n ? ratings.reduce((a, b) => a + b, 0) / n : null,
+    };
+  });
+  return COVERAGE_BUCKET_RANGES.map((b) => {
+    const inBucket = reviews
+      .filter((rv) => rv.votes >= b.min && rv.votes <= b.max)
+      .sort((a, c) => c.votes - a.votes || (c.mean ?? 0) - (a.mean ?? 0));
+    return { label: b.label, min: b.min, max: b.max, count: inBucket.length, reviews: inBucket };
+  });
+}

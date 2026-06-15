@@ -3,12 +3,10 @@ import { auth } from '@/auth';
 import { isAdminEmail } from '@/lib/admin';
 import { getReviewsByContest } from '@/lib/reviews';
 import { getReportVotes } from '@/lib/results/votes-source';
-import {
-  coverageDistribution,
-  scoreDistribution,
-  assembleRankings,
-} from '@/lib/results/stats';
-import { DistributionChart, RankingList } from '@/components/results/charts';
+import { coverageBuckets, scoreDistribution, assembleRankings } from '@/lib/results/stats';
+import { DistributionChart } from '@/components/results/charts';
+import { CoverageBuckets } from '@/components/results/coverage-buckets';
+import { RankingTable } from '@/components/results/ranking-table';
 import { getResultsContestId } from '@/lib/results/active-contest';
 
 export const dynamic = 'force-dynamic';
@@ -23,22 +21,18 @@ export default async function ResultsPage() {
   const reviews = await getReviewsByContest(CONTEST_ID);
   const contestTitle = reviews[0]?.contestName ?? CONTEST_ID;
   const refs = reviews.map((r) => ({ slug: r.slug, title: r.title }));
-  const allSlugs = refs.map((r) => r.slug);
-  const knownSlugs = new Set(allSlugs);
+  const knownSlugs = new Set(refs.map((r) => r.slug));
 
   const votesRaw = await getReportVotes(CONTEST_ID);
   // Keep only votes for reviews in this contest.
   const votes = votesRaw.filter((v) => knownSlugs.has(v.slug));
 
-  const coverage = coverageDistribution(votes, allSlugs);
+  const buckets = coverageBuckets(votes, refs);
   const scores = scoreDistribution(votes);
   const rankings = assembleRankings(votes, refs);
 
   const totalVotes = votes.length;
-  const zeroVote = coverage[0]?.reviews ?? 0;
-  const maxMean = Math.max(1, ...rankings.map((r) => r.mean));
-  const maxNorm = Math.max(0.0001, ...rankings.map((r) => r.normalized));
-  const top = rankings.slice(0, 25); // rank-stability headline set
+  const zeroVote = buckets.find((b) => b.label === '0')?.count ?? 0;
 
   return (
     <div className="max-w-4xl mx-auto px-6 py-12">
@@ -50,14 +44,10 @@ export default async function ResultsPage() {
       <section className="mt-10">
         <h2 className="font-serif text-2xl">Votes per review</h2>
         <p className="text-sm text-muted-foreground">
-          How many reviews received exactly N votes (bars), with a smoothed
-          density overlay.
+          Reviews clustered by how many votes they received. Click a cluster to
+          list its reviews and the mean score they got.
         </p>
-        <DistributionChart
-          points={coverage.map((c) => ({ label: c.votes, value: c.reviews, smooth: c.smooth }))}
-          xLabel="votes received"
-          yLabel="number of reviews"
-        />
+        <CoverageBuckets buckets={buckets} />
       </section>
 
       <section className="mt-10">
@@ -70,56 +60,12 @@ export default async function ResultsPage() {
       </section>
 
       <section className="mt-10">
-        <h2 className="font-serif text-2xl">Ranking — Bayesian (headline)</h2>
+        <h2 className="font-serif text-2xl">Ranking</h2>
         <p className="text-sm text-muted-foreground">
-          Shrinkage-weighted mean; thin-voted reviews pulled toward the global
-          mean. Columns show each review&apos;s rank under all four methods.
+          Click any method to re-sort. Hover a column heading for what it means,
+          or a mean value for its 95% confidence interval.
         </p>
-        <table className="w-full text-sm mt-3">
-          <thead>
-            <tr className="text-left text-muted-foreground border-b border-border">
-              <th className="py-1">#</th>
-              <th>Review</th>
-              <th className="text-right">n</th>
-              <th className="text-right">mean (95% CI)</th>
-              <th className="text-right">norm</th>
-              <th className="text-right">bayes</th>
-              <th className="text-right">adj</th>
-              <th className="text-right">ranks m/n/b/a</th>
-            </tr>
-          </thead>
-          <tbody>
-            {top.map((r, i) => (
-              <tr key={r.slug} className="border-b border-border/50 align-top">
-                <td className="py-1">{i + 1}</td>
-                <td className="pr-2">{r.title}</td>
-                <td className="text-right">{r.n}</td>
-                <td className="text-right tabular-nums">
-                  {r.mean.toFixed(2)}{' '}
-                  <span className="text-muted-foreground">
-                    [{r.ciLow.toFixed(2)}, {r.ciHigh.toFixed(2)}]
-                  </span>
-                </td>
-                <td className="text-right tabular-nums">{r.normalized.toFixed(3)}</td>
-                <td className="text-right tabular-nums">{r.bayesian.toFixed(2)}</td>
-                <td className="text-right tabular-nums">{r.adjusted.toFixed(2)}</td>
-                <td className="text-right tabular-nums text-muted-foreground">
-                  {r.ranks.mean}/{r.ranks.normalized}/{r.ranks.bayesian}/{r.ranks.adjusted}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </section>
-
-      <section className="mt-10">
-        <h2 className="font-serif text-2xl">Full ranking by mean</h2>
-        <RankingList items={[...rankings].sort((a, b) => b.mean - a.mean).map((r) => ({ slug: r.slug, title: r.title, value: r.mean }))} max={maxMean} decimals={2} />
-      </section>
-
-      <section className="mt-10">
-        <h2 className="font-serif text-2xl">Full ranking by normalized score</h2>
-        <RankingList items={[...rankings].sort((a, b) => b.normalized - a.normalized).map((r) => ({ slug: r.slug, title: r.title, value: r.normalized }))} max={maxNorm} decimals={3} />
+        <RankingTable rows={rankings} />
       </section>
     </div>
   );

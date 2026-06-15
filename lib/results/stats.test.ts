@@ -159,3 +159,35 @@ test('assembleRankings returns one row per voted review with all four metrics', 
   assert.ok(s1.bayesian > s2.bayesian);
   assert.ok(s1.adjusted > s2.adjusted);
 });
+
+import { coverageBuckets } from './stats';
+
+test('coverageBuckets groups reviews by vote count with mean scores', () => {
+  const votes: VoteRecord[] = [v('a', 's1', 8), v('b', 's1', 6), v('a', 's2', 4)];
+  const refs = [
+    { slug: 's1', title: 'One' }, // 2 votes -> 2–5 bucket, mean 7
+    { slug: 's2', title: 'Two' }, // 1 vote  -> 1 bucket,   mean 4
+    { slug: 's3', title: 'Zero' }, // 0 votes -> 0 bucket,  mean null
+  ];
+  const buckets = coverageBuckets(votes, refs);
+
+  const zero = buckets.find((b) => b.label === '0')!;
+  assert.equal(zero.count, 1);
+  assert.equal(zero.reviews[0].slug, 's3');
+  assert.equal(zero.reviews[0].mean, null);
+
+  const one = buckets.find((b) => b.label === '1')!;
+  assert.equal(one.count, 1);
+  assert.equal(one.reviews[0].slug, 's2');
+  assert.equal(one.reviews[0].mean, 4);
+
+  const twoFive = buckets.find((b) => b.label === '2–5')!;
+  assert.equal(twoFive.count, 1);
+  assert.equal(twoFive.reviews[0].slug, 's1');
+  assert.equal(twoFive.reviews[0].votes, 2);
+  assert.equal(twoFive.reviews[0].mean, 7);
+
+  // All range buckets are always present, even when empty.
+  assert.equal(buckets.length, 7);
+  assert.equal(buckets.find((b) => b.label === '51+')!.count, 0);
+});

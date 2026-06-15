@@ -62,36 +62,3 @@ export function DistributionChart({
   );
 }
 
-export function RankBar({ value, max }: { value: number; max: number }) {
-  const pct = max > 0 ? Math.max(0, Math.min(100, (value / max) * 100)) : 0;
-  return (
-    <div className="h-2 bg-muted rounded">
-      <div className="h-2 bg-primary rounded" style={{ width: `${pct}%` }} />
-    </div>
-  );
-}
-
-export function RankingList({
-  items,
-  max,
-  decimals,
-}: {
-  items: { slug: string; title: string; value: number }[];
-  max: number;
-  decimals: number;
-}) {
-  return (
-    <div className="mt-3 space-y-1">
-      {items.map((it, i) => (
-        <div key={it.slug} className="flex items-center gap-3 text-sm">
-          <span className="w-6 text-right text-muted-foreground">{i + 1}</span>
-          <span className="flex-1 truncate">{it.title}</span>
-          <span className="w-32">
-            <RankBar value={it.value} max={max} />
-          </span>
-          <span className="w-12 text-right tabular-nums">{it.value.toFixed(decimals)}</span>
-        </div>
-      ))}
-    </div>
-  );
-}
