@@ -57,6 +57,7 @@ next-env.d.ts
 
 # Private contest submission data (contains email addresses, author names)
 *-submissions.csv
+*-ratings*.csv
 *Submission*.zip
 .claude/
 

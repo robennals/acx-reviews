@@ -62,6 +62,11 @@ export default async function AdminPage({ searchParams }: PageProps) {
     <div className="max-w-7xl mx-auto px-6 sm:px-8 py-12">
       <header className="mb-6 pb-6 border-b border-border">
         <h1 className="text-3xl font-serif font-semibold mb-2">Admin · Ratings</h1>
+        <p className="mt-1 text-sm">
+          <Link href="/results" className="underline">Results report</Link>
+          {' · '}
+          <Link href="/admin/suspicious" className="underline">Suspicious reviewers</Link>
+        </p>
         <p className="text-sm text-muted-foreground">
           Visible only to admins. Most-recent rating activity first.
         </p>
