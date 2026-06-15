@@ -4,7 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import type { RankedReview } from '@/lib/results/stats';
 
-type SortKey = 'mean' | 'normalized' | 'bayesian' | 'adjusted';
+type SortKey = 'mean' | 'normalized' | 'adjusted';
 
 // Each sortable metric column. `tip` is shown as a hover tooltip on the header.
 const COLUMNS: { key: SortKey; label: string; tip: string }[] = [
@@ -17,11 +17,6 @@ const COLUMNS: { key: SortKey; label: string; tip: string }[] = [
     key: 'normalized',
     label: 'Normalized',
     tip: "Each reviewer's ballot is rescaled so everyone uses the full range equally (a uniform spread), then averaged — this cancels out harsh vs. lenient reviewers. Shown rescaled to a 1–10 scale.",
-  },
-  {
-    key: 'bayesian',
-    label: 'Bayesian',
-    tip: "Average pulled toward the overall mean based on how few votes a review got, so a review with a couple of lucky 10s can't outrank one with many votes.",
   },
   {
     key: 'adjusted',
@@ -38,7 +33,7 @@ function normalizedTo10(n: number): number {
 }
 
 export function RankingTable({ rows }: { rows: RankedReview[] }) {
-  const [sortKey, setSortKey] = useState<SortKey>('bayesian');
+  const [sortKey, setSortKey] = useState<SortKey>('mean');
   const sorted = [...rows].sort(
     (a, b) => b[sortKey] - a[sortKey] || a.slug.localeCompare(b.slug)
   );
@@ -100,9 +95,6 @@ export function RankingTable({ rows }: { rows: RankedReview[] }) {
               </td>
               <td className="py-1.5 px-3 text-right tabular-nums">
                 {normalizedTo10(r.normalized).toFixed(1)}
-              </td>
-              <td className="py-1.5 px-3 text-right tabular-nums">
-                {r.bayesian.toFixed(1)}
               </td>
               <td className="py-1.5 px-3 text-right tabular-nums">
                 {r.adjusted.toFixed(1)}

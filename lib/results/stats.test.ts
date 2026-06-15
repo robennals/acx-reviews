@@ -86,33 +86,6 @@ test('normalizedScores averages per-reviewer uniform values per review', () => {
   assert.ok(Math.abs((m.get('s2') ?? 0) - 0.5) < 1e-9);
 });
 
-import { defaultPriorStrength, bayesianScores } from './stats';
-
-test('defaultPriorStrength is the median votes-per-review', () => {
-  const ratings = new Map<string, number[]>([
-    ['s1', [5]],
-    ['s2', [5, 5, 5]],
-    ['s3', [5, 5, 5, 5, 5]],
-  ]);
-  assert.equal(defaultPriorStrength(ratings), 3);
-});
-
-test('bayesianScores pulls thin reviews toward the global mean', () => {
-  // global mean is ~5.5. s1 has one 10 (thin), s2 has ten 10s (heavy).
-  const votes: VoteRecord[] = [v('a', 's1', 10)];
-  for (let i = 0; i < 10; i++) votes.push(v(`u${i}`, 's2', 10));
-  for (let i = 0; i < 10; i++) votes.push(v(`w${i}`, 's3', 1)); // anchors global mean lower
-  const by = ratingsBySlug(votes);
-  const scores = bayesianScores(by, 5);
-  assert.ok((scores.get('s1') ?? 0) < (scores.get('s2') ?? 0), 'thin pulled below heavy');
-  assert.ok((scores.get('s1') ?? 0) < 10, 'thin shrunk below its raw mean of 10');
-});
-
-test('bayesianScores with C=0 recovers the raw mean', () => {
-  const by = ratingsBySlug([v('a', 's1', 4), v('b', 's1', 8)]);
-  assert.ok(Math.abs((bayesianScores(by, 0).get('s1') ?? 0) - 6) < 1e-9);
-});
-
 import { twoWayModel, assembleRankings } from './stats';
 
 test('twoWayModel recovers review-quality ordering after removing reviewer bias', () => {
@@ -132,7 +105,7 @@ test('twoWayModel recovers review-quality ordering after removing reviewer bias'
   assert.ok((quality.get('s2') ?? 0) > (quality.get('s3') ?? 0));
 });
 
-test('assembleRankings returns one row per voted review with all four metrics', () => {
+test('assembleRankings returns one row per voted review with each metric', () => {
   const votes: VoteRecord[] = [
     v('A', 's1', 9), v('B', 's1', 8),
     v('A', 's2', 4), v('B', 's2', 5),
@@ -148,15 +121,13 @@ test('assembleRankings returns one row per voted review with all four metrics', 
   const s1 = rows.find((r) => r.slug === 's1')!;
   assert.equal(s1.title, 'One');
   assert.equal(s1.n, 2);
-  assert.ok(s1.mean > 0 && s1.normalized >= 0 && typeof s1.bayesian === 'number');
-  assert.ok(typeof s1.adjusted === 'number');
+  assert.ok(s1.mean > 0 && s1.normalized >= 0 && typeof s1.adjusted === 'number');
   // ranks present per method
   assert.ok(s1.ranks.mean >= 1 && s1.ranks.adjusted >= 1);
   const s2 = rows.find((r) => r.slug === 's2')!;
-  assert.equal(rows[0].slug, 's1'); // default sort is Bayesian desc
+  assert.equal(rows[0].slug, 's1'); // default sort is mean desc
   assert.ok(s1.mean > s2.mean);
   assert.ok(s1.normalized > s2.normalized);
-  assert.ok(s1.bayesian > s2.bayesian);
   assert.ok(s1.adjusted > s2.adjusted);
 });
 

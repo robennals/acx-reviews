@@ -140,34 +140,6 @@ export function normalizedScores(votes: VoteRecord[]): Map<string, number> {
   return out;
 }
 
-// Prior strength C for shrinkage: the median number of votes per review.
-export function defaultPriorStrength(bySlug: Map<string, number[]>): number {
-  const counts = [...bySlug.values()].map((a) => a.length).sort((a, b) => a - b);
-  if (counts.length === 0) return 0;
-  const mid = Math.floor(counts.length / 2);
-  return counts.length % 2 ? counts[mid] : (counts[mid - 1] + counts[mid]) / 2;
-}
-
-// IMDb-style weighted rating: (n*mean + C*globalMean) / (n + C).
-export function bayesianScores(
-  bySlug: Map<string, number[]>,
-  C: number
-): Map<string, number> {
-  let total = 0;
-  let n = 0;
-  for (const arr of bySlug.values()) {
-    for (const r of arr) total += r;
-    n += arr.length;
-  }
-  const globalMean = n > 0 ? total / n : 0;
-  const out = new Map<string, number>();
-  for (const [slug, arr] of bySlug) {
-    const k = arr.length;
-    const mean = k > 0 ? arr.reduce((a, b) => a + b, 0) / k : 0;
-    out.set(slug, (k * mean + C * globalMean) / (k + C || 1));
-  }
-  return out;
-}
 
 // Two-way additive model rating_ij ≈ mu + quality_i + bias_j, fit by
 // alternating mean updates. Optional shrinkage pulls thin reviews' quality
@@ -228,9 +200,8 @@ export interface RankedReview {
   ciLow: number;
   ciHigh: number;
   normalized: number;
-  bayesian: number;
   adjusted: number; // mu + quality
-  ranks: { mean: number; normalized: number; bayesian: number; adjusted: number };
+  ranks: { mean: number; normalized: number; adjusted: number };
 }
 
 function rankMap(rows: { slug: string; value: number }[]): Map<string, number> {
@@ -240,8 +211,8 @@ function rankMap(rows: { slug: string; value: number }[]): Map<string, number> {
   return ranks;
 }
 
-// Build one ranked row per voted review, with all four metrics and each
-// review's rank under each method. `refs` supplies display titles.
+// Build one ranked row per voted review, with each metric and each review's
+// rank under each method. `refs` supplies display titles.
 export function assembleRankings(
   votes: VoteRecord[],
   refs: ReviewRef[]
@@ -249,7 +220,6 @@ export function assembleRankings(
   const titleOf = new Map(refs.map((r) => [r.slug, r.title]));
   const bySlug = ratingsBySlug(votes);
   const normalized = normalizedScores(votes);
-  const bayesian = bayesianScores(bySlug, defaultPriorStrength(bySlug));
   const { mu, quality } = twoWayModel(votes);
 
   const base: RankedReview[] = [];
@@ -263,26 +233,23 @@ export function assembleRankings(
       ciLow: ci.ciLow,
       ciHigh: ci.ciHigh,
       normalized: normalized.get(slug) ?? 0,
-      bayesian: bayesian.get(slug) ?? 0,
       adjusted: mu + (quality.get(slug) ?? 0),
-      ranks: { mean: 0, normalized: 0, bayesian: 0, adjusted: 0 },
+      ranks: { mean: 0, normalized: 0, adjusted: 0 },
     });
   }
 
   const rMean = rankMap(base.map((r) => ({ slug: r.slug, value: r.mean })));
   const rNorm = rankMap(base.map((r) => ({ slug: r.slug, value: r.normalized })));
-  const rBayes = rankMap(base.map((r) => ({ slug: r.slug, value: r.bayesian })));
   const rAdj = rankMap(base.map((r) => ({ slug: r.slug, value: r.adjusted })));
   for (const row of base) {
     row.ranks = {
       mean: rMean.get(row.slug) ?? 0,
       normalized: rNorm.get(row.slug) ?? 0,
-      bayesian: rBayes.get(row.slug) ?? 0,
       adjusted: rAdj.get(row.slug) ?? 0,
     };
   }
-  // Default sort: Bayesian (the headline robust ranking), best first.
-  base.sort((a, b) => b.bayesian - a.bayesian || a.slug.localeCompare(b.slug));
+  // Default sort: mean, best first.
+  base.sort((a, b) => b.mean - a.mean || a.slug.localeCompare(b.slug));
   return base;
 }
 
