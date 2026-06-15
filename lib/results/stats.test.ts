@@ -191,3 +191,21 @@ test('coverageBuckets groups reviews by vote count with mean scores', () => {
   assert.equal(buckets.length, 7);
   assert.equal(buckets.find((b) => b.label === '51+')!.count, 0);
 });
+
+import { excludeSoloHighVotes } from './stats';
+
+test('excludeSoloHighVotes drops voters whose only vote is a 9 or 10', () => {
+  const votes: VoteRecord[] = [
+    v('multi', 's1', 10), v('multi', 's2', 3), // multi-vote -> kept
+    v('solo10', 's1', 10), // lone 10 -> dropped
+    v('solo9', 's2', 9), // lone 9 -> dropped
+    v('solo5', 's3', 5), // lone mid -> kept
+  ];
+  const out = excludeSoloHighVotes(votes);
+  const emails = new Set(out.map((x) => x.email));
+  assert.ok(emails.has('multi'));
+  assert.ok(emails.has('solo5'));
+  assert.ok(!emails.has('solo10'));
+  assert.ok(!emails.has('solo9'));
+  assert.equal(out.length, 3);
+});

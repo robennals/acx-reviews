@@ -286,6 +286,24 @@ export function assembleRankings(
   return base;
 }
 
+// --- fraud filter ---
+
+// Votes from "solo high" voters — people whose entire ballot is a single 9 or
+// 10 — are a common low-effort / ballot-stuffing pattern (a vote for one review
+// and nothing else, at the top of the scale). This drops every such voter's
+// votes. Voters with a lone low/mid rating are kept (not a stuffing signal).
+export function excludeSoloHighVotes(
+  votes: VoteRecord[],
+  highThreshold = 9
+): VoteRecord[] {
+  const byEmail = ratingsByEmail(votes);
+  const drop = new Set<string>();
+  for (const [email, recs] of byEmail) {
+    if (recs.length === 1 && recs[0].rating >= highThreshold) drop.add(email);
+  }
+  return votes.filter((v) => !drop.has(v.email));
+}
+
 // --- coverage buckets (clustered, drill-down) ---
 
 export interface BucketReview {
