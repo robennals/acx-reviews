@@ -112,3 +112,44 @@ test('bayesianScores with C=0 recovers the raw mean', () => {
   const by = ratingsBySlug([v('a', 's1', 4), v('b', 's1', 8)]);
   assert.ok(Math.abs((bayesianScores(by, 0).get('s1') ?? 0) - 6) < 1e-9);
 });
+
+import { twoWayModel, assembleRankings } from './stats';
+
+test('twoWayModel recovers review-quality ordering after removing reviewer bias', () => {
+  // True qualities q(s1)=2 > q(s2)=0 > q(s3)=-2 around mu=5.5.
+  // Reviewer L is lenient (+2), reviewer H is harsh (-2). Each rates all three.
+  const mu = 5.5;
+  const q: Record<string, number> = { s1: 2, s2: 0, s3: -2 };
+  const bias: Record<string, number> = { L: 2, H: -2 };
+  const votes: VoteRecord[] = [];
+  for (const email of ['L', 'H']) {
+    for (const slug of ['s1', 's2', 's3']) {
+      votes.push(v(email, slug, mu + q[slug] + bias[email]));
+    }
+  }
+  const { quality } = twoWayModel(votes, { shrinkage: 0, iterations: 200 });
+  assert.ok((quality.get('s1') ?? 0) > (quality.get('s2') ?? 0));
+  assert.ok((quality.get('s2') ?? 0) > (quality.get('s3') ?? 0));
+});
+
+test('assembleRankings returns one row per voted review with all four metrics', () => {
+  const votes: VoteRecord[] = [
+    v('A', 's1', 9), v('B', 's1', 8),
+    v('A', 's2', 4), v('B', 's2', 5),
+  ];
+  const refs = [
+    { slug: 's1', title: 'One' },
+    { slug: 's2', title: 'Two' },
+    { slug: 's3', title: 'Unvoted' },
+  ];
+  const rows = assembleRankings(votes, refs);
+  // Only voted reviews appear in the ranking rows.
+  assert.equal(rows.length, 2);
+  const s1 = rows.find((r) => r.slug === 's1')!;
+  assert.equal(s1.title, 'One');
+  assert.equal(s1.n, 2);
+  assert.ok(s1.mean > 0 && s1.normalized >= 0 && typeof s1.bayesian === 'number');
+  assert.ok(typeof s1.adjusted === 'number');
+  // ranks present per method
+  assert.ok(s1.ranks.mean >= 1 && s1.ranks.adjusted >= 1);
+});

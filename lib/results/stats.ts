@@ -168,3 +168,120 @@ export function bayesianScores(
   }
   return out;
 }
+
+import type { ReviewRef } from './types';
+
+// Two-way additive model rating_ij ≈ mu + quality_i + bias_j, fit by
+// alternating mean updates. Optional shrinkage pulls thin reviews' quality
+// toward 0 by factor n/(n+shrinkage).
+export function twoWayModel(
+  votes: VoteRecord[],
+  opts?: { shrinkage?: number; iterations?: number }
+): { mu: number; quality: Map<string, number>; bias: Map<string, number> } {
+  const shrinkage = opts?.shrinkage ?? 5;
+  const iterations = opts?.iterations ?? 100;
+
+  const bySlug = new Map<string, VoteRecord[]>();
+  const byEmail = new Map<string, VoteRecord[]>();
+  let total = 0;
+  for (const r of votes) {
+    total += r.rating;
+    const sArr = bySlug.get(r.slug);
+    if (sArr) sArr.push(r); else bySlug.set(r.slug, [r]);
+    const eArr = byEmail.get(r.email);
+    if (eArr) eArr.push(r); else byEmail.set(r.email, [r]);
+  }
+  const mu = votes.length ? total / votes.length : 0;
+
+  const quality = new Map<string, number>();
+  const bias = new Map<string, number>();
+  for (const s of bySlug.keys()) quality.set(s, 0);
+  for (const e of byEmail.keys()) bias.set(e, 0);
+
+  for (let iter = 0; iter < iterations; iter++) {
+    // Update reviewer bias = mean residual (rating - mu - quality) per reviewer.
+    for (const [email, recs] of byEmail) {
+      let acc = 0;
+      for (const r of recs) acc += r.rating - mu - (quality.get(r.slug) ?? 0);
+      bias.set(email, acc / recs.length);
+    }
+    // Update review quality = shrunken mean residual (rating - mu - bias) per review.
+    let maxDelta = 0;
+    for (const [slug, recs] of bySlug) {
+      let acc = 0;
+      for (const r of recs) acc += r.rating - mu - (bias.get(r.email) ?? 0);
+      const raw = acc / recs.length;
+      const shrunk = raw * (recs.length / (recs.length + shrinkage));
+      maxDelta = Math.max(maxDelta, Math.abs(shrunk - (quality.get(slug) ?? 0)));
+      quality.set(slug, shrunk);
+    }
+    if (maxDelta < 1e-7) break;
+  }
+  return { mu, quality, bias };
+}
+
+export interface RankedReview {
+  slug: string;
+  title: string;
+  n: number;
+  mean: number;
+  ciLow: number;
+  ciHigh: number;
+  normalized: number;
+  bayesian: number;
+  adjusted: number; // mu + quality
+  ranks: { mean: number; normalized: number; bayesian: number; adjusted: number };
+}
+
+function rankMap(rows: { slug: string; value: number }[]): Map<string, number> {
+  const sorted = [...rows].sort((a, b) => b.value - a.value);
+  const ranks = new Map<string, number>();
+  sorted.forEach((r, i) => ranks.set(r.slug, i + 1));
+  return ranks;
+}
+
+// Build one ranked row per voted review, with all four metrics and each
+// review's rank under each method. `refs` supplies display titles.
+export function assembleRankings(
+  votes: VoteRecord[],
+  refs: ReviewRef[]
+): RankedReview[] {
+  const titleOf = new Map(refs.map((r) => [r.slug, r.title]));
+  const bySlug = ratingsBySlug(votes);
+  const normalized = normalizedScores(votes);
+  const bayesian = bayesianScores(bySlug, defaultPriorStrength(bySlug));
+  const { mu, quality } = twoWayModel(votes);
+
+  const base: RankedReview[] = [];
+  for (const [slug, ratings] of bySlug) {
+    const ci = rawMeanCI(ratings);
+    base.push({
+      slug,
+      title: titleOf.get(slug) ?? slug,
+      n: ci.n,
+      mean: ci.mean,
+      ciLow: ci.ciLow,
+      ciHigh: ci.ciHigh,
+      normalized: normalized.get(slug) ?? 0,
+      bayesian: bayesian.get(slug) ?? 0,
+      adjusted: mu + (quality.get(slug) ?? 0),
+      ranks: { mean: 0, normalized: 0, bayesian: 0, adjusted: 0 },
+    });
+  }
+
+  const rMean = rankMap(base.map((r) => ({ slug: r.slug, value: r.mean })));
+  const rNorm = rankMap(base.map((r) => ({ slug: r.slug, value: r.normalized })));
+  const rBayes = rankMap(base.map((r) => ({ slug: r.slug, value: r.bayesian })));
+  const rAdj = rankMap(base.map((r) => ({ slug: r.slug, value: r.adjusted })));
+  for (const row of base) {
+    row.ranks = {
+      mean: rMean.get(row.slug) ?? 0,
+      normalized: rNorm.get(row.slug) ?? 0,
+      bayesian: rBayes.get(row.slug) ?? 0,
+      adjusted: rAdj.get(row.slug) ?? 0,
+    };
+  }
+  // Default sort: Bayesian (the headline robust ranking), best first.
+  base.sort((a, b) => b.bayesian - a.bayesian);
+  return base;
+}
