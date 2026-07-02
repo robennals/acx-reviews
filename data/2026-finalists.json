@@ -1,0 +1,20 @@
+{
+  "_comment": "2026 contest finalist review slugs, from Scott's published finalist list. Feedback for these reviews is NOT auto-emailed by scripts/send-feedback.ts. Slugs are the authoritative review slugs (feedback.review_slug), verified against data/reviews-index.json.",
+  "slugs": [
+    "the-book-of-abraham",
+    "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness",
+    "breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-action",
+    "the-epic-of-gilgamesh",
+    "the-escape-artist",
+    "a-residence-of-twenty-one-years-in-the-sandwich-islands",
+    "thomas-urquharts-translation-of-rabelais",
+    "the-tale-of-genji",
+    "this-is-going-to-hurt",
+    "lee-kuan-yews-memoirs",
+    "we-present-television",
+    "storm-of-steel",
+    "the-ghost-in-my-brain",
+    "the-history-and-adventures-of-an-atom-by-tobias-smollett",
+    "orality-and-literacy-by-walter-ong"
+  ]
+}
