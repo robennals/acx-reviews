@@ -72,9 +72,11 @@ export default async function AdminPage({ searchParams }: PageProps) {
         </p>
       </header>
 
-      <div className="mb-6">
-        <LaunchToggle initialLive={contestLive} contestTitle={config?.contestTitle ?? null} />
-      </div>
+      {config && !contestLive && (
+        <div className="mb-6">
+          <LaunchToggle initialLive={contestLive} contestTitle={config.contestTitle} />
+        </div>
+      )}
 
       <div className="mb-4 flex flex-wrap items-center gap-3 justify-between">
         <div className="flex flex-wrap gap-2">

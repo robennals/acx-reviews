@@ -1,13 +1,10 @@
 import { Suspense } from 'react';
 import { getAllReviews, getAllContests } from '@/lib/reviews';
-import { getContestStatus } from '@/lib/server/contest-status';
-import { hideUnlaunched } from '@/lib/launch-filter';
 import { HomePageClient } from '@/components/home-page-client';
 
 export default async function HomePage() {
-  const { config, live } = await getContestStatus();
-  const reviews = hideUnlaunched(await getAllReviews(), config, live);
-  const contests = hideUnlaunched(await getAllContests(), config, live);
+  const reviews = await getAllReviews();
+  const contests = await getAllContests();
   const tags = Array.from(new Set(reviews.flatMap((r) => r.tags ?? []))).sort();
 
   if (reviews.length === 0) {

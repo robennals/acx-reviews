@@ -1,6 +1,5 @@
 import 'server-only';
 import type { VotingConfig } from '@/lib/voting-period';
-import { effectiveVotingConfig } from '@/lib/voting-period';
 import { getVotingConfig } from './voting-config';
 import { getContestLive } from './site-flags';
 
@@ -20,8 +19,13 @@ export async function getContestStatus(): Promise<ContestStatus> {
   return { config: getVotingConfig(), live };
 }
 
-/** The config the app acts on — null until the admin flips it live. */
+/**
+ * The config the app acts on. The 2026 contest is fully launched, so this no
+ * longer consults the contest_live launch flag — voting is gated solely by
+ * the date window in data/voting-config.json (via isVotingOpen at call
+ * sites). getContestStatus() above stays as dormant infra for a future
+ * contest's pre-launch period.
+ */
 export async function getEffectiveVotingConfig(): Promise<VotingConfig | null> {
-  const { config, live } = await getContestStatus();
-  return effectiveVotingConfig(config, live);
+  return getVotingConfig();
 }
