@@ -5,8 +5,6 @@ import { isAdminEmail } from '@/lib/admin';
 import { db } from '@/lib/db/client';
 import { getAllContests, getReviewsByContest } from '@/lib/reviews';
 import { getVotingConfig } from '@/lib/server/voting-config';
-import { getContestLive } from '@/lib/server/site-flags';
-import { LaunchToggle } from '@/components/admin/launch-toggle';
 import { getPaginatedRatings, ADMIN_PAGE_SIZE } from '@/lib/api/admin-logic';
 import { tierOf, LIKERT_LABELS } from '@/lib/voting/likert';
 
@@ -29,7 +27,6 @@ export default async function AdminPage({ searchParams }: PageProps) {
   const { contest: contestParam, page: pageParam } = await searchParams;
   const contests = await getAllContests();
   const config = getVotingConfig();
-  const contestLive = await getContestLive();
   const defaultContestId =
     contestParam ??
     contests.find((c) => config && c.year === config.contestYear)?.id ??
@@ -72,11 +69,12 @@ export default async function AdminPage({ searchParams }: PageProps) {
         </p>
       </header>
 
-      {config && !contestLive && (
-        <div className="mb-6">
-          <LaunchToggle initialLive={contestLive} contestTitle={config.contestTitle} />
-        </div>
-      )}
+      {/*
+        The pre-launch <LaunchToggle> (contest_live in site_flags) is
+        intentionally not rendered: the 2026 contest is fully launched and
+        the flag no longer gates anything. The component and flags API are
+        kept dormant — re-add this render to launch a future contest (2027).
+      */}
 
       <div className="mb-4 flex flex-wrap items-center gap-3 justify-between">
         <div className="flex flex-wrap gap-2">

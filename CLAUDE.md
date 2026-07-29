@@ -75,8 +75,8 @@ spans. `public/audio/` and `.audio-work/` are gitignored build artifacts.
   The 2026 contest is fully launched: its reviews always appear in
   listings/sitemap. The old pre-launch gating infrastructure is kept dormant
   for a future contest: the `contest_live` boolean in `site_flags` (its
-  `/admin` launch toggle shows only while a contest is configured but not yet
-  live), `hideUnlaunched()` (`lib/launch-filter.ts`), `getContestStatus()`
+  `/admin` `LaunchToggle` is no longer rendered — re-add it to launch 2027),
+  `hideUnlaunched()` (`lib/launch-filter.ts`), `getContestStatus()`
   (`lib/server/contest-status.ts`), and the `PREVIEW_CONTEST_LIVE` deploy
   override in `deploy-preview.sh`.
 - **Admin gating** is by env: `ADMIN_EMAILS=a@x.com,b@y.com`. `/admin` shows
