@@ -1,12 +1,9 @@
 import { MetadataRoute } from 'next';
 import { getAllReviews } from '@/lib/reviews';
-import { getContestStatus } from '@/lib/server/contest-status';
-import { hideUnlaunched } from '@/lib/launch-filter';
 import { SITE_URL } from '@/lib/constants';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const { config, live } = await getContestStatus();
-  const reviews = hideUnlaunched(await getAllReviews(), config, live);
+  const reviews = await getAllReviews();
 
   const reviewEntries: MetadataRoute.Sitemap = reviews.map((review) => ({
     url: `${SITE_URL}/reviews/${review.slug}`,

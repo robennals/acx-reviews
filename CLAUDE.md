@@ -70,15 +70,15 @@ spans. `public/audio/` and `.audio-work/` are gitignored build artifacts.
   active voting period (year, title, start/end) is defined in the committed
   `data/voting-config.json` (read by `getVotingConfig()` in
   `lib/server/voting-config.ts`); when missing or invalid, voting is disabled.
-  The contest is gated behind an admin **launch switch** — a `contest_live`
-  boolean in the `site_flags` table, flipped from `/admin`. Until it's live,
-  the contest's reviews are hidden from listings/sitemap and voting is off;
-  `getEffectiveVotingConfig()` (`lib/server/contest-status.ts`) returns the
-  config only when live. The vote button renders only when the period is open
-  AND the review's year matches the active contest. For pre-launch testing,
-  setting `PREVIEW_CONTEST_LIVE=true` on a deploy hard-codes the contest as
-  live for that deploy only (used by `deploy-preview.sh` for the private
-  shared preview alias) — without touching the shared production flag.
+  Voting is gated solely by that date window — the vote button renders only
+  when the period is open AND the review's year matches the active contest.
+  The 2026 contest is fully launched: its reviews always appear in
+  listings/sitemap. The old pre-launch gating infrastructure is kept dormant
+  for a future contest: the `contest_live` boolean in `site_flags` (its
+  `/admin` `LaunchToggle` is no longer rendered — re-add it to launch 2027),
+  `hideUnlaunched()` (`lib/launch-filter.ts`), `getContestStatus()`
+  (`lib/server/contest-status.ts`), and the `PREVIEW_CONTEST_LIVE` deploy
+  override in `deploy-preview.sh`.
 - **Admin gating** is by env: `ADMIN_EMAILS=a@x.com,b@y.com`. `/admin` shows
   vote tallies per contest.
 - **Reading progress sync**: only `in_progress | finished` is written to the
