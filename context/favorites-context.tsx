@@ -8,6 +8,7 @@ import {
   addFavorite as addFavoriteInStorage,
 } from '@/lib/favorites';
 import { computeFavoritesSyncOps } from '@/lib/sync';
+import { fetchSyncOnce, invalidateSyncCache } from '@/lib/sync-client';
 import { useToast } from '@/context/toast-context';
 
 interface FavoritesContextType {
@@ -46,14 +47,19 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
   // re-add it from the server. Acceptable trade-off — true two-way sync would
   // need per-favorite tombstones, which isn't worth the complexity here.
   useEffect(() => {
-    if (!isAuthed) return;
+    if (!isAuthed) {
+      // Defense in depth: also invalidate here so the cache invariant doesn't
+      // depend on the provider nesting order in app/layout.tsx (reading-progress
+      // is currently above us and clears it, but that's invisible from this file).
+      invalidateSyncCache();
+      return;
+    }
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch('/api/sync', { cache: 'no-store' });
-        if (!res.ok || cancelled) return;
-        const data = (await res.json()) as { favorites?: string[] };
-        const server = data.favorites ?? [];
+        const data = await fetchSyncOnce();
+        if (cancelled) return;
+        const server = data.favorites;
         const local = getAllFavorites();
         const { merged, localOnly } = computeFavoritesSyncOps(local, server);
         // Push any local-only items up to the server.

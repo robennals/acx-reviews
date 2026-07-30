@@ -50,7 +50,12 @@ export default async function RootLayout({
 }>) {
   // Auth + DB calls are wrapped so the article-reading experience never
   // breaks if those services are misconfigured or briefly unreachable.
+  // `sessionResolved` tracks whether auth() ran successfully; on statically-
+  // generated routes (e.g. /reviews/[slug]) auth() throws because it reads
+  // cookies, and we must let the client fetch the real session instead of
+  // baking `session=null` into the HTML.
   let session = null;
+  let sessionResolved = false;
   let initialVotes: InitialVotesState = {
     contestYear: null,
     contestTitle: null,
@@ -61,6 +66,7 @@ export default async function RootLayout({
   };
   try {
     session = await auth();
+    sessionResolved = true;
   } catch (err) {
     console.error('[layout] auth() failed; rendering as signed-out:', err);
   }
@@ -87,7 +93,7 @@ export default async function RootLayout({
         </Script>
       </head>
       <body className={`${inter.className} antialiased`}>
-        <AuthProvider>
+        <AuthProvider session={sessionResolved ? session : undefined}>
         <ToastProvider>
         <SignInPromptProvider>
         <ReadingProgressProvider>
