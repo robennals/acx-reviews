@@ -20,7 +20,7 @@ The World’s Coolest Dictator.
 
 Close your eyes and imagine this:
 
-> _‘Some kind of best-case-scenario version of Trump who wants to purge all of the institutions in a creepy strongmannish way but is also competent, honest, and preserves a fig leaf of rule of law’. [1]_
+> _‘Some kind of best-case-scenario version of Trump who wants to purge all of the institutions in a creepy strongmannish way but is also competent, honest, and preserves a fig leaf of rule of law’. [^1]_
 
 Open your eyes: Meet the world’s ‘Coolest Dictator’, Bukele of El Salvador.
 
@@ -34,7 +34,7 @@ This is a non-Book **review** of Bukele’s rise and his presidency. At the time
 As a good Bayesian, you should know by the end of this review whether to adjust your worldview to become more _Bukele-pilled_, or more _Bukele-skeptic_.
 
 * * *
-In 2021, Alexander Scott wrote that Bukele might one day make a great Dictator Book Club entry [2]. Four years later, there still aren’t any non-hagiographical biographies on Amazon. Luckily for me, I need none, because I’ve witnessed the fall of the Republic myself:
+In 2021, Alexander Scott wrote that Bukele might one day make a great Dictator Book Club entry [^2]. Four years later, there still aren’t any non-hagiographical biographies on Amazon. Luckily for me, I need none, because I’ve witnessed the fall of the Republic myself:
 
 *   In 2012, one of my high school classmates was already a Bukele fan, back when he was just a small-town mayor. Now, that classmate is part of the Bukelist ‘New Ideas’ Party.
 *   In 2017, a pro-Bukele college group (_Team Nayib_) tried to recruit me. The classmate who approached me is now a congresswoman for ‘New Ideas’. Another became a mayor.
@@ -53,7 +53,7 @@ But the best that I can do is this: Review Bukele, for the entertainment of a we
 * * *
 That might be better than it sounds:
 
-As I write this, the destiny of a real country is in the hands of a man who has been trying to become the modern-day Lee Kuan Yew - and who is known for marketing his country to rich foreigners [3]: First, to the libertarian-adjacent Bitcoin community, to whom he gave Bitcoin as legal tender; and then, to the MAGA right, to whom he gave CECOT.
+As I write this, the destiny of a real country is in the hands of a man who has been trying to become the modern-day Lee Kuan Yew - and who is known for marketing his country to rich foreigners [^3]: First, to the libertarian-adjacent Bitcoin community, to whom he gave Bitcoin as legal tender; and then, to the MAGA right, to whom he gave CECOT.
 
 Instead, we need to get Bukele (or his brothers) to notice the Silicon Valley based _rationalist_ community. If we got the _ratsphere_ talking about how to turn El Salvador into a software hub and an ‘economic miracle’, we might actually influence policy in an actually-existing government, and nudge it into a more efficient, less-authoritarian direction.
 
@@ -93,21 +93,21 @@ _[https://www.bbc.com/mundo/noticias-america-latina-53074759](https://www.bbc.co
 
 ## II. EL SALVADOR’S BACKGROUND.
 
-All you need to know El Salvador’s history is in Matt Lakeman’s excellent massive blogpost _‘Notes on El Salvador’_. [4]
+All you need to know El Salvador’s history is in Matt Lakeman’s excellent massive blogpost _‘Notes on El Salvador’_. [^4]
 
 If you read it, you will see statistics similar to these.
 
 *   On Corruption:
-    *   Out of the 6 presidents in the post-Civil War period, one is in jail for corruption; two died while being investigated for corruption; two more have self-exiled while they stand accused of corruption; and the remaining one died before he could be formally accused of corruption. [5]
+    *   Out of the 6 presidents in the post-Civil War period, one is in jail for corruption; two died while being investigated for corruption; two more have self-exiled while they stand accused of corruption; and the remaining one died before he could be formally accused of corruption. [^5]
 
 *   On the Economy:
-    *   After the end of the Civil War (early 1992) until 2019, El Salvador grew at a pathetic average of 2.1% / year, which is less then the so-called ‘Hindu rate of growth’ of 3% / year. [6]
-    *   In 2011, the Obama administration got together a group of technocrats to decipher: ‘_Why doesn’t El Salvador grow? How can we make it grow to keep them from sending their people to America?_’ What was the conclusion of these geniuses? It was all about crime. [7].
+    *   After the end of the Civil War (early 1992) until 2019, El Salvador grew at a pathetic average of 2.1% / year, which is less then the so-called ‘Hindu rate of growth’ of 3% / year. [^6]
+    *   In 2011, the Obama administration got together a group of technocrats to decipher: ‘_Why doesn’t El Salvador grow? How can we make it grow to keep them from sending their people to America?_’ What was the conclusion of these geniuses? It was all about crime. [^7].
 
 *   On Crime:
-    *   In 2010, a faction of the 18th Street Gang (18-Revolucionarios) burned down two passenger buses in a working-class neighborhood, killing 19 of them, including women and children. This was known as the _Mejicanos massacre_ [8]
+    *   In 2010, a faction of the 18th Street Gang (18-Revolucionarios) burned down two passenger buses in a working-class neighborhood, killing 19 of them, including women and children. This was known as the _Mejicanos massacre_ [^8]
     *   In 2015, El Salvador became ‘the world’s murder capital’, by reaching the highest murder rate outside of a war zone.
-    *   Between 2015 and 2019, there was a sort of ‘asymmetrical war’ between the gangs and the State, which managed to gradually decrease the murder rate, at the cost of extrajudicial executions carried not by the gangs, but by the police, such as the _San Blas massacre_. [9]
+    *   Between 2015 and 2019, there was a sort of ‘asymmetrical war’ between the gangs and the State, which managed to gradually decrease the murder rate, at the cost of extrajudicial executions carried not by the gangs, but by the police, such as the _San Blas massacre_. [^9]
 
 * * *
 In this period, the “vibes” were as bad as the statistics would have you believe. El Salvador truly _felt_ like a real-life Gotham City.
@@ -123,7 +123,7 @@ Our resentment against the elites worsened after it was revealed by El Faro that
 In other countries, the criminals bribe the politicians; in El Salvador, the politicians bribed the gangs.
 
 * * *
-By the late 2010’s the Salvadoran population itself became one of the most disillusioned with democracy in Latin America [10]. But hope remained in the form of one man.
+By the late 2010’s the Salvadoran population itself became one of the most disillusioned with democracy in Latin America [^10]. But hope remained in the form of one man.
 
 A savior.
 
@@ -139,7 +139,7 @@ In his thirties, he had enough of running campaigns for other people, and decide
 
 He successfully marketed himself as the herald of a renewed, rejuvenated El Salvador:
 
-*   The name of the town, _Nuevo Cuscatlán_, means ‘New El Salvador’. [11]
+*   The name of the town, _Nuevo Cuscatlán_, means ‘New El Salvador’. [^11]
 *   Instead of using the colors of his party, he adopted a bright cyan, which _if you squint_ kind of looks like a more energetic, _youthful_, version of the national colors: Blue and white.
 *   The logo of the town, a bright ‘N’ inside a circle, could be interpreted either as being the initial of his first name, ‘Nayib’; or the initial of what was then his movement ‘Nuevas Ideas’.
 
@@ -147,11 +147,11 @@ On the one hand, he tried to appeal to moderate voters by promoting the need for
 
 On the other hand, he also retained the support of his base by proclaiming that he was a left-winger at heart, praising Marx, Chavez, and Castro. And also by picking up fights against the right-wing newspaper, _La Prensa Gráfica_.
 
-Much like India’s Modi, the attacks of the right-wing media on him were ‘so vicious and baseless that they made ordinary Salvadorans, who didn’t like or trust them, think he was on their side’. Bukele incentivized that animosity by attacking the right-wing newspapers for not paying taxes [12].
+Much like India’s Modi, the attacks of the right-wing media on him were ‘so vicious and baseless that they made ordinary Salvadorans, who didn’t like or trust them, think he was on their side’. Bukele incentivized that animosity by attacking the right-wing newspapers for not paying taxes [^12].
 
 But most importantly, he _actually governed well_: His small town truly did have low crime, and like India’s Modi, he had ‘a reputation as the least corrupt person in the Salvadoran government’.
 
-From my viewpoint, his big break came from what I call _trashgate:_ In 2014, the garbage collectors in _Mejicanos_ (another locality inside the metropolitan area) were on strike against the right-wing mayor, leading to trash accumulating on the streets. Bukele went ahead and, alongside another mayor, _literally cleaned up the streets_. This established his reputation as a young politician who rejected outdated rules in favor of ‘Getting Shit Done’. [13]
+From my viewpoint, his big break came from what I call _trashgate:_ In 2014, the garbage collectors in _Mejicanos_ (another locality inside the metropolitan area) were on strike against the right-wing mayor, leading to trash accumulating on the streets. Bukele went ahead and, alongside another mayor, _literally cleaned up the streets_. This established his reputation as a young politician who rejected outdated rules in favor of ‘Getting Shit Done’. [^13]
 
 His meteoric rise continued by getting elected as mayor of the capital, just three years after having started his political career. There, he undertook the seemingly titanic task of revitalizing the historic downtown, which had become synonymous with crime, dirt, and poverty.
 
@@ -159,7 +159,7 @@ He managed to ‘clean up’ a lot of the downtown _without_ violence, partly by
 
 In hindsight, we now know that by this period, Bukele’s people were _negotiating_ with the gangs: Carlos Marroquin, a city official, would provide the gangs with favorable spots on the new market meant for street sellers, in exchange for the gangs diminishing murders downtown. As a result, the gangs were very favorable towards Bukele, even if they grew more hostile against what was then his party, the left-wing FMLN.
 
-What was Bukele 's alias in these _illegal_ negotiations? _Batman_. [14]
+What was Bukele 's alias in these _illegal_ negotiations? _Batman_. [^14]
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/94c5b139b631965e.png)Pictured: Bukele in 2023 touring the National Library.  
 Source: [https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747](https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747) 
@@ -282,7 +282,7 @@ This is the political genius of Bukele: To adopt a populist rhetoric like Chavez
 2.  Baiting the opposition into defending unpopular postures.
 3.  Effectively avoiding the flaw of democracy in which candidates can ‘temporarily increase their popularity by doing things which are popular even though they’re bad ideas’.
 
-Maybe this is because, unlike Chavez, Bukele doesn’t have ‘enough oil money to defy gravity for a very long time’ [15].
+Maybe this is because, unlike Chavez, Bukele doesn’t have ‘enough oil money to defy gravity for a very long time’ [^15].
 
 After winning the 2024 re-election in a landslide, he proclaimed that his next challenge was to jumpstart the economy. To do this, he has recently been approved on a long-negotiated IMF loan that will hopefully see the Government reach fiscal sustainability without sacrificing long-term investing in infrastructure.
 
@@ -369,7 +369,7 @@ Luckily, Bukele is young: He seems to _enjoy_ the thrill of fighting, as long as
 
 So, should you be more _Bukele-skeptic_, or more _Bukele-pilled_?
 
-Neither. Instead, you should become more _Bukele-curious_, as I have over the last 3 years [16].
+Neither. Instead, you should become more _Bukele-curious_, as I have over the last 3 years [^16].
 
 I believe that my nation is currently at an inflection point: Bukele could either become more like Singapore’s Lee Kuan Yew, or more like Turkey’s Erdogan; and I will become more or less _Bukele-pilled_ depending on which direction he takes.
 
@@ -382,48 +382,48 @@ History hasn’t ended yet. We can take part in writing it ourselves. Maybe that
 
 ## ENDNOTES
 
-1\. Thanks to Scott Alexander for gifting me the perfect intro with this comment: [https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269](https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269) 
+[^1]: Thanks to Scott Alexander for gifting me the perfect intro with this comment: [https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269](https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269) 
 
-2.  [Over the course of this essay, I will quote liberally from Scott’s previous ‘Dictator’ series, without writing the URL, only referencing the Dictator itself. This is an exception because it’s not one of the Dictator series:](https://www.astralcodexten.com/p/model-city-monday-12621) [https://www.astralcodexten.com/p/model-city-monday-12621](https://www.astralcodexten.com/p/model-city-monday-12621)
+[^2]: [Over the course of this essay, I will quote liberally from Scott’s previous ‘Dictator’ series, without writing the URL, only referencing the Dictator itself. This is an exception because it’s not one of the Dictator series:](https://www.astralcodexten.com/p/model-city-monday-12621) [https://www.astralcodexten.com/p/model-city-monday-12621](https://www.astralcodexten.com/p/model-city-monday-12621)
 
-[Almost four years later, the “Volcano Bonds” have failed to materialize, and the idea of Bitcoin City remains a dream.](https://www.astralcodexten.com/p/model-city-monday-12621)
+    [Almost four years later, the “Volcano Bonds” have failed to materialize, and the idea of Bitcoin City remains a dream.](https://www.astralcodexten.com/p/model-city-monday-12621)
 
-3\. The Wall Street Journal affirms that Bukele “comes from a marketing background” and has been quite skillful at using social media to rebrand both his country, and himself. [https://youtu.be/vZAPzdvOIg4?si=ekfI3ErEAV8MMW4z&t=162](https://youtu.be/vZAPzdvOIg4?si=ekfI3ErEAV8MMW4z&t=162).
+[^3]: The Wall Street Journal affirms that Bukele “comes from a marketing background” and has been quite skillful at using social media to rebrand both his country, and himself. [https://youtu.be/vZAPzdvOIg4?si=ekfI3ErEAV8MMW4z&t=162](https://youtu.be/vZAPzdvOIg4?si=ekfI3ErEAV8MMW4z&t=162).
 
-4\. As a Salvadoran, I found this essay quite complete and accurate in many aspects. [https://mattlakeman.org/2024/03/30/notes-on-el-salvador/](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
+[^4]: As a Salvadoran, I found this essay quite complete and accurate in many aspects. [https://mattlakeman.org/2024/03/30/notes-on-el-salvador/](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
 
-5\. In jail: Antonio ‘Tony’ Saca, from ARENA. Died while being investigated: Francisco Flores and Mauricio Funes, from right-wing ARENA and left-wing FMLN, respectively. Self-exiled: Alfredo Cristiani and Salvador Sánchez Cerén, the first president from ARENA and the last president of the FMLN, respectively. Dead before he could be accused: Armando Calderón Sol, ARENA.
+[^5]: In jail: Antonio ‘Tony’ Saca, from ARENA. Died while being investigated: Francisco Flores and Mauricio Funes, from right-wing ARENA and left-wing FMLN, respectively. Self-exiled: Alfredo Cristiani and Salvador Sánchez Cerén, the first president from ARENA and the last president of the FMLN, respectively. Dead before he could be accused: Armando Calderón Sol, ARENA.
 
-6\. For the ‘Hindu rate of growth’, I took Scott’s estimate on the Modi essay. For the El Salvador data, I took the World Bank estimate starting from 1992, given that the Civil War ended in January of that year.  [https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?end=2019&locations=SV&start=1992](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?end=2019&locations=SV&start=1992).
+[^6]: For the ‘Hindu rate of growth’, I took Scott’s estimate on the Modi essay. For the El Salvador data, I took the World Bank estimate starting from 1992, given that the Civil War ended in January of that year.  [https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?end=2019&locations=SV&start=1992](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?end=2019&locations=SV&start=1992).
 
-7\. From the report: _“The Team has arrived at consensus that El Salvador‘s growth seems to face at least two binding constraints: crime and security, and low productivity of the tradables sector”_.
+[^7]: From the report: _“The Team has arrived at consensus that El Salvador‘s growth seems to face at least two binding constraints: crime and security, and low productivity of the tradables sector”_.
 
-If an economist claims _slow_ _economic growth_ is explained by _low productivity_, then that’s just like a doctor claiming that the cause of death is that “the heart stopped beating”. The full report used to be available at USAID, but it got DOGE’d, so instead it can be accessed here:  [https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1](https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1).
+    If an economist claims _slow_ _economic growth_ is explained by _low productivity_, then that’s just like a doctor claiming that the cause of death is that “the heart stopped beating”. The full report used to be available at USAID, but it got DOGE’d, so instead it can be accessed here:  [https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1](https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1).
 
-8\. I remember this well: It happened on a Sunday evening, and the next day at my private school _everybody_ was talking about it. The next Saturday, when I went to French classes, _everybody_ was still talking about it. It felt like a display of savagery worthy of a medieval society, and it shocked the entire country, from the lower to the upper classes.
+[^8]: I remember this well: It happened on a Sunday evening, and the next day at my private school _everybody_ was talking about it. The next Saturday, when I went to French classes, _everybody_ was still talking about it. It felt like a display of savagery worthy of a medieval society, and it shocked the entire country, from the lower to the upper classes.
 
-In fact, it was this very massacre the one that got the Salvadoran government to officially proclaim all gang-members as “terrorists”, with a law whose purpose was to _make possible a gang crackdown_ similar to what Bukele would actually do in 2022. However, the Supreme Court made it impossible because it deemed such a crackdown to be… unconstitutional. Over a decade later, Bukele would go on to simply suspend the constitutional. English wikipedia page here: [https://en.wikipedia.org/wiki/Mejicanos\_massacre](https://en.wikipedia.org/wiki/Mejicanos_massacre).
+    In fact, it was this very massacre the one that got the Salvadoran government to officially proclaim all gang-members as “terrorists”, with a law whose purpose was to _make possible a gang crackdown_ similar to what Bukele would actually do in 2022. However, the Supreme Court made it impossible because it deemed such a crackdown to be… unconstitutional. Over a decade later, Bukele would go on to simply suspend the constitutional. English wikipedia page here: [https://en.wikipedia.org/wiki/Mejicanos\_massacre](https://en.wikipedia.org/wiki/Mejicanos_massacre).
 
-9\. El Faro spent years revealing crime both on the streets and in government. Now, Bukele attacks them by arguing that, with the plummeting crime rate, they are “out of a job”, much like a doctor who finds himself in a world without diseases.
+[^9]: El Faro spent years revealing crime both on the streets and in government. Now, Bukele attacks them by arguing that, with the plummeting crime rate, they are “out of a job”, much like a doctor who finds himself in a world without diseases.
 
-I still find El Faro to be an excellent news source, but it does have an undeniable editorial bias. Notice that one of the journalists in the source below is ‘Roberto Valencia’, who _seems_ to have been ‘pushed out’ of the journal because he opposed the extreme anti-Bukele editorial line that El Faro started to adopt from 2020 onwards.
+    I still find El Faro to be an excellent news source, but it does have an undeniable editorial bias. Notice that one of the journalists in the source below is ‘Roberto Valencia’, who _seems_ to have been ‘pushed out’ of the journal because he opposed the extreme anti-Bukele editorial line that El Faro started to adopt from 2020 onwards.
 
-2015 El Faro report on police brutality (pre-Bukele): [https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm](https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm) 
+    2015 El Faro report on police brutality (pre-Bukele): [https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm](https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm) 
 
-10\. From the ‘Journal of Democracy’: _‘By 2018, a remarkable 82.3 percent of Salvadorans said that there were no meaningful differences between Arena and the FMLN._ _Only 27.7 percent said they preferred democracy over any other type of government—the lowest percentage of any country that Latinobarómetro surveyed’_ at [https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador](https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador).
+[^10]: From the ‘Journal of Democracy’: _‘By 2018, a remarkable 82.3 percent of Salvadorans said that there were no meaningful differences between Arena and the FMLN._ _Only 27.7 percent said they preferred democracy over any other type of government—the lowest percentage of any country that Latinobarómetro surveyed’_ at [https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador](https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador).
 
-11\. _Cuscatlán_ is sometimes used as another name for El Salvador, because it 's the nahuatl version of the indigenous name for much of the country. The actual indigenous name is ‘Kushkatan’, but the pronunciation that became mainstream is that of the native tribes who supported the _Conquistadores_.
+[^11]: _Cuscatlán_ is sometimes used as another name for El Salvador, because it 's the nahuatl version of the indigenous name for much of the country. The actual indigenous name is ‘Kushkatan’, but the pronunciation that became mainstream is that of the native tribes who supported the _Conquistadores_.
 
-12\. The tax exemption of the newspapers is literally in our Constitution, justified on free speech grounds. Basically all of the newspapers have always been right-wing (the whole ‘military dictatorship’ thing wasn’t very good for the growth of alternative viewpoints), so this used to be basically a handout for right-wing propagandists.
+[^12]: The tax exemption of the newspapers is literally in our Constitution, justified on free speech grounds. Basically all of the newspapers have always been right-wing (the whole ‘military dictatorship’ thing wasn’t very good for the growth of alternative viewpoints), so this used to be basically a handout for right-wing propagandists.
 
-However, during the post-Civil War period, a more moderate and professional journalist profession was starting to emerge. That wasn’t enough for Bukele’s populist campaign, which proposed (over Twitter) to exempt food staples from taxes, just like the newspapers were exempt. Currently, in the sixth year of Bukele’s presidency, those old tweets have largely been forgotten.
+    However, during the post-Civil War period, a more moderate and professional journalist profession was starting to emerge. That wasn’t enough for Bukele’s populist campaign, which proposed (over Twitter) to exempt food staples from taxes, just like the newspapers were exempt. Currently, in the sixth year of Bukele’s presidency, those old tweets have largely been forgotten.
 
-13\. Sorry that there’s no English source, probably because it was mostly a local issue. However, it was this kind of headline-grabbing actions on issues that mattered to people, which were the key to Bukele’s popularity. Spanish source here: [https://www.laprensagrafica.com/elsalvador/Alcades-enfrentados-por-recoleccion-de-basura-en-Mejicanos-20140704-0071.html](https://www.laprensagrafica.com/elsalvador/Alcades-enfrentados-por-recoleccion-de-basura-en-Mejicanos-20140704-0071.html).
+[^13]: Sorry that there’s no English source, probably because it was mostly a local issue. However, it was this kind of headline-grabbing actions on issues that mattered to people, which were the key to Bukele’s popularity. Spanish source here: [https://www.laprensagrafica.com/elsalvador/Alcades-enfrentados-por-recoleccion-de-basura-en-Mejicanos-20140704-0071.html](https://www.laprensagrafica.com/elsalvador/Alcades-enfrentados-por-recoleccion-de-basura-en-Mejicanos-20140704-0071.html).
 
-14\. You can watch the most recent reports here:
+[^14]: You can watch the most recent reports here:
 
-[https://elfaro.net/en/202515/ef\_tv/27825/charli-rsquo-s-confessions-interview-with-gang-leader-who-pacted-with-nayib-bukele](https://elfaro.net/en/202515/ef_tv/27825/charli-rsquo-s-confessions-interview-with-gang-leader-who-pacted-with-nayib-bukele)
+    [https://elfaro.net/en/202515/ef\_tv/27825/charli-rsquo-s-confessions-interview-with-gang-leader-who-pacted-with-nayib-bukele](https://elfaro.net/en/202515/ef_tv/27825/charli-rsquo-s-confessions-interview-with-gang-leader-who-pacted-with-nayib-bukele)
 
-15\. Bukele does _seem desperate_ to find the equivalent of unlimited oil money: First, by adopting bitcoin, and later, by promoting gold mining.
+[^15]: Bukele does _seem desperate_ to find the equivalent of unlimited oil money: First, by adopting bitcoin, and later, by promoting gold mining.
 
-16\. Unless you look at Singapore and honestly believe that you’d rather die than live in such an authoritarian country, regardless of its standard of living. At that point, maybe you’re just against the very idea of authority itself.
+[^16]: Unless you look at Singapore and honestly believe that you’d rather die than live in such an authoritarian country, regardless of its standard of living. At that point, maybe you’re just against the very idea of authority itself.

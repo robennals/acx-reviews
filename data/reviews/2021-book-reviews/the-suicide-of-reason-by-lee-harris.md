@@ -280,5 +280,3 @@ It has not escaped me that both Enlightened Tribalism and Critical Liberalism wi
 [^8]: https://www.theamericanconservative.com/articles/its-all-greek-to-victor-davis-hanson/
 
 [^9]: https://www.washingtontimes.com/news/2017/aug/1/atheists-in-muslim-world-growing-silent-minority/
-
-* * *

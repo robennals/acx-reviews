@@ -6,6 +6,9 @@
   "a-canticle-for-leibowitz-by-walter-m-miller-jr-2024": {
     "skipFetch": true
   },
+  "a-dance-remix-of-chappell-roans-pink-pony-club": {
+    "skipFetch": true
+  },
   "a-history-of-generation-ships-in-science-fiction": {
     "skipFetch": true
   },
@@ -36,6 +39,9 @@
     "disableFootnotes": true
   },
   "being-you-a-new-science-of-consciousness-by-anil-seth": {
+    "skipFetch": true
+  },
+  "bukele": {
     "skipFetch": true
   },
   "candide": {
@@ -364,6 +370,9 @@
   "the-merry-wives-of-windsor": {
     "removeBlanksBeforeMatching": "^>\\s*\\(Act "
   },
+  "the-metaethics-of-joy-suffering-and-artificial-intelligence-with-brian-tomasik-and-david-pearce": {
+    "skipFetch": true
+  },
   "the-outlier": {
     "skipFetch": true
   },
@@ -401,6 +410,9 @@
   },
   "the-son-also-rises": {
     "superscriptFootnotes": true
+  },
+  "the-soul-of-karl-friston-1": {
+    "skipFetch": true
   },
   "the-sovereign-child": {
     "skipFetch": true

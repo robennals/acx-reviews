@@ -796,6 +796,266 @@ We live in a society so used to experts and specialists that we expect that ever
 
 If it is to be saved, someone has to go down into that gap between it and science, and find a way across.  Someone with a degree from one of those places they respect, like Harvard or the U. of Chicago.  But not bearing just a bag of tips and techniques.  They need to know the anatomy and physiology of continental philosophy well enough that together, working with someone on the other side, they can diagnose not just the symptoms, but the underlying causes of its sickness.
 
+## References
+
+Hazard Adams 1992. _[Critical Theory Since Plato](http://amzn.to/2vmw35V)_[, 2nd edition](http://amzn.to/2vmw35V). Forth Worth, WA: Harcourt Brace Jovanovich.
+
+Abdullah Al-Malki 2014. _[Wahhabism, the Brotherhood of those who obeyed Allah and ISIS: Has history repeated itself?](https://www.memopublishers.com/publications/item/wahhabism-the-brotherhood-of-those-who-obeyed-allah-and-isis-has-history-repeated-itself)_
+
+American Psychiatric Association, 5ed 2013. _Diagnostic and Statistical Manual of Mental Disorders: DSM-5_. Wash. DC: Amer. Psychiatric Publishing.
+
+Anonymous 2015. "[Ibn Taymiyyah : The Founder of ISIS](https://web.archive.org/web/20151214201737/https://www.islam.hilmi.eu/ibn-taymiyyah-the-founder-of-isis/)." _Islamic Philosophy_, Dec 9 2015.
+
+Thomas Aquinas 1270-1273, transl. Paul Vincent Spade 1997. _De mixtione elementorum (__[On the Mixture of the Elements](https://pvspade.com/Logic/docs/mixture.pdf)__)_. Date of composition from Loonan 2008 p. 75.
+
+Aurelius Augustine 397. _Confessions_.
+
+Joshua Ayerdi 2017. _[Relative Rates of Success of Students in Calculus 1](https://scholarworks.wmich.edu/honors_theses/2904/)_.  Honors thesis, Western Michigan University, Dept. of Math.
+
+Francis Bacon, 1620. _[Novum Organum](https://en.wikipedia.org/wiki/Novum_Organum)__._
+
+Per Bak 1996. _How Nature Works: The Science of Self-Organized Criticality_. NYC: Springer-Verlag.
+
+William Barrett 1958. _Irrational Man: A Study in Existential Philosophy_. NYC: Doubleday.
+
+Roland Barthes, 1968. "The Death of the Author." In Leitch et al., pp. 1322-1326.
+
+Roland Barthes, 1971. “From Work to Text.” In Leitch et al., pp. 1326-1331.
+
+Charles Baudelaire, 1859. _The Salon of 1859_. Translated in (Baudelaire / Hyslop & Hyslop 1964); summarized & excerpted in (Adams 1992: 621-623).
+
+Jean Baudrillard 1981. "The Precession of Simulacra." Extracted in Leitch 2010 p. 1556-1566.
+
+Jean Baudrillard 1984 lecture, published 1987. "[The Evil Demon of Images](https://monoskop.org/File:Baudrillard_Jean_The_evil_demon_of_images_1987.pdf)." Sydney: Power Institute of Fine Arts.
+
+Ronald Beiner 2018. _Dangerous Minds: Nietzsche, Heidegger, and the Return of the Far Right_. U Pennsylvania.
+
+Peter Berger & Thomas Luckmann 1966. _The Social Construction of Reality: A Treatise in the Sociology of Knowledge_. Anchor Books.
+
+William Bingley 1799.  _An Examination into the Origin and Continuance of the Discontents in Ireland, and the true cause of the Rebellion: Being a faithful narrative of the particular sufferings of the Irish peasantry; with a plan which, if adopted, cannot fail to bring back the Roman Catholic insurgents to their allegiance; without injury to the Protestant interest; or, What They Never Asked, Emancipation_.  London: William Bingley, No. 2 Red Lion Passage, Fleet Street.
+
+Jesse Bloom, Yujia Alina Chan, Ralph Baric, Pamela Bjorkman, Sarah Cobey, Benjamin Deverman, David Fisman, Ravindra Gupta, Akiko Iwasaki, Marc Lipsitch, Ruslan Medzhitov, Richard Neher, Rasmus Nielsen, Nick Patterson, Tim Stearns, Erik Van Nimwegen, Michael Worobey, David Relman 2021. "Investigate the origins of COVID-19." _Science_ V372N6543, May 14, p. 694. DOI:10.1126/science.abj0016
+
+Saint Bonaventure 1260, transl. Aloysius Lipomanus 1610. _The Life of the Holie Father S. Francis_.
+
+Jorge Luis Borges 1942. "[Funes the Memorious](https://en.wikipedia.org/wiki/Funes_the_Memorious)". _La Nación_, June; republished 1944 in _Ficciones_; translated into English 1954.
+
+Jorge Luis Borges, transl. 1962. _Labyrinths_. New Directions.
+
+Botz-Bornstein 2012. "What is the Difference between Culture and Civilization? Two Hundred Fifty Years of Confusion." _Comparative Civilizations Review_ N66, Spring 2012.
+
+David Bressoud, editor, 2016. _The Role of Calculus in the Transition from High School to College Mathematics: Report of the workshop held at the MAA Carriage House, Wash. DC, Mar 17-19 2016._
+
+David Bressoud, V. Mesa, & C. Rasmussen 2015. _Insights and recommendations from the MAA national study of college calculus_. Mathematics Association of America.
+
+James Campbell 1996. _William James, Charles Peirce, and American Pragmatism_. Audio only. Nashville, TN: Knowledge Products.
+
+Robert L. Carneiro 2000. "T[he transition from quantity to quality: A neglected causal mechanism in accounting for social evolution.](https://www.pnas.org/doi/10.1073/pnas.240462397)" _PNAS_ 97(23): 12926-12931.
+
+Daniel Chandler 1994-2022. _Semiotics for Beginners_.  Online branch of (Chandler 2001), with different and changing text.
+
+Daniel Chandler 2001, 3ed 2017. _[Semiotics: The Basics](http://www.wayanswardhani.lecture.ub.ac.id/files/2013/09/Semiotics-the-Basics.pdf)_. Routledge. Audio version available from Audible.
+
+GK Chesterton, ed. Dale Ahlquist 2012. _The Soul of Wit: G.K. Chesterton on Shakespeare_. Mineola, NY: Dover.
+
+Alastair Crooke, 2015. ["You Can't Understand ISIS If You Don't Know the History of Wahhabism in Saudi Arabia."](http://www.informationclearinghouse.info/47434.htm) _New Perspectives Quarterly_ 32. 10.1111/npqu.11504
+
+Jonathan Culler 1981. _The Pursuit of Signs: Semiotics, literature, deconstruction_. London & NYC: Routledge (2005).
+
+Diana Denny, 2013. ["Rockwell’s Favorite Model, Part III."](https://www.saturdayeveningpost.com/2013/03/norman-rockwell-girl-at-the-mirror/) _The Saturday Evening Post_, March 29, 2013.
+
+Jacques Derrida 1967, transl. 1976. _Of Grammatology_. Extracted in Leitch 2010 p. 1695-1697.
+
+John Dewey 1929 or 1930 [the date in my copy is smudged]. _The Quest for Certainty: A Study of the Relation of Knowledge and Action_. London: George Allen & Unwin.
+
+Umberto Eco 1959; transl. Hugh Bredin 1986. _[Art and Beauty in the Middle Ages](http://amzn.to/2cLVntN)_. New Haven, CT: Yale.
+
+Chris Ferguson 2007, "[Evidence for publication bias in video game violence effects literature: A meta-analytic review](https://www.sciencedirect.com/science/article/abs/pii/S1359178907000055)". Aggression and Violent Behavior 12(4): 470-482.
+
+David Hackett Fischer 1991. _Albion’s Seed: Four British Folkways in America_.
+
+Stanley Fish, 1980. "[How to Recognize a Poem When You See One](http://fs2.american.edu/dfagel/www/Class%20Readings/Fish/HowToRecognizeAPoem.htm)." In _Is There a Text in this Class? The Authority of Interpretive Communities_. Cambridge, MA: Harvard University Press, 1980, p. 322-337.
+
+Jack Flam, ed., 1978. _Matisse on Art_. NYC: Dutton.
+
+Thomas Flynn 2006. _Existentialism: A very short introduction_.  Oxford U.
+
+Michel Foucault 1969. "[What is an Author?](https://www.open.edu/openlearn/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)" In Leitch 2010 p. 1475-1490.
+
+Kai Froeb & Maurizio Canfora 2007. _[Illustrated Hegel Biography V](https://hegel.net/en/hegelbio.htm)_. Retrieved April 2022.
+
+Joel Garreau 1992. _The Nine Nations of North America_. Avon
+
+Jacques le Goff 1985, transl. Arthur Goldhammer 1988. _The Medieval Imagination_. U Chicago.
+
+Michael Guillen 2021. _Believing Is Seeing: A Physicist Explains How Science Shattered His Atheism and Revealed the Necessity of Faith_. Tyndale.
+
+Jean-Marie Guyau 2021. _[The Ethics of Epicurus and Its Relation to Contemporary Doctrines](https://www.google.com/books/edition/The_Ethics_of_Epicurus_and_its_Relation/iR08EAAAQBAJ)_. London: Bloomsbury.
+
+Daryl Hale 2006. _Stoics and Epicureans_. Audio only. Nashville, TN: Knowledge Products.
+
+Milton Handelsman 1938. "Sextus Empiricus and the Schools of Medicine During the Time of Galen." _The American Journal of Surgery_ 41(2): 328–335.
+
+James Hannam 2009. _God's Philosophers: How the Medieval World Laid the Foundations of Modern Science_. London: Icon Books.
+
+Gabriell Harvey 1593. _A New Prayse of the Old Asse._  London: John Wolfe.
+
+Adolf Hitler 1926. _Mein Kampf_, volumes 1 and 2. Translated 1939 by James Murphy. London: Hurst & Blackett.  I’m using a differently-formatted version of this edition, which has an additional Epilogue and a different pagination, running to 525 pages.  I don't have an unexpurgated edition; some of the most-inflammatory passages, such as the one calling the German people "sheep", have been excised from the English versions found free online.
+
+John Holloway 2002. _Change The World Without Taking Power: The Meaning of Revolution Today_. Pluto Press.
+
+Johan Huizinga 1949. _[The Waning of the Middle Ages](http://amzn.to/2cV9iu4)_.  Citations from 1954 Garden City, NY: Anchor Books edition.
+
+Robert Irwin, 2001. "[Is this the man who inspired Bin Laden?](https://www.theguardian.com/world/2001/nov/01/afghanistan.terrorism3)" _The Guardian,_ Wednesday 31 October 2001.
+
+ISIS 2016. _[Rumiyah #4](https://issuu.com/ogrishchile/docs/rome-magazine-4)_. Also on [archive.org](https://archive.org/details/Rumiyah4DE).
+
+David Johnson 2008. "[What Does Academic Skepticism Presuppose?](http://lyceumphilosophy.com/?q=node/100) Arcesilaus, Carneades, and the Argument with Stoic Epistemology." Lyceum Vol. X No. 1.
+
+Daniel Kahneman, Paul Slovic, & Amos Tversky 1982. _Judgment Under Uncertainty: Heuristics and Biases_. Cambridge U.
+
+Daniel Kahneman 2011. _Thinking, Fast and Slow_. NYC: Farrar, Straus & Giroux.
+
+Stuart Kauffman, 1993. _The Origins of Order: Self-Organization and Selection in Evolution_. Oxford U.
+
+Immanuel Kant 1781, transl. Norman Smith 1958. _Critique of Pure Reason_. London: Macmillan.
+
+Immanuel Kant 1797, transl. Thomas Abbott 1889. ["On a Supposed Right to Tell Lies from Benevolent Motives"](http://www.sophia-project.org/uploads/1/3/9/5/13955288/kant_lying.pdf) ("Über ein vermeintes Recht aus Menschenliebe zu lügen"). In _Kant's Critique of Practical Reason and Other Works on the Theory of Ethics_, London: Longmans, Green & Co.
+
+Jeffrey Kasser 2006. _Philosophy of Science_. Audio lecture series. Springfield VA: The Teaching Company.
+
+A. Koyré 1973. _The astronomical revolution_. Paris: Hermann, 1973. I don't have this book.
+
+Thomas Kuhn 1962. _The Structure of Scientific Revolutions_. U Chicago.
+
+Chris Langton, Charles Taylor, J. Doyne Farmer, & Steen Rasmussen, ed., 1992. _Artificial Life II: Proc. of the 1990 workshop on artificial life._ Reading, MA: Addison-Wesley.
+
+Vincent Leitch et al., eds. 2nd ed. 2010, _The Norton Anthology of Theory & Criticism_. New York: Norton.
+
+Ramanathan V. Guha 1992. _Contexts: A Formalization and Some Applications_. Stanford University PhD thesis about the KR&R system Cyc.
+
+CS Lewis 1939. _Christianity and Literature_. In Lewis 1967 p. 1-11.
+
+CS Lewis ~1943. "On Ethics." In Lewis 1967 p. 44-56.
+
+C.S. Lewis 1943. _The Abolition of Man_. Oxford University Press.
+
+CS Lewis 1953. _The Silver Chair_. London: Geoffrey Bles.
+
+CS Lewis 1961. _An Experiment in Criticism_. Cambridge U Press.
+
+CS Lewis, 1967 (posthumous). _Christian Reflections_. Grand Rapids MI: Eerdmans.
+
+Ralph Lillie 1914. "The Philosophy of Biology: Vitalism Versus Mechanism." _Science_ New Series V40 N1041, Dec. 11, 1914, p. 840-846.
+
+Conleth Loonan 2008. "The De mixtione elementorum of Thomas Aquinas." In Simon Nolan, ed., _Maynooth Philosophical Papers_ 5: 75–88.  Maynooth, Ireland: Department  of Philosophy, National University of Ireland.
+
+Jean-François Lyotard 1986. "Defining the Postmodern." In Leitch 2010 p. 1465-1468.
+
+John Gibson Macvicar 1833. _Inquiries Concerning the Medium of Light and the Form of Its Molecules_. Edinburgh: Adam & Charles Black.
+
+Phil Maguire, Oisin Mulhall, Rebecca Maguire, & Jessica Taylor 2016. "Compressionism: A Theory of Mind Based on Data Compression." In Gabriella Airenti, Bruno G. Bara, Giulio Sandini, & Marco Cruciani, _Proceedings of the EuroAsianPacific Joint Conference on Cognitive Science / 4th European Conference on Cognitive Science / 11th International Conference on Cognitive Science_, Torino, Italy, September 25-27, 2015: p. 294-299.
+
+Benjamin Martin & David Rumelhart 1999. _Cognitive Science_.  San Diego: Academic Press.
+
+Henri Matisse, 1908. "Notes of a Painter" (Notes d’un Peintre). In (Flam 1978): 32-40.
+
+Karl Marx 1844. "[On the Jewish Question.](https://www.marxists.org/archive/marx/works/1844/jewish-question/)" _Deutsch-Französische Jahrbücher_, February 1844.
+
+Douglas Medin & Evan Heit 1999. "Categorization." Chapter 3 of Martin & Rumelhart 1999, p. 99-143.  The most-important references in it for our purposes are to works by Eleanor Rosch & Douglas Medin.
+
+Hugo Mercier 2020. _Not born yesterday: The science of who we trust and what we believe_. Princeton. I don't have this book.
+
+Mark Morris 2017. _[Hitler: Philosopher King](https://amzn.to/3KjWiwk)_. Bedfordshire, UK: Arlesey Press.
+
+Ernest Nagel 1961. _The structure of science: Problems in the logic of scientific explanation_. New York: Harcourt, Brace, and World. I don't even have this book.
+
+William R. Newman & Anthony Grafton, eds., 2001. _Secrets of Nature: Astrology and Alchemy in Early Modern Europe_. Boston: MIT Press.
+
+Richard Nisbett & TD Wilson 1977. "Telling more than we can know: Verbal reports on mental processes." _Psychological Review_ 84: 231–259.
+
+Richard Nisbett 2003. _The Geography of Thought: How Asians and Westerners Think Differently... And Why_. Free Press.
+
+Steven Pinker 2003. _The Blank Slate: The Modern Denial of Human Nature_. NYC: Penguin.
+
+Steven Pinker 2018. _Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_. NYC: Penguin.
+
+Steven Pinker 2021. _Rationality: What It Is, Why It Seems Scarce, Why It Matters_. NYC: Viking, Penguin, Random House.
+
+Karl Popper 1945, revised 5th ed. 1966. _The Open Society And Its Enemies_. Princeton University.
+
+Karl Popper 1994. _The Myth of the Framework._ Routledge.
+
+Derek de Solla Price 1976. _[From Neolithic to Now](http://derekdesollaprice.org/derek-de-solla-price-lectures/)_. Yale lecture series.
+
+Tom Rockmore 1992. _Irrationalism: Lukacs and the Marxist View of Reason_. Philadelphia: Temple U.
+
+Alex Ross 2020. _Wagnerism: Art and Politics in the Shadow of Music_. NYC: Farrar, Straus & Giroux.
+
+Samuel Rutherfurd 1646. _[The Divine Right of Church-Government and Excommunication](https://books.google.com/books/about/The_Divine_Right_of_Church_government_an.html?id=M7ksAAAAYAAJ)__: Or a Peaceable Dispute for the Perfection of the Holy Scripture in Point of Ceremonies and Church-government; in which the Removal of the Service-book is Justifi'd ...  To which is Added, a Brief Tractate of Scandal; with an Answer to the New Doctrine of the Doctors of Aberdeen, Touching Scandal_. London: Printed by John Field for Christopher Meredith at the Crane in Pauls [sic] Church-yard.
+
+Jean-Paul Sartre 1943, transl. Hazel Barnes 1956. _Being and Nothingness._ New York: Philosophical Library.  I've read only tiny fragments of this book.
+
+Schopenhauer 1818. _The World as Will and Representation_.  I haven't read any of this book.
+
+Alfred Schütz 1932. _Der sinnhafte Aufbau der sozialen Welt_ ("The Meaningful Structure of the Social World", published in English as "The Phenomenology of the Social World).  I haven't read any of this book.
+
+Roger Shattuck 1955, revised 1968.  _[The Banquet Years](http://amzn.to/2ciJ46X)__: The origins of the avant-garde in France 1885 to World War I._ NYC: Random House.
+
+Kevin Simler & Robin Hanson 2018. _The Elephant in the Brain: Hidden Motives in Everyday Life_. Oxford U.
+
+Larry Shiner, 1990. _The Invention of Art: A Cultural History._ U. of Chicago.
+
+Karl Sigmund 2017. _Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science_. NYC: Basic Books.
+
+Ari Sihvola 2000. "Ubi materia, ibi geometria." Unpublished revision of an expansion of the presentation "Ubi materia, ibi geometria" which was given at the Bianisotropics 2000 meeting (8th Intl Conf on Electromagnetics of Complex Media) in Lisbon, Portugal, 27–29 September 2000.
+
+Pitirim Sorokin 1937-1941, condensed 1957. _[Social & Cultural Dynamics](http://amzn.to/2oLmXZS)_, revised & condensed edition, 1 volume. 720 pages. Sargent (Porter), U.S.  An e-book of the 1991 edition is [searchable on Google](https://books.google.com/books?id=fbZyka2W_1cC).
+
+Frederic Spotts 2002. _Hitler and the Power of Aesthetics_. London: Hutchinson (Penguin Random House UK).
+
+Thomas Sprat, 1667 (mostly written in 1663). _[History of the Royal Society of London](https://books.google.com/books?id=g30OAAAAQAAJ)__, for the Improving of Natural Knowledge_. London.
+
+Oswald Spengler 1918, 2ed 1922, transl. Charles F. Atkinson 1926. _The Decline of the West_. NYC: Knopf.
+
+John H. Simpson 1990. "The Stark-Bainbridge Theory of Religion." _Journal for the Scientific Study of Religion_ V29 N3 (Sep.), p. 367-371.
+
+Jim Stevenson, Edmund Sonuga-Barke, Donna McCann, Kate Grimshaw, Karen Parker, Matt Rose-Zerilli, John Holloway, & John Warner 2010. "The Role of Histamine Degradation Gene Polymorphisms in Moderating the Effects of Food Additives on Children’s ADHD Symptoms." _Am J Psychiatry_ 167:1108–1115.
+
+Stone, D. (2003). "The Energy of Nihilism: Understanding the Appeal of Nazism." In: _Responses to Nazism in Britain, 1933–1939_, p. 17-44. Palgrave Macmillan, London.
+
+A.E. Taylor 1930. "Plato and his contemporaries." _Mind_ 39(155): 367-371.
+
+Ibn Taymiyya 1309, transl. Wael Hallaq 1993. _[Against the Greek Logicians](https://archive.org/details/AlRadAlMantiq)_. Oxford: Clarendon Press.
+
+Philip Tetlock 2005. _Expert Political Judgment: How Good Is It? How Can We Know?_ Princeton.
+
+Tristan Tzara 1918. "[​​Dada Manifesto​](http://391.org/manifestos/1918-dada-manifesto-tristan-tzara.html#.WPBhFPkrJO8)".
+
+Wilhelm Uhde 1911, transl. Ralph Thompson 1949. _Recollections of Henri Rousseau_. London: Pallas Athene, 2005.
+
+Elise Viebeck, July 28 2019. "[How an early Biden crime bill created the sentencing disparity for crack and cocaine trafficking](https://www.washingtonpost.com/politics/how-an-early-biden-crime-bill-created-the-sentencing-disparity-for-crack-and-cocaine-trafficking/2019/07/28/5cbb4c98-9dcf-11e9-85d6-5211733f92c7_story.html)." WashingtonPost.com.
+
+Richard Wagner 1850. "Das Judenthum in der Musik" ("[Jewishness in Music](https://en.wikipedia.org/wiki/Das_Judenthum_in_der_Musik)").  _[Neue Zeitschrift für Musik](https://en.wikipedia.org/wiki/Neue_Zeitschrift_f%C3%BCr_Musik)_, Sept. 1850\. Leipzig.
+
+Richard Wagner 1871. _[Gesammelte Schriften und Dichtungen](https://archive.org/details/gesammeltesc910wagn1871)_.
+
+Robert Waite 1977. _The Psychopathic God: Adolf Hitler_. NYC: Basic Books. Pagination is from the 1993 Da Capo Press edition.
+
+Elspeth Whitney 2004. _Medieval Science and Technology_. Westport, CT: Greenwood Press.
+
+Benjamin Wiker 2008. _10 Books That Screwed Up the World: And 5 Others That Didn’t Help_. Wash. DC: Regnery.
+
+Thomas Williams 2007. _Reason & Faith: Philosophy in the Middle Ages_. Audio lectures. Springfield, VA: The Great Courses (formerly The Teaching Company).
+
+WK Wimsatt & MC Beardsley 1946. ["The Intentional Fallacy"](http://www.jstor.org/stable/27537676). _The Sewanee Review_ 54 (3): 468–488. Revised and republished in _[The Verbal Icon: Studies in the Meaning of Poetry](https://books.google.dk/books/about/The_Verbal_Icon.html?id=KmrUKcU2JUoC)_, University Press of Kentucky 1954, ISBN [0813128579](https://en.wikipedia.org/wiki/Special:BookSources/0813128579).
+
+J. Gerard Wolff 1999. "\`Computing' as Information Compression by Multiple Alignment, Unifcation and Search." _Journal of Universal Computer Science_ V5 N11: 777-815.
+
+Richard Wolin 2015. Britannica.com (online), "[Continental Philosophy](https://www.britannica.com/topic/continental-philosophy)".
+
+Colin Woodard 2011. _American Nations: A History of the Eleven Rival Regional Cultures of North America_. Viking.
+
 * * *
 
 [^1]: Much like our host, Scott Alexander.
@@ -1174,268 +1434,6 @@ Northern and coastal or waterfront cities seem to have more racial hate crime th
 [^70]: Once, when I lived in Buffalo, I knew the daughter of a billionaire.  She had the habit of referring to Buffalo, grammatically, as if it were a person.  I asked her why.  She said that when rich people say "Buffalo", they don't mean the city, nor the people in the city, but the rich people who control it.  So it makes perfect sense to them to say, "I don't know; let's get on the phone and see what Cleveland thinks about it."
 
 [^71]: Keynes allegedly said, "Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist."  But no one can say when or where he said or wrote it.
-
-## References
-
-Hazard Adams 1992. _[Critical Theory Since Plato](http://amzn.to/2vmw35V)_[, 2nd edition](http://amzn.to/2vmw35V). Forth Worth, WA: Harcourt Brace Jovanovich.
-
-Abdullah Al-Malki 2014. _[Wahhabism, the Brotherhood of those who obeyed Allah and ISIS: Has history repeated itself?](https://www.memopublishers.com/publications/item/wahhabism-the-brotherhood-of-those-who-obeyed-allah-and-isis-has-history-repeated-itself)_
-
-American Psychiatric Association, 5ed 2013. _Diagnostic and Statistical Manual of Mental Disorders: DSM-5_. Wash. DC: Amer. Psychiatric Publishing.
-
-Anonymous 2015. "[Ibn Taymiyyah : The Founder of ISIS](https://web.archive.org/web/20151214201737/https://www.islam.hilmi.eu/ibn-taymiyyah-the-founder-of-isis/)." _Islamic Philosophy_, Dec 9 2015.
-
-Thomas Aquinas 1270-1273, transl. Paul Vincent Spade 1997. _De mixtione elementorum (__[On the Mixture of the Elements](https://pvspade.com/Logic/docs/mixture.pdf)__)_. Date of composition from Loonan 2008 p. 75.
-
-Aurelius Augustine 397. _Confessions_.
-
-Joshua Ayerdi 2017. _[Relative Rates of Success of Students in Calculus 1](https://scholarworks.wmich.edu/honors_theses/2904/)_.  Honors thesis, Western Michigan University, Dept. of Math.
-
-Francis Bacon, 1620. _[Novum Organum](https://en.wikipedia.org/wiki/Novum_Organum)__._
-
-Per Bak 1996. _How Nature Works: The Science of Self-Organized Criticality_. NYC: Springer-Verlag.
-
-William Barrett 1958. _Irrational Man: A Study in Existential Philosophy_. NYC: Doubleday.
-
-Roland Barthes, 1968. "The Death of the Author." In Leitch et al., pp. 1322-1326.
-
-Roland Barthes, 1971. “From Work to Text.” In Leitch et al., pp. 1326-1331.
-
-Charles Baudelaire, 1859. _The Salon of 1859_. Translated in (Baudelaire / Hyslop & Hyslop 1964); summarized & excerpted in (Adams 1992: 621-623).
-
-Jean Baudrillard 1981. "The Precession of Simulacra." Extracted in Leitch 2010 p. 1556-1566.
-
-Jean Baudrillard 1984 lecture, published 1987. "[The Evil Demon of Images](https://monoskop.org/File:Baudrillard_Jean_The_evil_demon_of_images_1987.pdf)." Sydney: Power Institute of Fine Arts.
-
-Ronald Beiner 2018. _Dangerous Minds: Nietzsche, Heidegger, and the Return of the Far Right_. U Pennsylvania.
-
-Peter Berger & Thomas Luckmann 1966. _The Social Construction of Reality: A Treatise in the Sociology of Knowledge_. Anchor Books.
-
-William Bingley 1799.  _An Examination into the Origin and Continuance of the Discontents in Ireland, and the true cause of the Rebellion: Being a faithful narrative of the particular sufferings of the Irish peasantry; with a plan which, if adopted, cannot fail to bring back the Roman Catholic insurgents to their allegiance; without injury to the Protestant interest; or, What They Never Asked, Emancipation_.  London: William Bingley, No. 2 Red Lion Passage, Fleet Street.
-
-Jesse Bloom, Yujia Alina Chan, Ralph Baric, Pamela Bjorkman, Sarah Cobey, Benjamin Deverman, David Fisman, Ravindra Gupta, Akiko Iwasaki, Marc Lipsitch, Ruslan Medzhitov, Richard Neher, Rasmus Nielsen, Nick Patterson, Tim Stearns, Erik Van Nimwegen, Michael Worobey, David Relman 2021. "Investigate the origins of COVID-19." _Science_ V372N6543, May 14, p. 694. DOI:10.1126/science.abj0016
-
-Saint Bonaventure 1260, transl. Aloysius Lipomanus 1610. _The Life of the Holie Father S. Francis_.
-
-Jorge Luis Borges 1942. "[Funes the Memorious](https://en.wikipedia.org/wiki/Funes_the_Memorious)". _La Nación_, June; republished 1944 in _Ficciones_; translated into English 1954.
-
-Jorge Luis Borges, transl. 1962. _Labyrinths_. New Directions.
-
-Botz-Bornstein 2012. "What is the Difference between Culture and Civilization? Two Hundred Fifty Years of Confusion." _Comparative Civilizations Review_ N66, Spring 2012.
-
-David Bressoud, editor, 2016. _The Role of Calculus in the Transition from High School to College Mathematics: Report of the workshop held at the MAA Carriage House, Wash. DC, Mar 17-19 2016._
-
-David Bressoud, V. Mesa, & C. Rasmussen 2015. _Insights and recommendations from the MAA national study of college calculus_. Mathematics Association of America.
-
-James Campbell 1996. _William James, Charles Peirce, and American Pragmatism_. Audio only. Nashville, TN: Knowledge Products.
-
-Robert L. Carneiro 2000. "T[he transition from quantity to quality: A neglected causal mechanism in accounting for social evolution.](https://www.pnas.org/doi/10.1073/pnas.240462397)" _PNAS_ 97(23): 12926-12931.
-
-Daniel Chandler 1994-2022. _Semiotics for Beginners_.  Online branch of (Chandler 2001), with different and changing text.
-
-Daniel Chandler 2001, 3ed 2017. _[Semiotics: The Basics](http://www.wayanswardhani.lecture.ub.ac.id/files/2013/09/Semiotics-the-Basics.pdf)_. Routledge. Audio version available from Audible.
-
-GK Chesterton, ed. Dale Ahlquist 2012. _The Soul of Wit: G.K. Chesterton on Shakespeare_. Mineola, NY: Dover.
-
-Alastair Crooke, 2015. ["You Can't Understand ISIS If You Don't Know the History of Wahhabism in Saudi Arabia."](http://www.informationclearinghouse.info/47434.htm) _New Perspectives Quarterly_ 32. 10.1111/npqu.11504
-
-Jonathan Culler 1981. _The Pursuit of Signs: Semiotics, literature, deconstruction_. London & NYC: Routledge (2005).
-
-Diana Denny, 2013. ["Rockwell’s Favorite Model, Part III."](https://www.saturdayeveningpost.com/2013/03/norman-rockwell-girl-at-the-mirror/) _The Saturday Evening Post_, March 29, 2013.
-
-Jacques Derrida 1967, transl. 1976. _Of Grammatology_. Extracted in Leitch 2010 p. 1695-1697.
-
-John Dewey 1929 or 1930 [the date in my copy is smudged]. _The Quest for Certainty: A Study of the Relation of Knowledge and Action_. London: George Allen & Unwin.
-
-Umberto Eco 1959; transl. Hugh Bredin 1986. _[Art and Beauty in the Middle Ages](http://amzn.to/2cLVntN)_. New Haven, CT: Yale.
-
-Chris Ferguson 2007, "[Evidence for publication bias in video game violence effects literature: A meta-analytic review](https://www.sciencedirect.com/science/article/abs/pii/S1359178907000055)". Aggression and Violent Behavior 12(4): 470-482.
-
-David Hackett Fischer 1991. _Albion’s Seed: Four British Folkways in America_.
-
-Stanley Fish, 1980. "[How to Recognize a Poem When You See One](http://fs2.american.edu/dfagel/www/Class%20Readings/Fish/HowToRecognizeAPoem.htm)." In _Is There a Text in this Class? The Authority of Interpretive Communities_. Cambridge, MA: Harvard University Press, 1980, p. 322-337.
-
-Jack Flam, ed., 1978. _Matisse on Art_. NYC: Dutton.
-
-Thomas Flynn 2006. _Existentialism: A very short introduction_.  Oxford U.
-
-Michel Foucault 1969. "[What is an Author?](https://www.open.edu/openlearn/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)" In Leitch 2010 p. 1475-1490.
-
-Kai Froeb & Maurizio Canfora 2007. _[Illustrated Hegel Biography V](https://hegel.net/en/hegelbio.htm)_. Retrieved April 2022.
-
-Joel Garreau 1992. _The Nine Nations of North America_. Avon
-
-Jacques le Goff 1985, transl. Arthur Goldhammer 1988. _The Medieval Imagination_. U Chicago.
-
-Michael Guillen 2021. _Believing Is Seeing: A Physicist Explains How Science Shattered His Atheism and Revealed the Necessity of Faith_. Tyndale.
-
-Jean-Marie Guyau 2021. _[The Ethics of Epicurus and Its Relation to Contemporary Doctrines](https://www.google.com/books/edition/The_Ethics_of_Epicurus_and_its_Relation/iR08EAAAQBAJ)_. London: Bloomsbury.
-
-Daryl Hale 2006. _Stoics and Epicureans_. Audio only. Nashville, TN: Knowledge Products.
-
-Milton Handelsman 1938. "Sextus Empiricus and the Schools of Medicine During the Time of Galen." _The American Journal of Surgery_ 41(2): 328–335.
-
-James Hannam 2009. _God's Philosophers: How the Medieval World Laid the Foundations of Modern Science_. London: Icon Books.
-
-Gabriell Harvey 1593. _A New Prayse of the Old Asse._  London: John Wolfe.
-
-Adolf Hitler 1926. _Mein Kampf_, volumes 1 and 2. Translated 1939 by James Murphy. London: Hurst & Blackett.  I’m using a differently-formatted version of this edition, which has an additional Epilogue and a different pagination, running to 525 pages.  I don't have an unexpurgated edition; some of the most-inflammatory passages, such as the one calling the German people "sheep", have been excised from the English versions found free online.
-
-John Holloway 2002. _Change The World Without Taking Power: The Meaning of Revolution Today_. Pluto Press.
-
-Johan Huizinga 1949. _[The Waning of the Middle Ages](http://amzn.to/2cV9iu4)_.  Citations from 1954 Garden City, NY: Anchor Books edition.
-
-Robert Irwin, 2001. "[Is this the man who inspired Bin Laden?](https://www.theguardian.com/world/2001/nov/01/afghanistan.terrorism3)" _The Guardian,_ Wednesday 31 October 2001.
-
-ISIS 2016. _[Rumiyah #4](https://issuu.com/ogrishchile/docs/rome-magazine-4)_. Also on [archive.org](https://archive.org/details/Rumiyah4DE).
-
-David Johnson 2008. "[What Does Academic Skepticism Presuppose?](http://lyceumphilosophy.com/?q=node/100) Arcesilaus, Carneades, and the Argument with Stoic Epistemology." Lyceum Vol. X No. 1.
-
-Daniel Kahneman, Paul Slovic, & Amos Tversky 1982. _Judgment Under Uncertainty: Heuristics and Biases_. Cambridge U.
-
-Daniel Kahneman 2011. _Thinking, Fast and Slow_. NYC: Farrar, Straus & Giroux.
-
-Stuart Kauffman, 1993. _The Origins of Order: Self-Organization and Selection in Evolution_. Oxford U.
-
-Immanuel Kant 1781, transl. Norman Smith 1958. _Critique of Pure Reason_. London: Macmillan.
-
-Immanuel Kant 1797, transl. Thomas Abbott 1889. ["On a Supposed Right to Tell Lies from Benevolent Motives"](http://www.sophia-project.org/uploads/1/3/9/5/13955288/kant_lying.pdf) ("Über ein vermeintes Recht aus Menschenliebe zu lügen"). In _Kant's Critique of Practical Reason and Other Works on the Theory of Ethics_, London: Longmans, Green & Co.
-
-Jeffrey Kasser 2006. _Philosophy of Science_. Audio lecture series. Springfield VA: The Teaching Company.
-
-A. Koyré 1973. _The astronomical revolution_. Paris: Hermann, 1973. I don't have this book.
-
-Thomas Kuhn 1962. _The Structure of Scientific Revolutions_. U Chicago.
-
-Chris Langton, Charles Taylor, J. Doyne Farmer, & Steen Rasmussen, ed., 1992. _Artificial Life II: Proc. of the 1990 workshop on artificial life._ Reading, MA: Addison-Wesley.
-
-Vincent Leitch et al., eds. 2nd ed. 2010, _The Norton Anthology of Theory & Criticism_. New York: Norton.
-
-Ramanathan V. Guha 1992. _Contexts: A Formalization and Some Applications_. Stanford University PhD thesis about the KR&R system Cyc.
-
-CS Lewis 1939. _Christianity and Literature_. In Lewis 1967 p. 1-11.
-
-CS Lewis ~1943. "On Ethics." In Lewis 1967 p. 44-56.
-
-C.S. Lewis 1943. _The Abolition of Man_. Oxford University Press.
-
-CS Lewis 1953. _The Silver Chair_. London: Geoffrey Bles.
-
-CS Lewis 1961. _An Experiment in Criticism_. Cambridge U Press.
-
-CS Lewis, 1967 (posthumous). _Christian Reflections_. Grand Rapids MI: Eerdmans.
-
-Ralph Lillie 1914. "The Philosophy of Biology: Vitalism Versus Mechanism." _Science_ New Series V40 N1041, Dec. 11, 1914, p. 840-846.
-
-Conleth Loonan 2008. "The De mixtione elementorum of Thomas Aquinas." In Simon Nolan, ed., _Maynooth Philosophical Papers_ 5: 75–88.  Maynooth, Ireland: Department  of Philosophy, National University of Ireland.
-
-Jean-François Lyotard 1986. "Defining the Postmodern." In Leitch 2010 p. 1465-1468.
-
-John Gibson Macvicar 1833. _Inquiries Concerning the Medium of Light and the Form of Its Molecules_. Edinburgh: Adam & Charles Black.
-
-Phil Maguire, Oisin Mulhall, Rebecca Maguire, & Jessica Taylor 2016. "Compressionism: A Theory of Mind Based on Data Compression." In Gabriella Airenti, Bruno G. Bara, Giulio Sandini, & Marco Cruciani, _Proceedings of the EuroAsianPacific Joint Conference on Cognitive Science / 4th European Conference on Cognitive Science / 11th International Conference on Cognitive Science_, Torino, Italy, September 25-27, 2015: p. 294-299.
-
-Benjamin Martin & David Rumelhart 1999. _Cognitive Science_.  San Diego: Academic Press.
-
-Henri Matisse, 1908. "Notes of a Painter" (Notes d’un Peintre). In (Flam 1978): 32-40.
-
-Karl Marx 1844. "[On the Jewish Question.](https://www.marxists.org/archive/marx/works/1844/jewish-question/)" _Deutsch-Französische Jahrbücher_, February 1844.
-
-Douglas Medin & Evan Heit 1999. "Categorization." Chapter 3 of Martin & Rumelhart 1999, p. 99-143.  The most-important references in it for our purposes are to works by Eleanor Rosch & Douglas Medin.
-
-Hugo Mercier 2020. _Not born yesterday: The science of who we trust and what we believe_. Princeton. I don't have this book.
-
-Mark Morris 2017. _[Hitler: Philosopher King](https://amzn.to/3KjWiwk)_. Bedfordshire, UK: Arlesey Press.
-
-Ernest Nagel 1961. _The structure of science: Problems in the logic of scientific explanation_. New York: Harcourt, Brace, and World. I don't even have this book.
-
-William R. Newman & Anthony Grafton, eds., 2001. _Secrets of Nature: Astrology and Alchemy in Early Modern Europe_. Boston: MIT Press.
-
-Richard Nisbett & TD Wilson 1977. "Telling more than we can know: Verbal reports on mental processes." _Psychological Review_ 84: 231–259.
-
-Richard Nisbett 2003. _The Geography of Thought: How Asians and Westerners Think Differently... And Why_. Free Press.
-
-Steven Pinker 2003. _The Blank Slate: The Modern Denial of Human Nature_. NYC: Penguin.
-
-Steven Pinker 2018. _Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_. NYC: Penguin.
-
-Steven Pinker 2021. _Rationality: What It Is, Why It Seems Scarce, Why It Matters_. NYC: Viking, Penguin, Random House.
-
-Karl Popper 1945, revised 5th ed. 1966. _The Open Society And Its Enemies_. Princeton University.
-
-Karl Popper 1994. _The Myth of the Framework._ Routledge.
-
-Derek de Solla Price 1976. _[From Neolithic to Now](http://derekdesollaprice.org/derek-de-solla-price-lectures/)_. Yale lecture series.
-
-Tom Rockmore 1992. _Irrationalism: Lukacs and the Marxist View of Reason_. Philadelphia: Temple U.
-
-Alex Ross 2020. _Wagnerism: Art and Politics in the Shadow of Music_. NYC: Farrar, Straus & Giroux.
-
-Samuel Rutherfurd 1646. _[The Divine Right of Church-Government and Excommunication](https://books.google.com/books/about/The_Divine_Right_of_Church_government_an.html?id=M7ksAAAAYAAJ)__: Or a Peaceable Dispute for the Perfection of the Holy Scripture in Point of Ceremonies and Church-government; in which the Removal of the Service-book is Justifi'd ...  To which is Added, a Brief Tractate of Scandal; with an Answer to the New Doctrine of the Doctors of Aberdeen, Touching Scandal_. London: Printed by John Field for Christopher Meredith at the Crane in Pauls [sic] Church-yard.
-
-Jean-Paul Sartre 1943, transl. Hazel Barnes 1956. _Being and Nothingness._ New York: Philosophical Library.  I've read only tiny fragments of this book.
-
-Schopenhauer 1818. _The World as Will and Representation_.  I haven't read any of this book.
-
-Alfred Schütz 1932. _Der sinnhafte Aufbau der sozialen Welt_ ("The Meaningful Structure of the Social World", published in English as "The Phenomenology of the Social World).  I haven't read any of this book.
-
-Roger Shattuck 1955, revised 1968.  _[The Banquet Years](http://amzn.to/2ciJ46X)__: The origins of the avant-garde in France 1885 to World War I._ NYC: Random House.
-
-Kevin Simler & Robin Hanson 2018. _The Elephant in the Brain: Hidden Motives in Everyday Life_. Oxford U.
-
-Larry Shiner, 1990. _The Invention of Art: A Cultural History._ U. of Chicago.
-
-Karl Sigmund 2017. _Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science_. NYC: Basic Books.
-
-Ari Sihvola 2000. "Ubi materia, ibi geometria." Unpublished revision of an expansion of the presentation "Ubi materia, ibi geometria" which was given at the Bianisotropics 2000 meeting (8th Intl Conf on Electromagnetics of Complex Media) in Lisbon, Portugal, 27–29 September 2000.
-
-Pitirim Sorokin 1937-1941, condensed 1957. _[Social & Cultural Dynamics](http://amzn.to/2oLmXZS)_, revised & condensed edition, 1 volume. 720 pages. Sargent (Porter), U.S.  An e-book of the 1991 edition is [searchable on Google](https://books.google.com/books?id=fbZyka2W_1cC).
-
-Frederic Spotts 2002. _Hitler and the Power of Aesthetics_. London: Hutchinson (Penguin Random House UK).
-
-Thomas Sprat, 1667 (mostly written in 1663). _[History of the Royal Society of London](https://books.google.com/books?id=g30OAAAAQAAJ)__, for the Improving of Natural Knowledge_. London.
-
-Oswald Spengler 1918, 2ed 1922, transl. Charles F. Atkinson 1926. _The Decline of the West_. NYC: Knopf.
-
-John H. Simpson 1990. "The Stark-Bainbridge Theory of Religion." _Journal for the Scientific Study of Religion_ V29 N3 (Sep.), p. 367-371.
-
-Jim Stevenson, Edmund Sonuga-Barke, Donna McCann, Kate Grimshaw, Karen Parker, Matt Rose-Zerilli, John Holloway, & John Warner 2010. "The Role of Histamine Degradation Gene Polymorphisms in Moderating the Effects of Food Additives on Children’s ADHD Symptoms." _Am J Psychiatry_ 167:1108–1115.
-
-Stone, D. (2003). "The Energy of Nihilism: Understanding the Appeal of Nazism." In: _Responses to Nazism in Britain, 1933–1939_, p. 17-44. Palgrave Macmillan, London.
-
-A.E. Taylor 1930. "Plato and his contemporaries." _Mind_ 39(155): 367-371.
-
-Ibn Taymiyya 1309, transl. Wael Hallaq 1993. _[Against the Greek Logicians](https://archive.org/details/AlRadAlMantiq)_. Oxford: Clarendon Press.
-
-Philip Tetlock 2005. _Expert Political Judgment: How Good Is It? How Can We Know?_ Princeton.
-
-Tristan Tzara 1918. "[​​Dada Manifesto​](http://391.org/manifestos/1918-dada-manifesto-tristan-tzara.html#.WPBhFPkrJO8)".
-
-Wilhelm Uhde 1911, transl. Ralph Thompson 1949. _Recollections of Henri Rousseau_. London: Pallas Athene, 2005.
-
-Elise Viebeck, July 28 2019. "[How an early Biden crime bill created the sentencing disparity for crack and cocaine trafficking](https://www.washingtonpost.com/politics/how-an-early-biden-crime-bill-created-the-sentencing-disparity-for-crack-and-cocaine-trafficking/2019/07/28/5cbb4c98-9dcf-11e9-85d6-5211733f92c7_story.html)." WashingtonPost.com.
-
-Richard Wagner 1850. "Das Judenthum in der Musik" ("[Jewishness in Music](https://en.wikipedia.org/wiki/Das_Judenthum_in_der_Musik)").  _[Neue Zeitschrift für Musik](https://en.wikipedia.org/wiki/Neue_Zeitschrift_f%C3%BCr_Musik)_, Sept. 1850\. Leipzig.
-
-Richard Wagner 1871. _[Gesammelte Schriften und Dichtungen](https://archive.org/details/gesammeltesc910wagn1871)_.
-
-Robert Waite 1977. _The Psychopathic God: Adolf Hitler_. NYC: Basic Books. Pagination is from the 1993 Da Capo Press edition.
-
-Elspeth Whitney 2004. _Medieval Science and Technology_. Westport, CT: Greenwood Press.
-
-Benjamin Wiker 2008. _10 Books That Screwed Up the World: And 5 Others That Didn’t Help_. Wash. DC: Regnery.
-
-Thomas Williams 2007. _Reason & Faith: Philosophy in the Middle Ages_. Audio lectures. Springfield, VA: The Great Courses (formerly The Teaching Company).
-
-WK Wimsatt & MC Beardsley 1946. ["The Intentional Fallacy"](http://www.jstor.org/stable/27537676). _The Sewanee Review_ 54 (3): 468–488. Revised and republished in _[The Verbal Icon: Studies in the Meaning of Poetry](https://books.google.dk/books/about/The_Verbal_Icon.html?id=KmrUKcU2JUoC)_, University Press of Kentucky 1954, ISBN [0813128579](https://en.wikipedia.org/wiki/Special:BookSources/0813128579).
-
-J. Gerard Wolff 1999. "\`Computing' as Information Compression by Multiple Alignment, Unifcation and Search." _Journal of Universal Computer Science_ V5 N11: 777-815.
-
-Richard Wolin 2015. Britannica.com (online), "[Continental Philosophy](https://www.britannica.com/topic/continental-philosophy)".
-
-Colin Woodard 2011. _American Nations: A History of the Eleven Rival Regional Cultures of North America_. Viking.
-
-* * *
 
 [^72]: There is no reference to this footnote.  Are you planning to read all of them?  That's not necessary.
 
