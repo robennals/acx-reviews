@@ -37,6 +37,7 @@ export default defineConfig({
     env: {
       // Point dev server at the isolated test DB built by global-setup.
       DATABASE_URL: TEST_DB_URL,
+      NODE_OPTIONS: `--require=${path.join(process.cwd(), 'tests/mock-preview-documents.cjs')}`,
       TURSO_TOKEN: '',
       // Enable the test-only bypass provider in auth.ts.
       TEST_AUTH_BYPASS: '1',
