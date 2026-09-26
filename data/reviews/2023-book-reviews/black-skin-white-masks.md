@@ -42,7 +42,7 @@ Fanon returned to France shortly afterwards, baccalaureate in hand, to study med
 
 ## III.
 
-This was supposed to be a review of Sigmund Freud’s _On the Interpretation of Dreams_. I got obsessed with Teach’s _Sadly, Porn_**1** and wanted to go back to the source and see if his dream-interpretations made any sense in the Freudian tradition, and if that tradition was worth studying. Only problem is… well, Freud. While the chapters on distortion in dreams were fascinating, I couldn’t take it very seriously. It reeks of the nineteenth century, of a time and place too far away. I had consigned myself to trudge through it and write a stale review, when I got turned on to Frantz Fanon’s _Black Skin, White Masks_, which scratched my itch for something a little closer to home, more urgent. It too is a work of psychoanalysis. Specifically, of racial psychoanalysis. That sounds horrible. Freud with calipers. But Fanon had something I’ve been chasing down for a while: a really, genuinely _human_ outlook, a voice which speaks platitudes about equality and brotherhood and gives them substance and muscle.
+This was supposed to be a review of Sigmund Freud’s _On the Interpretation of Dreams_. I got obsessed with Teach’s _Sadly, Porn_[^1] and wanted to go back to the source and see if his dream-interpretations made any sense in the Freudian tradition, and if that tradition was worth studying. Only problem is… well, Freud. While the chapters on distortion in dreams were fascinating, I couldn’t take it very seriously. It reeks of the nineteenth century, of a time and place too far away. I had consigned myself to trudge through it and write a stale review, when I got turned on to Frantz Fanon’s _Black Skin, White Masks_, which scratched my itch for something a little closer to home, more urgent. It too is a work of psychoanalysis. Specifically, of racial psychoanalysis. That sounds horrible. Freud with calipers. But Fanon had something I’ve been chasing down for a while: a really, genuinely _human_ outlook, a voice which speaks platitudes about equality and brotherhood and gives them substance and muscle.
 
 Freud asks ‘What does woman want?’ There was a time, in my spotty and insecure days, the days of the great feminist clashes of the culture war, when such a question would have interested me, but no longer. Fanon asks ‘What does a man want? What does the black man want?’ He asserts that the black man is not a man, that the two camps of color, like the Blues and the Greens of Roman antiquity, are quite fluid, and that what must be done is to set man free—from himself, if necessary.
 
@@ -84,7 +84,7 @@ It’s enough to give a man a neurotic complex; between that and his sexual hang
 
 > Andrée Marielle, whose skin is white, loves Jean Veneuse, who is extremely brown and who adores Andrée Marielle.
 
-See! He’s just really tan, not at all like… well, the savages. Everyone knows that ‘Negros’ are backward, tom-tom toting cannibals, but that’s hardly any reason to be bigoted towards someone who merely happens to physically resemble them! Get with the times!**2**
+See! He’s just really tan, not at all like… well, the savages. Everyone knows that ‘Negros’ are backward, tom-tom toting cannibals, but that’s hardly any reason to be bigoted towards someone who merely happens to physically resemble them! Get with the times![^2]
 
 My Teach-poisoned brain had no difficulty when Fanon started psychoanalyzing Jean Veneuse, whom he diagnoses as an abandonment-neurotic who…
 
@@ -188,7 +188,7 @@ I had gone into this book expecting a great deal more rage. I would have found i
 >
 > p.11
 
-Neither do I trust fervor. Fanon will not shy away from violence, but neither will he give into bloodthirst, nor will he entertain the fantasy that there need be just one more spasm of racial violence to even the scores, and then all the teams can just go home. There is only one solution I find here, and he repeats it from the beginning to the end.**3**
+Neither do I trust fervor. Fanon will not shy away from violence, but neither will he give into bloodthirst, nor will he entertain the fantasy that there need be just one more spasm of racial violence to even the scores, and then all the teams can just go home. There is only one solution I find here, and he repeats it from the beginning to the end.[^3]
 
 > In the absolute, the black is no more to be loved than the Czech, and truly what is to be done is to set man free.
 >
@@ -226,8 +226,8 @@ p.231
 
 ## Endnotes
 
-1\. If you don’t know what this is, don’t look it up, nothing good may come of it.
+[^1]: If you don’t know what this is, don’t look it up, nothing good may come of it.
 
-2\. Un homme pareil aux autres is an autobiographical novel, and Jean Veneuse is a stand-in for the author, René Maran, which Fanon ensures you will not forget. As much as Black Skin, White Masks, is a deeply personal work, Fanon neglects to provide his own biographical details here, and so the audience would be ignorant of the fact that by this point Fanon has had two relationships with French women, one of whom he left pregnant, another whom he married around the time this book was published.
+[^2]: Un homme pareil aux autres is an autobiographical novel, and Jean Veneuse is a stand-in for the author, René Maran, which Fanon ensures you will not forget. As much as Black Skin, White Masks, is a deeply personal work, Fanon neglects to provide his own biographical details here, and so the audience would be ignorant of the fact that by this point Fanon has had two relationships with French women, one of whom he left pregnant, another whom he married around the time this book was published.
 
-3\. For the incorrigible Teachites in the room, this is a full-throated rejection of the dynamics of rage and envy. To arrest the motion of these giants it is necessary to bring the full force of humanity to bear. I’m tempted to call it ‘Christ-like’ but I haven’t done enough Biblical interpretation to do so confidently.
+[^3]: For the incorrigible Teachites in the room, this is a full-throated rejection of the dynamics of rage and envy. To arrest the motion of these giants it is necessary to bring the full force of humanity to bear. I’m tempted to call it ‘Christ-like’ but I haven’t done enough Biblical interpretation to do so confidently.

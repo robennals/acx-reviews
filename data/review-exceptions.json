@@ -38,6 +38,15 @@
   "being-you-a-new-science-of-consciousness-by-anil-seth": {
     "skipFetch": true
   },
+  "bite-me-a-review-of-teeth-as-evolutions-leftovers-and-modern-shame": {
+    "skipFetch": true
+  },
+  "black-skin-white-masks": {
+    "skipFetch": true
+  },
+  "bukele": {
+    "skipFetch": true
+  },
   "candide": {
     "skipFetch": true
   },
@@ -364,6 +373,9 @@
   "the-merry-wives-of-windsor": {
     "removeBlanksBeforeMatching": "^>\\s*\\(Act "
   },
+  "the-metaethics-of-joy-suffering-and-artificial-intelligence-with-brian-tomasik-and-david-pearce": {
+    "skipFetch": true
+  },
   "the-outlier": {
     "skipFetch": true
   },
@@ -402,6 +414,9 @@
   "the-son-also-rises": {
     "superscriptFootnotes": true
   },
+  "the-soul-of-karl-friston-1": {
+    "skipFetch": true
+  },
   "the-sovereign-child": {
     "skipFetch": true
   },
@@ -418,6 +433,9 @@
     "skipFetch": true
   },
   "the-tale-of-the-princess-kaguya": {
+    "skipFetch": true
+  },
+  "the-watergate-affair": {
     "skipFetch": true
   },
   "the-weirdest-people-in-the-world": {
@@ -440,6 +458,9 @@
     "skipFetch": true
   },
   "viral": {
+    "skipFetch": true
+  },
+  "we-should-never-have-gone-to-mammoth-caves": {
     "skipFetch": true
   },
   "what-the-buddha-taught-by-walpola-rahula-thero": {

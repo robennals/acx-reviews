@@ -47,7 +47,7 @@ MH: Oh! They’re COLD. OK, that’s fine. How many come in an order?
 
 Server: How many you want?
 
-MH: Can we order in any number or do you have to do, say, 3 or 6[1].
+MH: Can we order in any number or do you have to do, say, 3 or 6[^1].
 
 Server: Just order what you want.
 
@@ -85,9 +85,9 @@ We left New Orleans probably long after we had our fill of New Orleans. We left 
 
 After the art museum, it was time for dinner and we opted to wait for a table at the neat looking al fresco-ish restaurant attached to the museum. Once seated, we perused the menu and saw that they offered a charcuterie plate and we were sold. “We’re so cultured,” we said, sitting in a restaurant at an art museum about to order fine meats and cheeses.
 
-I’ll cut to the chase: My husband and I have a habit of calling charcuterie boards “Adult Lunchables”[2]. This is because it’s usually very fancy cheese and cured meats and various hoighty-toighty accoutrements. But this time, we were truly served a hilarious charcuterie plate that could honestly be called “Adult Lunchables”. It had standard lunch meat on it (turkey and ham, maybe even bologna…but I might be exaggerating there) and deli cheese like swiss and Unexciting Cheddar. The crackers were Ritz and the whole thing was $25 and the most expensive thing on the menu. I guess I’m sounding like a snob here but their idea of artful display was cutting cheese slices into triangles.
+I’ll cut to the chase: My husband and I have a habit of calling charcuterie boards “Adult Lunchables”[^2]. This is because it’s usually very fancy cheese and cured meats and various hoighty-toighty accoutrements. But this time, we were truly served a hilarious charcuterie plate that could honestly be called “Adult Lunchables”. It had standard lunch meat on it (turkey and ham, maybe even bologna…but I might be exaggerating there) and deli cheese like swiss and Unexciting Cheddar. The crackers were Ritz and the whole thing was $25 and the most expensive thing on the menu. I guess I’m sounding like a snob here but their idea of artful display was cutting cheese slices into triangles.
 
-Of course, one time I was talking to a friend about this triple creme brie they sell at Wegman’s and I said, “Yeah, it’s the ONLY brie I buy,” so maybe I’m the problem actually. To be fair, after I said that, I thought about it for a minute and said “Jesus Christ, what an asshole!” about myself. So, like, I get it[3]. But still, it’s difficult not to feel a little had by the the charcuterie plate, knowing that they charged $25 Fancy Tourists at the Art Museum Fee for lunch meat turkey and Ritz crackers.
+Of course, one time I was talking to a friend about this triple creme brie they sell at Wegman’s and I said, “Yeah, it’s the ONLY brie I buy,” so maybe I’m the problem actually. To be fair, after I said that, I thought about it for a minute and said “Jesus Christ, what an asshole!” about myself. So, like, I get it[^3]. But still, it’s difficult not to feel a little had by the the charcuterie plate, knowing that they charged $25 Fancy Tourists at the Art Museum Fee for lunch meat turkey and Ritz crackers.
 
 After the night of the Art Museum Lunchables Cheese Plate, we got out of Huntsville to continue our drive back home. It was during this next leg of the trip that we got the idea to check out Mammoth Caves.
 
@@ -101,13 +101,13 @@ So we said “screw this,” and turned around and decided to go watch John Wick
 
 See? Cultural exchange!
 
-Anyway, as I said, this is NOT a review of New Orleans. I swear[4]!
+Anyway, as I said, this is NOT a review of New Orleans. I swear[^4]!
 
-It’s just a foil. Because you might be thinking, how could a national park attraction be worse than everything you just described? And perhaps it wasn’t worse, per se. But I found it utterly shocking that an impressive cave system preserved by Theodore Roosevelt THE Bull Moose himself[5], could be such a garbage part of our long and storied road trip. And therefore, if you “do the math,” the grandiosity and majesty of the caves divided by the utter incompetence and crappiness of the mandatory tour, results in a pretty abysmal Garbage Quotient.
+It’s just a foil. Because you might be thinking, how could a national park attraction be worse than everything you just described? And perhaps it wasn’t worse, per se. But I found it utterly shocking that an impressive cave system preserved by Theodore Roosevelt THE Bull Moose himself[^5], could be such a garbage part of our long and storied road trip. And therefore, if you “do the math,” the grandiosity and majesty of the caves divided by the utter incompetence and crappiness of the mandatory tour, results in a pretty abysmal Garbage Quotient.
 
 So, my husband and I are on our drive and we’re trying to figure out where to stop next. I started looking around on maps and seeing what “attraction” signs on the road had to say. We stumbled upon Mammoth Caves. A national park right on our route!
 
-I went to the website and discovered that you weren’t allowed to just go check them out. You see, it was a big cave, one might even describe it as elephantine[6]. They couldn’t allow you just to go in there. Which, while I am being flippant here, I do actually understand. It’s dark with some narrow shafts and people, including, at times, my husband and I, are morons and if people regularly drown in hot springs in Yellowstone, then someone is going to fall down a hole in a big ol’ cave in the dark.
+I went to the website and discovered that you weren’t allowed to just go check them out. You see, it was a big cave, one might even describe it as elephantine[^6]. They couldn’t allow you just to go in there. Which, while I am being flippant here, I do actually understand. It’s dark with some narrow shafts and people, including, at times, my husband and I, are morons and if people regularly drown in hot springs in Yellowstone, then someone is going to fall down a hole in a big ol’ cave in the dark.
 
 So, because of this, you had to sign up for a tour. And because the caves are so big, the tour size capacity is similarly big, so the smallest tour you could join was 80 people.
 
@@ -139,11 +139,11 @@ I said, stop stuffing me into this locker! JEEZ!
 
 I am simply mentioning this because I’ll give anyone a shot at making me interested in what they want to tell me about. But I’ll tell you that all I remember about the “really captivating and important history” of Mammoth Caves from this guy was that there were two old timey “cave developers” trying to cash in on that hot tourism money in the 1800s. One guy found an entrance first and was raking it in. Another guy wanted in on that action but the first guy said NO, this is MY giant hole in the ground to exploit for fortune and glory. The other guy said, “FINE, I will find my OWN Glory Hole!” and a while later, he found another entrance and tourists started making it rain on him instead.
 
-Please note that the way I just explained that completely run of the mill “1800s shoddy businessman feud” was considerably more interesting than what the guy actually said[7]. I barely remembered what he talked about and had to review the national parks website to find it. If you are interested in the history of Mammoth Caves, feel free to visit this website because, oh boy, is there a lot of uninteresting facts and shoe horning of the Important Roles various previously massively oppressed demographics played in the history of this pit in Kentucky. [History & Culture - Mammoth Cave National Park (U.S. National Park Service)](https://www.nps.gov/maca/learn/historyculture/index.htm)
+Please note that the way I just explained that completely run of the mill “1800s shoddy businessman feud” was considerably more interesting than what the guy actually said[^7]. I barely remembered what he talked about and had to review the national parks website to find it. If you are interested in the history of Mammoth Caves, feel free to visit this website because, oh boy, is there a lot of uninteresting facts and shoe horning of the Important Roles various previously massively oppressed demographics played in the history of this pit in Kentucky. [History & Culture - Mammoth Cave National Park (U.S. National Park Service)](https://www.nps.gov/maca/learn/historyculture/index.htm)
 
-Admittedly, I did not look extensively into this reservoir of information because, frankly, I didn’t care all that much. However, I took a cursory look at some of the sections, including the illustrious history of women in the caves. My favorite bit was at the very beginning of the section where it talks about how not much is known about the earliest days of people exploring the caves, but archeologists have analyzed fossilized shit - paleofeces[8] - and discovered that the genetic markers left behind…were probably men…but it’s inconclusive! So, ancient human men AND women might have shat in those very caves. Thus enter women into the chat, I guess.
+Admittedly, I did not look extensively into this reservoir of information because, frankly, I didn’t care all that much. However, I took a cursory look at some of the sections, including the illustrious history of women in the caves. My favorite bit was at the very beginning of the section where it talks about how not much is known about the earliest days of people exploring the caves, but archeologists have analyzed fossilized shit - paleofeces[^8] - and discovered that the genetic markers left behind…were probably men…but it’s inconclusive! So, ancient human men AND women might have shat in those very caves. Thus enter women into the chat, I guess.
 
-The next part shows that early lady tourists graffitied walls just as well as some damn MAN could do. And the rest was about how at some point they made enslaved people, many of whom were women, come and give cave tours to white tourists. There was a period where seemingly no tours were going on - roughly 1861 through 1866 - just a coincidence, I am sure. But during that time, no notable things were done in the caves by enslaved people or women or anyone really due to some other pressing engagement[9].
+The next part shows that early lady tourists graffitied walls just as well as some damn MAN could do. And the rest was about how at some point they made enslaved people, many of whom were women, come and give cave tours to white tourists. There was a period where seemingly no tours were going on - roughly 1861 through 1866 - just a coincidence, I am sure. But during that time, no notable things were done in the caves by enslaved people or women or anyone really due to some other pressing engagement[^9].
 
 After I read these historical blurbs and confirmed that the most notable thing was that whole Dynamite BONANZA: The Bushy Mustachioed Businessman Battle for Profit hullabaloo, I realized I had fallen completely into the park rangers trap 6 years later. I was learning. Dagnabbit!
 
@@ -161,7 +161,7 @@ Maybe it’s too much screen time or something but buddy, I think we know that c
 
 We did this routine two more times I think, though each subsequent stop had way more interesting stuff to look at. However, each time we stopped and waited the obligatory 15 minutes or so for everyone caught up, we would get whatever uninteresting information the guy wanted to share and then…then he would ask if anyone had any questions. He always added something like “If no one has any questions, we’ll move on to the next part of the tour.” And someone ALWAYS had another question. “So, uh, what’s that over there? Some kind of rock? Is it…uh…sedimentary?” or “Did the cave explorers use…pickaxes…or just their BARE HANDS?” Listen, this guy doesn’t know about the rocks. He told you that so anything he tells you right now will be lies. And, bro, I know you don’t actually care. You just don’t feel like walking anymore. Stop punishing the rest of us with your insincere quest for knowledge.
 
-In all honesty, the caves really were beautiful and ultimately worth seeing. Had we a bit more flexibility to our scheduling, it would have been better to have tried to take one of the other kinds of tours they had. There were smaller group tours, and ones that were specifically more focused on, you know, the rocks. During this tour, the park ranger could barely muster the energy to say something cool like “Behold! The GYPSUM!” and really, the biggest crime to me is that if you hate the subject matter you are being forced to teach on the tour you volunteered to give, have fun with it. Which, I suppose, the guy tried to do but he lacked the heart. Well, he had the heart, but he didn’t have the soul. No wait, he had the heart and soul, but he didn’t have THE TALENT[10].
+In all honesty, the caves really were beautiful and ultimately worth seeing. Had we a bit more flexibility to our scheduling, it would have been better to have tried to take one of the other kinds of tours they had. There were smaller group tours, and ones that were specifically more focused on, you know, the rocks. During this tour, the park ranger could barely muster the energy to say something cool like “Behold! The GYPSUM!” and really, the biggest crime to me is that if you hate the subject matter you are being forced to teach on the tour you volunteered to give, have fun with it. Which, I suppose, the guy tried to do but he lacked the heart. Well, he had the heart, but he didn’t have the soul. No wait, he had the heart and soul, but he didn’t have THE TALENT[^10].
 
 Admittedly, I haven’t looked into all this geology I keep saying I want to know about, and honestly, that’s because I would prefer someone who is into it tell me about it. Sure, I can read a book, but I like a performance. Having someone tell you about something they love because they want you to know about it (and not because they want you to know they know about it) is a superior form of education for me and I will take it every time. And I will both remember you and I will remember the content you shared for years to come what it is told to me with passion!
 
@@ -185,22 +185,22 @@ Just don’t say I didn’t warn you.
 
 Endnotes
 
-[1]For the uninitiated, in Maryland, one orders crabs to pick in certain multiples. You don’t tend to order them one by one. This is apparently not how they do it in Louisiana and I guess this is one of those States Rights thing they are always on about down here.
+[^1]: For the uninitiated, in Maryland, one orders crabs to pick in certain multiples. You don’t tend to order them one by one. This is apparently not how they do it in Louisiana and I guess this is one of those States Rights thing they are always on about down here.
 
-[2]When we say “Adult Lunchables”, we don’t generally mean something like those parties where they serve sushi rolls off of a naked woman. I would probably call the sushi thing something like “Lunchables after Dark. Follow me for more marketing ideas!
+[^2]: When we say “Adult Lunchables”, we don’t generally mean something like those parties where they serve sushi rolls off of a naked woman. I would probably call the sushi thing something like “Lunchables after Dark. Follow me for more marketing ideas!
 
-[3]But, look, if you’re going to buy brie, don’t waste your time on anything other than triple creme brie, folks. I would specify that it should come from Wegman’s, but I’ve had great triple creme brie from Trader Joe’s as well.
+[^3]: But, look, if you’re going to buy brie, don’t waste your time on anything other than triple creme brie, folks. I would specify that it should come from Wegman’s, but I’ve had great triple creme brie from Trader Joe’s as well.
 
-[4]But for context, the Lafitte Swamp National Park visit was considerably better than our visit to Mammoth Caves. That’s right: a swamp park in 90 degree weather in 100% relative humidity, where alligators just kind of hung out with their prehistoric killing machine mouths inches away from visitors’ feet, where I came dangerously close to passing out under the weight of my physical condition and poor decisions, was more enjoyable and enriching than the G-D cave tour.
+[^4]: But for context, the Lafitte Swamp National Park visit was considerably better than our visit to Mammoth Caves. That’s right: a swamp park in 90 degree weather in 100% relative humidity, where alligators just kind of hung out with their prehistoric killing machine mouths inches away from visitors’ feet, where I came dangerously close to passing out under the weight of my physical condition and poor decisions, was more enjoyable and enriching than the G-D cave tour.
 
-[5] OK, not actually, but his LEGACY did it…it was actually finally made a national park in 1941, so it was a different Roosevelt who gets the credit, I guess.
+[^5]: OK, not actually, but his LEGACY did it…it was actually finally made a national park in 1941, so it was a different Roosevelt who gets the credit, I guess.
 
-[6]Insert “Pun Husky Meme” here.
+[^6]: Insert “Pun Husky Meme” here.
 
-[7]He definitely didn’t mention glory holes AT ALL and that’s a damn wasted opportunity.
+[^7]: He definitely didn’t mention glory holes AT ALL and that’s a damn wasted opportunity.
 
-[8] I am a simple person with simple pleasures and I laughed for many, many minutes at the concept of paleofeces.
+[^8]: I am a simple person with simple pleasures and I laughed for many, many minutes at the concept of paleofeces.
 
-[9] I was disappointed that I found no history of note about the caves during the Civil War because I really hoped that there would be a tale of a group of rebels called The Cave Bottom Boys.  Or a Union soldier who deserted and lived out the rest of the war in the cave and locals turned him into a Legendary Cryptid like Big Foot.
+[^9]: I was disappointed that I found no history of note about the caves during the Civil War because I really hoped that there would be a tale of a group of rebels called The Cave Bottom Boys.  Or a Union soldier who deserted and lived out the rest of the war in the cave and locals turned him into a Legendary Cryptid like Big Foot.
 
-[10] This is a quote from South Park’s Chef from their “You Got Served” episode. And, if I am being honest, this entire review is inspired by another South Park episode called “We Should Never Have Gone Ziplining”. My literary inspirations are highly refined.
+[^10]: This is a quote from South Park’s Chef from their “You Got Served” episode. And, if I am being honest, this entire review is inspired by another South Park episode called “We Should Never Have Gone Ziplining”. My literary inspirations are highly refined.

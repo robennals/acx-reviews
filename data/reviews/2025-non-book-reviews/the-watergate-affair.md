@@ -48,7 +48,7 @@ So that we don't deceive ourselves, go on and spend a minute yourself trying to 
 
 If you don't know too many specifics, you're not alone. I knew almost nothing about the scandal, which happened about a decade before I was born. I knew that there was a burglary at the Watergate and something something this caused Nixon to resign. It's possible I only knew even this much because it comes up as a joke in Forrest Gump. But I assumed that it must be the greatest of all scandals, because all subsequent scandals are named whatevergate in honor of it.
 
-To see if my memory was worse than average, I went around for a couple weeks annoying everyone I know by asking them what they remembered about Watergate.[1] Some were old enough to remember it firsthand, and others surely would (should) have learned something about it in history class, or through the telephone game of culture. Here's some representative recollections:
+To see if my memory was worse than average, I went around for a couple weeks annoying everyone I know by asking them what they remembered about Watergate.[^1] Some were old enough to remember it firsthand, and others surely would (should) have learned something about it in history class, or through the telephone game of culture. Here's some representative recollections:
 
 Younger people...didn't know much. A middle school student I asked had never heard of Watergate, and thought "Nixon" might be one of Santa's reindeer. Young adults remembered bits and pieces, but it tended to be fairly garbled. They had at least heard of Watergate, and remembered there was a burglary, but most didn't remember who the target was. One person said that they broke into a psychiatrist's office to get political dirt on their enemies. Almost everyone knew that Nixon resigned in the end. Someone remembered that he first gave an "I'm not a crook" speech.
 
@@ -56,7 +56,7 @@ Older people, who experienced some of this firsthand, did a little better. Most 
 
 They also tended to characterize Nixon as paranoid. He didn't have to tape his conversations in the Oval Office, but he did it anyway. They remembered the Watergate break-in itself as a small crime by modern standards, and thought it was completely unnecessary since he won the next election in a landslide. Some thought Nixon had personally ordered the burglary, and some thought he didn't even know about it, but that he was implicated after the fact in the cover-up. Someone mentioned that he was never impeached, but that he would have been because the Republicans turned on him when they heard what kinds of things he'd been saying behind closed doors.
 
-For it being so long ago, the people who lived through it still remembered quite a lot. That being said, let us look into what, with 50 years of perspective, some boring historians say actually happened.[2]
+For it being so long ago, the people who lived through it still remembered quite a lot. That being said, let us look into what, with 50 years of perspective, some boring historians say actually happened.[^2]
 
 ## The Crime
 
@@ -196,6 +196,6 @@ Now, because of the continued shrinking of the public-private divide, we are in 
 
 ## Endnotes
 
-**[1]** Interviews for this piece were conducted "on background", meaning that statements were on the record, but only on the condition that the sources of the information are not revealed.
+[^1]: Interviews for this piece were conducted "on background", meaning that statements were on the record, but only on the condition that the sources of the information are not revealed.
 
-**[2]** The main boring historian was Garrett Graff (sorry Garrett) and his "Watergate: A New History". Also consulted were Carl Bernstein and Bob Woodward's "All the President's Men" and Carl Bernstein and Bob Woodward's "The Final Days".
+[^2]: The main boring historian was Garrett Graff (sorry Garrett) and his "Watergate: A New History". Also consulted were Carl Bernstein and Bob Woodward's "All the President's Men" and Carl Bernstein and Bob Woodward's "The Final Days".
