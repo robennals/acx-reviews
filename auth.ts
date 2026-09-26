@@ -159,7 +159,10 @@ if (isAuthConfigured) {
   // Stub exports so the rest of the app can import these names without
   // crashing at module load when AUTH_SECRET / DATABASE_URL is absent.
   const notConfigured = () =>
-    new Response('Authentication is not configured on this deployment.', { status: 503 });
+    Response.json(
+      { error: 'auth_not_configured', message: 'Authentication is not configured on this deployment.' },
+      { status: 503 },
+    );
   _exports = {
     handlers: {
       GET: async () => notConfigured(),

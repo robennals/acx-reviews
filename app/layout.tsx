@@ -13,7 +13,7 @@ import { auth, isAuthConfigured } from "@/auth";
 import { isAdminEmail } from "@/lib/admin";
 import { loadInitialVotes, type InitialVotesState } from "@/lib/server/initial-votes";
 import Link from "next/link";
-import Script from "next/script";
+import { SiteAnalytics } from "@/components/site-analytics";
 import { SITE_URL } from "@/lib/constants";
 
 const sourceSerif = Source_Serif_4({
@@ -73,21 +73,10 @@ export default async function RootLayout({
   return (
     <html lang="en" className={`${sourceSerif.variable} ${inter.variable}`}>
       <head>
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-MW01Z50CB3"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-MW01Z50CB3');
-          `}
-        </Script>
+        <SiteAnalytics />
       </head>
       <body className={`${inter.className} antialiased`}>
-        <AuthProvider>
+        <AuthProvider enabled={isAuthConfigured} session={session}>
         <ToastProvider>
         <SignInPromptProvider>
         <ReadingProgressProvider>
