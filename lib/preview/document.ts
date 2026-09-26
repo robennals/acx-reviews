@@ -16,7 +16,7 @@ export function documentUrl(input: string) {
 }
 
 const MAX_BYTES = 20 * 1024 * 1024;
-export async function fetchDocument(input: string, fetcher: typeof fetch = directFetch as unknown as typeof fetch) {
+export async function fetchDocument(input: string, fetcher: typeof directFetch = directFetch) {
   const source = documentUrl(input);
   const url = new URL(`https://docs.google.com/document/d/${source.id}/export?format=html`);
   if (source.resourceKey) url.searchParams.set('resourcekey', source.resourceKey);

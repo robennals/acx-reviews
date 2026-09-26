@@ -189,3 +189,7 @@ Use the app's existing client-IP proxy convention (`x-forwarded-for`, then `x-re
 ### Shared review presentation
 
 Published reviews and previews use the same `ReviewArticle` component, `ReviewContent`, footnote UI, and global typography styles. The source adapters supply title, body HTML, and footnotes; published-only metadata and controls are optional slots. Preview tables use semantic header/body sections and compact single-paragraph cells, and captioned images use the same figure/paragraph structure as published reviews.
+
+### Analytics navigation boundary
+
+A browser document opened on `/preview` never initializes analytics, including after client navigation to the archive and browser Back. Entry into preview from pages that have analytics must use a full document navigation (such as the GET form or a plain anchor), not a Next.js client-side Link. Unmounting an analytics script does not stop its history listeners.
