@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { Suspense } from 'react';
+import LoadingPreview from './loading';
 import Link from 'next/link';
 import { headers } from 'next/headers';
 import { getClientIp } from '@/lib/auth/rate-limit';
@@ -46,6 +48,15 @@ const rules = [
 export default async function PreviewPage({ searchParams }: { searchParams: Promise<{ url?: string | string[] }> }) {
   const params = await searchParams;
   const url = typeof params.url === 'string' ? params.url.trim() : '';
+  // Query-only navigation reuses the route's loading boundary. Key this inner
+  // boundary by the requested document so the new URL can commit immediately,
+  // while the export and conversion stream behind the progress indicator.
+  return <Suspense key={url} fallback={<LoadingPreview />}>
+    <PreviewResult url={url} />
+  </Suspense>;
+}
+
+async function PreviewResult({ url }: { url: string }) {
   let article: PreviewArticle | undefined;
   let sourceUrl = '';
   let fetchedAt = '';
