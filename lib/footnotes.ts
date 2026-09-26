@@ -466,10 +466,18 @@ function extractPandoc(md: string): ExtractedFootnotes {
   });
 
   // Renumber footnote ids in the output so renderers can use sequential
-  // anchors that match the in-body refs.
+  // anchors that match the in-body refs. A footnote can cite another
+  // footnote (`[^73]` inside `[^4]:`); rewrite those too, giving the
+  // anchor to the first nested occurrence when the body never cites it.
   const renumbered: ExtractedFootnote[] = footnotes.map(fn => ({
     id: idToNumber.get(fn.id) ?? fn.id,
-    raw: fn.raw,
+    raw: fn.raw.replace(/\[\^([^\]\s]+)\]/g, (full, id: string) => {
+      const num = idToNumber.get(id);
+      if (!num || id === fn.id) return full;
+      const first = !seenInBody.has(num);
+      seenInBody.add(num);
+      return REF_MARKER(num, first);
+    }),
   }));
 
   body = body.replace(/\n{3,}$/g, '\n\n').replace(/\s+$/g, '') + '\n';

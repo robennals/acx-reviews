@@ -725,6 +725,24 @@ test('nested: plain-format footnote referencing another footnote gets a marker',
   assert.deepEqual(r.footnotes.map(f => f.id), ['5', '6']);
 });
 
+test('nested: pandoc footnote citing another footnote gets a marker', () => {
+  const input = [
+    'Body cites one[^1] and two[^2].',
+    '',
+    '[^1]: See also note 3[^3] and note 2[^2].',
+    '[^2]: Second.',
+    '[^3]: Only cited from note 1.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  const fn1 = r.footnotes.find(f => f.id === '1')!;
+  // [^3] is cited only here, so it carries the anchor; [^2]'s anchor is in the body.
+  assert.ok(fn1.raw.includes('<sup class="fn-ref" data-fn-id="3" id="fn-ref-3">[3]</sup>'), fn1.raw);
+  assert.ok(fn1.raw.includes('<sup class="fn-ref" data-fn-id="2">[2]</sup>'), fn1.raw);
+  assert.ok(!fn1.raw.includes('[^'), fn1.raw);
+});
+
 test('nested: bracket-colon fractional id ([2.5] inside def [2]) is rewritten', () => {
   const input = [
     'Prose referencing one[1] and two[2] and three[3].',
