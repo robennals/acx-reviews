@@ -1,10 +1,9 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
-import { ReviewContent } from '@/components/review-content';
+import { ReviewArticle } from '@/components/review-article';
 import { AudioPlayer } from '@/components/audio-player';
 import { getReviewAudio } from '@/lib/server/audio-manifest';
-import { FootnotesSection } from '@/components/footnotes-section';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
 import { RatingCard } from '@/components/rating-card';
 import { FeedbackCard } from '@/components/feedback-card';
@@ -80,122 +79,108 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <article>
-        {/* Header */}
-        <header className="bg-muted/30 border-b border-border">
-          <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12">
-            {/* Back link */}
-            <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline mb-8">
-              <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-              </svg>
-              Back to archive
-            </BackToArchiveLink>
+      <ReviewArticle
+        title={review.title}
+        contentHtml={review.contentHtml}
+        footnotes={review.footnotes}
+        beforeTitle={
+          <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline mb-8">
+            <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+            Back to archive
+          </BackToArchiveLink>
+        }
+        headerDetails={<>
+          {/* Inline rating card directly under the title */}
+          <RatingCard reviewId={review.id} reviewYear={review.year} />
 
-            {/* Title */}
-            <h1 className="text-3xl sm:text-4xl lg:text-[2.75rem] font-serif font-semibold leading-tight tracking-tight mb-3 text-balance">
-              {review.title}
-            </h1>
-
-            {/* Inline rating card directly under the title */}
-            <RatingCard reviewId={review.id} reviewYear={review.year} />
-
-            {/* Attribution - only show if we have meaningful author info */}
-            {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
-              <div className="text-lg text-muted-foreground mb-6">
-                {review.author !== 'Unknown' && (
-                  <p>
-                    A review of{' '}
-                    <span className="text-foreground font-medium">{review.author}</span>
-                  </p>
-                )}
-                {review.reviewAuthor !== 'Anonymous' && (
-                  <p className="text-base mt-1">
-                    by {review.reviewAuthor}
-                  </p>
-                )}
-              </div>
-            )}
-
-            {/* Meta info */}
-            <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-muted-foreground pt-6 border-t border-border">
-              <span>{review.year} Contest</span>
-              <span className="text-border">&bull;</span>
-              <span>{review.readingTimeMinutes} min read</span>
-              <span className="text-border">&bull;</span>
-              <span>{review.wordCount.toLocaleString()} words</span>
-              {audio && (
-                <>
-                  <span className="text-border">&bull;</span>
-                  <AudioPlayer slug={slug} audio={audio} />
-                </>
+          {/* Attribution - only show if we have meaningful author info */}
+          {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
+            <div className="text-lg text-muted-foreground mb-6">
+              {review.author !== 'Unknown' && (
+                <p>
+                  A review of{' '}
+                  <span className="text-foreground font-medium">{review.author}</span>
+                </p>
               )}
-              {review.originalUrl && (
-                <>
-                  <span className="text-border">&bull;</span>
-                  <a
-                    href={review.originalUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-link hover:underline"
-                  >
-                    View original
-                  </a>
-                </>
+              {review.reviewAuthor !== 'Anonymous' && (
+                <p className="text-base mt-1">
+                  by {review.reviewAuthor}
+                </p>
               )}
             </div>
-          </div>
-        </header>
+          )}
 
-        {/* Content */}
-        <div className="max-w-3xl mx-auto px-6 sm:px-8 pt-12 lg:pt-16">
-          <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
-        </div>
-
-        {/* Rating card after the body but BEFORE footnotes — many readers
-            stop before reaching the footnotes section. */}
-        <div className="max-w-3xl mx-auto px-6 sm:px-8">
-          <RatingCard reviewId={review.id} reviewYear={review.year} />
-        </div>
-
-        {/* Send-feedback-to-author card (2026 only; renders nothing otherwise). */}
-        <div className="max-w-3xl mx-auto px-6 sm:px-8">
-          <FeedbackCard reviewSlug={review.slug} reviewYear={review.year} />
-        </div>
-
-        {/* Footnotes section (renders nothing when there are none). */}
-        <div className="max-w-3xl mx-auto px-6 sm:px-8 pb-12">
-          <FootnotesSection footnotes={review.footnotes} />
-        </div>
-
-        {/* Footer */}
-        <footer className="border-t border-border bg-muted/30">
-          <div className="max-w-3xl mx-auto px-6 sm:px-8 py-10">
-            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-              <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline">
-                <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                </svg>
-                Back to archive
-              </BackToArchiveLink>
-
-              {review.originalUrl && (
+          {/* Meta info */}
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-muted-foreground pt-6 border-t border-border">
+            <span>{review.year} Contest</span>
+            <span className="text-border">&bull;</span>
+            <span>{review.readingTimeMinutes} min read</span>
+            <span className="text-border">&bull;</span>
+            <span>{review.wordCount.toLocaleString()} words</span>
+            {audio && (
+              <>
+                <span className="text-border">&bull;</span>
+                <AudioPlayer slug={slug} audio={audio} />
+              </>
+            )}
+            {review.originalUrl && (
+              <>
+                <span className="text-border">&bull;</span>
                 <a
                   href={review.originalUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center text-sm text-link hover:underline"
+                  className="text-link hover:underline"
                 >
-                  Read on Astral Codex Ten
-                  <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
+                  View original
                 </a>
-              )}
-            </div>
+              </>
+            )}
           </div>
-        </footer>
-      </article>
+        </>}
+        beforeFootnotes={<>
+          {/* Rating card after the body but BEFORE footnotes — many readers
+              stop before reaching the footnotes section. */}
+          <div className="max-w-3xl mx-auto px-6 sm:px-8">
+            <RatingCard reviewId={review.id} reviewYear={review.year} />
+          </div>
+
+          {/* Send-feedback-to-author card (2026 only; renders nothing otherwise). */}
+          <div className="max-w-3xl mx-auto px-6 sm:px-8">
+            <FeedbackCard reviewSlug={review.slug} reviewYear={review.year} />
+          </div>
+        </>}
+        footer={
+          <footer className="border-t border-border bg-muted/30">
+            <div className="max-w-3xl mx-auto px-6 sm:px-8 py-10">
+              <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+                <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline">
+                  <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                  Back to archive
+                </BackToArchiveLink>
+
+                {review.originalUrl && (
+                  <a
+                    href={review.originalUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center text-sm text-link hover:underline"
+                  >
+                    Read on Astral Codex Ten
+                    <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </a>
+                )}
+              </div>
+            </div>
+          </footer>
+        }
+      />
     </ReadingProgressTracker>
   );
 }

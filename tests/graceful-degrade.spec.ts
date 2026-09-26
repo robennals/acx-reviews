@@ -39,6 +39,7 @@ test.describe('Graceful degradation when auth/db are missing', () => {
         env: {
           ...process.env,
           // Strip auth + DB so the layout has to handle absence.
+          WATCHPACK_POLLING: 'true',
           DATABASE_URL: '',
           TURSO_TOKEN: '',
           AUTH_SECRET: '',
@@ -96,8 +97,30 @@ test.describe('Graceful degradation when auth/db are missing', () => {
     await expect(page.getByRole('heading', { name: /Admin · Vote tally/i })).toHaveCount(0);
   });
 
-  test('auth API returns 503, not 500, when not configured', async ({ request }) => {
+  test('preview does not request a session or report auth errors when auth is disabled', async ({ page }) => {
+    const sessionRequests: string[] = [];
+    const errors: string[] = [];
+    page.on('request', req => {
+      if (new URL(req.url()).pathname === '/api/auth/session') sessionRequests.push(req.url());
+    });
+    page.on('console', msg => { if (msg.type() === 'error') errors.push(msg.text()); });
+    page.on('pageerror', err => errors.push(err.message));
+    await page.goto(`${BASE}/preview`);
+    await expect(page.getByRole('heading', { name: 'Preview your review' })).toBeVisible();
+    await page.waitForLoadState('networkidle');
+    await page.evaluate(() => window.dispatchEvent(new Event('focus')));
+    await page.getByLabel('Google Docs sharing link').fill('https://example.com/not-a-doc');
+    await page.getByRole('button', { name: 'Preview', exact: true }).click();
+    await expect(page.getByRole('heading', { name: 'Could not create preview' })).toBeVisible();
+    await page.waitForLoadState('networkidle');
+    expect(errors.filter(message => /Unexpected token|ClientFetchError|AuthError|not valid JSON/i.test(message))).toEqual([]);
+    expect(sessionRequests).toEqual([]);
+  });
+
+  test('auth API returns JSON with 503 when not configured', async ({ request }) => {
     const res = await request.get(`${BASE}/api/auth/session`);
     expect(res.status()).toBe(503);
+    expect(res.headers()['content-type']).toContain('application/json');
+    expect(await res.json()).toMatchObject({ error: 'auth_not_configured' });
   });
 });

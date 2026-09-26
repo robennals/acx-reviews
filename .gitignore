@@ -74,3 +74,6 @@ data/stripped-leading-title.log
 # ePub build artifacts
 /dist/
 /.epub-image-cache/
+
+# Local pnpm content-addressed dependency cache
+.pnpm-store/
