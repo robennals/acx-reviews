@@ -381,6 +381,24 @@ test('plain: strips a "## Footnotes:" heading (trailing colon)', () => {
   assert.ok(!/Footnotes:/i.test(result.body), `Footnotes: heading should be stripped; got: ${result.body}`);
 });
 
+test('strips non-# notes headings authors actually use before the defs', () => {
+  const headings = [
+    '**ENDNOTES**', '**Footnotes:**', '**Footnotes**:', 'Endnotes', 'Endnotes:',
+    '## End Notes', '## Endnotes.', '### Notes:', '[Notes]', 'References:', '#',
+  ];
+  for (const heading of headings) {
+    const input = ['Body prose.[^1]', '', heading, '', '[^1]: Footnote one.', ''].join('\n');
+    const result = extractFootnotes(input);
+    assert.equal(result.body.trim(), 'Body prose.<sup class="fn-ref" data-fn-id="1" id="fn-ref-1">[1]</sup>', `heading ${heading}`);
+  }
+});
+
+test('keeps a References section that has content after its heading', () => {
+  const input = ['Body prose.[^1]', '', '## References', '', 'Smith 2001. A Book.', '', '[^1]: Footnote one.', ''].join('\n');
+  const result = extractFootnotes(input);
+  assert.ok(result.body.includes('## References') && result.body.includes('Smith 2001'), result.body);
+});
+
 test('plain: strips an H2 "Footnotes" heading too', () => {
   const input = [
     'Body referring to [1].',

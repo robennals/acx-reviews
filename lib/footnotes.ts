@@ -1082,12 +1082,14 @@ export function extractFootnotes(
   // body — every format leaves the body ending just before the
   // footnote-defs region, and the render layer adds its own
   // <h2>Footnotes</h2> next to the extracted defs, so leaving the
-  // author's heading would show two of them. Case-insensitive and
-  // allows an optional trailing colon. Catches `## FOOTNOTES`,
-  // `### Footnotes`, `# Footnotes:`, `## Endnotes`, etc.
+  // author's heading would show two of them. Only the body's last line
+  // is considered, in whatever form authors wrote it: `## FOOTNOTES`,
+  // `### Notes:`, `**Endnotes**`, `**Footnotes**:`, plain `Endnotes`,
+  // `## End Notes`, `[Notes]`, `References:`, etc. — or an empty `#`
+  // heading whose text the import lost (meeting-hardly-meeting).
   const bodyWithoutTrailingHeading = extracted.body.replace(
-    /\n*^#{1,6}[ \t]+(footnotes|endnotes)[ \t]*:?[ \t]*\s*$/im,
-    ''
+    /\n*^(?:#{1,6}[ \t]*|(?:#{1,6}[ \t]*)?(?:\*\*|__|\[)?[ \t]*(?:foot[ \t]?notes|end[ \t]?notes|notes|references)[ \t]*[.:]?[ \t]*(?:\*\*|__|\])?[ \t]*[.:]?)\s*$(?![\s\S])/im,
+    '\n'
   );
   const restored = bodyWithoutTrailingHeading.replace(
     /\u0000CODEBLOCK(\d+)\u0000\n?/g,
