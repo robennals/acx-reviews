@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   parseVotingConfig,
+  parseVotingConfigFile,
   isVotingOpen,
   isReviewVotable,
   effectiveVotingConfig,
@@ -75,4 +76,19 @@ test('effectiveVotingConfig returns config only when live', () => {
   assert.equal(effectiveVotingConfig(c, false), null);
   assert.equal(effectiveVotingConfig(null, true), null);
   assert.equal(effectiveVotingConfig(null, false), null);
+});
+
+test('parseVotingConfigFile maps data/voting-config.json fields onto parseVotingConfig', () => {
+  const c = parseVotingConfigFile({
+    contestYear: 2026,
+    contestTitle: '2026 Book Reviews',
+    votingStart: '2026-04-18T00:00:00Z',
+    votingEnd: '2026-06-16T00:00:00-12:00',
+  });
+  assert.equal(c?.contestYear, 2026);
+  assert.equal(c?.contestTitle, '2026 Book Reviews');
+  assert.equal(c?.end.toISOString(), '2026-06-16T12:00:00.000Z');
+  assert.equal(parseVotingConfigFile({ contestTitle: 'no year' }), null);
+  assert.equal(parseVotingConfigFile({ contestYear: 2026, contestTitle: 7, votingStart: 'x', votingEnd: 'y' }), null);
+  assert.equal(parseVotingConfigFile(null), null);
 });

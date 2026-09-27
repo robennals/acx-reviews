@@ -62,7 +62,7 @@ Shifting our focus away from the vtubing ecosystem, we now turn to a seemingly u
 
 One of the most remarkable aspects of Twitter’s user culture throughout its history has been its tendency to generate new forms of interaction that extend far beyond the platform’s original technical design. These emergent behaviors often predate the formal implementation of features that are now taken for granted. For instance, before the retweet function was officially introduced, users had already developed a grassroots method of manually sharing others' content. This informal practice, commonly known as manual retweeting, involved quoting another user's post by embedding it within one’s own message, using a standardized syntax that evolved organically across the platform:
 
-<Your commentary> RT @someoneelsehandle: <Original tweet content>
+\<Your commentary\> RT @someoneelsehandle: \<Original tweet content\>
 
 This community-driven adaptation, which emerged as early as the 2010s, exemplifies the creative ways in which users have historically pushed the boundaries of Twitter’s intended functionality. Importantly, this spirit of innovation did not diminish over time. Even into the 2020s, users continued to explore novel ways of leveraging the platform, leading to the development of new cultural practices. Among these, the rise of autobase accounts and the broader txt subculture stands out as a particularly significant evolution.
 

@@ -24,6 +24,16 @@ test('epub:type attribute survives round-trip', () => {
   assert.ok(out.includes('epub:type="footnote"'), out);
 });
 
+test('KaTeX output keeps only the MathML, dropping the CSS-dependent HTML rendering', () => {
+  const out = htmlFragmentToXhtml(
+    '<p>x <span class="katex"><span class="katex-mathml"><math><mi>N</mi></math></span>' +
+      '<span class="katex-html" aria-hidden="true"><span class="base"><span class="mord">N</span></span></span></span> y</p>'
+  );
+  assert.ok(out.includes('<math><mi>N</mi></math>'), out);
+  assert.ok(!out.includes('katex-html'), out);
+  assert.ok(!out.includes('mord'), out);
+});
+
 test('wrapXhtmlDocument produces full document with namespaces and css link', () => {
   const doc = wrapXhtmlDocument({ title: 'A & B', bodyHtml: '<p>hi</p>', cssHref: '../css/style.css' });
   assert.ok(doc.startsWith('<?xml version="1.0" encoding="utf-8"?>'));

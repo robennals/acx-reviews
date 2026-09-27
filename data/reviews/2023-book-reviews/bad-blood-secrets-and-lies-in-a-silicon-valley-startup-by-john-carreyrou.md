@@ -56,7 +56,7 @@ Why is autocompletion important? This is why:
 | from c-string (4) | string (const char* s); |
 | from sequence (5) | string (const char* s, size_t n); |
 | fill (6) | string (size_t n, char c); |
-| range (7) | template <class InputIterator> string (InputIterator first, InputIterator last); |
+| range (7) | template \<class InputIterator\> string (InputIterator first, InputIterator last); |
 
 These are _seven_ different ways to construct a “string” which is just an assortment of characters—one of the most basic objects in a programmer’s toolkit. Could you remember what each term means and when to use which?
 

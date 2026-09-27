@@ -50,7 +50,7 @@ curious Scott: Yes, please! I’m always keen to learn more about languages. How
 
 ### Toki Pona Grammar in a Nutshell
 
-jan Alise: Sentences have the form <subject> _li_ <verb> _e_ <object>. For example, _“sina toki e ijo”_ means you describe a thing. The particle _li_ is omitted if the subject is _mi_ or _sina_ – I or you.
+jan Alise: Sentences have the form \<subject\> _li_ \<verb\> _e_ \<object\>. For example, _“sina toki e ijo”_ means you describe a thing. The particle _li_ is omitted if the subject is _mi_ or _sina_ – I or you.
 
 Modifiers go behind the thing that they modify. Examples are _“sina pona li toki e ijo”_ – the friendly you describes a thing (note the _li_, since the subject is no longer simply _“sina”_). _“sina toki pona e ijo”_ – you describe a thing well. _“sina toki e ijo pona”_ – you describe a good thing.
 

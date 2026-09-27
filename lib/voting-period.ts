@@ -34,6 +34,22 @@ export function parseVotingConfig(env: VotingEnv): VotingConfig | null {
   return { contestYear: year, contestTitle: title, start, end };
 }
 
+/**
+ * Parse the parsed JSON of the committed data/voting-config.json
+ * ({ contestYear, contestTitle, votingStart, votingEnd }). Fields of the
+ * wrong type count as missing, so the result is null.
+ */
+export function parseVotingConfigFile(raw: unknown): VotingConfig | null {
+  const file = (typeof raw === 'object' && raw !== null ? raw : {}) as Record<string, unknown>;
+  const str = (v: unknown) => (typeof v === 'string' ? v : '');
+  return parseVotingConfig({
+    VOTING_CONTEST_YEAR: typeof file.contestYear === 'number' ? String(file.contestYear) : '',
+    VOTING_CONTEST_TITLE: str(file.contestTitle),
+    VOTING_START: str(file.votingStart),
+    VOTING_END: str(file.votingEnd),
+  });
+}
+
 export function isVotingOpen(config: VotingConfig | null, now: Date): boolean {
   if (!config) return false;
   const t = now.getTime();

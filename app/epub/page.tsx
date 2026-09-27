@@ -6,7 +6,7 @@ import { getEpubs } from '@/lib/epubs';
 export const metadata: Metadata = {
   title: 'Download as ePub — ACX Review Archive',
   description:
-    'Download all entries to the Astral Codex Ten book review contest as an ePub for Kindle, phone, tablet, or e-reader.',
+    'Download every year of Astral Codex Ten review contest entries as ePubs for Kindle, phone, tablet, or e-reader.',
 };
 
 function formatSize(bytes: number): string {
@@ -28,7 +28,7 @@ export default async function EpubPage() {
         </h1>
         <p className="text-lg text-muted-foreground max-w-2xl leading-relaxed">
           Read the contest entries on your Kindle, phone, tablet, or e-reader —
-          offline, in one book.
+          offline, one book per contest.
         </p>
       </header>
 

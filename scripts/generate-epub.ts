@@ -20,6 +20,10 @@ import fs from 'fs';
 import path from 'path';
 import JSZip from 'jszip';
 import { parseMarkdown, markdownToHtml } from '../lib/markdown';
+import {
+  parseVotingConfigFile,
+  isReviewVotable,
+} from '../lib/voting-period';
 import { htmlFragmentToXhtml, wrapXhtmlDocument, escapeXml } from './lib/epub/xhtml';
 import {
   sortEntries,
@@ -136,16 +140,17 @@ async function main() {
   // e.g. "2026 Book Reviews" → "Book Review"
   const contestLabel = contest.name.replace(/^\d+\s*/, '').replace(/Reviews$/, 'Review');
 
-  // Read voting-config.json to decide whether this is the active contest.
-  let activeVotingYear: number | null = null;
+  // The anonymity/voting wording only applies while this contest's voting
+  // window is open; once it closes the book reads like any past contest.
+  let isActiveContest = false;
   try {
-    const vcRaw = fs.readFileSync(path.join(process.cwd(), 'data/voting-config.json'), 'utf8');
-    const vc = JSON.parse(vcRaw);
-    if (typeof vc.contestYear === 'number') activeVotingYear = vc.contestYear;
+    const votingConfig = parseVotingConfigFile(
+      JSON.parse(fs.readFileSync('data/voting-config.json', 'utf8'))
+    );
+    isActiveContest = isReviewVotable(votingConfig, contest.year, new Date());
   } catch {
     // Missing or invalid — treat as no active contest.
   }
-  const isActiveContest = activeVotingYear === contest.year;
 
   const introParagraph = isActiveContest
     ? `This book contains all ${entries.length} entries to the Astral Codex Ten ${contest.year} ${contestLabel} Contest, in alphabetical order by title. Entries are anonymous until the contest concludes.`

@@ -63,6 +63,20 @@ test('rewriteImageSrcs replaces mapped srcs and leaves others alone', () => {
   assert.ok(out.includes('src="https://y.org/c.png"'));
 });
 
+test('image URLs with an entity-encoded & are fetched decoded and still rewritten', () => {
+  // rehype-stringify encodes & in attributes as &#x26;
+  const html = '<img src="https://docs.google.com/d/x/image?a=1&#x26;b=2"><img src="https://x.org/c?d=1&amp;e=2">';
+  assert.deepEqual(collectImageUrls(html), [
+    'https://docs.google.com/d/x/image?a=1&b=2',
+    'https://x.org/c?d=1&e=2',
+  ]);
+  const map = new Map([
+    ['https://docs.google.com/d/x/image?a=1&b=2', '../img/one.png'],
+    ['https://x.org/c?d=1&e=2', '../img/two.png'],
+  ]);
+  assert.equal(rewriteImageSrcs(html, map), '<img src="../img/one.png"><img src="../img/two.png">');
+});
+
 test('buildChapterBody renders heading and content without footnotes', () => {
   const body = buildChapterBody({ title: 'My <Review>', html: '<p>text</p>', footnotes: [] });
   assert.ok(body.includes('My &lt;Review&gt;'));
