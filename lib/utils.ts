@@ -65,6 +65,7 @@ export function createExcerpt(content: string, maxLength: number = 200): string 
     .replace(/^[ \t]*>+[ \t]?/gm, '') // Remove blockquote markers
     .replace(/#{1,6}\s/g, '') // Remove headings
     .replace(/\[\[\d+\]\]\(#ftnt[^)]*\)/g, '') // Remove Google-Docs footnote refs: [[1]](#ftnt1), [[1]](#ftnt_ref1)
+    .replace(/\[\^[^\]\s]+\]/g, '') // Remove pandoc footnote refs: [^1]
     .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Convert links to text
     .replace(/[*_~`]/g, '') // Remove emphasis
     .trim();

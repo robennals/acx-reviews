@@ -466,10 +466,18 @@ function extractPandoc(md: string): ExtractedFootnotes {
   });
 
   // Renumber footnote ids in the output so renderers can use sequential
-  // anchors that match the in-body refs.
+  // anchors that match the in-body refs. A footnote can cite another
+  // footnote (`[^73]` inside `[^4]:`); rewrite those too, giving the
+  // anchor to the first nested occurrence when the body never cites it.
   const renumbered: ExtractedFootnote[] = footnotes.map(fn => ({
     id: idToNumber.get(fn.id) ?? fn.id,
-    raw: fn.raw,
+    raw: fn.raw.replace(/\[\^([^\]\s]+)\]/g, (full, id: string) => {
+      const num = idToNumber.get(id);
+      if (!num || id === fn.id) return full;
+      const first = !seenInBody.has(num);
+      seenInBody.add(num);
+      return REF_MARKER(num, first);
+    }),
   }));
 
   body = body.replace(/\n{3,}$/g, '\n\n').replace(/\s+$/g, '') + '\n';
@@ -1074,12 +1082,14 @@ export function extractFootnotes(
   // body — every format leaves the body ending just before the
   // footnote-defs region, and the render layer adds its own
   // <h2>Footnotes</h2> next to the extracted defs, so leaving the
-  // author's heading would show two of them. Case-insensitive and
-  // allows an optional trailing colon. Catches `## FOOTNOTES`,
-  // `### Footnotes`, `# Footnotes:`, `## Endnotes`, etc.
+  // author's heading would show two of them. Only the body's last line
+  // is considered, in whatever form authors wrote it: `## FOOTNOTES`,
+  // `### Notes:`, `**Endnotes**`, `**Footnotes**:`, plain `Endnotes`,
+  // `## End Notes`, `[Notes]`, `References:`, etc. — or an empty `#`
+  // heading whose text the import lost (meeting-hardly-meeting).
   const bodyWithoutTrailingHeading = extracted.body.replace(
-    /\n*^#{1,6}[ \t]+(footnotes|endnotes)[ \t]*:?[ \t]*\s*$/im,
-    ''
+    /\n*^(?:#{1,6}[ \t]*|(?:#{1,6}[ \t]*)?(?:\*\*|__|\[)?[ \t]*(?:foot[ \t]?notes|end[ \t]?notes|notes|references)[ \t]*[.:]?[ \t]*(?:\*\*|__|\])?[ \t]*[.:]?)\s*$(?![\s\S])/im,
+    '\n'
   );
   const restored = bodyWithoutTrailingHeading.replace(
     /\u0000CODEBLOCK(\d+)\u0000\n?/g,

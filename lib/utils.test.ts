@@ -73,6 +73,15 @@ test('createExcerpt skips a leading image-only paragraph', () => {
   );
 });
 
+test('createExcerpt strips pandoc footnote refs', () => {
+  const content = 'Athens, 277 BCE. Epicurus sat in his garden and contemplated the events of the day. Metrodorus was dead.[^2] He had been a true friend.';
+
+  const excerpt = createExcerpt(content);
+
+  assert.ok(!excerpt.includes('[^'), `excerpt should not contain footnote refs but got: ${excerpt}`);
+  assert.ok(excerpt.includes('was dead. He had'), `excerpt should keep the prose around the ref but got: ${excerpt}`);
+});
+
 test('createExcerpt strips an inline image but keeps the surrounding paragraph text', () => {
   const content = 'Before the deluge, ![cover](https://example.com/cover.png) the monks of the order preserved fragments of pre-war scientific knowledge across the centuries.';
 

@@ -30,7 +30,7 @@ Evolution gave us teeth as a short-term solution, and we turned them into lifelo
 
 When I learned I had cavities, the news arrived not through pain, but through silence. The dentist pointed at an X-ray showing small, shadowy voids hidden between my teeth, the kind you don’t feel until they're well beyond prevention. These voids, he explained, were the consequence of trusting surface-level hygiene. Then he handed me a sample pack of floss, like a priest prescribing penance for sins I hadn't realized I'd committed.
 
-Evolution never planned for this. There were no savannah grasses designed to floss hominid teeth. No Paleolithic hunter died lamenting, “If only I'd flossed.”[1] Yet today, neglecting this small ritual can cost hundreds of dollars and invite silent judgment from the Order of the Sacred Floss.
+Evolution never planned for this. There were no savannah grasses designed to floss hominid teeth. No Paleolithic hunter died lamenting, “If only I'd flossed.”[^1] Yet today, neglecting this small ritual can cost hundreds of dollars and invite silent judgment from the Order of the Sacred Floss.
 
 Elsewhere in your body, bacteria constitute a threat. In your mouth, they're a civilization. Your teeth are ancient stone outposts in microbial marshlands. Night after night, you dutifully drag sterile thread through these bacterial trenches, hoping not to miss a spot. It's absurd yet strangely admirable: an endless act of defiance in defense of structures evolution neglected to equip us to maintain.
 
@@ -144,6 +144,6 @@ The tragedy isn’t that they fail. It’s that their failure breaks the illusio
 
 Teeth remind us what the body is: temporary architecture, constantly patched, inevitably crumbling. We cover the cracks with porcelain and smiles.
 
-**ENDNOTES**  
-  
-**[1]**  Technically, there’s some archaeological evidence that Paleolithic humans used primitive toothpicks. But these were likely for dislodging mammoth jerky, not part of a twice-daily preventive care routine endorsed by proto-dental hygienists.
+**ENDNOTES**
+
+[^1]: Technically, there’s some archaeological evidence that Paleolithic humans used primitive toothpicks. But these were likely for dislodging mammoth jerky, not part of a twice-daily preventive care routine endorsed by proto-dental hygienists.

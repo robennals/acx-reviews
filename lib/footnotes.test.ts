@@ -381,6 +381,24 @@ test('plain: strips a "## Footnotes:" heading (trailing colon)', () => {
   assert.ok(!/Footnotes:/i.test(result.body), `Footnotes: heading should be stripped; got: ${result.body}`);
 });
 
+test('strips non-# notes headings authors actually use before the defs', () => {
+  const headings = [
+    '**ENDNOTES**', '**Footnotes:**', '**Footnotes**:', 'Endnotes', 'Endnotes:',
+    '## End Notes', '## Endnotes.', '### Notes:', '[Notes]', 'References:', '#',
+  ];
+  for (const heading of headings) {
+    const input = ['Body prose.[^1]', '', heading, '', '[^1]: Footnote one.', ''].join('\n');
+    const result = extractFootnotes(input);
+    assert.equal(result.body.trim(), 'Body prose.<sup class="fn-ref" data-fn-id="1" id="fn-ref-1">[1]</sup>', `heading ${heading}`);
+  }
+});
+
+test('keeps a References section that has content after its heading', () => {
+  const input = ['Body prose.[^1]', '', '## References', '', 'Smith 2001. A Book.', '', '[^1]: Footnote one.', ''].join('\n');
+  const result = extractFootnotes(input);
+  assert.ok(result.body.includes('## References') && result.body.includes('Smith 2001'), result.body);
+});
+
 test('plain: strips an H2 "Footnotes" heading too', () => {
   const input = [
     'Body referring to [1].',
@@ -723,6 +741,24 @@ test('nested: plain-format footnote referencing another footnote gets a marker',
   assert.ok(!fn6.raw.includes('fn-ref'), 'fn6 raw itself is unchanged');
   // Nested-only footnote is ordered right after its parent (not dangling at the tail).
   assert.deepEqual(r.footnotes.map(f => f.id), ['5', '6']);
+});
+
+test('nested: pandoc footnote citing another footnote gets a marker', () => {
+  const input = [
+    'Body cites one[^1] and two[^2].',
+    '',
+    '[^1]: See also note 3[^3] and note 2[^2].',
+    '[^2]: Second.',
+    '[^3]: Only cited from note 1.',
+    '',
+  ].join('\n');
+
+  const r = extractFootnotes(input);
+  const fn1 = r.footnotes.find(f => f.id === '1')!;
+  // [^3] is cited only here, so it carries the anchor; [^2]'s anchor is in the body.
+  assert.ok(fn1.raw.includes('<sup class="fn-ref" data-fn-id="3" id="fn-ref-3">[3]</sup>'), fn1.raw);
+  assert.ok(fn1.raw.includes('<sup class="fn-ref" data-fn-id="2">[2]</sup>'), fn1.raw);
+  assert.ok(!fn1.raw.includes('[^'), fn1.raw);
 });
 
 test('nested: bracket-colon fractional id ([2.5] inside def [2]) is rewritten', () => {

@@ -6,6 +6,9 @@
   "a-canticle-for-leibowitz-by-walter-m-miller-jr-2024": {
     "skipFetch": true
   },
+  "a-dance-remix-of-chappell-roans-pink-pony-club": {
+    "skipFetch": true
+  },
   "a-history-of-generation-ships-in-science-fiction": {
     "skipFetch": true
   },
@@ -28,6 +31,9 @@
   "antonio-damasios-feeling-knowing-making-minds-conscious": {
     "dropBeforeLineContaining": "I have always been fascinated"
   },
+  "arnold-schoenberg-drei-klavierstucke": {
+    "skipFetch": true
+  },
   "as-little-as-possible-slave-morality-in-chinatown-and-spec-ops-the-line": {
     "skipFetch": true
   },
@@ -36,6 +42,15 @@
     "disableFootnotes": true
   },
   "being-you-a-new-science-of-consciousness-by-anil-seth": {
+    "skipFetch": true
+  },
+  "bite-me-a-review-of-teeth-as-evolutions-leftovers-and-modern-shame": {
+    "skipFetch": true
+  },
+  "black-skin-white-masks": {
+    "skipFetch": true
+  },
+  "bukele": {
     "skipFetch": true
   },
   "candide": {
@@ -364,6 +379,9 @@
   "the-merry-wives-of-windsor": {
     "removeBlanksBeforeMatching": "^>\\s*\\(Act "
   },
+  "the-metaethics-of-joy-suffering-and-artificial-intelligence-with-brian-tomasik-and-david-pearce": {
+    "skipFetch": true
+  },
   "the-outlier": {
     "skipFetch": true
   },
@@ -402,6 +420,9 @@
   "the-son-also-rises": {
     "superscriptFootnotes": true
   },
+  "the-soul-of-karl-friston-1": {
+    "skipFetch": true
+  },
   "the-sovereign-child": {
     "skipFetch": true
   },
@@ -418,6 +439,9 @@
     "skipFetch": true
   },
   "the-tale-of-the-princess-kaguya": {
+    "skipFetch": true
+  },
+  "the-watergate-affair": {
     "skipFetch": true
   },
   "the-weirdest-people-in-the-world": {
@@ -440,6 +464,9 @@
     "skipFetch": true
   },
   "viral": {
+    "skipFetch": true
+  },
+  "we-should-never-have-gone-to-mammoth-caves": {
     "skipFetch": true
   },
   "what-the-buddha-taught-by-walpola-rahula-thero": {
