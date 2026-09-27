@@ -89,7 +89,7 @@ Taiping: You don’t understand. We are on the downswing of Turchin’s secular 
 
 British: Well, if you do that, we’re going to shoot at you.
 
-Taiping: <No response>
+Taiping: \<No response\>
 
 And so, the Taiping attacked Shanghai and got shot at. Platt argues that Western (mostly British) intervention decisively tilted the tide of the war in favor of the Qing, even though it was mostly via indirect means like arms sales and training. Whether the cycle model of history was vindicated is up for debate. The Qing Dynasty limped on for 50 years, but didn’t have the tools to unify the country or project power. From the start of the Taiping Civil War, it would be more than 100 years until the world knew a strong, unified China. In 1909, Japanese Prime Minister Ito Hirobumi told journalists that British intervention in the war, which at that point had been forgotten by the West, was the greatest mistake the British ever made in China.
 

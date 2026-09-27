@@ -47,7 +47,7 @@ Other warnings: this dives into certain aspects of sexuality, so while there are
 
 First we’ll need to do a brief overview of shipping subculture, because there’s some vocabulary and because Lesbian Fanfiction is a subset of the Shipping Subculture. A lot of my examples will be pulled from Harry Potter, because it’s one of the biggest fanfiction communities and because many people are familiar with the characters and setting.
 
-A ‘Ship’, short for ‘relationship’, is a pairing, usually (but not necessarily) of two characters. A ‘Shipper’ is someone who is emotionally invested in the relationship between those two characters and its success. A shipper ‘ships’ (as a verb) those two characters. Relationships between characters are often expressed as <name>/<name>, with the forward slash indicating a romantic relationship. Certain ships possess a ship name; some ships possess multiple names, and then the shippers disagree over the ship name, and another argument is born on the internet.
+A ‘Ship’, short for ‘relationship’, is a pairing, usually (but not necessarily) of two characters. A ‘Shipper’ is someone who is emotionally invested in the relationship between those two characters and its success. A shipper ‘ships’ (as a verb) those two characters. Relationships between characters are often expressed as \<name\>/\<name\>, with the forward slash indicating a romantic relationship. Certain ships possess a ship name; some ships possess multiple names, and then the shippers disagree over the ship name, and another argument is born on the internet.
 
 A ship can be canonical (the relationship happens explicitly in the source material) or noncanonical (the relationship doesn’t explicitly happen in the source material, although it might be hinted at or ‘teased’). This is referred to as a ‘canon’ ship or a ‘noncanon’ ship. Ships can be between any number of characters of any combination of gender identities.
 
@@ -162,7 +162,7 @@ Faith is drawing a heart in her misted breath and looking at Buffy. Definitely s
 
 If this scene happened between a man and a woman, it would clearly be indicative of romantic or sexual subtext, although the show didn’t explore that subtext between Faith and Buffy themselves.
 
-A few short fics of the pairing might appear as someone explores the idea, a small community sprouting up centered around the pairing of the characters. The watershed moment comes when someone writes the “canonical” or “best” fanfic of that pairing, which is then called the <shipname>-bible. The characterizations established in the ship bible then go on to influence the rest of the shipping fandom.
+A few short fics of the pairing might appear as someone explores the idea, a small community sprouting up centered around the pairing of the characters. The watershed moment comes when someone writes the “canonical” or “best” fanfic of that pairing, which is then called the \<shipname\>-bible. The characterizations established in the ship bible then go on to influence the rest of the shipping fandom.
 
 I saw this process happen in real time for the Lightcannon pairing, which ships the two League of Legends characters Jinx and Luxanna Crownguard. The pairing was born from a single frame of a launch trailer for a mobile game:
 

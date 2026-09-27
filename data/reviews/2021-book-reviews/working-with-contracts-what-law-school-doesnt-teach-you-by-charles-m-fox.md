@@ -86,7 +86,7 @@ Second: we don’t have perfect knowledge of the future. When making a precommit
 
 Put those two pieces together, and the picture should feel _very_ familiar to software developers.
 
-The result is that a lawyer’s job ends up involving a lot of the same pieces as a software engineer’s job. A client/manager says “here’s what we want”, the lawyer/programmer says “ummm I don’t think you really want that, because <problem> happens if <circumstance>”, and they go back-and-forth for a while trying to better define what the client/manager really wants. An example from the book pictures a lawyer reviewing a contract with a client (simplified slightly by me):
+The result is that a lawyer’s job ends up involving a lot of the same pieces as a software engineer’s job. A client/manager says “here’s what we want”, the lawyer/programmer says “ummm I don’t think you really want that, because \<problem\> happens if \<circumstance\>”, and they go back-and-forth for a while trying to better define what the client/manager really wants. An example from the book pictures a lawyer reviewing a contract with a client (simplified slightly by me):
 
 > “Lawyer: This is a covenant that restricts your business from incurring debt…
 >
@@ -160,8 +160,8 @@ Sometimes a lender or prospective buyer wants to say “what you normally do is 
 
 Typical examples:
 
-*   “Borrower will not incur any <debt of specific type> except in the ordinary course of business.”
-*   “ABC Corp will not make any payments to <subsidiary> except in a manner consistent with past practice.”
+*   “Borrower will not incur any \<debt of specific type\> except in the ordinary course of business.”
+*   “ABC Corp will not make any payments to \<subsidiary\> except in a manner consistent with past practice.”
 
 In general, this is a pretty good way to let business continue as usual without having to go into all the tiny details of what business-as-usual involves, while still ensuring that e.g. a borrowing company doesn’t sell all their assets, distribute the funds as a dividend to a parent company, and then declare bankruptcy.
 
