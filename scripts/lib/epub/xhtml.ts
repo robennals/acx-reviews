@@ -13,8 +13,30 @@ import { unified } from 'unified';
 import rehypeParse from 'rehype-parse';
 import rehypeStringify from 'rehype-stringify';
 
+// KaTeX emits each formula twice: MathML plus an HTML rendering that
+// only looks right with katex.css. E-readers render the MathML natively
+// and ignore aria-hidden, so without the site CSS both copies show and
+// the HTML one reads as garbled text. Keep only the MathML.
+interface HastNode {
+  type: string;
+  properties?: { className?: unknown };
+  children?: HastNode[];
+}
+
+function isKatexHtml(node: HastNode): boolean {
+  const cls = node.properties?.className;
+  return node.type === 'element' && Array.isArray(cls) && cls.includes('katex-html');
+}
+
+function removeKatexHtml(node: HastNode): void {
+  if (!node.children) return;
+  node.children = node.children.filter((c) => !isKatexHtml(c));
+  node.children.forEach(removeKatexHtml);
+}
+
 const processor = unified()
   .use(rehypeParse, { fragment: true })
+  .use(() => (tree: HastNode) => removeKatexHtml(tree))
   .use(rehypeStringify, {
     closeSelfClosing: true,
     tightSelfClosing: false,

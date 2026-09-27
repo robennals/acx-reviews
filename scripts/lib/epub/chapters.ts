@@ -23,10 +23,18 @@ export function sortEntries<T extends { title: string }>(entries: T[]): T[] {
 
 const IMG_SRC_RE = /<img\b[^>]*?\bsrc="(https?:\/\/[^"]+)"/g;
 
+// rehype-stringify encodes "&" in attribute values (e.g. `&#x26;`), so
+// the raw src text is not a fetchable URL for query-string images like
+// Google Drawings. Decode it before fetching and before map lookups.
+function decodeAmpersands(src: string): string {
+  return src.replace(/&(?:#x26|#38|amp);/gi, '&');
+}
+
 export function collectImageUrls(html: string): string[] {
   const urls: string[] = [];
   for (const m of html.matchAll(IMG_SRC_RE)) {
-    if (!urls.includes(m[1])) urls.push(m[1]);
+    const url = decodeAmpersands(m[1]);
+    if (!urls.includes(url)) urls.push(url);
   }
   return urls;
 }
@@ -34,7 +42,7 @@ export function collectImageUrls(html: string): string[] {
 // rehype-stringify always emits double-quoted attributes, so matching src="…" is safe.
 export function rewriteImageSrcs(html: string, urlToLocal: Map<string, string>): string {
   return html.replace(/src="(https?:\/\/[^"]+)"/g, (m, url: string) => {
-    const local = urlToLocal.get(url);
+    const local = urlToLocal.get(decodeAmpersands(url));
     return local ? `src="${local}"` : m;
   });
 }
