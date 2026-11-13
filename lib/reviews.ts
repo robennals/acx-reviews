@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { Review, Contest, ReviewFootnote } from './types';
-import { parseMarkdown, markdownToHtml } from './markdown';
+import { parseMarkdown, markdownToHtml, renderOptionsFromFrontmatter } from './markdown';
 
 const dataDirectory = path.join(process.cwd(), 'data');
 const reviewsDirectory = path.join(dataDirectory, 'reviews');
@@ -47,10 +47,10 @@ export async function getReviewBySlug(
   try {
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const { content, frontmatter } = parseMarkdown(fileContents);
-    const { html: contentHtml, footnotes } = await markdownToHtml(content, {
-      disableFootnotes: frontmatter?.disableFootnotes === true,
-      superscriptFootnotes: frontmatter?.superscriptFootnotes === true,
-    });
+    const { html: contentHtml, footnotes } = await markdownToHtml(
+      content,
+      renderOptionsFromFrontmatter(frontmatter)
+    );
 
     return {
       ...review,

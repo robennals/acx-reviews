@@ -23,7 +23,7 @@ And it’s a book about ethics, also known as morality, which happens to be quit
 
 There are few books that have a more powerful claim to being a book about life itself.
 
-                                                \*
+* * *
 
 There appears to be some controversy over the actual purpose of an ACX book review. Is it, like a traditional book review, a short piece giving you the flavor of the book and advising you on whether to read it? Is it a detailed summary of the book, so you don’t _have_ to read it? Or is it more of an essay inspired by the book, using it as a springboard for giving you the review writer’s own opinions? I say: why can’t it be all three?
 

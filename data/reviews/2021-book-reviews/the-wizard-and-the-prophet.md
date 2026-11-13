@@ -82,9 +82,7 @@ I guess that’s as close to a steelman as I can get for Prophetry: while we’v
 
 * * *
 
-```
-    I was a Wizard once, but then I took an arrow to the knee. I mean… then COVID-19 happened.  
-```
+> I was a Wizard once, but then I took an arrow to the knee. I mean… then COVID-19 happened.
 
 If you had asked me before March 2020 whether I thought we could science our way out of a slow-grind, long-term disaster scenario like climate change, I would have said categorically yes. As long as we have some Borlaugs out there laser-focusing on the problem, there’s no actual danger that we’ll be constructing Waterworld-style life rafts over the flooded remnants of our formerly glorious civilization. But, uh, I’m no longer so sure.
 

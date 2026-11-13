@@ -130,7 +130,7 @@ In typical fashion, this revealing tapes have locally been described as “Croat
 
 The Tudjman family unsuccessfully sued to have the tapes returned; in the summer of 2002, under pressure to surrender the tapes to the International Criminal Tribunal for Former Yugoslavia in The Hague, the Croatian government made the decision to restrict all access to the documents for a period of 30 years.
 
-                                                      \*
+* * *
 
 You may be wondering why I care so much about the travails of this wild peoples who murdered themselves with so much abandon. After all, like I wrote before, this was mostly their fault. They had a little fire going on and all foreigners did was pour petrol on it. Yes, that didn’t help, but you definitely needed the fire to get the conflagration going.
 

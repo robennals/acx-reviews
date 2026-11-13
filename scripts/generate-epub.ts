@@ -19,7 +19,7 @@ import { spawnSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import JSZip from 'jszip';
-import { parseMarkdown, markdownToHtml } from '../lib/markdown';
+import { parseMarkdown, markdownToHtml, renderOptionsFromFrontmatter } from '../lib/markdown';
 import {
   parseVotingConfigFile,
   isReviewVotable,
@@ -93,8 +93,11 @@ async function main() {
   }> = [];
   for (const [i, entry] of entries.entries()) {
     const mdPath = path.join('data/reviews', contestId, `${entry.slug}.md`);
-    const { content } = parseMarkdown(fs.readFileSync(mdPath, 'utf8'));
-    const { html, footnotes } = await markdownToHtml(content);
+    const { content, frontmatter } = parseMarkdown(fs.readFileSync(mdPath, 'utf8'));
+    const { html, footnotes } = await markdownToHtml(
+      content,
+      renderOptionsFromFrontmatter(frontmatter)
+    );
     const rawBody = buildChapterBody({ title: entry.title, html, footnotes });
     chapters.push({
       slug: entry.slug,
