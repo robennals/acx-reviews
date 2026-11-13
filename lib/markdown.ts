@@ -82,12 +82,31 @@ function escapeFootnoteBangs(md: string): string {
   return md.replace(/!(\[\[?\d+\]\]?\(#ftnt[^)]*\))/g, '\\!$1');
 }
 
+export interface MarkdownRenderOptions {
+  disableFootnotes?: boolean;
+  superscriptFootnotes?: boolean;
+}
+
+/**
+ * Read a review's per-file footnote overrides from its frontmatter. Every
+ * renderer of a review (site pages, ePub) must pass these on, or reviews
+ * flagged `disableFootnotes` get body text pulled out as footnotes.
+ */
+export function renderOptionsFromFrontmatter(
+  frontmatter: Record<string, unknown> | undefined
+): MarkdownRenderOptions {
+  return {
+    disableFootnotes: frontmatter?.disableFootnotes === true,
+    superscriptFootnotes: frontmatter?.superscriptFootnotes === true,
+  };
+}
+
 /**
  * Convert markdown to HTML and extract footnotes
  */
 export async function markdownToHtml(
   markdown: string,
-  opts: { disableFootnotes?: boolean; superscriptFootnotes?: boolean } = {}
+  opts: MarkdownRenderOptions = {}
 ): Promise<{ html: string; footnotes: ReviewFootnote[] }> {
   const { body, footnotes } = opts.disableFootnotes
     ? { body: markdown, footnotes: [] }

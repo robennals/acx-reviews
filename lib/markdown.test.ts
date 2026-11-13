@@ -1,7 +1,7 @@
 // lib/markdown.test.ts
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { markdownToHtml } from './markdown';
+import { markdownToHtml, renderOptionsFromFrontmatter } from './markdown';
 
 // A known-entry stamping test is added in a later task once the dimensions
 // manifest is backfilled. Here we assert the generic guarantee: an image whose
@@ -20,4 +20,14 @@ test('image in the manifest is stamped with display width/height', async () => {
   const { html } = await markdownToHtml(`![pic](${url})`);
   assert.match(html, /<img[^>]+width="704"/);
   assert.match(html, /<img[^>]+height="469"/);
+});
+
+test('renderOptionsFromFrontmatter passes per-review footnote flags on', async () => {
+  const md = 'Body.\n\n[1] Not a footnote, just a list.\n';
+  const off = await markdownToHtml(md, renderOptionsFromFrontmatter({ disableFootnotes: true }));
+  assert.equal(off.footnotes.length, 0);
+  assert.deepEqual(renderOptionsFromFrontmatter(undefined), {
+    disableFootnotes: false,
+    superscriptFootnotes: false,
+  });
 });
