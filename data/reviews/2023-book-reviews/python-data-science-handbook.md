@@ -51,35 +51,27 @@ To get along better with the Spyder defaults. When the book did an update to a p
 
 There is a broadcasting example on 2D point distances that is close enough to be able to adapt to an Advent of Code puzzle I looked at recently, so let’s try it. Advent of Code for 2018, [day 25](https://adventofcode.com/2018/day/25) has a puzzle that needs 4D point distances. Without going through the puzzle here, and just breaking out a part that fits, let’s get all the distances between a set of points and save them. Running with 1098 4D points in a version with just Python for loops gives a time of 518ms
 
+```python
 def distances(points):
-
     pd = dict()
-
     for p in points:
-
-        cur\_distances = []
-
+        cur_distances = []
         for p2 in points:
-
-            cur\_distances.append(get\_dist(p, p2))
-
-        pd[tuple(p)] = cur\_distances
-
+            cur_distances.append(get_dist(p, p2))
+        pd[tuple(p)] = cur_distances
     return(pd)
+```
 
 The version with NumPy and without loops gives a time of 28.8ms
 
+```python
 def distances(points):
-
     # Need a list with a new axis to get the broadcasting to work correctly
-
-    new1d\_points = points[np.newaxis,:,:]
-
-    new2d\_points = points[:,np.newaxis,:]
-
-    point\_differences = abs(new1d\_points - new2d\_points)
-
-    return(np.sum(point\_differences, axis=2))
+    new1d_points = points[np.newaxis,:,:]
+    new2d_points = points[:,np.newaxis,:]
+    point_differences = abs(new1d_points - new2d_points)
+    return(np.sum(point_differences, axis=2))
+```
 
 The description of Boolean masking and the |, &, and, or operations seemed pretty good and internally consistent. If I were to continue the example from “Advent of Code” above, this would allow me to filter the distances that are three or less. I would have liked a few more pages of broadcasting examples and getting things that would be tempting to do with loops into vector operations. I will need to force myself to do some more Advent of Code or other practice using NumPy. A minor complaint is that the prints from the actual console look much nicer than the output in the book. This could be fixed with an update to the Kindle version. Also, more reminders about new objects vs. updating existing ones might be nice.
 

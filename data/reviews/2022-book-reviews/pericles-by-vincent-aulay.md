@@ -28,7 +28,7 @@ A tyrant under most definitions of the term, or at least an obviously precursor 
 
 That this power-hungry manipulator who led his city head-on not only to the most despicable imperialist power politics, but also into a gruelling, pointless, never-ending, destructive, ultimately lost war against Sparta, is commonly cited as the epitome of democracy (1) is perhaps the greatest joke ever played on us by posterity. Pericles is the world’s greatest propaganda construct.
 
-                                                                      \*
+* * *
 
 There’s a huge amount of studies on Athenian democracy, but few recent biographies of Pericles. The most comprehensive modern biography is Vincent Aulay’s prize-winning, French-language “Péricles” (2014), which is pretty conventional in many ways — particularly his persistent attempts to show Pericles in the best possible light and minimize the underlying tensions in Athens and the wider Greek world between the Socratic/Platonic school of philosophers and their sworn enemies, the democrats and Sophists — but still highly informative.
 

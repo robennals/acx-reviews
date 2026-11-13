@@ -28,7 +28,7 @@ Like every other anti-Communist movement, the one in Beijing had started with co
 
 It was at that point, in the night between June 3 and June 4, 1989, that the Chinese regime sent the army to Tiananmen, and blocked the masses’ way out of the Silo.
 
-                                                                                  \*
+* * *
 
 Silo was originally a series of novels about a huge, multi-generational underground bunker where 10,000 people remain holed up for centuries after some sort of catastrophe, evidently a nuclear war, made the Earth’s surface uninhabitable, allegedly. I haven’t read the novels so I can follow the story on TV with my wife and my younger son, a huge sci-fi fan who loves the series.
 
@@ -46,7 +46,7 @@ The rest of the season is dominated by a character named Juliette Nichols: a can
 
 Eventually, Juliette gets her hands on various “relics” from the pre-nukes past, including a hard drive that few even suspect the function of, and becomes convinced that the Silo leadership is lying to everybody, that the cafeteria display is manipulated, and that the surface is again habitable: all they have to do is force their way out of their subterranean dystopia. Her plot is foiled, and she’s pushed outside in a suit, alone: as she walks out, she can see the greenery through the visor of her helmet. End of Season 1.
 
-                                                                                        \*
+* * *
 
 I’ve lived in China for several years, worked for the government (it’s a funny story, not a dark one) and visit the country on a regular basis. For years now, I’ve been telling people that nobody believes in Communism in China, least of all the regime itself; having been a correspondent who is married to the daughter of a diplomat, I’ve talked to top officials and important persons, and to upper-middle-class people, all of whom strike me as extremely Communism-agnostic, to say the least.
 
@@ -62,7 +62,7 @@ The Chinese Silo was much nicer by 1989, but still plenty oppressive. People in 
 
 Like Juliette Nichols, most students who rioted in Tiananmen and refused to keep following The Pact were sons and daughters of this nomenklatura, youngsters from Beijing’s best colleges who were lining up for the next big thing, because they perceived the smell of rot coming out of Zhongnanhai, the Chinese White House. That’s a big reason why the regime was so extremely patient with the movement, and why they waited until the very last minute, when all other avenues to avoid catastrophe had been exhausted, to violently block the airlock.
 
-                                                                                         \*
+* * *
 
 In Season 2 of Silo, Juliette quickly discovers that her visor is giving her a fictitious signal: there’s no greenery outside the airlock, but the wasteland everybody could see from the cafeteria. The Earth’s surface remains uninhabitable. As she wanders around waiting to die, she finds out that there are many other Silos around her and, in fact, the airlock for one of those is partly opened, and surrounded by thousands of bodies: those of the rebels who escaped their Silo, thinking they could survive on the surface, and found out that the Lie of The Pact was the horrible Truth.
 

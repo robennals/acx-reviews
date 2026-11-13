@@ -1,5 +1,6 @@
 import matter from 'gray-matter';
 import { remark } from 'remark';
+import type { Processor } from 'unified';
 import gfm from 'remark-gfm';
 import math from 'remark-math';
 import remarkRehype from 'remark-rehype';
@@ -47,6 +48,18 @@ function rehypeImageDimensions() {
   };
 }
 
+/**
+ * remark plugin: turn off CommonMark's indented code blocks. Reviews are
+ * prose imported from Google Docs and Substack, where a first-line indent
+ * or extra spaces after a list number ("1.      text") are layout, not
+ * code — but CommonMark renders 4+ leading spaces as a monospace code
+ * block. Real code in a review must use ``` fences, which still work.
+ */
+function remarkNoIndentedCode(this: Processor) {
+  const data = this.data();
+  (data.micromarkExtensions ??= []).push({ disable: { null: ['codeIndented'] } });
+}
+
 async function mdToHtml(md: string): Promise<string> {
   // Pipeline: parse markdown (+gfm tables/strikethrough, +math `$..$`
   // and `$$..$$`), convert to HTML, preserve inline HTML (figure/
@@ -63,6 +76,7 @@ async function mdToHtml(md: string): Promise<string> {
     // way via the imageReplacements exception.
     .use(math, { singleDollarTextMath: false })
     .use(gfm)
+    .use(remarkNoIndentedCode)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeKatex)

@@ -22,6 +22,27 @@ test('image in the manifest is stamped with display width/height', async () => {
   assert.match(html, /<img[^>]+height="469"/);
 });
 
+// Google Docs exports carry first-line indents and wide gaps after list
+// numbers; CommonMark would render both as monospace code blocks.
+test('indented prose renders as a paragraph, not a code block', async () => {
+  const { html } = await markdownToHtml('Intro.\n\n     An indented paragraph.\n');
+  assert.doesNotMatch(html, /<pre>|<code>/);
+  assert.match(html, /<p>An indented paragraph\.<\/p>/);
+});
+
+test('list items with a wide gap after the number stay list text', async () => {
+  const { html } = await markdownToHtml('1.      First point.\n\n2.       Second point.\n', {
+    disableFootnotes: true, // a bare trailing numbered list reads as plain-format footnotes
+  });
+  assert.doesNotMatch(html, /<pre>|<code>/);
+  assert.match(html, /<li>\s*<p>First point\.<\/p>/);
+});
+
+test('fenced code still renders as a code block', async () => {
+  const { html } = await markdownToHtml('```\nx = 1\n```\n');
+  assert.match(html, /<pre><code>x = 1\n<\/code><\/pre>/);
+});
+
 test('renderOptionsFromFrontmatter passes per-review footnote flags on', async () => {
   const md = 'Body.\n\n[1] Not a footnote, just a list.\n';
   const off = await markdownToHtml(md, renderOptionsFromFrontmatter({ disableFootnotes: true }));
