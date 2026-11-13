@@ -2,55 +2,55 @@
   {
     "contestId": "2026-book-reviews",
     "name": "2026 Book Reviews",
-    "url": "https://acximages.ennals.org/epubs/acx-2026-book-reviews-d390a21a6afa.epub",
-    "sizeBytes": 38580943,
+    "url": "https://acximages.ennals.org/epubs/acx-2026-book-reviews-5892398a8b29.epub",
+    "sizeBytes": 38763183,
     "entryCount": 162,
     "wordCount": 1006763,
-    "generatedAt": "2026-09-27T16:56:25Z"
+    "generatedAt": "2026-11-13T23:01:04Z"
   },
   {
     "contestId": "2025-non-book-reviews",
     "name": "2025 Non-Book Reviews",
-    "url": "https://acximages.ennals.org/epubs/acx-2025-non-book-reviews-bda9ade68286.epub",
-    "sizeBytes": 54016781,
+    "url": "https://acximages.ennals.org/epubs/acx-2025-non-book-reviews-3daaf83e05c4.epub",
+    "sizeBytes": 54281637,
     "entryCount": 141,
     "wordCount": 698442,
-    "generatedAt": "2026-09-27T16:56:52Z"
+    "generatedAt": "2026-11-13T23:00:41Z"
   },
   {
     "contestId": "2024-book-reviews",
     "name": "2024 Book Reviews",
-    "url": "https://acximages.ennals.org/epubs/acx-2024-book-reviews-42ccb8d0fe5e.epub",
-    "sizeBytes": 37373009,
+    "url": "https://acximages.ennals.org/epubs/acx-2024-book-reviews-cbced058b43d.epub",
+    "sizeBytes": 37446974,
     "entryCount": 154,
     "wordCount": 842553,
-    "generatedAt": "2026-09-27T16:57:11Z"
+    "generatedAt": "2026-11-13T23:00:16Z"
   },
   {
     "contestId": "2023-book-reviews",
     "name": "2023 Book Reviews",
-    "url": "https://acximages.ennals.org/epubs/acx-2023-book-reviews-681a4879081f.epub",
-    "sizeBytes": 29377123,
+    "url": "https://acximages.ennals.org/epubs/acx-2023-book-reviews-708b61505979.epub",
+    "sizeBytes": 29378747,
     "entryCount": 144,
     "wordCount": 738095,
-    "generatedAt": "2026-09-27T16:57:31Z"
+    "generatedAt": "2026-11-13T22:59:59Z"
   },
   {
     "contestId": "2022-book-reviews",
     "name": "2022 Book Reviews",
-    "url": "https://acximages.ennals.org/epubs/acx-2022-book-reviews-c90ed5ec0302.epub",
-    "sizeBytes": 27322965,
+    "url": "https://acximages.ennals.org/epubs/acx-2022-book-reviews-22f6d1248a37.epub",
+    "sizeBytes": 27323339,
     "entryCount": 134,
     "wordCount": 836317,
-    "generatedAt": "2026-09-27T16:57:51Z"
+    "generatedAt": "2026-11-13T22:59:40Z"
   },
   {
     "contestId": "2021-book-reviews",
     "name": "2021 Book Reviews",
-    "url": "https://acximages.ennals.org/epubs/acx-2021-book-reviews-24b6ba374584.epub",
-    "sizeBytes": 7625991,
+    "url": "https://acximages.ennals.org/epubs/acx-2021-book-reviews-02cc8f69804b.epub",
+    "sizeBytes": 8646613,
     "entryCount": 113,
     "wordCount": 524286,
-    "generatedAt": "2026-09-27T16:58:00Z"
+    "generatedAt": "2026-11-13T23:01:57Z"
   }
 ]
